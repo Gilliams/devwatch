@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    { "theme": "php", "themeName": "PHP", "source": "PHP.net", "url": "https://www.php.net/feed.atom" },
+    { "theme": "php", "themeName": "PHP", "source": "stitcher.io", "url": "https://stitcher.io/rss" },
+    { "theme": "symfony", "themeName": "Symfony", "source": "Symfony Blog", "url": "https://feeds.feedburner.com/symfony/blog" },
+    { "theme": "laravel", "themeName": "Laravel", "source": "Laravel News", "url": "https://feed.laravel-news.com/" },
+    { "theme": "vuejs", "themeName": "VueJS", "source": "Vue.js Blog", "url": "https://blog.vuejs.org/feed.rss" },
+    { "theme": "devweb", "themeName": "Développement Web", "source": "MDN Blog", "url": "https://developer.mozilla.org/en-US/blog/rss.xml" },
+    { "theme": "devweb", "themeName": "Développement Web", "source": "web.dev", "url": "https://web.dev/static/blog/feed.xml" },
+    { "theme": "frontend", "themeName": "FrontEnd", "source": "CSS-Tricks", "url": "https://css-tricks.com/feed/" },
+    { "theme": "frontend", "themeName": "FrontEnd", "source": "Frontend Focus", "url": "https://frontendfoc.us/rss" },
+    { "theme": "securite", "themeName": "Sécurité / Hack", "source": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews" },
+    { "theme": "securite", "themeName": "Sécurité / Hack", "source": "PortSwigger Research", "url": "https://portswigger.net/research/rss" },
+    { "theme": "ia", "themeName": "IA", "source": "Simon Willison", "url": "https://simonwillison.net/atom/everything/" },
+    { "theme": "ia", "themeName": "IA", "source": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml" },
+    { "theme": "threed", "themeName": "3D", "source": "Codrops", "url": "https://tympanus.net/codrops/feed/" },
+    { "theme": "database", "themeName": "Bases de données", "source": "Planet PostgreSQL", "url": "https://planet.postgresql.org/rss20.xml" },
+    { "theme": "database", "themeName": "Bases de données", "source": "Percona Blog", "url": "https://www.percona.com/blog/feed/" },
+    { "theme": "devops", "themeName": "DevOps", "source": "Kubernetes Blog", "url": "https://kubernetes.io/feed.xml" },
+    { "theme": "devops", "themeName": "DevOps", "source": "dev.to #devops", "url": "https://dev.to/feed/tag/devops" },
+    { "theme": "patterns", "themeName": "Design Patterns", "source": "Martin Fowler", "url": "https://martinfowler.com/feed.atom" },
+    { "theme": "drupal", "themeName": "Drupal", "source": "Drupal Planet", "url": "https://www.drupal.org/planet/rss.xml" }
+  ]
+}
