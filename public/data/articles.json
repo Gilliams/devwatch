@@ -1,65 +1,115 @@
 {
- "generatedAt": "2026-07-03T09:44:03.561Z",
+ "generatedAt": "2026-07-03T13:07:14.697Z",
  "articles": [
   {
-   "title": "Reclaiming your engineering cycles from the DevOps tax 🛠️",
-   "link": "https://dev.to/upsun/reclaiming-your-engineering-cycles-from-the-devops-tax-1124",
-   "date": "2026-07-03T09:20:15.000Z",
+   "title": "Fulfillment is just another API now",
+   "link": "https://dev.to/codecraft154/fulfillment-is-just-another-api-now-2b08",
+   "date": "2026-07-03T13:06:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you are spending your afternoons debugging VPC peering and RDS maintenance windows instead of shipping code, you are paying a DevOps tax. High-velocity development often hits a wall when the last mile of deployment re",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D757%26type%3Dblog-posts%26size%3Dsocial"
-  },
-  {
-   "title": "What Launch Week Taught Us: Cloud Waste Is an Ownership Problem",
-   "link": "https://dev.to/muskan_8abedcc7e12/what-launch-week-taught-us-cloud-waste-is-an-ownership-problem-3ji8",
-   "date": "2026-07-03T09:19:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR We launched ZopNight, the Technology Value OS for AI, Cloud, and Humans, and reached #3 on the Indie Hackers Build Board. The rankings were nice. The real lesson from launch week: cloud waste survives because no on",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yu5nffxhwcay880ud0k.png"
-  },
-  {
-   "title": "5 Best Sites to Buy Facebook Accounts (PVA & Aged)",
-   "link": "https://dev.to/topsmmonline5145/5-best-sites-to-buy-facebook-accounts-pva-aged-5dn2",
-   "date": "2026-07-03T09:15:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Facebook remains one of the world's most influential social media platforms, offering businesses of every size an opportunity to connect with customers, build brand awareness, and increase sales. While many people look f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs0nrthn5j0qb7figsots.jpeg"
-  },
-  {
-   "title": "Claude has a setting many people leave enabled by default.",
-   "link": "https://dev.to/alexgetmancom/claude-has-a-setting-many-people-leave-enabled-by-default-5dld",
-   "date": "2026-07-03T09:12:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Claude has a setting many people leave enabled by default. It allows Fable → Opus fallback when a safety check is triggered. You can disable it in 3 places: Chat Claude Code Console If the safety check is triggered, Clau",
+   "summary": "For most of software history, the supply chain was the thing nobody wanted to touch. A monolith in the basement. Order in, inventory pulled, package out. It worked fine right up until e-commerce raised the overall demand",
    "image": null
   },
   {
-   "title": "Are You Measuring DevOps Success or Just Counting Deployments?",
-   "link": "https://dev.to/marcom/are-you-measuring-devops-success-or-just-counting-deployments-m3l",
-   "date": "2026-07-03T09:04:00.000Z",
+   "title": "Join Free Demo Generative AI Online Session on June 04th",
+   "link": "https://dev.to/kalyan_visualpath_42cb693/join-free-demo-generative-ai-online-session-on-june-04th-110b",
+   "date": "2026-07-03T12:49:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For years, DevOps success was measured by how quickly teams could release software. More deployments, faster releases, and shorter development cycles became the benchmarks of high-performing engineering organizations. Bu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.pal.tech%2Fwp-content%2Fuploads%2F2023%2F09%2FDevOps-Metrics-1.0.jpg"
+   "summary": "🚀 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗗𝗲𝗺𝗼 𝗦𝗲𝘀𝘀𝗶𝗼𝗻! Unlock the potential of Generative AI with Visualpath Technologies in this FREE live demo session. Explore real-world AI application",
+   "image": null
   },
   {
-   "title": "Day 55 of #100DaysOfClickHouse - Security Best Practices for ClickHouse® Deployments",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-55-of-100daysofclickhouse-security-best-practices-for-clickhouser-deployments-2aad",
-   "date": "2026-07-03T08:59:32.000Z",
+   "title": "Mastering Azure Storage Security: A Hands-On Guide to Controlling Storage Access",
+   "link": "https://dev.to/zainab_oladimeji/mastering-azure-storage-security-a-hands-on-guide-to-controlling-storage-access-13nh",
+   "date": "2026-07-03T12:37:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security Best Practices for ClickHouse® Deployments Introduction As organizations increasingly rely on real-time analytics, the security of analytical databases becomes just as important as their performance. ClickHouse®",
+   "summary": "Introduction. Effective Azure Virtual Machine administration extends beyond deployment. As workloads evolve, administrators must be able to manage VM security, optimize resource utilization, maintain storage, and impleme",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3axgro35nkhzg0eml8nf.png"
+  },
+  {
+   "title": "Best Salesforce DevOps Course | Online Training",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/best-salesforce-devops-course-online-training-11gl",
+   "date": "2026-07-03T12:32:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🚀 𝗥𝗲𝗮𝗱𝘆 𝘁𝗼 𝗕𝘂𝗶𝗹𝗱 𝗮 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹 𝗖𝗮𝗿𝗲𝗲𝗿 𝗶𝗻 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀? ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗟𝗲𝗮𝗿𝗻: 💥 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼 𝗮𝗻𝗱 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗥𝗲",
    "image": null
+  },
+  {
+   "title": "Backup Quest: A Lord of the Rings Adventure",
+   "link": "https://dev.to/timevolt/backup-quest-a-lord-of-the-rings-adventure-324m",
+   "date": "2026-07-03T12:26:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") I still remember the night our production database decided to take an unscheduled nap. It was 2 a.m., the alerts were screaming, and I was staring at a blank screen wondering if I’d just lost",
+   "image": null
+  },
+  {
+   "title": "Top DevOps Tools Every Beginner Should Learn to Start a Career",
+   "link": "https://dev.to/cybersecurity-12/top-devops-tools-every-beginner-should-learn-to-start-a-career-5h3a",
+   "date": "2026-07-03T12:21:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The demand for DevOps professionals continues to grow as organizations increasingly adopt cloud computing, automation, and continuous delivery practices. DevOps bridges the gap between software development and IT operati",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp5rn3ssnyks0jb0wytcj.png"
+  },
+  {
+   "title": "Floor Drees: Meeting in Montreal: Developer U plan(ner) patches",
+   "link": "https://postgr.es/p/9o3",
+   "date": "2026-07-03T12:19:44.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "We wrote about the program we run internally for colleagues who show promise for PostgreSQL development on this blog before. Last week, a good portion of that group met in-person for the 3rd time. A summary of the topics",
+   "image": null
+  },
+  {
+   "title": "Managing Azure Virtual Machines: A Hands-On Guide to Networking, Scaling, Storage, and Auto-Shutdown",
+   "link": "https://dev.to/zainab_oladimeji/managing-azure-virtual-machines-a-hands-on-guide-to-networking-scaling-storage-and-auto-shutdown-5c9j",
+   "date": "2026-07-03T12:15:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction. Managing virtual machines efficiently is an essential skill for anyone working with Microsoft Azure. Beyond simply creating a VM, administrators often need to modify its network configuration, scale its com",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdjuhge7shb2vrxprtv6i.png"
+  },
+  {
+   "title": "Restore Evidence Is the Missing Artifact in Every DR Program",
+   "link": "https://dev.to/ntctech/restore-evidence-is-the-missing-artifact-in-every-dr-program-487m",
+   "date": "2026-07-03T12:13:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Restore evidence is the artifact layer most disaster recovery programs never build — the difference between reporting that a restore succeeded and being able to prove it. Backup restored. Applications started. Users logg",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftu0ic7cq0vlu44ruglok.jpg"
+  },
+  {
+   "title": "Antony Pegg: How to Build a RAG Server on pgEdge Cloud via the API",
+   "link": "https://postgr.es/p/9o2",
+   "date": "2026-07-03T11:15:11.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "This blog is going to show you how to set up your own RAG Server on pgEdge Cloud. The Cloud UI makes this so easy it is almost insulting - a few clicks and you are done - so I am going to show you the harder and more int",
+   "image": "https://a.storyblok.com/f/187930/2606x1550/27cc9e5cab/heres-1.png"
+  },
+  {
+   "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+   "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+   "date": "2026-07-03T11:05:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
   },
   {
    "title": "Thom Brown: LOAD \"PL/CBMBASIC\",8,1: Commodore 64 BASIC for PostgreSQL",
@@ -69,26 +119,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "If you are of a certain age, the words 38911 BASIC BYTES FREE will do something to you that no amount of therapy can undo. You remember the blue screen. You remember typing in three pages of a listing from a magazine, ge",
-   "image": null
-  },
-  {
-   "title": "The MCP Paradox: How to Secure the Agentic Supply Chain",
-   "link": "https://dev.to/agdex_ai/the-mcp-paradox-how-to-secure-the-agentic-supply-chain-4lbm",
-   "date": "2026-07-03T08:40:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Security The MCP Paradox: How to Secure the Agentic Supply Chain Model Context Protocol (MCP) has solved the hardest integration problem in agentic AI — but in doing so, it has created a massive, centralized attack surfa",
-   "image": null
-  },
-  {
-   "title": "The one-click gap nobody was solving: why I built HTML Deployer",
-   "link": "https://dev.to/juliedechili/the-one-click-gap-nobody-was-solving-why-i-built-html-deployer-4016",
-   "date": "2026-07-03T08:31:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The one-click gap nobody was solving: why I built HTML Deployer A few months ago I watched a marketer friend do something that made me wince. She'd spent twenty minutes in ChatGPT crafting a landing page for a product la",
    "image": null
   },
   {
@@ -352,14 +382,14 @@
    "image": null
   },
   {
-   "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-   "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-   "date": "2026-07-02T08:00:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An op",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg"
+   "title": "Hans-Juergen Schoenig: Following a Backup from PostgreSQL to Recovery using pg_hardstorage",
+   "link": "https://postgr.es/p/9o4",
+   "date": "2026-07-02T07:54:43.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "For PostgreSQL administrators, DBAs, SREs, and platform teams, understanding how backup data moves through a system is just as important as knowing when a backup completed successfully. Questions about repository layout,",
+   "image": null
   },
   {
    "title": "The Drop Times: Drupal 11.4.0 Delay Shows Dependency Patch Pressure on Core Releases",
@@ -430,36 +460,6 @@
    "source": "Drupal Planet",
    "summary": "Image Credit: Mike Gifford I spent last week at the UN in New York for Open Source Week. The AI sessions were sharp, well-attended, and full of people who have been thinking seriously about where this is all going. Minis",
    "image": null
-  },
-  {
-   "title": "Ahsan Hadi: Introducing pg-healthcheck: PostgreSQL Health Diagnostics",
-   "link": "https://postgr.es/p/9nX",
-   "date": "2026-07-01T14:18:30.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "After more than 20 years working with PostgreSQL, I keep seeing the same problems surface at the worst possible times - bloat that sneaks up on you, replication slots quietly holding back WAL, transaction ID wraparound t",
-   "image": null
-  },
-  {
-   "title": "Dimitri Fontaine: pgcopydb v0.18",
-   "link": "https://postgr.es/p/9nW",
-   "date": "2026-07-01T14:05:56.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Hot off the press: pgcopydb v0.18 is out! It’s the biggest release the project has had — 88 commits since v0.17, which shipped in August 2024. I took a break from my Open Source responsibilities for a while, because I wa",
-   "image": null
-  },
-  {
-   "title": "warda bibi: Inside a PostgreSQL Checkpointer Bug: A Production Postmortem",
-   "link": "https://postgr.es/p/9nV",
-   "date": "2026-07-01T13:17:09.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "One of our client’s PostgreSQL 16.8 production databases started logging what looked like a memory error: ERROR: invalid memory alloc request size The error immediately pointed toward two likely suspects: Memory exhausti",
-   "image": "http://stormatics.tech/wp-content/uploads/2026/07/pg_checkpointer_infinite_retry_loop-scaled.webp"
   },
   {
    "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
