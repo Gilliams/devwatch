@@ -17,7 +17,7 @@ const NB_QUESTIONS = isRandom ? 12 : 8
 const questions = ref(pickQuestions(themeId, NB_QUESTIONS))
 
 const current = ref(0)
-const selected = ref(null)
+const selected = ref(null) // index numérique | 'idk' | null
 const revealed = ref(false)
 const score = ref(0)
 const finished = ref(false)
@@ -104,9 +104,29 @@ const verdict = computed(() => {
         {{ choice }}
       </button>
 
+      <button
+        class="quiz-option idk"
+        :class="{ selected: selected === 'idk' && !revealed, picked: revealed && selected === 'idk' }"
+        @click="choose('idk')"
+      >
+        🤷 Je ne sais pas — montre-moi la réponse et explique
+      </button>
+
       <div v-if="revealed" class="explanation">
-        <strong>{{ selected === q.answer ? '✅ Correct !' : '❌ Raté.' }}</strong>
-        {{ q.explain }}
+        <template v-if="selected === q.answer">
+          <strong>✅ Correct !</strong> {{ q.explain }}
+        </template>
+        <template v-else-if="selected === 'idk'">
+          <strong>🤷 Aucun souci — mieux vaut l'apprendre ici qu'en entretien.</strong>
+          <p style="margin: 0.6rem 0 0.4rem"><strong>La bonne réponse :</strong> {{ q.choices[q.answer] }}</p>
+          <p style="margin: 0">{{ q.explain }}</p>
+        </template>
+        <template v-else>
+          <strong>❌ Raté.</strong> {{ q.explain }}
+        </template>
+
+        <p v-if="q.why" class="why-line small">🎯 <strong>Pourquoi c'est important :</strong> {{ q.why }}</p>
+        <a v-if="q.doc" :href="q.doc" target="_blank" rel="noopener" class="doc-link small">📖 Approfondir dans la documentation →</a>
       </div>
 
       <div class="mt">

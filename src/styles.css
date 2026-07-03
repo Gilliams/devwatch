@@ -10,8 +10,8 @@
   --green: #3fb950;
   --red: #f85149;
   --orange: #d29922;
-  --radius: 10px;
-  font-size: 15px;
+  --radius: 0.7rem;
+  font-size: 15px; /* base du rem : tout le reste est fluide */
 }
 
 * { box-sizing: border-box; }
@@ -31,7 +31,7 @@ a:hover { text-decoration: underline; }
 
 /* ---- Sidebar ---- */
 .sidebar {
-  width: 220px;
+  width: 14.5rem;
   flex-shrink: 0;
   background: var(--bg2);
   border-right: 1px solid var(--border);
@@ -64,10 +64,12 @@ a:hover { text-decoration: underline; }
 .sidebar .spacer { flex: 1; }
 .sidebar .sync-badge { font-size: 0.75rem; color: var(--muted); padding: 0 0.8rem; }
 
+/* Contenu fluide : occupe toute la largeur disponible, en rem */
 main.content {
   flex: 1;
+  min-width: 0;
+  width: 100%;
   padding: 2rem 2.5rem;
-  max-width: 1100px;
 }
 
 h1 { font-size: 1.6rem; margin: 0 0 0.4rem; }
@@ -82,20 +84,73 @@ h2 { font-size: 1.15rem; margin: 1.5rem 0 0.8rem; }
   padding: 1.1rem 1.3rem;
   margin-bottom: 1rem;
 }
-.card.clickable { cursor: pointer; transition: border-color 0.15s; }
-.card.clickable:hover { border-color: var(--accent); }
+.card.clickable { cursor: pointer; transition: border-color 0.15s, transform 0.15s; }
+.card.clickable:hover { border-color: var(--accent); transform: translateY(-0.1rem); }
 
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 1rem; }
+
+/* Grille d'articles de veille : 4-5 colonnes sur grand écran, fluide */
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+  gap: 1rem;
+}
+.article-card {
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  border-top: 3px solid var(--border);
+}
+.article-card .thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: var(--bg3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  overflow: hidden;
+}
+.article-card .thumb img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.article-card .article-body {
+  padding: 0.85rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex: 1;
+}
+.article-card .article-body a.title { font-weight: 600; line-height: 1.35; }
+.article-card .summary {
+  margin: 0;
+  font-size: 0.83rem;
+  color: var(--muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+.article-card.is-read { opacity: 0.45; }
 
 .badge {
   display: inline-block;
   padding: 0.1rem 0.6rem;
-  border-radius: 20px;
+  border-radius: 1.4rem;
   font-size: 0.75rem;
   font-weight: 600;
   background: var(--bg3);
   color: var(--muted);
   border: 1px solid var(--border);
+  white-space: nowrap;
 }
 .badge.accent { color: var(--accent); border-color: var(--accent); }
 .badge.green { color: var(--green); border-color: var(--green); }
@@ -132,8 +187,14 @@ input[type='text'], input[type='password'], input[type='email'], input[type='num
 }
 textarea.sql-input {
   font-family: 'Cascadia Code', Consolas, monospace;
-  min-height: 110px;
+  min-height: 7.5rem;
   resize: vertical;
+}
+textarea.notes-area {
+  min-height: 8rem;
+  resize: vertical;
+  font-size: 0.88rem;
+  line-height: 1.55;
 }
 input:focus, textarea:focus, select:focus { outline: none; border-color: var(--accent); }
 
@@ -154,7 +215,7 @@ table.result-table {
 }
 .result-table th { background: var(--bg3); color: var(--accent); position: sticky; top: 0; }
 .result-table tr:nth-child(even) td { background: rgba(255, 255, 255, 0.02); }
-.table-scroll { overflow: auto; max-height: 340px; border-radius: var(--radius); }
+.table-scroll { overflow: auto; max-height: 23rem; border-radius: var(--radius); }
 
 /* ---- Quiz ---- */
 .quiz-option {
@@ -169,6 +230,13 @@ table.result-table {
 .quiz-option.selected { border-color: var(--accent); background: rgba(88, 166, 255, 0.08); }
 .quiz-option.correct { border-color: var(--green); background: rgba(63, 185, 80, 0.1); }
 .quiz-option.wrong { border-color: var(--red); background: rgba(248, 81, 73, 0.1); }
+.quiz-option.idk {
+  border-style: dashed;
+  color: var(--muted);
+  font-style: italic;
+}
+.quiz-option.idk.selected { border-color: var(--orange); color: var(--text); background: rgba(210, 153, 34, 0.08); }
+.quiz-option.idk.picked { border-color: var(--orange); background: rgba(210, 153, 34, 0.1); font-style: normal; }
 
 .explanation {
   background: rgba(88, 166, 255, 0.06);
@@ -178,14 +246,24 @@ table.result-table {
   margin-top: 1rem;
   font-size: 0.92rem;
 }
+.explanation .why-line {
+  margin: 0.6rem 0 0.4rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--border);
+}
+.doc-link {
+  display: inline-block;
+  margin-top: 0.3rem;
+  font-weight: 600;
+}
 
-.progress-bar { height: 8px; background: var(--bg3); border-radius: 4px; overflow: hidden; margin: 0.6rem 0 1.2rem; }
+.progress-bar { height: 0.55rem; background: var(--bg3); border-radius: 0.3rem; overflow: hidden; margin: 0.6rem 0 1.2rem; }
 .progress-bar > div { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); transition: width 0.3s; }
 
 code, pre {
   font-family: 'Cascadia Code', Consolas, monospace;
   background: var(--bg3);
-  border-radius: 5px;
+  border-radius: 0.35rem;
   font-size: 0.87em;
 }
 code { padding: 0.1em 0.4em; }
@@ -197,6 +275,7 @@ pre code { background: none; padding: 0; }
 .muted { color: var(--muted); }
 .small { font-size: 0.85rem; }
 .mt { margin-top: 1rem; }
+
 .hint-box {
   background: rgba(210, 153, 34, 0.07);
   border-left: 3px solid var(--orange);
@@ -214,6 +293,34 @@ pre code { background: none; padding: 0; }
   font-size: 0.9rem;
   font-family: Consolas, monospace;
 }
+
+/* ---- Boîte à outils SQL (concepts + doc) ---- */
+details.toolbox {
+  margin-top: 0.8rem;
+  background: rgba(188, 140, 255, 0.05);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.9rem;
+}
+details.toolbox summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent2);
+  font-size: 0.9rem;
+}
+.concept {
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.88rem;
+}
+.concept:first-of-type { border-top: none; }
+.concept .concept-name { color: var(--accent2); font-weight: 700; }
+.concept pre { margin: 0.4rem 0; font-size: 0.8rem; }
+
+details.solution-details summary { cursor: pointer; color: var(--muted); }
+
+.step-recap pre { margin: 0.3rem 0 1rem; }
 
 @media (max-width: 800px) {
   #app { flex-direction: column; }

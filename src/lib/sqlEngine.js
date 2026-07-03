@@ -27,13 +27,13 @@ export async function createDatabase(setupSql) {
   return db
 }
 
-// Exécute une requête et renvoie { columns, rows } ou { error }
+// Exécute une ou plusieurs requêtes (séparées par ;) et renvoie tous les
+// jeux de résultats : { sets: [{ columns, rows }] } ou { error }
 export function runQuery(db, sql) {
   try {
     const results = db.exec(sql)
-    if (!results.length) return { columns: [], rows: [], empty: true }
-    const { columns, values } = results[results.length - 1]
-    return { columns, rows: values }
+    if (!results.length) return { sets: [], empty: true }
+    return { sets: results.map((r) => ({ columns: r.columns, rows: r.values })) }
   } catch (e) {
     return { error: e.message }
   }

@@ -15,6 +15,22 @@ export function questionsFor(themeId) {
   return QUESTION_BANKS[themeId] || []
 }
 
+function shuffle(arr) {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
+// Anti-triche : l'ordre des choix est remélangé à chaque session,
+// la position de la bonne réponse change donc à chaque fois.
+function shuffleChoices(q) {
+  const order = shuffle(q.choices.map((_, i) => i))
+  return { ...q, choices: order.map((i) => q.choices[i]), answer: order.indexOf(q.answer) }
+}
+
 // n questions mélangées d'un thème (ou de tous les thèmes si themeId === 'random')
 export function pickQuestions(themeId, n) {
   let pool
@@ -23,6 +39,5 @@ export function pickQuestions(themeId, n) {
   } else {
     pool = questionsFor(themeId).map((q) => ({ ...q, theme: themeId }))
   }
-  const shuffled = [...pool].sort(() => Math.random() - 0.5)
-  return shuffled.slice(0, Math.min(n, shuffled.length))
+  return shuffle(pool).slice(0, Math.min(n, pool.length)).map(shuffleChoices)
 }

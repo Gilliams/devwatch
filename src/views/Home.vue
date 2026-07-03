@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, onMounted } from 'vue'
 import { state } from '../stores/progress.js'
-import { THEMES, themeById } from '../data/themes.js'
+import { THEMES, themeById, themeColor } from '../data/themes.js'
 import { dueThemes, themeStatus, masteryLabel } from '../lib/spaced.js'
 import { SQL_CASES } from '../data/sqlCases/index.js'
 
@@ -76,7 +76,7 @@ onMounted(async () => {
   <div v-for="a in articles" :key="a.link" class="card">
     <div class="flex-between">
       <a :href="a.link" target="_blank" rel="noopener">{{ a.title }}</a>
-      <span class="badge accent">{{ a.themeName }}</span>
+      <span class="badge" :style="{ color: themeColor(a.theme), borderColor: themeColor(a.theme) }">{{ a.themeName }}</span>
     </div>
     <div class="small muted">{{ a.source }} · {{ new Date(a.date).toLocaleDateString('fr-FR') }}</div>
   </div>

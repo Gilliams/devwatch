@@ -109,6 +109,7 @@ INSERT INTO temoignages VALUES
       placeholder: 'ex : 20:15',
       answer: ['21:40', '21h40'],
       mode: 'exact',
+      concepts: ['where', 'like', 'between'],
       hints: [
         'La table `pannes_cameras` contient une colonne `salle_id` et des horodatages `debut` / `fin`.',
         "Filtre sur la salle 3 ET sur la date du 15 juin : la table contient d'autres pannes pour te piéger.",
@@ -124,6 +125,7 @@ INSERT INTO temoignages VALUES
       placeholder: 'un nombre',
       answer: ['3'],
       mode: 'exact',
+      concepts: ['between', 'agregats', 'join'],
       hints: [
         "La table `acces_badges` a une colonne `sens` ('entree'/'sortie') et `salle_id`.",
         "Compare `horodatage` avec BETWEEN '2026-06-15 21:40' AND '2026-06-15 22:10' — les timestamps sont des chaînes triables.",
@@ -140,6 +142,7 @@ INSERT INTO temoignages VALUES
       placeholder: 'un nombre',
       answer: ['2'],
       mode: 'exact',
+      concepts: ['leftjoin', 'antijointure', 'sousrequete'],
       hints: [
         'Joins `acces_badges` avec `plannings` sur employe_id + jour, en LEFT JOIN pour repérer les absents du planning.',
         "Attention : être planifié de 10:00 à 17:00 ne couvre PAS 21:40. Compare heure_debut <= '21:40' AND heure_fin >= '21:40'.",
@@ -157,6 +160,7 @@ INSERT INTO temoignages VALUES
       answer: ['moreau'],
       mode: 'contains',
       final: true,
+      concepts: ['join', 'orderby'],
       hints: [
         'Relis les témoignages (`SELECT * FROM temoignages`) puis regarde qui a badgé à la sortie de service (salle 5) autour de 22h05.',
         "Emma est ressortie par le hall à 22:01. Qui est resté en salle 3 jusqu'à 22:04, puis a filé vers la salle 5 ?",

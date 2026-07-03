@@ -115,6 +115,7 @@ INSERT INTO logs_admin VALUES
       placeholder: 'ID du compte',
       answer: ['707'],
       mode: 'exact',
+      concepts: ['groupby', 'having', 'between', 'agregats'],
       hints: [
         'Cherche dans `transactions` les montants entre 9 000 et 9 999,99 — puis regarde vers OÙ ils vont.',
         "Un virement isolé sous le seuil est banal (regarde le compte 999). Le motif suspect, c'est la RÉPÉTITION vers un même destinataire : GROUP BY compte_dest HAVING COUNT(*) >= 3.",
@@ -130,6 +131,7 @@ INSERT INTO logs_admin VALUES
       placeholder: 'un nombre',
       answer: ['6'],
       mode: 'exact',
+      concepts: ['distinct', 'agregats'],
       hints: [
         'Repars des transactions vers le compte 707.',
         'COUNT(DISTINCT ...) est ton ami.',
@@ -146,6 +148,7 @@ INSERT INTO logs_admin VALUES
       placeholder: 'un mot',
       answer: ['dormant', 'dormants'],
       mode: 'exact',
+      concepts: ['join', 'sousrequete', 'distinct'],
       hints: [
         'Joins les comptes sources avec la table `comptes` et regarde leurs colonnes.',
         'Compare aussi `derniere_activite` : ces comptes bougeaient-ils avant juin 2026 ?',
@@ -162,6 +165,7 @@ INSERT INTO logs_admin VALUES
       placeholder: 'ex : 12000',
       answer: ['57500', '57 500', '57500.00', '57500€'],
       mode: 'exact',
+      concepts: ['agregats', 'join'],
       hints: [
         "Cherche les transactions dont la SOURCE est 707.",
         "Le compte 999 représente les virements sortants de la banque (IBAN 'EXTERNE').",
@@ -179,6 +183,7 @@ INSERT INTO logs_admin VALUES
       answer: ['kerbrat'],
       mode: 'contains',
       final: true,
+      concepts: ['dates', 'join', 'groupby'],
       hints: [
         "Cherche les actions 'reactivation' dans logs_admin sur les 6 comptes sources. Attention : David Cohen a aussi réactivé le compte 121... mais en mai, pour un contrôle légitime.",
         "Joins logs_admin et transactions sur le compte, avec une condition temporelle : la réactivation doit précéder le virement de moins de 2 heures.",

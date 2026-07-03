@@ -8,12 +8,35 @@ import { fileURLToPath } from 'node:url'
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const { feeds } = JSON.parse(readFileSync(join(root, 'scripts/feeds.json'), 'utf8'))
 
-const parser = new Parser({ timeout: 15000, headers: { 'User-Agent': 'DevWatch/1.0 (veille perso)' } })
+const parser = new Parser({
+  timeout: 15000,
+  headers: { 'User-Agent': 'DevWatch/1.0 (veille perso)' },
+  customFields: {
+    item: [
+      ['media:content', 'mediaContent', { keepArray: true }],
+      ['media:thumbnail', 'mediaThumbnail'],
+      ['content:encoded', 'contentEncoded'],
+    ],
+  },
+})
 const MAX_PER_FEED = 8
 const MAX_AGE_DAYS = 45
 
 function stripHtml(html = '') {
   return html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim()
+}
+
+// Image de preview : enclosure RSS, media:content/thumbnail, ou premier <img> du contenu
+function extractImage(item) {
+  const enc = item.enclosure
+  if (enc?.url && /image|\.(png|jpe?g|webp|gif)([?#]|$)/i.test(enc.type || enc.url)) return enc.url
+  const mc = (item.mediaContent || []).find((m) => m?.$?.url && (m.$.medium === 'image' || /image/.test(m.$.type || '') || /\.(png|jpe?g|webp|gif)/i.test(m.$.url)))
+  if (mc) return mc.$.url
+  if (item.mediaThumbnail?.$?.url) return item.mediaThumbnail.$.url
+  const html = item.contentEncoded || item['content:encoded'] || item.content || ''
+  const m = String(html).match(/<img[^>]+src=["']([^"']+)["']/i)
+  if (m && /^https?:\/\//.test(m[1])) return m[1]
+  return null
 }
 
 const articles = []
@@ -32,6 +55,7 @@ for (const feed of feeds) {
         themeName: feed.themeName,
         source: feed.source,
         summary: stripHtml(item.contentSnippet || item.summary || '').slice(0, 220),
+        image: extractImage(item),
       })
     }
     console.log(`✔ ${feed.source} (${parsed.items?.length ?? 0} items)`)

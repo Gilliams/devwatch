@@ -1,77 +1,135 @@
 {
- "generatedAt": "2026-07-02T22:36:34.291Z",
+ "generatedAt": "2026-07-03T09:44:03.561Z",
  "articles": [
   {
-   "title": "Two routes in an evening: from a debug worker to an enterprise runtime with redb.Route + Tsak",
-   "link": "https://dev.to/rinat_kozin/two-routes-in-an-evening-from-a-debug-worker-to-an-enterprise-runtime-with-redbroute-tsak-m8k",
-   "date": "2026-07-02T22:31:42.000Z",
+   "title": "Reclaiming your engineering cycles from the DevOps tax 🛠️",
+   "link": "https://dev.to/upsun/reclaiming-your-engineering-cycles-from-the-devops-tax-1124",
+   "date": "2026-07-03T09:20:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Series: redb ecosystem Integration code has a funny asymmetry to it. Writing a couple of routes — \"take an HTTP request, stash it in a database, hand something back\" — is a half-hour job. But getting that same thing to r"
+   "summary": "If you are spending your afternoons debugging VPC peering and RDS maintenance windows instead of shipping code, you are paying a DevOps tax. High-velocity development often hits a wall when the last mile of deployment re",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D757%26type%3Dblog-posts%26size%3Dsocial"
   },
   {
-   "title": "Your Vibe-Coded App Works in the Demo. Here Are the 12 Things That Break in Production.",
-   "link": "https://dev.to/erik_anderson_c41dbafd423/your-vibe-coded-app-works-in-the-demo-here-are-the-12-things-that-break-in-production-2db5",
-   "date": "2026-07-02T22:15:04.000Z",
+   "title": "What Launch Week Taught Us: Cloud Waste Is an Ownership Problem",
+   "link": "https://dev.to/muskan_8abedcc7e12/what-launch-week-taught-us-cloud-waste-is-an-ownership-problem-3ji8",
+   "date": "2026-07-03T09:19:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your AI tool built the app in a weekend. Lovable, Bolt, Cursor, v0, Replit — they are genuinely good at getting from an idea to something that runs. Then you try to put real users on it, and the same handful of things br"
+   "summary": "TL;DR We launched ZopNight, the Technology Value OS for AI, Cloud, and Humans, and reached #3 on the Indie Hackers Build Board. The rankings were nice. The real lesson from launch week: cloud waste survives because no on",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3yu5nffxhwcay880ud0k.png"
   },
   {
-   "title": "Surviving CoreWeave: the GPU failures that burn your hours",
-   "link": "https://dev.to/jeremy_longshore/surviving-coreweave-the-gpu-failures-that-burn-your-hours-1233",
-   "date": "2026-07-02T22:13:15.000Z",
+   "title": "5 Best Sites to Buy Facebook Accounts (PVA & Aged)",
+   "link": "https://dev.to/topsmmonline5145/5-best-sites-to-buy-facebook-accounts-pva-aged-5dn2",
+   "date": "2026-07-03T09:15:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your 64-GPU job just threw Xid 94. Reschedule, or is the node dead? It comes down to one bit, and most people get it wrong. They see \"memory error,\" panic, drain the whole node, and lose an hour babysitting a machine tha"
+   "summary": "Facebook remains one of the world's most influential social media platforms, offering businesses of every size an opportunity to connect with customers, build brand awareness, and increase sales. While many people look f",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs0nrthn5j0qb7figsots.jpeg"
   },
   {
-   "title": "PamStealer: the macOS stealer that checks your password through PAM before stealing it",
-   "link": "https://dev.to/kkierii/pamstealer-the-macos-stealer-that-checks-your-password-through-pam-before-stealing-it-4abj",
-   "date": "2026-07-02T22:09:52.000Z",
+   "title": "Claude has a setting many people leave enabled by default.",
+   "link": "https://dev.to/alexgetmancom/claude-has-a-setting-many-people-leave-enabled-by-default-5dld",
+   "date": "2026-07-03T09:12:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Someone double-clicks what they think is Maccy, a clipboard manager, and gets a macOS password prompt: \"Maccy wants to make changes.\" They type it in. Most infostealers would grab whatever you typed and run. This one val"
+   "summary": "Claude has a setting many people leave enabled by default. It allows Fable → Opus fallback when a safety check is triggered. You can disable it in 3 places: Chat Claude Code Console If the safety check is triggered, Clau",
+   "image": null
   },
   {
-   "title": "I built a production risk scanner in one day, here's what it caught",
-   "link": "https://dev.to/mk_c/i-built-a-production-risk-scanner-in-one-day-heres-what-it-caught-1ad1",
-   "date": "2026-07-02T22:02:42.000Z",
+   "title": "Are You Measuring DevOps Success or Just Counting Deployments?",
+   "link": "https://dev.to/marcom/are-you-measuring-devops-success-or-just-counting-deployments-m3l",
+   "date": "2026-07-03T09:04:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you're an SRE or DevOps engineer — try blastradar.vercel.app and tell me what you actually think. The tool BlastRadar scores any code diff for production risk — paste a diff, get a 1-10 score, a plain English explanat"
+   "summary": "For years, DevOps success was measured by how quickly teams could release software. More deployments, faster releases, and shorter development cycles became the benchmarks of high-performing engineering organizations. Bu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.pal.tech%2Fwp-content%2Fuploads%2F2023%2F09%2FDevOps-Metrics-1.0.jpg"
   },
   {
-   "title": "There's no \"cheapest model.\" There's a cheapest token shape.",
-   "link": "https://dev.to/modelin_409b9ef89fbc/theres-no-cheapest-model-theres-a-cheapest-token-shape-3c88",
-   "date": "2026-07-02T21:39:01.000Z",
+   "title": "Day 55 of #100DaysOfClickHouse - Security Best Practices for ClickHouse® Deployments",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-55-of-100daysofclickhouse-security-best-practices-for-clickhouser-deployments-2aad",
+   "date": "2026-07-03T08:59:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every time someone asks how to cut their LLM bill, the first question is \"which model is cheapest?\" The number you're guessing at controls your bill Take a customer support scenario. Same everything, and I only change on"
+   "summary": "Security Best Practices for ClickHouse® Deployments Introduction As organizations increasingly rely on real-time analytics, the security of analytical databases becomes just as important as their performance. ClickHouse®",
+   "image": null
   },
   {
-   "title": "Subagent Teams Need Handoff Receipts",
-   "link": "https://dev.to/keesan/subagent-teams-need-handoff-receipts-3558",
-   "date": "2026-07-02T21:38:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The first time agent teams work well, it feels like cheating. You give one agent the main task. You spin up another to inspect the codebase. Another checks tests. Another looks for edge cases. One researches docs. One wr"
+   "title": "Thom Brown: LOAD \"PL/CBMBASIC\",8,1: Commodore 64 BASIC for PostgreSQL",
+   "link": "https://postgr.es/p/9o1",
+   "date": "2026-07-03T08:50:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "If you are of a certain age, the words 38911 BASIC BYTES FREE will do something to you that no amount of therapy can undo. You remember the blue screen. You remember typing in three pages of a listing from a magazine, ge",
+   "image": null
   },
   {
-   "title": "DevOps Success Mindset",
-   "link": "https://dev.to/rubi_cloud/devops-success-mindset-hpo",
-   "date": "2026-07-02T21:37:08.000Z",
+   "title": "The MCP Paradox: How to Secure the Agentic Supply Chain",
+   "link": "https://dev.to/agdex_ai/the-mcp-paradox-how-to-secure-the-agentic-supply-chain-4lbm",
+   "date": "2026-07-03T08:40:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The DevOps Mindset: Build Yourself Before You Build Systems We often measure growth in DevOps by the tools we know namely Docker, Kubernetes, Terraform, GitHub Actions, Ansible, cloud platforms, and everything in between"
+   "summary": "Security The MCP Paradox: How to Secure the Agentic Supply Chain Model Context Protocol (MCP) has solved the hardest integration problem in agentic AI — but in doing so, it has created a massive, centralized attack surfa",
+   "image": null
+  },
+  {
+   "title": "The one-click gap nobody was solving: why I built HTML Deployer",
+   "link": "https://dev.to/juliedechili/the-one-click-gap-nobody-was-solving-why-i-built-html-deployer-4016",
+   "date": "2026-07-03T08:31:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The one-click gap nobody was solving: why I built HTML Deployer A few months ago I watched a marketer friend do something that made me wince. She'd spent twenty minutes in ChatGPT crafting a landing page for a product la",
+   "image": null
+  },
+  {
+   "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+   "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+   "date": "2026-07-03T08:03:37.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
+  },
+  {
+   "title": "Henrietta Dombrovskaya: Estonia PUG Meetup",
+   "link": "https://postgr.es/p/9o0",
+   "date": "2026-07-03T04:31:36.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Yesterday, I had the pleasure of presenting at the Postgres User Group Estonia, and that was a delightful experience! Many thanks to Ervin Weber, who literally spent three years trying to make it happen. I was happy to g",
+   "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_nestloop",
+   "link": "https://postgr.es/p/9n_",
+   "date": "2026-07-03T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Nested loop joins are PostgreSQL's most notorious performance disaster—but only when the planner misestimates row counts.",
+   "image": null
+  },
+  {
+   "title": "PHP 8.5.8 Released!",
+   "link": "https://www.php.net/index.php#2026-07-02-5",
+   "date": "2026-07-02T19:55:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.5.8. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.8 please visit our , Wi",
+   "image": null
   },
   {
    "title": "llm-coding-agent 0.1a0",
@@ -80,7 +138,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Pyt"
+   "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Pyt",
+   "image": null
   },
   {
    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -89,7 +148,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GT"
+   "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GT",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
   },
   {
    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
@@ -98,7 +158,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common p"
+   "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
   },
   {
    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
@@ -107,7 +168,18 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts One of this morning's AIE keynotes covered dspy , which reminded me I've been meaning to see if it could help me improve the system p"
+   "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts One of this morning's AIE keynotes covered dspy , which reminded me I've been meaning to see if it could help me improve the system p",
+   "image": null
+  },
+  {
+   "title": "PHP 8.4.23 Released!",
+   "link": "https://www.php.net/index.php#2026-07-02-4",
+   "date": "2026-07-02T17:24:56.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.23. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.23 please visit our , ",
+   "image": null
   },
   {
    "title": "Understand to participate",
@@ -116,7 +188,28 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct"
+   "summary": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Alpha 1 available for testing",
+   "link": "https://www.php.net/index.php#2026-07-02-3",
+   "date": "2026-07-02T17:00:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first testing release of PHP 8.6.0, Alpha 1. This starts the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Alpha",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.32 Released!",
+   "link": "https://www.php.net/index.php#2026-07-02-2",
+   "date": "2026-07-02T16:38:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.32. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.32 please visit our , ",
+   "image": null
   },
   {
    "title": "Nextide Blog: Someone Has to Hold the State: Maestro's Place in Drupal's Orchestration Stack",
@@ -125,7 +218,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Randy Kolenko, partner and senior architect at Nextide, recently joined the Drupal Orchestration Initiative with Jurgen Haas, Shibin Das and Dries Buytaert. The Orchestration Initiative is still in its infancy, however, "
+   "summary": "Randy Kolenko, partner and senior architect at Nextide, recently joined the Drupal Orchestration Initiative with Jurgen Haas, Shibin Das and Dries Buytaert. The Orchestration Initiative is still in its infancy, however, ",
+   "image": null
   },
   {
    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
@@ -134,7 +228,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds "
+   "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg"
   },
   {
    "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
@@ -143,7 +238,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers f"
+   "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers f",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
   },
   {
    "title": "Commune: A Private Community for Founders and Builders",
@@ -152,7 +248,8 @@
    "theme": "laravel",
    "themeName": "Laravel",
    "source": "Laravel News",
-   "summary": "Commune is a gamified social platform for builders to share what they’re working on, connect with other founders, and launch their projects. The post Commune: A Private Community for Founders and Builders appeared first "
+   "summary": "Commune is a gamified social platform for builders to share what they’re working on, connect with other founders, and launch their projects. The post Commune: A Private Community for Founders and Builders appeared first ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/commune-a-private-community-for-founders-and-builders.png"
   },
   {
    "title": "Laravel AI Tasks: An AI Orchestration Package for Queues, Logging, and Cost Control",
@@ -161,7 +258,8 @@
    "theme": "laravel",
    "themeName": "Laravel",
    "source": "Laravel News",
-   "summary": "Laravel AI Tasks is a package by fomvasss that wraps the Laravel AI SDK with reusable task classes, queued and streamed execution, cost tracking, and a built-in dashboard. The post Laravel AI Tasks: An AI Orchestration P"
+   "summary": "Laravel AI Tasks is a package by fomvasss that wraps the Laravel AI SDK with reusable task classes, queued and streamed execution, cost tracking, and a built-in dashboard. The post Laravel AI Tasks: An AI Orchestration P",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-ai-tasks-featured.jpg"
   },
   {
    "title": "Case Study: Driving Green Innovation: How Symfony Empowered Veolia’s Digital Shift in Industrial Waste Management",
@@ -170,7 +268,18 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "When dealing with over 10 million tons of hazardous waste every year, IT operational efficiency is a prerquisite and a critical environmental and public health responsibility As the European leader in treating hazardous "
+   "summary": "When dealing with over 10 million tons of hazardous waste every year, IT operational efficiency is a prerquisite and a critical environmental and public health responsibility As the European leader in treating hazardous ",
+   "image": "https://symfony.com/uploads/assets/blog/logo.svg"
+  },
+  {
+   "title": "PHP 8.2.32 Released!",
+   "link": "https://www.php.net/index.php#2026-07-02-1",
+   "date": "2026-07-02T12:03:54.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.2.32. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.32 please visit our , ",
+   "image": null
   },
   {
    "title": "Why Percona Backup for MongoDB Is the Right Choice for Production Backups",
@@ -179,7 +288,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When you’re running MongoDB in production, backups are non-negotiable. But not all backup strategies are equal. The gap between a good backup strategy and a bad one only becomes visible at the worst possible moment: when"
+   "summary": "When you’re running MongoDB in production, backups are non-negotiable. But not all backup strategies are equal. The gap between a good backup strategy and a bad one only becomes visible at the worst possible moment: when",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
   },
   {
    "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
@@ -188,7 +298,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments,"
+   "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg"
   },
   {
    "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
@@ -197,7 +308,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "How years of refining my workflow became a headless foundation other developers can build on."
+   "summary": "How years of refining my workflow became a headless foundation other developers can build on.",
+   "image": null
   },
   {
    "title": "Drupal Core News: Use Rector on your Drupal site easier than ever with new Composer-based sets",
@@ -206,7 +318,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "As of Rector 2.5, Composer-based sets now support Drupal! This allows you to automate version-specific custom code upgrades seamlessly. Instead of manually adding dozens of configuration sets and keeping your list up to "
+   "summary": "As of Rector 2.5, Composer-based sets now support Drupal! This allows you to automate version-specific custom code upgrades seamlessly. Instead of manually adding dozens of configuration sets and keeping your list up to ",
+   "image": null
   },
   {
    "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
@@ -215,7 +328,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handl"
+   "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirfJNnWRTyyKkXeatZdtLvMsQhba-L0J9yuyASwy4T-6nlbGWnkEl0FUBVO8wS6je9Hc9wPdu01JJ0TETOa1jOjQelGiJY3ZrvsJzFIqpr_gbEvv5F4lnQrJWxTHbpYM6ah6sPJbQ63XtdxlOcFy7KZ06S69LW2escSgSAM-ycKZCqttjAZEcHJ_sO9DdQ/s1600/ai-agent-ransomware.jpg"
   },
   {
    "title": "DrupalCon News & Updates: Digital Sovereignty Starts with Technical Choices",
@@ -224,7 +338,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Digital sovereignty often sounds abstract but, in practice, it comes down to technical decisions: where data is stored, who controls the platform, how systems are maintained over time, and how much privacy, transparency,"
+   "summary": "Digital sovereignty often sounds abstract but, in practice, it comes down to technical decisions: where data is stored, who controls the platform, how systems are maintained over time, and how much privacy, transparency,",
+   "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/54856059802_e9041ab0fb_c.jpg?itok=jEmUrv8V"
   },
   {
    "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
@@ -233,7 +348,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "Upstream MySQL published an out-of-schedule release this week with two high-severity CVE fixes. If you’re running Percona Server for MySQL 5.7 or 8.0 under Extended Lifecycle Support (ELS), the program we previously call"
+   "summary": "Upstream MySQL published an out-of-schedule release this week with two high-severity CVE fixes. If you’re running Percona Server for MySQL 5.7 or 8.0 under Extended Lifecycle Support (ELS), the program we previously call",
+   "image": null
   },
   {
    "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
@@ -242,16 +358,8 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An op"
-  },
-  {
-   "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-   "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-   "date": "2026-07-02T07:24:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that clai"
+   "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An op",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg"
   },
   {
    "title": "The Drop Times: Drupal 11.4.0 Delay Shows Dependency Patch Pressure on Core Releases",
@@ -260,7 +368,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Release timing is often treated as calendar work, but the 11.4.0 delay exposed a dependency problem beneath the schedule. The fix changes how selected Composer dependencies can move when security updates land."
+   "summary": "Release timing is often treated as calendar work, but the 11.4.0 delay exposed a dependency problem beneath the schedule. The fix changes how selected Composer dependencies can move when security updates land.",
+   "image": null
   },
   {
    "title": "mandclu: Alias Your Local DDEV Commands",
@@ -269,7 +378,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Alias Your Local DDEV Commands mandclu Jul 2, 2026 - 1:19am Like a lot of other people in the Drupal community, I exclusively use DDEV for local development. I am regularly impressed by the breadth of features it offers "
+   "summary": "Alias Your Local DDEV Commands mandclu Jul 2, 2026 - 1:19am Like a lot of other people in the Drupal community, I exclusively use DDEV for local development. I am regularly impressed by the breadth of features it offers ",
+   "image": null
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_mergejoin",
@@ -278,7 +388,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
-   "summary": "Merge join shines when data is already sorted by an index, but stumbles when it has to pay for a sort first."
+   "summary": "Merge join shines when data is already sorted by an index, but stumbles when it has to pay for a sort first.",
+   "image": null
   },
   {
    "title": "Zhang Chen: Extreme Rescue: PostgreSQL Full-File Ransomware Recovery at Epic Difficulty",
@@ -287,7 +398,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
-   "summary": "A field report on recovering core PostgreSQL tables after all database files were encrypted by ransomware and the system catalogs were unusable. With only test-environment DDL available, PDU dropscan was adapted to match"
+   "summary": "A field report on recovering core PostgreSQL tables after all database files were encrypted by ransomware and the system catalogs were unusable. With only test-environment DDL available, PDU dropscan was adapted to match",
+   "image": null
   },
   {
    "title": "PreviousNext: Our contributions to Drupal 11.4 - and the 11.x journey so far",
@@ -296,7 +408,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Drupal 11.4 is here. Several features landing in this cycle, and across the broader 11.x series, trace back to ideas we explored in contrib first. Worth noting too: Drupal major releases don't introduce new features. The"
+   "summary": "Drupal 11.4 is here. Several features landing in this cycle, and across the broader 11.x series, trace back to ideas we explored in contrib first. Worth noting too: Drupal major releases don't introduce new features. The",
+   "image": null
   },
   {
    "title": "Drupal blog: Drupal 11.4.0 is now available",
@@ -305,7 +418,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "The fourth feature release of Drupal 11 is another performance breakthrough. Using only a third of the database and cache lookups compared to Drupal 11.0 and 10.6 for the same requests. It also comes with 15-25% better c"
+   "summary": "The fourth feature release of Drupal 11 is another performance breakthrough. Using only a third of the database and cache lookups compared to Drupal 11.0 and 10.6 for the same requests. It also comes with 15-25% better c",
+   "image": null
   },
   {
    "title": "Drupal AI Initiative: The UN Spent a Week Describing Drupal",
@@ -314,7 +428,8 @@
    "theme": "drupal",
    "themeName": "Drupal",
    "source": "Drupal Planet",
-   "summary": "Image Credit: Mike Gifford I spent last week at the UN in New York for Open Source Week. The AI sessions were sharp, well-attended, and full of people who have been thinking seriously about where this is all going. Minis"
+   "summary": "Image Credit: Mike Gifford I spent last week at the UN in New York for Open Source Week. The AI sessions were sharp, well-attended, and full of people who have been thinking seriously about where this is all going. Minis",
+   "image": null
   },
   {
    "title": "Ahsan Hadi: Introducing pg-healthcheck: PostgreSQL Health Diagnostics",
@@ -323,7 +438,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
-   "summary": "After more than 20 years working with PostgreSQL, I keep seeing the same problems surface at the worst possible times - bloat that sneaks up on you, replication slots quietly holding back WAL, transaction ID wraparound t"
+   "summary": "After more than 20 years working with PostgreSQL, I keep seeing the same problems surface at the worst possible times - bloat that sneaks up on you, replication slots quietly holding back WAL, transaction ID wraparound t",
+   "image": null
   },
   {
    "title": "Dimitri Fontaine: pgcopydb v0.18",
@@ -332,7 +448,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
-   "summary": "Hot off the press: pgcopydb v0.18 is out! It’s the biggest release the project has had — 88 commits since v0.17, which shipped in August 2024. I took a break from my Open Source responsibilities for a while, because I wa"
+   "summary": "Hot off the press: pgcopydb v0.18 is out! It’s the biggest release the project has had — 88 commits since v0.17, which shipped in August 2024. I took a break from my Open Source responsibilities for a while, because I wa",
+   "image": null
   },
   {
    "title": "warda bibi: Inside a PostgreSQL Checkpointer Bug: A Production Postmortem",
@@ -341,7 +458,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
-   "summary": "One of our client’s PostgreSQL 16.8 production databases started logging what looked like a memory error: ERROR: invalid memory alloc request size The error immediately pointed toward two likely suspects: Memory exhausti"
+   "summary": "One of our client’s PostgreSQL 16.8 production databases started logging what looked like a memory error: ERROR: invalid memory alloc request size The error immediately pointed toward two likely suspects: Memory exhausti",
+   "image": "http://stormatics.tech/wp-content/uploads/2026/07/pg_checkpointer_infinite_retry_loop-scaled.webp"
   },
   {
    "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
@@ -350,7 +468,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization."
+   "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization.",
+   "image": null
   },
   {
    "title": "Worker Metrics on the WorkerStopping Event in Laravel 13.18",
@@ -359,16 +478,8 @@
    "theme": "laravel",
    "themeName": "Laravel",
    "source": "Laravel News",
-   "summary": "Laravel 13.18.0 exposes jobs-processed counts on the WorkerStopping event, adds graceful shutdown to schedule:work, introduces priority-based dev command registration, and hardens the Number helpers against INF/NAN. The "
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_material and enable_memoize",
-   "link": "https://postgr.es/p/9nS",
-   "date": "2026-07-01T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Materialize buffers rows unconditionally; Memoize caches them by key. Same goal, opposite mechanisms—and both deserve a closer look."
+   "summary": "Laravel 13.18.0 exposes jobs-processed counts on the WorkerStopping event, adds graceful shutdown to schedule:work, introduces priority-based dev command registration, and hardens the Number helpers against INF/NAN. The ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "The select element, sized just right",
@@ -377,7 +488,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r"
+   "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -386,16 +498,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
-  },
-  {
-   "title": "Zhang Chen: The PostgreSQL Feature That Makes Data Recovery Painful",
-   "link": "https://postgr.es/p/9nT",
-   "date": "2026-07-01T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Starting from a ransomware recovery case, this article explains how PostgreSQL single-file-per-relation storage can make catalog recovery especially difficult, and compares that exposure with MySQL and Oracle."
+   "summary": "",
+   "image": null
   },
   {
    "title": "Quoting Anthropic",
@@ -404,7 +508,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic , on Twitter Tags: "
+   "summary": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic , on Twitter Tags: ",
+   "image": null
   },
   {
    "title": "Nano Banana 2 Lite",
@@ -413,16 +518,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run"
-  },
-  {
-   "title": "Stefanie Janine Stölting: pgsql_tweaks Version 1.0.5 Released",
-   "link": "https://postgr.es/p/9nU",
-   "date": "2026-06-30T22:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "pgsql_tweaks is a bundle of functions and views for PostgreSQL Changes In The pgsql_tweaks 1.0.5 Release pgsql_tweaks is a bundle of functions and views for PostgreSQL The source code is available on Codeberg. The extens"
+   "summary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run",
+   "image": null
   },
   {
    "title": "What's new in Claude Sonnet 5",
@@ -431,7 +528,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement p"
+   "summary": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement p",
+   "image": null
   },
   {
    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
@@ -440,7 +538,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "The AI Compass",
@@ -449,7 +548,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time "
+   "summary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time ",
+   "image": null
   },
   {
    "title": "Have your agent record video demos of its work with shot-scraper video",
@@ -458,7 +558,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that ro"
+   "summary": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that ro",
+   "image": null
   },
   {
    "title": "Why Specialization Is Inevitable",
@@ -467,7 +568,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "Community Docker Images: keeping the operator open without a vendor registry lock-in",
@@ -476,7 +578,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "PostgreSQL community images address a real gap in how a Kubernetes database operator earns your trust. Running a database operator on Kubernetes means trusting two things: the code, and the container images the operator "
+   "summary": "PostgreSQL community images address a real gap in how a Kubernetes database operator earns your trust. Running a database operator on Kubernetes means trusting two things: the code, and the container images the operator ",
+   "image": "https://www.percona.com/wp-content/uploads/2026/06/MDES-1088-Blog-image-Percona-Operator-for-PostgreSQL-V3.0.0-hero-1-1024x375.jpg"
   },
   {
    "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
@@ -485,7 +588,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import"
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
   },
   {
    "title": "Debugging with Ephemeral Containers",
@@ -494,7 +598,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "Debugging applications in Kubernetes can be tricky. Containers are designed to be small, immutable, and purpose-built. That is great for production, but not always ideal when something breaks. Many production images are "
+   "summary": "Debugging applications in Kubernetes can be tricky. Containers are designed to be small, immutable, and purpose-built. That is great for production, but not always ideal when something breaks. Many production images are ",
+   "image": null
   },
   {
    "title": "Why I haven’t run my databases on Kubernetes",
@@ -503,7 +608,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "A few years ago, if there was a discussion on “Should we run databases on Kubernetes?”, there were more people saying no than yes. One of the common answers was, “No. Kubernetes is for stateless workloads. Keep your data"
+   "summary": "A few years ago, if there was a discussion on “Should we run databases on Kubernetes?”, there were more people saying no than yes. One of the common answers was, “No. Kubernetes is for stateless workloads. Keep your data",
+   "image": null
   },
   {
    "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
@@ -512,7 +618,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router."
+   "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
+   "image": null
   },
   {
    "title": "Clonio CLI: Clone Production Databases With Anonymized Data",
@@ -521,7 +628,8 @@
    "theme": "laravel",
    "themeName": "Laravel",
    "source": "Laravel News",
-   "summary": "A PHP command-line tool that copies production databases into development, CI, and test environments while anonymizing PII and recording a signed audit trail. The post Clonio CLI: Clone Production Databases With Anonymiz"
+   "summary": "A PHP command-line tool that copies production databases into development, CI, and test environments while anonymizing PII and recording a signed audit trail. The post Clonio CLI: Clone Production Databases With Anonymiz",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/clonio-featured (1).png"
   },
   {
    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -530,7 +638,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "DiScoFormer: One transformer for density and score, across distributions",
@@ -539,7 +648,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "Skipping Percona Server for MySQL 8.4.9 and 9.7.0",
@@ -548,7 +658,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "Update, July 1, 2026: Percona Server for MySQL 8.4.10-10 is now available. It carries the content originally planned for 8.4.9 plus the upstream security fixes. See the 8.4.10-10 release notes. 9.7.1 is still on the way;"
+   "summary": "Update, July 1, 2026: Percona Server for MySQL 8.4.10-10 is now available. It carries the content originally planned for 8.4.9 plus the upstream security fixes. See the 8.4.10-10 release notes. 9.7.1 is still on the way;",
+   "image": null
   },
   {
    "title": "The Shifting Line Between CSS States and JavaScript Events",
@@ -557,7 +668,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li"
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
   },
   {
    "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
@@ -566,7 +678,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "A behind-the-scenes look at how editorial composition, purposeful motion, and minimalist design create a portfolio that lets cinematic CGI take the spotlight."
+   "summary": "A behind-the-scenes look at how editorial composition, purposeful motion, and minimalist design create a portfolio that lets cinematic CGI take the spotlight.",
+   "image": null
   },
   {
    "title": "A Week of Symfony #1017 (June 22–28, 2026)",
@@ -575,7 +688,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "This week, maintenance versions 6.4.42, 7.4.14, 8.0.14, and 8.1.1 were released. In addition, development activity for the upcoming Symfony 8.2 version was intense, adding new features such as a Cron constraint for valid"
+   "summary": "This week, maintenance versions 6.4.42, 7.4.14, 8.0.14, and 8.1.1 were released. In addition, development activity for the upcoming Symfony 8.2 version was intense, adding new features such as a Cron constraint for valid",
+   "image": null
   },
   {
    "title": "Ship AI with Laravel: Test Your AI System with Zero API Calls",
@@ -584,7 +698,8 @@
    "theme": "laravel",
    "themeName": "Laravel",
    "source": "Laravel News",
-   "summary": "We've built agents, tools, a knowledge base, and streaming. Now how do you test it without hitting OpenAI on every run? In this episode we test the entire system with Pest and zero API calls using the SDK's faking system"
+   "summary": "We've built agents, tools, a knowledge base, and streaming. Now how do you test it without hitting OpenAI on every run? In this episode we test the entire system with Pest and zero API calls using the SDK's faking system",
+   "image": null
   },
   {
    "title": "Symfony 8.1.1 released",
@@ -593,7 +708,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "Symfony 8.1.1 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…"
+   "summary": "Symfony 8.1.1 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
   },
   {
    "title": "Symfony 8.0.14 released",
@@ -602,7 +718,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "Symfony 8.0.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…"
+   "summary": "Symfony 8.0.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
   },
   {
    "title": "Symfony 7.4.14 released",
@@ -611,7 +728,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "Symfony 7.4.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…"
+   "summary": "Symfony 7.4.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
   },
   {
    "title": "Symfony 6.4.42 released",
@@ -620,7 +738,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "Symfony 6.4.42 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…"
+   "summary": "Symfony 6.4.42 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
   },
   {
    "title": "Open source maintainership in the age of AI",
@@ -629,7 +748,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha"
+   "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha",
+   "image": null
   },
   {
    "title": "SymfonyOnline June 2026: Replays are available!",
@@ -638,7 +758,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "Two weeks ago, we wrapped up another fantastic edition of SymfonyOnline, and we are still buzzing from the energy! 🎉 Our pre-conference workshops (June 9-10) focused on Symfony and AI, expertly led by Stiven Llupa and G"
+   "summary": "Two weeks ago, we wrapped up another fantastic edition of SymfonyOnline, and we are still buzzing from the energy! 🎉 Our pre-conference workshops (June 9-10) focused on Symfony and AI, expertly led by Stiven Llupa and G",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png"
   },
   {
    "title": "Engineering the Web Experience Behind Shopify’s Spring ’26 Edition: Everywhere",
@@ -647,7 +768,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere."
+   "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere.",
+   "image": null
   },
   {
    "title": "Run a vLLM Server on HF Jobs in One Command",
@@ -656,7 +778,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "Introducing the Cluster API plugin for Headlamp",
@@ -665,7 +788,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources directly from a browser. Cluster API (CAPI) is a Kubernetes sub-project that brings declar"
+   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources directly from a browser. Cluster API (CAPI) is a Kubernetes sub-project that brings declar",
+   "image": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/cluster-api-dashboard.png"
   },
   {
    "title": "Inspect Volcano workloads faster with Headlamp",
@@ -674,7 +798,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "Volcano is a cloud native batch scheduler for Kubernetes, built for high-performance computing, AI/ML, and other batch workloads. Headlamp is an extensible Kubernetes web UI. With its plugin system, Headlamp can surface "
+   "summary": "Volcano is a cloud native batch scheduler for Kubernetes, built for high-performance computing, AI/ML, and other batch workloads. Headlamp is an extensible Kubernetes web UI. With its plugin system, Headlamp can surface ",
+   "image": "https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/volcano-jobs-list.png"
   },
   {
    "title": "See your serverless: introducing the Headlamp plugin for Knative",
@@ -683,7 +808,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,"
+   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,",
+   "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
    "title": "translateZ()",
@@ -692,7 +818,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well."
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1"
   },
   {
    "title": "translateY()",
@@ -701,7 +828,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well."
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
   },
   {
    "title": "translateX()",
@@ -710,7 +838,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well."
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/s_94397AB2C9D282B1C64AD8782FA74B7FBE105F79E31213B340BF4A9C4995557F_1612947653028_NewProject2.jpg?resize=1024%2C340&#038;ssl=1"
   },
   {
    "title": "translate()",
@@ -719,7 +848,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well."
+   "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/a8e040142716a4b44d014d80fbcf99c635b1d8faabfe469b6954a8ef2f168595.jpg?resize=80%2C80&#038;ssl=1"
   },
   {
    "title": "Shaping Stories into Experience: The Work of Kevin Lam",
@@ -728,7 +858,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "A spotlight on Brisbane-based designer Kevin Lam, and his practice of turning brand stories into soulful experiences across digital, print and motion."
+   "summary": "A spotlight on Brisbane-based designer Kevin Lam, and his practice of turning brand stories into soulful experiences across digital, print and motion.",
+   "image": null
   },
   {
    "title": "Spotlight on WG Device Management",
@@ -737,7 +868,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This inclu"
+   "summary": "The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This inclu",
+   "image": null
   },
   {
    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
@@ -746,7 +878,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "Testing What Users Actually See with Vitest and Chromatic",
@@ -755,7 +888,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "Add fast, stable visual testing to your Browser Mode component tests"
+   "summary": "Add fast, stable visual testing to your Browser Mode component tests",
+   "image": null
   },
   {
    "title": "CSS that picks its own readable text color",
@@ -764,7 +898,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​747 — June 24, 2026 | Read on the web Modern CSS Theming with light-dark(), contrast-color(), and Style Queries — Get dark mode, automatic readable text, and per-component palettes, all from a single "
+   "summary": "🚀 Frontend Focus #​747 — June 24, 2026 | Read on the web Modern CSS Theming with light-dark(), contrast-color(), and Style Queries — Get dark mode, automatic readable text, and per-component palettes, all from a single ",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/g8kuyjhhkl9o8cmpbaqx.jpg"
   },
   {
    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
@@ -773,7 +908,8 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
-   "summary": ""
+   "summary": "",
+   "image": null
   },
   {
    "title": "Podium: Building a Website Where Running Becomes Storytelling",
@@ -782,7 +918,8 @@
    "theme": "threed",
    "themeName": "3D",
    "source": "Codrops",
-   "summary": "How we designed and built a portfolio that preserves cinematic storytelling through rhythm, motion, and restraint."
+   "summary": "How we designed and built a portfolio that preserves cinematic storytelling through rhythm, motion, and restraint.",
+   "image": null
   },
   {
    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
@@ -791,7 +928,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fall"
+   "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fall",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1"
   },
   {
    "title": "A Week of Symfony #1016 (June 15–21, 2026)",
@@ -800,7 +938,8 @@
    "theme": "symfony",
    "themeName": "Symfony",
    "source": "Symfony Blog",
-   "summary": "This week, the Symfony book published its update for Symfony 8.1 in multiple languages. Meanwhile, we completed the New in Symfony 8.1 series, continued the New in Twig 4.0 series with articles about the sandbox and expr"
+   "summary": "This week, the Symfony book published its update for Symfony 8.1 in multiple languages. Meanwhile, we completed the New in Symfony 8.1 series, continued the New in Twig 4.0 series with articles about the sandbox and expr",
+   "image": null
   },
   {
    "title": "A First Look at Scroll-Triggered Animations",
@@ -809,7 +948,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
-   "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations. A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the new"
+   "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations. A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the new",
+   "image": null
   },
   {
    "title": "Security advisory: CVE-2026-9740 and CVE-2026-11933 in Percona Server for MongoDB",
@@ -818,7 +958,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "TL;DR: This advisory covers the two most important high-severity memory-safety vulnerabilities affecting MongoDB Community and our downstream Percona Server for MongoDB – CVE-2026-11933 and CVE-2026-9740. Both will be ad"
+   "summary": "TL;DR: This advisory covers the two most important high-severity memory-safety vulnerabilities affecting MongoDB Community and our downstream Percona Server for MongoDB – CVE-2026-11933 and CVE-2026-9740. Both will be ad",
+   "image": "https://www.percona.com/wp-content/uploads/2026/06/blog-hero-June-2026-1024x576.png"
   },
   {
    "title": "The scope superpower hiding in CSS @function",
@@ -827,7 +968,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​746 — June 17, 2026 | Read on the web Introducing the MDN MCP Server — Bring MDN’s docs and browser compatibility data straight into an AI agent or IDE for accurate, up-to-date answers about the web p"
+   "summary": "🚀 Frontend Focus #​746 — June 17, 2026 | Read on the web Introducing the MDN MCP Server — Bring MDN’s docs and browser compatibility data straight into an AI agent or IDE for accurate, up-to-date answers about the web p",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/uqqo8fwjphal6xmofqme.jpg"
   },
   {
    "title": "Fragments: June 16",
@@ -836,7 +978,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, frie"
+   "summary": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young. Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, frie",
+   "image": null
   },
   {
    "title": "Building Reliable Agentic AI Systems",
@@ -845,7 +988,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang"
+   "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang",
+   "image": null
   },
   {
    "title": "Extending pt-archiver with a Partition-Aware Plug-in for Fast Retention Policy Enforcement",
@@ -854,7 +998,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "Managing data retention policies is one of the most common operational tasks in MySQL. Applications continuously generate transactional, audit, logging, telemetry, and event data. Over time, these tables can grow to bill"
+   "summary": "Managing data retention policies is one of the most common operational tasks in MySQL. Applications continuously generate transactional, audit, logging, telemetry, and event data. Over time, these tables can grow to bill",
+   "image": null
   },
   {
    "title": "Introducing the MDN MCP server",
@@ -863,7 +1008,8 @@
    "theme": "devweb",
    "themeName": "Développement Web",
    "source": "MDN Blog",
-   "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information."
+   "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
+   "image": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png"
   },
   {
    "title": "Spotlight on SIG Storage",
@@ -872,7 +1018,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project moving forward. This time, we catch up with SIG Storage, the group responsible for persistent data, volume management, "
+   "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project moving forward. This time, we catch up with SIG Storage, the group responsible for persistent data, volume management, ",
+   "image": null
   },
   {
    "title": "Safari's 58 new features",
@@ -881,7 +1028,8 @@
    "theme": "frontend",
    "themeName": "FrontEnd",
    "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​745 — June 10, 2026 | Read on the web What's New in WebKit in Safari 27 Beta — Apple’s WWDC is taking place this week, and Safari 27, coming to iPhone, iPad, and Mac users later this year, is now in b"
+   "summary": "🚀 Frontend Focus #​745 — June 10, 2026 | Read on the web What's New in WebKit in Safari 27 Beta — Apple’s WWDC is taking place this week, and Safari 27, coming to iPhone, iPad, and Mac users later this year, is now in b",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1781086714/ijwbpjbnhyh9glsma25i.jpg"
   },
   {
    "title": "PHP 8.4.22 Released!",
@@ -890,7 +1038,8 @@
    "theme": "php",
    "themeName": "PHP",
    "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W"
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W",
+   "image": null
   },
   {
    "title": "PHP 8.5.7 Released!",
@@ -899,7 +1048,8 @@
    "theme": "php",
    "themeName": "PHP",
    "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.7. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.7 please visit our , Win"
+   "summary": "The PHP development team announces the immediate availability of PHP 8.5.7. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.7 please visit our , Win",
+   "image": null
   },
   {
    "title": "Fragments: June  2",
@@ -908,7 +1058,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whet"
+   "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whet",
+   "image": null
   },
   {
    "title": "From Kubernetes Dashboard to Headlamp: Understanding the Transition",
@@ -917,7 +1068,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "For many people, Kubernetes Dashboard was their first window into Kubernetes. It offered a simple visual way to see what was running in a cluster, inspect resources, and build confidence without relying on the command li"
+   "summary": "For many people, Kubernetes Dashboard was their first window into Kubernetes. It offered a simple visual way to see what was running in a cluster, inspect resources, and build confidence without relying on the command li",
+   "image": "https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/view-workloads-resources-2.png"
   },
   {
    "title": "Laracon US 2026",
@@ -926,7 +1078,8 @@
    "theme": "php",
    "themeName": "PHP",
    "source": "PHP.net",
-   "summary": "Join Laravel and PHP developers from around the world for two days of world-class talks, hands-on learning, and community connection. Come ready to level up, leave ready to ship. Plus an after party, VIP dinner, and are "
+   "summary": "Join Laravel and PHP developers from around the world for two days of world-class talks, hands-on learning, and community connection. Come ready to level up, leave ready to ship. Plus an after party, VIP dinner, and are ",
+   "image": null
   },
   {
    "title": "New to the web platform in May",
@@ -935,7 +1088,8 @@
    "theme": "devweb",
    "themeName": "Développement Web",
    "source": "web.dev",
-   "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026."
+   "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
+   "image": null
   },
   {
    "title": "Fragments: May 27",
@@ -944,7 +1098,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our exper"
+   "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our exper",
+   "image": "https://martinfowler.com/img/catalog/2025-goto-kent.png"
   },
   {
    "title": "The test suite as a regression sensor",
@@ -953,7 +1108,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…"
+   "summary": "Birgitta Böckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…",
+   "image": null
   },
   {
    "title": "The VibeSec Reckoning",
@@ -962,7 +1118,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Vibe coding has significantly accelerated software prototyping but AI agents frequently recommend insecure configurations, creating security problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi Ruth Edeokoh"
+   "summary": "Vibe coding has significantly accelerated software prototyping but AI agents frequently recommend insecure configurations, creating security problems. Gautam Koul, Lucian Moss, Neil Drew-Lopez, and Daberechi Ruth Edeokoh",
+   "image": null
   },
   {
    "title": "April 2026 Baseline monthly digest",
@@ -971,7 +1128,8 @@
    "theme": "devweb",
    "themeName": "Développement Web",
    "source": "web.dev",
-   "summary": "Read about various happenings with Baseline during April 2026."
+   "summary": "Read about various happenings with Baseline during April 2026.",
+   "image": null
   },
   {
    "title": "Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs",
@@ -980,7 +1138,8 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "The Kubernetes project relies on transparency to empower cluster administrators and security researchers. One important way we do that is by publishing CVE records into the Common Vulnerabilities and Exposures database. "
+   "summary": "The Kubernetes project relies on transparency to empower cluster administrators and security researchers. One important way we do that is by publishing CVE records into the Common Vulnerabilities and Exposures database. ",
+   "image": null
   },
   {
    "title": "Bliki: Vibe Coding",
@@ -989,7 +1148,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Vibe coding is building a software application by prompting an LLM, telling it what to build, trying it out, prompting for changes - but without looking at any of the code that the LLM generates. This technique can be us"
+   "summary": "Vibe coding is building a software application by prompting an LLM, telling it what to build, trying it out, prompting for changes - but without looking at any of the code that the LLM generates. This technique can be us",
+   "image": null
   },
   {
    "title": "Three more static code analysis sensors",
@@ -998,7 +1158,8 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the ru"
+   "summary": "Birgitta Böckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the ru",
+   "image": null
   },
   {
    "title": "Talking to the new Ecosystem AI Security Engineer",
@@ -1007,7 +1168,8 @@
    "theme": "php",
    "themeName": "PHP",
    "source": "stitcher.io",
-   "summary": "Read the full post on https://stitcher.io/blog/php-ecosystem-security-team"
+   "summary": "Read the full post on https://stitcher.io/blog/php-ecosystem-security-team",
+   "image": null
   }
  ]
 }

@@ -1,8 +1,10 @@
 import galerie from './galerie.js'
 import neobanque from './neobanque.js'
+import streamfest from './streamfest.js'
+import zephyr from './zephyr.js'
 import datacore from './datacore.js'
 
-export const SQL_CASES = [galerie, neobanque, datacore]
+export const SQL_CASES = [galerie, streamfest, zephyr, neobanque, datacore]
 
 export function caseById(id) {
   return SQL_CASES.find((c) => c.id === id)

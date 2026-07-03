@@ -1,7 +1,7 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 import { state } from '../stores/progress.js'
-import { THEMES } from '../data/themes.js'
+import { THEMES, themeColor, themeIcon } from '../data/themes.js'
 
 const articles = ref([])
 const loading = ref(true)
@@ -31,10 +31,18 @@ const filtered = computed(() =>
   })
 )
 
+function isRead(link) {
+  return state.readArticles.includes(link)
+}
+
 function toggleRead(link) {
   const i = state.readArticles.indexOf(link)
   if (i >= 0) state.readArticles.splice(i, 1)
   else state.readArticles.push(link)
+}
+
+function markReadOnOpen(link) {
+  if (!isRead(link)) state.readArticles.push(link)
 }
 </script>
 
@@ -46,21 +54,20 @@ function toggleRead(link) {
   </p>
 
   <div class="flex" style="margin-bottom: 1.2rem">
-    <select v-model="filter" style="max-width: 260px">
+    <select v-model="filter" style="max-width: 18rem">
       <option value="all">Tous les thèmes</option>
       <option v-for="t in THEMES" :key="t.id" :value="t.id">{{ t.icon }} {{ t.name }}</option>
     </select>
-    <input type="text" v-model="search" placeholder="Rechercher un titre…" style="max-width: 300px" />
+    <input type="text" v-model="search" placeholder="Rechercher un titre…" style="max-width: 20rem" />
     <label style="margin: 0; display: flex; align-items: center; gap: 0.4rem; cursor: pointer">
       <input type="checkbox" v-model="hideRead" style="width: auto" /> masquer les lus
     </label>
+    <span class="small muted">{{ filtered.length }} article(s)</span>
   </div>
 
   <p v-if="loading" class="muted">Chargement…</p>
   <div v-else-if="!articles.length" class="card">
-    <p>
-      Aucun article pour l'instant. Le fichier <code>public/data/articles.json</code> est généré :
-    </p>
+    <p>Aucun article pour l'instant. Le fichier <code>public/data/articles.json</code> est généré :</p>
     <ul>
       <li>automatiquement toutes les 6 h par le workflow GitHub <code>veille.yml</code> une fois le repo poussé ;</li>
       <li>ou manuellement avec <code>npm run fetch-feeds</code>.</li>
@@ -68,24 +75,39 @@ function toggleRead(link) {
   </div>
   <p v-else-if="!filtered.length" class="muted">Aucun article ne correspond aux filtres.</p>
 
-  <div
-    v-for="a in filtered"
-    :key="a.link"
-    class="card"
-    :style="state.readArticles.includes(a.link) ? 'opacity:0.5' : ''"
-  >
-    <div class="flex-between">
-      <a :href="a.link" target="_blank" rel="noopener" @click="!state.readArticles.includes(a.link) && toggleRead(a.link)">
-        {{ a.title }}
-      </a>
-      <div class="flex" style="gap: 0.4rem; flex-shrink: 0">
-        <span class="badge accent">{{ a.themeName }}</span>
-        <button class="small" @click="toggleRead(a.link)" :title="state.readArticles.includes(a.link) ? 'Marquer non lu' : 'Marquer lu'">
-          {{ state.readArticles.includes(a.link) ? '↩' : '✓' }}
-        </button>
+  <div class="article-grid">
+    <div
+      v-for="a in filtered"
+      :key="a.link"
+      class="card article-card"
+      :class="{ 'is-read': isRead(a.link) }"
+      :style="{ borderTopColor: themeColor(a.theme) }"
+    >
+      <div class="thumb" :style="{ background: `linear-gradient(135deg, ${themeColor(a.theme)}22, var(--bg3))` }">
+        <span>{{ themeIcon(a.theme) }}</span>
+        <img
+          v-if="a.image"
+          :src="a.image"
+          loading="lazy"
+          alt=""
+          @error="$event.target.style.display = 'none'"
+        />
+      </div>
+      <div class="article-body">
+        <a class="title" :href="a.link" target="_blank" rel="noopener" @click="markReadOnOpen(a.link)">
+          {{ a.title }}
+        </a>
+        <div class="small muted">{{ a.source }} · {{ new Date(a.date).toLocaleDateString('fr-FR') }}</div>
+        <p v-if="a.summary" class="summary">{{ a.summary }}</p>
+        <div class="flex-between" style="margin-top: auto">
+          <span class="badge" :style="{ color: themeColor(a.theme), borderColor: themeColor(a.theme) }">
+            {{ a.themeName }}
+          </span>
+          <button class="small" @click="toggleRead(a.link)" :title="isRead(a.link) ? 'Marquer non lu' : 'Marquer lu'">
+            {{ isRead(a.link) ? '↩' : '✓' }}
+          </button>
+        </div>
       </div>
     </div>
-    <div class="small muted">{{ a.source }} · {{ new Date(a.date).toLocaleDateString('fr-FR') }}</div>
-    <p v-if="a.summary" class="small" style="margin: 0.4rem 0 0">{{ a.summary }}</p>
   </div>
 </template>

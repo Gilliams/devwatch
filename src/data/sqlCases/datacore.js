@@ -100,6 +100,7 @@ INSERT INTO badges_bureau VALUES
       placeholder: 'ex : a1b2c3d4',
       answer: ['f4c3d00d'],
       mode: 'exact',
+      concepts: ['join', 'where'],
       hints: [
         "La table `deployments` relie un `commit_id` à un environnement et un horodatage.",
         "Joins deployments et commits, filtre sur environnement = 'production' et l'horodatage de la nuit du 20.",
@@ -116,6 +117,7 @@ INSERT INTO badges_bureau VALUES
       placeholder: 'ex : 10.8.0.0',
       answer: ['10.8.3.77'],
       mode: 'exact',
+      concepts: ['sousrequete', 'where', 'join'],
       hints: [
         "La table `acces_repo` journalise chaque push avec son IP. Le compte utilisé peut être volé, l'IP réseau non.",
         "Compare avec l'IP habituelle d'Emma (ses pushes précédents) et vérifie ses sessions VPN et badges du 19-20 juin.",
@@ -132,6 +134,7 @@ INSERT INTO badges_bureau VALUES
       placeholder: 'un nombre',
       answer: ['3'],
       mode: 'exact',
+      concepts: ['distinct', 'agregats'],
       hints: [
         'Cherche dans `sessions_vpn` toutes les sessions avec cette IP.',
         "COUNT(DISTINCT employe_id) — et retiens la leçon : une IP seule ne suffit JAMAIS à identifier quelqu'un.",
@@ -148,6 +151,7 @@ INSERT INTO badges_bureau VALUES
       placeholder: 'un nombre',
       answer: ['5'],
       mode: 'exact',
+      concepts: ['recursive'],
       hints: [
         'Structure : WITH RECURSIVE subordonnes AS (ancre UNION ALL partie récursive) — l\'ancre sélectionne ceux dont manager_id = 2.',
         "La partie récursive joint employes e ON e.manager_id = subordonnes.id pour descendre d'un niveau à chaque itération.",
@@ -165,6 +169,7 @@ INSERT INTO badges_bureau VALUES
       answer: ['julien roy', 'roy'],
       mode: 'contains',
       final: true,
+      concepts: ['recursive', 'join', 'between'],
       hints: [
         "Il faut une condition d'intervalle : debut <= '2026-06-20 02:11' AND fin >= '2026-06-20 02:11', en plus de l'IP.",
         'Croise ce résultat avec la liste des subordonnés de Rachid (étape précédente) : un seul nom apparaît dans les deux.',
