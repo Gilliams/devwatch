@@ -1,35 +1,95 @@
 {
- "generatedAt": "2026-07-04T12:16:11.315Z",
+ "generatedAt": "2026-07-04T18:12:59.931Z",
  "articles": [
   {
-   "title": "Optimizing DevOps Workflows",
-   "link": "https://dev.to/fabiosarmento/optimizing-devops-workflows-1626",
-   "date": "2026-07-04T12:01:19.000Z",
+   "title": "V2: Build a Dynamic Online Ordering System for a Local Café",
+   "link": "https://dev.to/aws-builders/v2-build-a-dynamic-online-ordering-system-for-a-local-cafe-42n0",
+   "date": "2026-07-04T18:06:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Streamline your DevOps with automation tools that fit your team's needs. Less manual work means more time for innovation! Find what works for you, not what’s trendy.",
+   "summary": "Introduction We already have the static website online, thanks to Amazon S3's static web hosting capabilities. Now it's time to go to the next step: adding an ordering system for the customers. It would be nice to give c",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzgs7oyz8axmgyrwyzi7i.png"
+  },
+  {
+   "title": "Building an Offline Document Search Engine for My University",
+   "link": "https://dev.to/yigtwx/building-an-offline-document-search-engine-for-my-university-56bi",
+   "date": "2026-07-04T17:36:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hi everyone, I'm Yiğit, a third-year software engineering student. If you have ever tried to find a specific rule about grading, attendance, or academic calendars in university regulation PDFs, you know how frustrating i",
    "image": null
   },
   {
-   "title": "Soul in Motion — 5:13 PM | 2026-07-04",
-   "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-513-pm-2026-07-04-1llk",
-   "date": "2026-07-04T11:51:04.000Z",
+   "title": "How I Hosted a Static Website on Azure Blob Storage with Custom DNS, Zero Servers, Under $2/Month",
+   "link": "https://dev.to/danielops/how-i-hosted-a-static-website-on-azure-blob-storage-with-custom-dns-zero-servers-under-2month-74g",
+   "date": "2026-07-04T17:24:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Tweaked the YouTube pipeline for the kids' section with a fail-fast mechanism and a fresh rotation system. Conducted a comprehensive security audit and created a new incident response plan. Collaborated with Claude",
+   "summary": "Introduction I challenged myself with a real-world Azure scenario something beyond just spinning up a VM and calling it a day. So I set myself to host a fully functional marketing website for a fictional Lagos real estat",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpc59qul4q2xhpu5l5u8d.PNG"
+  },
+  {
+   "title": "How Do MVP Development Services Contribute to User Feedback and Iterative Improvement?",
+   "link": "https://dev.to/allenrichard12/how-do-mvp-development-services-contribute-to-user-feedback-and-iterative-improvement-15p",
+   "date": "2026-07-04T16:44:34.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building a product without validating your idea can lead to wasted time, money, and effort. That’s why many startups and businesses choose to launch a Minimum Viable Product (MVP) before investing in a full-scale solutio",
    "image": null
   },
   {
-   "title": "Playwright Visual Regression Testing: Catch UI Bugs in CI",
-   "link": "https://dev.to/grabbit/playwright-visual-regression-testing-catch-ui-bugs-in-ci-31eh",
-   "date": "2026-07-04T11:37:30.000Z",
+   "title": "The Incident Postmortem Template That Actually Prevents the Next Outage",
+   "link": "https://dev.to/syms_mation/the-incident-postmortem-template-that-actually-prevents-the-next-outage-4god",
+   "date": "2026-07-04T15:45:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Playwright has visual regression testing built in. One assertion, toHaveScreenshot, captures the page, diffs it against a stored baseline, and fails the test when the UI changes unexpectedly. The setup is genuinely a few",
+   "summary": "It's 2 AM. Production is down. Slack is on fire. Your CEO is awake and asking questions you can't answer yet. You fix the issue at 4 AM, everyone goes back to sleep, and by Monday morning the incident is half-forgotten. ",
    "image": null
+  },
+  {
+   "title": "Production-Grade Docker Images for Python",
+   "link": "https://dev.to/gpuneet/production-grade-docker-images-for-python-4ghj",
+   "date": "2026-07-04T15:29:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction The typical first-draft Python Dockerfile — FROM python, COPY . ., pip install -r requirements.txt — produces an image that is close to a gigabyte, reinstalls every dependency whenever a single source file c",
+   "image": null
+  },
+  {
+   "title": "Production-Grade Docker Images for Java",
+   "link": "https://dev.to/gpuneet/production-grade-docker-images-for-java-3k0n",
+   "date": "2026-07-04T15:29:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction A Java Dockerfile can be three lines and technically work — or it can be a 700 MB image that runs as root, rebuilds from scratch on every code change, and gets OOM-killed under load. The difference is a hand",
+   "image": null
+  },
+  {
+   "title": "Scarab Field Lab: 27x Smaller Final Decision Context, Merged Upstream",
+   "link": "https://dev.to/scarab-systems/scarab-field-lab-27x-smaller-final-decision-context-merged-upstream-1lj2",
+   "date": "2026-07-04T15:17:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Patch Was Small. The Proof Was Not. Scarab Systems has been running public Field Lab comparisons to test a simple question: Can AI-assisted software repair be made narrower, cheaper, more evidence-bound, and still ac",
+   "image": null
+  },
+  {
+   "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+   "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+   "date": "2026-07-04T12:47:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the pay",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg"
   },
   {
    "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -40,56 +100,6 @@
    "source": "The Hacker News",
    "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
-  },
-  {
-   "title": "🚀 New Blog Published: Why Companies Are Moving to Kubernetes",
-   "link": "https://dev.to/zaved_akthar_7227/new-blog-published-why-companies-are-moving-to-kubernetes-27b0",
-   "date": "2026-07-04T10:59:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Modern businesses need applications that are scalable, reliable, and cost-efficient. That's exactly why Kubernetes has become the backbone of cloud-native infrastructure. In this blog, I explore: If you're building or ma",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0zzedaa31c4pqi67whs.jpeg"
-  },
-  {
-   "title": "Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality",
-   "link": "https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54",
-   "date": "2026-07-04T10:43:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most uptime tools answer the same question. They tell you \"is service X up?\" from one vantage point — the monitoring server. But in a hybrid cloud, \"up\" is not a property of a service. It's a property of a path. A single",
-   "image": null
-  },
-  {
-   "title": "I built a localhost proxy that stops LangChain from hallucinating on dead RAG data (and cuts token burn by 50%)",
-   "link": "https://dev.to/vlsiddarth/i-built-a-localhost-proxy-that-stops-langchain-from-hallucinating-on-dead-rag-data-and-cuts-token-371n",
-   "date": "2026-07-04T10:30:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The problem nobody's proxy was solving Every RAG pipeline I'd worked with had the same blind spot: once a document made it into the retrieval index, the LLM treated it as gospel forever. A 2022 blog post about a deprecat",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlqp7xz3d5omxe848npp.png"
-  },
-  {
-   "title": "Day 58 - Optimizing ClickHouse® for High-Throughput Inserts",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-58-optimizing-clickhouser-for-high-throughput-inserts-4h7d",
-   "date": "2026-07-04T10:10:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction One of the defining strengths of ClickHouse® is its ability to ingest massive volumes of data while continuing to deliver exceptionally fast analytical queries. Whether you're processing application logs, Io",
-   "image": null
-  },
-  {
-   "title": "What Is a DevOps Engineer Master Diploma Program? A Complete Guide",
-   "link": "https://dev.to/cybersecurity-12/what-is-a-devops-engineer-master-diploma-program-a-complete-guide-4f",
-   "date": "2026-07-04T09:50:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "DevOps has become one of the most sought-after career paths in the IT industry, bridging the gap between software development and operations. For graduates, working professionals, and system administrators looking to bre",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frh5apey5oqhmnbo7ht6l.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_append",
@@ -260,16 +270,6 @@
    "source": "Planet PostgreSQL",
    "summary": "If you are of a certain age, the words 38911 BASIC BYTES FREE will do something to you that no amount of therapy can undo. You remember the blue screen. You remember typing in three pages of a listing from a magazine, ge",
    "image": null
-  },
-  {
-   "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-   "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-   "date": "2026-07-03T08:03:37.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
   },
   {
    "title": "Undpaul.de: Drupal Tip: How to change field length with existing data",
@@ -1149,16 +1149,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Vibe coding is building a software application by prompting an LLM, telling it what to build, trying it out, prompting for changes - but without looking at any of the code that the LLM generates. This technique can be us",
-   "image": null
-  },
-  {
-   "title": "Three more static code analysis sensors",
-   "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
-   "date": "2026-05-20T14:27:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the ru",
    "image": null
   }
  ]
