@@ -1,45 +1,95 @@
 {
- "generatedAt": "2026-07-04T00:15:59.983Z",
+ "generatedAt": "2026-07-04T08:03:35.404Z",
  "articles": [
   {
-   "title": "My Mac dev environment broke on every brew upgrade. Here's the shared-dependency bug I kept fixing wrong.",
-   "link": "https://dev.to/nomurasan/my-mac-dev-environment-broke-on-every-brew-upgrade-heres-the-shared-dependency-bug-i-kept-fixing-3fcn",
-   "date": "2026-07-04T00:05:14.000Z",
+   "title": "Top AI Agents for DevOps Online Training | Visualpath",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/top-ai-agents-for-devops-online-training-visualpath-2pm0",
+   "date": "2026-07-04T07:58:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I fixed the same crash after brew upgrade three times before I asked why it kept happening. Each time I patched the symptom. On the fourth break, I traced it to one shared runtime buried inside Homebrew. TL;DR: Homebrew ",
+   "summary": "AI Agents in DevOps Training: Build Skills for IT Careers Collect data from applications and infrastructure. Analyse the collected information. Detect errors or performance issues. Recommend or perform corrective actions",
    "image": null
   },
   {
-   "title": "Injecting Version Info at Build Time in Go With -ldflags",
-   "link": "https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j",
-   "date": "2026-07-03T23:09:24.000Z",
+   "title": "Grafana Alerting Checklist: Wiring AI Anomaly Scores Correctly",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/grafana-alerting-checklist-wiring-ai-anomaly-scores-correctly-16ck",
+   "date": "2026-07-04T07:52:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Book: The Complete Guide to Go Programming Also by me: Hexagonal Architecture in Go — the companion book in the Thinking in Go series My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg"
-  },
-  {
-   "title": "Balancing Cost, Learning, and Resume Value: Choosing the Right Cloud Service for Non-Profit Mobile App Projects",
-   "link": "https://dev.to/maricode/balancing-cost-learning-and-resume-value-choosing-the-right-cloud-service-for-non-profit-mobile-585b",
-   "date": "2026-07-03T23:02:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Choosing the right cloud service for a non-profit mobile app project is a delicate balancing act. On one hand, you’re working with limited resources, so cost-effectiveness is non-negotiable. On the other, yo",
+   "summary": "Originally published on kuryzhev.cloud Why This Checklist Three days. That's how long a memory leak crept through one of our checkout pods before anyone noticed — because our CPU-at-80% alert never fired. The leak was sl",
    "image": null
   },
   {
-   "title": "govulncheck: Scan Go Code for CVEs You Can Actually Reach",
-   "link": "https://dev.to/gabrielanhaia/govulncheck-scan-go-code-for-cves-you-can-actually-reach-3fk5",
-   "date": "2026-07-03T22:49:39.000Z",
+   "title": "From GitHub Repo to Live App: What Can Go Wrong",
+   "link": "https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i",
+   "date": "2026-07-04T07:27:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Book: The Complete Guide to Go Programming Also by me: Hexagonal Architecture in Go — the companion book in the Thinking in Go series My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg"
+   "summary": "Deploying from GitHub sounds like a solved problem. Clone the repo. Detect the stack. Build an image. Run a container. Add SSL. Route traffic. That lower layer matters. In VibeNest we do not try to replace all of it from",
+   "image": null
+  },
+  {
+   "title": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring",
+   "link": "https://dev.to/phuc_bach_22e/why-temperature-humidity-sensors-arent-enough-for-modern-industrial-monitoring-1eeb",
+   "date": "2026-07-04T07:21:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring Most factories already have environmental sensors. So why do temperature- and humidity-related incidents still happen? Industrial faciliti",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhzh0l9h8yjzwuafucqwp.png"
+  },
+  {
+   "title": "How to free up disk space used by Docker",
+   "link": "https://dev.to/isaias_velasquez_d2261770/how-to-free-up-disk-space-used-by-docker-4576",
+   "date": "2026-07-04T07:14:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How to free up disk space used by Docker When you use Docker on a daily basis, your disk can get full of unnamed images, stopped containers, dangling volumes and build cache. Here is how to clean all that up. First, chec",
+   "image": null
+  },
+  {
+   "title": "SRE for People Who Hate SSH: A Beginner’s Guide to MongoDB Atlas",
+   "link": "https://dev.to/scalingdiaries/sre-for-people-who-hate-ssh-a-beginners-guide-to-mongodb-atlas-315j",
+   "date": "2026-07-04T06:57:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Let’s be honest: very few people wake up in the morning, stretch their arms, and think, \"Man, I cannot wait to write some custom automated backup cron jobs, manage TLS certificates, and manually configure database shardi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcmj7102ka3x6w5oyums.png"
+  },
+  {
+   "title": "How We Solved ArgoCD Notifications' Single-Secret Limitation with Kyverno",
+   "link": "https://dev.to/krishanthisera/-how-we-solved-argocd-notifications-single-secret-limitation-with-kyverno-3ak2",
+   "date": "2026-07-04T06:50:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Note: I wrote this post a while back, before Kyverno introduced its new Mutating Policies (released in Kyverno 1.15). The Kyverno manifests here use the older approach, but the core concept remains the same. If you run A",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffwi1uukbku6naa8egeyt.webp"
+  },
+  {
+   "title": "100 Days of DevOps, Day 5: SELinux Isn't Your Enemy, and GP3 Is Your Default",
+   "link": "https://dev.to/ndcodes/100-days-of-devops-day-5-selinux-isnt-your-enemy-and-gp3-is-your-default-55e1",
+   "date": "2026-07-04T06:42:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most people meet SELinux for the first time when something breaks, and their first move is to switch it off. I get the reflex. But \"disabled\" is the laziest of the three options SELinux hands you, and Day 5 of this chall",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_append",
+   "link": "https://postgr.es/p/9o6",
+   "date": "2026-07-04T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Parallel Append spreads workers across partitions or UNION branches simultaneously, not sequentially.",
+   "image": null
   },
   {
    "title": "Open Source AI Gap Map",
@@ -50,16 +100,6 @@
    "source": "Simon Willison",
    "summary": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committe",
    "image": null
-  },
-  {
-   "title": "What Changed? How We Turned Production Change Blindness into a less than 10-Minute Answer",
-   "link": "https://dev.to/omarreda/what-changed-how-we-turned-production-change-blindness-into-a-less-than-10-minute-answer-4k7l",
-   "date": "2026-07-03T21:53:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most incidents aren't mysteries. They're changes. Here's how we built a service that captures every production change, attaches it to the system it touched, and turned the hardest question in incident response into a one",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnv78aoka8ndhxdj0uojg.png"
   },
   {
    "title": "Quoting Josh W. Comeau",
@@ -82,26 +122,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "Scarab Diagnostic Field Test #037 - xdg-desktop-portal Startup Inventory Boundary",
-   "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-037-xdg-desktop-portal-startup-inventory-boundary-5ecl",
-   "date": "2026-07-03T20:43:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Target: flatpak/xdg-desktop-portal xdg-desktop-portal starts were not listed in BackgroundApps until some later window or app-state change triggered an update. The public Field Lab record for this case is here: SDS surfa",
-   "image": null
-  },
-  {
-   "title": "What Is an LLM Gateway? Routing, Fallback, and Rate Limits Explained",
-   "link": "https://dev.to/sahajmeet_kaur_/what-is-an-llm-gateway-routing-fallback-and-rate-limits-explained-g72",
-   "date": "2026-07-03T20:36:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR An LLM gateway is a proxy that gives your app one API for every model provider, translating a single request shape into whatever each backend actually expects. Teams add one for three concrete reasons: provider out",
-   "image": null
-  },
-  {
    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
    "date": "2026-07-03T20:19:31.000Z",
@@ -110,16 +130,6 @@
    "source": "The Hacker News",
    "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs i",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
-  },
-  {
-   "title": "Why Framework Callbacks Fail to Stop AI Agent Financial Runaways",
-   "link": "https://dev.to/billionaire664/why-framework-callbacks-fail-to-stop-ai-agent-financial-runaways-39hd",
-   "date": "2026-07-03T20:16:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you are deploying autonomous multi-agent systems to production using frameworks like CrewAI, LangChain, or pure OpenAI tool-calling loops, you are running a financial hazard. The industry is currently handling cost co",
-   "image": null
   },
   {
    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
@@ -510,16 +520,6 @@
    "source": "Laravel News",
    "summary": "phpcpd-next is a maintained, dependency-free successor to Sebastian Bergmann's phpcpd that finds duplicated PHP code, including reordered and gapped clones. The post A Copy/Paste Detector CLI for PHP 8.5+ appeared first ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/phpcpd-next-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_mergejoin",
-   "link": "https://postgr.es/p/9nZ",
-   "date": "2026-07-02T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Merge join shines when data is already sorted by an index, but stumbles when it has to pay for a sort first.",
-   "image": null
   },
   {
    "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
