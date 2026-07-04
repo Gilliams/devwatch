@@ -1,84 +1,154 @@
 {
- "generatedAt": "2026-07-03T18:37:30.198Z",
+ "generatedAt": "2026-07-04T00:15:59.983Z",
  "articles": [
   {
-   "title": "Top Sites to Watch Boxing Fight Online Free Legally in 2026",
-   "link": "https://dev.to/goalzonelive/top-sites-to-watch-boxing-fight-online-free-legally-in-2026-750",
-   "date": "2026-07-03T18:25:27.000Z",
+   "title": "My Mac dev environment broke on every brew upgrade. Here's the shared-dependency bug I kept fixing wrong.",
+   "link": "https://dev.to/nomurasan/my-mac-dev-environment-broke-on-every-brew-upgrade-heres-the-shared-dependency-bug-i-kept-fixing-3fcn",
+   "date": "2026-07-04T00:05:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Discover where to watch boxing fight online Free legally with HD quality, live updates, and official broadcasts. JOIN NOW👉👉📺 Watch Boxing Fight Online Free 2026: Never Miss a Championship Bout Again Boxing continues t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpee7z3np96ozp4691dgd.png"
-  },
-  {
-   "title": "Linux Command Line Tricks Every Developer Must Know",
-   "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-4a66",
-   "date": "2026-07-03T18:02:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Linux Command Line Tricks Every Developer Must Know As a developer, you're likely no stranger to the Linux command line. But let's be honest – it can be a daunting place, especially for those just starting out. With so m",
+   "summary": "I fixed the same crash after brew upgrade three times before I asked why it kept happening. Each time I patched the symptom. On the fourth break, I traced it to one shared runtime buried inside Homebrew. TL;DR: Homebrew ",
    "image": null
   },
   {
-   "title": "How to Fix Stuck Workspace Index Trees and Code Parsing Halts",
-   "link": "https://dev.to/biztechpulsehub/how-to-fix-stuck-workspace-index-trees-and-code-parsing-halts-47fe",
-   "date": "2026-07-03T18:02:19.000Z",
+   "title": "Injecting Version Info at Build Time in Go With -ldflags",
+   "link": "https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j",
+   "date": "2026-07-03T23:09:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Building a complete system index graph is the absolute foundation for enabling smart auto-complete features within advanced engineering environments. When your local compiler platform gets permanently stuck at zero perce",
+   "summary": "Book: The Complete Guide to Go Programming Also by me: Hexagonal Architecture in Go — the companion book in the Thinking in Go series My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg"
+  },
+  {
+   "title": "Balancing Cost, Learning, and Resume Value: Choosing the Right Cloud Service for Non-Profit Mobile App Projects",
+   "link": "https://dev.to/maricode/balancing-cost-learning-and-resume-value-choosing-the-right-cloud-service-for-non-profit-mobile-585b",
+   "date": "2026-07-03T23:02:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Choosing the right cloud service for a non-profit mobile app project is a delicate balancing act. On one hand, you’re working with limited resources, so cost-effectiveness is non-negotiable. On the other, yo",
    "image": null
   },
   {
-   "title": "Payment Platform Stability: Why Most Outages Are Preventable",
-   "link": "https://dev.to/techstrategy/payment-platform-stability-why-most-outages-are-preventable-4d47",
-   "date": "2026-07-03T17:52:01.000Z",
+   "title": "govulncheck: Scan Go Code for CVEs You Can Actually Reach",
+   "link": "https://dev.to/gabrielanhaia/govulncheck-scan-go-code-for-cves-you-can-actually-reach-3fk5",
+   "date": "2026-07-03T22:49:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Let me tell you about a pattern I've seen play out at more companies than I can count. Everything's fine. Checkout works. Payments go through. Then one day, usually during a sale, a product launch, or some other moment w",
+   "summary": "Book: The Complete Guide to Go Programming Also by me: Hexagonal Architecture in Go — the companion book in the Thinking in Go series My project: Hermes IDE | GitHub — an IDE for developers who ship with Claude Code and ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4ypacn11k7zrkz179lt.jpg"
+  },
+  {
+   "title": "Open Source AI Gap Map",
+   "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+   "date": "2026-07-03T22:04:31.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committe",
    "image": null
   },
   {
-   "title": "Unlocking AI: Transform Your Development Process",
-   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/unlocking-ai-transform-your-development-process-76h",
-   "date": "2026-07-03T17:31:34.000Z",
+   "title": "What Changed? How We Turned Production Change Blindness into a less than 10-Minute Answer",
+   "link": "https://dev.to/omarreda/what-changed-how-we-turned-production-change-blindness-into-a-less-than-10-minute-answer-4k7l",
+   "date": "2026-07-03T21:53:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The race to integrate AI into software development isn’t just a trend; it’s a necessity for teams aiming to stay competitive! 🚀 AI innovation transforms the use of artificial intelligence in software development, enhanc",
+   "summary": "Most incidents aren't mysteries. They're changes. Here's how we built a service that captures every production change, attaches it to the system it touched, and turned the hardest question in incident response into a one",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnv78aoka8ndhxdj0uojg.png"
+  },
+  {
+   "title": "Quoting Josh W. Comeau",
+   "link": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+   "date": "2026-07-03T21:25:52.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales are down significantl",
    "image": null
   },
   {
-   "title": "NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2",
-   "link": "https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7",
-   "date": "2026-07-03T17:13:00.000Z",
+   "title": "Twig 3.28.0 released",
+   "link": "https://symfony.com/blog/twig-3-28-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-03T20:52:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Twig 3.28.0 is out. This release sharpens error reporting with column numbers, brings back dynamic macro calls through the dot operator, and continues to polish the sandbox with less runtime overhead and finer-grained al",
+   "image": "https://github.com/fabpot.png"
+  },
+  {
+   "title": "Scarab Diagnostic Field Test #037 - xdg-desktop-portal Startup Inventory Boundary",
+   "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-037-xdg-desktop-portal-startup-inventory-boundary-5ecl",
+   "date": "2026-07-03T20:43:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deploying a NestJS backend to production with true zero downtime is more involved than most guides suggest. This is a complete, battle-tested walkthrough — built from real production experience — covering everything from",
+   "summary": "Target: flatpak/xdg-desktop-portal xdg-desktop-portal starts were not listed in BackgroundApps until some later window or app-state change triggered an update. The public Field Lab record for this case is here: SDS surfa",
    "image": null
   },
   {
-   "title": "Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context",
-   "link": "https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee",
-   "date": "2026-07-03T16:53:37.000Z",
+   "title": "What Is an LLM Gateway? Routing, Fallback, and Rate Limits Explained",
+   "link": "https://dev.to/sahajmeet_kaur_/what-is-an-llm-gateway-routing-fallback-and-rate-limits-explained-g72",
+   "date": "2026-07-03T20:36:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Scarab Systems has started formally evaluating the efficiency of using Scarab Diagnostic Suite during AI-assisted software repair. The question is simple: Does a diagnostic governance layer actually improve the agent pat",
+   "summary": "TL;DR An LLM gateway is a proxy that gives your app one API for every model provider, translating a single request shape into whatever each backend actually expects. Teams add one for three concrete reasons: provider out",
    "image": null
   },
   {
-   "title": "I built a tool that alerts me when Stripe, GitHub, and Cloudflare go down",
-   "link": "https://dev.to/snipercat/i-built-a-tool-that-alerts-me-when-stripe-github-and-cloudflare-go-down-4dfb",
-   "date": "2026-07-03T16:52:06.000Z",
+   "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+   "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+   "date": "2026-07-03T20:19:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+  },
+  {
+   "title": "Why Framework Callbacks Fail to Stop AI Agent Financial Runaways",
+   "link": "https://dev.to/billionaire664/why-framework-callbacks-fail-to-stop-ai-agent-financial-runaways-39hd",
+   "date": "2026-07-03T20:16:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You find out your SaaS is down the same time your customers do. That's a problem. Real-time SaaS status monitoring for developers and indie hackers. What it does: 14 vendors, all-clear alerts, webhook support Free tier: ",
+   "summary": "If you are deploying autonomous multi-agent systems to production using frameworks like CrewAI, LangChain, or pure OpenAI tool-calling loops, you are running a financial hazard. The industry is currently handling cost co",
+   "image": null
+  },
+  {
+   "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+   "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+   "date": "2026-07-03T19:40:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
+  },
+  {
+   "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+   "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+   "date": "2026-07-03T18:55:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security control",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
+  },
+  {
+   "title": "Fable's judgement",
+   "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+   "date": "2026-07-03T18:51:06.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement",
    "image": null
   },
   {
@@ -242,16 +312,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
   },
   {
-   "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-   "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-   "date": "2026-07-02T18:30:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
-  },
-  {
    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
    "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
    "date": "2026-07-02T18:25:00.000Z",
@@ -310,26 +370,6 @@
    "source": "Drupal Planet",
    "summary": "Randy Kolenko, partner and senior architect at Nextide, recently joined the Drupal Orchestration Initiative with Jurgen Haas, Shibin Das and Dries Buytaert. The Orchestration Initiative is still in its infancy, however, ",
    "image": null
-  },
-  {
-   "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-   "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-   "date": "2026-07-02T15:24:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg"
-  },
-  {
-   "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-   "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-   "date": "2026-07-02T13:04:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers f",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
   },
   {
    "title": "Commune: A Private Community for Founders and Builders",
@@ -532,26 +572,6 @@
    "image": null
   },
   {
-   "title": "Nano Banana 2 Lite",
-   "link": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-   "date": "2026-06-30T22:15:35.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image ( gemini-3.1-flash-lite-image in their API ), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run",
-   "image": null
-  },
-  {
-   "title": "What's new in Claude Sonnet 5",
-   "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
-   "date": "2026-06-30T21:23:02.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "What&#x27;s new in Claude Sonnet 5 Claude Sonnet 5 came out this morning . I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement p",
-   "image": null
-  },
-  {
    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
    "date": "2026-06-30T18:32:50.000Z",
@@ -559,16 +579,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "The AI Compass",
-   "link": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
-   "date": "2026-06-30T17:39:23.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The AI Compass This political compass style quiz by bambamramfan is pretty neat - answer 29 questions about AI and AI ethics to see which of the 30 archetypes you best fit. I'm impressed that my answers on my first time ",
    "image": null
   },
   {
@@ -590,6 +600,16 @@
    "source": "Percona Blog",
    "summary": "PostgreSQL community images address a real gap in how a Kubernetes database operator earns your trust. Running a database operator on Kubernetes means trusting two things: the code, and the container images the operator ",
    "image": "https://www.percona.com/wp-content/uploads/2026/06/MDES-1088-Blog-image-Percona-Operator-for-PostgreSQL-V3.0.0-hero-1-1024x375.jpg"
+  },
+  {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
   },
   {
    "title": "Debugging with Ephemeral Containers",
@@ -659,6 +679,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Update, July 1, 2026: Percona Server for MySQL 8.4.10-10 is now available. It carries the content originally planned for 8.4.9 plus the upstream security fixes. See the 8.4.10-10 release notes. 9.7.1 is still on the way;",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
    "image": null
   },
   {
@@ -792,6 +822,46 @@
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1"
+  },
+  {
+   "title": "translateY()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+   "date": "2026-06-25T13:17:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateX()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+   "date": "2026-06-25T13:16:01.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/s_94397AB2C9D282B1C64AD8782FA74B7FBE105F79E31213B340BF4A9C4995557F_1612947653028_NewProject2.jpg?resize=1024%2C340&#038;ssl=1"
+  },
+  {
+   "title": "translate()",
+   "link": "https://css-tricks.com/almanac/functions/t/translate/",
+   "date": "2026-06-25T13:15:05.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/a8e040142716a4b44d014d80fbcf99c635b1d8faabfe469b6954a8ef2f168595.jpg?resize=80%2C80&#038;ssl=1"
+  },
+  {
    "title": "Shaping Stories into Experience: The Work of Kevin Lam",
    "link": "https://tympanus.net/codrops/2026/06/25/shaping-stories-into-experience-the-work-of-kevin-lam/",
    "date": "2026-06-25T12:33:23.000Z",
@@ -862,13 +932,23 @@
    "image": null
   },
   {
-   "title": "A Week of Symfony #1016 (June 15–21, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1016-june-15-21-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-06-21T07:26:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, the Symfony book published its update for Symfony 8.1 in multiple languages. Meanwhile, we completed the New in Symfony 8.1 series, continued the New in Twig 4.0 series with articles about the sandbox and expr",
+   "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+   "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+   "date": "2026-06-22T12:39:13.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fall",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1"
+  },
+  {
+   "title": "A First Look at Scroll-Triggered Animations",
+   "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+   "date": "2026-06-19T13:03:17.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations. A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the new",
    "image": null
   },
   {
@@ -1079,16 +1159,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler adds discussion of three more sensors for static code analysis, focusing on checking and enforcing better modularity. Computational sensors for dependency checks were good at enforcing rules, but the ru",
-   "image": null
-  },
-  {
-   "title": "Talking to the new Ecosystem AI Security Engineer",
-   "link": "https://stitcher.io/blog/php-ecosystem-security-team",
-   "date": "2026-05-20T00:00:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "stitcher.io",
-   "summary": "Read the full post on https://stitcher.io/blog/php-ecosystem-security-team",
    "image": null
   }
  ]
