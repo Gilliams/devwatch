@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-07-04T08:03:35.404Z",
+ "generatedAt": "2026-07-04T12:16:11.315Z",
  "articles": [
   {
-   "title": "Top AI Agents for DevOps Online Training | Visualpath",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/top-ai-agents-for-devops-online-training-visualpath-2pm0",
-   "date": "2026-07-04T07:58:13.000Z",
+   "title": "Optimizing DevOps Workflows",
+   "link": "https://dev.to/fabiosarmento/optimizing-devops-workflows-1626",
+   "date": "2026-07-04T12:01:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI Agents in DevOps Training: Build Skills for IT Careers Collect data from applications and infrastructure. Analyse the collected information. Detect errors or performance issues. Recommend or perform corrective actions",
+   "summary": "Streamline your DevOps with automation tools that fit your team's needs. Less manual work means more time for innovation! Find what works for you, not what’s trendy.",
    "image": null
   },
   {
-   "title": "Grafana Alerting Checklist: Wiring AI Anomaly Scores Correctly",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/grafana-alerting-checklist-wiring-ai-anomaly-scores-correctly-16ck",
-   "date": "2026-07-04T07:52:40.000Z",
+   "title": "Soul in Motion — 5:13 PM | 2026-07-04",
+   "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-513-pm-2026-07-04-1llk",
+   "date": "2026-07-04T11:51:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Why This Checklist Three days. That's how long a memory leak crept through one of our checkout pods before anyone noticed — because our CPU-at-80% alert never fired. The leak was sl",
+   "summary": "TL;DR Tweaked the YouTube pipeline for the kids' section with a fail-fast mechanism and a fresh rotation system. Conducted a comprehensive security audit and created a new incident response plan. Collaborated with Claude",
    "image": null
   },
   {
-   "title": "From GitHub Repo to Live App: What Can Go Wrong",
-   "link": "https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i",
-   "date": "2026-07-04T07:27:58.000Z",
+   "title": "Playwright Visual Regression Testing: Catch UI Bugs in CI",
+   "link": "https://dev.to/grabbit/playwright-visual-regression-testing-catch-ui-bugs-in-ci-31eh",
+   "date": "2026-07-04T11:37:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deploying from GitHub sounds like a solved problem. Clone the repo. Detect the stack. Build an image. Run a container. Add SSL. Route traffic. That lower layer matters. In VibeNest we do not try to replace all of it from",
+   "summary": "Playwright has visual regression testing built in. One assertion, toHaveScreenshot, captures the page, diffs it against a stored baseline, and fails the test when the UI changes unexpectedly. The setup is genuinely a few",
    "image": null
   },
   {
-   "title": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring",
-   "link": "https://dev.to/phuc_bach_22e/why-temperature-humidity-sensors-arent-enough-for-modern-industrial-monitoring-1eeb",
-   "date": "2026-07-04T07:21:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why Temperature & Humidity Sensors Aren't Enough for Modern Industrial Monitoring Most factories already have environmental sensors. So why do temperature- and humidity-related incidents still happen? Industrial faciliti",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhzh0l9h8yjzwuafucqwp.png"
+   "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+   "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+   "date": "2026-07-04T11:17:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
   },
   {
-   "title": "How to free up disk space used by Docker",
-   "link": "https://dev.to/isaias_velasquez_d2261770/how-to-free-up-disk-space-used-by-docker-4576",
-   "date": "2026-07-04T07:14:25.000Z",
+   "title": "🚀 New Blog Published: Why Companies Are Moving to Kubernetes",
+   "link": "https://dev.to/zaved_akthar_7227/new-blog-published-why-companies-are-moving-to-kubernetes-27b0",
+   "date": "2026-07-04T10:59:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to free up disk space used by Docker When you use Docker on a daily basis, your disk can get full of unnamed images, stopped containers, dangling volumes and build cache. Here is how to clean all that up. First, chec",
+   "summary": "Modern businesses need applications that are scalable, reliable, and cost-efficient. That's exactly why Kubernetes has become the backbone of cloud-native infrastructure. In this blog, I explore: If you're building or ma",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe0zzedaa31c4pqi67whs.jpeg"
+  },
+  {
+   "title": "Your uptime monitor is lying to you: why single-vantage-point monitoring can't see network reality",
+   "link": "https://dev.to/thomas_tran/your-uptime-monitor-is-lying-to-you-why-single-vantage-point-monitoring-cant-see-network-reality-5h54",
+   "date": "2026-07-04T10:43:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most uptime tools answer the same question. They tell you \"is service X up?\" from one vantage point — the monitoring server. But in a hybrid cloud, \"up\" is not a property of a service. It's a property of a path. A single",
    "image": null
   },
   {
-   "title": "SRE for People Who Hate SSH: A Beginner’s Guide to MongoDB Atlas",
-   "link": "https://dev.to/scalingdiaries/sre-for-people-who-hate-ssh-a-beginners-guide-to-mongodb-atlas-315j",
-   "date": "2026-07-04T06:57:36.000Z",
+   "title": "I built a localhost proxy that stops LangChain from hallucinating on dead RAG data (and cuts token burn by 50%)",
+   "link": "https://dev.to/vlsiddarth/i-built-a-localhost-proxy-that-stops-langchain-from-hallucinating-on-dead-rag-data-and-cuts-token-371n",
+   "date": "2026-07-04T10:30:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Let’s be honest: very few people wake up in the morning, stretch their arms, and think, \"Man, I cannot wait to write some custom automated backup cron jobs, manage TLS certificates, and manually configure database shardi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdcmj7102ka3x6w5oyums.png"
+   "summary": "The problem nobody's proxy was solving Every RAG pipeline I'd worked with had the same blind spot: once a document made it into the retrieval index, the LLM treated it as gospel forever. A 2022 blog post about a deprecat",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvlqp7xz3d5omxe848npp.png"
   },
   {
-   "title": "How We Solved ArgoCD Notifications' Single-Secret Limitation with Kyverno",
-   "link": "https://dev.to/krishanthisera/-how-we-solved-argocd-notifications-single-secret-limitation-with-kyverno-3ak2",
-   "date": "2026-07-04T06:50:00.000Z",
+   "title": "Day 58 - Optimizing ClickHouse® for High-Throughput Inserts",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-58-optimizing-clickhouser-for-high-throughput-inserts-4h7d",
+   "date": "2026-07-04T10:10:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Note: I wrote this post a while back, before Kyverno introduced its new Mutating Policies (released in Kyverno 1.15). The Kyverno manifests here use the older approach, but the core concept remains the same. If you run A",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffwi1uukbku6naa8egeyt.webp"
-  },
-  {
-   "title": "100 Days of DevOps, Day 5: SELinux Isn't Your Enemy, and GP3 Is Your Default",
-   "link": "https://dev.to/ndcodes/100-days-of-devops-day-5-selinux-isnt-your-enemy-and-gp3-is-your-default-55e1",
-   "date": "2026-07-04T06:42:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most people meet SELinux for the first time when something breaks, and their first move is to switch it off. I get the reflex. But \"disabled\" is the laziest of the three options SELinux hands you, and Day 5 of this chall",
+   "summary": "Introduction One of the defining strengths of ClickHouse® is its ability to ingest massive volumes of data while continuing to deliver exceptionally fast analytical queries. Whether you're processing application logs, Io",
    "image": null
+  },
+  {
+   "title": "What Is a DevOps Engineer Master Diploma Program? A Complete Guide",
+   "link": "https://dev.to/cybersecurity-12/what-is-a-devops-engineer-master-diploma-program-a-complete-guide-4f",
+   "date": "2026-07-04T09:50:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "DevOps has become one of the most sought-after career paths in the IT industry, bridging the gap between software development and operations. For graduates, working professionals, and system administrators looking to bre",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frh5apey5oqhmnbo7ht6l.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_append",
@@ -310,16 +320,6 @@
    "source": "Simon Willison",
    "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Pyt",
    "image": null
-  },
-  {
-   "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-   "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-   "date": "2026-07-02T18:54:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GT",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
   },
   {
    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
