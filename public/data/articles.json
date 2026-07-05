@@ -1,14 +1,114 @@
 {
- "generatedAt": "2026-07-05T00:11:29.280Z",
+ "generatedAt": "2026-07-05T08:13:37.186Z",
  "articles": [
   {
-   "title": "CI/CD Testing Tools Compared: the Same Pipeline in GitHub Actions, GitLab CI and Jenkins",
-   "link": "https://dev.to/dayan_elvisjahuirapilco/cicd-testing-tools-compared-the-same-pipeline-in-github-actions-gitlab-ci-and-jenkins-53",
-   "date": "2026-07-04T23:54:20.000Z",
+   "title": "Temporal vs n8n vs Airflow Webhook Automation",
+   "link": "https://dev.to/chasebot/temporal-vs-n8n-vs-airflow-webhook-automation-4loh",
+   "date": "2026-07-05T08:00:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR: I compared the major CI/CD tools for test automation (GitHub Actions, GitLab CI, Jenkins, CircleCI, Travis CI, TeamCity, Bitbucket Pipelines, Tekton, Harness) — and instead of stopping at a table, I wrote the exac",
+   "summary": "What You'll Need n8n Cloud or self-hosted n8n instance Hetzner VPS or Contabo VPS for self-hosting Temporal or Airflow DigitalOcean as an alternative VPS option A code editor (VS Code recommended) Basic knowledge of REST",
+   "image": null
+  },
+  {
+   "title": "When TLS 1.3-only broke everything behind Akamai",
+   "link": "https://dev.to/mridul_it_is/when-tls-13-only-broke-everything-behind-akamai-j3e",
+   "date": "2026-07-05T06:59:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The alert wasn't subtle. Requests just stopped hitting our backend nginx box. Internal traffic from our own domains kept flowing, but anything coming in through Akamai-hosted domains — routed via the External LB — went d",
+   "image": null
+  },
+  {
+   "title": "Why a curl User-Agent Isn't Automatically Malicious",
+   "link": "https://dev.to/logtriage/why-a-curl-user-agent-isnt-automatically-malicious-393a",
+   "date": "2026-07-05T06:38:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A surprising number of security tools treat user-agent strings as a static blocklist: see curl, python-requests, or Go-http-client, raise an alert. In practice, this produces so many false positives that analysts learn t",
+   "image": null
+  },
+  {
+   "title": "The Four Questions I Ask Before Any Team Gets LLM Access: Cost, Safety, Access, Audit",
+   "link": "https://dev.to/sahajmeet_kaur_/the-four-questions-i-ask-before-any-team-gets-llm-access-cost-safety-access-audit-7og",
+   "date": "2026-07-05T06:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR LLM governance comes down to four questions per request: what's it costing (FinOps), is it safe (guardrails), who's allowed to make it (access control), and can we reconstruct it later (audit). Budgets and guardrai",
+   "image": null
+  },
+  {
+   "title": "How to Pick an OpenTelemetry APM Backend in 2026",
+   "link": "https://dev.to/logan_zhang_8ca3575087c5b/how-to-pick-an-opentelemetry-apm-backend-in-2026-2ecg",
+   "date": "2026-07-05T04:56:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A practical guide to choosing an OpenTelemetry APM backend â€” evaluation criteria, common open-source patterns, and a hands-on look at a three-component stack. If you instrument once with OpenTelemetry and still spend n",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F65wleyhok87tht5qc5cu.png"
+  },
+  {
+   "title": "Global Phone & Email Verification - Built Smarter. Priced Better.",
+   "link": "https://dev.to/apexverify/global-phone-email-verification-built-smarter-priced-better-42l4",
+   "date": "2026-07-05T04:48:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🌍 Global Phone & Email Verification - Built Smarter. Priced Better. Introducing ApexVerify's custom abstract shared verification system, a modern approach to worldwide phone and email verification that's fast, reliable,",
+   "image": null
+  },
+  {
+   "title": "A Better CI Check for AWS Approval Emails",
+   "link": "https://dev.to/jasonmills94/a-better-ci-check-for-aws-approval-emails-22na",
+   "date": "2026-07-05T04:06:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A field-tested AWS CI/CD pattern for validating approval emails with Docker and a disposable email address before release. Approval emails are one of those workflows teams assume are fine until a change freeze gets stuck",
+   "image": null
+  },
+  {
+   "title": "Automating Security in Python: A Hands-On Guide to SAST with Bandit and GitHub Actions",
+   "link": "https://dev.to/cristhiancarlosmamanic/automating-security-in-python-a-hands-on-guide-to-sast-with-bandit-and-github-actions-3pn6",
+   "date": "2026-07-05T04:05:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction In today's fast-paced development cycles, security can no longer be an afterthought. Static Application Security Testing (SAST) tools help developers catch vulnerabilities early by analyzing source code befo",
+   "image": null
+  },
+  {
+   "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+   "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+   "date": "2026-07-05T01:00:48.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I f",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_hash",
+   "link": "https://postgr.es/p/9o8",
+   "date": "2026-07-05T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Parallel hash joins pool worker memory to build one shared table instead of having each worker build its own copy—a distinction that matters enormously on…",
+   "image": null
+  },
+  {
+   "title": "sqlite-utils 4.0rc2",
+   "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+   "date": "2026-07-05T00:47:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .",
    "image": null
   },
   {
@@ -22,26 +122,6 @@
    "image": null
   },
   {
-   "title": "Why Your Microservices Need Circuit Breakers (And How to Add Them)",
-   "link": "https://dev.to/samson_tanimawo/why-your-microservices-need-circuit-breakers-and-how-to-add-them-1ee8",
-   "date": "2026-07-04T23:02:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Cascading Failure That Took Down Everything Our payment service went down for 3 minutes. No big deal, right? Except every service that called payments kept retrying. The retry storms consumed all available connection",
-   "image": null
-  },
-  {
-   "title": "Meet checkOwners: confidence-scored CODEOWNERS from your git history",
-   "link": "https://dev.to/smusali/meet-checkowners-confidence-scored-codeowners-from-your-git-history-4280",
-   "date": "2026-07-04T23:00:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"Who owns this code?\" is a question most teams answer with folklore. GitHub's CODEOWNERS file is supposed to answer it, but it gets written once, rots quietly, and keeps routing reviews to people who changed teams a year",
-   "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg"
-  },
-  {
    "title": "Better Models: Worse Tools",
    "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
    "date": "2026-07-04T22:53:52.000Z",
@@ -49,56 +129,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] a",
-   "image": null
-  },
-  {
-   "title": "A write is not just a write",
-   "link": "https://dev.to/davidloibner/a-write-is-not-just-a-write-34b1",
-   "date": "2026-07-04T22:00:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The point became clear to me while working on the GitHub adapter (a more or less simple GitHub gateway for AI agents creating PRs). At first, creating a pull request looks like one write. A branch is created, commits are",
-   "image": null
-  },
-  {
-   "title": "I Thought I Understood Containers. Then I Tried Building One.",
-   "link": "https://dev.to/henryosei/i-thought-i-understood-containers-then-i-tried-building-one-5a80",
-   "date": "2026-07-04T21:48:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I had just aced my mentor’s Docker exam, so of course I thought I understood containers. I had said all the right words: namespaces, cgroups, images, layers, PID 1, Kubernetes Pods. Then I typed my first serious command ",
-   "image": null
-  },
-  {
-   "title": "Cómo validar correos de rollback en Kubernetes",
-   "link": "https://dev.to/alexcarteruk/como-validar-correos-de-rollback-en-kubernetes-p2b",
-   "date": "2026-07-04T21:35:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cuando un despliegue falla y el rollback entra en juego, el correo de notificación suele ser la primera señal que ve el equipo fuera de los dashboards. El problema es que muchas veces ese mensaje se valida tarde, con ban",
-   "image": null
-  },
-  {
-   "title": "Terraform vs CloudFormation: The Matrix of IaC",
-   "link": "https://dev.to/timevolt/terraform-vs-cloudformation-the-matrix-of-iac-4ggd",
-   "date": "2026-07-04T21:28:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Look, I’ve been there. You’re spinning up a new environment for a side‑project, and you find yourself clicking through the AWS console, copying‑pasting CLI commands into a terminal, and prayi",
-   "image": null
-  },
-  {
-   "title": "I Cut My AWS Hosting Bill from ~$45/mo to ~$8 by Consolidating Three Apps on One Lightsail Box",
-   "link": "https://dev.to/david_shibley/i-cut-my-aws-hosting-bill-from-45mo-to-8-by-consolidating-three-apps-on-one-lightsail-box-53ga",
-   "date": "2026-07-04T20:59:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How I moved portfolio, krogerCart, and chat-bot off separate EC2 instances onto a single $5 Lightsail instance with Docker and Caddy and what broke along the way. I had three small web apps running on three separate EC2 ",
    "image": null
   },
   {
@@ -332,16 +362,6 @@
    "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_nestloop",
-   "link": "https://postgr.es/p/9n_",
-   "date": "2026-07-03T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Nested loop joins are PostgreSQL's most notorious performance disaster—but only when the planner misestimates row counts.",
-   "image": null
-  },
-  {
    "title": "PHP 8.5.8 Released!",
    "link": "https://www.php.net/index.php#2026-07-02-5",
    "date": "2026-07-02T19:55:50.000Z",
@@ -349,26 +369,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.5.8. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.8 please visit our , Wi",
-   "image": null
-  },
-  {
-   "title": "llm-coding-agent 0.1a0",
-   "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
-   "date": "2026-07-02T19:33:12.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Pyt",
-   "image": null
-  },
-  {
-   "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-   "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-   "date": "2026-07-02T18:25:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Research: Using DSPy to evaluate and improve Datasette Agent&#x27;s SQL system prompts One of this morning's AIE keynotes covered dspy , which reminded me I've been meaning to see if it could help me improve the system p",
    "image": null
   },
   {
@@ -462,16 +462,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
   },
   {
-   "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
-   "link": "https://tympanus.net/codrops/2026/07/02/from-years-of-client-work-to-a-next-js-sanity-starter-kit/",
-   "date": "2026-07-02T10:21:00.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How years of refining my workflow became a headless foundation other developers can build on.",
-   "image": null
-  },
-  {
    "title": "Drupal Core News: Use Rector on your Drupal site easier than ever with new Composer-based sets",
    "link": "https://www.drupal.org/about/core/blog/use-rector-on-your-drupal-site-easier-than-ever-with-new-composer-based-sets",
    "date": "2026-07-02T09:35:07.000Z",
@@ -530,16 +520,6 @@
    "source": "Laravel News",
    "summary": "phpcpd-next is a maintained, dependency-free successor to Sebastian Bergmann's phpcpd that finds duplicated PHP code, including reordered and gapped clones. The post A Copy/Paste Detector CLI for PHP 8.5+ appeared first ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/phpcpd-next-featured.png"
-  },
-  {
-   "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
-   "link": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
-   "date": "2026-07-01T10:13:35.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization.",
-   "image": null
   },
   {
    "title": "Worker Metrics on the WorkerStopping Event in Laravel 13.18",
@@ -622,16 +602,6 @@
    "image": null
   },
   {
-   "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
-   "link": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
-   "date": "2026-06-30T09:35:41.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
-   "image": null
-  },
-  {
    "title": "Clonio CLI: Clone Production Databases With Anonymized Data",
    "link": "https://laravel-news.com/clonio-cli-clone-production-databases-with-anonymized-data?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-06-30T03:15:23.000Z",
@@ -669,16 +639,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Update, July 1, 2026: Percona Server for MySQL 8.4.10-10 is now available. It carries the content originally planned for 8.4.9 plus the upstream security fixes. See the 8.4.10-10 release notes. 9.7.1 is still on the way;",
-   "image": null
-  },
-  {
-   "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
-   "link": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
-   "date": "2026-06-29T10:05:45.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A behind-the-scenes look at how editorial composition, purposeful motion, and minimalist design create a portfolio that lets cinematic CGI take the spotlight.",
    "image": null
   },
   {
@@ -752,16 +712,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png"
   },
   {
-   "title": "Engineering the Web Experience Behind Shopify’s Spring ’26 Edition: Everywhere",
-   "link": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
-   "date": "2026-06-26T09:34:40.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere.",
-   "image": null
-  },
-  {
    "title": "Run a vLLM Server on HF Jobs in One Command",
    "link": "https://huggingface.co/blog/vllm-jobs",
    "date": "2026-06-26T00:00:00.000Z",
@@ -802,16 +752,6 @@
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
-   "title": "Shaping Stories into Experience: The Work of Kevin Lam",
-   "link": "https://tympanus.net/codrops/2026/06/25/shaping-stories-into-experience-the-work-of-kevin-lam/",
-   "date": "2026-06-25T12:33:23.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A spotlight on Brisbane-based designer Kevin Lam, and his practice of turning brand stories into soulful experiences across digital, print and motion.",
-   "image": null
-  },
-  {
    "title": "Spotlight on WG Device Management",
    "link": "https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/",
    "date": "2026-06-24T18:00:00.000Z",
@@ -832,16 +772,6 @@
    "image": null
   },
   {
-   "title": "Testing What Users Actually See with Vitest and Chromatic",
-   "link": "https://tympanus.net/codrops/2026/06/24/testing-what-users-actually-see-with-vitest-and-chromatic/",
-   "date": "2026-06-24T13:59:47.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Add fast, stable visual testing to your Browser Mode component tests",
-   "image": null
-  },
-  {
    "title": "CSS that picks its own readable text color",
    "link": "https://frontendfoc.us/issues/747",
    "date": "2026-06-24T00:00:00.000Z",
@@ -859,16 +789,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Podium: Building a Website Where Running Becomes Storytelling",
-   "link": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
-   "date": "2026-06-23T15:59:01.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How we designed and built a portfolio that preserves cinematic storytelling through rhythm, motion, and restraint.",
    "image": null
   },
   {
