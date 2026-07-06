@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T14:36:14.602Z",
+ "generatedAt": "2026-07-06T19:03:52.216Z",
  "articles": [
   {
    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -12,83 +12,153 @@
    "image": null
   },
   {
-   "title": "Review Kickboxing Rounds: what we learned building Random Tactical Timer",
-   "link": "https://dev.to/igorganapolsky/review-kickboxing-rounds-what-we-learned-building-random-tactical-timer-2f2a",
-   "date": "2026-07-06T14:22:44.000Z",
+   "title": "Secure VM Access Without Public IPs: A Beginner's Guide to Azure Bastion Service for Secure And Efficient VM Access",
+   "link": "https://dev.to/olakunle_makanjuola_92754/secure-vm-access-without-public-ips-a-beginners-guide-to-azure-bastion-service-for-secure-and-1c0h",
+   "date": "2026-07-06T18:47:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-07-06-review-kickboxing-rounds-what-we-learned-building-random-tactical-timer.svg"
+   "summary": "Introduction To overcome this problem, Azure Bastion is a Platform as a Service (PaaS) solution which provides secure SSH and RDP connection from Azure portal using HTTPS (Port 443). The use of Azure Bastion eliminates t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjzic0fj4fs9xwimyp653.png"
   },
   {
-   "title": "Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates",
-   "link": "https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97",
-   "date": "2026-07-06T14:14:46.000Z",
+   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
+   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-61k",
+   "date": "2026-07-06T18:45:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "One thing I discovered today is that before Kubernetes can decide what you're allowed to do, it first needs to know who you are. That means there are two separate steps: Authentication – Proving your identity using a cli",
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I spent three days last month debugging a production outage caused by an AI-generated SQL query. In my experience, Three days. The culprit? A tool that confidently suggested a join",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi0z3tsn4puv281rgyu3v.jpg"
+  },
+  {
+   "title": "Before You Paste That Log: A Safer Debugging Habit",
+   "link": "https://dev.to/omarh-creator/before-you-paste-that-log-a-safer-debugging-habit-23c4",
+   "date": "2026-07-06T18:38:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Debugging is collaborative. You paste a stack trace into an issue. You send curl -v output to a teammate. You drop a failing docker compose log into Discord. You ask an AI chat why a service is returning 401. Most of the",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feekztnox829bdy58eoqd.png"
+  },
+  {
+   "title": "Are You Over-Provisioning Your Kubernetes Cluster? The Hidden Cost of Unused Resources",
+   "link": "https://dev.to/nalluri_gowtham_c21a3b06a/are-you-over-provisioning-your-kubernetes-cluster-the-hidden-cost-of-unused-resources-1i6a",
+   "date": "2026-07-06T18:35:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Imagine renting a large office building for 200 employees, but only 80 people come to work every day. Although the space remains mostly empty, you're still paying for the entire building. Over-provisioning i",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F67f96um81ykjjjapncw1.png"
+  },
+  {
+   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
+   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-jaj",
+   "date": "2026-07-06T18:35:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Did you know that a single month of using GPT-4 for a mid-sized app can cost more than a Tesla? That’s right—$20,000 in API calls could buy you a Model 3. But here’s the uncomforta",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5stqujncfytkpco5edmb.jpg"
+  },
+  {
+   "title": "Understanding File Descriptors & Redirection in Linux",
+   "link": "https://dev.to/dharam_in/understanding-file-descriptors-redirection-in-linux-ca2",
+   "date": "2026-07-06T18:35:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "File Descriptors What is a File Descriptors A file descriptor is simply a non-negative integer that the opreting system uses to identify an open file or I/O resources. in linux eveything is treating as a file, including ",
    "image": null
   },
   {
-   "title": "Why your Supabase bill is actually $110/mo — and what to do about it",
-   "link": "https://dev.to/tsushanth/why-your-supabase-bill-is-actually-110mo-and-what-to-do-about-it-3m22",
-   "date": "2026-07-06T14:04:27.000Z",
+   "title": "Ansible im Alltag – Idempotente Rollen, die jahrelang stabil bleiben",
+   "link": "https://dev.to/uhltak/ansible-im-alltag-idempotente-rollen-die-jahrelang-stabil-bleiben-2i09",
+   "date": "2026-07-06T18:00:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Supabase advertises a $25/mo Pro plan. That number is real. It is also misleading. Here is what a production-ready Supabase setup actually costs: Pro plan: $25/mo Compute upgrade (Micro is too weak for real traffic; Smal",
+   "summary": "Ansible im Alltag – Idempotente Rollen, die jahrelang stabil bleiben Hook – Sie haben sich schon einmal darüber geärgert, dass ein Playbook nach einem Update plötzlich ganze Server neu aufsetzt, weil ein einzelner Task p",
    "image": null
   },
   {
-   "title": "Queue Position Estimation Under Partial Order Book Visibility for a Polymarket Trading bot",
-   "link": "https://dev.to/mateosoul/queue-position-estimation-under-partial-order-book-visibility-for-a-polymarket-trading-bot-13d6",
-   "date": "2026-07-06T14:03:30.000Z",
+   "title": "AI Prompt Templates for Prometheus Alerting",
+   "link": "https://dev.to/devopsaitoolkit/ai-prompt-templates-for-prometheus-alerting-2a7n",
+   "date": "2026-07-06T17:45:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In modern prediction markets and high-frequency trading systems, understanding your true position in the queue is often more important than simply placing an order. This is especially true when working with a Polymarket ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F16nuir85ndjnnmc0ovng.png"
-  },
-  {
-   "title": "Starting DevOps Journey...",
-   "link": "https://dev.to/absurd_sapien/starting-devops-journey-25fg",
-   "date": "2026-07-06T14:01:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Today I'm starting my DevOps journey. No shortcuts. Just learning, building, and showing up every day. Looking forward to seeing how much I can grow over the next few months. Will be posting weekly updates...",
+   "summary": "Writing good Prometheus alerts is hard. Most alerts are too sensitive (page on every blip), too lax (miss real outages), or missing context (no runbook, no labels, no severity routing). AI assistants are unusually good a",
    "image": null
   },
   {
-   "title": "AI-Native Development Flow: 4 Months, 153 PRs, Production",
-   "link": "https://dev.to/flipslidersand/ai-native-development-flow-4-months-153-prs-production-10j3",
-   "date": "2026-07-06T13:45:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I joined a used-car export company as the only engineer. There was no existing codebase. No engineering team. Just a mandate: build an internal operations platform for sales, inventory, and back-office work — and get it ",
+   "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+   "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+   "date": "2026-07-06T17:37:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw si",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg"
+  },
+  {
+   "title": "Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 20 – Add backend-level lock statistics",
+   "link": "https://postgr.es/p/9ow",
+   "date": "2026-07-06T17:30:55.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 30th of June 2026, Michael Paquier committed patch: Add backend-level lock statistics This commit adds per-backend lock statistics, providing the same information as pg_stat_lock. It is now possible to retrieve those ",
    "image": null
   },
   {
-   "title": "#Advantages and Disadvantages of Cloud Computing *Understanding the Benefits and Challenges of Cloud Computing in the Modern Digital Age* ---",
-   "link": "https://dev.to/ayobiojo_ololade_46fc799b/advantages-and-disadvantages-of-cloud-computing-understanding-the-benefits-and-challenges-of-4bol",
-   "date": "2026-07-06T13:37:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction What is Cloud Computing? Advantages of Cloud Computing Cost Savings One of the biggest advantages of cloud computing is its ability to reduce operational costs. Organizations no longer need to invest heavily",
+   "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+   "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+   "date": "2026-07-06T16:28:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerabi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg"
+  },
+  {
+   "title": "PRX Part 4: Our Data Strategy",
+   "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+   "date": "2026-07-06T15:30:55.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
-   "title": "Container Security for SREs: The Practical Checklist",
-   "link": "https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3",
-   "date": "2026-07-06T13:36:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Security Is Part of Reliability SREs think about availability, latency, and throughput. But a security breach is just another type of incident — often the worst kind. Here's the container security checklist I use. # Bad:",
+   "title": "Michael Banck: Replication Deadlock Bug in Current Postgres Releases 14-16",
+   "link": "https://postgr.es/p/9os",
+   "date": "2026-07-06T15:30:18.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Replication Deadlock Bug in Current Postgres Releases 14-16 The current minor releases of Postgres versions 14-16 (14.23, 15.18 and 16.14, released on May 14th) introduced a regression that can lead to a MultiXactOffsetS",
+   "image": null
+  },
+  {
+   "title": "Devrim GÜNDÜZ: Inaugural PostgreSQL Istanbul Meetup was a blast!",
+   "link": "https://postgr.es/p/9or",
+   "date": "2026-07-06T14:53:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "We had our first meetup on Thursday, July 2nd, organized by the community people for the community people. Bilge Korkmaz Erdim, Gülçin Yıldırım Jelínek, and I had been working on the meetup idea for a long time, and it f",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: ECA Crosses 20,000 Reported Drupal Site Installations",
+   "link": "https://www.thedroptimes.com/70973/eca-crosses-20000-drupal-installations?utm_source=Drupal Planet",
+   "date": "2026-07-06T14:19:52.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "ECA’s reported growth shows how far configuration-based automation has moved into Drupal site-building practice. The milestone also raises the stakes for a project that many sites now rely on for workflow decisions, inte",
    "image": null
   },
   {
@@ -222,16 +292,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
   },
   {
-   "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-   "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-   "date": "2026-07-06T06:33:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Scienc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
-  },
-  {
    "title": "sqlite-utils 4.0rc3",
    "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
    "date": "2026-07-06T05:40:08.000Z",
@@ -322,16 +382,6 @@
    "image": null
   },
   {
-   "title": "Regina Obe: PostGIS 3.7.0alpha1",
-   "link": "https://postgr.es/p/9om",
-   "date": "2026-07-05T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0alpha1! Best Served with PostgreSQL 19 Beta1 and GEOS 3.15 which will be released soon. This version requires PostgreSQL 14 - 19beta1, GEOS 3.10 or higher, and Proj 6.1",
-   "image": null
-  },
-  {
    "title": "Building a World Map with only 500 bytes",
    "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
    "date": "2026-07-04T23:09:02.000Z",
@@ -352,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Henrietta Dombrovskaya: PG DATA 2026 recap, and looking forward to PG DATA 2027",
-   "link": "https://postgr.es/p/9o7",
-   "date": "2026-07-04T18:10:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "It has been a month since PG DATA 2026, the first full-scale event organized by Prairie Postgres. Looking at the feedback we received from the seekers, sponsors, and participants (and regrets of those who were unable to ",
-   "image": "https://hdombrovskaya.wordpress.com/wp-content/uploads/2026/07/image.png?w=1024"
-  },
-  {
    "title": "Penyaskito: Canvas Internals - JSON data types in differentes databases: It works on my machine!",
    "link": "http://penyaskito.com/articles/2026/07/04/canvas-json-data-types-differentes-database-engines",
    "date": "2026-07-04T16:24:03.000Z",
@@ -370,26 +410,6 @@
    "source": "Drupal Planet",
    "summary": "Canvas Internals - JSON data types in differentes databases: It works on my machine! Image Drupal has been working to add a JSON data type since 2023, but that has not landed yet. Drupal Canvas jumps ahead of that in its",
    "image": "http://penyaskito.com/sites/default/files/2026-07/json-db-key-order.svg"
-  },
-  {
-   "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-   "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-   "date": "2026-07-04T12:47:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the pay",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_append",
-   "link": "https://postgr.es/p/9o6",
-   "date": "2026-07-04T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Parallel Append spreads workers across partitions or UNION branches simultaneously, not sequentially.",
-   "image": null
   },
   {
    "title": "Open Source AI Gap Map",
@@ -499,16 +519,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.3.32. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.32 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "Nextide Blog: Someone Has to Hold the State: Maestro's Place in Drupal's Orchestration Stack",
-   "link": "https://www.nextide.ca/drupal-orchestration-maestro-state",
-   "date": "2026-07-02T15:30:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Randy Kolenko, partner and senior architect at Nextide, recently joined the Drupal Orchestration Initiative with Jurgen Haas, Shibin Das and Dries Buytaert. The Orchestration Initiative is still in its infancy, however, ",
    "image": null
   },
   {
@@ -809,16 +819,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere.",
-   "image": null
-  },
-  {
-   "title": "Run a vLLM Server on HF Jobs in One Command",
-   "link": "https://huggingface.co/blog/vllm-jobs",
-   "date": "2026-06-26T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
