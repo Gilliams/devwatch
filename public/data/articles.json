@@ -1,84 +1,174 @@
 {
- "generatedAt": "2026-07-06T00:15:16.105Z",
+ "generatedAt": "2026-07-06T09:09:19.664Z",
  "articles": [
   {
-   "title": "The Incident Commander Role: Running Incidents Without Chaos",
-   "link": "https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl",
-   "date": "2026-07-06T00:04:53.000Z",
+   "title": "Mastering Redis Queues: Laravel Horizon Architecture",
+   "link": "https://dev.to/iprajapatiparesh/mastering-redis-queues-laravel-horizon-architecture-43lf",
+   "date": "2026-07-06T08:58:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Everyone's Debugging, Nobody's Leading Five engineers in an incident channel. All debugging independently. Nobody coordinating. Three people checking the same dashboard. Two trying conflicting fixes. Customers waiting. T",
+   "summary": "The Asynchronous Black Box When building enterprise applications at Smart Tech Devs, you quickly realize that executing everything synchronously is impossible. Generating PDFs, sending bulk emails, and processing Stripe ",
    "image": null
   },
   {
-   "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
-   "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-58g3",
-   "date": "2026-07-06T00:02:24.000Z",
+   "title": "Gabriele Bartolini: CNPG Recipe 25 - Declarative Roles and Passwordless TLS in CloudNativePG 1.30",
+   "link": "https://postgr.es/p/9op",
+   "date": "2026-07-06T08:56:47.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "CloudNativePG 1.30 introduces the DatabaseRole CRD and built-in TLS client certificate issuance, letting application teams own their PostgreSQL credentials declaratively and connect without ever handling a password.",
+   "image": null
+  },
+  {
+   "title": "FinOps savings decay vs autonomous remediation: which wins at 6 months",
+   "link": "https://dev.to/zop_8abedcc7e12/finops-savings-decay-vs-autonomous-remediation-which-wins-at-6-months-1gg6",
+   "date": "2026-07-06T08:55:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "So you've scaled past the single-bot prototype. The Jupyter notebook experiments are over. Now you have 100, 500, maybe 1,000 autonomous agents running in production, each executing tasks, calling APIs, and generating re",
+   "summary": "The Savings Decay Problem Nobody Talks About Cloud cost optimizations degrade predictably after implementation, and the degradation is structural, not accidental. Every manual FinOps cycle produces a point-in-time snapsh",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9vflyvc8829vocnhnsa9.png"
+  },
+  {
+   "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+   "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+   "date": "2026-07-06T08:50:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
+  },
+  {
+   "title": "🚀 How Does Kubernetes Handle Traffic Spikes?",
+   "link": "https://dev.to/zaved_akthar_7227/how-does-kubernetes-handle-traffic-spikes-2lj0",
+   "date": "2026-07-06T08:44:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A sudden surge in users can bring down an application if the infrastructure isn't prepared. Kubernetes helps businesses stay online and responsive through: Horizontal Pod Autoscaling (HPA) Load Balancing Self-Healing Cap",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm4zjkwullabtijl3sz36.jpeg"
+  },
+  {
+   "title": "Best Solar Panel Manufacturers in Punjab: How to Choose the Right Solar Partner for Your Energy Needs",
+   "link": "https://dev.to/ushasolar/best-solar-panel-manufacturers-in-punjab-how-to-choose-the-right-solar-partner-for-your-energy-c1i",
+   "date": "2026-07-06T08:43:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Punjab is a place for solar energy. The state is one of the places in India for farming and industry. This makes it a perfect spot for people to use energy. With electricity costs going up people are looking for ways to ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqw7bhbdvhd7wy5mgl2as.png"
+  },
+  {
+   "title": "Why Your Kubernetes Costs Never Stay the Same",
+   "link": "https://dev.to/puneetha_jalagam/why-your-kubernetes-costs-never-stay-the-same-b01",
+   "date": "2026-07-06T08:22:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ever checked your cloud bill and wondered why it's so much higher than last month, even though nothing seemed to change? If you run apps on Kubernetes, you've probably seen this happen. Nothing dramatic happened on your ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ujynyzsbywraxkqqsm3.png"
+  },
+  {
+   "title": "Debugging ColdFusion Scheduled Tasks That Silently Fail With No Log Output",
+   "link": "https://dev.to/deepak_sir__/debugging-coldfusion-scheduled-tasks-that-silently-fail-with-no-log-output-2047",
+   "date": "2026-07-06T08:17:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When a ColdFusion scheduled task silently fails — the Administrator shows it configured, the scheduler log may even show it “completed,” but no template actually ran, no output generated, no records updated — the root ca",
    "image": null
   },
   {
-   "title": "The deployment permission I deliberately withheld from my AI agents",
-   "link": "https://dev.to/kimlike/the-deployment-permission-i-deliberately-withheld-from-my-ai-agents-5b54",
+   "title": "Fixing tmux dashboard for coding agents: Mobile Clipboard + 30%",
+   "link": "https://dev.to/umair24171/fixing-tmux-dashboard-for-coding-agents-mobile-clipboard-30-md2",
+   "date": "2026-07-06T08:17:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This article was originally published on BuildZn. Everyone talks about managing LLMs but nobody explains how to babysit them in CLI. Juggling 3+ tmux sessions for my coding agents was driving me nuts. Here's my custom tm",
+   "image": null
+  },
+  {
+   "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+   "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+   "date": "2026-07-06T08:13:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
+  },
+  {
+   "title": "Bmup Multi-Asset Institute: The Integration of Love and Investment",
+   "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-the-integration-of-love-and-investment-3fga",
+   "date": "2026-07-06T08:06:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bmup Multi-Asset Institute was founded in 2012, born from a deeply unforgettable life experience. The 2008 subprime mortgage crisis plunged the global financial system into chaos and once left Grant Miller bankrupt and a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faxtllk5bkug22hgcurf1.png"
+  },
+  {
+   "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+   "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+   "date": "2026-07-06T07:27:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
+  },
+  {
+   "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+   "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+   "date": "2026-07-06T06:33:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Scienc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg"
+  },
+  {
+   "title": "sqlite-utils 4.0rc3",
+   "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+   "date": "2026-07-06T05:40:08.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept ge",
+   "image": null
+  },
+  {
+   "title": "Hans-Juergen Schoenig: Why pg_hardstorage has no incremental chain",
+   "link": "https://postgr.es/p/9oo",
+   "date": "2026-07-06T05:00:01.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Almost every conversation about pg_hardstorage's repository format ends up at the same question: \"where's the incremental chain?\" Short answer: there isn't one. By design. The chain footgun In a chained-incremental forma",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_partition_pruning",
+   "link": "https://postgr.es/p/9on",
+   "date": "2026-07-06T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's partition pruning eliminates unnecessary partition scans in two distinct phases — at plan time and execution time — and you need to check…",
+   "image": null
+  },
+  {
+   "title": "🤗 Kernels: Major Updates",
+   "link": "https://huggingface.co/blog/revamped-kernels",
    "date": "2026-07-06T00:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The agent finishes its work at 2am. Snapshot built, preflight checks passed, everything green. Then it files a deploy request and stops. That is intentional. The agent cannot ship its own build. I withheld that capabilit",
-   "image": null
-  },
-  {
-   "title": "Cómo probar correos de handoff en guardias SRE",
-   "link": "https://dev.to/alexcarteruk/como-probar-correos-de-handoff-en-guardias-sre-m14",
-   "date": "2026-07-05T23:24:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cuando una guardia cambia de turno, el correo de handoff suele cargar más contexto del que parece. Resume alertas abiertas, pods tocados, mitigaciones temporales y el siguiente paso esperado. Si ese mensaje sale tarde, i",
-   "image": null
-  },
-  {
-   "title": "Defending the Realm: Secrets, SSL, and Firewalls – A Lord of the Rings Adventure",
-   "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-lord-of-the-rings-adventure-20mf",
-   "date": "2026-07-05T23:19:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I pushed a side‑project to a public repo and felt that tiny knot in my stomach. I had hard‑coded my API keys straight into the source, left the dev s",
-   "image": null
-  },
-  {
-   "title": "Omdaa API Is Now Free Forever — What Changed and How to Migrate",
-   "link": "https://dev.to/omdaa/omdaa-api-is-now-free-forever-what-changed-and-how-to-migrate-185l",
-   "date": "2026-07-05T23:16:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Omdaa API Is Now Free Forever — What Changed and How to Migrate We just shipped the biggest change in Omdaa's history: every feature is now free forever. No paid tiers, no credit card, no upgrade walls. Full details on o",
-   "image": null
-  },
-  {
-   "title": "The date format that broke my production AI agent (and the boring fix)",
-   "link": "https://dev.to/kimlike/the-date-format-that-broke-my-production-ai-agent-and-the-boring-fix-1281",
-   "date": "2026-07-05T21:52:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The demo was clean. Forty-three test cases, all passing. The agent took a structured input, processed it, wrote the result downstream. I watched it run a dozen times in staging, everything right. I put it live. Three day",
-   "image": null
-  },
-  {
-   "title": "Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?",
-   "link": "https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0",
-   "date": "2026-07-05T21:04:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"Docker vs Kubernetes\" is one of those framings that quietly sends people down the wrong road. It sounds like a choice between two competing tools, so teams treat it like a bake-off. It isn't. Docker builds and runs cont",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -262,16 +352,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
   },
   {
-   "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-   "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-   "date": "2026-07-03T18:55:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security control",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
-  },
-  {
    "title": "Fable's judgement",
    "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
    "date": "2026-07-03T18:51:06.000Z",
@@ -282,16 +362,6 @@
    "image": null
   },
   {
-   "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-   "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-   "date": "2026-07-03T16:07:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"ro",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
-  },
-  {
    "title": "The Drop Times: Shibin Das on Making Drupal Workflows Legible",
    "link": "https://www.thedroptimes.com/interview/70951/shibin-das-flowdrop-workflow-legibility?utm_source=Drupal Planet",
    "date": "2026-07-03T15:39:22.000Z",
@@ -300,66 +370,6 @@
    "source": "Drupal Planet",
    "summary": "Shibin Das explains why visual workflow tools need visible execution, audit trails, runtime ownership, and clear boundaries between deterministic workflows and AI-assisted decision-making.",
    "image": null
-  },
-  {
-   "title": "June 2026 newsletter",
-   "link": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
-   "date": "2026-07-03T14:50:50.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Claude Fable 5, GPT-5.6, and US export restrictions GLM-5.2 is",
-   "image": null
-  },
-  {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: Checksums For All",
-   "link": "https://postgr.es/p/9o5",
-   "date": "2026-07-03T13:42:31.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Data checksums are one of those Postgres features that, when they are doing their job, are easily forgotten. They sit quietly in the header of every data page as a small integer fingerprint, forever waiting to thwart the",
-   "image": null
-  },
-  {
-   "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-   "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-   "date": "2026-07-03T13:36:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
-  },
-  {
-   "title": "Floor Drees: Meeting in Montreal: Developer U plan(ner) patches",
-   "link": "https://postgr.es/p/9o3",
-   "date": "2026-07-03T12:19:44.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "We wrote about the program we run internally for colleagues who show promise for PostgreSQL development on this blog before. Last week, a good portion of that group met in-person for the 3rd time. A summary of the topics",
-   "image": null
-  },
-  {
-   "title": "Antony Pegg: How to Build a RAG Server on pgEdge Cloud via the API",
-   "link": "https://postgr.es/p/9o2",
-   "date": "2026-07-03T11:15:11.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "This blog is going to show you how to set up your own RAG Server on pgEdge Cloud. The Cloud UI makes this so easy it is almost insulting - a few clicks and you are done - so I am going to show you the harder and more int",
-   "image": "https://a.storyblok.com/f/187930/2606x1550/27cc9e5cab/heres-1.png"
-  },
-  {
-   "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-   "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
-   "date": "2026-07-03T11:05:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
   },
   {
    "title": "Undpaul.de: Drupal Tip: How to change field length with existing data",
@@ -910,16 +920,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​747 — June 24, 2026 | Read on the web Modern CSS Theming with light-dark(), contrast-color(), and Style Queries — Get dark mode, automatic readable text, and per-component palettes, all from a single ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/g8kuyjhhkl9o8cmpbaqx.jpg"
-  },
-  {
-   "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-   "link": "https://huggingface.co/blog/ffasr-leaderboard",
-   "date": "2026-06-24T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "Podium: Building a Website Where Running Becomes Storytelling",
