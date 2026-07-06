@@ -1,15 +1,185 @@
 {
- "generatedAt": "2026-07-06T09:09:19.664Z",
+ "generatedAt": "2026-07-06T14:36:14.602Z",
  "articles": [
   {
-   "title": "Mastering Redis Queues: Laravel Horizon Architecture",
-   "link": "https://dev.to/iprajapatiparesh/mastering-redis-queues-laravel-horizon-architecture-43lf",
-   "date": "2026-07-06T08:58:12.000Z",
+   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+   "link": "https://huggingface.co/blog/lerobot-release-v060",
+   "date": "2026-07-07T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Review Kickboxing Rounds: what we learned building Random Tactical Timer",
+   "link": "https://dev.to/igorganapolsky/review-kickboxing-rounds-what-we-learned-building-random-tactical-timer-2f2a",
+   "date": "2026-07-06T14:22:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Asynchronous Black Box When building enterprise applications at Smart Tech Devs, you quickly realize that executing everything synchronously is impossible. Generating PDFs, sending bulk emails, and processing Stripe ",
+   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-07-06-review-kickboxing-rounds-what-we-learned-building-random-tactical-timer.svg"
+  },
+  {
+   "title": "Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates",
+   "link": "https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97",
+   "date": "2026-07-06T14:14:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "One thing I discovered today is that before Kubernetes can decide what you're allowed to do, it first needs to know who you are. That means there are two separate steps: Authentication – Proving your identity using a cli",
    "image": null
+  },
+  {
+   "title": "Why your Supabase bill is actually $110/mo — and what to do about it",
+   "link": "https://dev.to/tsushanth/why-your-supabase-bill-is-actually-110mo-and-what-to-do-about-it-3m22",
+   "date": "2026-07-06T14:04:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Supabase advertises a $25/mo Pro plan. That number is real. It is also misleading. Here is what a production-ready Supabase setup actually costs: Pro plan: $25/mo Compute upgrade (Micro is too weak for real traffic; Smal",
+   "image": null
+  },
+  {
+   "title": "Queue Position Estimation Under Partial Order Book Visibility for a Polymarket Trading bot",
+   "link": "https://dev.to/mateosoul/queue-position-estimation-under-partial-order-book-visibility-for-a-polymarket-trading-bot-13d6",
+   "date": "2026-07-06T14:03:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In modern prediction markets and high-frequency trading systems, understanding your true position in the queue is often more important than simply placing an order. This is especially true when working with a Polymarket ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F16nuir85ndjnnmc0ovng.png"
+  },
+  {
+   "title": "Starting DevOps Journey...",
+   "link": "https://dev.to/absurd_sapien/starting-devops-journey-25fg",
+   "date": "2026-07-06T14:01:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Today I'm starting my DevOps journey. No shortcuts. Just learning, building, and showing up every day. Looking forward to seeing how much I can grow over the next few months. Will be posting weekly updates...",
+   "image": null
+  },
+  {
+   "title": "AI-Native Development Flow: 4 Months, 153 PRs, Production",
+   "link": "https://dev.to/flipslidersand/ai-native-development-flow-4-months-153-prs-production-10j3",
+   "date": "2026-07-06T13:45:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I joined a used-car export company as the only engineer. There was no existing codebase. No engineering team. Just a mandate: build an internal operations platform for sales, inventory, and back-office work — and get it ",
+   "image": null
+  },
+  {
+   "title": "#Advantages and Disadvantages of Cloud Computing *Understanding the Benefits and Challenges of Cloud Computing in the Modern Digital Age* ---",
+   "link": "https://dev.to/ayobiojo_ololade_46fc799b/advantages-and-disadvantages-of-cloud-computing-understanding-the-benefits-and-challenges-of-4bol",
+   "date": "2026-07-06T13:37:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction What is Cloud Computing? Advantages of Cloud Computing Cost Savings One of the biggest advantages of cloud computing is its ability to reduce operational costs. Organizations no longer need to invest heavily",
+   "image": null
+  },
+  {
+   "title": "Container Security for SREs: The Practical Checklist",
+   "link": "https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3",
+   "date": "2026-07-06T13:36:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Security Is Part of Reliability SREs think about availability, latency, and throughput. But a security breach is just another type of incident — often the worst kind. Here's the container security checklist I use. # Bad:",
+   "image": null
+  },
+  {
+   "title": "Drupal Starshot blog: Drupal CMS product strategy: version 2.0",
+   "link": "https://www.drupal.org/about/initiatives/cms/blog/drupal-cms-product-strategy-version-20",
+   "date": "2026-07-06T13:33:44.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We've published an updated product strategy for Drupal CMS. Version 2.0 replaces the original Drupal Starshot strategy from August 2024, and it reflects where we are after nearly two years of building. The updated strate",
+   "image": null
+  },
+  {
+   "title": "Skynet Technologies USA LLC Blogs: What's New in Drupal 11.4.0: Features, Improvements, and Upgrade Highlights!",
+   "link": "https://www.skynettechnologies.com/blog/drupal-11-4-0",
+   "date": "2026-07-06T13:01:19.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal 11.4.0 is the latest feature release in the Drupal 11 branch, bringing developer-focused enhancements, performance improvements, and a smoother upgrade experience. As a minor release, it introduces new capabilitie",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+   "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+   "date": "2026-07-06T13:01:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg"
+  },
+  {
+   "title": "Fragments: July  6",
+   "link": "https://martinfowler.com/fragments/2026-07-06.html",
+   "date": "2026-07-06T12:53:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Drupal Camp Asheville Sessions Highlight Accessibility, AI, Canvas, and Local Tooling",
+   "link": "https://www.thedroptimes.com/70935/asheville-sessions-accessibility-ai-tooling?utm_source=Drupal Planet",
+   "date": "2026-07-06T11:53:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal work now extends beyond implementation alone. Four Asheville sessions show where accessibility, AI, components, and local tooling shape delivery.",
+   "image": null
+  },
+  {
+   "title": "Smartbees: Apator Group",
+   "link": "https://smartbees.co/case-study/apator-group",
+   "date": "2026-07-06T11:38:36.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Learn more about our comprehensive implementation for one of the energy sector leaders – Apator Group.",
+   "image": null
+  },
+  {
+   "title": "What's missing from your PHP development environment",
+   "link": "https://laravel-news.com/whats-missing-from-your-php-development-environment?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-06T11:32:24.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "DDLess is free for local debugging. The desktop app gives you step debugging, the Task Runner, Method Execution, and the Playground at no cost. A Pro plan adds conditional breakpoints, SSH debugging, and a PHPStorm plugi",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/bg.jpg"
+  },
+  {
+   "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+   "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+   "date": "2026-07-06T11:30:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg"
+  },
+  {
+   "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+   "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+   "date": "2026-07-06T10:58:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from comprom",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg"
   },
   {
    "title": "Gabriele Bartolini: CNPG Recipe 25 - Declarative Roles and Passwordless TLS in CloudNativePG 1.30",
@@ -22,16 +192,6 @@
    "image": null
   },
   {
-   "title": "FinOps savings decay vs autonomous remediation: which wins at 6 months",
-   "link": "https://dev.to/zop_8abedcc7e12/finops-savings-decay-vs-autonomous-remediation-which-wins-at-6-months-1gg6",
-   "date": "2026-07-06T08:55:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Savings Decay Problem Nobody Talks About Cloud cost optimizations degrade predictably after implementation, and the degradation is structural, not accidental. Every manual FinOps cycle produces a point-in-time snapsh",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9vflyvc8829vocnhnsa9.png"
-  },
-  {
    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
    "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
    "date": "2026-07-06T08:50:54.000Z",
@@ -42,56 +202,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
   },
   {
-   "title": "🚀 How Does Kubernetes Handle Traffic Spikes?",
-   "link": "https://dev.to/zaved_akthar_7227/how-does-kubernetes-handle-traffic-spikes-2lj0",
-   "date": "2026-07-06T08:44:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A sudden surge in users can bring down an application if the infrastructure isn't prepared. Kubernetes helps businesses stay online and responsive through: Horizontal Pod Autoscaling (HPA) Load Balancing Self-Healing Cap",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm4zjkwullabtijl3sz36.jpeg"
-  },
-  {
-   "title": "Best Solar Panel Manufacturers in Punjab: How to Choose the Right Solar Partner for Your Energy Needs",
-   "link": "https://dev.to/ushasolar/best-solar-panel-manufacturers-in-punjab-how-to-choose-the-right-solar-partner-for-your-energy-c1i",
-   "date": "2026-07-06T08:43:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Punjab is a place for solar energy. The state is one of the places in India for farming and industry. This makes it a perfect spot for people to use energy. With electricity costs going up people are looking for ways to ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqw7bhbdvhd7wy5mgl2as.png"
-  },
-  {
-   "title": "Why Your Kubernetes Costs Never Stay the Same",
-   "link": "https://dev.to/puneetha_jalagam/why-your-kubernetes-costs-never-stay-the-same-b01",
-   "date": "2026-07-06T08:22:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ever checked your cloud bill and wondered why it's so much higher than last month, even though nothing seemed to change? If you run apps on Kubernetes, you've probably seen this happen. Nothing dramatic happened on your ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0ujynyzsbywraxkqqsm3.png"
-  },
-  {
-   "title": "Debugging ColdFusion Scheduled Tasks That Silently Fail With No Log Output",
-   "link": "https://dev.to/deepak_sir__/debugging-coldfusion-scheduled-tasks-that-silently-fail-with-no-log-output-2047",
-   "date": "2026-07-06T08:17:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When a ColdFusion scheduled task silently fails — the Administrator shows it configured, the scheduler log may even show it “completed,” but no template actually ran, no output generated, no records updated — the root ca",
-   "image": null
-  },
-  {
-   "title": "Fixing tmux dashboard for coding agents: Mobile Clipboard + 30%",
-   "link": "https://dev.to/umair24171/fixing-tmux-dashboard-for-coding-agents-mobile-clipboard-30-md2",
-   "date": "2026-07-06T08:17:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This article was originally published on BuildZn. Everyone talks about managing LLMs but nobody explains how to babysit them in CLI. Juggling 3+ tmux sessions for my coding agents was driving me nuts. Here's my custom tm",
-   "image": null
-  },
-  {
    "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
    "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
    "date": "2026-07-06T08:13:33.000Z",
@@ -100,16 +210,6 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
-  },
-  {
-   "title": "Bmup Multi-Asset Institute: The Integration of Love and Investment",
-   "link": "https://dev.to/bmupmultiassetinstit/bmup-multi-asset-institute-the-integration-of-love-and-investment-3fga",
-   "date": "2026-07-06T08:06:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Bmup Multi-Asset Institute was founded in 2012, born from a deeply unforgettable life experience. The 2008 subprime mortgage crisis plunged the global financial system into chaos and once left Grant Miller bankrupt and a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faxtllk5bkug22hgcurf1.png"
   },
   {
    "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
@@ -282,16 +382,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg"
   },
   {
-   "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-   "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-   "date": "2026-07-04T11:17:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_append",
    "link": "https://postgr.es/p/9o6",
    "date": "2026-07-04T01:00:00.000Z",
@@ -332,26 +422,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-   "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-   "date": "2026-07-03T20:19:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
-  },
-  {
-   "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-   "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-   "date": "2026-07-03T19:40:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
-  },
-  {
    "title": "Fable's judgement",
    "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
    "date": "2026-07-03T18:51:06.000Z",
@@ -380,6 +450,16 @@
    "source": "Drupal Planet",
    "summary": "Every Drupal developer eventually hits this wall: a client or editor requests that a standard text field (like a headline or subheadline) be expanded from 255 to 512 characters. You change the value in the field configur",
    "image": null
+  },
+  {
+   "title": "EnvKit: A Local Development Stack for Laravel on Windows and macOS",
+   "link": "https://laravel-news.com/envkit-a-local-development-stack-for-laravel-on-windows-and-macos?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-03T04:47:26.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "EnvKit is a free desktop app that bundles nginx or Apache, multiple PHP versions, databases, and trusted .test HTTPS into one control panel. The post EnvKit: A Local Development Stack for Laravel on Windows and macOS app",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/EnvKit-LN.png"
   },
   {
    "title": "PHP 8.5.8 Released!",
@@ -492,26 +572,6 @@
    "image": null
   },
   {
-   "title": "Drupal Core News: Use Rector on your Drupal site easier than ever with new Composer-based sets",
-   "link": "https://www.drupal.org/about/core/blog/use-rector-on-your-drupal-site-easier-than-ever-with-new-composer-based-sets",
-   "date": "2026-07-02T09:35:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "As of Rector 2.5, Composer-based sets now support Drupal! This allows you to automate version-specific custom code upgrades seamlessly. Instead of manually adding dozens of configuration sets and keeping your list up to ",
-   "image": null
-  },
-  {
-   "title": "DrupalCon News & Updates: Digital Sovereignty Starts with Technical Choices",
-   "link": "https://events.drupal.org/rotterdam2026/news/digital-sovereignty-starts-technical-choices",
-   "date": "2026-07-02T08:44:04.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Digital sovereignty often sounds abstract but, in practice, it comes down to technical decisions: where data is stored, who controls the platform, how systems are maintained over time, and how much privacy, transparency,",
-   "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/54856059802_e9041ab0fb_c.jpg?itok=jEmUrv8V"
-  },
-  {
    "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
    "link": "https://www.percona.com/blog/mysql-8-0-eol-support-cve-fixes-covered/",
    "date": "2026-07-02T08:01:50.000Z",
@@ -519,26 +579,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Upstream MySQL published an out-of-schedule release this week with two high-severity CVE fixes. If you’re running Percona Server for MySQL 5.7 or 8.0 under Extended Lifecycle Support (ELS), the program we previously call",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Drupal 11.4.0 Delay Shows Dependency Patch Pressure on Core Releases",
-   "link": "https://www.thedroptimes.com/70816/drupal-1140-dependency-release-delay?utm_source=Drupal Planet",
-   "date": "2026-07-02T06:41:24.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Release timing is often treated as calendar work, but the 11.4.0 delay exposed a dependency problem beneath the schedule. The fix changes how selected Composer dependencies can move when security updates land.",
-   "image": null
-  },
-  {
-   "title": "Webpro Company blog: Why does Drupal get slower over time?",
-   "link": "https://webpro.company/blog/why-drupal-gets-slower-over-time",
-   "date": "2026-07-02T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Many Drupal sites are fast when launched, but become heavier over the years. The cause is usually not Drupal itself, but how the platform is maintained, extended and filled with content over time. Slowness rarely comes f",
    "image": null
   },
   {
@@ -560,16 +600,6 @@
    "source": "Codrops",
    "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization.",
    "image": null
-  },
-  {
-   "title": "Worker Metrics on the WorkerStopping Event in Laravel 13.18",
-   "link": "https://laravel-news.com/laravel-13-18-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-01T02:33:37.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.18.0 exposes jobs-processed counts on the WorkerStopping event, adds graceful shutdown to schedule:work, introduces priority-based dev command registration, and hardens the Number helpers against INF/NAN. The ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "The select element, sized just right",
@@ -660,16 +690,6 @@
    "source": "Codrops",
    "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
    "image": null
-  },
-  {
-   "title": "Clonio CLI: Clone Production Databases With Anonymized Data",
-   "link": "https://laravel-news.com/clonio-cli-clone-production-databases-with-anonymized-data?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-06-30T03:15:23.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "A PHP command-line tool that copies production databases into development, CI, and test environments while anonymizing PII and recording a signed audit trail. The post Clonio CLI: Clone Production Databases With Anonymiz",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/clonio-featured (1).png"
   },
   {
    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -889,16 +909,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This inclu",
-   "image": null
-  },
-  {
-   "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-   "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-   "date": "2026-06-24T16:00:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
