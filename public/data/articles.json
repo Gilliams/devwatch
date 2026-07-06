@@ -1,84 +1,84 @@
 {
- "generatedAt": "2026-07-05T18:14:19.029Z",
+ "generatedAt": "2026-07-06T00:15:16.105Z",
  "articles": [
   {
-   "title": "Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Jun 28 – Jul 04, 2026",
-   "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-jun-28-jul-04-2026-2p57",
-   "date": "2026-07-05T18:00:08.000Z",
+   "title": "The Incident Commander Role: Running Incidents Without Chaos",
+   "link": "https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl",
+   "date": "2026-07-06T00:04:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🖥️ Virtual Machines — Weekly Provisioning Benchmarks Window: Jun 28 – Jul 04, 2026 | Total runs: 198 AWS eu-north-1 led virtual machines provisioning this week at p50 36.0s. Cloud p50 p95 Reliability Runs AWS 36.9s 46.3",
+   "summary": "Everyone's Debugging, Nobody's Leading Five engineers in an incident channel. All debugging independently. Nobody coordinating. Three people checking the same dashboard. Two trying conflicting fixes. Customers waiting. T",
    "image": null
   },
   {
-   "title": "CI Testing Management Tools Compared — A Hands-On Look at GitHub Actions",
-   "link": "https://dev.to/mauchoquenachoque/ci-testing-management-tools-compared-a-hands-on-look-at-github-actions-3ck4",
-   "date": "2026-07-05T17:59:07.000Z",
+   "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
+   "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-58g3",
+   "date": "2026-07-06T00:02:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why \"Testing Management Tools\" Matter Every serious software team eventually asks the same question: how do we make sure tests run automatically, consistently, and block bad code from reaching production? The answer is a",
+   "summary": "So you've scaled past the single-bot prototype. The Jupyter notebook experiments are over. Now you have 100, 500, maybe 1,000 autonomous agents running in production, each executing tasks, calling APIs, and generating re",
    "image": null
   },
   {
-   "title": "Three Lines of Bash Stand Between Your Cron Job and a Silent Outage",
-   "link": "https://dev.to/bashsnippets/three-lines-of-bash-stand-between-your-cron-job-and-a-silent-outage-1pjm",
-   "date": "2026-07-05T17:32:17.000Z",
+   "title": "The deployment permission I deliberately withheld from my AI agents",
+   "link": "https://dev.to/kimlike/the-deployment-permission-i-deliberately-withheld-from-my-ai-agents-5b54",
+   "date": "2026-07-06T00:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Three separate incidents taught me the same lesson over about a year. A */1 rsync stacked six copies on a slow disk and drove a box to load 41. A mysqldump hung on a database lock and didn't run for nine days without a s",
+   "summary": "The agent finishes its work at 2am. Snapshot built, preflight checks passed, everything green. Then it files a deploy request and stops. That is intentional. The agent cannot ship its own build. I withheld that capabilit",
    "image": null
   },
   {
-   "title": "You hardened your origin and your CDN. Your DNS is still one provider away from going dark.",
-   "link": "https://dev.to/blackneuron/you-hardened-your-origin-and-your-cdn-your-dns-is-still-one-provider-away-from-going-dark-3abk",
-   "date": "2026-07-05T17:12:13.000Z",
+   "title": "Cómo probar correos de handoff en guardias SRE",
+   "link": "https://dev.to/alexcarteruk/como-probar-correos-de-handoff-en-guardias-sre-m14",
+   "date": "2026-07-05T23:24:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You put the site behind a CDN, locked the origin firewall to the edge ranges, tuned rate limits, and slept better. Then someone floods your DNS instead, and none of that matters, because nobody can resolve your name to r",
+   "summary": "Cuando una guardia cambia de turno, el correo de handoff suele cargar más contexto del que parece. Resume alertas abiertas, pods tocados, mitigaciones temporales y el siguiente paso esperado. Si ese mensaje sale tarde, i",
    "image": null
   },
   {
-   "title": "FastAPI Just Got Its Own Deployment Platform - And It's One Command",
-   "link": "https://dev.to/navas_herbert/fastapi-just-got-its-own-deployment-platform-and-its-one-command-3i8e",
-   "date": "2026-07-05T16:35:17.000Z",
+   "title": "Defending the Realm: Secrets, SSL, and Firewalls – A Lord of the Rings Adventure",
+   "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-lord-of-the-rings-adventure-20mf",
+   "date": "2026-07-05T23:19:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I came across: FastAPI Cloud. Built by the same team behind FastAPI itself. Still in beta. Free hobby tier, no credit card, up to 3 apps. The pitch is simple: deploying a FastAPI app has always required work that has not",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp30i5vwy0akvk449pj9a.png"
-  },
-  {
-   "title": "Your AI agent checks its own work. That's not a loop, that's a confident intern with a cron job.",
-   "link": "https://dev.to/malik_chohra/your-ai-agent-checks-its-own-work-thats-not-a-loop-thats-a-confident-intern-with-a-cron-job-4hoo",
-   "date": "2026-07-05T16:24:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR: a loop is memory + rules + verify + schedule. Most agent setups have three of the four. The one they skip is a separate verifier, and skipping it means the agent that does the work also grades the work. That is th",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvty50p3i0rnq9hjkytfe.png"
-  },
-  {
-   "title": "Sandboxing untrusted agent code with gVisor costs ~200ms per cold start. Blocking syscalls instead of emulating them costs ~8ms",
-   "link": "https://dev.to/dipankar_sarkar/sandboxing-untrusted-agent-code-with-gvisor-costs-200ms-per-cold-start-blocking-syscalls-instead-2500",
-   "date": "2026-07-05T16:24:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You are running code you did not write. It might be an AI agent executing an npm install across dependencies nobody audited, runc escape CVE is the reminder. The usual heavy answer is gVisor. It puts a userspace kernel i",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I pushed a side‑project to a public repo and felt that tiny knot in my stomach. I had hard‑coded my API keys straight into the source, left the dev s",
    "image": null
   },
   {
-   "title": "Your Kubernetes Controller Is Silently Dead and Nobody Knows",
-   "link": "https://dev.to/reyshazni17/your-kubernetes-controller-is-silently-dead-and-nobody-knows-2fml",
-   "date": "2026-07-05T16:18:04.000Z",
+   "title": "Omdaa API Is Now Free Forever — What Changed and How to Migrate",
+   "link": "https://dev.to/omdaa/omdaa-api-is-now-free-forever-what-changed-and-how-to-migrate-185l",
+   "date": "2026-07-05T23:16:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Kubernetes controllers built on client-go have a silent failure mode that's easy to miss. When a ServiceAccount token goes stale, your controller keeps running, passes health checks, shows Ready, and does absolutely noth",
+   "summary": "Omdaa API Is Now Free Forever — What Changed and How to Migrate We just shipped the biggest change in Omdaa's history: every feature is now free forever. No paid tiers, no credit card, no upgrade walls. Full details on o",
+   "image": null
+  },
+  {
+   "title": "The date format that broke my production AI agent (and the boring fix)",
+   "link": "https://dev.to/kimlike/the-date-format-that-broke-my-production-ai-agent-and-the-boring-fix-1281",
+   "date": "2026-07-05T21:52:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The demo was clean. Forty-three test cases, all passing. The agent took a structured input, processed it, wrote the result downstream. I watched it run a dozen times in staging, everything right. I put it live. Three day",
+   "image": null
+  },
+  {
+   "title": "Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?",
+   "link": "https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0",
+   "date": "2026-07-05T21:04:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "\"Docker vs Kubernetes\" is one of those framings that quietly sends people down the wrong road. It sounds like a choice between two competing tools, so teams treat it like a bake-off. It isn't. Docker builds and runs cont",
    "image": null
   },
   {
@@ -129,6 +129,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: sqlite-utils 4.0rc2 See sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) .",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS 3.7.0alpha1",
+   "link": "https://postgr.es/p/9om",
+   "date": "2026-07-05T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0alpha1! Best Served with PostgreSQL 19 Beta1 and GEOS 3.15 which will be released soon. This version requires PostgreSQL 14 - 19beta1, GEOS 3.10 or higher, and Proj 6.1",
    "image": null
   },
   {
@@ -350,16 +360,6 @@
    "source": "The Hacker News",
    "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
-  },
-  {
-   "title": "Thom Brown: LOAD \"PL/CBMBASIC\",8,1: Commodore 64 BASIC for PostgreSQL",
-   "link": "https://postgr.es/p/9o1",
-   "date": "2026-07-03T08:50:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "If you are of a certain age, the words 38911 BASIC BYTES FREE will do something to you that no amount of therapy can undo. You remember the blue screen. You remember typing in three pages of a listing from a magazine, ge",
-   "image": null
   },
   {
    "title": "Undpaul.de: Drupal Tip: How to change field length with existing data",
