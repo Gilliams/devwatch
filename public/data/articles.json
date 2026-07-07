@@ -1,45 +1,195 @@
 {
- "generatedAt": "2026-07-07T13:25:48.274Z",
+ "generatedAt": "2026-07-07T19:13:57.751Z",
  "articles": [
   {
-   "title": "How to Prevent OpenClaw, Hermes Agent, and NanoClaw from Burning Your API Budgets",
-   "link": "https://dev.to/vrd1710/how-to-prevent-openclaw-hermes-agent-and-nanoclaw-from-burning-your-api-budgets-2p2b",
-   "date": "2026-07-07T13:23:43.000Z",
+   "title": "Stop Giving AI Agents Standing API Keys",
+   "link": "https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0",
+   "date": "2026-07-07T19:13:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As of mid-2026, the landscape of AI agents has shifted. Developers are no longer just building simple scripts using raw libraries. Instead, the community has standardized around powerful, pre-built autonomous agents like",
+   "summary": "AI agents are starting to do real work against real APIs: filing tickets, moving money, updating records, calling other agents. The fastest way to get there is also the most dangerous one — paste a long-lived API key int",
    "image": null
   },
   {
-   "title": "Bypassing Localhost Isolation: Connecting GitHub Webhooks to a Local Jenkins Node Without Third-Party Agents",
-   "link": "https://dev.to/jessekyemtingbyte/bypassing-localhost-isolation-connecting-github-webhooks-to-a-local-jenkins-node-without-4j19",
-   "date": "2026-07-07T13:16:59.000Z",
+   "title": "How to Fix Lovable Production Build Compression Errors Cleanly",
+   "link": "https://dev.to/biztechpulsehub/how-to-fix-lovable-production-build-compression-errors-cleanly-bnj",
+   "date": "2026-07-07T19:09:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When configuring a standard CI/CD pipeline, you expect to run into firewall rules. But what happens when your automation controller and your deployment target live in completely separate network ecosystems? That's the ex",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F605mgtac79p3c7cuita3.jpg"
-  },
-  {
-   "title": "AWS IAM Privilege Escalation: Real Attack Paths DevOps Engineers Need to Know",
-   "link": "https://dev.to/shieldlyio/aws-iam-privilege-escalation-real-attack-paths-devops-engineers-need-to-know-1mo6",
-   "date": "2026-07-07T13:16:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You've locked down your AWS accounts. MFA is enforced, no wildcard IAM policies in production, and you've got a service control policy (SCP) boundary that's tighter than a production change freeze. Feels safe, right? The",
+   "summary": "Hey devs, deploying complex cloud application bundles smoothly requires highly stable asset compilation transmission paths. Modern enterprise frontend hosting environments utilize secure serverless containers to distribu",
    "image": null
   },
   {
-   "title": "Understanding Kubernetes ClusterRoles and ClusterRoleBindings",
-   "link": "https://dev.to/oyebobs/understanding-kubernetes-clusterroles-and-clusterrolebindings-1k64",
-   "date": "2026-07-07T13:13:42.000Z",
+   "title": "How to Fix Claude CLI Session Authentication Freezes Cleanly",
+   "link": "https://dev.to/biztechpulsehub/how-to-fix-claude-cli-session-authentication-freezes-cleanly-1m0o",
+   "date": "2026-07-07T18:54:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Yesterday I learned about Roles and RoleBindings. Today I explored ClusterRoles and ClusterRoleBindings for cluster-scoped resources like Nodes. kubectl auth can-i get nodes Output: Warning: resource 'nodes' is not names",
+   "summary": "Hey devs, managing advanced modern terminal automation frameworks smoothly requires absolute execution runtime stability boundaries. Technical engineering infrastructure operations groups utilize extensive shell commands",
    "image": null
+  },
+  {
+   "title": "How Automation Revolutionizes Mobile App Development",
+   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-automation-revolutionizes-mobile-app-development-3ekh",
+   "date": "2026-07-07T18:45:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Impact of Automation on Mobile App Development Efficiency Mobile app development is at a crucial turning point—automation is not just a luxury; it’s essential for thriving in today’s fast-paced market. By streamlinin",
+   "image": null
+  },
+  {
+   "title": "vLLM vs SGLang: Architectural Deep‑Dive, KV‑Cache Pinning, and Distributed Inference at Scale",
+   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/vllm-vs-sglang-architectural-deep-dive-kv-cache-pinning-and-distributed-inference-at-scale-5211",
+   "date": "2026-07-07T18:30:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "vLLM vs SGLang: Architectural Deep‑Dive, KV‑Cache Pinning, and Distributed Inference at Scale Subtitle: How to engineer low‑latency, high‑throughput LLM serving pipelines with real‑world hardware limits, open‑source tool",
+   "image": null
+  },
+  {
+   "title": "Scaling AI Platforms: Key Insights for Developers",
+   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/scaling-ai-platforms-key-insights-for-developers-31k7",
+   "date": "2026-07-07T18:18:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Understanding Scalability in AI Platforms Scalability isn’t just a buzzword; it’s the backbone of a successful AI platform. As developers, we face the challenge of creating solutions that can handle growing user demands ",
+   "image": null
+  },
+  {
+   "title": "⚡️ Claude Fable has been extended for 5 days",
+   "link": "https://dev.to/alexgetmancom/claude-fable-has-been-extended-for-5-days-2mg9",
+   "date": "2026-07-07T18:05:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "⚡️ Claude Fable has been extended for 5 days",
+   "image": null
+  },
+  {
+   "title": "Serverless Containers Across AWS, Azure, GCP — Weekly Benchmarks for Jun 30 – Jul 06, 2026",
+   "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-jun-30-jul-06-2026-2j3n",
+   "date": "2026-07-07T18:00:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🐳 Serverless Containers — Weekly Provisioning Benchmarks Window: Jun 30 – Jul 06, 2026 | Total runs: 189 GCP us-east1 led serverless containers provisioning this week at p50 9.2s. Cloud p50 p95 Reliability Runs AWS 21.5",
+   "image": null
+  },
+  {
+   "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+   "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+   "date": "2026-07-07T17:10:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg"
+  },
+  {
+   "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+   "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+   "date": "2026-07-07T16:37:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg"
+  },
+  {
+   "title": "SHRIDHAR KHANAL: PostgreSQL Disaster Recovery with pgBackRest TLS Transport",
+   "link": "https://postgr.es/p/9oD",
+   "date": "2026-07-07T15:41:39.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The backup node and DR server don’t need to share SSH keys. Here’s how pgBackRest’s native TLS transport provides certificate-authenticated restores and strict security isolation, making it the cleaner choice for isolate",
+   "image": "https://stormatics.tech/wp-content/uploads/2026/06/Screenshot-2026-07-07-at-8.20.08-PM-768x389.png"
+  },
+  {
+   "title": "Hugging Face Models on Foundry Managed Compute",
+   "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+   "date": "2026-07-07T15:20:06.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+   "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+   "date": "2026-07-07T15:14:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg"
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-07T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_8249102E6BD5A7D94BC02F00D913B3B576539AF394F7402EF7DE7C968CBF8D3E_1773225348617_image.png?resize=1141%2C325&#038;ssl=1"
+  },
+  {
+   "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+   "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+   "date": "2026-07-07T14:04:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg"
+  },
+  {
+   "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
+   "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+   "date": "2026-07-07T13:37:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Build a cinematic, scroll-driven 3D gallery using a camera path authored in Blender, rendered with Three.js, and animated with GSAP.",
+   "image": null
+  },
+  {
+   "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+   "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+   "date": "2026-07-07T13:27:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg"
+  },
+  {
+   "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+   "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+   "date": "2026-07-07T13:27:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant comp",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg"
+  },
+  {
+   "title": "Percona Operator for MySQL 1.2.0: Cross-Site Replication, Encrypted Backups, and Automatic Storage Scaling",
+   "link": "https://www.percona.com/blog/percona-operator-for-mysql-1-2-0-cross-site-replication-encrypted-backups-storage-autoscaling/",
+   "date": "2026-07-07T13:19:26.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona Operator for MySQL 1.2.0 is out, and it closes three gaps that platform teams hit once a MySQL deployment grows past a single cluster. Picture a fleet that has outgrown one region: you want a warm replica cluster",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/Hero-2400-x-880-1024x376.png"
   },
   {
    "title": "Comparing Migration Methods from the Crunchy Data PostgreSQL Operator to the Percona Operator for PostgreSQL",
@@ -50,46 +200,6 @@
    "source": "Percona Blog",
    "summary": "Migrating a production PostgreSQL database on Kubernetes is not only about moving data from one operator to another. It is also about choosing the right trade-off between downtime, operational complexity, rollback safety",
    "image": null
-  },
-  {
-   "title": "Visualizing Your Digital Ecosystem: How a \"SimCity for Docker\" Can Elevate Performance Goals for Developers",
-   "link": "https://dev.to/devactivity/visualizing-your-digital-ecosystem-how-a-simcity-for-docker-can-elevate-performance-goals-for-2914",
-   "date": "2026-07-07T13:00:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For many in the tech world, the homelab isn't just a hobby; it's a meticulously crafted digital ecosystem, a personal sandbox for innovation and learning. Yet, the way we visualize and understand these complex environmen",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1eUPmeI8ol_lZUa6_eYR5U3cnzigosgYh%26sz%3Dw751"
-  },
-  {
-   "title": "Can Agents Replace Developers? How to Use Them Efficiently via Structured SDLC Loops",
-   "link": "https://dev.to/charan_gutti_cf60c6185074/can-agents-replace-developers-how-to-use-them-efficiently-via-structured-sdlc-loops-276e",
-   "date": "2026-07-07T13:00:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There is a growing narrative around AI that autonomous agents are on the brink of completely replacing human software engineers. From my perspective, agents are simply not there yet. When left to their own devices, auton",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSU3QmluaXQ6IHsndGhlbWUnOiAnYmFzZScsICd0aGVtZVZhcmlhYmxlcyc6IHsgJ3ByaW1hcnlDb2xvcic6ICcjZWZmNmZmJywgJ3ByaW1hcnlUZXh0Q29sb3InOiAnIzFlM2E4YScsICdwcmltYXJ5Qm9yZGVyQ29sb3InOiAnIzNiODJmNicsICdsaW5lQ29sb3InOiAnIzY0NzQ4YicgfX19JSUKZmxvd2NoYXJ0IFRCCiAgICBzdWJncmFwaCBTRExDIFsi8J-UnSBUaGUgQXV0b21hdGVkIEFnZW50aWMgU0RMQyBMb29wIl0KICAgICAgICBkaXJlY3Rpb24gVEIKICAgICAgICBBKFsi8J-OryAxLiBGZWF0dXJlIFNwZWNpZmljYXRpb248YnIvPjxpPkluamVjdCBTcGVjaWZpYyBDb250ZXh0ICYgQ29uc3RyYWludHM8L2k-Il0pIC0tPiBCWyLwn5CANDIuIEFyY2hpdGVjdHVyYWwgUGxhbm5pbmc8YnIvPjxpPkRlY29uc3RydWN0IFRhc2tzICYgU2VsZWN0IFRvb2xzPC9pPiJdCiAgICAgICAgQiAtLT4gQ1si4pqZ77iPIDMuIEltcGxlbWVudGF0aW9uICYgSW50ZWdyYXRpb248YnIvPjxpPkV4ZWN1dGUgQ29kZSAmIENvbm5lY3QgVG9vbGluZzwvaT4iXQogICAgICAgIEMgLS0-IER7IsKvIDQuIFZlcmlmaWNhdGlvbiAmIFRlc3Rpbmc8YnIvPjxpPlJ1biBBdXRvbWF0ZWQgVGVzdCBTdWl0ZXM8L2k-In0KICAgICAgICAKICAgICAgICBEIC0tICLinYwgVGVzdCBGYWlsZWQgLyBCdWcgRm91bmQiIC0tPiBDCiAgICAgICAgRCAtLSAi4pyFIFBhc3NlcyBWYWxpZGF0aW9uIiAtLT4gRXsi8J-UjSA1LiBQZXJmb3JtYW5jZSAmIFVJIFJldmlldzxici8-PGk-RXZhbHVhdGUgVVggJiBMYXRlbmN5IGFnYWluc3QgR29hbHM8L2k-In0KICAgICAgICAKICAgICAgICBFIC0tICLwn5SdIE5lZWRzIE9wdGltaXphdGlvbiIgLS0-IEIKICAgICAgICBFIC0tICLinIogU2F0aXNmYWN0b3J5IFJlc3VsdCIgLS0-IEYoWyLwn5qAIEZlYXR1cmUgRGVwbG95ZWQiXSkKICAgIGVuZAoKICAgIHN0eWxlIFNETEMgZmlsbDojZjhmYWZjLHN0cm9rZTojMzM0MTU1LHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzBmMTcyYQogICAgc3R5bGUgQSBmaWxsOiNkYmVhZmUsc3Ryb2tlOiMyNTYzZWIsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojMWU0MGFmCiAgICBzdHlsZSBCIGZpbGw6I2UwZTdmZixzdHJva2U6IzRmNDZlNSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiMzMTJlODEKICAgIHN0eWxlIEMgZmlsbDojZjBmZGY0LHN0cm9rZTojMTBiOTgxLHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzA2NWY0NgogICAgc3R5bGUgRCBmaWxsOiNmZWYzYzcsc3Ryb2tlOiNmNTllMGIsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojNzgzNTBmCiAgICBzdHlsZSBFIGZpbGw6I2YzZThmZixzdHJva2U6IzkzMzNlYSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM1ODFjODcKICAgIHN0eWxlIEYgZmlsbDojZGNmY2U3LHN0cm9rZTojMTBiOTgxLHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzA2NWY0Ng%3D%3D"
-  },
-  {
-   "title": "Stop the 'Log Fatigue': Why Visualizing Server Logs is a Security Necessity | 0707-1253",
-   "link": "https://dev.to/tacit_71799acf6d056b5155c/stop-the-log-fatigue-why-visualizing-server-logs-is-a-security-necessity-0707-1253-ld2",
-   "date": "2026-07-07T12:53:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In the world of DevOps and Security, 'Log Fatigue' is a real problem. We monitor systems for hours, staring at scrolling lines of text, waiting for a pattern to emerge. Raw logs are excellent for computers, but terrible ",
-   "image": null
-  },
-  {
-   "title": "How to Use Stream Analyzers for Digital TV Broadcasting: A Practical Guide",
-   "link": "https://dev.to/video_compression_guru/how-to-use-stream-analyzers-for-digital-tv-broadcasting-a-practical-guide-3a34",
-   "date": "2026-07-07T12:49:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Part 1: Solving GOP Structure and Compatibility Issues Operating a digital television network isn't just about keeping channels on air—it's about maintaining quality that viewers expect and troubleshooting issues before ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvx2o0cdpxurmjb68w274.png"
   },
   {
    "title": "Viability of local models for coding",
@@ -132,6 +242,26 @@
    "image": null
   },
   {
+   "title": "Specbee: How to add an AI Assistant to CKEditor in Drupal (and keep it under control)",
+   "link": "https://www.specbee.com/blogs/add-ai-assistant-to-ckeditor-drupal",
+   "date": "2026-07-07T10:49:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Learn how to add an AI assistant to Drupal's CKEditor, where your content goes when editors use it, and the controls that keep publishing safe.",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Board Election 2026 Candidate: Matthew Saunders",
+   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-matthew-saunders",
+   "date": "2026-07-07T10:03:40.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who are you? I’ve been part of the Drupal community for nearly twenty years, contributing as a former Drupal Association Board member, founder and Chair of Drupal Colorado, organizer of DrupalCamp Colorado, speaker, ment",
+   "image": null
+  },
+  {
    "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
    "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
    "date": "2026-07-07T09:10:51.000Z",
@@ -142,24 +272,64 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
   },
   {
-   "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-   "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-   "date": "2026-07-07T06:40:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interf",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
+   "title": "Drupal Association blog: Board Election 2026 Candidate: Helge Notø",
+   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-helge-not%C3%B8",
+   "date": "2026-07-07T08:20:13.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who are you? I'm Helge, 50 years old, originally from northern Norway and now based in Bergen, Norway, married with one child. I've worked with Drupal for over 20 years as a user, developer, and project manager, and hold",
+   "image": null
   },
   {
-   "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-   "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-   "date": "2026-07-07T05:16:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
+   "title": "Drupal Association blog: Board Election 2026 Candidate: Janna Malikova",
+   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-janna-malikova",
+   "date": "2026-07-07T08:18:06.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who are you? Hi, I'm Janna. I’m a software engineer based in Australia, and day-to-day I wear a lot of hats—from team lead and developer to accessibility tester on all kinds of projects. I care a lot about open source, w",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Board Election 2026 Candidate: Darren Oh",
+   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-darren-oh",
+   "date": "2026-07-07T08:14:23.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who are you? Darren is the volunteer project lead for Drupal Forge. He joined the Drupal community in 2005 and has been an active contributor ever since. Until 2026, he maintained the Drupal platform for Estée Lauder Com",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Board Election 2026 Candidate: Chris Kelly",
+   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-chris-kelly",
+   "date": "2026-07-07T08:08:31.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who are you? I'm a software developer located in Los Angeles. I've contributed some modules and even a little code for D11. What does building community mean to you? It means expanding the community by reaching out to de",
+   "image": null
+  },
+  {
+   "title": "Mayur B.: My Dishonest Benchmark",
+   "link": "https://postgr.es/p/9p0",
+   "date": "2026-07-07T07:21:02.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "How to Make PostgreSQL Look 100x Faster The DeWitt Clause and the chilling of benchmark fights: *************************************************** Database benchmarking used to be a full-contact sport. In the early 1980",
+   "image": "https://cdn-images-1.medium.com/max/850/1*yVuyK0TnRQ86LUaHR1NdUA.jpeg"
+  },
+  {
+   "title": "Laravel MPP: Charge AI Agents for API Access with 402 Payment Required",
+   "link": "https://laravel-news.com/laravel-mpp-charge-ai-agents-for-api-access-with-402-payment-required?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-07T03:29:36.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel MPP is middleware from Square1 that gates routes behind the Machine Payments Protocol, returning a 402 challenge that AI agents pay with Stripe Shared Payment Tokens or Tempo pathUSD and then retry. The post Lara",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-mpp-featured.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_aggregate",
@@ -179,6 +349,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
+   "image": null
+  },
+  {
+   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+   "link": "https://huggingface.co/blog/skypilot-hf-storage",
+   "date": "2026-07-07T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -202,26 +382,6 @@
    "image": null
   },
   {
-   "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-   "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-   "date": "2026-07-06T18:34:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Isr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg"
-  },
-  {
-   "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-   "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-   "date": "2026-07-06T17:37:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw si",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg"
-  },
-  {
    "title": "Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 20 – Add backend-level lock statistics",
    "link": "https://postgr.es/p/9ow",
    "date": "2026-07-06T17:30:55.000Z",
@@ -230,16 +390,6 @@
    "source": "Planet PostgreSQL",
    "summary": "On 30th of June 2026, Michael Paquier committed patch: Add backend-level lock statistics This commit adds per-backend lock statistics, providing the same information as pg_stat_lock. It is now possible to retrieve those ",
    "image": null
-  },
-  {
-   "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-   "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-   "date": "2026-07-06T16:28:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerabi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg"
   },
   {
    "title": "PRX Part 4: Our Data Strategy",
@@ -272,46 +422,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: ECA Crosses 20,000 Reported Drupal Site Installations",
-   "link": "https://www.thedroptimes.com/70973/eca-crosses-20000-drupal-installations?utm_source=Drupal Planet",
-   "date": "2026-07-06T14:19:52.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "ECA’s reported growth shows how far configuration-based automation has moved into Drupal site-building practice. The milestone also raises the stakes for a project that many sites now rely on for workflow decisions, inte",
-   "image": null
-  },
-  {
-   "title": "Drupal Starshot blog: Drupal CMS product strategy: version 2.0",
-   "link": "https://www.drupal.org/about/initiatives/cms/blog/drupal-cms-product-strategy-version-20",
-   "date": "2026-07-06T13:33:44.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We've published an updated product strategy for Drupal CMS. Version 2.0 replaces the original Drupal Starshot strategy from August 2024, and it reflects where we are after nearly two years of building. The updated strate",
-   "image": null
-  },
-  {
-   "title": "Skynet Technologies USA LLC Blogs: What's New in Drupal 11.4.0: Features, Improvements, and Upgrade Highlights!",
-   "link": "https://www.skynettechnologies.com/blog/drupal-11-4-0",
-   "date": "2026-07-06T13:01:19.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 11.4.0 is the latest feature release in the Drupal 11 branch, bringing developer-focused enhancements, performance improvements, and a smoother upgrade experience. As a minor release, it introduces new capabilitie",
-   "image": null
-  },
-  {
-   "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-   "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-   "date": "2026-07-06T13:01:14.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg"
-  },
-  {
    "title": "Fragments: July  6",
    "link": "https://martinfowler.com/fragments/2026-07-06.html",
    "date": "2026-07-06T12:53:00.000Z",
@@ -319,26 +429,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Drupal Camp Asheville Sessions Highlight Accessibility, AI, Canvas, and Local Tooling",
-   "link": "https://www.thedroptimes.com/70935/asheville-sessions-accessibility-ai-tooling?utm_source=Drupal Planet",
-   "date": "2026-07-06T11:53:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal work now extends beyond implementation alone. Four Asheville sessions show where accessibility, AI, components, and local tooling shape delivery.",
-   "image": null
-  },
-  {
-   "title": "Smartbees: Apator Group",
-   "link": "https://smartbees.co/case-study/apator-group",
-   "date": "2026-07-06T11:38:36.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Learn more about our comprehensive implementation for one of the energy sector leaders – Apator Group.",
    "image": null
   },
   {
@@ -379,36 +469,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept ge",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Drupal 11.4.0, AI Workflows, and Orchestration",
-   "link": "https://www.thedroptimes.com/newsletter/drupal-1140-ai-workflows-and-orchestration?utm_source=Drupal Planet",
-   "date": "2026-07-06T05:30:57.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Recent Drupal developments point to a clearer direction for the project’s AI and developer-experience work. The immediate story is not only that Drupal is adding AI features. Core performance, upgrade tooling, workflow o",
-   "image": null
-  },
-  {
-   "title": "Hans-Juergen Schoenig: Why pg_hardstorage has no incremental chain",
-   "link": "https://postgr.es/p/9oo",
-   "date": "2026-07-06T05:00:01.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Almost every conversation about pg_hardstorage's repository format ends up at the same question: \"where's the incremental chain?\" Short answer: there isn't one. By design. The chain footgun In a chained-incremental forma",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_partition_pruning",
-   "link": "https://postgr.es/p/9on",
-   "date": "2026-07-06T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's partition pruning eliminates unnecessary partition scans in two distinct phases — at plan time and execution time — and you need to check…",
    "image": null
   },
   {
@@ -560,16 +620,6 @@
    "source": "Laravel News",
    "summary": "Commune is a gamified social platform for builders to share what they’re working on, connect with other founders, and launch their projects. The post Commune: A Private Community for Founders and Builders appeared first ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/commune-a-private-community-for-founders-and-builders.png"
-  },
-  {
-   "title": "Laravel AI Tasks: An AI Orchestration Package for Queues, Logging, and Cost Control",
-   "link": "https://laravel-news.com/laravel-ai-tasks-an-ai-orchestration-package-for-queues-logging-and-cost-control?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-02T12:53:13.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel AI Tasks is a package by fomvasss that wraps the Laravel AI SDK with reusable task classes, queued and streamed execution, cost tracking, and a built-in dashboard. The post Laravel AI Tasks: An AI Orchestration P",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-ai-tasks-featured.jpg"
   },
   {
    "title": "Case Study: Driving Green Innovation: How Symfony Empowered Veolia’s Digital Shift in Industrial Waste Management",
@@ -729,26 +779,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
-   "image": null
-  },
-  {
-   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-   "link": "https://huggingface.co/blog/eee-community-evals",
-   "date": "2026-06-30T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "DiScoFormer: One transformer for density and score, across distributions",
-   "link": "https://huggingface.co/blog/allenai/discoformer",
-   "date": "2026-06-29T18:02:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -962,16 +992,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/g8kuyjhhkl9o8cmpbaqx.jpg"
   },
   {
-   "title": "Podium: Building a Website Where Running Becomes Storytelling",
-   "link": "https://tympanus.net/codrops/2026/06/23/podium-building-a-website-where-running-becomes-storytelling/",
-   "date": "2026-06-23T15:59:01.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How we designed and built a portfolio that preserves cinematic storytelling through rhythm, motion, and restraint.",
-   "image": null
-  },
-  {
    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
    "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
    "date": "2026-06-22T12:39:13.000Z",
@@ -980,26 +1000,6 @@
    "source": "CSS-Tricks",
    "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fall",
    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1"
-  },
-  {
-   "title": "A First Look at Scroll-Triggered Animations",
-   "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-   "date": "2026-06-19T13:03:17.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations. A First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the new",
-   "image": null
-  },
-  {
-   "title": "Security advisory: CVE-2026-9740 and CVE-2026-11933 in Percona Server for MongoDB",
-   "link": "https://www.percona.com/blog/security-advisory-cve-2026-9740-and-cve-2026-11933-in-percona-server-for-mongodb/",
-   "date": "2026-06-17T14:24:02.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "TL;DR: This advisory covers the two most important high-severity memory-safety vulnerabilities affecting MongoDB Community and our downstream Percona Server for MongoDB – CVE-2026-11933 and CVE-2026-9740. Both will be ad",
-   "image": "https://www.percona.com/wp-content/uploads/2026/06/blog-hero-June-2026-1024x576.png"
   },
   {
    "title": "The scope superpower hiding in CSS @function",
