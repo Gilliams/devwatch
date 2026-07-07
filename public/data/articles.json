@@ -1,6 +1,186 @@
 {
- "generatedAt": "2026-07-07T00:18:38.567Z",
+ "generatedAt": "2026-07-07T13:25:48.274Z",
  "articles": [
+  {
+   "title": "How to Prevent OpenClaw, Hermes Agent, and NanoClaw from Burning Your API Budgets",
+   "link": "https://dev.to/vrd1710/how-to-prevent-openclaw-hermes-agent-and-nanoclaw-from-burning-your-api-budgets-2p2b",
+   "date": "2026-07-07T13:23:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As of mid-2026, the landscape of AI agents has shifted. Developers are no longer just building simple scripts using raw libraries. Instead, the community has standardized around powerful, pre-built autonomous agents like",
+   "image": null
+  },
+  {
+   "title": "Bypassing Localhost Isolation: Connecting GitHub Webhooks to a Local Jenkins Node Without Third-Party Agents",
+   "link": "https://dev.to/jessekyemtingbyte/bypassing-localhost-isolation-connecting-github-webhooks-to-a-local-jenkins-node-without-4j19",
+   "date": "2026-07-07T13:16:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When configuring a standard CI/CD pipeline, you expect to run into firewall rules. But what happens when your automation controller and your deployment target live in completely separate network ecosystems? That's the ex",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F605mgtac79p3c7cuita3.jpg"
+  },
+  {
+   "title": "AWS IAM Privilege Escalation: Real Attack Paths DevOps Engineers Need to Know",
+   "link": "https://dev.to/shieldlyio/aws-iam-privilege-escalation-real-attack-paths-devops-engineers-need-to-know-1mo6",
+   "date": "2026-07-07T13:16:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You've locked down your AWS accounts. MFA is enforced, no wildcard IAM policies in production, and you've got a service control policy (SCP) boundary that's tighter than a production change freeze. Feels safe, right? The",
+   "image": null
+  },
+  {
+   "title": "Understanding Kubernetes ClusterRoles and ClusterRoleBindings",
+   "link": "https://dev.to/oyebobs/understanding-kubernetes-clusterroles-and-clusterrolebindings-1k64",
+   "date": "2026-07-07T13:13:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Yesterday I learned about Roles and RoleBindings. Today I explored ClusterRoles and ClusterRoleBindings for cluster-scoped resources like Nodes. kubectl auth can-i get nodes Output: Warning: resource 'nodes' is not names",
+   "image": null
+  },
+  {
+   "title": "Comparing Migration Methods from the Crunchy Data PostgreSQL Operator to the Percona Operator for PostgreSQL",
+   "link": "https://www.percona.com/blog/comparing-migration-methods-from-the-crunchy-data-postgresql-operator-to-the-percona-operator-for-postgresql/",
+   "date": "2026-07-07T13:01:43.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Migrating a production PostgreSQL database on Kubernetes is not only about moving data from one operator to another. It is also about choosing the right trade-off between downtime, operational complexity, rollback safety",
+   "image": null
+  },
+  {
+   "title": "Visualizing Your Digital Ecosystem: How a \"SimCity for Docker\" Can Elevate Performance Goals for Developers",
+   "link": "https://dev.to/devactivity/visualizing-your-digital-ecosystem-how-a-simcity-for-docker-can-elevate-performance-goals-for-2914",
+   "date": "2026-07-07T13:00:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For many in the tech world, the homelab isn't just a hobby; it's a meticulously crafted digital ecosystem, a personal sandbox for innovation and learning. Yet, the way we visualize and understand these complex environmen",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1eUPmeI8ol_lZUa6_eYR5U3cnzigosgYh%26sz%3Dw751"
+  },
+  {
+   "title": "Can Agents Replace Developers? How to Use Them Efficiently via Structured SDLC Loops",
+   "link": "https://dev.to/charan_gutti_cf60c6185074/can-agents-replace-developers-how-to-use-them-efficiently-via-structured-sdlc-loops-276e",
+   "date": "2026-07-07T13:00:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is a growing narrative around AI that autonomous agents are on the brink of completely replacing human software engineers. From my perspective, agents are simply not there yet. When left to their own devices, auton",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSU3QmluaXQ6IHsndGhlbWUnOiAnYmFzZScsICd0aGVtZVZhcmlhYmxlcyc6IHsgJ3ByaW1hcnlDb2xvcic6ICcjZWZmNmZmJywgJ3ByaW1hcnlUZXh0Q29sb3InOiAnIzFlM2E4YScsICdwcmltYXJ5Qm9yZGVyQ29sb3InOiAnIzNiODJmNicsICdsaW5lQ29sb3InOiAnIzY0NzQ4YicgfX19JSUKZmxvd2NoYXJ0IFRCCiAgICBzdWJncmFwaCBTRExDIFsi8J-UnSBUaGUgQXV0b21hdGVkIEFnZW50aWMgU0RMQyBMb29wIl0KICAgICAgICBkaXJlY3Rpb24gVEIKICAgICAgICBBKFsi8J-OryAxLiBGZWF0dXJlIFNwZWNpZmljYXRpb248YnIvPjxpPkluamVjdCBTcGVjaWZpYyBDb250ZXh0ICYgQ29uc3RyYWludHM8L2k-Il0pIC0tPiBCWyLwn5CANDIuIEFyY2hpdGVjdHVyYWwgUGxhbm5pbmc8YnIvPjxpPkRlY29uc3RydWN0IFRhc2tzICYgU2VsZWN0IFRvb2xzPC9pPiJdCiAgICAgICAgQiAtLT4gQ1si4pqZ77iPIDMuIEltcGxlbWVudGF0aW9uICYgSW50ZWdyYXRpb248YnIvPjxpPkV4ZWN1dGUgQ29kZSAmIENvbm5lY3QgVG9vbGluZzwvaT4iXQogICAgICAgIEMgLS0-IER7IsKvIDQuIFZlcmlmaWNhdGlvbiAmIFRlc3Rpbmc8YnIvPjxpPlJ1biBBdXRvbWF0ZWQgVGVzdCBTdWl0ZXM8L2k-In0KICAgICAgICAKICAgICAgICBEIC0tICLinYwgVGVzdCBGYWlsZWQgLyBCdWcgRm91bmQiIC0tPiBDCiAgICAgICAgRCAtLSAi4pyFIFBhc3NlcyBWYWxpZGF0aW9uIiAtLT4gRXsi8J-UjSA1LiBQZXJmb3JtYW5jZSAmIFVJIFJldmlldzxici8-PGk-RXZhbHVhdGUgVVggJiBMYXRlbmN5IGFnYWluc3QgR29hbHM8L2k-In0KICAgICAgICAKICAgICAgICBFIC0tICLwn5SdIE5lZWRzIE9wdGltaXphdGlvbiIgLS0-IEIKICAgICAgICBFIC0tICLinIogU2F0aXNmYWN0b3J5IFJlc3VsdCIgLS0-IEYoWyLwn5qAIEZlYXR1cmUgRGVwbG95ZWQiXSkKICAgIGVuZAoKICAgIHN0eWxlIFNETEMgZmlsbDojZjhmYWZjLHN0cm9rZTojMzM0MTU1LHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzBmMTcyYQogICAgc3R5bGUgQSBmaWxsOiNkYmVhZmUsc3Ryb2tlOiMyNTYzZWIsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojMWU0MGFmCiAgICBzdHlsZSBCIGZpbGw6I2UwZTdmZixzdHJva2U6IzRmNDZlNSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiMzMTJlODEKICAgIHN0eWxlIEMgZmlsbDojZjBmZGY0LHN0cm9rZTojMTBiOTgxLHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzA2NWY0NgogICAgc3R5bGUgRCBmaWxsOiNmZWYzYzcsc3Ryb2tlOiNmNTllMGIsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojNzgzNTBmCiAgICBzdHlsZSBFIGZpbGw6I2YzZThmZixzdHJva2U6IzkzMzNlYSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM1ODFjODcKICAgIHN0eWxlIEYgZmlsbDojZGNmY2U3LHN0cm9rZTojMTBiOTgxLHN0cm9rZS13aWR0aDoycHgsY29sb3I6IzA2NWY0Ng%3D%3D"
+  },
+  {
+   "title": "Stop the 'Log Fatigue': Why Visualizing Server Logs is a Security Necessity | 0707-1253",
+   "link": "https://dev.to/tacit_71799acf6d056b5155c/stop-the-log-fatigue-why-visualizing-server-logs-is-a-security-necessity-0707-1253-ld2",
+   "date": "2026-07-07T12:53:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In the world of DevOps and Security, 'Log Fatigue' is a real problem. We monitor systems for hours, staring at scrolling lines of text, waiting for a pattern to emerge. Raw logs are excellent for computers, but terrible ",
+   "image": null
+  },
+  {
+   "title": "How to Use Stream Analyzers for Digital TV Broadcasting: A Practical Guide",
+   "link": "https://dev.to/video_compression_guru/how-to-use-stream-analyzers-for-digital-tv-broadcasting-a-practical-guide-3a34",
+   "date": "2026-07-07T12:49:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Part 1: Solving GOP Structure and Compatibility Issues Operating a digital television network isn't just about keeping channels on air—it's about maintaining quality that viewers expect and troubleshooting issues before ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvx2o0cdpxurmjb68w274.png"
+  },
+  {
+   "title": "Viability of local models for coding",
+   "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+   "date": "2026-07-07T12:34:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Birgitta Böckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Drupal Mastodon Offers a Community-Run Entry Point to the Fediverse",
+   "link": "https://www.thedroptimes.com/70936/drupal-mastodon-fediverse-entry?utm_source=Drupal Planet",
+   "date": "2026-07-07T11:35:15.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "For Drupal users, the hard part of Mastodon is often knowing where to begin. drupal.community turns that choice into a community context rather than a blank server directory.",
+   "image": null
+  },
+  {
+   "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+   "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+   "date": "2026-07-07T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, whi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg"
+  },
+  {
+   "title": "Smartbees: Automatic Product Documentation Library",
+   "link": "https://smartbees.co/case-study/automatic-product-documentation-library",
+   "date": "2026-07-07T11:01:55.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "See how our product documentation library sped up editors' work and reduced the risk of website errors.",
+   "image": null
+  },
+  {
+   "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+   "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+   "date": "2026-07-07T09:10:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
+  },
+  {
+   "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+   "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+   "date": "2026-07-07T06:40:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interf",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
+  },
+  {
+   "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+   "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+   "date": "2026-07-07T05:16:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_aggregate",
+   "link": "https://postgr.es/p/9oz",
+   "date": "2026-07-07T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's unusual enable_* parameter that defaults off: partitionwise aggregation trades memory for speed, and only you know if that deal is worth it for…",
+   "image": null
+  },
+  {
+   "title": "Getting started with PHP",
+   "link": "https://stitcher.io/blog/getting-started-with-php",
+   "date": "2026-07-07T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
+   "image": null
+  },
   {
    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
    "link": "https://huggingface.co/blog/lerobot-release-v060",
@@ -12,16 +192,6 @@
    "image": null
   },
   {
-   "title": "What breaks an AI agent after 50 clean demos",
-   "link": "https://dev.to/kimlike/what-breaks-an-ai-agent-after-50-clean-demos-2fj8",
-   "date": "2026-07-07T00:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The demo ran 50 times without a failure. Then we shipped it. Three days into production, the agent started returning confident nonsense. Not errors. Not crashes. It finished its task, wrote a result, logged success. The ",
-   "image": null
-  },
-  {
    "title": "tencent/Hy3",
    "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
    "date": "2026-07-06T23:57:35.000Z",
@@ -30,76 +200,6 @@
    "source": "Simon Willison",
    "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Followin",
    "image": null
-  },
-  {
-   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
-   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-k4k",
-   "date": "2026-07-06T23:50:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I still remember the email that made my stomach drop. \"$297.43 for last month's OpenAI usage.\" That's what it costs to run a simple customer support chatbot that handled maybe 500 ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr2cjdlgcotrgog4gb3sg.jpg"
-  },
-  {
-   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
-   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-14pp",
-   "date": "2026-07-06T23:50:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Here's the uncomfortable truth: 73% of developers now rely on AI coding assistants to ship production code, according to Stack Overflow's 2026 survey. And yet, most of the tools ou",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyito70rso33dk53sk1vz.jpg"
-  },
-  {
-   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
-   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-pg1",
-   "date": "2026-07-06T23:38:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I built a production app that processes 10,000 requests daily without spending a penny on APIs. Here's how. Spoiler alert: It wasn't easy, and it definitely wasn't what most people",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyvkj6b17welrb62574iu.jpg"
-  },
-  {
-   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
-   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-lc7",
-   "date": "2026-07-06T23:38:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Last month, my team spent 40 hours debugging code written by an AI agent that promised to \"revolutionize\" our workflow. In my experience, The result? A 30% drop in productivity and",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhr044rdz3dmkudmmd0q8.jpg"
-  },
-  {
-   "title": "Your GitHub Actions bill is mostly macOS minutes (here's how to tell)",
-   "link": "https://dev.to/ace2932/your-github-actions-bill-is-mostly-macos-minutes-heres-how-to-tell-56fk",
-   "date": "2026-07-06T23:36:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If your GitHub Actions bill surprises you, look at the macOS line first. A macOS runner minute bills at roughly ten times a Linux minute, and the xlarge tiers cost more still. One ten-minute macOS job is a hundred Linux-",
-   "image": null
-  },
-  {
-   "title": "I made a Premium React E-Commerce Template with an Admin Dashboard, Dark Mode & Responsive Design",
-   "link": "https://dev.to/ozeem1/i-made-a-premium-react-e-commerce-template-with-an-admin-dashboard-dark-mode-responsive-design-4j2p",
-   "date": "2026-07-06T23:25:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Launch a modern e-commerce store with my Premium React E-Commerce Template. It includes: ✅ 6 ready-made pages 🌙 Dark mode 📊 Admin dashboard 📱 Fully responsive design ✨ Clean and modern UI Perfect for online stores, pr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyq6sxfboq5b5cqi0x011.png"
-  },
-  {
-   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
-   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-23o8",
-   "date": "2026-07-06T23:20:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I built a production app that processes 10,000 daily users without paying a penny for AI APIs. Here’s the uncomfortable truth: you’ve been overpaying for artificial intelligence. T",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvdnrikyyhkx25ugdr5ou.jpg"
   },
   {
    "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
@@ -252,26 +352,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/bg.jpg"
   },
   {
-   "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-   "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-   "date": "2026-07-06T11:30:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg"
-  },
-  {
-   "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-   "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-   "date": "2026-07-06T10:58:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from comprom",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg"
-  },
-  {
    "title": "Gabriele Bartolini: CNPG Recipe 25 - Declarative Roles and Passwordless TLS in CloudNativePG 1.30",
    "link": "https://postgr.es/p/9op",
    "date": "2026-07-06T08:56:47.000Z",
@@ -280,26 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "CloudNativePG 1.30 introduces the DatabaseRole CRD and built-in TLS client certificate issuance, letting application teams own their PostgreSQL credentials declaratively and connect without ever handling a password.",
    "image": null
-  },
-  {
-   "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-   "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-   "date": "2026-07-06T08:50:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
-  },
-  {
-   "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-   "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-   "date": "2026-07-06T08:13:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
   },
   {
    "title": "Richard Yen: Are You .ready?",
@@ -359,36 +419,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "DDEV Blog: DDEV v1.25.3: Faster Start and Stop, Built-in Docker Compose, Stable Podman, MariaDB 12.3 LTS",
-   "link": "https://ddev.com/blog/release-v1-25-3",
-   "date": "2026-07-06T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We're announcing DDEV v1.25.3: faster ddev start and ddev stop, built-in Docker Compose, stable Podman and Docker Rootless support, MariaDB 12.3 LTS support, Node.js improvements, XDG_CONFIG_HOME changes, and more. This ",
-   "image": "https://ddev.com/img/blog/2026/07/banner-ddev-v1-25-3.svg"
-  },
-  {
-   "title": "Joachim's blog: No data, no problem: computed fields made simple",
-   "link": "http://www.noreiko.com/blog/no-data-no-problem-computed-fields-made-simple",
-   "date": "2026-07-05T16:02:48.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "No data, no problem: computed fields made simple It's often useful to let the machines do the work, and output something that's dynamically computed on an entity. By that I mean something that can't be hardcoded as a fix",
-   "image": null
-  },
-  {
-   "title": "Radim Marek: VACUUM at the Page Level",
-   "link": "https://postgr.es/p/9ol",
-   "date": "2026-07-05T14:31:03.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "In HOT Updates in Postgres we covered page pruning clean up HOT chains, an elegant shortcut where PostgreSQL reclaims dead tuple space during ordinary reads. All that without waiting for any background process. But pruni",
    "image": null
   },
   {
@@ -999,16 +1029,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang",
-   "image": null
-  },
-  {
-   "title": "Extending pt-archiver with a Partition-Aware Plug-in for Fast Retention Policy Enforcement",
-   "link": "https://www.percona.com/blog/extending-pt-archiver-with-a-partition-aware-plug-in-for-fast-retention-policy-enforcement/",
-   "date": "2026-06-16T11:31:51.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Managing data retention policies is one of the most common operational tasks in MySQL. Applications continuously generate transactional, audit, logging, telemetry, and event data. Over time, these tables can grow to bill",
    "image": null
   },
   {
