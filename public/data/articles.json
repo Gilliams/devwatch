@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-06T19:03:52.216Z",
+ "generatedAt": "2026-07-07T00:18:38.567Z",
  "articles": [
   {
    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -12,84 +12,104 @@
    "image": null
   },
   {
-   "title": "Secure VM Access Without Public IPs: A Beginner's Guide to Azure Bastion Service for Secure And Efficient VM Access",
-   "link": "https://dev.to/olakunle_makanjuola_92754/secure-vm-access-without-public-ips-a-beginners-guide-to-azure-bastion-service-for-secure-and-1c0h",
-   "date": "2026-07-06T18:47:46.000Z",
+   "title": "What breaks an AI agent after 50 clean demos",
+   "link": "https://dev.to/kimlike/what-breaks-an-ai-agent-after-50-clean-demos-2fj8",
+   "date": "2026-07-07T00:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction To overcome this problem, Azure Bastion is a Platform as a Service (PaaS) solution which provides secure SSH and RDP connection from Azure portal using HTTPS (Port 443). The use of Azure Bastion eliminates t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjzic0fj4fs9xwimyp653.png"
+   "summary": "The demo ran 50 times without a failure. Then we shipped it. Three days into production, the agent started returning confident nonsense. Not errors. Not crashes. It finished its task, wrote a result, logged success. The ",
+   "image": null
   },
   {
-   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
-   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-61k",
-   "date": "2026-07-06T18:45:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I spent three days last month debugging a production outage caused by an AI-generated SQL query. In my experience, Three days. The culprit? A tool that confidently suggested a join",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi0z3tsn4puv281rgyu3v.jpg"
-  },
-  {
-   "title": "Before You Paste That Log: A Safer Debugging Habit",
-   "link": "https://dev.to/omarh-creator/before-you-paste-that-log-a-safer-debugging-habit-23c4",
-   "date": "2026-07-06T18:38:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Debugging is collaborative. You paste a stack trace into an issue. You send curl -v output to a teammate. You drop a failing docker compose log into Discord. You ask an AI chat why a service is returning 401. Most of the",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feekztnox829bdy58eoqd.png"
-  },
-  {
-   "title": "Are You Over-Provisioning Your Kubernetes Cluster? The Hidden Cost of Unused Resources",
-   "link": "https://dev.to/nalluri_gowtham_c21a3b06a/are-you-over-provisioning-your-kubernetes-cluster-the-hidden-cost-of-unused-resources-1i6a",
-   "date": "2026-07-06T18:35:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Imagine renting a large office building for 200 employees, but only 80 people come to work every day. Although the space remains mostly empty, you're still paying for the entire building. Over-provisioning i",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F67f96um81ykjjjapncw1.png"
+   "title": "tencent/Hy3",
+   "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+   "date": "2026-07-06T23:57:35.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Followin",
+   "image": null
   },
   {
    "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
-   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-jaj",
-   "date": "2026-07-06T18:35:08.000Z",
+   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-k4k",
+   "date": "2026-07-06T23:50:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Did you know that a single month of using GPT-4 for a mid-sized app can cost more than a Tesla? That’s right—$20,000 in API calls could buy you a Model 3. But here’s the uncomforta",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5stqujncfytkpco5edmb.jpg"
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I still remember the email that made my stomach drop. \"$297.43 for last month's OpenAI usage.\" That's what it costs to run a simple customer support chatbot that handled maybe 500 ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr2cjdlgcotrgog4gb3sg.jpg"
   },
   {
-   "title": "Understanding File Descriptors & Redirection in Linux",
-   "link": "https://dev.to/dharam_in/understanding-file-descriptors-redirection-in-linux-ca2",
-   "date": "2026-07-06T18:35:04.000Z",
+   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
+   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-14pp",
+   "date": "2026-07-06T23:50:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "File Descriptors What is a File Descriptors A file descriptor is simply a non-negative integer that the opreting system uses to identify an open file or I/O resources. in linux eveything is treating as a file, including ",
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Here's the uncomfortable truth: 73% of developers now rely on AI coding assistants to ship production code, according to Stack Overflow's 2026 survey. And yet, most of the tools ou",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyito70rso33dk53sk1vz.jpg"
+  },
+  {
+   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
+   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-pg1",
+   "date": "2026-07-06T23:38:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I built a production app that processes 10,000 requests daily without spending a penny on APIs. Here's how. Spoiler alert: It wasn't easy, and it definitely wasn't what most people",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyvkj6b17welrb62574iu.jpg"
+  },
+  {
+   "title": "AI Coding Agents in 2026: 8 Tools That Actually Ship Production Code",
+   "link": "https://dev.to/sar_007/ai-coding-agents-in-2026-8-tools-that-actually-ship-production-code-lc7",
+   "date": "2026-07-06T23:38:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded Last month, my team spent 40 hours debugging code written by an AI agent that promised to \"revolutionize\" our workflow. In my experience, The result? A 30% drop in productivity and",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhr044rdz3dmkudmmd0q8.jpg"
+  },
+  {
+   "title": "Your GitHub Actions bill is mostly macOS minutes (here's how to tell)",
+   "link": "https://dev.to/ace2932/your-github-actions-bill-is-mostly-macos-minutes-heres-how-to-tell-56fk",
+   "date": "2026-07-06T23:36:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If your GitHub Actions bill surprises you, look at the macOS line first. A macOS runner minute bills at roughly ten times a Linux minute, and the xlarge tiers cost more still. One ten-minute macOS job is a hundred Linux-",
    "image": null
   },
   {
-   "title": "Ansible im Alltag – Idempotente Rollen, die jahrelang stabil bleiben",
-   "link": "https://dev.to/uhltak/ansible-im-alltag-idempotente-rollen-die-jahrelang-stabil-bleiben-2i09",
-   "date": "2026-07-06T18:00:03.000Z",
+   "title": "I made a Premium React E-Commerce Template with an Admin Dashboard, Dark Mode & Responsive Design",
+   "link": "https://dev.to/ozeem1/i-made-a-premium-react-e-commerce-template-with-an-admin-dashboard-dark-mode-responsive-design-4j2p",
+   "date": "2026-07-06T23:25:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ansible im Alltag – Idempotente Rollen, die jahrelang stabil bleiben Hook – Sie haben sich schon einmal darüber geärgert, dass ein Playbook nach einem Update plötzlich ganze Server neu aufsetzt, weil ein einzelner Task p",
-   "image": null
+   "summary": "Launch a modern e-commerce store with my Premium React E-Commerce Template. It includes: ✅ 6 ready-made pages 🌙 Dark mode 📊 Admin dashboard 📱 Fully responsive design ✨ Clean and modern UI Perfect for online stores, pr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyq6sxfboq5b5cqi0x011.png"
   },
   {
-   "title": "AI Prompt Templates for Prometheus Alerting",
-   "link": "https://dev.to/devopsaitoolkit/ai-prompt-templates-for-prometheus-alerting-2a7n",
-   "date": "2026-07-06T17:45:17.000Z",
+   "title": "The $0 AI Stack: Building Production Apps Without Spending a Dime on APIs",
+   "link": "https://dev.to/sar_007/the-0-ai-stack-building-production-apps-without-spending-a-dime-on-apis-23o8",
+   "date": "2026-07-06T23:20:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Writing good Prometheus alerts is hard. Most alerts are too sensitive (page on every blip), too lax (miss real outages), or missing context (no runbook, no labels, no severity routing). AI assistants are unusually good a",
-   "image": null
+   "summary": "🔑 KeyManager: 3 OpenRouter keys loaded I built a production app that processes 10,000 daily users without paying a penny for AI APIs. Here’s the uncomfortable truth: you’ve been overpaying for artificial intelligence. T",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvdnrikyyhkx25ugdr5ou.jpg"
+  },
+  {
+   "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+   "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+   "date": "2026-07-06T18:34:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Isr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg"
   },
   {
    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
@@ -282,14 +302,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
   },
   {
-   "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-   "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-   "date": "2026-07-06T07:27:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg"
+   "title": "Richard Yen: Are You .ready?",
+   "link": "https://postgr.es/p/9ox",
+   "date": "2026-07-06T08:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A practical guide to what .ready and .done mean, and why WAL sticks around Introduction It is 9:12 a.m. on a Monday. Someone on your team opens pg_wal/archive_status/ during a storage scare and sees a long list of files ",
+   "image": null
   },
   {
    "title": "sqlite-utils 4.0rc3",
@@ -299,6 +319,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept ge",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Drupal 11.4.0, AI Workflows, and Orchestration",
+   "link": "https://www.thedroptimes.com/newsletter/drupal-1140-ai-workflows-and-orchestration?utm_source=Drupal Planet",
+   "date": "2026-07-06T05:30:57.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Recent Drupal developments point to a clearer direction for the project’s AI and developer-experience work. The immediate story is not only that Drupal is adding AI features. Core performance, upgrade tooling, workflow o",
    "image": null
   },
   {
@@ -332,6 +362,26 @@
    "image": null
   },
   {
+   "title": "DDEV Blog: DDEV v1.25.3: Faster Start and Stop, Built-in Docker Compose, Stable Podman, MariaDB 12.3 LTS",
+   "link": "https://ddev.com/blog/release-v1-25-3",
+   "date": "2026-07-06T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We're announcing DDEV v1.25.3: faster ddev start and ddev stop, built-in Docker Compose, stable Podman and Docker Rootless support, MariaDB 12.3 LTS support, Node.js improvements, XDG_CONFIG_HOME changes, and more. This ",
+   "image": "https://ddev.com/img/blog/2026/07/banner-ddev-v1-25-3.svg"
+  },
+  {
+   "title": "Joachim's blog: No data, no problem: computed fields made simple",
+   "link": "http://www.noreiko.com/blog/no-data-no-problem-computed-fields-made-simple",
+   "date": "2026-07-05T16:02:48.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "No data, no problem: computed fields made simple It's often useful to let the machines do the work, and output something that's dynamically computed on an entity. By that I mean something that can't be hardcoded as a fix",
+   "image": null
+  },
+  {
    "title": "Radim Marek: VACUUM at the Page Level",
    "link": "https://postgr.es/p/9ol",
    "date": "2026-07-05T14:31:03.000Z",
@@ -359,16 +409,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I f",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_parallel_hash",
-   "link": "https://postgr.es/p/9o8",
-   "date": "2026-07-05T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Parallel hash joins pool worker memory to build one shared table instead of having each worker build its own copy—a distinction that matters enormously on…",
    "image": null
   },
   {
@@ -402,16 +442,6 @@
    "image": null
   },
   {
-   "title": "Penyaskito: Canvas Internals - JSON data types in differentes databases: It works on my machine!",
-   "link": "http://penyaskito.com/articles/2026/07/04/canvas-json-data-types-differentes-database-engines",
-   "date": "2026-07-04T16:24:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Canvas Internals - JSON data types in differentes databases: It works on my machine! Image Drupal has been working to add a JSON data type since 2023, but that has not landed yet. Drupal Canvas jumps ahead of that in its",
-   "image": "http://penyaskito.com/sites/default/files/2026-07/json-db-key-order.svg"
-  },
-  {
    "title": "Open Source AI Gap Map",
    "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
    "date": "2026-07-03T22:04:31.000Z",
@@ -440,36 +470,6 @@
    "source": "Symfony Blog",
    "summary": "Twig 3.28.0 is out. This release sharpens error reporting with column numbers, brings back dynamic macro calls through the dot operator, and continues to polish the sandbox with less runtime overhead and finer-grained al",
    "image": "https://github.com/fabpot.png"
-  },
-  {
-   "title": "Fable's judgement",
-   "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-   "date": "2026-07-03T18:51:06.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "One of the most interesting tips I got from the Fireside Chat I hosted with Cat Wu and Thariq Shihipar from the Claude Code team at AIE on Wednesday was to let Fable (and to a certain extent Opus) use their own judgement",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Shibin Das on Making Drupal Workflows Legible",
-   "link": "https://www.thedroptimes.com/interview/70951/shibin-das-flowdrop-workflow-legibility?utm_source=Drupal Planet",
-   "date": "2026-07-03T15:39:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Shibin Das explains why visual workflow tools need visible execution, audit trails, runtime ownership, and clear boundaries between deterministic workflows and AI-assisted decision-making.",
-   "image": null
-  },
-  {
-   "title": "Undpaul.de: Drupal Tip: How to change field length with existing data",
-   "link": "https://www.undpaul.de/en/blog/2026/07/03/drupal-tip-how-change-field-length-existing-data",
-   "date": "2026-07-03T07:27:43.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Every Drupal developer eventually hits this wall: a client or editor requests that a standard text field (like a headline or subheadline) be expanded from 255 to 512 characters. You change the value in the field configur",
-   "image": null
   },
   {
    "title": "EnvKit: A Local Development Stack for Laravel on Windows and macOS",
