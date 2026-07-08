@@ -1,65 +1,155 @@
 {
- "generatedAt": "2026-07-08T12:50:31.362Z",
+ "generatedAt": "2026-07-08T18:41:31.861Z",
  "articles": [
   {
-   "title": "Mobile App Development in India – Transforming Ideas into Apps",
-   "link": "https://dev.to/3fitech_21_6061a2f02d3a7f/mobile-app-development-in-india-transforming-ideas-into-apps-3483",
-   "date": "2026-07-08T12:40:59.000Z",
+   "title": "PikoCI v0.7.0: Approval gates, audit log, OIDC, secrets masking, and build reports",
+   "link": "https://dev.to/xescugc/pikoci-v070-approval-gates-audit-log-oidc-secrets-masking-and-build-reports-hlm",
+   "date": "2026-07-08T18:37:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "(https://3fitech.com/website-development) In this era of digitization, organizations succeed only if they manage to reach out to their clients via mobile applications. In 3FI TECH, we provide you with our highly advanced",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgcw7hgp083dzv7171tvp.png"
+   "summary": "PikoCI is an open-source CI/CD server written in Go. A single binary, no dependencies, pipeline-as-code in HCL. v0.7.0 is the security and compliance release. A lot shipped in this one. Jobs can now require human approva",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyu8cu7c8rfhw5gsk2o.png"
   },
   {
-   "title": "Integrating Git Submodules the Easy Way",
-   "link": "https://dev.to/andreas_herz/integrating-git-submodules-the-easy-way-3ffd",
-   "date": "2026-07-08T12:34:59.000Z",
+   "title": "SSH vs. HTTPS: A Shared Machine Case Study",
+   "link": "https://dev.to/ganeshak11/ssh-vs-https-a-shared-machine-case-study-15i9",
+   "date": "2026-07-08T18:33:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Git submodules have a reputation for being fiddly, but most of that pain comes down to a handful of missing commands and one config flag nobody mentions. Used well, they're a clean way to embed a shared library, a design",
+   "summary": "Most SSH vs HTTPS articles compare encryption. Mine started because of a college lab. I realized that using Git over HTTPS on a shared machine could leave cached credentials behind, creating problems for whoever used the",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0brtqzv5ou4aav231uh.png"
+  },
+  {
+   "title": "Applying SAST to Infrastructure as Code (Without TFSec)",
+   "link": "https://dev.to/ikers/applying-sast-to-infrastructure-as-code-without-tfsec-4b3d",
+   "date": "2026-07-08T18:19:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Static analysis isn't just for application source code. Terraform, Pulumi, OpenTofu, and CloudFormation files are code too — and they get misconfigured just as often as a backend service. A public S3 bucket, a security g",
    "image": null
   },
   {
-   "title": "Scaling Past 1,000 Users: The 2026 Playbook",
-   "link": "https://dev.to/devxhub/scaling-past-1000-users-the-2026-playbook-526n",
-   "date": "2026-07-08T12:23:58.000Z",
+   "title": "Fahrzeug-Lifecycle-Management: Autoverkauf in Ahaus effizient gestaltet",
+   "link": "https://dev.to/greman_autoguide_ec374e8/fahrzeug-lifecycle-management-autoverkauf-in-ahaus-effizient-gestaltet-55kk",
+   "date": "2026-07-08T18:13:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The app that was perfect at 100 users cracks around 1,000. The same four things break first, in order: Slow DB queries — missing indexes, N+1s (instant on small tables, crawl on big ones). Profile, index hot paths, kill ",
+   "summary": "In der Software-Entwicklung sprechen wir ständig über den Lifecycle von Produkten – von der Initialisierung bis zum \"End-of-Life\". Doch warum betrachten wir unser privates Umfeld, wie den Verkauf eines Gebrauchtwagens, o",
    "image": null
   },
   {
-   "title": "Essential DevOps Checklist to Successfully Launch Your First SaaS Product",
-   "link": "https://dev.to/ujjwal_tripathi_de92b8b69/essential-devops-checklist-to-successfully-launch-your-first-saas-product-32jb",
-   "date": "2026-07-08T12:18:32.000Z",
+   "title": "Applying SAST to Any Application (Without Sonar, Snyk, Semgrep, or Veracode)",
+   "link": "https://dev.to/ikers/applying-sast-to-any-application-without-sonar-snyk-semgrep-or-veracode-37ia",
+   "date": "2026-07-08T18:12:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've seen it happen more times than I'd like to admit. A founder spends six months building a product they genuinely believe in. The UI is polished. The onboarding flow is smooth. The pricing page converts. Launch day ar",
+   "summary": "Most \"how to add SAST to your pipeline\" articles gravitate toward the same four names: SonarQube, Snyk, Semgrep, Veracode. They're solid tools, but they're not the only options, and sometimes you can't use them — budget ",
    "image": null
   },
   {
-   "title": "Why I Recommend Alibaba Cloud ECS for Developers in 2026",
-   "link": "https://dev.to/fan_li_ee7d84c6203253d041/why-i-recommend-alibaba-cloud-ecs-for-developers-in-2026-1gj7",
-   "date": "2026-07-08T12:04:15.000Z",
+   "title": "OpenAI has introduced a new voice mode for ChatGPT",
+   "link": "https://dev.to/alexgetmancom/openai-has-introduced-a-new-voice-mode-for-chatgpt-19i",
+   "date": "2026-07-08T18:08:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why I Recommend Alibaba Cloud ECS for Developers in 2026 As a developer who has tested multiple cloud providers, I want to share my experience with Alibaba Cloud Elastic Compute Service (ECS). Global Infrastructure: 84 a",
+   "summary": "OpenAI has introduced a new voice mode for ChatGPT • Conversations now feel more natural: you can interrupt, pause, and adjust the pace. • ChatGPT keeps context better and no longer treats every pause as the end of your ",
+   "image": null
+  },
+  {
+   "title": "The CNCF Data Storage in Cloud Native AI White Paper",
+   "link": "https://dev.to/rasne/the-cncf-data-storage-in-cloud-native-ai-white-paper-bma",
+   "date": "2026-07-08T18:00:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: The CNCF Data Storage in Cloud Native AI White Paper — read the full article on rasne.dev. Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for",
    "image": null
   },
   {
    "title": "Title",
-   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-3eh1",
-   "date": "2026-07-08T12:01:46.000Z",
+   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-2aa0",
+   "date": "2026-07-08T17:59:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
    "summary": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. Inci",
    "image": null
+  },
+  {
+   "title": "Data for Agents",
+   "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+   "date": "2026-07-08T17:16:05.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+   "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+   "date": "2026-07-08T17:02:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not maliciou",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg"
+  },
+  {
+   "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+   "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+   "date": "2026-07-08T15:07:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSq",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg"
+  },
+  {
+   "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+   "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+   "date": "2026-07-08T14:38:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command exec",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg"
+  },
+  {
+   "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+   "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+   "date": "2026-07-08T13:00:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
+  },
+  {
+   "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+   "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+   "date": "2026-07-08T12:52:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
+  },
+  {
+   "title": "HTTP Query Method Support in Laravel 13.19",
+   "link": "https://laravel-news.com/laravel-13-19-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-08T12:29:31.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.19.0 adds an Http::query() client method and query/queryJson testing helpers for the HTTP QUERY verb, plus a reduceInto collection method, a counted string helper, and bulk SQS job dispatching. The post HTTP Q",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "Experiences with local models for coding",
@@ -68,7 +158,17 @@
    "theme": "patterns",
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler now reports on her recent experiences trying local models for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
+   "summary": "Birgitta Böckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Yii3 Offers Drupal Teams a PHP Framework Reference Point",
+   "link": "https://www.thedroptimes.com/70890/yii3-drupal-php-architecture?utm_source=Drupal Planet",
+   "date": "2026-07-08T11:51:29.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Architecture choices become clearer when the CMS is not the whole application. Yii3 helps frame where Drupal should lead and where a separate PHP service may belong.",
    "image": null
   },
   {
@@ -80,26 +180,6 @@
    "source": "The Hacker News",
    "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with th",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
-  },
-  {
-   "title": "Day 66/100 - ClickHouse Keeper vs ZooKeeper: Migration and Benchmarks",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-66100-clickhouse-keeper-vs-zookeeper-migration-and-benchmarks-1eep",
-   "date": "2026-07-08T11:49:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Distributed ClickHouse® clusters rely on a coordination service to manage replication, distributed DDL execution, leader election, and metadata consistency across nodes. Without a reliable coordination layer",
-   "image": null
-  },
-  {
-   "title": "Cron Is Great... Until Your Business Gets Involved",
-   "link": "https://dev.to/unmeshed/cron-is-great-until-your-business-gets-involved-1dmf",
-   "date": "2026-07-08T11:47:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Workflow automation is a critical component of many business operations, handling tasks that require minimal human involvement. From generating financial reports and running overnight data jobs to performing",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftolcuis3kpxambqg2eq2.png"
   },
   {
    "title": "The Verification Step Is the New ATO Battleground in 2026",
@@ -132,6 +212,16 @@
    "image": "https://joshics.in/sites/default/files/inline-images/solving-for-complexity-joshi-consultancy-services-500.png"
   },
   {
+   "title": "Ship AI with Laravel: I Tricked My Own AI Into Leaking Everything",
+   "link": "https://laravel-news.com/ship-ai-with-laravel-i-tricked-my-own-ai-into-leaking-everything?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-08T10:46:13.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "First I socially engineer our own support agent into leaking its full system prompt and another customer's data. Then we lock it down with four layers of defense: a hardened prompt, a local LLM guard running on Ollama, t",
+   "image": null
+  },
+  {
    "title": "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary",
    "link": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
    "date": "2026-07-08T10:32:42.000Z",
@@ -142,36 +232,6 @@
    "image": null
   },
   {
-   "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-   "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-   "date": "2026-07-08T09:04:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg"
-  },
-  {
-   "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-   "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-   "date": "2026-07-08T06:16:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code ha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
-  },
-  {
-   "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-   "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-   "date": "2026-07-08T05:33:12.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_join",
    "link": "https://postgr.es/p/9p1",
    "date": "2026-07-08T01:00:00.000Z",
@@ -179,6 +239,36 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Partitionwise join decomposes big joins into smaller per-partition pairs when both tables partition on the join key—but only if you enable it and meet strict…",
+   "image": null
+  },
+  {
+   "title": "Edge gets started on CSS mixins",
+   "link": "https://frontendfoc.us/issues/749",
+   "date": "2026-07-08T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​749 — July 8, 2026 | Read on the web The Descent: What Happened to the Frontend While You Weren't Watching — A comprehensive deep dive into the technical evolution of frontend development over the pas",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nvhy6t6nskpbpvodlwbq.jpg"
+  },
+  {
+   "title": "Native-speed vLLM transformers modeling backend",
+   "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+   "date": "2026-07-08T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Ruohang Feng: Happy 30th Birthday, PostgreSQL",
+   "link": "https://postgr.es/p/9p9",
+   "date": "2026-07-08T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On July 8, 1996, the PostgreSQL community picked up the flame from Postgres95. Thirty years later, it has grown from a Berkeley research project into a default foundation of the global database ecosystem.",
    "image": null
   },
   {
@@ -200,26 +290,6 @@
    "source": "Simon Willison",
    "summary": "This morning I released sqlite-utils 4.0 , the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgr",
    "image": null
-  },
-  {
-   "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-   "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-   "date": "2026-07-07T17:10:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg"
-  },
-  {
-   "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-   "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-   "date": "2026-07-07T16:37:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg"
   },
   {
    "title": "sqlite-migrate 0.2",
@@ -382,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Drupal Association blog: Board Election 2026 Candidate: Darren Oh",
-   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-darren-oh",
-   "date": "2026-07-07T08:14:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Who are you? Darren is the volunteer project lead for Drupal Forge. He joined the Drupal community in 2005 and has been an active contributor ever since. Until 2026, he maintained the Drupal platform for Estée Lauder Com",
-   "image": null
-  },
-  {
    "title": "Mayur B.: My Dishonest Benchmark",
    "link": "https://postgr.es/p/9p0",
    "date": "2026-07-07T07:21:02.000Z",
@@ -532,16 +592,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/bg.jpg"
   },
   {
-   "title": "Gabriele Bartolini: CNPG Recipe 25 - Declarative Roles and Passwordless TLS in CloudNativePG 1.30",
-   "link": "https://postgr.es/p/9op",
-   "date": "2026-07-06T08:56:47.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "CloudNativePG 1.30 introduces the DatabaseRole CRD and built-in TLS client certificate issuance, letting application teams own their PostgreSQL credentials declaratively and connect without ever handling a password.",
-   "image": null
-  },
-  {
    "title": "sqlite-utils 4.0rc3",
    "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
    "date": "2026-07-06T05:40:08.000Z",
@@ -642,16 +692,6 @@
    "image": null
   },
   {
-   "title": "Commune: A Private Community for Founders and Builders",
-   "link": "https://laravel-news.com/commune-a-private-community-for-founders-and-builders?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-02T12:53:58.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Commune is a gamified social platform for builders to share what they’re working on, connect with other founders, and launch their projects. The post Commune: A Private Community for Founders and Builders appeared first ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/commune-a-private-community-for-founders-and-builders.png"
-  },
-  {
    "title": "Case Study: Driving Green Innovation: How Symfony Empowered Veolia’s Digital Shift in Industrial Waste Management",
    "link": "https://symfony.com/blog/case-study-driving-green-innovation-how-symfony-empowered-veolia-s-digital-shift-in-industrial-waste-management?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-02T12:30:00.000Z",
@@ -702,16 +742,6 @@
    "image": null
   },
   {
-   "title": "A Copy/Paste Detector CLI for PHP 8.5+",
-   "link": "https://laravel-news.com/a-copypaste-detector-cli-for-php-85?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-02T03:59:11.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "phpcpd-next is a maintained, dependency-free successor to Sebastian Bergmann's phpcpd that finds duplicated PHP code, including reordered and gapped clones. The post A Copy/Paste Detector CLI for PHP 8.5+ appeared first ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/phpcpd-next-featured.png"
-  },
-  {
    "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
    "link": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
    "date": "2026-07-01T10:13:35.000Z",
@@ -730,26 +760,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
-  },
-  {
-   "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-   "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-   "date": "2026-07-01T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-   "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-   "date": "2026-06-30T18:32:50.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "Community Docker Images: keeping the operator open without a vendor registry lock-in",
@@ -1060,16 +1070,6 @@
    "source": "Kubernetes Blog",
    "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project moving forward. This time, we catch up with SIG Storage, the group responsible for persistent data, volume management, ",
    "image": null
-  },
-  {
-   "title": "Safari's 58 new features",
-   "link": "https://frontendfoc.us/issues/745",
-   "date": "2026-06-10T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​745 — June 10, 2026 | Read on the web What's New in WebKit in Safari 27 Beta — Apple’s WWDC is taking place this week, and Safari 27, coming to iPhone, iPad, and Mac users later this year, is now in b",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1781086714/ijwbpjbnhyh9glsma25i.jpg"
   },
   {
    "title": "PHP 8.4.22 Released!",
