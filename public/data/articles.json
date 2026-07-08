@@ -1,20 +1,20 @@
 {
- "generatedAt": "2026-07-08T00:10:23.206Z",
+ "generatedAt": "2026-07-08T07:40:44.038Z",
  "articles": [
   {
-   "title": "EC2: A Espinha Dorsal da AWS (e Onde Todo Mundo Erra)",
-   "link": "https://dev.to/duquedotdev/ec2-a-espinha-dorsal-da-aws-e-onde-todo-mundo-erra-4cnj",
-   "date": "2026-07-07T23:47:21.000Z",
+   "title": "Top 10 Best Magento to WooCommerce Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-magento-to-woocommerce-migration-companies-2pd9",
+   "date": "2026-07-08T07:37:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Lembro a primeira instância EC2 que subi. t2.micro, free tier, orgulho desproporcional ao tamanho da máquina. Terminei o tutorial, fechei o notebook, e esqueci ela ligada. Voltei três meses depois. Não tinha feito nada d",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F52u3erzhfzv9zjcezjkv.png"
+   "summary": "You've got a Magento enterprise store but you're drowning in hosting costs and complexity. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical depth and won't corrupt your d",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyfz0yphbzhm1jdzcltqh.png"
   },
   {
    "title": "Title",
-   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-1of1",
-   "date": "2026-07-07T23:28:27.000Z",
+   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-1ee",
+   "date": "2026-07-08T07:36:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
@@ -22,63 +22,93 @@
    "image": null
   },
   {
-   "title": "Release-Ready Email Checks",
-   "link": "https://dev.to/mrdapperx/release-ready-email-checks-3nam",
-   "date": "2026-07-07T23:24:06.000Z",
+   "title": "Is your AI strategy driving real impact or just more pilots?",
+   "link": "https://dev.to/inument/is-your-ai-strategy-driving-real-impact-or-just-more-pilots-4klg",
+   "date": "2026-07-08T07:34:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Release checklists often prove the API is up, the queue is draining, and the UI loads. Then an approval email ships with the wrong hostname, or a reset link points at yesterday's env. That gap is why I keep one small ema",
+   "summary": "AI only matters when it improves workflows, speeds up decisions, and creates measurable business value. So, what would real AI impact look like inside your company? AITransformation #AIForBusiness #TechLeadership",
    "image": null
   },
   {
-   "title": "Mission 2: Containerise the App",
-   "link": "https://dev.to/okunola_babatunde_dff5cbd/mission-2-containerise-the-app-3kfc",
-   "date": "2026-07-07T22:50:39.000Z",
+   "title": "A Terraform Repo Structure That Scales From 1 to 50 Engineers",
+   "link": "https://dev.to/deplyra/a-terraform-repo-structure-that-scales-from-1-to-50-engineers-5gnk",
+   "date": "2026-07-08T07:32:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction: Welcome back to Mission 2! In the https://dev.to/okunola_babatunde_dff5cbd/mission-1-arm-your-workstation-438i, we laid the groundwork by setting up our project folder, building a tiny Node.js application, ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flkefizl0wxizbva8yzve.png"
+   "summary": "Most Terraform pain isn't the language — it's the layout. This is the repo structure we use for client projects: how to split modules from live environments, when to use workspaces (almost never), and how to keep plan ou",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fasqeq80a97yx2zn4ustg.png"
   },
   {
-   "title": "DevSecOps: Cadê a Segurança Nessa Esteira?",
-   "link": "https://dev.to/duquedotdev/devsecops-cade-a-seguranca-nessa-esteira-45kc",
-   "date": "2026-07-07T22:46:30.000Z",
+   "title": "Most Engineering Blogs Show You What Worked. We're Going to Show You What Broke.",
+   "link": "https://dev.to/vaibhav_tech4biz/most-engineering-blogs-show-you-what-worked-were-going-to-show-you-what-broke-2h4e",
+   "date": "2026-07-08T07:18:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Demorei um tempo bom pra decidir como abrir esse texto, porque toda vez que eu tentava resumir DevSecOps numa frase só, saía capenga. Cheguei numa: apesar de pertencerem a rotinas completamente diferentes, cozinha de res",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk42cazhxlubbnvix04ao.png"
-  },
-  {
-   "title": "Kubernetes Was Not Broken. My VM Was Too Small.",
-   "link": "https://dev.to/henryosei/kubernetes-was-not-broken-my-vm-was-too-small-1l49",
-   "date": "2026-07-07T22:41:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I recently hit one of those Kubernetes issues that looks like a networking problem at first, then a CNI problem, then an RKE2 problem, and finally turns out to be something much simpler: the control-plane VM did not have",
+   "summary": "Most engineering blogs focus on the outcome. They present clean architectures, successful deployments, and polished case studies that make complex systems appear simpler than they really were. What they rarely document i",
    "image": null
   },
   {
-   "title": "GitOps for Infrastructure: How We Deploy With Zero SSH",
-   "link": "https://dev.to/samson_tanimawo/gitops-for-infrastructure-how-we-deploy-with-zero-ssh-3593",
-   "date": "2026-07-07T22:36:10.000Z",
+   "title": "Microsoft GH-200 Exam Report 2026: Don't Use 2024 Microsoft GH-200 Exam Guides Until You Read This",
+   "link": "https://dev.to/radio_cloud_b48e73c5e640e/microsoft-gh-200-exam-report-2026-dont-use-2024-microsoft-gh-200-exam-guides-until-you-read-this-46gn",
+   "date": "2026-07-08T07:18:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Last Time I Used SSH I haven't SSH'd into a production server in 14 months. Not because I'm lazy — because our infrastructure doesn't require it. GitOps changed everything. GitOps = Git is the single source of truth ",
+   "summary": "Are you still preparing for the GH-200 with a guide, course, or question bank from 2024? If so, you're probably studying for an exam that doesn't exist anymore. If you search for GH-200 prep advice today, you'll mostly f",
    "image": null
   },
   {
-   "title": "Title",
-   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-4e0n",
-   "date": "2026-07-07T22:09:32.000Z",
+   "title": "The line in the LICENSE file that reorders your n8n alternatives",
+   "link": "https://dev.to/aialleyway/the-line-in-the-license-file-that-reorders-your-n8n-alternatives-3ia3",
+   "date": "2026-07-08T07:16:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. Inci",
+   "summary": "Most \"n8n alternatives\" lists compare the wrong column. They line up connector counts, per-execution pricing, cron support, and a screenshot of the canvas. Useful, up to a point. But if you're planning to self-host the e",
+   "image": null
+  },
+  {
+   "title": "Unlock Business Potential with Leading Data Analytics Services in Bangalore",
+   "link": "https://dev.to/kevin_mailk_0222fd5f2ec7b/unlock-business-potential-with-leading-data-analytics-services-in-bangalore-34m7",
+   "date": "2026-07-08T07:10:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Businesses,​‍​‌‍​‍‌​‍​‌‍​‍‌ in the present era, are producing a massive amount of data, more than they did ever before. Literally, every click, transaction, and interaction gives rise to new information. However, data is",
+   "image": null
+  },
+  {
+   "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+   "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+   "date": "2026-07-08T06:16:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code ha",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif"
+  },
+  {
+   "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+   "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+   "date": "2026-07-08T05:33:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_join",
+   "link": "https://postgr.es/p/9p1",
+   "date": "2026-07-08T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Partitionwise join decomposes big joins into smaller per-partition pairs when both tables partition on the join key—but only if you enable it and meet strict…",
    "image": null
   },
   {
@@ -272,16 +302,6 @@
    "image": null
   },
   {
-   "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-   "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-   "date": "2026-07-07T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, whi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg"
-  },
-  {
    "title": "Smartbees: Automatic Product Documentation Library",
    "link": "https://smartbees.co/case-study/automatic-product-documentation-library",
    "date": "2026-07-07T11:01:55.000Z",
@@ -310,16 +330,6 @@
    "source": "Drupal Planet",
    "summary": "Who are you? I’ve been part of the Drupal community for nearly twenty years, contributing as a former Drupal Association Board member, founder and Chair of Drupal Colorado, organizer of DrupalCamp Colorado, speaker, ment",
    "image": null
-  },
-  {
-   "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-   "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-   "date": "2026-07-07T09:10:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
   },
   {
    "title": "Drupal Association blog: Board Election 2026 Candidate: Helge Notø",
@@ -509,16 +519,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "CloudNativePG 1.30 introduces the DatabaseRole CRD and built-in TLS client certificate issuance, letting application teams own their PostgreSQL credentials declaratively and connect without ever handling a password.",
-   "image": null
-  },
-  {
-   "title": "Richard Yen: Are You .ready?",
-   "link": "https://postgr.es/p/9ox",
-   "date": "2026-07-06T08:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A practical guide to what .ready and .done mean, and why WAL sticks around Introduction It is 9:12 a.m. on a Monday. Someone on your team opens pg_wal/archive_status/ during a storage scare and sees a long list of files ",
    "image": null
   },
   {
