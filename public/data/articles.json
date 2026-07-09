@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-07-08T18:41:31.861Z",
+ "generatedAt": "2026-07-09T00:19:32.740Z",
  "articles": [
   {
-   "title": "PikoCI v0.7.0: Approval gates, audit log, OIDC, secrets masking, and build reports",
-   "link": "https://dev.to/xescugc/pikoci-v070-approval-gates-audit-log-oidc-secrets-masking-and-build-reports-hlm",
-   "date": "2026-07-08T18:37:08.000Z",
+   "title": "From Solo Bot to Agent Fleet: A Practical Guide",
+   "link": "https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-3m3i",
+   "date": "2026-07-09T00:02:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "PikoCI is an open-source CI/CD server written in Go. A single binary, no dependencies, pipeline-as-code in HCL. v0.7.0 is the security and compliance release. A lot shipped in this one. Jobs can now require human approva",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0lyu8cu7c8rfhw5gsk2o.png"
-  },
-  {
-   "title": "SSH vs. HTTPS: A Shared Machine Case Study",
-   "link": "https://dev.to/ganeshak11/ssh-vs-https-a-shared-machine-case-study-15i9",
-   "date": "2026-07-08T18:33:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most SSH vs HTTPS articles compare encryption. Mine started because of a college lab. I realized that using Git over HTTPS on a shared machine could leave cached credentials behind, creating problems for whoever used the",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd0brtqzv5ou4aav231uh.png"
-  },
-  {
-   "title": "Applying SAST to Infrastructure as Code (Without TFSec)",
-   "link": "https://dev.to/ikers/applying-sast-to-infrastructure-as-code-without-tfsec-4b3d",
-   "date": "2026-07-08T18:19:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Static analysis isn't just for application source code. Terraform, Pulumi, OpenTofu, and CloudFormation files are code too — and they get misconfigured just as often as a backend service. A public S3 bucket, a security g",
+   "summary": "The Architecture Problem Last month, I hit a wall. My single AI agent—a scraper that monitored competitor pricing—was working fine. But then I needed it to cross-reference data, generate reports, and post updates to a Te",
    "image": null
   },
   {
-   "title": "Fahrzeug-Lifecycle-Management: Autoverkauf in Ahaus effizient gestaltet",
-   "link": "https://dev.to/greman_autoguide_ec374e8/fahrzeug-lifecycle-management-autoverkauf-in-ahaus-effizient-gestaltet-55kk",
-   "date": "2026-07-08T18:13:56.000Z",
+   "title": "Load Testing in Production: How We Do It Safely",
+   "link": "https://dev.to/samson_tanimawo/load-testing-in-production-how-we-do-it-safely-4j0o",
+   "date": "2026-07-08T23:58:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In der Software-Entwicklung sprechen wir ständig über den Lifecycle von Produkten – von der Initialisierung bis zum \"End-of-Life\". Doch warum betrachten wir unser privates Umfeld, wie den Verkauf eines Gebrauchtwagens, o",
+   "summary": "Why Staging Load Tests Lie We ran perfect load tests in staging. 10,000 requests per second, sub-100ms latency, zero errors. Then we launched and fell over at 3,000 RPS in production. Why? Staging had different data (100",
    "image": null
   },
   {
-   "title": "Applying SAST to Any Application (Without Sonar, Snyk, Semgrep, or Veracode)",
-   "link": "https://dev.to/ikers/applying-sast-to-any-application-without-sonar-snyk-semgrep-or-veracode-37ia",
-   "date": "2026-07-08T18:12:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most \"how to add SAST to your pipeline\" articles gravitate toward the same four names: SonarQube, Snyk, Semgrep, Veracode. They're solid tools, but they're not the only options, and sometimes you can't use them — budget ",
+   "title": "Rewriting Bun in Rust",
+   "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+   "date": "2026-07-08T23:57:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wai",
    "image": null
   },
   {
-   "title": "OpenAI has introduced a new voice mode for ChatGPT",
-   "link": "https://dev.to/alexgetmancom/openai-has-introduced-a-new-voice-mode-for-chatgpt-19i",
-   "date": "2026-07-08T18:08:53.000Z",
+   "title": "The Matrix of CI/CD: Building Pipelines That Actually Work",
+   "link": "https://dev.to/timevolt/the-matrix-of-cicd-building-pipelines-that-actually-work-35mo",
+   "date": "2026-07-08T23:51:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "OpenAI has introduced a new voice mode for ChatGPT • Conversations now feel more natural: you can interrupt, pause, and adjust the pace. • ChatGPT keeps context better and no longer treats every pause as the end of your ",
+   "summary": "The Quest Begins (The \"Why\") I still remember the first time I tried to automate a release. I had a shiny new feature branch, a handful of unit tests, and a dream of pushing to production with a single click. Instead, I ",
    "image": null
   },
   {
-   "title": "The CNCF Data Storage in Cloud Native AI White Paper",
-   "link": "https://dev.to/rasne/the-cncf-data-storage-in-cloud-native-ai-white-paper-bma",
-   "date": "2026-07-08T18:00:36.000Z",
+   "title": "Your Cron Job Works. That's Not the Same as Surviving Cron",
+   "link": "https://dev.to/bashsnippets/your-cron-job-works-thats-not-the-same-as-surviving-cron-1n84",
+   "date": "2026-07-08T23:42:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: The CNCF Data Storage in Cloud Native AI White Paper — read the full article on rasne.dev. Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for",
+   "summary": "There's a gap between a script that works when you run it and a script that survives running unattended for a year. The first only has to succeed once, with you watching, on a good day. The second has to keep working thr",
+   "image": null
+  },
+  {
+   "title": "microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม",
+   "link": "https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g",
+   "date": "2026-07-08T23:39:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม มีเรื่องเล่าในทีมที่ผมเคยทำงานด้วย: ระบบล่มตอนตี 2 — pager ดัง — dev ตื่นมาเปิด laptop payment-service — ใช้เวลาอีก 20 นาทีไล่ว่า request นี้ผ่าน auth-service → order-se",
    "image": null
   },
   {
    "title": "Title",
-   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-2aa0",
-   "date": "2026-07-08T17:59:12.000Z",
+   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-34i4",
+   "date": "2026-07-08T23:35:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
    "summary": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. Inci",
+   "image": null
+  },
+  {
+   "title": "Inbox Contracts for Scheduled Automation",
+   "link": "https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n",
+   "date": "2026-07-08T23:24:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Scheduled jobs are great at doing work quietly until one of them sends the wrong email at 3 AM. The script still \"passed\", the queue still drained, and the logs still look mostly fine. But the message went to the wrong i",
+   "image": null
+  },
+  {
+   "title": "Docker for developers",
+   "link": "https://dev.to/agenyc/docker-for-developers-25ka",
+   "date": "2026-07-08T23:23:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "\"Works on my machine\" is the most expensive sentence in software. Docker exists to kill it. At its core, Docker packages your application together with everything it needs to run — the runtime, libraries, and system depe",
+   "image": null
+  },
+  {
+   "title": "Introducing GPT‑Live",
+   "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+   "date": "2026-07-08T23:20:48.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off hard",
+   "image": null
+  },
+  {
+   "title": "DDEV Blog: TYPO3 Projects on Coder.ddev.com",
+   "link": "https://ddev.com/blog/typo3-coder-ddev-com",
+   "date": "2026-07-08T21:55:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "coder.ddev.com gives you a full DDEV environment in the cloud, no local Docker required. This is a quick look at using it for a TYPO3 project with the freeform template. For general background on coder.ddev.com, includin",
+   "image": "https://ddev.com/img/blog/2026/07/typo3-coder-ddev-com.png"
+  },
+  {
+   "title": "Quoting Kenton Varda",
+   "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+   "date": "2026-07-08T20:03:34.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to rev",
    "image": null
   },
   {
@@ -150,6 +190,16 @@
    "source": "Laravel News",
    "summary": "Laravel 13.19.0 adds an Http::query() client method and query/queryJson testing helpers for the HTTP QUERY verb, plus a reduceInto collection method, a counted string helper, and bulk SQS job dispatching. The post HTTP Q",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Announcing etcd v3.7.0",
+   "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
+   "date": "2026-07-08T12:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
+   "image": null
   },
   {
    "title": "Experiences with local models for coding",
@@ -232,6 +282,16 @@
    "image": null
   },
   {
+   "title": "The Drop Times: Drupal Camp Asheville Sessions Highlight Team Decisions, Site Discovery, Layout Tools, and AI Risk",
+   "link": "https://www.thedroptimes.com/71045/asheville-sessions-ai-risk-site-discovery?utm_source=Drupal Planet",
+   "date": "2026-07-08T06:02:22.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Before Drupal teams can build well, they need shared context, current site knowledge, consistent layout tools, and clear AI boundaries. Written responses from four Drupal Camp Asheville speakers show how those choices af",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_join",
    "link": "https://postgr.es/p/9p1",
    "date": "2026-07-08T01:00:00.000Z",
@@ -269,6 +329,26 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "On July 8, 1996, the PostgreSQL community picked up the flame from Postgres95. Thirty years later, it has grown from a Berkeley research project into a default foundation of the global database ecosystem.",
+   "image": null
+  },
+  {
+   "title": "DDEV Blog: Using `git worktree` with TYPO3 (Video)",
+   "link": "https://ddev.com/blog/git-worktree-with-typo3",
+   "date": "2026-07-08T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "People have increasingly been discovering git worktree for use in working on multiple features or bugs at the same time, or for having AI agents work in parallel. A DDEV contributor training covered this, and a Drupal Fl",
+   "image": "https://ddev.com/img/blog/2026/07/git-worktree-typo3.png"
+  },
+  {
+   "title": "Tag1 Insights: Beyond Batch and Queue: Temporal integration with Drupal",
+   "link": "https://www.tag1.com/blog/temporal-integration-with-drupal/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
+   "date": "2026-07-08T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Take Away Batch and queue are fine until they aren't. Once you've hit their limits and if your site is large enough, and you will, Temporal is the answer. Crashes, retries, scaling across machines: handled, transparently",
    "image": null
   },
   {
@@ -412,46 +492,6 @@
    "image": null
   },
   {
-   "title": "Specbee: How to add an AI Assistant to CKEditor in Drupal (and keep it under control)",
-   "link": "https://www.specbee.com/blogs/add-ai-assistant-to-ckeditor-drupal",
-   "date": "2026-07-07T10:49:05.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Learn how to add an AI assistant to Drupal's CKEditor, where your content goes when editors use it, and the controls that keep publishing safe.",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Board Election 2026 Candidate: Matthew Saunders",
-   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-matthew-saunders",
-   "date": "2026-07-07T10:03:40.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Who are you? I’ve been part of the Drupal community for nearly twenty years, contributing as a former Drupal Association Board member, founder and Chair of Drupal Colorado, organizer of DrupalCamp Colorado, speaker, ment",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Board Election 2026 Candidate: Helge Notø",
-   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-helge-not%C3%B8",
-   "date": "2026-07-07T08:20:13.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Who are you? I'm Helge, 50 years old, originally from northern Norway and now based in Bergen, Norway, married with one child. I've worked with Drupal for over 20 years as a user, developer, and project manager, and hold",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Board Election 2026 Candidate: Janna Malikova",
-   "link": "https://www.drupal.org/association/blog/board-election-2026-candidate-janna-malikova",
-   "date": "2026-07-07T08:18:06.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Who are you? Hi, I'm Janna. I’m a software engineer based in Australia, and day-to-day I wear a lot of hats—from team lead and developer to accessibility tester on all kinds of projects. I care a lot about open source, w",
-   "image": null
-  },
-  {
    "title": "Mayur B.: My Dishonest Benchmark",
    "link": "https://postgr.es/p/9p0",
    "date": "2026-07-07T07:21:02.000Z",
@@ -522,16 +562,6 @@
    "image": null
   },
   {
-   "title": "tencent/Hy3",
-   "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-   "date": "2026-07-06T23:57:35.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Followin",
-   "image": null
-  },
-  {
    "title": "Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 20 – Add backend-level lock statistics",
    "link": "https://postgr.es/p/9ow",
    "date": "2026-07-06T17:30:55.000Z",
@@ -592,16 +622,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/bg.jpg"
   },
   {
-   "title": "sqlite-utils 4.0rc3",
-   "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-   "date": "2026-07-06T05:40:08.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept ge",
-   "image": null
-  },
-  {
    "title": "🤗 Kernels: Major Updates",
    "link": "https://huggingface.co/blog/revamped-kernels",
    "date": "2026-07-06T00:00:00.000Z",
@@ -619,16 +639,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony released Twig 3.28.0, with improvements to macros and the sandbox. In addition, we published a case study on using Symfony in the industrial sector. Lastly, we proposed a redesign of the exception page",
-   "image": null
-  },
-  {
-   "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-   "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-   "date": "2026-07-05T01:00:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I f",
    "image": null
   },
   {
@@ -1159,16 +1169,6 @@
    "themeName": "Développement Web",
    "source": "web.dev",
    "summary": "Read about various happenings with Baseline during April 2026.",
-   "image": null
-  },
-  {
-   "title": "Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs",
-   "link": "https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/",
-   "date": "2026-05-26T17:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "The Kubernetes project relies on transparency to empower cluster administrators and security researchers. One important way we do that is by publishing CVE records into the Common Vulnerabilities and Exposures database. ",
    "image": null
   }
  ]
