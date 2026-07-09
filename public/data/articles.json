@@ -1,24 +1,134 @@
 {
- "generatedAt": "2026-07-09T00:19:32.740Z",
+ "generatedAt": "2026-07-09T08:40:43.706Z",
  "articles": [
   {
-   "title": "From Solo Bot to Agent Fleet: A Practical Guide",
-   "link": "https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-3m3i",
-   "date": "2026-07-09T00:02:27.000Z",
+   "title": "npm v12 Just Shipped — Here's What Broke in My CI and How I Fixed It",
+   "link": "https://dev.to/vigoss_luke_3604c1d0e9b4a/npm-v12-just-shipped-heres-what-broke-in-my-ci-and-how-i-fixed-it-3dgc",
+   "date": "2026-07-09T08:23:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Architecture Problem Last month, I hit a wall. My single AI agent—a scraper that monitored competitor pricing—was working fine. But then I needed it to cross-reference data, generate reports, and post updates to a Te",
+   "summary": "npm v12 hit stable on July 8. Within 12 hours, three of our CI pipelines were red. Not yellow — red. And the worst part: one of them was green for 4 hours before anyone noticed the deploy was shipping broken containers. ",
    "image": null
   },
   {
-   "title": "Load Testing in Production: How We Do It Safely",
-   "link": "https://dev.to/samson_tanimawo/load-testing-in-production-how-we-do-it-safely-4j0o",
-   "date": "2026-07-08T23:58:00.000Z",
+   "title": "n8n vs Temporal vs Windmill pricing comparison",
+   "link": "https://dev.to/chasebot/n8n-vs-temporal-vs-windmill-pricing-comparison-34a8",
+   "date": "2026-07-09T08:00:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why Staging Load Tests Lie We ran perfect load tests in staging. 10,000 requests per second, sub-100ms latency, zero errors. Then we launched and fell over at 3,000 RPS in production. Why? Staging had different data (100",
+   "summary": "What You'll Need n8n Cloud or self-hosted n8n instance Hetzner VPS or Contabo VPS for self-hosting Temporal/Windmill DigitalOcean as an alternative hosting provider Basic understanding of workflow automation concepts A c",
+   "image": null
+  },
+  {
+   "title": "Master AI Agents for DevOps Engineers Training | Online Course",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-training-online-course-2l5f",
+   "date": "2026-07-09T07:54:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How AI Agents Are Changing the Future of DevOps Engineering AI agents study project data and suggest task priorities. They also estimate possible risks before development begins. https://www.visualpath.in/ai-agents-for-d",
+   "image": null
+  },
+  {
+   "title": "Per-pod secrets in Kubernetes: 3 patterns compared: field controls that hold",
+   "link": "https://dev.to/isabelle_dubuis_d858453d7/per-pod-secrets-in-kubernetes-3-patterns-compared-field-controls-that-hold-43p7",
+   "date": "2026-07-09T07:50:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Per-pod secrets in Kubernetes: 3 patterns compared should not be treated as filler content. The real risk is not a shortage of ideas; it is publishing a piece that mixes judgement, unsupported numbers, and mechanical lin",
+   "image": null
+  },
+  {
+   "title": "Where Accountability Breaks When Agents Multiply",
+   "link": "https://dev.to/zse4321/where-accountability-breaks-when-agents-multiply-219g",
+   "date": "2026-07-09T07:49:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At first, everything seems to work Put a single AI agent into a real service and it tends to hold up surprisingly well. It writes code, drafts answers, edits files. So you add another, and then one more. You split the ro",
+   "image": null
+  },
+  {
+   "title": "Top 10 Best SiteVision to WordPress Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-sitevision-to-wordpress-migration-companies-4ipi",
+   "date": "2026-07-09T07:44:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You've got a SiteVision CMS but you're hitting architectural limitations constantly. Time to migrate to WordPress. Let's talk about which companies actually understand the technical side and won't corrupt your content, b",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgk6ss26mjcx561kzfwi1.png"
+  },
+  {
+   "title": "Deploying Nginx on AWS EC2 Using Terraform — Automating Infrastructure",
+   "link": "https://dev.to/deep_datta_731d9bd4a91980/deploying-nginx-on-aws-ec2-using-terraform-automating-infrastructure-2fkp",
+   "date": "2026-07-09T07:40:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Been meaning to do a proper Terraform project for a while. This weekend I finally did it. The goal was simple: use Terraform to provision AWS infrastructure from scratch and have a running Nginx server at the end of it. ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgehz7tcmgchrd7op6txe.png"
+  },
+  {
+   "title": "Stop Copy-Pasting AI HTML Into FTP Clients",
+   "link": "https://dev.to/juliedechili/stop-copy-pasting-ai-html-into-ftp-clients-26p",
+   "date": "2026-07-09T07:30:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The workflow that was quietly wasting my time Here's a pattern I bet a lot of you know well: You open ChatGPT, Claude, or Gemini. You ask for a landing page, a demo, a quick prototype for a client. Thirty seconds later y",
+   "image": null
+  },
+  {
+   "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+   "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+   "date": "2026-07-09T07:21:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default. \"You can also @-mention Instagram accoun",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg"
+  },
+  {
+   "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+   "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+   "date": "2026-07-09T05:15:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif"
+  },
+  {
+   "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+   "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+   "date": "2026-07-09T04:27:18.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
+  },
+  {
+   "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+   "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+   "date": "2026-07-09T04:01:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 loo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png"
+  },
+  {
+   "title": "Talking Drupal: TD Cafe #018 - Drupal Site Templates",
+   "link": "https://sacstudio.libsyn.com/td-cafe-018-drupal-site-templates",
+   "date": "2026-07-09T04:01:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Join Martin, Andy and Mike as they discuss what Drupal site templates are and how they differ from Drupal's traditionally bare-bones starting point, aiming to reduce setup effort and total cost of ownership while making ",
    "image": null
   },
   {
@@ -29,66 +139,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wai",
-   "image": null
-  },
-  {
-   "title": "The Matrix of CI/CD: Building Pipelines That Actually Work",
-   "link": "https://dev.to/timevolt/the-matrix-of-cicd-building-pipelines-that-actually-work-35mo",
-   "date": "2026-07-08T23:51:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") I still remember the first time I tried to automate a release. I had a shiny new feature branch, a handful of unit tests, and a dream of pushing to production with a single click. Instead, I ",
-   "image": null
-  },
-  {
-   "title": "Your Cron Job Works. That's Not the Same as Surviving Cron",
-   "link": "https://dev.to/bashsnippets/your-cron-job-works-thats-not-the-same-as-surviving-cron-1n84",
-   "date": "2026-07-08T23:42:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There's a gap between a script that works when you run it and a script that survives running unattended for a year. The first only has to succeed once, with you watching, on a good day. The second has to keep working thr",
-   "image": null
-  },
-  {
-   "title": "microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม",
-   "link": "https://dev.to/gophernment/microservice-tngmii-observability-aekhaihn-thuengcchakhum-1m1g",
-   "date": "2026-07-08T23:39:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "microservice ต้องมี observability แค่ไหน ถึงจะคุ้ม มีเรื่องเล่าในทีมที่ผมเคยทำงานด้วย: ระบบล่มตอนตี 2 — pager ดัง — dev ตื่นมาเปิด laptop payment-service — ใช้เวลาอีก 20 นาทีไล่ว่า request นี้ผ่าน auth-service → order-se",
-   "image": null
-  },
-  {
-   "title": "Title",
-   "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-34i4",
-   "date": "2026-07-08T23:35:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Title vLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare Image generated via Midjourney by author But tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. Inci",
-   "image": null
-  },
-  {
-   "title": "Inbox Contracts for Scheduled Automation",
-   "link": "https://dev.to/mrdapperx/inbox-contracts-for-scheduled-automation-1b5n",
-   "date": "2026-07-08T23:24:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Scheduled jobs are great at doing work quietly until one of them sends the wrong email at 3 AM. The script still \"passed\", the queue still drained, and the logs still look mostly fine. But the message went to the wrong i",
-   "image": null
-  },
-  {
-   "title": "Docker for developers",
-   "link": "https://dev.to/agenyc/docker-for-developers-25ka",
-   "date": "2026-07-08T23:23:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"Works on my machine\" is the most expensive sentence in software. Docker exists to kill it. At its core, Docker packages your application together with everything it needs to run — the runtime, libraries, and system depe",
    "image": null
   },
   {
@@ -110,6 +160,16 @@
    "source": "Drupal Planet",
    "summary": "coder.ddev.com gives you a full DDEV environment in the cloud, no local Docker required. This is a quick look at using it for a TYPO3 project with the freeform template. For general background on coder.ddev.com, includin",
    "image": "https://ddev.com/img/blog/2026/07/typo3-coder-ddev-com.png"
+  },
+  {
+   "title": "Haki Benita: How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+   "link": "https://postgr.es/p/9pa",
+   "date": "2026-07-08T21:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "One of the most valuable things about partitioned tables is pruning - the database's ability to eliminate entire partitions based on a query predicate. Under conventional wisdom, pruning can only be achieved when queryin",
+   "image": "https://hakibenita.com/images/00-postgresql-partition-pruning.png"
   },
   {
    "title": "Quoting Kenton Varda",
@@ -172,16 +232,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg"
   },
   {
-   "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-   "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-   "date": "2026-07-08T12:52:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg"
-  },
-  {
    "title": "HTTP Query Method Support in Laravel 13.19",
    "link": "https://laravel-news.com/laravel-13-19-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-08T12:29:31.000Z",
@@ -220,36 +270,6 @@
    "source": "Drupal Planet",
    "summary": "Architecture choices become clearer when the CMS is not the whole application. Yii3 helps frame where Drupal should lead and where a separate PHP service may belong.",
    "image": null
-  },
-  {
-   "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-   "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-   "date": "2026-07-08T11:51:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg"
-  },
-  {
-   "title": "The Verification Step Is the New ATO Battleground in 2026",
-   "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-   "date": "2026-07-08T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for def",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg"
-  },
-  {
-   "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-   "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-   "date": "2026-07-08T11:21:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg"
   },
   {
    "title": "joshics.in: The Drupal Paradox: Why Enterprise Complexity Becomes a Liability",
@@ -482,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Smartbees: Automatic Product Documentation Library",
-   "link": "https://smartbees.co/case-study/automatic-product-documentation-library",
-   "date": "2026-07-07T11:01:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "See how our product documentation library sped up editors' work and reduced the risk of website errors.",
-   "image": null
-  },
-  {
    "title": "Mayur B.: My Dishonest Benchmark",
    "link": "https://postgr.es/p/9p0",
    "date": "2026-07-07T07:21:02.000Z",
@@ -589,16 +599,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Replication Deadlock Bug in Current Postgres Releases 14-16 The current minor releases of Postgres versions 14-16 (14.23, 15.18 and 16.14, released on May 14th) introduced a regression that can lead to a MultiXactOffsetS",
-   "image": null
-  },
-  {
-   "title": "Devrim GÜNDÜZ: Inaugural PostgreSQL Istanbul Meetup was a blast!",
-   "link": "https://postgr.es/p/9or",
-   "date": "2026-07-06T14:53:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "We had our first meetup on Thursday, July 2nd, organized by the community people for the community people. Bilge Korkmaz Erdim, Gülçin Yıldırım Jelínek, and I had been working on the meetup idea for a long time, and it f",
    "image": null
   },
   {
