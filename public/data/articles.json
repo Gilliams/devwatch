@@ -1,25 +1,115 @@
 {
- "generatedAt": "2026-07-09T18:59:33.023Z",
+ "generatedAt": "2026-07-10T00:16:49.358Z",
  "articles": [
   {
-   "title": "European Serverless Functions with AWS Lambda performance, finally",
-   "link": "https://dev.to/ianqqu/european-serverless-functions-with-aws-lambda-performance-finally-2jo9",
-   "date": "2026-07-09T18:54:08.000Z",
+   "title": "The docker-compose port binding that Trivy, Checkov, and Semgrep all miss",
+   "link": "https://dev.to/premkumar403/the-docker-compose-port-binding-that-trivy-checkov-and-semgrep-all-miss-49pb",
+   "date": "2026-07-10T00:10:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A function that nobody's calling should cost nothing and still answer the moment someone does. That's the whole design brief for serverless, and it's the thing most EU teams quietly give up when they pick AWS Lambda for ",
+   "summary": "Most developers know UFW blocks unwanted traffic. What they don't know is that Docker bypasses UFW entirely by rewriting iptables directly. This in your docker-compose.yml: ports: \"5432:5432\" Exposes Postgres to the publ",
    "image": null
   },
   {
-   "title": "Understanding Nmap: A Practical Guide for Network Scanning",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/understanding-nmap-a-practical-guide-for-network-scanning-377j",
-   "date": "2026-07-09T18:47:12.000Z",
+   "title": "Cómo probar correos de mantenimiento en Kubernetes",
+   "link": "https://dev.to/alexcarteruk/como-probar-correos-de-mantenimiento-en-kubernetes-4gif",
+   "date": "2026-07-09T23:23:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that over 70% of network administrators still use manual methods to scan their networks for open ports and services? You will build a practical network scanning tool using Nmap, a powerful and f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+   "summary": "Cuando un cambio de mantenimiento sale bien, casi nadie habla del correo que aviso a tiempo. Cuando sale mal, todo el mundo lo nota. En guardias SRE he visto despliegues sanos en metricas y, aun asi, mensajes con enlaces",
+   "image": null
+  },
+  {
+   "title": "Architecting an Enterprise RAG Platform: Shifting from AI Hype to Production Trust on AWS",
+   "link": "https://dev.to/tijani_abagaro-genai/architecting-an-enterprise-rag-platform-shifting-from-ai-hype-to-production-trust-on-aws-1ll3",
+   "date": "2026-07-09T23:17:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Moving Generative AI from a proof-of-concept sandbox into an enterprise-grade solution requires shifting our engineering focus from what AI can do to what enterprises can trust. Modern organizations generate immense repo",
+   "image": null
+  },
+  {
+   "title": "The Codex team is well aware of the bugs in the new app and is already working on fixes.",
+   "link": "https://dev.to/alexgetmancom/the-codex-team-is-well-aware-of-the-bugs-in-the-new-app-and-is-already-working-on-fixes-4obj",
+   "date": "2026-07-09T22:37:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Codex team is well aware of the bugs in the new app and is already working on fixes. Let’s give them a little time to get everything sorted out",
+   "image": null
+  },
+  {
+   "title": "From SSH Chaos to Self-Service GPU Workspaces with Coder and HAMi",
+   "link": "https://dev.to/ranjbaryshahab/from-ssh-chaos-to-self-service-gpu-workspaces-with-coder-and-hami-1m76",
+   "date": "2026-07-09T21:32:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Disclosure: I designed the architecture, production rollout, and validation for this project. Parts of the Coder implementation were developed with Claude as an AI coding assistant, while all design decisions, testing, a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhzo1ps8nm3zed22hzefp.png"
+  },
+  {
+   "title": "Dries Buytaert: License-only versus Stewarded Open Source",
+   "link": "https://dri.es/license-only-versus-stewarded-open-source",
+   "date": "2026-07-09T21:26:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Near the end of most Open Source licenses, usually in capital letters, sits a clause that disclaims almost everything: no warranty, no liability, use at your own risk. For an organization that depends on that code, the c",
+   "image": null
+  },
+  {
+   "title": "Why Kubernetes became APT groups' favorite entry point",
+   "link": "https://dev.to/comparedge_com/why-kubernetes-became-apt-groups-favorite-entry-point-3aap",
+   "date": "2026-07-09T21:09:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Kubernetes made shipping easier. It did not make security easier. Kubernetes solved a real operations problem: running containers at scale without hand-managing every host. The security model is powerful, but it assumes ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6sskkooxjc8i8ee621o.png"
+  },
+  {
+   "title": "Navigating the ingress-NGINX retirement",
+   "link": "https://dev.to/rasne/navigating-the-ingress-nginx-retirement-3p81",
+   "date": "2026-07-09T21:00:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: Navigating the ingress-NGINX retirement — read the full article on rasne.dev. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx contr",
+   "image": null
+  },
+  {
+   "title": "Release: GPT-5.6 Sol, Terra, and Luna",
+   "link": "https://dev.to/alexgetmancom/release-gpt-56-sol-terra-and-luna-3cpc",
+   "date": "2026-07-09T20:33:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Release: GPT-5.6 Sol, Terra, and Luna OpenAI has released a new GPT-5.6 lineup. Sol is the top model, Terra is for everyday tasks, and Luna is the fastest and cheapest option. The logic is close to Claude with Opus, Sonn",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: The Version Number Is Not the Territory",
+   "link": "https://postgr.es/p/9pe",
+   "date": "2026-07-09T20:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A PostgreSQL 14 database threw an error that PostgreSQL 14 cannot produce.",
+   "image": null
+  },
+  {
+   "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+   "link": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+   "date": "2026-07-09T19:46:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "OpenAI's latest flagship model hit general availability this morning , and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra ",
+   "image": null
   },
   {
    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -32,46 +122,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
   },
   {
-   "title": "About Jesse Otobo",
-   "link": "https://dev.to/jesse_otobo_/about-jesse-otobo-1k3c",
-   "date": "2026-07-09T18:34:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hey Dev community! 👋If you’ve been following the updates on my multiplayer educational app, Jesse math rock star which you can call jesse math rock, you already know how passionate I am about engineering real-time archi",
-   "image": null
-  },
-  {
-   "title": "Claude finally reset the limits.",
-   "link": "https://dev.to/alexgetmancom/claude-finally-reset-the-limits-4ihi",
-   "date": "2026-07-09T18:27:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Claude finally reset the limits. I was betting on yesterday, like many others - Fable got extended by five days, so the timing made perfect sense. But okay. We’ll take it.",
-   "image": null
-  },
-  {
-   "title": "Releasepress v0.1.1!",
-   "link": "https://dev.to/attebury/releasepress-v011-5fml",
-   "date": "2026-07-09T18:24:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ever worried about accidentally leaking private configuration files, internal tooling keys, or undocumented code changes when publishing to public Git repositories or package registries? I built Releasepress to solve exa",
-   "image": null
-  },
-  {
-   "title": "FinOps Moved the Goalposts. Now It's Influencing What Gets Built.",
-   "link": "https://dev.to/ntctech/finops-moved-the-goalposts-now-its-influencing-what-gets-built-477m",
-   "date": "2026-07-09T18:17:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cloud architects have already accepted that cost belongs inside architecture decisions. The next evolution of architecting for value is not simply measuring financial impact — it is understanding when financial models be",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzza39djuxx794b7r47ao.jpg"
-  },
-  {
    "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
    "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
    "date": "2026-07-09T18:08:07.000Z",
@@ -80,26 +130,6 @@
    "source": "The Hacker News",
    "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can cho",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJRuXh4y7zy8C81w_JgJgWFg_sgF0IYcsvqWEsYeHIHu7nWdOl1aIMQdnmmRQF-KJK_XdTGxzSIAr57yFkzMIZ_VK5Kzx12xR4oW8QOZcnsf9zmySIT3YRvpPvo2q-P92sZc2LqB4M-NSlktwLGU85I0JQbCVCjvJ130GLEF6eGknO8VzkK66kHjlgkBg/s1600/data-wiper-malware.jpg"
-  },
-  {
-   "title": "Hyper - distributed Firecracker microVM orchestrator written in Elixir",
-   "link": "https://dev.to/suis_siva/hyper-distributed-firecracker-microvm-orchestrator-written-in-elixir-4j8",
-   "date": "2026-07-09T17:59:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hey everyone! One of the problems I ran into is that a large part of the VM-provider ecosystem is currently paid closed-source SAAS products with varying degrees of reliability. I wanted an OSS distributed microVM orches",
-   "image": null
-  },
-  {
-   "title": "Watch Formula 1 Live: How to Watch F1 Live Stream 2026",
-   "link": "https://dev.to/nextplaylive/watch-formula-1-live-how-to-watch-f1-live-stream-2026-e9",
-   "date": "2026-07-09T17:44:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Learn how to watch F1 live stream 2026 using official broadcasters for smooth HD and 4K streaming. JOIN NOW📺 How to Watch F1 Live Stream 2026 Complete Worldwide Streaming Guide Formula 1 continues to attract millions of",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Funni1fhulh6tnyy1jqs0.png"
   },
   {
    "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
@@ -220,6 +250,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report publ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg"
+  },
+  {
+   "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
+   "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
+   "date": "2026-07-09T10:06:11.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A tutorial on how to create a minimalistic and customizable 3D wave grid background with Three.js.",
+   "image": null
   },
   {
    "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
@@ -402,13 +442,13 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Drupal Camp Asheville Sessions Highlight Team Decisions, Site Discovery, Layout Tools, and AI Risk",
-   "link": "https://www.thedroptimes.com/71045/asheville-sessions-ai-risk-site-discovery?utm_source=Drupal Planet",
-   "date": "2026-07-08T06:02:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Before Drupal teams can build well, they need shared context, current site knowledge, consistent layout tools, and clear AI boundaries. Written responses from four Drupal Camp Asheville speakers show how those choices af",
+   "title": "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary",
+   "link": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+   "date": "2026-07-08T10:32:42.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "The story behind \"Ten Years Away\", a scroll-driven interactive comic created to celebrate Studio375's tenth anniversary, from its printed origins to its WebGL implementation.",
    "image": null
   },
   {
@@ -482,16 +522,6 @@
    "image": null
   },
   {
-   "title": "sqlite-migrate 0.2",
-   "link": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-   "date": "2026-07-07T16:33:55.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
-   "image": null
-  },
-  {
    "title": "SHRIDHAR KHANAL: PostgreSQL Disaster Recovery with pgBackRest TLS Transport",
    "link": "https://postgr.es/p/9oD",
    "date": "2026-07-07T15:41:39.000Z",
@@ -522,6 +552,16 @@
    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_8249102E6BD5A7D94BC02F00D913B3B576539AF394F7402EF7DE7C968CBF8D3E_1773225348617_image.png?resize=1141%2C325&#038;ssl=1"
   },
   {
+   "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
+   "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+   "date": "2026-07-07T13:37:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Build a cinematic, scroll-driven 3D gallery using a camera path authored in Blender, rendered with Three.js, and animated with GSAP.",
+   "image": null
+  },
+  {
    "title": "Percona Operator for MySQL 1.2.0: Cross-Site Replication, Encrypted Backups, and Automatic Storage Scaling",
    "link": "https://www.percona.com/blog/percona-operator-for-mysql-1-2-0-cross-site-replication-encrypted-backups-storage-autoscaling/",
    "date": "2026-07-07T13:19:26.000Z",
@@ -550,16 +590,6 @@
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
    "image": null
-  },
-  {
-   "title": "Mayur B.: My Dishonest Benchmark",
-   "link": "https://postgr.es/p/9p0",
-   "date": "2026-07-07T07:21:02.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "How to Make PostgreSQL Look 100x Faster The DeWitt Clause and the chilling of benchmark fights: *************************************************** Database benchmarking used to be a full-contact sport. In the early 1980",
-   "image": "https://cdn-images-1.medium.com/max/850/1*yVuyK0TnRQ86LUaHR1NdUA.jpeg"
   },
   {
    "title": "Laravel MPP: Charge AI Agents for API Access with 402 Payment Required",
@@ -722,6 +752,16 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
   },
   {
+   "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
+   "link": "https://tympanus.net/codrops/2026/07/02/from-years-of-client-work-to-a-next-js-sanity-starter-kit/",
+   "date": "2026-07-02T10:21:00.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "How years of refining my workflow became a headless foundation other developers can build on.",
+   "image": null
+  },
+  {
    "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
    "link": "https://www.percona.com/blog/mysql-8-0-eol-support-cve-fixes-covered/",
    "date": "2026-07-02T08:01:50.000Z",
@@ -729,6 +769,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Upstream MySQL published an out-of-schedule release this week with two high-severity CVE fixes. If you’re running Percona Server for MySQL 5.7 or 8.0 under Extended Lifecycle Support (ELS), the program we previously call",
+   "image": null
+  },
+  {
+   "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
+   "link": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
+   "date": "2026-07-01T10:13:35.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization.",
    "image": null
   },
   {
@@ -782,6 +832,16 @@
    "image": null
   },
   {
+   "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
+   "link": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
+   "date": "2026-06-30T09:35:41.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
+   "image": null
+  },
+  {
    "title": "Skipping Percona Server for MySQL 8.4.9 and 9.7.0",
    "link": "https://www.percona.com/blog/percona-server-mysql-8-4-9-9-7-0-skipped/",
    "date": "2026-06-29T15:19:11.000Z",
@@ -799,6 +859,16 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
+  },
+  {
+   "title": "Inside Bisous: Designing an Editorial Experience for Cinematic CGI",
+   "link": "https://tympanus.net/codrops/2026/06/29/inside-bisous-designing-an-editorial-experience-for-cinematic-cgi/",
+   "date": "2026-06-29T10:05:45.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A behind-the-scenes look at how editorial composition, purposeful motion, and minimalist design create a portfolio that lets cinematic CGI take the spotlight.",
    "image": null
   },
   {
@@ -859,6 +929,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha",
+   "image": null
+  },
+  {
+   "title": "Engineering the Web Experience Behind Shopify’s Spring ’26 Edition: Everywhere",
+   "link": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
+   "date": "2026-06-26T09:34:40.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere.",
    "image": null
   },
   {
