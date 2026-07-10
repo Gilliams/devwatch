@@ -1,55 +1,105 @@
 {
- "generatedAt": "2026-07-10T00:16:49.358Z",
+ "generatedAt": "2026-07-10T08:36:30.145Z",
  "articles": [
   {
-   "title": "The docker-compose port binding that Trivy, Checkov, and Semgrep all miss",
-   "link": "https://dev.to/premkumar403/the-docker-compose-port-binding-that-trivy-checkov-and-semgrep-all-miss-49pb",
-   "date": "2026-07-10T00:10:45.000Z",
+   "title": "The Gitea Docker Image Authentication Bypass (CVE-2026-20896): A Supply Chain Nightmare",
+   "link": "https://dev.to/lakshya_porwal/the-gitea-docker-image-authentication-bypass-cve-2026-20896-a-supply-chain-nightmare-3e41",
+   "date": "2026-07-10T08:36:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most developers know UFW blocks unwanted traffic. What they don't know is that Docker bypasses UFW entirely by rewriting iptables directly. This in your docker-compose.yml: ports: \"5432:5432\" Exposes Postgres to the publ",
+   "summary": "How an insecure wildcard configuration in official pre-packaged templates exposed over 6,200 self-hosted developer repositories to zero-authentication admin takeovers. The anatomy of a wildcard vulnerability When enterpr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz3x7ymejqhsp76ma9bin.png"
+  },
+  {
+   "title": "Decoupling & Securing Web App Storage: Building a Zero-Trust S3 Perimeter with Terraform",
+   "link": "https://dev.to/shane_law/decoupling-securing-web-app-storage-building-a-zero-trust-s3-perimeter-with-terraform-3m4g",
+   "date": "2026-07-10T08:31:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When hosting a scalable, multi-AZ 3-tier web application (like WordPress), storing media files locally on the EC2 instances is an architectural dead end. The moment your auto-scaler destroys an instance, your user upload",
    "image": null
   },
   {
-   "title": "Cómo probar correos de mantenimiento en Kubernetes",
-   "link": "https://dev.to/alexcarteruk/como-probar-correos-de-mantenimiento-en-kubernetes-4gif",
-   "date": "2026-07-09T23:23:49.000Z",
+   "title": "Why Network Latency is Killing Your AI Inference (A European Architecture Guide)",
+   "link": "https://dev.to/gpuyard/why-network-latency-is-killing-your-ai-inference-a-european-architecture-guide-4262",
+   "date": "2026-07-10T08:26:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cuando un cambio de mantenimiento sale bien, casi nadie habla del correo que aviso a tiempo. Cuando sale mal, todo el mundo lo nota. En guardias SRE he visto despliegues sanos en metricas y, aun asi, mensajes con enlaces",
+   "summary": "Every millisecond between a user's request and your AI model's response is a design decision—whether you made it consciously or not. For AI inference specifically (think chatbots, recommendation engines, or real-time fra",
    "image": null
   },
   {
-   "title": "Architecting an Enterprise RAG Platform: Shifting from AI Hype to Production Trust on AWS",
-   "link": "https://dev.to/tijani_abagaro-genai/architecting-an-enterprise-rag-platform-shifting-from-ai-hype-to-production-trust-on-aws-1ll3",
-   "date": "2026-07-09T23:17:45.000Z",
+   "title": "If Your Infrastructure Exists Only as a Series of Clicks, You Have a Problem",
+   "link": "https://dev.to/alex_boguslavets_b6280b12/if-your-infrastructure-exists-only-as-a-series-of-clicks-you-have-a-problem-50oo",
+   "date": "2026-07-10T08:10:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Moving Generative AI from a proof-of-concept sandbox into an enterprise-grade solution requires shifting our engineering focus from what AI can do to what enterprises can trust. Modern organizations generate immense repo",
+   "summary": "You set up a server in the AWS Console. You click through security groups, configure load balancers, set up RDS. Everything works. Two months later, you need an identical staging environment. Can you reproduce it exactly",
    "image": null
   },
   {
-   "title": "The Codex team is well aware of the bugs in the new app and is already working on fixes.",
-   "link": "https://dev.to/alexgetmancom/the-codex-team-is-well-aware-of-the-bugs-in-the-new-app-and-is-already-working-on-fixes-4obj",
-   "date": "2026-07-09T22:37:18.000Z",
+   "title": "Inside RoguePlanet: Analyzing the July 9th Microsoft Defender Patch (CVE-2026-50656)",
+   "link": "https://dev.to/lakshya_porwal/inside-rogueplanet-analyzing-the-july-9th-microsoft-defender-patch-cve-2026-50656-1mlb",
+   "date": "2026-07-10T08:08:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Codex team is well aware of the bugs in the new app and is already working on fixes. Let’s give them a little time to get everything sorted out",
+   "summary": "How a deterministic TOCTOU race condition weaponized Windows endpoints, and why the latest patch requires an immediate architecture review. The Anatomy of an Engine Exploit Yesterday , Microsoft officially pushed a criti",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmtion8oifwk3tys0us4m.png"
+  },
+  {
+   "title": "Top 10 Best CustomCart to WooCommerce Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-customcart-to-woocommerce-migration-companies-2ci3",
+   "date": "2026-07-10T07:39:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You've got a CustomCart system but you're stuck with vendor lock-in and expensive custom development. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side and won't corr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frjbh3yqlg4b3nvozt601.png"
+  },
+  {
+   "title": "Our Vertex AI bill was $8K/month. Here’s the architecture change that cut it by 71%",
+   "link": "https://dev.to/trendynews_481d488daa8853/our-vertex-ai-bill-was-8kmonth-heres-the-architecture-change-that-cut-it-by-71-2p46",
+   "date": "2026-07-10T07:25:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Four second query latency. Eight thousand dollars a month. We thought it was the model. It was orchestration — and the way Google’s default setup is quietly expensive by design. The result: 71% cost reduction, latency do",
    "image": null
   },
   {
-   "title": "From SSH Chaos to Self-Service GPU Workspaces with Coder and HAMi",
-   "link": "https://dev.to/ranjbaryshahab/from-ssh-chaos-to-self-service-gpu-workspaces-with-coder-and-hami-1m76",
-   "date": "2026-07-09T21:32:52.000Z",
+   "title": "Website Development Cost USA (2026): Pricing & Cost Guide",
+   "link": "https://dev.to/ict_management_b18f7cc305/website-development-cost-usa-2026-pricing-cost-guide-28a9",
+   "date": "2026-07-10T07:20:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Disclosure: I designed the architecture, production rollout, and validation for this project. Parts of the Coder implementation were developed with Claude as an AI coding assistant, while all design decisions, testing, a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhzo1ps8nm3zed22hzefp.png"
+   "summary": "Building a website in 2026 isn't as simple as picking a template and calling it done. If you've started researching website development cost in USA, you've probably noticed the numbers are all over the place — some agenc",
+   "image": null
+  },
+  {
+   "title": "Quoting OpenAI",
+   "link": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+   "date": "2026-07-10T01:05:57.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work thre",
+   "image": null
+  },
+  {
+   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+   "link": "https://huggingface.co/blog/torch-attention-profile",
+   "date": "2026-07-10T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
   },
   {
    "title": "Dries Buytaert: License-only versus Stewarded Open Source",
@@ -59,36 +109,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Near the end of most Open Source licenses, usually in capital letters, sits a clause that disclaims almost everything: no warranty, no liability, use at your own risk. For an organization that depends on that code, the c",
-   "image": null
-  },
-  {
-   "title": "Why Kubernetes became APT groups' favorite entry point",
-   "link": "https://dev.to/comparedge_com/why-kubernetes-became-apt-groups-favorite-entry-point-3aap",
-   "date": "2026-07-09T21:09:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Kubernetes made shipping easier. It did not make security easier. Kubernetes solved a real operations problem: running containers at scale without hand-managing every host. The security model is powerful, but it assumes ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy6sskkooxjc8i8ee621o.png"
-  },
-  {
-   "title": "Navigating the ingress-NGINX retirement",
-   "link": "https://dev.to/rasne/navigating-the-ingress-nginx-retirement-3p81",
-   "date": "2026-07-09T21:00:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Canonical: Navigating the ingress-NGINX retirement — read the full article on rasne.dev. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx contr",
-   "image": null
-  },
-  {
-   "title": "Release: GPT-5.6 Sol, Terra, and Luna",
-   "link": "https://dev.to/alexgetmancom/release-gpt-56-sol-terra-and-luna-3cpc",
-   "date": "2026-07-09T20:33:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Release: GPT-5.6 Sol, Terra, and Luna OpenAI has released a new GPT-5.6 lineup. Sol is the top model, Terra is for everyday tasks, and Luna is the fastest and cheapest option. The logic is close to Claude with Opus, Sonn",
    "image": null
   },
   {
@@ -512,16 +532,6 @@
    "image": null
   },
   {
-   "title": "sqlite-utils 4.0, now with database schema migrations",
-   "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
-   "date": "2026-07-07T19:32:57.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "This morning I released sqlite-utils 4.0 , the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgr",
-   "image": null
-  },
-  {
    "title": "SHRIDHAR KHANAL: PostgreSQL Disaster Recovery with pgBackRest TLS Transport",
    "link": "https://postgr.es/p/9oD",
    "date": "2026-07-07T15:41:39.000Z",
@@ -649,16 +659,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
-   "image": null
-  },
-  {
-   "title": "🤗 Kernels: Major Updates",
-   "link": "https://huggingface.co/blog/revamped-kernels",
-   "date": "2026-07-06T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
