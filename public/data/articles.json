@@ -1,85 +1,185 @@
 {
- "generatedAt": "2026-07-10T13:18:49.760Z",
+ "generatedAt": "2026-07-10T18:42:56.878Z",
  "articles": [
   {
-   "title": "Ubuntu 22.04 Made hashcat 1,000x Slower: Inside the yescrypt Switch That Broke Password Cracking",
-   "link": "https://dev.to/kenimo49/ubuntu-2204-made-hashcat-1000x-slower-inside-the-yescrypt-switch-that-broke-password-cracking-3g6n",
-   "date": "2026-07-10T13:00:00.000Z",
+   "title": "7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching",
+   "link": "https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0",
+   "date": "2026-07-10T17:42:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Almost every \"how to crack Linux passwords\" blog post from the past five years is out of date. Not slightly. Wrong-tool, wrong-numbers, wrong-strategy out of date. The reason is one word: yescrypt. If you last touched of",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuacf07igic9zjc489sxp.png"
-  },
-  {
-   "title": "Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack (Loki, Grafana, Tempo, Mimir)",
-   "link": "https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm",
-   "date": "2026-07-10T12:53:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Understanding Observability with the LGTM Stack From \"what happened last night?\" to \"here's exactly what happened and why\" — in under 5 minutes Introduction What Is Observability? Metrics Logs Traces Why You Need All Thr",
+   "summary": "We just spent 34 days running 9 AI agents on 2 CPU cores and 3.6GB RAM in a real gym. Nobody saw most of it. That's the point. The system caught and auto-recovered from 7 infrastructure bugs — without an SRE rotation. He",
    "image": null
   },
   {
-   "title": "Stop Signup Fraud Before You Push to Production",
-   "link": "https://dev.to/devandrew/stop-signup-fraud-before-you-push-to-production-4he2",
-   "date": "2026-07-10T12:46:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your authentication flow might work perfectly on your local machine, but that is a dangerous metric of success. Passing a functional test in your IDE does nothing to protect your application from automated signup fraud. ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpinggy.io%2Fimages%2Fcatch_signup_fraud_in_local_dev%2Fbanner.webp"
+   "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+   "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+   "date": "2026-07-10T17:29:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phras",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
   },
   {
-   "title": "Build CI/CD in 10 Mins with Free GitHub Actions",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-in-10-mins-with-free-github-actions-3bjf",
-   "date": "2026-07-10T12:11:43.000Z",
+   "title": "Build CI/CD Pipeline in 10 Mins with Free GitHub Actions",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-4869",
+   "date": "2026-07-10T17:17:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 70% of developers still spend over 10 hours a week on manual deployment tasks, but you can automate it all in just 10 minutes with free GitHub Actions? In this tutorial, you will build a fu",
+   "summary": "Introduction Last week, I spent 3 hours manually deploying my application to a cloud server, only to realize that I had missed a critical step, resulting in a failed deployment. Then, I discovered the power of automating",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
-   "title": "#10 The Week I Held My Breath: Moving to a Real Server",
-   "link": "https://dev.to/fromzerotoship/10-the-week-i-held-my-breath-moving-to-a-real-server-5fej",
-   "date": "2026-07-10T12:04:00.000Z",
+   "title": "I saw someone give OpenClaw a 4-node Proxmox cluster and now I think most of us are doing agent security backwards",
+   "link": "https://dev.to/lars_winstand/i-saw-someone-give-openclaw-a-4-node-proxmox-cluster-and-now-i-think-most-of-us-are-doing-agent-19n9",
+   "date": "2026-07-10T17:11:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I had decided to move my tool to a real server. The only problem was I had no idea where to begin. My tools all ran on spreadsheets back then. They worked, but one of them — a search tool I built to find supplies in our ",
+   "summary": "I had one of those \"hold on, this is way too normal now\" moments reading OpenClaw threads. Not because people were building toy demos. Because they weren’t. People are already using OpenClaw like a browser operator, shel",
    "image": null
   },
   {
-   "title": "Embrace the DevOps Mindset",
-   "link": "https://dev.to/fabiosarmento/embrace-the-devops-mindset-13od",
-   "date": "2026-07-10T12:01:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "DevOps isn’t just about tools; it’s a mindset. Foster collaboration between devs and ops to break down silos. It’s about ownership and shared responsibility. Let’s build better together!",
+   "title": "Quoting Nilay Patel",
+   "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+   "date": "2026-07-10T17:05:26.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is not another way arou",
    "image": null
   },
   {
-   "title": "The Hidden Costs of Building Your Own Mapping Infrastructure",
-   "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/the-hidden-costs-of-building-your-own-mapping-infrastructure-5422",
-   "date": "2026-07-10T11:55:09.000Z",
+   "title": "Docker Compose Ambiente Desenvolvimento",
+   "link": "https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg",
+   "date": "2026-07-10T16:53:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why Mapping Infrastructure Looks Simple at First Building a location-based app often starts with a simple idea: add a map, show a route, search for a place, and guide users from point A to point B. At the beginning, this",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvuvbq8hoi9kau9dx3xwo.png"
+   "summary": "Trabalhar com dependencias como banco de dados, filas e caches localmente e sempre um processo chato. Docker Compose resolve isso com um arquivo YAML que sobe tudo junto. Crie um arquivo docker-compose.yml na raiz do pro",
+   "image": null
   },
   {
-   "title": "The Architecture of Clean Access: Mitigating Telemetry Exploitation via Streamlined Directories",
-   "link": "https://dev.to/darasem_9351c04dfc03d625e/the-architecture-of-clean-access-mitigating-telemetry-exploitation-via-streamlined-directories-no2",
-   "date": "2026-07-10T11:49:34.000Z",
+   "title": "Avoiding Rework, Without the Guesswork",
+   "link": "https://dev.to/devxhub/avoiding-rework-without-the-guesswork-270p",
+   "date": "2026-07-10T16:52:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Expansion of Telemetry Harvesting in Standard Web Browsing Directly neutralizing this systemic tracking loop, the premium navigation matrix 91Hub serves as a secure, tracking-free entry point to the digital ecosystem",
+   "summary": "The most expensive code is the code you build twice. Most rework isn't bad luck — it's a skipped step. Front-load the cheap questions: Clarify the requirement — before building; a lot of rework is a confident answer to a",
    "image": null
+  },
+  {
+   "title": "Using AI To Find And Fix Accessibility Issues At Scale",
+   "link": "https://dev.to/henryv/using-ai-to-find-and-fix-accessibility-issues-at-scale-8l7",
+   "date": "2026-07-10T16:34:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A product team usually notices accessibility debt the same way people notice a slow leak. A few bug tickets mention missing labels. QA finds a keyboard trap on one checkout step. Support gets a note from a screen-reader ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmrn3ykq6ne7j6t240lx8.jpg"
+  },
+  {
+   "title": "What Indie SaaS Founders Should Monitor Before Users Complain",
+   "link": "https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge",
+   "date": "2026-07-10T16:32:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Before your first 100 customers, monitoring can feel like something you will set up later. You are still building features. You are still finding positioning. You may not have paid users yet. A full observability stack s",
+   "image": null
+  },
+  {
+   "title": "Why We’re Building Nest: Moving Beyond Docker Registry V2’s Data-Transfer Bottleneck",
+   "link": "https://dev.to/greedykomododragon/why-were-building-nest-moving-beyond-docker-registry-v2s-data-transfer-bottleneck-44nm",
+   "date": "2026-07-10T16:30:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At PuffinNest, we are building a modern container registry for developers and teams that care about reliability, speed, and predictable costs. As part of that work, we are creating a new client called Nest. Nest is not b",
+   "image": null
+  },
+  {
+   "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+   "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+   "date": "2026-07-10T15:57:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. F",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif"
+  },
+  {
+   "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+   "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+   "date": "2026-07-10T14:51:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old passw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg"
+  },
+  {
+   "title": "The Drop Times: Mike Gifford: Accessibility Must Move Upstream in Public-Sector Open Source",
+   "link": "https://www.thedroptimes.com/interview/70981/gifford-accessibility-upstream-open-source?utm_source=Drupal Planet",
+   "date": "2026-07-10T14:22:37.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Accessibility failures often surface after budgets, architecture, and delivery plans are already fixed. Mike Gifford argues that public agencies can reduce that pattern by contributing fixes upstream.",
+   "image": null
+  },
+  {
+   "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+   "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+   "date": "2026-07-10T14:19:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
+  },
+  {
+   "title": "Acquia.com - Drupal Blog: Vibe Coding Drupal: AI as a Reasoning Partner",
+   "link": "https://www.acquia.com/blog/vibe-coding-drupal-ai-reasoning-partner",
+   "date": "2026-07-10T13:49:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Discover how to leverage AI as a reasoning partner in Drupal development, moving beyond coding to high-level architecture and system design.",
+   "image": null
+  },
+  {
+   "title": "Running DuckDB as a MySQL 9.7 storage engine",
+   "link": "https://www.percona.com/blog/running-duckdb-as-a-mysql-9-7-storage-engine/",
+   "date": "2026-07-10T13:38:16.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "ducksdb-mysql-engine is an experimental build of MySQL 9.7 where a table you mark ENGINE=DuckDB answers analytical queries from DuckDB instead of InnoDB. Same server, same connection, no second copy of the data. On TPC-H",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/architecture.png"
+  },
+  {
+   "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+   "link": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+   "date": "2026-07-10T13:31:58.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
+   "image": null
+  },
+  {
+   "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+   "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+   "date": "2026-07-10T13:15:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appe",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg"
   },
   {
    "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
@@ -102,6 +202,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg"
   },
   {
+   "title": "The Drop Times: Giving Content Editors the Display Controls They Deserve with ERVMS for Drupal",
+   "link": "https://www.thedroptimes.com/71092/ervms-drupal-editorial-view-mode-selector?utm_source=Drupal Planet",
+   "date": "2026-07-10T11:31:37.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Editors often rely on developers for simple display variations. ERVMS moves those decisions into the editorial workflow without changing Drupal's existing display architecture.",
+   "image": null
+  },
+  {
    "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
    "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
    "date": "2026-07-10T11:30:02.000Z",
@@ -112,44 +222,24 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
   },
   {
-   "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-   "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-   "date": "2026-07-10T10:56:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg"
+   "title": "Golems GABB: Drupal Anti-Spam: NoBotIQ vs CAPTCHA, Honeypot, CleanTalk, and Other Solutions",
+   "link": "https://gole.ms/blog/drupal-anti-spam-nobotiq-vs-captcha-honeypot-cleantalk-and-other-solutions",
+   "date": "2026-07-10T11:18:59.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal Anti-Spam: NoBotIQ vs CAPTCHA, Honeypot, CleanTalk, and Other Solutions admin Fri, 07/10/2026 - 14:18 Hi friends! It's been a while since our last article, and you might have been wondering when we'd be back with ",
+   "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-07/Drupal_Anti-Spam.png?itok=f2Pu4igY"
   },
   {
-   "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-   "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-   "date": "2026-07-10T10:30:20.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion atta",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
-  },
-  {
-   "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-   "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-   "date": "2026-07-10T09:00:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkED95MupJS7PoLW-VquW2mYDI869jXcCfUDUH240NRo4Yo_T63CRuicNBeGadfXW4MvDfie5vJqJ-bXkfD0VQPUl6_iUSR6C0csoL_JDjEeQmQGBoO9DDfdwzNpS8G4dendKvweGkYQypGPVx-_z0cQd_kmdVIA4YFRxNJiIwKpwU1wIUC5H8gnGDgg/s1600/crypto-wallet.jpg"
-  },
-  {
-   "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-   "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-   "date": "2026-07-10T08:10:12.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMfAeNe_4YwD_9txUToRE4uGigzg48NOJjGKREMneC5B57ROnoCbTMO-4rUiFu76ZsmJwizj28wLcHWmkuRQaQYxUFtWfrfWh3OyqFz61J7sk62rGkVO8jyP_-enVjRDhjYxWOyenL_ToZ3uVusHEuedtF63JPmcwCw_K2UieFO53HqI-yr5RBYWToxEb/s1600/Ransomware-Negotiator.jpg"
+   "title": "Passwordless Sign-In with Fortify Two-Factor Support in Laravel",
+   "link": "https://laravel-news.com/passwordless-sign-in-with-fortify-two-factor-support-in-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-10T02:34:29.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "A Laravel package that adds magic link and one-time code authentication, with a two-factor handoff to Fortify and links that email scanners can't burn. The post Passwordless Sign-In with Fortify Two-Factor Support in Lar",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/email-magic-link-featured.png"
   },
   {
    "title": "Quoting OpenAI",
@@ -200,16 +290,6 @@
    "source": "Simon Willison",
    "summary": "OpenAI's latest flagship model hit general availability this morning , and comes in three sizes: Luna, Terra, and Sol (from smallest to largest). The new models are priced per 1M input/output tokens as Luna $1/$6, Terra ",
    "image": null
-  },
-  {
-   "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-   "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-   "date": "2026-07-09T18:38:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
   },
   {
    "title": "Vibhor Kumar: PostgreSQL, AI Governance, and the C.A.L.M. Platform Test",
@@ -342,26 +422,6 @@
    "image": null
   },
   {
-   "title": "Aten Design Group: Using AI to Moderate Content in an Existing Drupal Workflow",
-   "link": "https://atendesigngroup.com/articles/using-ai-moderate-content-existing-drupal-workflow",
-   "date": "2026-07-08T22:16:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Using AI to Moderate Content in an Existing Drupal Workflow Joel Steidl Wed, 07/08/2026 - 16:16 Drupal A New Solution to An Old Problem Content moderation is a data processing problem. For large sites with many content c",
-   "image": "https://atendesigngroup.com/sites/default/files/2026-07/01-workflow-states.png"
-  },
-  {
-   "title": "DDEV Blog: TYPO3 Projects on Coder.ddev.com",
-   "link": "https://ddev.com/blog/typo3-coder-ddev-com",
-   "date": "2026-07-08T21:55:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "coder.ddev.com gives you a full DDEV environment in the cloud, no local Docker required. This is a quick look at using it for a TYPO3 project with the freeform template. For general background on coder.ddev.com, includin",
-   "image": "https://ddev.com/img/blog/2026/07/typo3-coder-ddev-com.png"
-  },
-  {
    "title": "Haki Benita: How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
    "link": "https://postgr.es/p/9pa",
    "date": "2026-07-08T21:00:00.000Z",
@@ -370,16 +430,6 @@
    "source": "Planet PostgreSQL",
    "summary": "One of the most valuable things about partitioned tables is pruning - the database's ability to eliminate entire partitions based on a query predicate. Under conventional wisdom, pruning can only be achieved when queryin",
    "image": "https://hakibenita.com/images/00-postgresql-partition-pruning.png"
-  },
-  {
-   "title": "Quoting Kenton Varda",
-   "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
-   "date": "2026-07-08T20:03:34.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to rev",
-   "image": null
   },
   {
    "title": "AI Review for Laravel Upgrades",
@@ -430,26 +480,6 @@
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
    "image": null
-  },
-  {
-   "title": "The Drop Times: Yii3 Offers Drupal Teams a PHP Framework Reference Point",
-   "link": "https://www.thedroptimes.com/70890/yii3-drupal-php-architecture?utm_source=Drupal Planet",
-   "date": "2026-07-08T11:51:29.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Architecture choices become clearer when the CMS is not the whole application. Yii3 helps frame where Drupal should lead and where a separate PHP service may belong.",
-   "image": null
-  },
-  {
-   "title": "joshics.in: The Drupal Paradox: Why Enterprise Complexity Becomes a Liability",
-   "link": "https://joshics.in/blog-post/drupal-paradox-why-enterprise-complexity-becomes-liability",
-   "date": "2026-07-08T11:07:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal Paradox: Why Enterprise Complexity Becomes a Liability bhavinhjoshi Wed, 07/08/2026 - 16:37 In the enterprise world, Drupal is often chosen for its unparalleled flexibility and power. Organizations, including ",
-   "image": "https://joshics.in/sites/default/files/inline-images/solving-for-complexity-joshi-consultancy-services-500.png"
   },
   {
    "title": "Ship AI with Laravel: I Tricked My Own AI Into Leaking Everything",
@@ -600,16 +630,6 @@
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
    "image": null
-  },
-  {
-   "title": "Laravel MPP: Charge AI Agents for API Access with 402 Payment Required",
-   "link": "https://laravel-news.com/laravel-mpp-charge-ai-agents-for-api-access-with-402-payment-required?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-07T03:29:36.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel MPP is middleware from Square1 that gates routes behind the Machine Payments Protocol, returning a 402 challenge that AI agents pay with Stripe Shared Payment Tokens or Tempo pathUSD and then retry. The post Lara",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-mpp-featured.png"
   },
   {
    "title": "Getting started with PHP",
@@ -842,16 +862,6 @@
    "image": null
   },
   {
-   "title": "Skipping Percona Server for MySQL 8.4.9 and 9.7.0",
-   "link": "https://www.percona.com/blog/percona-server-mysql-8-4-9-9-7-0-skipped/",
-   "date": "2026-06-29T15:19:11.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Update, July 1, 2026: Percona Server for MySQL 8.4.10-10 is now available. It carries the content originally planned for 8.4.9 plus the upstream security fixes. See the 8.4.10-10 release notes. 9.7.1 is still on the way;",
-   "image": null
-  },
-  {
    "title": "The Shifting Line Between CSS States and JavaScript Events",
    "link": "https://css-tricks.com/css-states-and-javascript-events/",
    "date": "2026-06-29T13:03:32.000Z",
@@ -929,16 +939,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha",
-   "image": null
-  },
-  {
-   "title": "Engineering the Web Experience Behind Shopify’s Spring ’26 Edition: Everywhere",
-   "link": "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/",
-   "date": "2026-06-26T09:34:40.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A detailed look at the rendering architecture, custom tooling, and performance techniques behind Shopify's Spring '26 Edition: Everywhere.",
    "image": null
   },
   {
