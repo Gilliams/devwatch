@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-07-10T08:36:30.145Z",
+ "generatedAt": "2026-07-10T13:18:49.760Z",
  "articles": [
   {
-   "title": "The Gitea Docker Image Authentication Bypass (CVE-2026-20896): A Supply Chain Nightmare",
-   "link": "https://dev.to/lakshya_porwal/the-gitea-docker-image-authentication-bypass-cve-2026-20896-a-supply-chain-nightmare-3e41",
-   "date": "2026-07-10T08:36:25.000Z",
+   "title": "Ubuntu 22.04 Made hashcat 1,000x Slower: Inside the yescrypt Switch That Broke Password Cracking",
+   "link": "https://dev.to/kenimo49/ubuntu-2204-made-hashcat-1000x-slower-inside-the-yescrypt-switch-that-broke-password-cracking-3g6n",
+   "date": "2026-07-10T13:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How an insecure wildcard configuration in official pre-packaged templates exposed over 6,200 self-hosted developer repositories to zero-authentication admin takeovers. The anatomy of a wildcard vulnerability When enterpr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz3x7ymejqhsp76ma9bin.png"
+   "summary": "Almost every \"how to crack Linux passwords\" blog post from the past five years is out of date. Not slightly. Wrong-tool, wrong-numbers, wrong-strategy out of date. The reason is one word: yescrypt. If you last touched of",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuacf07igic9zjc489sxp.png"
   },
   {
-   "title": "Decoupling & Securing Web App Storage: Building a Zero-Trust S3 Perimeter with Terraform",
-   "link": "https://dev.to/shane_law/decoupling-securing-web-app-storage-building-a-zero-trust-s3-perimeter-with-terraform-3m4g",
-   "date": "2026-07-10T08:31:54.000Z",
+   "title": "Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack (Loki, Grafana, Tempo, Mimir)",
+   "link": "https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm",
+   "date": "2026-07-10T12:53:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When hosting a scalable, multi-AZ 3-tier web application (like WordPress), storing media files locally on the EC2 instances is an architectural dead end. The moment your auto-scaler destroys an instance, your user upload",
+   "summary": "Understanding Observability with the LGTM Stack From \"what happened last night?\" to \"here's exactly what happened and why\" — in under 5 minutes Introduction What Is Observability? Metrics Logs Traces Why You Need All Thr",
    "image": null
   },
   {
-   "title": "Why Network Latency is Killing Your AI Inference (A European Architecture Guide)",
-   "link": "https://dev.to/gpuyard/why-network-latency-is-killing-your-ai-inference-a-european-architecture-guide-4262",
-   "date": "2026-07-10T08:26:04.000Z",
+   "title": "Stop Signup Fraud Before You Push to Production",
+   "link": "https://dev.to/devandrew/stop-signup-fraud-before-you-push-to-production-4he2",
+   "date": "2026-07-10T12:46:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every millisecond between a user's request and your AI model's response is a design decision—whether you made it consciously or not. For AI inference specifically (think chatbots, recommendation engines, or real-time fra",
+   "summary": "Your authentication flow might work perfectly on your local machine, but that is a dangerous metric of success. Passing a functional test in your IDE does nothing to protect your application from automated signup fraud. ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpinggy.io%2Fimages%2Fcatch_signup_fraud_in_local_dev%2Fbanner.webp"
+  },
+  {
+   "title": "Build CI/CD in 10 Mins with Free GitHub Actions",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-in-10-mins-with-free-github-actions-3bjf",
+   "date": "2026-07-10T12:11:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Did you know that 70% of developers still spend over 10 hours a week on manual deployment tasks, but you can automate it all in just 10 minutes with free GitHub Actions? In this tutorial, you will build a fu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "#10 The Week I Held My Breath: Moving to a Real Server",
+   "link": "https://dev.to/fromzerotoship/10-the-week-i-held-my-breath-moving-to-a-real-server-5fej",
+   "date": "2026-07-10T12:04:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I had decided to move my tool to a real server. The only problem was I had no idea where to begin. My tools all ran on spreadsheets back then. They worked, but one of them — a search tool I built to find supplies in our ",
    "image": null
   },
   {
-   "title": "If Your Infrastructure Exists Only as a Series of Clicks, You Have a Problem",
-   "link": "https://dev.to/alex_boguslavets_b6280b12/if-your-infrastructure-exists-only-as-a-series-of-clicks-you-have-a-problem-50oo",
-   "date": "2026-07-10T08:10:56.000Z",
+   "title": "Embrace the DevOps Mindset",
+   "link": "https://dev.to/fabiosarmento/embrace-the-devops-mindset-13od",
+   "date": "2026-07-10T12:01:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You set up a server in the AWS Console. You click through security groups, configure load balancers, set up RDS. Everything works. Two months later, you need an identical staging environment. Can you reproduce it exactly",
+   "summary": "DevOps isn’t just about tools; it’s a mindset. Foster collaboration between devs and ops to break down silos. It’s about ownership and shared responsibility. Let’s build better together!",
    "image": null
   },
   {
-   "title": "Inside RoguePlanet: Analyzing the July 9th Microsoft Defender Patch (CVE-2026-50656)",
-   "link": "https://dev.to/lakshya_porwal/inside-rogueplanet-analyzing-the-july-9th-microsoft-defender-patch-cve-2026-50656-1mlb",
-   "date": "2026-07-10T08:08:24.000Z",
+   "title": "The Hidden Costs of Building Your Own Mapping Infrastructure",
+   "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/the-hidden-costs-of-building-your-own-mapping-infrastructure-5422",
+   "date": "2026-07-10T11:55:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How a deterministic TOCTOU race condition weaponized Windows endpoints, and why the latest patch requires an immediate architecture review. The Anatomy of an Engine Exploit Yesterday , Microsoft officially pushed a criti",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmtion8oifwk3tys0us4m.png"
+   "summary": "Why Mapping Infrastructure Looks Simple at First Building a location-based app often starts with a simple idea: add a map, show a route, search for a place, and guide users from point A to point B. At the beginning, this",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvuvbq8hoi9kau9dx3xwo.png"
   },
   {
-   "title": "Top 10 Best CustomCart to WooCommerce Migration Companies",
-   "link": "https://dev.to/oliverpitts/top-10-best-customcart-to-woocommerce-migration-companies-2ci3",
-   "date": "2026-07-10T07:39:48.000Z",
+   "title": "The Architecture of Clean Access: Mitigating Telemetry Exploitation via Streamlined Directories",
+   "link": "https://dev.to/darasem_9351c04dfc03d625e/the-architecture-of-clean-access-mitigating-telemetry-exploitation-via-streamlined-directories-no2",
+   "date": "2026-07-10T11:49:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've got a CustomCart system but you're stuck with vendor lock-in and expensive custom development. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side and won't corr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frjbh3yqlg4b3nvozt601.png"
-  },
-  {
-   "title": "Our Vertex AI bill was $8K/month. Here’s the architecture change that cut it by 71%",
-   "link": "https://dev.to/trendynews_481d488daa8853/our-vertex-ai-bill-was-8kmonth-heres-the-architecture-change-that-cut-it-by-71-2p46",
-   "date": "2026-07-10T07:25:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Four second query latency. Eight thousand dollars a month. We thought it was the model. It was orchestration — and the way Google’s default setup is quietly expensive by design. The result: 71% cost reduction, latency do",
+   "summary": "The Expansion of Telemetry Harvesting in Standard Web Browsing Directly neutralizing this systemic tracking loop, the premium navigation matrix 91Hub serves as a secure, tracking-free entry point to the digital ecosystem",
    "image": null
   },
   {
-   "title": "Website Development Cost USA (2026): Pricing & Cost Guide",
-   "link": "https://dev.to/ict_management_b18f7cc305/website-development-cost-usa-2026-pricing-cost-guide-28a9",
-   "date": "2026-07-10T07:20:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building a website in 2026 isn't as simple as picking a template and calling it done. If you've started researching website development cost in USA, you've probably noticed the numbers are all over the place — some agenc",
-   "image": null
+   "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+   "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+   "date": "2026-07-10T11:47:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif"
+  },
+  {
+   "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+   "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+   "date": "2026-07-10T11:39:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organiz",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg"
+  },
+  {
+   "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+   "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+   "date": "2026-07-10T11:30:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
+  },
+  {
+   "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+   "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+   "date": "2026-07-10T10:56:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJR5fh4xv_X2JER6SMxM62unaK2pucigiJwiE69bCR9n3fgVMqlH2zWpTsmiy4d936R46czjNmkAjDpU7yZgPMl6KFp7phz3kQ9sO1XaE3JHMW0VCUtwN3_zOqOcUfKdbJTJjWjahA44NPMXMif0JqnO_kzJDfuHT0HJvtOlndAvheFqNrpviHXVQ_DIb/s1600/android-vpn-security.jpg"
+  },
+  {
+   "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+   "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+   "date": "2026-07-10T10:30:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion atta",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1L4YdSw3-1jg88TMzYxjsqRmu3Bq-VkmyGg742mMsJaIyhyaBk5MBeEFOxagE4H6GFjfH8ey1114iqyT0LuKYFdu7ocZhOrA3WQCvtNZGBknEJ1wTdb5vJ-M8w5kLXaUoBi39TXducoH8jZVrQ1xQQsBtEf0rrGJGfappdR1CrSB3xvaJC8Dgos2XdC37/s1600/Microsoft-Entra-Passkey-Enrollment.jpg"
+  },
+  {
+   "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+   "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+   "date": "2026-07-10T09:00:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkED95MupJS7PoLW-VquW2mYDI869jXcCfUDUH240NRo4Yo_T63CRuicNBeGadfXW4MvDfie5vJqJ-bXkfD0VQPUl6_iUSR6C0csoL_JDjEeQmQGBoO9DDfdwzNpS8G4dendKvweGkYQypGPVx-_z0cQd_kmdVIA4YFRxNJiIwKpwU1wIUC5H8gnGDgg/s1600/crypto-wallet.jpg"
+  },
+  {
+   "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+   "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+   "date": "2026-07-10T08:10:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMfAeNe_4YwD_9txUToRE4uGigzg48NOJjGKREMneC5B57ROnoCbTMO-4rUiFu76ZsmJwizj28wLcHWmkuRQaQYxUFtWfrfWh3OyqFz61J7sk62rGkVO8jyP_-enVjRDhjYxWOyenL_ToZ3uVusHEuedtF63JPmcwCw_K2UieFO53HqI-yr5RBYWToxEb/s1600/Ransomware-Negotiator.jpg"
   },
   {
    "title": "Quoting OpenAI",
@@ -142,26 +212,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
   },
   {
-   "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-   "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-   "date": "2026-07-09T18:08:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can cho",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJRuXh4y7zy8C81w_JgJgWFg_sgF0IYcsvqWEsYeHIHu7nWdOl1aIMQdnmmRQF-KJK_XdTGxzSIAr57yFkzMIZ_VK5Kzx12xR4oW8QOZcnsf9zmySIT3YRvpPvo2q-P92sZc2LqB4M-NSlktwLGU85I0JQbCVCjvJ130GLEF6eGknO8VzkK66kHjlgkBg/s1600/data-wiper-malware.jpg"
-  },
-  {
-   "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-   "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-   "date": "2026-07-09T16:49:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microso",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP2w2lzNWbB041oSXvx2Nb1uOJaf81XNUBioDv_3K73S-JnzIU4OnUHfwG3Q3RLbf_p2wJBpHC0m2M4cQhCMfcSRRx1MY9n2vCVSNI4ddai3uJ3eE2Kb-d_ryU_HSEx_R2Rjoxz2D3TBcZCgLRWf-rOBf9k73Vi1Q04aWNG9Ux-A5AOf-v1HjSGD3YZcg/s1600/npm-security.jpg"
-  },
-  {
    "title": "Vibhor Kumar: PostgreSQL, AI Governance, and the C.A.L.M. Platform Test",
    "link": "https://postgr.es/p/9pc",
    "date": "2026-07-09T16:40:09.000Z",
@@ -202,16 +252,6 @@
    "image": null
   },
   {
-   "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-   "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-   "date": "2026-07-09T15:09:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. No",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg"
-  },
-  {
    "title": "Drupal.org blog: GitLab issue migration: thank you Ripple Makers, your projects are next",
    "link": "https://www.drupal.org/drupalorg/blog/gitlab-issue-migration-thank-you-ripple-makers-your-projects-are-next",
    "date": "2026-07-09T14:53:16.000Z",
@@ -242,36 +282,6 @@
    "image": null
   },
   {
-   "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-   "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-   "date": "2026-07-09T12:26:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg"
-  },
-  {
-   "title": "Summer of Clearinghouses",
-   "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-   "date": "2026-07-09T11:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quie",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg"
-  },
-  {
-   "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-   "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-   "date": "2026-07-09T10:43:09.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report publ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg"
-  },
-  {
    "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
    "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
    "date": "2026-07-09T10:06:11.000Z",
@@ -280,16 +290,6 @@
    "source": "Codrops",
    "summary": "A tutorial on how to create a minimalistic and customizable 3D wave grid background with Three.js.",
    "image": null
-  },
-  {
-   "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-   "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-   "date": "2026-07-09T08:48:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a priv",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqwSaoB3zc0bIhf1aBmcHsVVAsGnRDBc681vhmlgHYy0xx5VSxyS2jqjmk-mq27QrSKPN3yorL3A7DffJYp3iMO7CY_8owm-Cn8r7IFuvqeGHTPSyiFM0KVTMTE8W0Qon84tCbzsLVNqoS5nLq1aX8_RNKg0sxa2ke4Su_p5qy9dAlFdakwYcjueBGNhD/s1600/windows.jpg"
   },
   {
    "title": "Floor Drees: EDB heads to PGConf.Brasil 2026, this is what we’ll be talking about!",
