@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-07-11T12:02:43.328Z",
+ "generatedAt": "2026-07-11T18:04:23.863Z",
  "articles": [
   {
-   "title": "SRE Course | Site Reliability Engineering Online Training",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/sre-course-site-reliability-engineering-online-training-4o04",
-   "date": "2026-07-11T11:51:52.000Z",
+   "title": "AWS Transform and Superwerker: same vocabulary, different problems",
+   "link": "https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g",
+   "date": "2026-07-11T18:04:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🎯 𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗶𝘁𝗲 𝗥𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗦𝗥𝗘) & 𝗕𝘂𝗶𝗹𝗱 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀! ✨ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 𝗬𝗼𝘂'𝗹𝗹 𝗟𝗲𝗮𝗿𝗻: 💥 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃\ud835",
+   "summary": "Most people will read AWS Transform's landing zone agent as Superwerker's smarter cousin. I don't think that's right. Same destination. Different problems. Treating them as substitutes is how greenfield teams buy enterpr",
    "image": null
   },
   {
-   "title": "Download PlateUp XCI Full Game Latest 2026",
-   "link": "https://dev.to/ethan_david_68a2f2f492f12/download-plateup-xci-full-game-latest-2026-2gj7",
-   "date": "2026-07-11T11:38:27.000Z",
+   "title": "3 Things 120 Days of Autonomous Agents Taught Me That No Demo Prepares You For",
+   "link": "https://dev.to/zwiserfit/3-things-120-days-of-autonomous-agents-taught-me-that-no-demo-prepares-you-for-2f9p",
+   "date": "2026-07-11T17:41:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Download PlateUp XCI Full Game Latest 2026 PlateUp! combines fast-paced cooking, restaurant management, and roguelite progression into a fun cooperative experience for Nintendo Switch. Players prepare meals, serve custom",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi3tsp63ma5ueq184saje.png"
-  },
-  {
-   "title": "Day 71 - Advanced Partitioning Strategies for Petabyte-Scale Tables",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-71-advanced-partitioning-strategies-for-petabyte-scale-tables-3n1a",
-   "date": "2026-07-11T11:20:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "As datasets grow into the petabyte range, choosing the right partitioning strategy becomes one of the most important architectural decisions in ClickHouse®. Well-designed partitions improve query performance, simplify da",
+   "summary": "120 days ago, we put 9 autonomous AI agents in charge of operating a real fitness studio in Dongguan, China. Not a demo. Real members. Real revenue. One human founder. Here are 3 things that no paper, no demo, and no arc",
    "image": null
   },
   {
-   "title": "Starting in DevOps Observability: A Guide to Essential Resources and First Steps",
-   "link": "https://dev.to/maricode/starting-in-devops-observability-a-guide-to-essential-resources-and-first-steps-3eoj",
-   "date": "2026-07-11T11:19:39.000Z",
+   "title": "The Linux find Command: 20 Real-World Uses for Threat Hunting & Incident Response",
+   "link": "https://dev.to/xpert4cyber/the-linux-find-command-20-real-world-uses-for-threat-hunting-incident-response-2mka",
+   "date": "2026-07-11T17:26:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Observability isn’t just a buzzword—it’s the backbone of modern DevOps. In distributed systems, where failures are inevitable and root causes are often obscured, observability provides the lens to understand system behav",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5nizdpbh4vp0o2kobmee.png"
+   "summary": "find command from a SOC/incident-response angle — not just syntax, but how it's actually used in live investigations. Covers things like: Catching a web shell using -mtime + -perm checks Hunting SUID/SGID binaries for pr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fodrhkpwch6eeb9rs87um.png"
   },
   {
-   "title": "I got tired of sketchy downloader sites, so I built my own with Python & a Chrome Extension 🚀",
-   "link": "https://dev.to/mehmet_aliakda_87bffee5/i-got-tired-of-sketchy-downloader-sites-so-i-built-my-own-with-python-a-chrome-extension-e0f",
-   "date": "2026-07-11T11:11:47.000Z",
+   "title": "5 Kyverno Policies to Secure Your Kubernetes Cluster",
+   "link": "https://dev.to/devarshishimpi/5-kyverno-policies-to-secure-your-kubernetes-cluster-3hb9",
+   "date": "2026-07-11T17:16:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hello fellow developers! 👋 Like many of you, I consume a lot of content across YouTube, TikTok, and Instagram. But whenever I wanted to download a video or an audio clip for offline use or editing, I had to deal with sk",
+   "summary": "Introduction If you run workloads on Kubernetes, you already know how easy it is for small mistakes to slip into production. A missing resource limit here, a container running as root there, and suddenly your cluster has",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk9c6wlm2pbhm7sccudsl.png"
+  },
+  {
+   "title": "I stopped asking OpenClaw what broke and started reading the trace",
+   "link": "https://dev.to/lars_winstand/i-stopped-asking-openclaw-what-broke-and-started-reading-the-trace-4if4",
+   "date": "2026-07-11T17:11:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I used to do the same thing everyone does the first time an agent goes off the rails: Watch OpenClaw do something weird Ask it what happened Read a very confident explanation Realize 20 minutes later that the explanation",
    "image": null
   },
   {
-   "title": "Setup Automation Is Not Readiness Verification",
-   "link": "https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe",
-   "date": "2026-07-11T11:10:13.000Z",
+   "title": "jq in Shell Scripts: The Small Things That Trip You Up",
+   "link": "https://dev.to/schiff_heimlich/jq-in-shell-scripts-the-small-things-that-trip-you-up-3hh2",
+   "date": "2026-07-11T17:05:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most repos have some version of a setup command. Maybe it is npm install. Maybe it is make setup. Maybe it is a bootstrap shell script everyone is afraid to edit. If that command finishes successfully, most teams instinc",
+   "summary": "The Setup If you work with JSON APIs, configs, or log processing, you have probably used jq in a shell script. It is solid. But there are a few edge cases that trip people up regularly — things that work fine in tests bu",
    "image": null
   },
   {
-   "title": "Running a Team of AI Sub-Agents: What Breaks — and the Rules I Built Around It",
-   "link": "https://dev.to/nova-agent/running-a-team-of-ai-sub-agents-what-breaks-and-the-rules-i-built-around-it-3eco",
-   "date": "2026-07-11T11:09:57.000Z",
+   "title": "Best Practices for Buying Telegram Accounts Securely",
+   "link": "https://dev.to/usasmmstore/best-practices-for-buying-telegram-accounts-securely-4p2g",
+   "date": "2026-07-11T16:55:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This is Part 2. In Part 1 I described the architecture — the team, the tool scoping, the decision tree. Here's what I left out: what goes wrong. Orchestration isn't magic. Four failure modes account for almost everything",
-   "image": null
+   "summary": "Best Practices for Buying Telegram Accounts Securely Hey there! If you’re thinking about buying a Telegram account, you’re not alone. Lots of people do it to jump-start their projects, grow their businesses, or just save",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl00ico03pqke4qc543wz.jpg"
   },
   {
-   "title": "I built an offline, no-AI tool that turns your terminal history into runbooks",
-   "link": "https://dev.to/hamza_mansoor/i-built-an-offline-no-ai-tool-that-turns-your-terminal-history-into-runbooks-3ln1",
-   "date": "2026-07-11T11:09:07.000Z",
+   "title": "\"My First Terraform Workflow on Azure:",
+   "link": "https://dev.to/ihuoma_lilian_8c9eff4fe75/my-first-terraform-workflow-on-azure-3hdi",
+   "date": "2026-07-11T16:31:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every team has that one deploy only a single person really knows how to run. The steps live in their head, and the doc that's supposed to explain it is three commands out of date. I got tired of that, so I built runscrib",
+   "summary": "A hands-on walkthrough of provisioning and tearing down my first Azure resource using Terraform as part of a learning scenario for Hagital Cloud Solutions. Write:-Create configuration files (.tf files) that describe the ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3oaoszmz71nxugs25py.png"
+  },
+  {
+   "title": "Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client",
+   "link": "https://postgr.es/p/9pj",
+   "date": "2026-07-11T13:34:41.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "This release was made 9 days ago, but I just realized that I neglected to make a blog post about it. So, for the record, here is the announcement that went out via email. I have released version 21 of the PostgreSQL Buil",
    "image": null
   },
   {
@@ -419,16 +429,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Join Martin, Andy and Mike as they discuss what Drupal site templates are and how they differ from Drupal's traditionally bare-bones starting point, aiming to reduce setup effort and total cost of ownership while making ",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_presorted_aggregate",
-   "link": "https://postgr.es/p/9ph",
-   "date": "2026-07-09T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "enable_presorted_aggregate is on, it has been on since PostgreSQL 16 introduced it, and the single most useful thing you will ever do with it is turn it off for exactly one query. Default on, context user: settable per s",
    "image": null
   },
   {
@@ -1160,16 +1160,6 @@
    "source": "Martin Fowler",
    "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our exper",
    "image": "https://martinfowler.com/img/catalog/2025-goto-kent.png"
-  },
-  {
-   "title": "The test suite as a regression sensor",
-   "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
-   "date": "2026-05-27T15:01:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…",
-   "image": null
   }
  ]
 }
