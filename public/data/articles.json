@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-07-11T00:07:52.400Z",
+ "generatedAt": "2026-07-11T07:18:57.559Z",
  "articles": [
   {
-   "title": "PlanetScale vs Neon: Which Cloud Database Fits Your App?",
-   "link": "https://dev.to/kimcomplete/planetscale-vs-neon-which-cloud-database-fits-your-app-2kn2",
-   "date": "2026-07-11T00:04:09.000Z",
+   "title": "Custom Software Development Services | USA",
+   "link": "https://dev.to/ict_management_b18f7cc305/custom-software-development-services-usa-1l6b",
+   "date": "2026-07-11T07:11:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "PlanetScale bets on provisioned performance and Vitess-scale sharding; Neon bets on serverless Postgres that autoscales and branches. Here's how they actually differ. PlanetScale and Neon both call themselves modern clou",
+   "summary": "If you've ever tried to run a growing business on spreadsheets, disconnected apps, and software that almost fits your workflow, you already know the frustration. Off-the-shelf tools are built for the average company — no",
    "image": null
   },
   {
-   "title": "Debugging Kubernetes OOMKilled: A Step-by-Step Guide",
-   "link": "https://dev.to/samson_tanimawo/debugging-kubernetes-oomkilled-a-step-by-step-guide-c6o",
-   "date": "2026-07-10T23:44:28.000Z",
+   "title": "Wetask: a unified runtime for distributed tasks, scheduling, and caching",
+   "link": "https://dev.to/tosiiko/wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-3i2m",
+   "date": "2026-07-11T07:09:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Dreaded OOMKilled $ kubectl describe pod api-service-7f8d9c-abc12 ... State: Terminated Reason: OOMKilled Exit Code: 137 Your container got killed because it used more memory than its limit. Sounds simple. Debugging ",
+   "summary": "Today I’m releasing Wetask v0.1.0-rc.1, the first public release candidate of a system I’ve been building in Go. Wetask combines several backend responsibilities into one deployable runtime: Distributed task execution Sc",
    "image": null
   },
   {
-   "title": "Where should AI workloads run? A sovereign and sensible approach",
-   "link": "https://dev.to/rasne/where-should-ai-workloads-run-a-sovereign-and-sensible-approach-5827",
-   "date": "2026-07-10T23:00:36.000Z",
+   "title": "I built Wetask: a unified runtime for distributed tasks, scheduling, and caching",
+   "link": "https://dev.to/tosiiko/i-built-wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-4d0m",
+   "date": "2026-07-11T07:07:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: Where should AI workloads run? A sovereign and sensible approach — read the full article on rasne.dev. Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becomi",
+   "summary": "Today I’m releasing Wetask v0.1.0-rc.1, the first public release candidate of a system I’ve been building in Go. Wetask combines several backend responsibilities into one deployable runtime: Distributed task execution Sc",
    "image": null
   },
   {
-   "title": "Build CI/CD Pipeline in 10 Mins with Free GitHub Actions",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-lo",
-   "date": "2026-07-10T22:29:42.000Z",
+   "title": "7 Ways to Deploy kube-prometheus-stack in Kubernetes",
+   "link": "https://dev.to/techie-guy92/7-ways-to-deploy-kube-prometheus-stack-in-kubernetes-2dhn",
+   "date": "2026-07-11T07:02:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 87% of developers waste over 10 hours a week on manual deployment tasks? Last week, I spent 3 hours manually deploying my application, only to realize that I could have automated it in just",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+   "summary": "# Seven Common kube-prometheus-stack Deployment Architectures for Kubernetes Choosing a monitoring architecture is not just a Kubernetes decision—it's a business decision. Every deployment model trades off operational si",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzrj03j2zrgj4vhbrp111.png"
   },
   {
-   "title": "De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM",
-   "link": "https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j",
-   "date": "2026-07-10T22:21:34.000Z",
+   "title": "Configure Docker Macvlan and Ipvlan for Dedicated LAN IPs",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/configure-docker-macvlan-and-ipvlan-for-dedicated-lan-ips-2lam",
+   "date": "2026-07-11T07:01:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "¿Alguna vez te has encontrado en esa situación donde hay una herramienta que te resuelve un problema pero en tu empresa no está permitida? Aunque al principio esto puede parecer frustrante (sobre todo cuando crees que tu",
+   "summary": "Originally published on kuryzhev.cloud The scenario A client had a legacy SIP recording appliance that needed to sit on the LAN with its own IP address and its own MAC. Not behind a NAT'd port mapping, not sharing the ho",
    "image": null
   },
   {
-   "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days",
-   "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-g7g",
-   "date": "2026-07-10T22:16:46.000Z",
+   "title": "100 Days of DevOps and Cloud (AWS), Day 8: Ansible's 'ping' Isn't a Ping, and the AWS Stop Flag Reads Backwards",
+   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-8-ansibles-ping-isnt-a-ping-and-the-aws-stop-flag-1a0c",
+   "date": "2026-07-11T06:59:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In 34 days of autonomous operation, our 9-agent system detected and auto-recovered from 7 distinct failure modes — with no SRE rotation needed. Not because the system is perfect. Because the immune system was designed be",
+   "summary": "Ansible's whole pitch is that it manages servers without installing an agent on any of them. That single design choice is most of why it took over, and Day 8 started with getting it running and proving it could actually ",
    "image": null
   },
   {
-   "title": "The Background Task That Froze: A Serverless CPU-Throttling Mystery",
-   "link": "https://dev.to/dalenguyen/the-background-task-that-froze-a-serverless-cpu-throttling-mystery-3j3d",
-   "date": "2026-07-10T22:06:35.000Z",
+   "title": "Inside twio's CI/CD: How a Two-Engineer AI Startup Ships",
+   "link": "https://dev.to/twio_ai/inside-twios-cicd-how-a-two-engineer-ai-startup-ships-144j",
+   "date": "2026-07-11T06:59:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Lesson learned building an agent on Cloud Run: don't schedule work to run after you send the response. On Cloud Run's default request-based CPU mode it freezes mid-run — do the latency-critical work before you respond",
+   "summary": "No per-push CI, exactly one hard gate, and LLM evals that never block a merge — and why. twio is an AI workspace for mortgage advisers. Its core features — email parsing, loan refixing, application-pack preparation — are",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8447ub8h6olwhsu6ep7m.png"
+  },
+  {
+   "title": "🚀 Introducing Code Healing AI – Your AI-Powered Coding Assistant",
+   "link": "https://dev.to/santosh_nanavare_2baab6e9/introducing-code-healing-ai-your-ai-powered-coding-assistant-5a14",
+   "date": "2026-07-11T05:58:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building software is hard. Finding bugs, fixing security issues, and improving code quality can take hours. Code Healing AI helps developers work faster by combining AI-powered bug detection, security auditing, and intel",
    "image": null
   },
   {
-   "title": "Step-by-Step Guide: Configuring Azure Monitor Log Analytics Workspace and Monitoring Linux Virtual Machines.",
-   "link": "https://dev.to/zainab_oladimeji/step-by-step-guide-configuring-azure-monitor-log-analytics-workspace-and-monitoring-linux-virtual-5hm4",
-   "date": "2026-07-10T22:04:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction. Effective monitoring is a critical aspect of managing cloud resources, enabling administrators to gain visibility into system performance, troubleshoot issues proactively, and optimize resource utilization.",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcr4zicbp51efxaudi5es.png"
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_seqscan",
+   "link": "https://postgr.es/p/9pi",
+   "date": "2026-07-11T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "enable_seqscan does not disable sequential scans. It cannot, and it was never meant to. The documentation says as much: sequential scans cannot be suppressed entirely, because sometimes reading the whole table is the onl",
+   "image": null
   },
   {
    "title": "Dave Stokes: Ever Run Into A PostgreSQL Query That You Can Figure Out What It Does??",
@@ -262,6 +272,16 @@
    "image": null
   },
   {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_self_join_elimination",
+   "link": "https://postgr.es/p/9pg",
+   "date": "2026-07-10T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "You are rarely the only thing writing your SQL. Your ORM writes some of it, your nested views write more, and sooner or later one of them joins a table to itself on its own primary key. That join returns exactly the rows",
+   "image": null
+  },
+  {
    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
    "link": "https://huggingface.co/blog/torch-attention-profile",
    "date": "2026-07-10T00:00:00.000Z",
@@ -402,6 +422,16 @@
    "image": null
   },
   {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_presorted_aggregate",
+   "link": "https://postgr.es/p/9ph",
+   "date": "2026-07-09T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "enable_presorted_aggregate is on, it has been on since PostgreSQL 16 introduced it, and the single most useful thing you will ever do with it is turn it off for exactly one query. Default on, context user: settable per s",
+   "image": null
+  },
+  {
    "title": "PHP version stats: July, 2026",
    "link": "https://stitcher.io/blog/php-version-stats-july-2026",
    "date": "2026-07-09T00:00:00.000Z",
@@ -430,16 +460,6 @@
    "source": "Simon Willison",
    "summary": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off hard",
    "image": null
-  },
-  {
-   "title": "Haki Benita: How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
-   "link": "https://postgr.es/p/9pa",
-   "date": "2026-07-08T21:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "One of the most valuable things about partitioned tables is pruning - the database's ability to eliminate entire partitions based on a query predicate. Under conventional wisdom, pruning can only be achieved when queryin",
-   "image": "https://hakibenita.com/images/00-postgresql-partition-pruning.png"
   },
   {
    "title": "AI Review for Laravel Upgrades",
@@ -522,16 +542,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Intercept-LN.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_partitionwise_join",
-   "link": "https://postgr.es/p/9p1",
-   "date": "2026-07-08T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Partitionwise join decomposes big joins into smaller per-partition pairs when both tables partition on the join key—but only if you enable it and meet strict…",
-   "image": null
-  },
-  {
    "title": "Edge gets started on CSS mixins",
    "link": "https://frontendfoc.us/issues/749",
    "date": "2026-07-08T00:00:00.000Z",
@@ -549,16 +559,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Ruohang Feng: Happy 30th Birthday, PostgreSQL",
-   "link": "https://postgr.es/p/9p9",
-   "date": "2026-07-08T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On July 8, 1996, the PostgreSQL community picked up the flame from Postgres95. Thirty years later, it has grown from a Berkeley research project into a default foundation of the global database ecosystem.",
    "image": null
   },
   {
@@ -1169,16 +1169,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler finishes her post on sensors for coding agents by examining the role of a test suite as a regression sensor, focusing on the role mutation testing can play. more…",
-   "image": null
-  },
-  {
-   "title": "April 2026 Baseline monthly digest",
-   "link": "https://web.dev/blog/baseline-digest-apr-2026?hl=en",
-   "date": "2026-05-27T07:00:00.000Z",
-   "theme": "devweb",
-   "themeName": "Développement Web",
-   "source": "web.dev",
-   "summary": "Read about various happenings with Baseline during April 2026.",
    "image": null
   }
  ]
