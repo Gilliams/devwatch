@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-07-11T07:18:57.559Z",
+ "generatedAt": "2026-07-11T12:02:43.328Z",
  "articles": [
   {
-   "title": "Custom Software Development Services | USA",
-   "link": "https://dev.to/ict_management_b18f7cc305/custom-software-development-services-usa-1l6b",
-   "date": "2026-07-11T07:11:21.000Z",
+   "title": "SRE Course | Site Reliability Engineering Online Training",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/sre-course-site-reliability-engineering-online-training-4o04",
+   "date": "2026-07-11T11:51:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you've ever tried to run a growing business on spreadsheets, disconnected apps, and software that almost fits your workflow, you already know the frustration. Off-the-shelf tools are built for the average company — no",
+   "summary": "🎯 𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗶𝘁𝗲 𝗥𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 (𝗦𝗥𝗘) & 𝗕𝘂𝗶𝗹𝗱 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀! ✨ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 𝗬𝗼𝘂'𝗹𝗹 𝗟𝗲𝗮𝗿𝗻: 💥 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃\ud835",
    "image": null
   },
   {
-   "title": "Wetask: a unified runtime for distributed tasks, scheduling, and caching",
-   "link": "https://dev.to/tosiiko/wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-3i2m",
-   "date": "2026-07-11T07:09:54.000Z",
+   "title": "Download PlateUp XCI Full Game Latest 2026",
+   "link": "https://dev.to/ethan_david_68a2f2f492f12/download-plateup-xci-full-game-latest-2026-2gj7",
+   "date": "2026-07-11T11:38:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Today I’m releasing Wetask v0.1.0-rc.1, the first public release candidate of a system I’ve been building in Go. Wetask combines several backend responsibilities into one deployable runtime: Distributed task execution Sc",
+   "summary": "Download PlateUp XCI Full Game Latest 2026 PlateUp! combines fast-paced cooking, restaurant management, and roguelite progression into a fun cooperative experience for Nintendo Switch. Players prepare meals, serve custom",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi3tsp63ma5ueq184saje.png"
+  },
+  {
+   "title": "Day 71 - Advanced Partitioning Strategies for Petabyte-Scale Tables",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-71-advanced-partitioning-strategies-for-petabyte-scale-tables-3n1a",
+   "date": "2026-07-11T11:20:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As datasets grow into the petabyte range, choosing the right partitioning strategy becomes one of the most important architectural decisions in ClickHouse®. Well-designed partitions improve query performance, simplify da",
    "image": null
   },
   {
-   "title": "I built Wetask: a unified runtime for distributed tasks, scheduling, and caching",
-   "link": "https://dev.to/tosiiko/i-built-wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-4d0m",
-   "date": "2026-07-11T07:07:51.000Z",
+   "title": "Starting in DevOps Observability: A Guide to Essential Resources and First Steps",
+   "link": "https://dev.to/maricode/starting-in-devops-observability-a-guide-to-essential-resources-and-first-steps-3eoj",
+   "date": "2026-07-11T11:19:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Today I’m releasing Wetask v0.1.0-rc.1, the first public release candidate of a system I’ve been building in Go. Wetask combines several backend responsibilities into one deployable runtime: Distributed task execution Sc",
+   "summary": "Observability isn’t just a buzzword—it’s the backbone of modern DevOps. In distributed systems, where failures are inevitable and root causes are often obscured, observability provides the lens to understand system behav",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5nizdpbh4vp0o2kobmee.png"
+  },
+  {
+   "title": "I got tired of sketchy downloader sites, so I built my own with Python & a Chrome Extension 🚀",
+   "link": "https://dev.to/mehmet_aliakda_87bffee5/i-got-tired-of-sketchy-downloader-sites-so-i-built-my-own-with-python-a-chrome-extension-e0f",
+   "date": "2026-07-11T11:11:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hello fellow developers! 👋 Like many of you, I consume a lot of content across YouTube, TikTok, and Instagram. But whenever I wanted to download a video or an audio clip for offline use or editing, I had to deal with sk",
    "image": null
   },
   {
-   "title": "7 Ways to Deploy kube-prometheus-stack in Kubernetes",
-   "link": "https://dev.to/techie-guy92/7-ways-to-deploy-kube-prometheus-stack-in-kubernetes-2dhn",
-   "date": "2026-07-11T07:02:09.000Z",
+   "title": "Setup Automation Is Not Readiness Verification",
+   "link": "https://dev.to/otaready/setup-automation-is-not-readiness-verification-5fbe",
+   "date": "2026-07-11T11:10:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "# Seven Common kube-prometheus-stack Deployment Architectures for Kubernetes Choosing a monitoring architecture is not just a Kubernetes decision—it's a business decision. Every deployment model trades off operational si",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzrj03j2zrgj4vhbrp111.png"
-  },
-  {
-   "title": "Configure Docker Macvlan and Ipvlan for Dedicated LAN IPs",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/configure-docker-macvlan-and-ipvlan-for-dedicated-lan-ips-2lam",
-   "date": "2026-07-11T07:01:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud The scenario A client had a legacy SIP recording appliance that needed to sit on the LAN with its own IP address and its own MAC. Not behind a NAT'd port mapping, not sharing the ho",
+   "summary": "Most repos have some version of a setup command. Maybe it is npm install. Maybe it is make setup. Maybe it is a bootstrap shell script everyone is afraid to edit. If that command finishes successfully, most teams instinc",
    "image": null
   },
   {
-   "title": "100 Days of DevOps and Cloud (AWS), Day 8: Ansible's 'ping' Isn't a Ping, and the AWS Stop Flag Reads Backwards",
-   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-8-ansibles-ping-isnt-a-ping-and-the-aws-stop-flag-1a0c",
-   "date": "2026-07-11T06:59:42.000Z",
+   "title": "Running a Team of AI Sub-Agents: What Breaks — and the Rules I Built Around It",
+   "link": "https://dev.to/nova-agent/running-a-team-of-ai-sub-agents-what-breaks-and-the-rules-i-built-around-it-3eco",
+   "date": "2026-07-11T11:09:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ansible's whole pitch is that it manages servers without installing an agent on any of them. That single design choice is most of why it took over, and Day 8 started with getting it running and proving it could actually ",
+   "summary": "This is Part 2. In Part 1 I described the architecture — the team, the tool scoping, the decision tree. Here's what I left out: what goes wrong. Orchestration isn't magic. Four failure modes account for almost everything",
    "image": null
   },
   {
-   "title": "Inside twio's CI/CD: How a Two-Engineer AI Startup Ships",
-   "link": "https://dev.to/twio_ai/inside-twios-cicd-how-a-two-engineer-ai-startup-ships-144j",
-   "date": "2026-07-11T06:59:21.000Z",
+   "title": "I built an offline, no-AI tool that turns your terminal history into runbooks",
+   "link": "https://dev.to/hamza_mansoor/i-built-an-offline-no-ai-tool-that-turns-your-terminal-history-into-runbooks-3ln1",
+   "date": "2026-07-11T11:09:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "No per-push CI, exactly one hard gate, and LLM evals that never block a merge — and why. twio is an AI workspace for mortgage advisers. Its core features — email parsing, loan refixing, application-pack preparation — are",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8447ub8h6olwhsu6ep7m.png"
+   "summary": "Every team has that one deploy only a single person really knows how to run. The steps live in their head, and the doc that's supposed to explain it is three commands out of date. I got tired of that, so I built runscrib",
+   "image": null
   },
   {
-   "title": "🚀 Introducing Code Healing AI – Your AI-Powered Coding Assistant",
-   "link": "https://dev.to/santosh_nanavare_2baab6e9/introducing-code-healing-ai-your-ai-powered-coding-assistant-5a14",
-   "date": "2026-07-11T05:58:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building software is hard. Finding bugs, fixing security issues, and improving code quality can take hours. Code Healing AI helps developers work faster by combining AI-powered bug detection, security auditing, and intel",
-   "image": null
+   "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+   "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+   "date": "2026-07-11T06:45:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_seqscan",
@@ -220,16 +230,6 @@
    "source": "The Hacker News",
    "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif"
-  },
-  {
-   "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-   "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-   "date": "2026-07-10T11:39:40.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organiz",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg"
   },
   {
    "title": "The Drop Times: Giving Content Editors the Display Controls They Deserve with ERVMS for Drupal",
