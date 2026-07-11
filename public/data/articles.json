@@ -1,45 +1,95 @@
 {
- "generatedAt": "2026-07-10T18:42:56.878Z",
+ "generatedAt": "2026-07-11T00:07:52.400Z",
  "articles": [
   {
-   "title": "7 Bugs in 34 Days: What Our AI Agents Caught While Nobody Was Watching",
-   "link": "https://dev.to/zwiserfit/7-bugs-in-34-days-what-our-ai-agents-caught-while-nobody-was-watching-50j0",
-   "date": "2026-07-10T17:42:02.000Z",
+   "title": "PlanetScale vs Neon: Which Cloud Database Fits Your App?",
+   "link": "https://dev.to/kimcomplete/planetscale-vs-neon-which-cloud-database-fits-your-app-2kn2",
+   "date": "2026-07-11T00:04:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We just spent 34 days running 9 AI agents on 2 CPU cores and 3.6GB RAM in a real gym. Nobody saw most of it. That's the point. The system caught and auto-recovered from 7 infrastructure bugs — without an SRE rotation. He",
+   "summary": "PlanetScale bets on provisioned performance and Vitess-scale sharding; Neon bets on serverless Postgres that autoscales and branches. Here's how they actually differ. PlanetScale and Neon both call themselves modern clou",
    "image": null
   },
   {
-   "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-   "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-   "date": "2026-07-10T17:29:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phras",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
+   "title": "Debugging Kubernetes OOMKilled: A Step-by-Step Guide",
+   "link": "https://dev.to/samson_tanimawo/debugging-kubernetes-oomkilled-a-step-by-step-guide-c6o",
+   "date": "2026-07-10T23:44:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Dreaded OOMKilled $ kubectl describe pod api-service-7f8d9c-abc12 ... State: Terminated Reason: OOMKilled Exit Code: 137 Your container got killed because it used more memory than its limit. Sounds simple. Debugging ",
+   "image": null
+  },
+  {
+   "title": "Where should AI workloads run? A sovereign and sensible approach",
+   "link": "https://dev.to/rasne/where-should-ai-workloads-run-a-sovereign-and-sensible-approach-5827",
+   "date": "2026-07-10T23:00:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: Where should AI workloads run? A sovereign and sensible approach — read the full article on rasne.dev. Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becomi",
+   "image": null
   },
   {
    "title": "Build CI/CD Pipeline in 10 Mins with Free GitHub Actions",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-4869",
-   "date": "2026-07-10T17:17:19.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-free-github-actions-lo",
+   "date": "2026-07-10T22:29:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours manually deploying my application to a cloud server, only to realize that I had missed a critical step, resulting in a failed deployment. Then, I discovered the power of automating",
+   "summary": "Introduction Did you know that 87% of developers waste over 10 hours a week on manual deployment tasks? Last week, I spent 3 hours manually deploying my application, only to realize that I could have automated it in just",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
-   "title": "I saw someone give OpenClaw a 4-node Proxmox cluster and now I think most of us are doing agent security backwards",
-   "link": "https://dev.to/lars_winstand/i-saw-someone-give-openclaw-a-4-node-proxmox-cluster-and-now-i-think-most-of-us-are-doing-agent-19n9",
-   "date": "2026-07-10T17:11:50.000Z",
+   "title": "De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM",
+   "link": "https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j",
+   "date": "2026-07-10T22:21:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I had one of those \"hold on, this is way too normal now\" moments reading OpenClaw threads. Not because people were building toy demos. Because they weren’t. People are already using OpenClaw like a browser operator, shel",
+   "summary": "¿Alguna vez te has encontrado en esa situación donde hay una herramienta que te resuelve un problema pero en tu empresa no está permitida? Aunque al principio esto puede parecer frustrante (sobre todo cuando crees que tu",
    "image": null
+  },
+  {
+   "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days",
+   "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-g7g",
+   "date": "2026-07-10T22:16:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In 34 days of autonomous operation, our 9-agent system detected and auto-recovered from 7 distinct failure modes — with no SRE rotation needed. Not because the system is perfect. Because the immune system was designed be",
+   "image": null
+  },
+  {
+   "title": "The Background Task That Froze: A Serverless CPU-Throttling Mystery",
+   "link": "https://dev.to/dalenguyen/the-background-task-that-froze-a-serverless-cpu-throttling-mystery-3j3d",
+   "date": "2026-07-10T22:06:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "💡 Lesson learned building an agent on Cloud Run: don't schedule work to run after you send the response. On Cloud Run's default request-based CPU mode it freezes mid-run — do the latency-critical work before you respond",
+   "image": null
+  },
+  {
+   "title": "Step-by-Step Guide: Configuring Azure Monitor Log Analytics Workspace and Monitoring Linux Virtual Machines.",
+   "link": "https://dev.to/zainab_oladimeji/step-by-step-guide-configuring-azure-monitor-log-analytics-workspace-and-monitoring-linux-virtual-5hm4",
+   "date": "2026-07-10T22:04:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction. Effective monitoring is a critical aspect of managing cloud resources, enabling administrators to gain visibility into system performance, troubleshoot issues proactively, and optimize resource utilization.",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcr4zicbp51efxaudi5es.png"
+  },
+  {
+   "title": "Dave Stokes: Ever Run Into A PostgreSQL Query That You Can Figure Out What It Does??",
+   "link": "https://postgr.es/p/9pf",
+   "date": "2026-07-10T20:06:17.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Ever have a query 'tossed over the fence' that you find incomprehensible but still have to support it? A few years ago, you would have needed to triage the query. Obfuscated queries can be tough to decipher. Sometimes, t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwXOIUy9BmIGm7r5PJB7xzha8SXLo4K4cuPDZBAa5Za9R9BVXGEkLmJ1_1nozg5dEakGqC69OHZ22jhslwfcApuzNWwbAURCHDSsCfPtoVYMiqSHnaoWFoiTjYla6x9UC2imxcJq7YxwoUWsccUy4wLeXD04rg2ABsq3JF_a_5AZi7B9-T0xW8KIPFgesF/s320/Screenshot%202026-07-10%20082900.png"
   },
   {
    "title": "Quoting Nilay Patel",
@@ -52,54 +102,24 @@
    "image": null
   },
   {
-   "title": "Docker Compose Ambiente Desenvolvimento",
-   "link": "https://dev.to/isaias_velasquez_d2261770/docker-compose-ambiente-desenvolvimento-4blg",
-   "date": "2026-07-10T16:53:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Trabalhar com dependencias como banco de dados, filas e caches localmente e sempre um processo chato. Docker Compose resolve isso com um arquivo YAML que sobe tudo junto. Crie um arquivo docker-compose.yml na raiz do pro",
-   "image": null
+   "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+   "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+   "date": "2026-07-10T16:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The co",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
   },
   {
-   "title": "Avoiding Rework, Without the Guesswork",
-   "link": "https://dev.to/devxhub/avoiding-rework-without-the-guesswork-270p",
-   "date": "2026-07-10T16:52:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The most expensive code is the code you build twice. Most rework isn't bad luck — it's a skipped step. Front-load the cheap questions: Clarify the requirement — before building; a lot of rework is a confident answer to a",
-   "image": null
-  },
-  {
-   "title": "Using AI To Find And Fix Accessibility Issues At Scale",
-   "link": "https://dev.to/henryv/using-ai-to-find-and-fix-accessibility-issues-at-scale-8l7",
-   "date": "2026-07-10T16:34:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A product team usually notices accessibility debt the same way people notice a slow leak. A few bug tickets mention missing labels. QA finds a keyboard trap on one checkout step. Support gets a note from a screen-reader ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmrn3ykq6ne7j6t240lx8.jpg"
-  },
-  {
-   "title": "What Indie SaaS Founders Should Monitor Before Users Complain",
-   "link": "https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge",
-   "date": "2026-07-10T16:32:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Before your first 100 customers, monitoring can feel like something you will set up later. You are still building features. You are still finding positioning. You may not have paid users yet. A full observability stack s",
-   "image": null
-  },
-  {
-   "title": "Why We’re Building Nest: Moving Beyond Docker Registry V2’s Data-Transfer Bottleneck",
-   "link": "https://dev.to/greedykomododragon/why-were-building-nest-moving-beyond-docker-registry-v2s-data-transfer-bottleneck-44nm",
-   "date": "2026-07-10T16:30:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At PuffinNest, we are building a modern container registry for developers and teams that care about reliability, speed, and predictable costs. As part of that work, we are creating a new client called Nest. Nest is not b",
-   "image": null
+   "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+   "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+   "date": "2026-07-10T16:29:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phras",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
   },
   {
    "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
@@ -210,16 +230,6 @@
    "source": "Drupal Planet",
    "summary": "Editors often rely on developers for simple display variations. ERVMS moves those decisions into the editorial workflow without changing Drupal's existing display architecture.",
    "image": null
-  },
-  {
-   "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-   "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-   "date": "2026-07-10T11:30:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgruetcUTsay2-ledgCIdCPKK_bPRiTzuXzYeUiLR3xuazZgHTmxO4Gz6PyyuwdFUVoHHOCbq5PksEMW18dSsdzCJddBMr8vQ3TQO3PIqXExF_17RGVfKRD8cPltNjh6eV1fgXM-pYYlwZnWaZcf7oo50CahUBY5AWt8-IS1K7KxhlL9GFLDcAk1ruwMSI/s1600/hacker-server.jpg"
   },
   {
    "title": "Golems GABB: Drupal Anti-Spam: NoBotIQ vs CAPTCHA, Honeypot, CleanTalk, and Other Solutions",
@@ -560,16 +570,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "SHRIDHAR KHANAL: PostgreSQL Disaster Recovery with pgBackRest TLS Transport",
-   "link": "https://postgr.es/p/9oD",
-   "date": "2026-07-07T15:41:39.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The backup node and DR server don’t need to share SSH keys. Here’s how pgBackRest’s native TLS transport provides certificate-authenticated restores and strict security isolation, making it the cleaner choice for isolate",
-   "image": "https://stormatics.tech/wp-content/uploads/2026/06/Screenshot-2026-07-07-at-8.20.08-PM-768x389.png"
   },
   {
    "title": "Hugging Face Models on Foundry Managed Compute",
