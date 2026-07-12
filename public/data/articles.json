@@ -1,15 +1,105 @@
 {
- "generatedAt": "2026-07-12T00:07:34.554Z",
+ "generatedAt": "2026-07-12T07:36:50.490Z",
  "articles": [
   {
-   "title": "How I Built a Production Multi-Tenant SaaS on AWS for $94/month - And Almost Gave Up",
-   "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-42d5",
-   "date": "2026-07-11T23:26:22.000Z",
+   "title": "Shapewear Is Having a Moment: Why 2026 Is the Year of the \"Snatched\" Silhouette",
+   "link": "https://dev.to/yu_yang_f26414a1d7a176c97/shapewear-is-having-a-moment-why-2026-is-the-year-of-the-snatched-silhouette-2kbb",
+   "date": "2026-07-12T07:14:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I Almost Quit This Project at 2am. I'm Glad I Didn't. After OrderFlow I thought I understood AWS. I understood enough to be dangerous. StatusNest was supposed to be the next step up - a real multi-tenant SaaS platform. N",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3lq83hnls6hh6ozynxli.png"
+   "summary": "If you've scrolled through TikTok, Instagram, or Pinterest lately, you've noticed something: shapewear is no longer a secret. It's a statement. In 2026, the shapewear industry has exploded into the mainstream, and Brabic",
+   "image": null
+  },
+  {
+   "title": "Looker 26.12: How to QA row limits and KPI visual changes before your marketing dashboards break.",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/looker-2612-how-to-qa-row-limits-and-kpi-visual-changes-before-your-marketing-dashboards-break-4kon",
+   "date": "2026-07-12T07:13:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "5,000 rows is the default Explore browser display limit; Looker 26.12 may put some supported visualizations closer to 50,000. That is not just a dashboard cosmetic change. For developers and analytics engineers, it chang",
+   "image": null
+  },
+  {
+   "title": "AI Agent Spend Governance: Controls, Policies, and Audit Trails",
+   "link": "https://dev.to/spurhq/ai-agent-spend-governance-controls-policies-and-audit-trails-45ch",
+   "date": "2026-07-12T07:13:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your AI agent just spent $4,200 on a data enrichment API — in 11 seconds. Nobody approved it. Nobody noticed until the invoice arrived. This isn't a hypothetical. It's the failure mode that shows up when teams bolt finan",
+   "image": null
+  },
+  {
+   "title": "Choosing a bare metal server provider in 2026? One smart tip: look beyond price and evaluate",
+   "link": "https://dev.to/onegbits/choosing-a-bare-metal-server-provider-in-2026-one-smart-tip-look-beyond-price-and-evaluate-kc5",
+   "date": "2026-07-12T07:12:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Choosing a bare metal server provider in 2026? One smart tip: look beyond price and evaluate network reliability, hardware customization, and support response times to avoid costly bottlenecks. Read the full guide to mak",
+   "image": null
+  },
+  {
+   "title": "Summer Shapewear Survival Guide: Stay Cool, Look Smooth, Feel Confident",
+   "link": "https://dev.to/ersajay/summer-shapewear-survival-guide-stay-cool-look-smooth-feel-confident-2ej2",
+   "date": "2026-07-12T07:11:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Summer is here, and with it comes sundresses, linen pants, swimsuits, and — let's be honest — the challenge of staying cool while looking smooth. But summer doesn't have to mean sacrificing shapewear. With the right stra",
+   "image": null
+  },
+  {
+   "title": "The 20 Sites Guide to Buying Old Yahoo Accounts in",
+   "link": "https://dev.to/daphnesaunders8s4dd/the-20-sites-guide-to-buying-old-yahoo-accounts-in-4oi4",
+   "date": "2026-07-12T07:05:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Where Can You Safely Buy Aged Yahoo Accounts 💫🚀🌎📱✨🏆 Contact Us 💫🚀🌎📱✨🏆https://t.me/UsaDigitalHub 💫🚀🌎📱✨🏆WhatsApp :+1 (506) 541-7768 💫🚀🌎📱✨🏆 Telegram: @usadigitalhub 💫🚀🌎📱✨🏆 Email: usadigitalhubsell@g",
+   "image": null
+  },
+  {
+   "title": "Molecule Ansible Testing: 3 Docker Pitfalls That Fooled Us",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/molecule-ansible-testing-3-docker-pitfalls-that-fooled-us-mll",
+   "date": "2026-07-12T07:01:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud Testing Ansible roles with Molecule felt bulletproof for months — every pull request passed, every scenario converged clean, every merge shipped without drama. Then a role that patc",
+   "image": null
+  },
+  {
+   "title": "The 20 Sites Guide to Buying Old Yahoo Accounts in",
+   "link": "https://dev.to/daphnesaunders8s4dd/the-20-sites-guide-to-buying-old-yahoo-accounts-in-a99",
+   "date": "2026-07-12T06:59:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Where Can You Safely Buy Aged Yahoo Accounts 💫🚀🌎📱✨🏆 Contact Us 💫🚀🌎📱✨🏆https://t.me/UsaDigitalHub 💫🚀🌎📱✨🏆WhatsApp :+1 (506) 541-7768 💫🚀🌎📱✨🏆 Telegram: @usadigitalhub 💫🚀🌎📱✨🏆 Email: usadigitalhubsell@g",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_sort",
+   "link": "https://postgr.es/p/9pm",
+   "date": "2026-07-12T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Disable `enable_sort` to fix a slow sort? Wrong target. Slow sorts need more `work_mem` or better indexes—not this GUC.",
+   "image": null
+  },
+  {
+   "title": "sqlite-utils 4.1",
+   "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+   "date": "2026-07-11T23:50:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago , introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Pytho",
+   "image": null
   },
   {
    "title": "Andrei Lepikhov: Postgres community events: isn't it time to tap the capabilities of the digital era?",
@@ -19,76 +109,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "I've been going to conferences and meetups of all kinds since 2004. And today — much like in the era when a Nokia brick was giving people their first, still-primitive taste of mobility — these events follow the same form",
-   "image": null
-  },
-  {
-   "title": "From FYP to Production AWS: How I Built My First Real Cloud Project (And How Many Times It Broke)",
-   "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-1707",
-   "date": "2026-07-11T23:09:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "My final year project was done. 90/100. Top 8 at the exhibition. Supervisor happy. Committee happy. And I had absolutely no idea if I could actually get a job. The FYP had AWS in it Lambda, DynamoDB, API Gateway. But let",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwyusaewj88ojhj0d3kpi.png"
-  },
-  {
-   "title": "Interactive Rebase in Git: Edit Your History Like a Pro",
-   "link": "https://dev.to/fj_palacios/interactive-rebase-in-git-edit-your-history-like-a-pro-1h0i",
-   "date": "2026-07-11T22:15:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You've been working on a feature for two days. Twelve commits. One says \"fix\", another \"more fixes\", one says \"ok now it works\", and three in a row say \"wip\". When you open the pull request, your history looks like a nov",
-   "image": null
-  },
-  {
-   "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-37aj",
-   "date": "2026-07-11T22:11:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can build one in just 10 minutes? In this era of rapid development and deployment, having a seamless Continu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "How to usar Docker secrets e volumes na pratica",
-   "link": "https://dev.to/isaias_velasquez_d2261770/how-to-usar-docker-secrets-e-volumes-na-pratica-2aj2",
-   "date": "2026-07-11T21:55:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Docker secrets e volumes resolvem dois problemas que aparecem em todo projeto: passar dados sensiveis para dentro do container sem deixar no codigo fonte, e manter dados persistentes mesmo depois que o container reinicia",
-   "image": null
-  },
-  {
-   "title": "Step‑by‑step guide to debug Gemma 4B deployments on Google Cloud TPU v6e‑1. Covers MCP setup and Antigravity CLI usage. https://",
-   "link": "https://dev.to/atheerium/step-by-step-guide-to-debug-gemma-4b-deployments-on-google-cloud-tpu-v6e-1-covers-mcp-setup-and-1nj3",
-   "date": "2026-07-11T21:01:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Step‑by‑step guide to debug Gemma 4B deployments on Google Cloud TPU v6e‑1. Covers MCP setup and Antigravity CLI usage. https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
-   "image": null
-  },
-  {
-   "title": "Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine",
-   "link": "https://dev.to/serifcolakel/label-driven-agentic-workflows-building-autonomous-software-pipelines-without-a-workflow-engine-16d1",
-   "date": "2026-07-11T20:32:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR: Instead of building yet another orchestration layer, use the labels in your existing issue tracker (GitHub, GitLab, Jira) as a distributed state machine. Each AI agent watches for its label, does its job, and swap",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8krn0x22ktgx7m617om2.png"
-  },
-  {
-   "title": "Optimize HikariCP for Dirt-Cheap VPS Hosting",
-   "link": "https://dev.to/shubham_bhati/optimize-hikaricp-for-dirt-cheap-vps-hosting-5gg4",
-   "date": "2026-07-11T20:29:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you are running a Spring Boot app on a tiny ₹100/month VPS with 1GB RAM, the default settings will crash your server. The biggest silent killer is HikariCP. By default, Spring Boot sets the maximum connection pool siz",
    "image": null
   },
   {
@@ -402,16 +422,6 @@
    "image": null
   },
   {
-   "title": "Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 20 – Add min() and max() aggregate support for uuid.",
-   "link": "https://postgr.es/p/9pb",
-   "date": "2026-07-09T12:41:14.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 1st of July 2026, Masahiko Sawada committed patch: Add min() and max() aggregate support for uuid. The uuid type already has a full set of comparison operators and a btree operator class, so it is totally ordered. min",
-   "image": null
-  },
-  {
    "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
    "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
    "date": "2026-07-09T10:06:11.000Z",
@@ -449,16 +459,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post ( since May 9th ) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wai",
-   "image": null
-  },
-  {
-   "title": "Introducing GPT‑Live",
-   "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
-   "date": "2026-07-08T23:20:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off hard",
    "image": null
   },
   {
