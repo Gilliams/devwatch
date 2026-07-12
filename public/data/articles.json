@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-07-11T18:04:23.863Z",
+ "generatedAt": "2026-07-12T00:07:34.554Z",
  "articles": [
   {
-   "title": "AWS Transform and Superwerker: same vocabulary, different problems",
-   "link": "https://dev.to/aeells/aws-transform-and-superwerker-same-vocabulary-different-problems-2m8g",
-   "date": "2026-07-11T18:04:14.000Z",
+   "title": "How I Built a Production Multi-Tenant SaaS on AWS for $94/month - And Almost Gave Up",
+   "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-42d5",
+   "date": "2026-07-11T23:26:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most people will read AWS Transform's landing zone agent as Superwerker's smarter cousin. I don't think that's right. Same destination. Different problems. Treating them as substitutes is how greenfield teams buy enterpr",
+   "summary": "I Almost Quit This Project at 2am. I'm Glad I Didn't. After OrderFlow I thought I understood AWS. I understood enough to be dangerous. StatusNest was supposed to be the next step up - a real multi-tenant SaaS platform. N",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3lq83hnls6hh6ozynxli.png"
+  },
+  {
+   "title": "Andrei Lepikhov: Postgres community events: isn't it time to tap the capabilities of the digital era?",
+   "link": "https://postgr.es/p/9pl",
+   "date": "2026-07-11T23:26:20.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I've been going to conferences and meetups of all kinds since 2004. And today — much like in the era when a Nokia brick was giving people their first, still-primitive taste of mobility — these events follow the same form",
    "image": null
   },
   {
-   "title": "3 Things 120 Days of Autonomous Agents Taught Me That No Demo Prepares You For",
-   "link": "https://dev.to/zwiserfit/3-things-120-days-of-autonomous-agents-taught-me-that-no-demo-prepares-you-for-2f9p",
-   "date": "2026-07-11T17:41:08.000Z",
+   "title": "From FYP to Production AWS: How I Built My First Real Cloud Project (And How Many Times It Broke)",
+   "link": "https://dev.to/aboodi679/how-i-built-a-production-multi-tenant-saas-on-aws-for-94month-and-almost-gave-up-1707",
+   "date": "2026-07-11T23:09:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "120 days ago, we put 9 autonomous AI agents in charge of operating a real fitness studio in Dongguan, China. Not a demo. Real members. Real revenue. One human founder. Here are 3 things that no paper, no demo, and no arc",
+   "summary": "My final year project was done. 90/100. Top 8 at the exhibition. Supervisor happy. Committee happy. And I had absolutely no idea if I could actually get a job. The FYP had AWS in it Lambda, DynamoDB, API Gateway. But let",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwyusaewj88ojhj0d3kpi.png"
+  },
+  {
+   "title": "Interactive Rebase in Git: Edit Your History Like a Pro",
+   "link": "https://dev.to/fj_palacios/interactive-rebase-in-git-edit-your-history-like-a-pro-1h0i",
+   "date": "2026-07-11T22:15:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You've been working on a feature for two days. Twelve commits. One says \"fix\", another \"more fixes\", one says \"ok now it works\", and three in a row say \"wip\". When you open the pull request, your history looks like a nov",
    "image": null
   },
   {
-   "title": "The Linux find Command: 20 Real-World Uses for Threat Hunting & Incident Response",
-   "link": "https://dev.to/xpert4cyber/the-linux-find-command-20-real-world-uses-for-threat-hunting-incident-response-2mka",
-   "date": "2026-07-11T17:26:11.000Z",
+   "title": "Build CI/CD Pipeline in 10 Mins with GitHub Actions",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/build-cicd-pipeline-in-10-mins-with-github-actions-37aj",
+   "date": "2026-07-11T22:11:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "find command from a SOC/incident-response angle — not just syntax, but how it's actually used in live investigations. Covers things like: Catching a web shell using -mtime + -perm checks Hunting SUID/SGID binaries for pr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fodrhkpwch6eeb9rs87um.png"
+   "summary": "Introduction Did you know that 70% of CI/CD pipelines take over an hour to set up, but with GitHub Actions, you can build one in just 10 minutes? In this era of rapid development and deployment, having a seamless Continu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
-   "title": "5 Kyverno Policies to Secure Your Kubernetes Cluster",
-   "link": "https://dev.to/devarshishimpi/5-kyverno-policies-to-secure-your-kubernetes-cluster-3hb9",
-   "date": "2026-07-11T17:16:41.000Z",
+   "title": "How to usar Docker secrets e volumes na pratica",
+   "link": "https://dev.to/isaias_velasquez_d2261770/how-to-usar-docker-secrets-e-volumes-na-pratica-2aj2",
+   "date": "2026-07-11T21:55:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction If you run workloads on Kubernetes, you already know how easy it is for small mistakes to slip into production. A missing resource limit here, a container running as root there, and suddenly your cluster has",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk9c6wlm2pbhm7sccudsl.png"
-  },
-  {
-   "title": "I stopped asking OpenClaw what broke and started reading the trace",
-   "link": "https://dev.to/lars_winstand/i-stopped-asking-openclaw-what-broke-and-started-reading-the-trace-4if4",
-   "date": "2026-07-11T17:11:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I used to do the same thing everyone does the first time an agent goes off the rails: Watch OpenClaw do something weird Ask it what happened Read a very confident explanation Realize 20 minutes later that the explanation",
+   "summary": "Docker secrets e volumes resolvem dois problemas que aparecem em todo projeto: passar dados sensiveis para dentro do container sem deixar no codigo fonte, e manter dados persistentes mesmo depois que o container reinicia",
    "image": null
   },
   {
-   "title": "jq in Shell Scripts: The Small Things That Trip You Up",
-   "link": "https://dev.to/schiff_heimlich/jq-in-shell-scripts-the-small-things-that-trip-you-up-3hh2",
-   "date": "2026-07-11T17:05:35.000Z",
+   "title": "Step‑by‑step guide to debug Gemma 4B deployments on Google Cloud TPU v6e‑1. Covers MCP setup and Antigravity CLI usage. https://",
+   "link": "https://dev.to/atheerium/step-by-step-guide-to-debug-gemma-4b-deployments-on-google-cloud-tpu-v6e-1-covers-mcp-setup-and-1nj3",
+   "date": "2026-07-11T21:01:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Setup If you work with JSON APIs, configs, or log processing, you have probably used jq in a shell script. It is solid. But there are a few edge cases that trip people up regularly — things that work fine in tests bu",
+   "summary": "Step‑by‑step guide to debug Gemma 4B deployments on Google Cloud TPU v6e‑1. Covers MCP setup and Antigravity CLI usage. https://dev.to/gde/debugging-deployments-with-gemma-4b-tpu-v6e-1-mcp-and-antigravity-cli-3p6b",
    "image": null
   },
   {
-   "title": "Best Practices for Buying Telegram Accounts Securely",
-   "link": "https://dev.to/usasmmstore/best-practices-for-buying-telegram-accounts-securely-4p2g",
-   "date": "2026-07-11T16:55:00.000Z",
+   "title": "Label-Driven Agentic Workflows: Building Autonomous Software Pipelines Without a Workflow Engine",
+   "link": "https://dev.to/serifcolakel/label-driven-agentic-workflows-building-autonomous-software-pipelines-without-a-workflow-engine-16d1",
+   "date": "2026-07-11T20:32:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best Practices for Buying Telegram Accounts Securely Hey there! If you’re thinking about buying a Telegram account, you’re not alone. Lots of people do it to jump-start their projects, grow their businesses, or just save",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl00ico03pqke4qc543wz.jpg"
+   "summary": "TL;DR: Instead of building yet another orchestration layer, use the labels in your existing issue tracker (GitHub, GitLab, Jira) as a distributed state machine. Each AI agent watches for its label, does its job, and swap",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8krn0x22ktgx7m617om2.png"
   },
   {
-   "title": "\"My First Terraform Workflow on Azure:",
-   "link": "https://dev.to/ihuoma_lilian_8c9eff4fe75/my-first-terraform-workflow-on-azure-3hdi",
-   "date": "2026-07-11T16:31:29.000Z",
+   "title": "Optimize HikariCP for Dirt-Cheap VPS Hosting",
+   "link": "https://dev.to/shubham_bhati/optimize-hikaricp-for-dirt-cheap-vps-hosting-5gg4",
+   "date": "2026-07-11T20:29:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A hands-on walkthrough of provisioning and tearing down my first Azure resource using Terraform as part of a learning scenario for Hagital Cloud Solutions. Write:-Create configuration files (.tf files) that describe the ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff3oaoszmz71nxugs25py.png"
+   "summary": "If you are running a Spring Boot app on a tiny ₹100/month VPS with 1GB RAM, the default settings will crash your server. The biggest silent killer is HikariCP. By default, Spring Boot sets the maximum connection pool siz",
+   "image": null
+  },
+  {
+   "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+   "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+   "date": "2026-07-11T17:59:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and execute",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
+  },
+  {
+   "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+   "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+   "date": "2026-07-11T17:49:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Februa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
   },
   {
    "title": "Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client",
@@ -220,26 +250,6 @@
    "source": "Codrops",
    "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
    "image": null
-  },
-  {
-   "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-   "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-   "date": "2026-07-10T13:15:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg"
-  },
-  {
-   "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-   "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-   "date": "2026-07-10T11:47:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif"
   },
   {
    "title": "The Drop Times: Giving Content Editors the Display Controls They Deserve with ERVMS for Drupal",
@@ -409,16 +419,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A tutorial on how to create a minimalistic and customizable 3D wave grid background with Three.js.",
-   "image": null
-  },
-  {
-   "title": "Floor Drees: EDB heads to PGConf.Brasil 2026, this is what we’ll be talking about!",
-   "link": "https://postgr.es/p/9pd",
-   "date": "2026-07-09T08:39:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The Brazilian PostgreSQL community is gearing up for one of the most anticipated events of the year: PGConf.Brasil 2026. Taking place in the city of Blumenau from September 2 - 4, this year’s conference features no less ",
    "image": null
   },
   {
@@ -1150,16 +1150,6 @@
    "source": "web.dev",
    "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
    "image": null
-  },
-  {
-   "title": "Fragments: May 27",
-   "link": "https://martinfowler.com/fragments/2026-05-27.html",
-   "date": "2026-05-27T19:40:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our exper",
-   "image": "https://martinfowler.com/img/catalog/2025-goto-kent.png"
   }
  ]
 }
