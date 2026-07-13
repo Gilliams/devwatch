@@ -1,14 +1,104 @@
 {
- "generatedAt": "2026-07-13T00:07:56.369Z",
+ "generatedAt": "2026-07-13T08:27:00.707Z",
  "articles": [
   {
-   "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
-   "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-1j81",
-   "date": "2026-07-13T00:02:21.000Z",
+   "title": "How Much Does Crypto Exchange Development Cost? Features, Process & Benefits Guide",
+   "link": "https://dev.to/alan_james_35e491d20632c8/how-much-does-crypto-exchange-development-cost-features-process-benefits-guide-b9f",
+   "date": "2026-07-13T08:23:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Fleet Management for 100+ AI Bots: Lessons Learned So you've built a handful of AI bots. Maybe five, maybe ten. They're running smoothly, handling tasks, earning their keep. Then someone says \"scale it up\" — and suddenly",
+   "summary": "Cryptocurrency is changing the way people invest and make online transactions. Today, millions of users trade digital currencies like Bitcoin, Ethereum, and other cryptocurrencies through online trading platforms called ",
+   "image": null
+  },
+  {
+   "title": "Monitor Your Server Health with Python and Telegram",
+   "link": "https://dev.to/qingluan/monitor-your-server-health-with-python-and-telegram-m3d",
+   "date": "2026-07-13T08:00:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Monitor Your Server Health with Python and Telegram Keeping Your Server Up and Running with Python and Telegram Imagine you're on a tropical vacation, sipping coconut water and enjoying the sun, when suddenly your phone ",
+   "image": null
+  },
+  {
+   "title": "Horizontal Scaling ColdFusion Applications: Load Balancers, Shared State, and File Systems",
+   "link": "https://dev.to/deepak_sir__/horizontal-scaling-coldfusion-applications-load-balancers-shared-state-and-file-systems-5do",
+   "date": "2026-07-13T07:36:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Horizontally scaling ColdFusion means running multiple ColdFusion instances behind a load balancer so traffic is distributed, performance scales, and one node failing doesn’t take the site down. But adding servers is the",
+   "image": null
+  },
+  {
+   "title": "AWS CodePipeline Tutorial: Deploy to EC2 with CodeCommit, CodeBuild & CodeDeploy",
+   "link": "https://dev.to/gunasantosh/aws-codepipeline-tutorial-deploy-to-ec2-with-codecommit-codebuild-codedeploy-44oc",
+   "date": "2026-07-13T07:35:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This is a step-by-step AWS CodePipeline tutorial for anyone who needs to deploy to EC2 using CodeCommit, CodeBuild, and CodeDeploy together. I set this exact pipeline up recently and kept notes as I went, so this is the ",
+   "image": null
+  },
+  {
+   "title": "XVectra construit une base de connaissances digitale plus accessible et structurée",
+   "link": "https://dev.to/xvectrareview/xvectra-construit-une-base-de-connaissances-digitale-plus-accessible-et-structuree-aoj",
+   "date": "2026-07-13T07:31:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Dans un environnement numérique où les informations deviennent de plus en plus nombreuses, la capacité à trouver rapidement des contenus pertinents représente un élément essentiel de l’expérience utilisateur. Afin de rép",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjc86tgf397q0zi06eem9.png"
+  },
+  {
+   "title": "Kubernetes RBAC for AI Agents: Least-Privilege Patterns That Actually Matter",
+   "link": "https://dev.to/ajey_k_b3b392e7c4138059db/kubernetes-rbac-for-ai-agents-least-privilege-patterns-that-actually-matter-5aee",
+   "date": "2026-07-13T07:03:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical URL: https://infradecode.com/kubernetes-rbac-for-ai-agents-least-privilege-patterns/ Introduction: That's the mistake. If the agent can only read → prompt injection influences recommendations. Here's the RBAC p",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0mgaswhbw0djt615bws.png"
+  },
+  {
+   "title": "Secure Kubernetes Dashboard with Cloudflare Zero Trust Tunnel",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/secure-kubernetes-dashboard-with-cloudflare-zero-trust-tunnel-3le2",
+   "date": "2026-07-13T07:01:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud We found our Kubernetes Dashboard sitting on a NodePort, reachable from the internet, during a routine Shodan sweep we ran against our own IP ranges. No VPN in front of it, no Acces",
+   "image": null
+  },
+  {
+   "title": "Your Webhook Receiver Is Offline. Now What?",
+   "link": "https://dev.to/adal-cloud/your-webhook-receiver-is-offline-now-what-4g67",
+   "date": "2026-07-13T07:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Webhooks look simple when everything works. A service sends an HTTP request, your application receives it, and the event is processed within milliseconds. But production networks are rarely that predictable. The receivin",
+   "image": null
+  },
+  {
+   "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+   "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+   "date": "2026-07-13T05:36:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, fo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: enable_tidscan",
+   "link": "https://postgr.es/p/9po",
+   "date": "2026-07-13T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "TID scans only happen when you explicitly ask for them via `ctid`, making `enable_tidscan` a knob you'll almost certainly never touch.",
    "image": null
   },
   {
@@ -32,56 +122,6 @@
    "image": null
   },
   {
-   "title": "$440 Million in 45 Minutes: When a Company's Own Automated System Loses the Company's Own Money",
-   "link": "https://dev.to/vibeagentmaking/440-million-in-45-minutes-when-a-companys-own-automated-system-loses-the-companys-own-money-3jfd",
-   "date": "2026-07-12T22:41:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Knight Capital, Zillow, and a Replit AI agent: three cases where a company's own automated system destroyed the company's own money, no regulator and no plaintiff anywhere in the story. The bill scales with the authority",
-   "image": null
-  },
-  {
-   "title": "# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin & Eli Shohat, co-founders of D-Band* ---",
-   "link": "https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc",
-   "date": "2026-07-12T22:35:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments By Alexey Levin & Eli Shohat, co-founders of D-Band Between the two of us, we have spent over 25 years as DBAs. We have worked across ",
-   "image": null
-  },
-  {
-   "title": "Top 5 Buying Old Gmail Accounts Instantly",
-   "link": "https://dev.to/aleecehoffman2iswg/top-5-buying-old-gmail-accounts-instantly-3kil",
-   "date": "2026-07-12T22:08:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Where Can You Buy Gmail Accounts Safely? 💫🚀🌎📱✨🏆 Contact Us 💫🚀🌎📱✨🏆https://t.me/UsaDigitalHub 💫🚀🌎📱✨🏆WhatsApp :+1 (506) 541-7768 💫🚀🌎📱✨🏆 Telegram: @usadigitalhub 💫🚀🌎📱✨🏆 Email: usadigitalhubsell@gmail",
-   "image": null
-  },
-  {
-   "title": "Top 33 Places to Buying Verified Alipay Accounts Online",
-   "link": "https://dev.to/aleecehoffman2iswg/top-33-places-to-buying-verified-alipay-accounts-online-75j",
-   "date": "2026-07-12T21:58:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Alipay Account 💫🌐💫 24/7 Customer Support Available 🌐🚀💫 💫🚀🌎📱✨🏆 Contact Us 💫🚀🌎📱✨🏆https://t.me/UsaDigitalHub 💫🚀🌎📱✨🏆WhatsApp :+1 (506) 541-7768 💫🚀🌎📱✨🏆 Telegram: @usadigitalhub 💫🚀🌎📱✨",
-   "image": null
-  },
-  {
-   "title": "Architecting Kubernetes Deployments with Python",
-   "link": "https://dev.to/joachim8675309/architecting-kubernetes-deployments-with-python-4jhe",
-   "date": "2026-07-12T21:56:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Python is an excellent language for automating cloud infrastructure, but the official Kubernetes Python client leaves developers with an important architectural decision: Where should Kubernetes manifests live? Should th",
-   "image": null
-  },
-  {
    "title": "Fable gets another bump",
    "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
    "date": "2026-07-12T21:20:07.000Z",
@@ -92,16 +132,6 @@
    "image": null
   },
   {
-   "title": "The monitoring agent that cannot be told what to do",
-   "link": "https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd",
-   "date": "2026-07-12T21:17:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Here is a design decision we made early, wrote into the architecture as an invariant, and have refused to revisit since: our agent accepts no commands. Not \"we don't currently use that feature\" — the hub has no way to te",
-   "image": null
-  },
-  {
    "title": "sqlite-utils 4.1.1",
    "link": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
    "date": "2026-07-12T20:55:30.000Z",
@@ -109,16 +139,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: sqlite-utils 4.1.1 Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE. table.transform() now raises a TransactionError if",
-   "image": null
-  },
-  {
-   "title": "Your uptime SLA means nothing when the physical process can't wait for your rollback",
-   "link": "https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2",
-   "date": "2026-07-12T20:52:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There’s a conversation that happens when IT developers first encounter operational technology. It usually goes something like this: “What’s your uptime requirement?” “99.9%.” “That’s about 8 hours of downtime per year. W",
    "image": null
   },
   {
@@ -292,16 +312,6 @@
    "image": null
   },
   {
-   "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-   "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-   "date": "2026-07-10T14:19:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
-  },
-  {
    "title": "Acquia.com - Drupal Blog: Vibe Coding Drupal: AI as a Reasoning Partner",
    "link": "https://www.acquia.com/blog/vibe-coding-drupal-ai-reasoning-partner",
    "date": "2026-07-10T13:49:03.000Z",
@@ -399,16 +409,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Near the end of most Open Source licenses, usually in capital letters, sits a clause that disclaims almost everything: no warranty, no liability, use at your own risk. For an organization that depends on that code, the c",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: The Version Number Is Not the Territory",
-   "link": "https://postgr.es/p/9pe",
-   "date": "2026-07-09T20:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A PostgreSQL 14 database threw an error that PostgreSQL 14 cannot produce.",
    "image": null
   },
   {
@@ -1139,16 +1139,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Join Laravel and PHP developers from around the world for two days of world-class talks, hands-on learning, and community connection. Come ready to level up, leave ready to ship. Plus an after party, VIP dinner, and are ",
-   "image": null
-  },
-  {
-   "title": "New to the web platform in May",
-   "link": "https://web.dev/blog/web-platform-05-2026?hl=en",
-   "date": "2026-05-29T07:00:00.000Z",
-   "theme": "devweb",
-   "themeName": "Développement Web",
-   "source": "web.dev",
-   "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
    "image": null
   }
  ]
