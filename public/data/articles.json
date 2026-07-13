@@ -1,45 +1,155 @@
 {
- "generatedAt": "2026-07-13T13:32:46.325Z",
+ "generatedAt": "2026-07-13T18:49:23.163Z",
  "articles": [
   {
-   "title": "Catch Risky IAM in Your CDK App Before cdk deploy",
-   "link": "https://dev.to/shieldlyio/catch-risky-iam-in-your-cdk-app-before-cdk-deploy-25gm",
-   "date": "2026-07-13T13:19:00.000Z",
+   "title": "Top Guide to Buy Old GitHub Accounts: Tips for Developers",
+   "link": "https://dev.to/nomihubbardv6wr3/top-guide-to-buy-old-github-accounts-tips-for-developers-4pm7",
+   "date": "2026-07-13T18:39:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You ship a CDK stack. One IAM role has a wildcard because you copy-pasted a gist eight months ago. That role is now your blast radius. Most CDK pipelines have linting. They have type checking. They have cdk diff to previ",
+   "summary": "Buy GitHub Accounts from usadigitalhub.com 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhu",
    "image": null
   },
   {
-   "title": "How I Designed an AI SRE Agent to Cut LLM Costs by Up to 100x — With Architecture, Not Prompts",
-   "link": "https://dev.to/shafivullashaiktechops/how-i-designed-an-ai-sre-agent-to-cut-llm-costs-by-up-to-100x-with-architecture-not-prompts-40gm",
-   "date": "2026-07-13T13:14:44.000Z",
+   "title": "We Already Built the Loop",
+   "link": "https://dev.to/danielbutlerirl/we-already-built-the-loop-32ef",
+   "date": "2026-07-13T18:38:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The fastest way to kill an AI project isn't a bad model. It's the first cloud bill. When I set out to build an AI SRE agent for Kubernetes — an agent that detects incidents, reads live cluster state, and drafts proposed ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp4whd13mioj416jphfox.png"
+   "summary": "In June 2026, loop engineering started circulating as a name for a way of working with coding agents. Addy Osmani described it as replacing yourself as the person prompting the agent by designing the system that performs",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkhw2bnc1el3q9po9l8vw.png"
   },
   {
-   "title": "Download Trials Of Randoom NSP Full Game Latest 2026",
-   "link": "https://dev.to/maholo/download-trials-of-randoom-nsp-full-game-latest-2026-48k5",
-   "date": "2026-07-13T13:13:46.000Z",
+   "title": "4 self-hosting failures that return success",
+   "link": "https://dev.to/mbaelde/4-self-hosting-failures-that-return-success-1go5",
+   "date": "2026-07-13T18:32:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Download Trials Of Randoom NSP Full Game Latest 2026 Trials Of Randoom NSP Full Game is a precision platformer that combines fast-paced gameplay with puzzle-solving challenges on the Nintendo Switch. Players control Deiv",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F32617u4zd2zt0nrores6.png"
+   "summary": "The failures that cost me the most in three years of self-hosting were never the ones that threw an error. An error is a gift: it tells you where to look. The expensive ones are the failures that report success while bei",
+   "image": null
   },
   {
-   "title": "Securing a CI/CD Pipeline Behind NAT with Tailscale",
-   "link": "https://dev.to/vini-ornelas/securing-a-cicd-pipeline-behind-nat-with-tailscale-4jn6",
-   "date": "2026-07-13T13:07:52.000Z",
+   "title": "Mastering API Design for Seamless Automation",
+   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/mastering-api-design-for-seamless-automation-462k",
+   "date": "2026-07-13T18:18:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A Spring Boot REST API running on a home server behind NAT, deployed via GitHub Actions through a self-hosted runner installed on the same production machine. It worked for months — until a security audit flagged it as c",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5g7wfomn15te8hbcz6a.png"
+   "summary": "The Fundamental Role of API Design in Automation From enabling seamless data exchange to supporting agile workflows, effective API design is crucial. Think about it: a robust API can unify disparate systems into a powerf",
+   "image": null
+  },
+  {
+   "title": "Using SSL Certificates (HTTPS) with RLM",
+   "link": "https://dev.to/reprise_software/using-ssl-certificates-https-with-rlm-439j",
+   "date": "2026-07-13T18:05:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "License administrators are now able to run the RLM web server with SSL certificates, allowing for increased protection though third party identification via web server. To implement SSL certificates you can instruct RLM ",
+   "image": null
+  },
+  {
+   "title": "The Redis That Timed Out: A Docker Subnet Overlap Hiding in Plain Sight",
+   "link": "https://dev.to/frozer/the-redis-that-timed-out-a-docker-subnet-overlap-hiding-in-plain-sight-3473",
+   "date": "2026-07-13T17:58:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Postgres worked. Redis didn't. Same host, same Docker, same iptables, two containers started four minutes apart — and one of them refused to answer. This is the story of a TimeoutError that had nothing to do with Redis, ",
+   "image": null
+  },
+  {
+   "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+   "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+   "date": "2026-07-13T17:36:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleSc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZ5yNN1gA3Yzt-6i1sekVk3AFnHGEpas31-UowjFTXB9Rj4DhkS8H4cqjr655w9HCDKZIzcRAqn1NvLSmPLs_-oDDYpCteWgGlkUIpuyMkPIeXnfgxKCYRG54K8oV0j4vVaWj928DfJBsYJzR98e5BuZDp5OmoeFtDubZ90Qnz0a7G9VmukCII5kVE3rQ/s1600/macos-malware-1.jpg"
+  },
+  {
+   "title": "Master os-taxonomy in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-4fnc",
+   "date": "2026-07-13T17:29:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Did you know that 80% of development time is spent on maintenance, with a significant portion dedicated to navigating complex taxonomies? Mastering os-taxonomy can change that. By the end of this article, yo",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+   "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+   "date": "2026-07-13T17:17:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvBtzUXyAbjgtvPJVS9zZ29ULkaIs0fMMa53ZKSip2pJbZ7_HMTGn3SV27X28JLwaq9atS1B_jvH_7qgfsjW0wyVDV_jGyqFSyO-z_vHuoigCy14xfb7DKuuWGIMUVeLiOhnap1yICNPEC2OUkA0d_e8RXtPs7oTo3BAz9I2DTxRwg67vgObResLQ7c4/s1600/browser-edge.jpg"
+  },
+  {
+   "title": "I gave an AI agent the same deployment on four clouds.",
+   "link": "https://dev.to/zzmilos/i-gave-an-ai-agent-the-same-deployment-on-four-clouds-4g1h",
+   "date": "2026-07-13T17:16:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Full disclosure up front: I run one of the four platforms in this test (redu.cloud), so take my framing with that in mind. I recorded every run raw and published every session transcript, so you can check the work instea",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Drupal Governance, Security, and Automation Updates",
+   "link": "https://www.thedroptimes.com/newsletter/drupal-governance-security-automation-updates?utm_source=Drupal Planet",
+   "date": "2026-07-13T16:11:22.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Recent Drupal news fits inside a wider question Dries Buytaert raised in his blog post, License-only versus Stewarded Open Source: what turns code that is merely available into infrastructure people can depend on? The di",
+   "image": null
+  },
+  {
+   "title": "Fragments: July 13",
+   "link": "https://martinfowler.com/fragments/2026-07-13.html",
+   "date": "2026-07-13T16:06:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat. When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it. When",
+   "image": null
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 26 & 27",
+   "link": "https://postgr.es/p/9pz",
+   "date": "2026-07-13T15:43:57.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 2 July, 2026, the PostgreSQL Istanbul Meetup met for the first time, organized by Devrim Gündüz, Gülçin Yıldırım Jelínek & Bilge Korkmaz Erdim. Speakers: Viktoriia Hrechukha Pavlo Golub On 2 July 2026, the PostgreSQL ",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+   "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+   "date": "2026-07-13T15:05:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they d",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1600/monday-recap.jpg"
+  },
+  {
+   "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+   "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+   "date": "2026-07-13T13:49:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pk3JKY3zis-iTRVKpcttwfy-GP-gEzPE_NQQpqDEaMvVs65uqa3v_dG7pD_DmZWLHcwBQzjFtTYqob5wWSgO2F-0-KkwZaahqTUpGP1xbvyifaf2UnMDzI8j9pnP9EWyARmN2SHHl0eBo4UszZx3VZvicjU_MMFOEA8sjcLvzBFzAkNeFg3GIR2yncA/s1600/memghost.jpg"
   },
   {
    "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
@@ -52,24 +162,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1600/ms-device-code1.jpg"
   },
   {
-   "title": "The graph nobody is watching",
-   "link": "https://dev.to/hidekimori/the-graph-nobody-is-watching-4e43",
-   "date": "2026-07-13T13:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you ask me what part of the system I protect the most, the answer is the database. I've been writing software alone for twenty-four years, and across every platform I've built, the rule has stayed the same: the web se",
-   "image": null
-  },
-  {
-   "title": "Website Uptime Monitoring: From a 20-Line Bash Script to Production-Ready Alerts",
-   "link": "https://dev.to/enterno/website-uptime-monitoring-from-a-20-line-bash-script-to-production-ready-alerts-36j9",
-   "date": "2026-07-13T12:27:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every team eventually asks the same question at the worst possible time: \"Wait — how long has the site been down?\" Usually the answer is \"since a customer emailed us,\" which is not a monitoring strategy. You don't need a",
-   "image": null
+   "title": "Jimmy Angelakos: PostgresEDI July 2026 Meetup — Public Speaking, AI Compliance",
+   "link": "https://postgr.es/p/9pq",
+   "date": "2026-07-13T12:37:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Actual sunshine ☀️ in Edinburgh 😲 and a room full of Postgres people catching up over pizza: July was good to us. 🐘 Thursday, July 9th brought us to Paterson's Land at the University of Edinburgh, and to a wonderfully ",
+   "image": "https://vyruss.org/blog/images/july2026_collage.jpg"
   },
   {
    "title": "MyDumper Locking Mechanisms Revisited: Introducing SAFE_NO_LOCK",
@@ -80,26 +180,6 @@
    "source": "Percona Blog",
    "summary": "About a year ago, we discussed how MyDumper refactored its locking mechanisms to move away from old, rigid flags and transitioned towards more flexible, streamlined execution. Since then, the MyDumper community hasn’t st",
    "image": null
-  },
-  {
-   "title": "Visualizing Deep Trace Hierarchies: Self-Hosting SigNoz via Foundry on Windows",
-   "link": "https://dev.to/rahulchandra2004/visualizing-deep-trace-hierarchies-self-hosting-signoz-via-foundry-on-windows-5b13",
-   "date": "2026-07-13T12:19:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you’ve ever had a night of going through a disorganized pile of flat text logs which had you searching for the reason a single API endpoint performance slowed to a crawl, you know the issue. Distributed systems requir",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fke6nfaev1ueg1d7hdmjf.png"
-  },
-  {
-   "title": "Master os-taxonomy in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-514p",
-   "date": "2026-07-13T12:19:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours manually categorizing and organizing my JavaScript projects, only to realize that I could have automated the entire process in just 20 lines of Python. This experience led me to ex",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
    "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
@@ -152,24 +232,14 @@
    "image": null
   },
   {
-   "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-   "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-   "date": "2026-07-13T07:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh0XoiKxyvhXW_SN-Ynau8iPG3vd2ltt4cDr4L_cGUhc5oBmsogZt5A_l2qbTdPG8Ciu73I0mHhRBDRJ2uWasrA_vqnkdvpbQcdh0ipe-d_cz2HTFJWOCBNxplCO0RuppogFhl1OONqWWXOLQWhH_Bt89c160ZzHtkrnDJN6PsnYWNV1W510diYait_g/s1600/phishing-server-ms.jpg"
-  },
-  {
-   "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-   "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-   "date": "2026-07-13T05:36:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, fo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg"
+   "title": "Uvora: A macOS Menu Bar App for Finding Laravel Projects",
+   "link": "https://laravel-news.com/uvora-a-macos-menu-bar-app-for-finding-laravel-projects?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-13T04:31:15.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Uvora is a free macOS menu bar app that indexes your Laravel projects locally and opens any of them from a single keyboard shortcut. The post Uvora: A macOS Menu Bar App for Finding Laravel Projects appeared first on Lar",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Uvora-LN.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: enable_tidscan",
@@ -179,6 +249,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "TID scans only happen when you explicitly ask for them via `ctid`, making `enable_tidscan` a knob you'll almost certainly never touch.",
+   "image": null
+  },
+  {
+   "title": "Pavlo Golub: Swiss PgDay 2026 [UNLOGGED]",
+   "link": "https://postgr.es/p/9pA",
+   "date": "2026-07-13T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "We at CYBERTEC usually spend a lot of time producing polished community documentaries, but sometimes you just want to push the raw data straight to the output. Welcome to the UNLOGGED experiment for Swiss PgDay 2026! In ",
    "image": null
   },
   {
@@ -272,26 +352,6 @@
    "image": null
   },
   {
-   "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-   "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-   "date": "2026-07-11T17:59:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and execute",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
-  },
-  {
-   "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-   "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-   "date": "2026-07-11T17:49:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Februa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-  },
-  {
    "title": "Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client",
    "link": "https://postgr.es/p/9pj",
    "date": "2026-07-11T13:34:41.000Z",
@@ -300,26 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "This release was made 9 days ago, but I just realized that I neglected to make a blog post about it. So, for the record, here is the announcement that went out via email. I have released version 21 of the PostgreSQL Buil",
    "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_seqscan",
-   "link": "https://postgr.es/p/9pi",
-   "date": "2026-07-11T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "enable_seqscan does not disable sequential scans. It cannot, and it was never meant to. The documentation says as much: sequential scans cannot be suppressed entirely, because sometimes reading the whole table is the onl",
-   "image": null
-  },
-  {
-   "title": "Dave Stokes: Ever Run Into A PostgreSQL Query That You Can Figure Out What It Does??",
-   "link": "https://postgr.es/p/9pf",
-   "date": "2026-07-10T20:06:17.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Ever have a query 'tossed over the fence' that you find incomprehensible but still have to support it? A few years ago, you would have needed to triage the query. Obfuscated queries can be tough to decipher. Sometimes, t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwXOIUy9BmIGm7r5PJB7xzha8SXLo4K4cuPDZBAa5Za9R9BVXGEkLmJ1_1nozg5dEakGqC69OHZ22jhslwfcApuzNWwbAURCHDSsCfPtoVYMiqSHnaoWFoiTjYla6x9UC2imxcJq7YxwoUWsccUy4wLeXD04rg2ABsq3JF_a_5AZi7B9-T0xW8KIPFgesF/s320/Screenshot%202026-07-10%20082900.png"
   },
   {
    "title": "Quoting Nilay Patel",
@@ -392,16 +432,6 @@
    "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-07/Drupal_Anti-Spam.png?itok=f2Pu4igY"
   },
   {
-   "title": "Hans-Juergen Schoenig: Architecture behind pg_hardstorage: The replication protocol",
-   "link": "https://postgr.es/p/9pp",
-   "date": "2026-07-10T05:00:17.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "If you've heard one thing about pg_hardstorage, it's probably that \"it works against managed PostgreSQL\". This post is about the one architectural choice that makes that true, and the consequences that fall out of it. Th",
-   "image": null
-  },
-  {
    "title": "Passwordless Sign-In with Fortify Two-Factor Support in Laravel",
    "link": "https://laravel-news.com/passwordless-sign-in-with-fortify-two-factor-support-in-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-10T02:34:29.000Z",
@@ -462,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Drupal AI Initiative: Distributed Leadership: How the Drupal AI Initiative is Scaling for 2026",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/distributed-leadership-how-the-drupal-ai-initiative-is-scaling-for-2026",
-   "date": "2026-07-09T14:44:15.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "By the Drupal AI Initiative Following our announcement last week introducing Inside AI and Outside AI, we are excited to share how we are scaling our leadership and organizational structure to support these two parallel ",
-   "image": null
-  },
-  {
    "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
    "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
    "date": "2026-07-09T10:06:11.000Z",
@@ -512,16 +532,6 @@
    "image": null
   },
   {
-   "title": "HTTP Query Method Support in Laravel 13.19",
-   "link": "https://laravel-news.com/laravel-13-19-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-08T12:29:31.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.19.0 adds an Http::query() client method and query/queryJson testing helpers for the HTTP QUERY verb, plus a reduceInto collection method, a counted string helper, and bulk SQS job dispatching. The post HTTP Q",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "Announcing etcd v3.7.0",
    "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
    "date": "2026-07-08T12:00:00.000Z",
@@ -539,16 +549,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Birgitta Böckeler now reports on her recent experiences trying local LLMs for coding. She compares them using two standard tasks, and tries out the most promising model for day-to-day use. more…",
-   "image": null
-  },
-  {
-   "title": "Ship AI with Laravel: I Tricked My Own AI Into Leaking Everything",
-   "link": "https://laravel-news.com/ship-ai-with-laravel-i-tricked-my-own-ai-into-leaking-everything?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-08T10:46:13.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "First I socially engineer our own support agent into leaking its full system prompt and another customer's data. Then we lock it down with four layers of defense: a hardened prompt, a local LLM guard running on Ollama, t",
    "image": null
   },
   {
@@ -710,6 +710,16 @@
    "source": "Martin Fowler",
    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
    "image": null
+  },
+  {
+   "title": "Find the Security Vulnerabilities in Your Laravel App with Sensagraph",
+   "link": "https://laravel-news.com/find-the-security-vulnerabilities-in-your-laravel-app-with-sensagraph?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-06T11:31:46.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Sensagraph scans your live Laravel applications from the outside; surfacing SQL injection, XSS, open ports, misconfigurations, and weak TLS before attackers find them. The post Find the Security Vulnerabilities in Your L",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/featured.png"
   },
   {
    "title": "A Week of Symfony #1018 (June 29 – July 5, 2026)",
