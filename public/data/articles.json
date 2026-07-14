@@ -1,44 +1,114 @@
 {
- "generatedAt": "2026-07-14T00:03:48.617Z",
+ "generatedAt": "2026-07-14T07:19:32.937Z",
  "articles": [
   {
-   "title": "Top 10# Websites To Buy Snapchat Accounts Verified & ...",
-   "link": "https://dev.to/britwhittington4g15g/top-10-websites-to-buy-snapchat-accounts-verified--22of",
-   "date": "2026-07-13T23:28:09.000Z",
+   "title": "GPT-5.6 Sol's file deletion isn't a bug you patch. It's proof that filtering an agent's actions doesn't contain it. Here's why, and what actually does.",
+   "link": "https://dev.to/rbuckley_/gpt-56-sols-file-deletion-isnt-a-bug-you-patch-its-proof-that-filtering-an-agents-actions-n97",
+   "date": "2026-07-14T07:05:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Snapchat Accounts 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhub.com/product/buy-sna",
+   "summary": "Last week an AI agent deleted almost every file in a developer's home directory. rm blocked → it switched to unlink and find -delete (POSIX-equivalent deletion a regex denylist misses) Four independent paths to the same ",
    "image": null
   },
   {
-   "title": "10 Best Reliable Seller Marketplaces to Buy Naver Accounts",
-   "link": "https://dev.to/britwhittington4g15g/10-best-reliable-seller-marketplaces-to-buy-naver-accounts-2l94",
-   "date": "2026-07-13T23:13:30.000Z",
+   "title": "Discord Bot Docker Restart: 3 Mistakes That Bit Us in Prod",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/discord-bot-docker-restart-3-mistakes-that-bit-us-in-prod-19bm",
+   "date": "2026-07-14T07:02:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Naver Accounts – 100% Safe, Real & PVA Accounts 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usa",
+   "summary": "Originally published on kuryzhev.cloud Context: Why We Built a Discord Bot for Our Game Server Fleet We had six to ten game server containers running on a single Docker host — Valheim, a couple of Minecraft worlds, an AR",
    "image": null
   },
   {
-   "title": "Build a Kubernetes Operator with Python",
-   "link": "https://dev.to/qingluan/build-a-kubernetes-operator-with-python-3goa",
-   "date": "2026-07-13T23:02:45.000Z",
+   "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
+   "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+   "date": "2026-07-14T06:46:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a Kubernetes Operator with Python Build a Kubernetes Operator with Python Imagine you’re the developer who just realized that managing a fleet of custom microservices in Kubernetes means writing YAML over YAML, man",
+   "summary": "Google couldn't see my React app, and I had no idea why. I checked robots.txt, resubmitted my sitemap, blamed my hosting provider. The actual bug: my tag said \"React App\" on every page, and my meta descriptions didn't ex",
    "image": null
   },
   {
-   "title": "Linux Kernel Modules That Explain How Podman Really Works",
-   "link": "https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3",
-   "date": "2026-07-13T22:52:35.000Z",
+   "title": "The Hidden Cost Leaks in Azure Environments (And What Enterprises Are Doing About It)",
+   "link": "https://dev.to/cloud9_infosystems/the-hidden-cost-leaks-in-azure-environments-and-what-enterprises-are-doing-about-it-3735",
+   "date": "2026-07-14T06:34:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hi, readers this time I want to show you how to build and run three Linux kernel modules that illustrate core Operating Systems concepts: kernel debug messages, character devices, and the relationship between kernel-leve",
+   "summary": "If you've ever inherited an Azure environment from a previous team, you already know the feeling: nothing is technically wrong, but the bill is way higher than it should be, and nobody can quite explain why. That's not a",
+   "image": null
+  },
+  {
+   "title": "Everhayes Academy（Everhayes Omnis Academy） Advances Mobile Learning Efficiency for Global Users",
+   "link": "https://dev.to/everhayesomnis/everhayes-academyeverhayes-omnis-academy-advances-mobile-learning-efficiency-for-global-users-3dl9",
+   "date": "2026-07-14T06:33:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Everhayes Academy（Everhayes Omnis Academy） is enhancing its mobile learning experience as part of its continued effort to make financial education more accessible, flexible, and easier to integrate into daily learning ro",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvplzjlltvzn5vhyo156.png"
+  },
+  {
+   "title": "The $327 Million Implicit Contract",
+   "link": "https://dev.to/feranor/the-327-million-implicit-contract-376n",
+   "date": "2026-07-14T06:24:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On September 23, 1999, NASA's Mars Climate Orbiter reached Mars after a nine-month journey. It entered the atmosphere at the wrong angle and was destroyed. The spacecraft worked. The navigation worked. The teams were amo",
+   "image": null
+  },
+  {
+   "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+   "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+   "date": "2026-07-14T06:19:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg"
+  },
+  {
+   "title": "Verify a Self-Hosted Installer Before Running It as Root",
+   "link": "https://dev.to/odd_background_328/verify-a-self-hosted-installer-before-running-it-as-root-1l8e",
+   "date": "2026-07-14T06:17:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Downloading an installer and immediately executing it as root collapses three operational decisions into one command: Which artifact? -> Did these bytes arrive intact? -> Should this host execute them? Separate those dec",
+   "image": null
+  },
+  {
+   "title": "Building Resilient Cloud-Native Apps: A Deep Dive into CKAD Mastery",
+   "link": "https://dev.to/anuj1/building-resilient-cloud-native-apps-a-deep-dive-into-ckad-mastery-16m0",
+   "date": "2026-07-14T06:07:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Mastering container orchestration separates modern software engineers from legacy developers in today’s rapidly shifting cloud landscape. The Certified Kubernetes Application Developer (CKAD) credential offe",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9g3274efivpkleusvwhj.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: escape_string_warning",
+   "link": "https://postgr.es/p/9pB",
+   "date": "2026-07-14T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A twenty-year-old warning that stays silent on modern PostgreSQL—until it spots a real problem hiding in your connection settings.",
+   "image": null
+  },
+  {
+   "title": "Using uvx in GitHub Actions in a cache-friendly way",
+   "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+   "date": "2026-07-14T00:56:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" envi",
    "image": null
   },
   {
@@ -52,46 +122,6 @@
    "image": null
   },
   {
-   "title": "CS, EKS or Fargate: how to choose without becoming a Kubernetes specialist",
-   "link": "https://dev.to/ricardormportotech/cs-eks-or-fargate-how-to-choose-without-becoming-a-kubernetes-specialist-5725",
-   "date": "2026-07-13T22:25:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "After deciding to host a static site, the next practical problem is usually: how do I run an API in a container in the cloud? AWS answers with an alphabet soup — ECS, EKS, Fargate — that's confusing enough on its own, be",
-   "image": null
-  },
-  {
-   "title": "Gitea Container Registry Flaw Left 30,000 Private Image Repositories Wide Open for 4 Years",
-   "link": "https://dev.to/alejandxr/gitea-container-registry-flaw-left-30000-private-image-repositories-wide-open-for-4-years-3ic",
-   "date": "2026-07-13T22:17:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What Happened For close to four years, every self-hosted Gitea instance with a private container registry had a gaping hole in its access controls: any person on the internet could pull private container images without a",
-   "image": null
-  },
-  {
-   "title": "Master os-taxonomy in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-2njb",
-   "date": "2026-07-13T22:15:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 60% of development time is spent on debugging, and mastering os-taxonomy can cut that in half? Last week, I spent hours trying to optimize my codebase, only to realize that I was using outd",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Buiding Browser-Based SBOM Visualizer",
-   "link": "https://dev.to/greedykomododragon/buiding-browser-based-sbom-visualizer-2cdd",
-   "date": "2026-07-13T21:57:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Software Bills of Materials are becoming increasingly important, but inspecting one is not always a pleasant experience. An SPDX file can contain a large collection of packages, files, identifiers and relationships. Open",
-   "image": null
-  },
-  {
    "title": "datasette code-frequency chart on GitHub",
    "link": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
    "date": "2026-07-13T21:45:27.000Z",
@@ -99,6 +129,26 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is th",
+   "image": null
+  },
+  {
+   "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
+   "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
+   "date": "2026-07-13T20:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML",
+   "image": null
+  },
+  {
+   "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
+   "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
+   "date": "2026-07-13T18:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
    "image": null
   },
   {
@@ -140,6 +190,16 @@
    "source": "PHP.net",
    "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
+  },
+  {
+   "title": "Droptica: Drupal Paragraphs tutorial, part 2: variants, responsive design, spacing, and admin UX",
+   "link": "https://www.droptica.com/blog/drupal-paragraphs-tutorial-part-2-variants-responsive-design-spacing-and-admin-ux/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-07-13T16:25:55.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This is the second and final part of a two-part guide to building a component-based corporate website with Drupal Paragraphs. Turn the bare components from part 1 into a flexible, production-grade library with color vari",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20Paragraphs%20tutorial%2C%20part%202%20variants%2C%20responsive%20design%2C%20spacing%2C%20and%20admin%20UX_0.png"
   },
   {
    "title": "The Drop Times: Drupal Governance, Security, and Automation Updates",
@@ -252,14 +312,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV-KJeaayQ7Le5oAYYddL3LmP0k3zaJOoLo9puHLF8y_fVAoBUcJba3ZyyCfJWdvvMBQTt__x0v8iggR1HfDgXOO1b5CD1xZUVr03ZnoO_1moKSeA9iNhOsPoLZMJXG9IwPJYO1NYYPNsWrBqmlx2FHM7tKF5pxRcLXLqSNtnLGP80Q4MxK5vGeB74tug/s1600/slow.jpg"
   },
   {
-   "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-   "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-   "date": "2026-07-13T11:02:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43TJKqVkJoN7Q3donw2FnXp1IrJEr6vvDteFOBCSR-PptAc8fMXXCq07kvKWoDacCHo6gi5-eUoX9mIBHggv-KXsoH31yBi0-_MZBjxYbiYNlhvAu8V_xhjuKHgnQj43x5S2pORBIGONxE_yLZdZOnDCmcjMegQjhwZtHDThg_4nlhZqwSizsMRCfZFQW/s1600/ps-ai.jpg"
+   "title": "Droptica: Drupal Paragraphs tutorial, part 1: planning architecture and base types",
+   "link": "https://www.droptica.com/blog/drupal-paragraphs-tutorial-part-1-planning-architecture-and-base-types/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-07-13T07:56:29.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This is part 1 of a two-part guide to building a component-based corporate website with Drupal Paragraphs. By the end of the series you'll have a library of 10-12 universal paragraph types with style variants, responsive",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20Paragraphs%20tutorial%2C%20part%201%20planning%20architecture%20and%20base%20types_1.png"
   },
   {
    "title": "DrupalCon News & Updates: AI in Drupal: from experimentation to real impact",
@@ -392,26 +452,6 @@
    "image": null
   },
   {
-   "title": "Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client",
-   "link": "https://postgr.es/p/9pj",
-   "date": "2026-07-11T13:34:41.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "This release was made 9 days ago, but I just realized that I neglected to make a blog post about it. So, for the record, here is the announcement that went out via email. I have released version 21 of the PostgreSQL Buil",
-   "image": null
-  },
-  {
-   "title": "Quoting Nilay Patel",
-   "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
-   "date": "2026-07-10T17:05:26.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is not another way arou",
-   "image": null
-  },
-  {
    "title": "The Drop Times: Mike Gifford: Accessibility Must Move Upstream in Public-Sector Open Source",
    "link": "https://www.thedroptimes.com/interview/70981/gifford-accessibility-upstream-open-source?utm_source=Drupal Planet",
    "date": "2026-07-10T14:22:37.000Z",
@@ -462,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Golems GABB: Drupal Anti-Spam: NoBotIQ vs CAPTCHA, Honeypot, CleanTalk, and Other Solutions",
-   "link": "https://gole.ms/blog/drupal-anti-spam-nobotiq-vs-captcha-honeypot-cleantalk-and-other-solutions",
-   "date": "2026-07-10T11:18:59.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal Anti-Spam: NoBotIQ vs CAPTCHA, Honeypot, CleanTalk, and Other Solutions admin Fri, 07/10/2026 - 14:18 Hi friends! It's been a while since our last article, and you might have been wondering when we'd be back with ",
-   "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-07/Drupal_Anti-Spam.png?itok=f2Pu4igY"
-  },
-  {
    "title": "Passwordless Sign-In with Fortify Two-Factor Support in Laravel",
    "link": "https://laravel-news.com/passwordless-sign-in-with-fortify-two-factor-support-in-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-10T02:34:29.000Z",
@@ -489,16 +519,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: License-only versus Stewarded Open Source",
-   "link": "https://dri.es/license-only-versus-stewarded-open-source",
-   "date": "2026-07-09T21:26:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Near the end of most Open Source licenses, usually in capital letters, sits a clause that disclaims almost everything: no warranty, no liability, use at your own risk. For an organization that depends on that code, the c",
    "image": null
   },
   {
@@ -1102,16 +1122,6 @@
    "image": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png"
   },
   {
-   "title": "Spotlight on SIG Storage",
-   "link": "https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/",
-   "date": "2026-06-15T00:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project moving forward. This time, we catch up with SIG Storage, the group responsible for persistent data, volume management, ",
-   "image": null
-  },
-  {
    "title": "PHP 8.4.22 Released!",
    "link": "https://www.php.net/index.php#2026-06-04-2",
    "date": "2026-06-04T22:14:47.000Z",
@@ -1140,16 +1150,6 @@
    "source": "Martin Fowler",
    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whet",
    "image": null
-  },
-  {
-   "title": "From Kubernetes Dashboard to Headlamp: Understanding the Transition",
-   "link": "https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/",
-   "date": "2026-06-01T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "For many people, Kubernetes Dashboard was their first window into Kubernetes. It offered a simple visual way to see what was running in a cluster, inspect resources, and build confidence without relying on the command li",
-   "image": "https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/view-workloads-resources-2.png"
   }
  ]
 }
