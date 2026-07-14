@@ -1,85 +1,175 @@
 {
- "generatedAt": "2026-07-14T12:22:01.883Z",
+ "generatedAt": "2026-07-14T18:15:23.897Z",
  "articles": [
   {
-   "title": "I Built an Autonomous Vehicle Analytics Platform (Solo) — Here's What I Learned",
-   "link": "https://dev.to/le_beltagy_fa95916e758817/i-built-an-autonomous-vehicle-analytics-platform-solo-heres-what-i-learned-1c0g",
-   "date": "2026-07-14T12:13:11.000Z",
+   "title": "Sauvegardes WordPress automatiques sans plugin payant : guide technique 2026",
+   "link": "https://dev.to/wpadminlab/sauvegardes-wordpress-automatiques-sans-plugin-payant-guide-technique-2026-2epi",
+   "date": "2026-07-14T18:11:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I Built an Autonomous Vehicle Analytics Platform (Solo) — Here's What I Learned And why I'm open-sourcing it all. It started simple: What if one person could build a real-time analytics platform for autonomous vehicles? ",
+   "summary": "Cet article a été publié à l'origine sur WP Admin Lab, le journal du web technique en français. La sauvegarde WordPress est le filet de sécurité contre lequel tous les autres investissements en sécurité viennent s'appuye",
    "image": null
   },
   {
-   "title": "Interactive containers and exec: get inside, run commands, get out",
-   "link": "https://dev.to/fj_palacios/interactive-containers-and-exec-get-inside-run-commands-get-out-19me",
-   "date": "2026-07-14T12:02:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Up until now, you've been treating containers like vending machines: put in a coin, take the snack, walk away. That's fine for learning the basics, but the moment something breaks in a real environment — and it will — yo",
+   "title": "Quoting Armin Ronacher",
+   "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+   "date": "2026-07-14T18:04:23.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has th",
    "image": null
   },
   {
-   "title": "The Complete 90-Day DevOps Roadmap I Wish Existed When I Started (Free, No Signup)",
-   "link": "https://dev.to/opscanopy/the-complete-90-day-devops-roadmap-i-wish-existed-when-i-started-free-no-signup-2eki",
-   "date": "2026-07-14T12:00:00.000Z",
+   "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+   "link": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
+   "date": "2026-07-14T17:54:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I once watched a developer breeze through three Docker courses and then freeze solid the first time a real container crashed. Tutorials teach commands. Incidents teach engineers. Every DevOps roadmap I found when I start",
+   "summary": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting and reliability of HashiCorp Nomad? Meet Gubernator (or gbnt), a \"Goldilocks\" container orchestrator written in Go. In th",
    "image": null
   },
   {
-   "title": "How to Use LLMs for Code Review Automation",
-   "link": "https://dev.to/qingluan/how-to-use-llms-for-code-review-automation-39de",
-   "date": "2026-07-14T11:52:17.000Z",
+   "title": "Your docs don't rot because you're lazy",
+   "link": "https://dev.to/jkballa/your-docs-dont-rot-because-youre-lazy-1bok",
+   "date": "2026-07-14T17:44:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Use LLMs for Code Review Automation How to Use LLMs for Code Review Automation (And Actually Trust the Results) You’ve just spent three hours writing a feature, and you’re ready to merge. But then you see the drea",
+   "summary": "Every stale doc has the same origin story. The code changed. The docs didn't. And the reason isn't laziness. It's distance. When docs live far from your code, updating them is a separate task with its own friction. You h",
    "image": null
   },
   {
-   "title": "Build a Kubernetes Pod Autoscaler with Python",
-   "link": "https://dev.to/qingluan/build-a-kubernetes-pod-autoscaler-with-python-58le",
-   "date": "2026-07-14T11:51:56.000Z",
+   "title": "7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days",
+   "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-9-ai-agents-auto-recovered-in-34-days-37am",
+   "date": "2026-07-14T17:41:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a Kubernetes Pod Autoscaler with Python Imagine your Python app is suddenly hit with a traffic spike that doubles in seconds. Your server slows, users complain, and you’re manually scaling pods in a panic. That’s t",
+   "summary": "7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days No SRE rotation. No human infrastructure dashboards. Just 9 autonomous agents running on 2 CPU cores and 3.6GB RAM, operating a real physical fitness studio",
    "image": null
   },
   {
-   "title": "A Practical Guide to Financial Analytics for Microsoft Dynamics 365",
-   "link": "https://dev.to/kpi-partners/a-practical-guide-to-financial-analytics-for-microsoft-dynamics-365-542b",
-   "date": "2026-07-14T11:46:59.000Z",
+   "title": "How to Get JetBrains Air & Run Claude Code / AI Agents for FREE (Windows Guide)",
+   "link": "https://dev.to/codesetuplab/how-to-get-jetbrains-air-run-claude-code-ai-agents-for-free-windows-guide-20ol",
+   "date": "2026-07-14T17:40:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Financial reporting tells an organization what happened. Financial analytics helps it understand why it happened and what may happen next. Microsoft Dynamics 365 Finance records detailed operational and accounting inform",
+   "summary": "Whether you want to build entire applications from scratch or refactor legacy codebases, running autonomous AI agents is the new standard. The brand-new JetBrains Air agentic development environment has officially droppe",
    "image": null
   },
   {
-   "title": "Why Your AI API Bill Keeps Growing: The Real Fix Is Smarter Routing",
-   "link": "https://dev.to/shunli_li_83f1456fcbbbdc5/why-your-ai-api-bill-keeps-growing-the-real-fix-is-smarter-routing-107i",
-   "date": "2026-07-14T11:42:07.000Z",
+   "title": "🔥 DevOps Open Agent now supports Linux Performance Debugging🔥",
+   "link": "https://dev.to/lakhera2015/devops-open-agent-now-supports-linux-performance-debugging-4f73",
+   "date": "2026-07-14T17:35:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your AI API bill is climbing faster than your user growth. The reason isn't model prices (though those matter) - it's routing. Most teams send every request to the same premium model, regardless of complexity. A simple t",
+   "summary": "I'm more than happy to announce a feature I've been working on for quite some time. With the new Performance Debugging agent, you can: It's designed for how DevOps and SRE teams actually work, open source, self-hostable,",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsgzo2mjxr1xg2ecpp12j.png"
+  },
+  {
+   "title": "Node Drain Emails That Ops Teams Can Trust",
+   "link": "https://dev.to/jasonmills94/node-drain-emails-that-ops-teams-can-trust-1een",
+   "date": "2026-07-14T17:24:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Planned node drains are one of those ops tasks that look routine until a maintenance email goes missing. The cluster keeps running, the autoscaling group still behaves, and everyone assumes the team got notified because ",
    "image": null
   },
   {
-   "title": "Is a Pod the right deployment unit for an AI agent?",
-   "link": "https://dev.to/rasne/is-a-pod-the-right-deployment-unit-for-an-ai-agent-11an",
-   "date": "2026-07-14T11:30:38.000Z",
+   "title": "Hi everyone! 👋\nI'm on a journey to become a DevOps engineer, and my goal is to land my first DevOps role by this time next year. I'm committed to learning and growing every day. Any words of encouragement or advice would mean a lot. 🙏",
+   "link": "https://dev.to/ozigis_abdulbaaqi_a3fc299/hi-everyone-im-on-a-journey-to-become-a-devops-engineer-and-my-goal-is-to-land-my-first-devops-5bhn",
+   "date": "2026-07-14T17:14:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: Is a Pod the right deployment unit for an AI agent? — read the full article on rasne.dev. When we first started building kagent, we didn’t run every agent in its own Kubernetes Pod, Service, and ServiceAccount",
+   "summary": "",
    "image": null
+  },
+  {
+   "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+   "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+   "date": "2026-07-14T16:52:37.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg"
+  },
+  {
+   "title": "The Drop Times: Bert Boerland Makes Drupal Sustainability the Focus of Board Candidacy",
+   "link": "https://www.thedroptimes.com/interview/71139/bert-boerland-makes-drupal-sustainability-focus-board-candidacy?utm_source=Drupal Planet",
+   "date": "2026-07-14T14:14:06.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Boerland links his board candidacy to a question now facing Drupal: how the project can expand institutional support without narrowing the path for contributors, local communities, and site owners.",
+   "image": null
+  },
+  {
+   "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+   "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+   "date": "2026-07-14T13:48:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg"
+  },
+  {
+   "title": "DSLs Enable Reliable Use of LLMs",
+   "link": "https://martinfowler.com/articles/llm-and-dsls.html",
+   "date": "2026-07-14T12:51:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from",
+   "image": null
+  },
+  {
+   "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+   "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+   "date": "2026-07-14T12:46:18.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif"
+  },
+  {
+   "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+   "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+   "date": "2026-07-14T11:55:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
+  },
+  {
+   "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+   "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+   "date": "2026-07-14T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: sca",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
+  },
+  {
+   "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+   "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+   "date": "2026-07-14T11:21:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and va",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB1bLC9cna7xlnvFdK0hUnsi8jeo6E7jMh20nj4XTvsF9ogpjbnlPCxx9QYQ1O2aS7JiSDQi4swIRNG6-Xjg2TGR4bn4Zn-KBkjsLTYcKUrXOD-rlGu4XYsvRx06eRqrT4duW0xwklKeYjZvRV1VSarJBKldBzN4DNhkWudVCGRdKPi9uVGrqEwL66mz5/s1600/OAuth-ClientID.jpg"
   },
   {
    "title": "Specbee: How Drupal support & maintenance services can keep your site secure, fast, and future-ready",
@@ -112,26 +202,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhseKXQcobfKfQC4K6ja7LMDD4ntr9cnmn_88cEPY7jw6wbmiy0p_0xup5NyNrvKHvN4gm2Y1gT4P9kn_FV0ogJEsN6hQ0Dal0xqZgWMNW0mHfrUtnxDkm0FjIN13xxH2_mCkBIVcQeEAK8j2w46HuvE5yv8W6MIsj5VQP37keKQBdHeF2NU-ujhcdaLwdE/s1600/sanctions.jpg"
   },
   {
-   "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
-   "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-   "date": "2026-07-14T07:08:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from JFrog. The packages did n",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJ1TN76Et1GvWFCTaivnNcys4rEEVk1QEd6WIb0wu3cxroYcwng-0a0uM8eyHdrOuiHLU8lFJg5eFzSbZj95aEfXVnletlFE9BKsDJP_0uV4w9-YbHg7p9LuMyRMcj4rJPftYmIYCcD3_VmbgFrGuaJ6yqUuJgIvVtbqlNUPrkJO2FSuFQ6dJ7gzKFV0/s1600/lucide-botnet.jpg"
-  },
-  {
-   "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-   "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-   "date": "2026-07-14T06:19:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg"
-  },
-  {
    "title": "Hans-Juergen Schoenig: How SQL/PGQ Rewrites to Joins on PostgreSQL 19",
    "link": "https://postgr.es/p/9pC",
    "date": "2026-07-14T05:00:40.000Z",
@@ -140,6 +210,16 @@
    "source": "Planet PostgreSQL",
    "summary": "This post is about what PostgreSQL actually does when you write GRAPH_TABLE syntax. It turns out the database rewrites your graph query into ordinary joins against the underlying tables, then plans them with the regular ",
    "image": null
+  },
+  {
+   "title": "Laravel Quota: Usage Budgets for Calendar Periods",
+   "link": "https://laravel-news.com/laravel-quota-usage-budgets-for-calendar-periods?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-14T01:59:49.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "A Laravel package that tracks and enforces cumulative usage limits across calendar periods, with a fluent API, an Eloquent trait, route middleware, and cache or database storage. The post Laravel Quota: Usage Budgets for",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-quota-featured.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: escape_string_warning",
@@ -192,6 +272,16 @@
    "image": null
   },
   {
+   "title": "New SymfonyCasts Course: Upgrading to Symfony 8",
+   "link": "https://symfony.com/blog/new-symfonycasts-course-upgrading-to-symfony-8?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-13T19:40:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "One of Symfony's greatest strengths is its upgrade process. Thanks to the backward compatibility promise and deprecation system, major upgrades are smooth, predictable, and, dare I say it, enjoyable! Our newest tutorial ",
+   "image": null
+  },
+  {
    "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
    "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
    "date": "2026-07-13T18:00:00.000Z",
@@ -212,24 +302,14 @@
    "image": null
   },
   {
-   "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-   "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-   "date": "2026-07-13T17:36:12.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleSc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZ5yNN1gA3Yzt-6i1sekVk3AFnHGEpas31-UowjFTXB9Rj4DhkS8H4cqjr655w9HCDKZIzcRAqn1NvLSmPLs_-oDDYpCteWgGlkUIpuyMkPIeXnfgxKCYRG54K8oV0j4vVaWj928DfJBsYJzR98e5BuZDp5OmoeFtDubZ90Qnz0a7G9VmukCII5kVE3rQ/s1600/macos-malware-1.jpg"
-  },
-  {
-   "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-   "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-   "date": "2026-07-13T17:17:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSvBtzUXyAbjgtvPJVS9zZ29ULkaIs0fMMa53ZKSip2pJbZ7_HMTGn3SV27X28JLwaq9atS1B_jvH_7qgfsjW0wyVDV_jGyqFSyO-z_vHuoigCy14xfb7DKuuWGIMUVeLiOhnap1yICNPEC2OUkA0d_e8RXtPs7oTo3BAz9I2DTxRwg67vgObResLQ7c4/s1600/browser-edge.jpg"
+   "title": "International PHP Conference Munich 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
+   "date": "2026-07-13T17:01:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
+   "image": null
   },
   {
    "title": "Droptica: Drupal Paragraphs tutorial, part 2: variants, responsive design, spacing, and admin UX",
@@ -270,26 +350,6 @@
    "source": "Planet PostgreSQL",
    "summary": "On 2 July, 2026, the PostgreSQL Istanbul Meetup met for the first time, organized by Devrim Gündüz, Gülçin Yıldırım Jelínek & Bilge Korkmaz Erdim. Speakers: Viktoriia Hrechukha Pavlo Golub On 2 July 2026, the PostgreSQL ",
    "image": null
-  },
-  {
-   "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-   "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-   "date": "2026-07-13T15:05:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCIplQpj7CGra4jEeX4qO6DfR9_OazwL_c55clD60cy9pWK42qAsCmqrwe0YBUmPq0cg_6Gt52VlqoOGuigf4qwI8lazIdogbl8pjBDfprTbktGn96fxMbtCh06kyGFF9qCXg9PgMhSXu8V02QBxTmBArc-84ZI3jXwmoDQdj-SCp-_JY7z5XqrQR2IlP/s1600/monday-recap.jpg"
-  },
-  {
-   "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-   "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-   "date": "2026-07-13T13:49:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pk3JKY3zis-iTRVKpcttwfy-GP-gEzPE_NQQpqDEaMvVs65uqa3v_dG7pD_DmZWLHcwBQzjFtTYqob5wWSgO2F-0-KkwZaahqTUpGP1xbvyifaf2UnMDzI8j9pnP9EWyARmN2SHHl0eBo4UszZx3VZvicjU_MMFOEA8sjcLvzBFzAkNeFg3GIR2yncA/s1600/memghost.jpg"
   },
   {
    "title": "Jimmy Angelakos: PostgresEDI July 2026 Meetup — Public Speaking, AI Compliance",
@@ -442,16 +502,6 @@
    "image": null
   },
   {
-   "title": "sqlite-utils 4.1",
-   "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-   "date": "2026-07-11T23:50:20.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago , introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Pytho",
-   "image": null
-  },
-  {
    "title": "The Drop Times: Mike Gifford: Accessibility Must Move Upstream in Public-Sector Open Source",
    "link": "https://www.thedroptimes.com/interview/70981/gifford-accessibility-upstream-open-source?utm_source=Drupal Planet",
    "date": "2026-07-10T14:22:37.000Z",
@@ -459,16 +509,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Accessibility failures often surface after budgets, architecture, and delivery plans are already fixed. Mike Gifford argues that public agencies can reduce that pattern by contributing fixes upstream.",
-   "image": null
-  },
-  {
-   "title": "Acquia.com - Drupal Blog: Vibe Coding Drupal: AI as a Reasoning Partner",
-   "link": "https://www.acquia.com/blog/vibe-coding-drupal-ai-reasoning-partner",
-   "date": "2026-07-10T13:49:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Discover how to leverage AI as a reasoning partner in Drupal development, moving beyond coding to high-level architecture and system design.",
    "image": null
   },
   {
@@ -530,16 +570,6 @@
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/php-version-stats-july-2026",
    "image": null
-  },
-  {
-   "title": "AI Review for Laravel Upgrades",
-   "link": "https://laravel-news.com/ai-review-laravel-upgrade?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-08T19:27:09.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Introducing a built-in AI Review of your Shift. Providing a second pass on your upgrade, guided by Shift's detailed comments combined with AI's context. The post AI Review for Laravel Upgrades appeared first on Laravel N",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/photo_2026-07-08 15.20.08.jpeg"
   },
   {
    "title": "Data for Agents",
@@ -952,16 +982,6 @@
    "image": null
   },
   {
-   "title": "Symfony 7.4.14 released",
-   "link": "https://symfony.com/blog/symfony-7-4-14-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-06-27T09:17:06.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 7.4.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "Open source maintainership in the age of AI",
    "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
    "date": "2026-06-26T18:00:00.000Z",
@@ -1139,16 +1159,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whet",
-   "image": null
-  },
-  {
-   "title": "Laracon US 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-06-01-1",
-   "date": "2026-06-01T16:50:29.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join Laravel and PHP developers from around the world for two days of world-class talks, hands-on learning, and community connection. Come ready to level up, leave ready to ship. Plus an after party, VIP dinner, and are ",
    "image": null
   }
  ]
