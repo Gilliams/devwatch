@@ -1,85 +1,225 @@
 {
- "generatedAt": "2026-07-15T12:40:35.651Z",
+ "generatedAt": "2026-07-15T18:18:32.720Z",
  "articles": [
   {
-   "title": "Migrating from CA AutoSys Doesn't Have to Be Painful.",
-   "link": "https://dev.to/unmeshed/migrating-from-ca-autosys-doesnt-have-to-be-painful-55ig",
-   "date": "2026-07-15T12:30:15.000Z",
+   "title": "7 Infrastructure Bugs Our AI Agents Auto-Recovered in 34 Days — The Full Breakdown",
+   "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-ai-agents-auto-recovered-in-34-days-the-full-breakdown-2eo5",
+   "date": "2026-07-15T18:04:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "It’s Time to Rethink Your Scheduler If you're still managing workflows with CA AutoSys, it is time to flip the traditional model. AutoSys, originally built by CA Technologies and now owned by Broadcom, was designed in a ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frualuosj0n8q27m5zryl.png"
-  },
-  {
-   "title": "The Everything-on-Your-Branch Architecture",
-   "link": "https://dev.to/devopsdaily/the-everything-on-your-branch-architecture-g1f",
-   "date": "2026-07-15T12:27:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Database branching is one of the best ideas serverless Postgres brought to the mainstream. Fork the database at a point in time, get an isolated copy with all the data, run something risky against it, throw it away. It m",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd03d49nhdv257e07uf50.png"
-  },
-  {
-   "title": "How to Secure Your Linux Server in 10 Steps",
-   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-jkb",
-   "date": "2026-07-15T12:05:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
+   "summary": "7 Bugs, 34 Days, Zero Human SRE Over a 34-day pre-launch sprint (June 7–July 11), our 9-agent autonomous system encountered and auto-recovered from 7 distinct infrastructure bugs. No SRE rotation. No human infrastructure",
    "image": null
   },
   {
-   "title": "DevOps Isn’t Just for Ops",
-   "link": "https://dev.to/fabiosarmento/devops-isnt-just-for-ops-677",
-   "date": "2026-07-15T12:04:01.000Z",
+   "title": "mtime is not a claim",
+   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/mtime-is-not-a-claim-36en",
+   "date": "2026-07-15T18:01:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DevOps is a mindset, not just a process for operations teams. Developers should embrace it too! Collaboration and shared responsibility drive success.",
+   "summary": "There are 54 files in ~/.mesh/knowledge on this machine. Each one is a capability sweep — a $ ls capability-gaps-*.md | wc -l 54 $ ls capability-gaps-*.md | grep -oE '2026-?[0-9]{2}-?[0-9]{2}' | tr -d - | sort | sed -n '",
    "image": null
   },
   {
-   "title": "Why I Recommend Alibaba Cloud ECS for Developers in 2026",
-   "link": "https://dev.to/fan_li_ee7d84c6203253d041/why-i-recommend-alibaba-cloud-ecs-for-developers-in-2026-2c47",
-   "date": "2026-07-15T12:03:49.000Z",
+   "title": "The API docs pipeline that runs itself (week 1 recap)",
+   "link": "https://dev.to/jkballa/the-api-docs-pipeline-that-runs-itself-week-1-recap-5ok",
+   "date": "2026-07-15T17:46:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why I Recommend Alibaba Cloud ECS for Developers in 2026 As a developer who has tested multiple cloud providers, I want to share my experience with Alibaba Cloud Elastic Compute Service (ECS). Global Infrastructure: 84 a",
+   "summary": "One week in. Let's connect the dots, because the tools are useful alone but the real win is chaining them. Here's the pipeline: You build and test an endpoint. You verify it with cURL. You run that through cURL to Markdo",
    "image": null
   },
   {
-   "title": "Auto-Fix is not the Problem. The Signal is the Problem.",
-   "link": "https://dev.to/bala_paranj_059d338e44e7e/auto-fix-is-not-the-problem-the-signal-is-the-problem-1lh0",
-   "date": "2026-07-15T11:59:33.000Z",
+   "title": "Every developer's laptop is a pile of plaintext secrets.",
+   "link": "https://dev.to/menit/every-developers-laptop-is-a-pile-of-plaintext-secrets-56ih",
+   "date": "2026-07-15T17:44:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. Harry Wetherald (Maze) makes a case against auto-fixing vulnerabilities: most findings are false positives, every code or cloud change carries risk. So ",
+   "summary": "Run this: cat ~/.cache/huggingface/token That's your Hugging Face token. Plaintext. In a cache folder the kind that ends up in backups, rsyncs, and Docker COPYs. jit 0.8.2 fixes it in one command:▎ jit wrap hf Token vaul",
+   "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg"
+  },
+  {
+   "title": "Would You Ship a Codebase Rewritten Entirely by Agents?",
+   "link": "https://dev.to/sedai/would-you-ship-a-codebase-rewritten-entirely-by-agents-1p6e",
+   "date": "2026-07-15T17:41:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The team behind Bun ported 535,000 lines of Zig to Rust in 11 days, with one engineer, 64 Claude agents running in parallel, roughly $165,000 in API costs, and compiler errors treated as a distributed work queue. The por",
    "image": null
   },
   {
-   "title": "I replayed 5 years of git history into SigNoz. It silently drops any span older than 15 days.",
-   "link": "https://dev.to/kanurkarprateek/i-replayed-5-years-of-git-history-into-signoz-it-silently-drops-any-span-older-than-15-days-57hb",
-   "date": "2026-07-15T11:58:08.000Z",
+   "title": "Shadow IT Management: Frameworks & Hidden Risks (+ Checklist)",
+   "link": "https://dev.to/rasne/shadow-it-management-frameworks-hidden-risks-checklist-71k",
+   "date": "2026-07-15T17:30:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The plan was simple: turn every pull request in SigNoz's own repo into a trace, so I could Then I sent seven spans. All seven came back 200 partialSuccess:{}. Four of This is the three hours I spent finding out why, the ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7v5s6o6irjcad281vqkx.png"
+   "summary": "Canonical: Shadow IT Management: Frameworks & Hidden Risks (+ Checklist) — read the full article on rasne.dev. Shadow IT creates risk and cost leakage. Portainer gives IT visibility, control, and governance across hidden",
+   "image": null
   },
   {
-   "title": "## Bonsai 27B: A 27‑billion‑parameter model on a phone",
-   "link": "https://dev.to/atheerium/-bonsai-27b-a-27-billion-parameter-model-on-a-phone-2o56",
-   "date": "2026-07-15T11:45:07.000Z",
+   "title": "What building Shippy taught us about building agents",
+   "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+   "date": "2026-07-15T17:29:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Model Routing Is Simple. Until It Isn’t.",
+   "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+   "date": "2026-07-15T17:27:01.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Supabase Backups Don't Include Your Storage Files. Here's What Does.",
+   "link": "https://dev.to/superlede/supabase-backups-dont-include-your-storage-files-heres-what-does-14e9",
+   "date": "2026-07-15T17:20:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Bonsai 27B: A 27‑billion‑parameter model on a phone Bonsai 27B is a new language model with 27 billion parameters. It can run directly on a smartphone without cloud servers. The model fits in the device’s memory and uses",
+   "summary": "The restore finished clean. pg_restore exited 0, every table came back, row counts matched, the app booted. Twenty minutes later the first support message arrived: profile pictures were broken. Then the PDFs. Then every ",
    "image": null
+  },
+  {
+   "title": "Four Instances, Two Data Centers, One Bug: When Redundancy Isn't Independence",
+   "link": "https://dev.to/kkierii/four-instances-two-data-centers-one-bug-when-redundancy-isnt-independence-3dl8",
+   "date": "2026-07-15T17:10:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Four instances of the core service. Two physically separate data centers. And a single operating-system defect degraded the whole thing across an entire state anyway. That's the one-line version of Pennsylvania's statewi",
+   "image": null
+  },
+  {
+   "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+   "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+   "date": "2026-07-15T15:30:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes fr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz558IbCLKi1RAJRcX_tLnJrGR3xjXSXfBJHnREqKc0aTs9Ie67rKN6xRHDV4g6JNByEH5Vr-x-14HOK8dSKj_B6HFn303OMiFrpr2wHf9PNUONqlUPn8IdMzr9QoZB9uWq14ElryYTydVAUXNeCARv-cN7KMmmwfb9FpMw_NCDIk8faF6QlSboXey08/s1600/seed.jpg"
+  },
+  {
+   "title": "Centarro: Let Shoppers Change Their Minds Without Leaving the Cart",
+   "link": "https://www.centarro.io/blog/let-shoppers-change-their-minds-without-leaving-cart",
+   "date": "2026-07-15T15:03:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Checkout is fragile. Every extra step between \"I want this\" and \"order placed\" is an opportunity for a shopper to abandon their cart entirely. And one of the most common moments of hesitation happens when a buyer realize",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-15T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new ",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/1-scaled.png?resize=2560%2C1606&#038;ssl=1"
+  },
+  {
+   "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+   "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+   "date": "2026-07-15T14:33:53.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A behind-the-scenes look at how multiple animation, rendering, and interaction layers were unified into one performant web experience.",
+   "image": null
+  },
+  {
+   "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+   "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+   "date": "2026-07-15T14:21:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design. To recap: r",
+   "image": null
+  },
+  {
+   "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+   "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+   "date": "2026-07-15T13:18:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript:",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg"
+  },
+  {
+   "title": "PostgreSQL Meta Commands that save time every day",
+   "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
+   "date": "2026-07-15T12:44:13.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a57c1c5173c2031998888/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
+  },
+  {
+   "title": "Jimmy Angelakos: LISTEN Carefully: How NOTIFY Can Trip Up Your Database",
+   "link": "https://postgr.es/p/9pH",
+   "date": "2026-07-15T12:37:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "POSETTE: An Event for Postgres 2026 is an online event for PostgreSQL, brought to us by the Postgres team at Microsoft, which took place on June 16-18, 2026. I'll always have a soft spot for in-person conferences, but PO",
+   "image": "https://vyruss.org/blog/feeds/images/listen_notify.jpg"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #561 - The Aaron Winborn Award",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-561-the-aaron-winborn-award",
+   "date": "2026-07-15T12:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Aaron Winborn, The award named after him, and what winning is like with guests George DeMet & April Sides. We'll also cover Summit as our module of the week. For show notes visit: https://www.t",
+   "image": null
+  },
+  {
+   "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+   "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+   "date": "2026-07-15T11:50:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applicatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5qXcxZFGTQiQ1Sb-SHAyKnjOmjdz1fA1FEFMLTVXd7Xcyr9aSptzafuOwTnzCkzHCqZCOV-z_tPKKeoeS6Rd2kYWtAL_IWTRXFaZkr8V371LH2Rbq0JHlLwCbkuhO_D-hRv73LHSQgEW9tfI9Oxj9jmh9ROMZLOAZFZztDH1qzHvO2uc7EO6AlxPh8Cl/s1600/island.jpg"
+  },
+  {
+   "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+   "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+   "date": "2026-07-15T11:07:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of pr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvtiVnhkF-YVsPEXyedqj9REY5pN1-KiSsf-rCeXK5yClGbAcsL1Tg7-9UDDA8VQg5RbM0uWkV23rDxqiFFIJ2RkpkY6cn90-5LPbZOC2oktF7_3FjD5La_FGkYdVBEKeXMJGiGRZfPvxmMBXd99tncWdEZ4HxX62hbxmWEnA02eu-LSVwZtmecjuykqDb/s1600/windows-0day.jpg"
+  },
+  {
+   "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+   "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+   "date": "2026-07-15T11:06:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approva",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYTg22vVssJ3SSHZzP0PtS8d5g8oCH2fU2IkXoBoIPOR4-XblNQ7Hg6S-qkO6bIB9JLC3yI4QdpQ4iNWsQsu9QnMpNbHdHzwHhRyX0zr-Vklk2DaCe3UlOd8M53pp5Uu_mfds265f_MsrF_RaQ-lnPEc3b5UoIVsTIV-On5qJ9DqMpk05AsKM3FhlgtXV/s1600/ref.jpg"
   },
   {
    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
@@ -162,6 +302,46 @@
    "image": null
   },
   {
+   "title": "Laravel Legacy Bridge: Carry Authenticated Sessions from a Legacy App into Laravel",
+   "link": "https://laravel-news.com/laravel-legacy-bridge-carry-authenticated-sessions-from-a-legacy-app-into-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-15T00:29:25.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Legacy Bridge reads a legacy PHP session cookie, decodes the payload, and logs the matching user into Laravel, so users mid-migration don't hit a second login prompt. The post Laravel Legacy Bridge: Carry Authent",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Legacy-Bridge-LN.png"
+  },
+  {
+   "title": "First-Party Image Processing in Laravel 13.20",
+   "link": "https://laravel-news.com/laravel-13-20-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-15T00:24:23.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.20.0 introduces an Image facade for resizing, converting, and storing images, along with a WithoutMiddleware controller attribute, a separate Redis session prefix, and quiet bulk increment methods on Eloquent.",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Does the frontend still need build tools?",
+   "link": "https://frontendfoc.us/issues/750",
+   "date": "2026-07-15T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​750 — July 15, 2026 | Read on the web Do We Still Need Build Tools for Frontend Dev? — A feature-by-feature audit of what build tools still do for us in 2026. Vendor prefixing and ES5 transpiling are ",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xakvproho361uhrwln0e.jpg"
+  },
+  {
+   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+   "link": "https://huggingface.co/blog/real-world-voiceeq",
+   "date": "2026-07-15T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Quoting GitHub Changelog",
    "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
    "date": "2026-07-14T22:43:35.000Z",
@@ -180,16 +360,6 @@
    "source": "Simon Willison",
    "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then lear",
    "image": null
-  },
-  {
-   "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-   "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-   "date": "2026-07-14T20:25:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg"
   },
   {
    "title": "Regina Obe: Replacing pgAgent with pg_timetable: Part 2 - Installing pg_timetable as a service in Linux",
@@ -212,16 +382,6 @@
    "image": null
   },
   {
-   "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-   "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-   "date": "2026-07-14T18:17:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-4474",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg"
-  },
-  {
    "title": "Quoting Armin Ronacher",
    "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
    "date": "2026-07-14T18:04:23.000Z",
@@ -242,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-   "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-   "date": "2026-07-14T17:27:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a r",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg"
-  },
-  {
    "title": "Matt Glaman: phpstan-drupal 2.1.0: stricter defaults",
    "link": "https://mglaman.dev/blog/phpstan-drupal-210-stricter-defaults?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
    "date": "2026-07-14T17:00:00.000Z",
@@ -260,16 +410,6 @@
    "source": "Drupal Planet",
    "summary": "phpstan-drupal 2.1.0 is out. The theme of this release: rules and behaviors that proved themselves as opt-ins are now the defaults. If you run `composer update` and see new errors, that is the release working as intended",
    "image": null
-  },
-  {
-   "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-   "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-   "date": "2026-07-14T16:52:37.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg"
   },
   {
    "title": "datasette 1.0a37",
@@ -300,16 +440,6 @@
    "source": "Drupal Planet",
    "summary": "Boerland links his board candidacy to a question now facing Drupal: how the project can expand institutional support without narrowing the path for contributors, local communities, and site owners.",
    "image": null
-  },
-  {
-   "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-   "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-   "date": "2026-07-14T13:48:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg"
   },
   {
    "title": "DSLs Enable Reliable Use of LLMs",
@@ -352,16 +482,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Canonical Report Flags Open Source Supply Chain Gaps",
-   "link": "https://www.thedroptimes.com/70990/canonical-open-source-supply-chain-gaps?utm_source=Drupal Planet",
-   "date": "2026-07-14T09:33:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal site security rarely stops at core and module updates. Canonical’s survey shows why package provenance, Linux maintenance, and patch ownership remain part of delivery risk.",
-   "image": null
-  },
-  {
    "title": "Hans-Juergen Schoenig: How SQL/PGQ Rewrites to Joins on PostgreSQL 19",
    "link": "https://postgr.es/p/9pC",
    "date": "2026-07-14T05:00:40.000Z",
@@ -370,16 +490,6 @@
    "source": "Planet PostgreSQL",
    "summary": "This post is about what PostgreSQL actually does when you write GRAPH_TABLE syntax. It turns out the database rewrites your graph query into ordinary joins against the underlying tables, then plans them with the regular ",
    "image": null
-  },
-  {
-   "title": "Droptica: Multi-audience website, part 1: information architecture and navigation in Drupal",
-   "link": "https://www.droptica.com/blog/multi-audience-website-part-1-information-architecture-and-navigation-drupal/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-07-14T04:55:36.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "One website, three completely different visitors. The hardest part of a multi-audience site is not building it - it is making sure each group finds its path without tripping over everyone else's. Part 1 of this Drupal gu",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Multi-audience%20website%20IA%20%26%20navigation%20in%20Drupal_1.png"
   },
   {
    "title": "Laravel Quota: Usage Budgets for Calendar Periods",
@@ -419,16 +529,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data? The re",
-   "image": null
-  },
-  {
-   "title": "datasette code-frequency chart on GitHub",
-   "link": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
-   "date": "2026-07-13T21:45:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is th",
    "image": null
   },
   {
@@ -532,16 +632,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Uvora-LN.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_tidscan",
-   "link": "https://postgr.es/p/9po",
-   "date": "2026-07-13T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "TID scans only happen when you explicitly ask for them via `ctid`, making `enable_tidscan` a knob you'll almost certainly never touch.",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1019 (July 6–12, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1019-july-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-12T07:33:00.000Z",
@@ -570,16 +660,6 @@
    "source": "Codrops",
    "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
    "image": null
-  },
-  {
-   "title": "Passwordless Sign-In with Fortify Two-Factor Support in Laravel",
-   "link": "https://laravel-news.com/passwordless-sign-in-with-fortify-two-factor-support-in-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-10T02:34:29.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "A Laravel package that adds magic link and one-time code authentication, with a two-factor handoff to Fortify and links that email scanners can't burn. The post Passwordless Sign-In with Fortify Two-Factor Support in Lar",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/email-magic-link-featured.png"
   },
   {
    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
@@ -650,16 +730,6 @@
    "source": "Codrops",
    "summary": "The story behind \"Ten Years Away\", a scroll-driven interactive comic created to celebrate Studio375's tenth anniversary, from its printed origins to its WebGL implementation.",
    "image": null
-  },
-  {
-   "title": "Intercept: Middleware Guardrails for Laravel AI Agents",
-   "link": "https://laravel-news.com/intercept-middleware-guardrails-for-laravel-ai-agents?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-08T02:59:57.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Intercept is a set of drop-in middleware for the Laravel AI SDK that filters prompts for injection attempts and PII before they reach a provider. The post Intercept: Middleware Guardrails for Laravel AI Agents appeared f",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Intercept-LN.png"
   },
   {
    "title": "Edge gets started on CSS mixins",
@@ -769,36 +839,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
-   "image": null
-  },
-  {
-   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-   "link": "https://huggingface.co/blog/skypilot-hf-storage",
-   "date": "2026-07-07T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-   "link": "https://huggingface.co/blog/lerobot-release-v060",
-   "date": "2026-07-07T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "PRX Part 4: Our Data Strategy",
-   "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-   "date": "2026-07-06T15:30:55.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -952,16 +992,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
-   "title": "Community Docker Images: keeping the operator open without a vendor registry lock-in",
-   "link": "https://www.percona.com/blog/postgresql-community-images-operator/",
-   "date": "2026-06-30T14:09:35.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "PostgreSQL community images address a real gap in how a Kubernetes database operator earns your trust. Running a database operator on Kubernetes means trusting two things: the code, and the container images the operator ",
-   "image": "https://www.percona.com/wp-content/uploads/2026/06/MDES-1088-Blog-image-Percona-Operator-for-PostgreSQL-V3.0.0-hero-1-1024x375.jpg"
-  },
-  {
    "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
    "link": "https://css-tricks.com/whats-important-14/",
    "date": "2026-06-30T13:54:14.000Z",
@@ -970,16 +1000,6 @@
    "source": "CSS-Tricks",
    "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
-  },
-  {
-   "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
-   "link": "https://tympanus.net/codrops/2026/06/30/building-persistent-page-transitions-with-webgpu-and-vanilla-javascript/",
-   "date": "2026-06-30T09:35:41.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A step-by-step tutorial showing how to build seamless GPU-powered page transitions by combining a persistent WebGPU scene, DOM tracking, and a lightweight vanilla JavaScript router.",
-   "image": null
   },
   {
    "title": "The Shifting Line Between CSS States and JavaScript Events",
@@ -1090,26 +1110,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​747 — June 24, 2026 | Read on the web Modern CSS Theming with light-dark(), contrast-color(), and Style Queries — Get dark mode, automatic readable text, and per-component palettes, all from a single ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/g8kuyjhhkl9o8cmpbaqx.jpg"
-  },
-  {
-   "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-   "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-   "date": "2026-06-22T12:39:13.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page. CodePen Embed Fall",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/scrolling-parent-column-margin.webp?resize=1937%2C1244&#038;ssl=1"
-  },
-  {
-   "title": "The scope superpower hiding in CSS @function",
-   "link": "https://frontendfoc.us/issues/746",
-   "date": "2026-06-17T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​746 — June 17, 2026 | Read on the web Introducing the MDN MCP Server — Bring MDN’s docs and browser compatibility data straight into an AI agent or IDE for accurate, up-to-date answers about the web p",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/uqqo8fwjphal6xmofqme.jpg"
   },
   {
    "title": "Fragments: June 16",
