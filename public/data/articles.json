@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-07-15T07:22:56.063Z",
+ "generatedAt": "2026-07-15T12:40:35.651Z",
  "articles": [
   {
-   "title": "Turn Google DeepMind's AI Control Roadmap Into Five Agent Security Tests",
-   "link": "https://dev.to/jaryn_123/turn-google-deepminds-ai-control-roadmap-into-five-agent-security-tests-69n",
-   "date": "2026-07-15T07:13:12.000Z",
+   "title": "Migrating from CA AutoSys Doesn't Have to Be Painful.",
+   "link": "https://dev.to/unmeshed/migrating-from-ca-autosys-doesnt-have-to-be-painful-55ig",
+   "date": "2026-07-15T12:30:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Google DeepMind published its AI Control Roadmap on June 18, 2026. The useful shift is from asking whether a model is aligned to asking whether the whole system remains safe when a capable agent is imperfect. That is the",
+   "summary": "It’s Time to Rethink Your Scheduler If you're still managing workflows with CA AutoSys, it is time to flip the traditional model. AutoSys, originally built by CA Technologies and now owned by Broadcom, was designed in a ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frualuosj0n8q27m5zryl.png"
+  },
+  {
+   "title": "The Everything-on-Your-Branch Architecture",
+   "link": "https://dev.to/devopsdaily/the-everything-on-your-branch-architecture-g1f",
+   "date": "2026-07-15T12:27:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Database branching is one of the best ideas serverless Postgres brought to the mainstream. Fork the database at a point in time, get an isolated copy with all the data, run something risky against it, throw it away. It m",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd03d49nhdv257e07uf50.png"
+  },
+  {
+   "title": "How to Secure Your Linux Server in 10 Steps",
+   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-jkb",
+   "date": "2026-07-15T12:05:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
    "image": null
   },
   {
-   "title": "Terraform Cloudflare DNS Checklist Before Every Apply",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m",
-   "date": "2026-07-15T07:01:44.000Z",
+   "title": "DevOps Isn’t Just for Ops",
+   "link": "https://dev.to/fabiosarmento/devops-isnt-just-for-ops-677",
+   "date": "2026-07-15T12:04:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud One misconfigured proxied flag in a terraform cloudflare dns config can silently take down staging SSH or VPN access — nobody notices until someone tries to connect and gets a timeo",
+   "summary": "DevOps is a mindset, not just a process for operations teams. Developers should embrace it too! Collaboration and shared responsibility drive success.",
    "image": null
   },
   {
-   "title": "Refurbished Dell PowerEdge vs Refurbished HPE ProLiant: Which Server Is Better?",
-   "link": "https://dev.to/ustradesupplies/refurbished-dell-poweredge-vs-refurbished-hpe-proliant-which-server-is-better-5gp8",
-   "date": "2026-07-15T07:00:01.000Z",
+   "title": "Why I Recommend Alibaba Cloud ECS for Developers in 2026",
+   "link": "https://dev.to/fan_li_ee7d84c6203253d041/why-i-recommend-alibaba-cloud-ecs-for-developers-in-2026-2c47",
+   "date": "2026-07-15T12:03:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Do you need a strong computer for your business? A big company needs a big helper. That helper is called a server. A server is like a super computer. It holds all your files. It runs your apps. It keeps your work safe. B",
+   "summary": "Why I Recommend Alibaba Cloud ECS for Developers in 2026 As a developer who has tested multiple cloud providers, I want to share my experience with Alibaba Cloud Elastic Compute Service (ECS). Global Infrastructure: 84 a",
    "image": null
   },
   {
-   "title": "AI Agent Failure Modes: The 6 Ways Our Multi-Agent Team Broke in Production",
-   "link": "https://dev.to/tryoneteam/ai-agent-failure-modes-the-6-ways-our-multi-agent-team-broke-in-production-3df1",
-   "date": "2026-07-15T06:47:41.000Z",
+   "title": "Auto-Fix is not the Problem. The Signal is the Problem.",
+   "link": "https://dev.to/bala_paranj_059d338e44e7e/auto-fix-is-not-the-problem-the-signal-is-the-problem-1lh0",
+   "date": "2026-07-15T11:59:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most \"why AI agents fail\" posts are really about infrastructure — logging, cost, deploy pipelines. We already wrote that one: the operational part nobody warns you about covers observability, runaway spend, and fleet man",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffas7vewmrmzodhqx71cl.png"
-  },
-  {
-   "title": "Hetzner was cheaper at every size I tested and I still chose managed Postgres",
-   "link": "https://dev.to/mjmirza/hetzner-was-cheaper-at-every-size-i-tested-and-i-still-chose-managed-postgres-6k2",
-   "date": "2026-07-15T06:43:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Twelve pricing tabs open. Neon, Hetzner, Supabase, Prisma, Scaleway, OVH. My database is half a gigabyte. I was comparing ten-terabyte price curves. At some point this week I typed the words \"I am super lost here\" about ",
+   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. Harry Wetherald (Maze) makes a case against auto-fixing vulnerabilities: most findings are false positives, every code or cloud change carries risk. So ",
    "image": null
   },
   {
-   "title": "What Reddit Taught Me About My Azure Infra Generator (In One Day)",
-   "link": "https://dev.to/muthu_kumarmurugaiyan_23/what-reddit-taught-me-about-my-azure-infra-generator-in-one-day-3fi2",
-   "date": "2026-07-15T06:29:58.000Z",
+   "title": "I replayed 5 years of git history into SigNoz. It silently drops any span older than 15 days.",
+   "link": "https://dev.to/kanurkarprateek/i-replayed-5-years-of-git-history-into-signoz-it-silently-drops-any-span-older-than-15-days-57hb",
+   "date": "2026-07-15T11:58:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I built a tool called LaunchStack that turns a short wizard into a full production-ready Azure stack — Terraform modules, Helm charts, CI/CD pipelines, monitoring dashboards, the works. No more starting every project's i",
+   "summary": "The plan was simple: turn every pull request in SigNoz's own repo into a trace, so I could Then I sent seven spans. All seven came back 200 partialSuccess:{}. Four of This is the three hours I spent finding out why, the ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7v5s6o6irjcad281vqkx.png"
+  },
+  {
+   "title": "## Bonsai 27B: A 27‑billion‑parameter model on a phone",
+   "link": "https://dev.to/atheerium/-bonsai-27b-a-27-billion-parameter-model-on-a-phone-2o56",
+   "date": "2026-07-15T11:45:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bonsai 27B: A 27‑billion‑parameter model on a phone Bonsai 27B is a new language model with 27 billion parameters. It can run directly on a smartphone without cloud servers. The model fits in the device’s memory and uses",
    "image": null
   },
   {
-   "title": "The Best AI Model Is Usually the Wrong Question",
-   "link": "https://dev.to/sarahpan/the-best-ai-model-is-usually-the-wrong-question-1koh",
-   "date": "2026-07-15T06:25:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The more AI becomes part of ordinary product infrastructure, the less sensible it feels to treat a single model as a permanent foundation. Models will keep improving. Prices will keep moving. New providers will keep appe",
+   "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+   "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+   "date": "2026-07-15T10:55:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s1600/git.png"
+  },
+  {
+   "title": "BloomIdea: Dynamic Multibanco references in Drupal Commerce: Commerce ifthenpay 3.0 has arrived",
+   "link": "https://bloomidea.com/en/blog/dynamic-multibanco-references-drupal-commerce-commerce-ifthenpay-30-has-arrived",
+   "date": "2026-07-15T10:47:08.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "In 2018 we released Commerce ifthenpay, the module that brought Multibanco references to Drupal Commerce. Seven years later, we are publishing version 3.0.0: the module's biggest evolution since then, with dynamic Multib",
    "image": null
   },
   {
-   "title": "Day 79 – Materialized CTEs in ClickHouse® 26.3",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-78-materialized-ctes-in-clickhouser-263-4ho1",
-   "date": "2026-07-15T06:25:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "ClickHouse® 26.3 introduced Materialized Common Table Expressions (CTEs), a feature designed to reduce redundant computations by executing a CTE once and allowing multiple parts of a query to reuse the same intermediate ",
-   "image": null
+   "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+   "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+   "date": "2026-07-15T09:16:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are l",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXEluWW9TuNGlzu9wVHSDBzAeUuoRS9Om8kX9yzH-HwCjggh-N5ycLyuJ82oY3MP4Uvf9yF_PqwKhcZepDBEH_pOb3td4dPRuuGSWi5XndfpeuqiMipzKIq0Vofc-hOBGj4nWxmXbjMS7RvHkZCUSHloOpsS6m7jpwwFX-2KUkYwrQdt-ClrGXpt2C9TxC/s1600/async-npm.jpg"
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: The first 4 speakers are live! 🔥",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-first-4-speakers-are-live?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-15T08:00:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "SymfonyCon Warsaw 2026, our next annual international Symfony conference, will take place on: November 24 & 25 with two days of hands-on workshops to learn, practice, and enhance your skills in small groups. November 26 ",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
+  },
+  {
+   "title": "Symfony UX 3.3.0 released",
+   "link": "https://symfony.com/blog/symfony-ux-3-3-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-15T06:17:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony UX 3.3.0 is out. This release brings first-class support for Symfony Reprise in StimulusBundle, two new Shadcn components for the Toolkit (Sonner and Combobox), and a batch of quality-of-life improvements to the ",
+   "image": "https://github.com/Kocal.png"
   },
   {
    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
@@ -272,16 +322,6 @@
    "image": null
   },
   {
-   "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-   "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-   "date": "2026-07-14T12:46:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif"
-  },
-  {
    "title": "Jimmy Angelakos: LinkedIn Live: Fixing Bad SQL in PostgreSQL with Jimmy Angelakos",
    "link": "https://postgr.es/p/9pD",
    "date": "2026-07-14T12:37:00.000Z",
@@ -300,16 +340,6 @@
    "source": "Drupal Planet",
    "summary": "Getting each audience to the right section is only half the job. The harder part is making the experience feel personal and routing every visitor to the right form without a maze of options. Part 2 of this Drupal guide c",
    "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Content%20personalization%20in%20Drupal%20journeys%20%26%20forms_1.png"
-  },
-  {
-   "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-   "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-   "date": "2026-07-14T11:55:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
   },
   {
    "title": "Specbee: How Drupal support & maintenance services can keep your site secure, fast, and future-ready",
@@ -429,16 +459,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
-   "image": null
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #560 - Content Sync",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-560-content-sync",
-   "date": "2026-07-13T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Content, syndication, and Synchronization between Drupal Sites with guest Thiemo Müller. We'll also cover Drupal core 11.4 as our module of the week. For show notes visit: https://www.talkingDr",
    "image": null
   },
   {
@@ -669,6 +689,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "PHP Tek 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
+   "date": "2026-07-07T16:47:27.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
    "image": null
   },
   {
@@ -972,26 +1002,6 @@
    "image": null
   },
   {
-   "title": "Symfony 8.1.1 released",
-   "link": "https://symfony.com/blog/symfony-8-1-1-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-06-27T09:31:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.1 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 8.0.14 released",
-   "link": "https://symfony.com/blog/symfony-8-0-14-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-06-27T09:28:05.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.0.14 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "Open source maintainership in the age of AI",
    "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
    "date": "2026-06-26T18:00:00.000Z",
@@ -1139,16 +1149,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.7 Released!",
-   "link": "https://www.php.net/index.php#2026-06-04-1",
-   "date": "2026-06-04T14:05:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.7. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.7 please visit our , Win",
    "image": null
   },
   {
