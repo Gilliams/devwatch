@@ -1,18 +1,118 @@
 {
- "generatedAt": "2026-07-15T00:02:55.466Z",
+ "generatedAt": "2026-07-15T07:22:56.063Z",
  "articles": [
   {
-   "title": "How to Secure Your Linux Server in 10 Steps",
-   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-g77",
-   "date": "2026-07-14T23:01:50.000Z",
+   "title": "Turn Google DeepMind's AI Control Roadmap Into Five Agent Security Tests",
+   "link": "https://dev.to/jaryn_123/turn-google-deepminds-ai-control-roadmap-into-five-agent-security-tests-69n",
+   "date": "2026-07-15T07:13:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
+   "summary": "Google DeepMind published its AI Control Roadmap on June 18, 2026. The useful shift is from asking whether a model is aligned to asking whether the whole system remains safe when a capable agent is imperfect. That is the",
    "image": null
   },
   {
-   "title": "Quoting GitHub Changeling",
+   "title": "Terraform Cloudflare DNS Checklist Before Every Apply",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m",
+   "date": "2026-07-15T07:01:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud One misconfigured proxied flag in a terraform cloudflare dns config can silently take down staging SSH or VPN access — nobody notices until someone tries to connect and gets a timeo",
+   "image": null
+  },
+  {
+   "title": "Refurbished Dell PowerEdge vs Refurbished HPE ProLiant: Which Server Is Better?",
+   "link": "https://dev.to/ustradesupplies/refurbished-dell-poweredge-vs-refurbished-hpe-proliant-which-server-is-better-5gp8",
+   "date": "2026-07-15T07:00:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Do you need a strong computer for your business? A big company needs a big helper. That helper is called a server. A server is like a super computer. It holds all your files. It runs your apps. It keeps your work safe. B",
+   "image": null
+  },
+  {
+   "title": "AI Agent Failure Modes: The 6 Ways Our Multi-Agent Team Broke in Production",
+   "link": "https://dev.to/tryoneteam/ai-agent-failure-modes-the-6-ways-our-multi-agent-team-broke-in-production-3df1",
+   "date": "2026-07-15T06:47:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most \"why AI agents fail\" posts are really about infrastructure — logging, cost, deploy pipelines. We already wrote that one: the operational part nobody warns you about covers observability, runaway spend, and fleet man",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffas7vewmrmzodhqx71cl.png"
+  },
+  {
+   "title": "Hetzner was cheaper at every size I tested and I still chose managed Postgres",
+   "link": "https://dev.to/mjmirza/hetzner-was-cheaper-at-every-size-i-tested-and-i-still-chose-managed-postgres-6k2",
+   "date": "2026-07-15T06:43:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Twelve pricing tabs open. Neon, Hetzner, Supabase, Prisma, Scaleway, OVH. My database is half a gigabyte. I was comparing ten-terabyte price curves. At some point this week I typed the words \"I am super lost here\" about ",
+   "image": null
+  },
+  {
+   "title": "What Reddit Taught Me About My Azure Infra Generator (In One Day)",
+   "link": "https://dev.to/muthu_kumarmurugaiyan_23/what-reddit-taught-me-about-my-azure-infra-generator-in-one-day-3fi2",
+   "date": "2026-07-15T06:29:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I built a tool called LaunchStack that turns a short wizard into a full production-ready Azure stack — Terraform modules, Helm charts, CI/CD pipelines, monitoring dashboards, the works. No more starting every project's i",
+   "image": null
+  },
+  {
+   "title": "The Best AI Model Is Usually the Wrong Question",
+   "link": "https://dev.to/sarahpan/the-best-ai-model-is-usually-the-wrong-question-1koh",
+   "date": "2026-07-15T06:25:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The more AI becomes part of ordinary product infrastructure, the less sensible it feels to treat a single model as a permanent foundation. Models will keep improving. Prices will keep moving. New providers will keep appe",
+   "image": null
+  },
+  {
+   "title": "Day 79 – Materialized CTEs in ClickHouse® 26.3",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-78-materialized-ctes-in-clickhouser-263-4ho1",
+   "date": "2026-07-15T06:25:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "ClickHouse® 26.3 introduced Materialized Common Table Expressions (CTEs), a feature designed to reduce redundant computations by executing a CTE once and allowing multiple parts of a query to reuse the same intermediate ",
+   "image": null
+  },
+  {
+   "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+   "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+   "date": "2026-07-15T05:30:21.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnera",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg"
+  },
+  {
+   "title": "Inside MySQL 9.7 LTS Features",
+   "link": "https://www.percona.com/blog/inside-mysql-9-7-lts-features/",
+   "date": "2026-07-15T05:00:23.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "MySQL 9.7, a Long-Term Support (LTS) release, incorporates a variety of potential features spanning across multiple technical domains. This article covers some of the primary features introduced and evaluates their pract",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: event_source",
+   "link": "https://postgr.es/p/9pF",
+   "date": "2026-07-15T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Windows PostgreSQL logs messages to the Event Log under a name you choose with `event_source`—but Windows won't understand that name until you register it with…",
+   "image": null
+  },
+  {
+   "title": "Quoting GitHub Changelog",
    "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
    "date": "2026-07-14T22:43:35.000Z",
    "theme": "ia",
@@ -29,76 +129,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then lear",
-   "image": null
-  },
-  {
-   "title": "Master os-taxonomy in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-3nj0",
-   "date": "2026-07-14T22:27:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours manually categorizing my project's dependencies, only to realize I could have automated it in just 5 minutes with os-taxonomy. You'll build a fully functional os-taxonomy integratio",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier",
-   "link": "https://dev.to/rasne/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier-6f4",
-   "date": "2026-07-14T22:00:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Canonical: KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier — read the full article on rasne.dev. The countdown is officially on. In just a few weeks, the cloud-native ecosystem meets in Yokoh",
-   "image": null
-  },
-  {
-   "title": "Why Browser Test Reliability Is Now a Product Decision, Not Just a Framework Decision",
-   "link": "https://dev.to/randomsquirrel802/why-browser-test-reliability-is-now-a-product-decision-not-just-a-framework-decision-1p9",
-   "date": "2026-07-14T21:28:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For a long time, teams treated browser test reliability as a framework problem. When tests failed, the usual response was to change selectors, add waits, increase retries, or replace one automation library with another. ",
-   "image": null
-  },
-  {
-   "title": "From Zero to Hero: Securing Your App Like a Jedi Master",
-   "link": "https://dev.to/timevolt/from-zero-to-hero-securing-your-app-like-a-jedi-master-1dpo",
-   "date": "2026-07-14T21:16:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The “Why”) I still remember the first time I pushed a side‑project to a public repo and felt that weird mix of pride and dread. The app worked, users were signing up, and then I got a Slack ping at 2 a.",
-   "image": null
-  },
-  {
-   "title": "How to Secure Your Linux Server in 10 Steps",
-   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-538e",
-   "date": "2026-07-14T21:00:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
-   "image": null
-  },
-  {
-   "title": "Your monitoring cannot tell broken from off. Mine could not either.",
-   "link": "https://dev.to/levelsofself/your-monitoring-cannot-tell-broken-from-off-mine-could-not-either-3oid",
-   "date": "2026-07-14T20:56:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your monitoring cannot tell broken from off. Mine could not either. I run 33 processes. Agents, bridges, workers, a payment layer. Last week I opened my own system health check and found it screaming about a critical fai",
-   "image": null
-  },
-  {
-   "title": "The Ansible Playbook that will Harden Your VPS",
-   "link": "https://dev.to/wadethomastt/the-ansible-playbook-that-will-harden-your-vps-in-seconds-49ca",
-   "date": "2026-07-14T20:44:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ansible Playbooks — Automate VPS Hardening, User Creation & Removal Introduction In this post I'm sharing 3 Ansible playbooks I use to manage my VPS servers. I won't go into great detail on tasks here — if you're new to ",
    "image": null
   },
   {
@@ -149,6 +179,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has th",
+   "image": null
+  },
+  {
+   "title": "Building a Custom Metrics Exporter for Kubernetes",
+   "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
+   "date": "2026-07-14T18:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
    "image": null
   },
   {
@@ -252,6 +292,16 @@
    "image": "https://vyruss.org/blog/feeds/images/linkedinlive.png"
   },
   {
+   "title": "Droptica: Content personalization in Drupal, part 2: journeys and smart forms for multiple audiences",
+   "link": "https://www.droptica.com/blog/content-personalization-drupal-part-2-journeys-and-smart-forms-multiple-audiences/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-07-14T12:36:39.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Getting each audience to the right section is only half the job. The harder part is making the experience feel personal and routing every visitor to the right form without a maze of options. Part 2 of this Drupal guide c",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Content%20personalization%20in%20Drupal%20journeys%20%26%20forms_1.png"
+  },
+  {
    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
    "date": "2026-07-14T11:55:00.000Z",
@@ -260,16 +310,6 @@
    "source": "The Hacker News",
    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk t",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
-  },
-  {
-   "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-   "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-   "date": "2026-07-14T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: sca",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
   },
   {
    "title": "Specbee: How Drupal support & maintenance services can keep your site secure, fast, and future-ready",
@@ -300,6 +340,16 @@
    "source": "Planet PostgreSQL",
    "summary": "This post is about what PostgreSQL actually does when you write GRAPH_TABLE syntax. It turns out the database rewrites your graph query into ordinary joins against the underlying tables, then plans them with the regular ",
    "image": null
+  },
+  {
+   "title": "Droptica: Multi-audience website, part 1: information architecture and navigation in Drupal",
+   "link": "https://www.droptica.com/blog/multi-audience-website-part-1-information-architecture-and-navigation-drupal/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-07-14T04:55:36.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "One website, three completely different visitors. The hardest part of a multi-audience site is not building it - it is making sure each group finds its path without tripping over everyone else's. Part 1 of this Drupal gu",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Multi-audience%20website%20IA%20%26%20navigation%20in%20Drupal_1.png"
   },
   {
    "title": "Laravel Quota: Usage Budgets for Calendar Periods",
@@ -402,26 +452,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Drupal Paragraphs tutorial, part 2: variants, responsive design, spacing, and admin UX",
-   "link": "https://www.droptica.com/blog/drupal-paragraphs-tutorial-part-2-variants-responsive-design-spacing-and-admin-ux/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-07-13T16:25:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This is the second and final part of a two-part guide to building a component-based corporate website with Drupal Paragraphs. Turn the bare components from part 1 into a flexible, production-grade library with color vari",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20Paragraphs%20tutorial%2C%20part%202%20variants%2C%20responsive%20design%2C%20spacing%2C%20and%20admin%20UX_0.png"
-  },
-  {
-   "title": "The Drop Times: Drupal Governance, Security, and Automation Updates",
-   "link": "https://www.thedroptimes.com/newsletter/drupal-governance-security-automation-updates?utm_source=Drupal Planet",
-   "date": "2026-07-13T16:11:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Recent Drupal news fits inside a wider question Dries Buytaert raised in his blog post, License-only versus Stewarded Open Source: what turns code that is merely available into infrastructure people can depend on? The di",
-   "image": null
-  },
-  {
    "title": "Fragments: July 13",
    "link": "https://martinfowler.com/fragments/2026-07-13.html",
    "date": "2026-07-13T16:06:00.000Z",
@@ -489,16 +519,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "TID scans only happen when you explicitly ask for them via `ctid`, making `enable_tidscan` a knob you'll almost certainly never touch.",
-   "image": null
-  },
-  {
-   "title": "Pavlo Golub: Swiss PgDay 2026 [UNLOGGED]",
-   "link": "https://postgr.es/p/9pA",
-   "date": "2026-07-13T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "We at CYBERTEC usually spend a lot of time producing polished community documentaries, but sometimes you just want to push the raw data straight to the output. Welcome to the UNLOGGED experiment for Swiss PgDay 2026! In ",
    "image": null
   },
   {
@@ -912,7 +932,7 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/06/MDES-1088-Blog-image-Percona-Operator-for-PostgreSQL-V3.0.0-hero-1-1024x375.jpg"
   },
   {
-   "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
    "link": "https://css-tricks.com/whats-important-14/",
    "date": "2026-06-30T13:54:14.000Z",
    "theme": "frontend",
@@ -920,16 +940,6 @@
    "source": "CSS-Tricks",
    "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
    "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
-  },
-  {
-   "title": "Debugging with Ephemeral Containers",
-   "link": "https://www.percona.com/blog/debugging-with-ephemeral-containers/",
-   "date": "2026-06-30T13:52:25.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Debugging applications in Kubernetes can be tricky. Containers are designed to be small, immutable, and purpose-built. That is great for production, but not always ideal when something breaks. Many production images are ",
-   "image": null
   },
   {
    "title": "Building Persistent Page Transitions with WebGPU and Vanilla JavaScript",
@@ -1060,16 +1070,6 @@
    "source": "CSS-Tricks",
    "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane translate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
    "image": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/a8e040142716a4b44d014d80fbcf99c635b1d8faabfe469b6954a8ef2f168595.jpg?resize=80%2C80&#038;ssl=1"
-  },
-  {
-   "title": "Spotlight on WG Device Management",
-   "link": "https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/",
-   "date": "2026-06-24T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This inclu",
-   "image": null
   },
   {
    "title": "CSS that picks its own readable text color",
