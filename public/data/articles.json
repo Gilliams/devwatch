@@ -1,15 +1,145 @@
 {
- "generatedAt": "2026-07-14T18:15:23.897Z",
+ "generatedAt": "2026-07-15T00:02:55.466Z",
  "articles": [
   {
-   "title": "Sauvegardes WordPress automatiques sans plugin payant : guide technique 2026",
-   "link": "https://dev.to/wpadminlab/sauvegardes-wordpress-automatiques-sans-plugin-payant-guide-technique-2026-2epi",
-   "date": "2026-07-14T18:11:46.000Z",
+   "title": "How to Secure Your Linux Server in 10 Steps",
+   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-g77",
+   "date": "2026-07-14T23:01:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cet article a été publié à l'origine sur WP Admin Lab, le journal du web technique en français. La sauvegarde WordPress est le filet de sécurité contre lequel tous les autres investissements en sécurité viennent s'appuye",
+   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
    "image": null
+  },
+  {
+   "title": "Quoting GitHub Changeling",
+   "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+   "date": "2026-07-14T22:43:35.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; Gi",
+   "image": null
+  },
+  {
+   "title": "simonw/pedalican",
+   "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+   "date": "2026-07-14T22:29:45.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then lear",
+   "image": null
+  },
+  {
+   "title": "Master os-taxonomy in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-os-taxonomy-in-5-mins-3nj0",
+   "date": "2026-07-14T22:27:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week I spent 3 hours manually categorizing my project's dependencies, only to realize I could have automated it in just 5 minutes with os-taxonomy. You'll build a fully functional os-taxonomy integratio",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier",
+   "link": "https://dev.to/rasne/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier-6f4",
+   "date": "2026-07-14T22:00:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier — read the full article on rasne.dev. The countdown is officially on. In just a few weeks, the cloud-native ecosystem meets in Yokoh",
+   "image": null
+  },
+  {
+   "title": "Why Browser Test Reliability Is Now a Product Decision, Not Just a Framework Decision",
+   "link": "https://dev.to/randomsquirrel802/why-browser-test-reliability-is-now-a-product-decision-not-just-a-framework-decision-1p9",
+   "date": "2026-07-14T21:28:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For a long time, teams treated browser test reliability as a framework problem. When tests failed, the usual response was to change selectors, add waits, increase retries, or replace one automation library with another. ",
+   "image": null
+  },
+  {
+   "title": "From Zero to Hero: Securing Your App Like a Jedi Master",
+   "link": "https://dev.to/timevolt/from-zero-to-hero-securing-your-app-like-a-jedi-master-1dpo",
+   "date": "2026-07-14T21:16:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The “Why”) I still remember the first time I pushed a side‑project to a public repo and felt that weird mix of pride and dread. The app worked, users were signing up, and then I got a Slack ping at 2 a.",
+   "image": null
+  },
+  {
+   "title": "How to Secure Your Linux Server in 10 Steps",
+   "link": "https://dev.to/qingluan/how-to-secure-your-linux-server-in-10-steps-538e",
+   "date": "2026-07-14T21:00:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How to Secure Your Linux Server in 10 Steps Introduction How to Secure Your Linux Server in 10 Steps is essential knowledge for every developer. Start with the basics Practice regularly Build real projects Share your kno",
+   "image": null
+  },
+  {
+   "title": "Your monitoring cannot tell broken from off. Mine could not either.",
+   "link": "https://dev.to/levelsofself/your-monitoring-cannot-tell-broken-from-off-mine-could-not-either-3oid",
+   "date": "2026-07-14T20:56:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your monitoring cannot tell broken from off. Mine could not either. I run 33 processes. Agents, bridges, workers, a payment layer. Last week I opened my own system health check and found it screaming about a critical fai",
+   "image": null
+  },
+  {
+   "title": "The Ansible Playbook that will Harden Your VPS",
+   "link": "https://dev.to/wadethomastt/the-ansible-playbook-that-will-harden-your-vps-in-seconds-49ca",
+   "date": "2026-07-14T20:44:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ansible Playbooks — Automate VPS Hardening, User Creation & Removal Introduction In this post I'm sharing 3 Ansible playbooks I use to manage my VPS servers. I won't go into great detail on tasks here — if you're new to ",
+   "image": null
+  },
+  {
+   "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+   "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+   "date": "2026-07-14T20:25:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg"
+  },
+  {
+   "title": "Regina Obe: Replacing pgAgent with pg_timetable: Part 2 - Installing pg_timetable as a service in Linux",
+   "link": "https://postgr.es/p/9pE",
+   "date": "2026-07-14T20:07:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "As stated in Part 1, pgAgent is going away, so I'm focussing on setting up pg_timetable as similar to pgAgent that I can. For this second part, I'm going to go over how to configure pg_timetable as a service on Linux. A ",
+   "image": null
+  },
+  {
+   "title": "lobste.rs is now running on SQLite",
+   "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+   "date": "2026-07-14T19:44:11.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. Th",
+   "image": null
+  },
+  {
+   "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+   "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+   "date": "2026-07-14T18:17:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-4474",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg"
   },
   {
    "title": "Quoting Armin Ronacher",
@@ -22,73 +152,23 @@
    "image": null
   },
   {
-   "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
-   "link": "https://dev.to/gde/building-a-hybrid-docker-orchestrator-in-go-the-journey-from-single-vm-to-multi-node-cluster-3i7m",
-   "date": "2026-07-14T17:54:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What if you could combine the native simplicity of Docker Compose with the decentralized targeting and reliability of HashiCorp Nomad? Meet Gubernator (or gbnt), a \"Goldilocks\" container orchestrator written in Go. In th",
-   "image": null
+   "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+   "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+   "date": "2026-07-14T17:27:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a r",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg"
   },
   {
-   "title": "Your docs don't rot because you're lazy",
-   "link": "https://dev.to/jkballa/your-docs-dont-rot-because-youre-lazy-1bok",
-   "date": "2026-07-14T17:44:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every stale doc has the same origin story. The code changed. The docs didn't. And the reason isn't laziness. It's distance. When docs live far from your code, updating them is a separate task with its own friction. You h",
-   "image": null
-  },
-  {
-   "title": "7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days",
-   "link": "https://dev.to/zwiserfit/7-infrastructure-bugs-our-9-ai-agents-auto-recovered-in-34-days-37am",
-   "date": "2026-07-14T17:41:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "7 Infrastructure Bugs Our 9 AI Agents Auto-Recovered in 34 Days No SRE rotation. No human infrastructure dashboards. Just 9 autonomous agents running on 2 CPU cores and 3.6GB RAM, operating a real physical fitness studio",
-   "image": null
-  },
-  {
-   "title": "How to Get JetBrains Air & Run Claude Code / AI Agents for FREE (Windows Guide)",
-   "link": "https://dev.to/codesetuplab/how-to-get-jetbrains-air-run-claude-code-ai-agents-for-free-windows-guide-20ol",
-   "date": "2026-07-14T17:40:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Whether you want to build entire applications from scratch or refactor legacy codebases, running autonomous AI agents is the new standard. The brand-new JetBrains Air agentic development environment has officially droppe",
-   "image": null
-  },
-  {
-   "title": "🔥 DevOps Open Agent now supports Linux Performance Debugging🔥",
-   "link": "https://dev.to/lakhera2015/devops-open-agent-now-supports-linux-performance-debugging-4f73",
-   "date": "2026-07-14T17:35:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I'm more than happy to announce a feature I've been working on for quite some time. With the new Performance Debugging agent, you can: It's designed for how DevOps and SRE teams actually work, open source, self-hostable,",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsgzo2mjxr1xg2ecpp12j.png"
-  },
-  {
-   "title": "Node Drain Emails That Ops Teams Can Trust",
-   "link": "https://dev.to/jasonmills94/node-drain-emails-that-ops-teams-can-trust-1een",
-   "date": "2026-07-14T17:24:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Planned node drains are one of those ops tasks that look routine until a maintenance email goes missing. The cluster keeps running, the autoscaling group still behaves, and everyone assumes the team got notified because ",
-   "image": null
-  },
-  {
-   "title": "Hi everyone! 👋\nI'm on a journey to become a DevOps engineer, and my goal is to land my first DevOps role by this time next year. I'm committed to learning and growing every day. Any words of encouragement or advice would mean a lot. 🙏",
-   "link": "https://dev.to/ozigis_abdulbaaqi_a3fc299/hi-everyone-im-on-a-journey-to-become-a-devops-engineer-and-my-goal-is-to-land-my-first-devops-5bhn",
-   "date": "2026-07-14T17:14:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "",
+   "title": "Matt Glaman: phpstan-drupal 2.1.0: stricter defaults",
+   "link": "https://mglaman.dev/blog/phpstan-drupal-210-stricter-defaults?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
+   "date": "2026-07-14T17:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "phpstan-drupal 2.1.0 is out. The theme of this release: rules and behaviors that proved themselves as opt-ins are now the defaults. If you run `composer update` and see new errors, that is the release working as intended",
    "image": null
   },
   {
@@ -100,6 +180,26 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg"
+  },
+  {
+   "title": "datasette 1.0a37",
+   "link": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+   "date": "2026-07-14T16:31:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break. Tags: ",
+   "image": null
+  },
+  {
+   "title": "Nonprofit Drupal posts: July 2026 Drupal for Nonprofits Chat",
+   "link": "https://www.drupal.org/community/nonprofit-drupal/blog/july-2026-drupal-for-nonprofits-chat",
+   "date": "2026-07-14T15:49:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Join us THURSDAY, July 16 at 1pm ET / 10am PT, for our regularly scheduled call to chat about all things Drupal and nonprofits. (Convert to your local time zone.) We don't have anything specific on the agenda this month,",
+   "image": null
   },
   {
    "title": "The Drop Times: Bert Boerland Makes Drupal Sustainability the Focus of Board Candidacy",
@@ -142,6 +242,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif"
   },
   {
+   "title": "Jimmy Angelakos: LinkedIn Live: Fixing Bad SQL in PostgreSQL with Jimmy Angelakos",
+   "link": "https://postgr.es/p/9pD",
+   "date": "2026-07-14T12:37:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Back on Friday, April 3rd, I ran a live, hands-on LinkedIn Live session on fixing bad SQL in PostgreSQL. My apologies for the delay in sharing the recording: for various reasons I couldn't post it earlier, but here it is",
+   "image": "https://vyruss.org/blog/feeds/images/linkedinlive.png"
+  },
+  {
    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
    "date": "2026-07-14T11:55:00.000Z",
@@ -162,16 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg"
   },
   {
-   "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-   "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-   "date": "2026-07-14T11:21:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and va",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmB1bLC9cna7xlnvFdK0hUnsi8jeo6E7jMh20nj4XTvsF9ogpjbnlPCxx9QYQ1O2aS7JiSDQi4swIRNG6-Xjg2TGR4bn4Zn-KBkjsLTYcKUrXOD-rlGu4XYsvRx06eRqrT4duW0xwklKeYjZvRV1VSarJBKldBzN4DNhkWudVCGRdKPi9uVGrqEwL66mz5/s1600/OAuth-ClientID.jpg"
-  },
-  {
    "title": "Specbee: How Drupal support & maintenance services can keep your site secure, fast, and future-ready",
    "link": "https://www.specbee.com/blogs/how-drupal-support-maintenance-services-can-keep-your-site-secure-fast-future-ready",
    "date": "2026-07-14T11:09:35.000Z",
@@ -182,24 +282,14 @@
    "image": null
   },
   {
-   "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-   "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-   "date": "2026-07-14T09:02:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCYpkCY1h-DxV5yfxpkGspVFATaUS27q_vpRgQ2ebzGvc6YgSsYk81jDt3SkJQgxVCL8dWJqzDE3t6iUt4ceeTvA9LG8Z9cA65uBXC05Lkdv1xKLNBMH88dTa_6XCet3a0wf1VwfyxQsx_1AKc3lmHCxqiZHKTfvk9kJqvo0i15biGekBijFPNN16JHBM/s1600/grok.jpg"
-  },
-  {
-   "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
-   "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
-   "date": "2026-07-14T08:02:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including r",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhseKXQcobfKfQC4K6ja7LMDD4ntr9cnmn_88cEPY7jw6wbmiy0p_0xup5NyNrvKHvN4gm2Y1gT4P9kn_FV0ogJEsN6hQ0Dal0xqZgWMNW0mHfrUtnxDkm0FjIN13xxH2_mCkBIVcQeEAK8j2w46HuvE5yv8W6MIsj5VQP37keKQBdHeF2NU-ujhcdaLwdE/s1600/sanctions.jpg"
+   "title": "The Drop Times: Canonical Report Flags Open Source Supply Chain Gaps",
+   "link": "https://www.thedroptimes.com/70990/canonical-open-source-supply-chain-gaps?utm_source=Drupal Planet",
+   "date": "2026-07-14T09:33:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal site security rarely stops at core and module updates. Canonical’s survey shows why package provenance, Linux maintenance, and patch ownership remain part of delivery risk.",
+   "image": null
   },
   {
    "title": "Hans-Juergen Schoenig: How SQL/PGQ Rewrites to Joins on PostgreSQL 19",
@@ -382,26 +472,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Drupal Paragraphs tutorial, part 1: planning architecture and base types",
-   "link": "https://www.droptica.com/blog/drupal-paragraphs-tutorial-part-1-planning-architecture-and-base-types/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-07-13T07:56:29.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This is part 1 of a two-part guide to building a component-based corporate website with Drupal Paragraphs. By the end of the series you'll have a library of 10-12 universal paragraph types with style variants, responsive",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20Paragraphs%20tutorial%2C%20part%201%20planning%20architecture%20and%20base%20types_1.png"
-  },
-  {
-   "title": "DrupalCon News & Updates: AI in Drupal: from experimentation to real impact",
-   "link": "https://events.drupal.org/rotterdam2026/news/ai-drupal-experimentation-real-impact",
-   "date": "2026-07-13T07:52:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "At DrupalCon Rotterdam 2026, AI takes its place at the heart of how modern Drupal platforms are built, integrated, and scaled. The Development, AI & Agentic Architecture track puts that front and centre—focusing on compl",
-   "image": null
-  },
-  {
    "title": "Uvora: A macOS Menu Bar App for Finding Laravel Projects",
    "link": "https://laravel-news.com/uvora-a-macos-menu-bar-app-for-finding-laravel-projects?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-13T04:31:15.000Z",
@@ -432,56 +502,6 @@
    "image": null
   },
   {
-   "title": "Directly Responsible Individuals (DRI)",
-   "link": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
-   "date": "2026-07-12T23:57:14.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to de",
-   "image": null
-  },
-  {
-   "title": "shot-scraper 1.11",
-   "link": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
-   "date": "2026-07-12T23:46:52.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: shot-scraper 1.11 Some minor improvements, mainly around command option consistency and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if the server takes longer than a ",
-   "image": null
-  },
-  {
-   "title": "Fable gets another bump",
-   "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-   "date": "2026-07-12T21:20:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable",
-   "image": null
-  },
-  {
-   "title": "sqlite-utils 4.1.1",
-   "link": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-   "date": "2026-07-12T20:55:30.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-utils 4.1.1 Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE. table.transform() now raises a TransactionError if",
-   "image": null
-  },
-  {
-   "title": "Radim Marek: The tests passed. The plan didn't.",
-   "link": "https://postgr.es/p/9pn",
-   "date": "2026-07-12T18:16:01.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "TL;DR - RegreSQL 1.0 tested that your queries return the right rows. 2.0 tests that they return them the right way, and it does the checking against production's real statistics instead of your empty dev database, which ",
-   "image": "https://boringsql.com/images/posts/regresql-demo.svg"
-  },
-  {
    "title": "A Week of Symfony #1019 (July 6–12, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1019-july-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-12T07:33:00.000Z",
@@ -489,26 +509,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, development activity focused on various improvements, such as enhancing the DX of AssetMapper in debug mode and allowing developers to disable redirects on logout. There were also proposals to improve Messenge",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: enable_sort",
-   "link": "https://postgr.es/p/9pm",
-   "date": "2026-07-12T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Disable `enable_sort` to fix a slow sort? Wrong target. Slow sorts need more `work_mem` or better indexes—not this GUC.",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Mike Gifford: Accessibility Must Move Upstream in Public-Sector Open Source",
-   "link": "https://www.thedroptimes.com/interview/70981/gifford-accessibility-upstream-open-source?utm_source=Drupal Planet",
-   "date": "2026-07-10T14:22:37.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Accessibility failures often surface after budgets, architecture, and delivery plans are already fixed. Mike Gifford argues that public agencies can reduce that pattern by contributing fixes upstream.",
    "image": null
   },
   {
