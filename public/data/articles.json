@@ -1,75 +1,215 @@
 {
- "generatedAt": "2026-07-16T12:47:26.882Z",
+ "generatedAt": "2026-07-16T18:17:42.409Z",
  "articles": [
   {
-   "title": "Why Most Azure DevOps Pipelines Become Slow Over Time",
-   "link": "https://dev.to/joshlhughes94/why-most-azure-devops-pipelines-become-slow-over-time-neb",
-   "date": "2026-07-16T12:35:36.000Z",
+   "title": "AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword",
+   "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i",
+   "date": "2026-07-16T18:06:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "*When a project first starts, CI/CD pipelines are usually simple. Build the application. Run a few tests. Deploy somewhere. Done. Then six months pass. Another test gets added. Then another deployment step. A security sc",
+   "summary": "Developers have spent years building connected devices through IoT and intelligent applications with AI. But combining the two creates something that neither technology achieves alone. IoT collects data. AI understands d",
    "image": null
   },
   {
-   "title": "Tarik4D Login Resmi - Bandar Slot Online Terpercaya 2026 dengan Deposit Mulai 10 Ribu",
-   "link": "https://dev.to/tarik4d/tarik4d-login-resmi-bandar-slot-online-terpercaya-2026-dengan-deposit-mulai-10-ribu-g1f",
-   "date": "2026-07-16T12:34:04.000Z",
+   "title": "Best Practices for Managing AWS WAF with Code",
+   "link": "https://dev.to/aws-builders/best-practices-for-managing-aws-waf-with-code-3efl",
+   "date": "2026-07-16T17:57:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
+   "summary": "At first it is a few managed rule groups, an IP allowlist, maybe a rate limit on /login. Then a real application grows around it. You add exceptions. You tune false positives. You need different behavior for APIs, static",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs23tx46r7kozbnleo5ls.png"
+  },
+  {
+   "title": "Quoting Thibault Sottiaux",
+   "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+   "date": "2026-07-16T17:45:59.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandbox",
+   "image": null
+  },
+  {
+   "title": "From the Captain’s Chair: Mohammad-Ali A’râbi",
+   "link": "https://dev.to/rasne/from-the-captains-chair-mohammad-ali-arabi-1fok",
+   "date": "2026-07-16T17:30:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: From the Captain’s Chair: Mohammad-Ali A’râbi — read the full article on rasne.dev. In this edition of From the Captain’s Chair, we’re interviewing Mohammad-Ali A'râbi, author, public speaker, and software eng",
+   "image": null
+  },
+  {
+   "title": "Don't Just Learn AI — Deploy It",
+   "link": "https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-1c0n",
+   "date": "2026-07-16T17:27:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Production-ready Python code for 4 types of AI agents. Customer support, sales, content, ops — each with setup guide. No enterprise tools needed. 🌍 https://lawalfataikola.gumroad.com/l/dtbkre https://selar.com/4459d4651",
+   "image": null
+  },
+  {
+   "title": "I Asked GPT to Build the Same Infrastructure in AWS CDK, Terraform, Pulumi, and SST. Here's What Happened.",
+   "link": "https://dev.to/sun_wukong121/i-asked-gpt-to-build-the-same-infrastructure-in-aws-cdk-terraform-pulumi-and-sst-heres-what-al5",
+   "date": "2026-07-16T17:25:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most Infrastructure as Code debates ask the same questions: Which tool has the best syntax? Which one scales across teams? Which one supports multiple clouds? Which one produces the safest deployments? But AI coding agen",
+   "image": null
+  },
+  {
+   "title": "Is 9Proxy Down in 2026? Verified Status, Timeline & Best Alternatives Is 9Proxy Down in 2026? Verified Status, Timeline & Best Alternatives",
+   "link": "https://dev.to/proxyuniverse/is-9proxy-down-in-2026-verified-status-timeline-best-alternatives-is-9proxy-down-in-2026-1fo",
+   "date": "2026-07-16T17:25:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Last updated: July 16, 2026 Is 9Proxy down right now? What happened Verified timeline Why \"HTTP 200\" is not a proxy test Was 9Proxy seized or shut down? 9Proxy not working? Fast troubleshooting Best 9Proxy alternatives i",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1q4xmmv3m2kdu0lzf7uh.png"
+  },
+  {
+   "title": "Orion Belt v1.0 — from Alpha bastion to a stable self-hosted SSH PAM",
+   "link": "https://dev.to/zrouga/orion-belt-v10-from-alpha-bastion-to-a-stable-self-hosted-ssh-pam-3kn9",
+   "date": "2026-07-16T17:15:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Earlier I wrote Meet Orion-Belt, Go ZeroTrust Bastion — the Alpha “here’s the idea” post. This is the follow-up: I tagged v1.0.0, moved the project under orion-belt-dev, and I’m willing to call the SSH PAM slice stable. ",
+   "image": null
+  },
+  {
+   "title": "I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week",
+   "link": "https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7",
+   "date": "2026-07-16T17:12:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A lot of teams still treat fallback like a polish feature. Something you add after v1. Something for \"enterprise reliability\" later. I think that mindset is dead if you're building agents that actually run all day. While",
+   "image": null
+  },
+  {
+   "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+   "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+   "date": "2026-07-16T17:09:25.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperab",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg"
+  },
+  {
+   "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+   "date": "2026-07-16T16:01:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
    "summary": "",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgddm37xtcxw4ky1trjfu.png"
-  },
-  {
-   "title": "From Zero to a Working EKS Pipeline: Terraform, Ansible, and GitLab CI/CD (and Everything That Broke Along the Way)",
-   "link": "https://dev.to/gennyonyema/from-zero-to-a-working-eks-pipeline-terraform-ansible-and-gitlab-cicd-and-everything-that-4dbb",
-   "date": "2026-07-16T12:32:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "From Zero to a Working EKS Pipeline: Terraform, Ansible, and GitLab CI/CD (and Everything That Broke Along the Way) I recently built an end-to-end deployment pipeline on AWS EKS using Terraform for infrastructure, Ansibl",
    "image": null
   },
   {
-   "title": "The Self-Writing SRE: Automating Root Cause Analysis with Amazon Bedrock",
-   "link": "https://dev.to/dhananjay_lakkawar/the-self-writing-sre-automating-root-cause-analysis-with-amazon-bedrock-4fgf",
-   "date": "2026-07-16T12:08:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "It's 3 a.m. Your database connection pool exhausts. The site goes down. PagerDuty wakes up whoever's on call. They jump on a Slack huddle, grep through CloudWatch logs, and find a Lambda function stuck in an infinite ret",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuh6rpmoqflxnah3zqbko.png"
+   "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+   "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+   "date": "2026-07-16T15:41:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
   },
   {
-   "title": "The Importance of Testing Strategies",
-   "link": "https://dev.to/fabiosarmento/the-importance-of-testing-strategies-459b",
-   "date": "2026-07-16T12:04:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Testing isn’t just for bugs; it’s about ensuring your code meets user needs. Invest in solid testing strategies to boost confidence and catch issues early. Quality matters!",
+   "title": "Inkling: Our open-weights model",
+   "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+   "date": "2026-07-16T15:35:25.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licen",
    "image": null
   },
   {
-   "title": "10 Real Advantages of a Dedicated Server (With the Numbers Behind Them)",
-   "link": "https://dev.to/swify_io/10-real-advantages-of-a-dedicated-server-with-the-numbers-behind-them-307d",
-   "date": "2026-07-16T12:04:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every hosting provider claims their infrastructure delivers performance, reliability, and security. The difference between a genuine advantage and a marketing claim comes down to one question: what does it actually chang",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Febnezb42m4p3q388esaw.png"
+   "title": "Meet the Speakers of the First Three.js Conference",
+   "link": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
+   "date": "2026-07-16T14:45:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Before they take the stage, we asked a handful of speakers to share what they're building, exploring, and excited to bring to Paris.",
+   "image": null
   },
   {
-   "title": "EU region is not EU sovereignty",
-   "link": "https://dev.to/socaity_ai/eu-region-is-not-eu-sovereignty-3p1d",
-   "date": "2026-07-16T12:00:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Do you ever worry you are not using AI the most secure way, even inside your own Here is the part most vendors skip: where your AI runs decides who can read what Frankfurt is not a jurisdiction Your model can run in Fran",
+   "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+   "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+   "date": "2026-07-16T13:33:25.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
+  },
+  {
+   "title": "Quoting Linus Torvalds",
+   "link": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+   "date": "2026-07-16T13:26:10.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with ",
    "image": null
+  },
+  {
+   "title": "The Archaeologist’s Copilot",
+   "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
+   "date": "2026-07-16T13:25:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. ",
+   "image": null
+  },
+  {
+   "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+   "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+   "date": "2026-07-16T12:50:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
+  },
+  {
+   "title": "mark.ie: LocalGov Drupal Microsites Demo Module launched",
+   "link": "https://mark.ie/blog/localgov-drupal-microsites-demo-module-launched",
+   "date": "2026-07-16T12:47:30.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "LocalGov Drupal Microsites Demo Module launched Contributing to LocalGov Microsites and demoing it to others is harder than it should be, due to the lack of a demo content. But no longer ... markconroy 16th Jul 2026",
+   "image": null
+  },
+  {
+   "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+   "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+   "date": "2026-07-16T12:33:42.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
+  },
+  {
+   "title": "Christopher Winslett: Postgres 19 Compression: from pglz to LZ4",
+   "link": "https://postgr.es/p/9pU",
+   "date": "2026-07-16T12:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Postgres 19 is planning to change the default TOAST compression from pglz to LZ4, so let's look at how Postgres compresses data in table storage and indexes. Postgres uses a single, unified compression framework for tabl",
+   "image": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/d24114b8-892a-49ae-2592-2ff2535dd900/original"
   },
   {
    "title": "20+ Hijacked Government Websites Became an Attack Channel",
@@ -89,16 +229,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "How I Passed the CKA in 2026",
-   "link": "https://dev.to/yltw27/how-i-passed-the-cka-in-2026-143c",
-   "date": "2026-07-16T11:42:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I sat the Certified Kubernetes Administrator exam recently. As of writing this, I don't actually know if I passed. The results take up to 24 hours and I'm in that enjoyable window where I'm simultaneously convinced I ace",
    "image": null
   },
   {
@@ -122,14 +252,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoN2-EflBc7bABKWw8GsIF_E9I7A9Ond88d-yFCAc6t850C9RGNxpGFAP3G9NichaP7JHa_BA-4bsMDNze5837hGCFGuAbyEHPVsxmQgMNS9A8e1jFL19Z1MVv9KOq0TX5ShDG46Xrv3MxH-vR3sQtEcDkH5OMxQQo11NXMKWRicC8T1OwTqw3ENoXEdIK/s1600/WINDOWS-malware.jpg"
   },
   {
-   "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-   "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-   "date": "2026-07-16T10:10:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFHlEVhBtz6htSsevgYmwuQZHGlEXKK9eqiOqgiXJ587449tNZfWR9y74kC9MfZ6CDSPx6IBloYogs0PBSeynORkAZsD6825INUqoJaIMwtAbBVkve-A8xBNmz6fNpxsuwjsF_jfXHqBumqTT9VY7Jn5gEP3C0fVLOtuVFZ2krUvHSagGvupLXQSH-YI/s1600/cvss.jpg"
+   "title": "The Drop Times: AWS Outlines Sovereignty Controls as EU Sets Cloud Procurement Tests",
+   "link": "https://www.thedroptimes.com/71145/aws-sovereignty-controls-eu-cloud-procurement?utm_source=Drupal Planet",
+   "date": "2026-07-16T10:59:38.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "For regulated Drupal projects, choosing a cloud region settles only the easiest part of the sovereignty question. Access, key custody, operations, recovery, and exit planning determine whether the hosting claim holds.",
+   "image": null
   },
   {
    "title": "SHRIDHAR KHANAL: Upgrading PostgreSQL 9.6 to 17 with pg_upgrade",
@@ -140,36 +270,6 @@
    "source": "Planet PostgreSQL",
    "summary": "When you are upgrading across major PostgreSQL versions, there are a few ways to go. Dump and restore is the simplest to reason about, but downtime scales directly with database size, so for anything multi-terabyte, it i",
    "image": null
-  },
-  {
-   "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-   "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-   "date": "2026-07-16T09:23:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the hous",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tbAe6HgEiYpwgRNJ04jo1HJ_PV3INByd4ggz2t4h_dCa4u2zkCBimnzDZt7V-p208q7-BfaHSmR5_aXg6VvnnThfnc9_UX8oP0hnRa6rP1JVgKka-D76BpYUzhEuc3O0nbEGgoVeCQsTY2RBsVTrYnViTmGPqgPJ9e4lNeKWtxZNxKqvUajphbl-ENY/s1600/shark-hack.jpg"
-  },
-  {
-   "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-   "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-   "date": "2026-07-16T08:42:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong r",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSi9EGhWziKlNlaSAnaOE4OjgZ5pyqoajOxDz4zEQl77NDSF_Pf8ME6wfKfrmrTWhLy9jDR1wvmVb7gd5JLhyszunIomhOnyyHKuTfvBCjb8vGypAPXbQzTVG-n5wWUdsTToUXQ5z_uh3XPDX3KKzgZ8vDB9PZ40FOd6xGi2iALOu-wSqSoHpkpYf5eKjk/s1600/openai-gpt-red.jpg"
-  },
-  {
-   "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-   "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-   "date": "2026-07-16T07:22:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom De",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPR-qLKvfH8KZydz4_DnqiB9bJDjgFi6KdfrbbCHNkywiDcR_1SILe12UqjuyM_1yQXEDBok-ZeYRX0hEjIZpx-Dz2hnIW2xXnwAqrmA3voWWfG_vnGMavgE4-E_DFzICLfizByiwAis02VEJqSoxQrEECCMibS0X27D5k0o08IPp1JR0tVCnXwpj2u3e2/s1600/zoom.jpg"
   },
   {
    "title": "Webpro Company blog: Drupal core July security updates: what site owners should check now",
@@ -192,6 +292,16 @@
    "image": null
   },
   {
+   "title": "Build a Laravel Scout Search Endpoint With the HTTP QUERY Method",
+   "link": "https://laravel-news.com/build-a-laravel-scout-search-endpoint-with-the-http-query-method?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-16T02:54:49.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Learn how to define a Laravel route that responds to the new HTTP QUERY method and use Laravel Scout's database driver to build a search API endpoint. The post Build a Laravel Scout Search Endpoint With the HTTP QUERY Me",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-query-routes.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: event_triggers",
    "link": "https://postgr.es/p/9pI",
    "date": "2026-07-16T01:00:00.000Z",
@@ -212,6 +322,16 @@
    "image": null
   },
   {
+   "title": "Enforce Per-Action Waiting Periods in Laravel with Cooldown",
+   "link": "https://laravel-news.com/enforce-per-action-waiting-periods-in-laravel-with-cooldown?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-16T00:24:21.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "A Laravel package that enforces per-action, per-owner cooldown periods with a fluent API, an Eloquent trait, route middleware, atomic locking, and cache or database storage. The post Enforce Per-Action Waiting Periods in",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Cooldown-LN.png"
+  },
+  {
    "title": "Security incident disclosure — July 2026",
    "link": "https://huggingface.co/blog/security-incident-july-2026",
    "date": "2026-07-16T00:00:00.000Z",
@@ -220,6 +340,16 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
+  },
+  {
+   "title": "DDEV Blog: DDEV July 2026: New Screencasts, Partner Perks",
+   "link": "https://ddev.com/blog/ddev-july-2026-newsletter",
+   "date": "2026-07-16T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "DDEV v1.25.3 Released DDEV v1.25.3 is out, with: New Docker Compose library → Improved UX during ddev start and ddev stop; the separate ~/.ddev/bin/docker-compose binary is no longer needed Way Faster ddev start, ddev st",
+   "image": "https://ddev.com/img/blog/2026/07/ddev-july-2026-featureimage.jpg"
   },
   {
    "title": "xai-org/grok-build, now open source",
@@ -272,16 +402,6 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/41a6f9778d12dfedcc7ec3727d64a12491d75d9a65d4b9323feb075391ae6795.jpg?resize=80%2C80&#038;ssl=1"
-  },
-  {
    "title": "Security advisories: Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-012",
    "link": "https://www.drupal.org/sa-core-2026-012",
    "date": "2026-07-15T19:52:26.000Z",
@@ -290,36 +410,6 @@
    "source": "Drupal Planet",
    "summary": "Project: Drupal core Date: 2026-July-15 Security risk: Moderately critical 13 ∕ 25 AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default Vulnerability: Cross-site scripting Affected versions: =11.3.0 =11.4.0 <11.4.4 |",
    "image": null
-  },
-  {
-   "title": "Security advisories: Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-011",
-   "link": "https://www.drupal.org/sa-core-2026-011",
-   "date": "2026-07-15T19:51:57.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Project: Drupal core Date: 2026-July-15 Security risk: Moderately critical 14 ∕ 25 AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:All Vulnerability: Cross-site scripting Affected versions: >=11.3.0 =11.4.0 <11.4.4 || 1",
-   "image": null
-  },
-  {
-   "title": "Security advisories: Drupal core - Moderately critical - Information disclosure - SA-CORE-2026-010",
-   "link": "https://www.drupal.org/sa-core-2026-010",
-   "date": "2026-07-15T19:50:24.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Project: Drupal core Date: 2026-July-15 Security risk: Moderately critical 10 ∕ 25 AC:Complex/A:None/CI:Some/II:None/E:Theoretical/TD:Uncommon Vulnerability: Information disclosure Affected versions: =11.3.0 =11.4.0 <11.",
-   "image": null
-  },
-  {
-   "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-   "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-   "date": "2026-07-15T18:43:08.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language m",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKa1OIdUu8LgLPgZkc9qbOTzhARf1dEJa_fzyVt7vvSzidHy3Lrb-2R4hs2ryt9b4Aq3zOnJRtWVuQ8KHKUZ5x9Iv6Q0vGTVMPxNMLTdGaNsquyrL18QXk8TcMP2nEwFHE1snKt2aG6rEmyVMwRp7Fk4G_x_sXjk_4AmYWsH2JCvOe2Adut2PZbLVc4YI/s1600/tuxbot.jpg"
   },
   {
    "title": "What building Shippy taught us about building agents",
@@ -340,26 +430,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Centarro: Let Shoppers Change Their Minds Without Leaving the Cart",
-   "link": "https://www.centarro.io/blog/let-shoppers-change-their-minds-without-leaving-cart",
-   "date": "2026-07-15T15:03:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Checkout is fragile. Every extra step between \"I want this\" and \"order placed\" is an opportunity for a shopper to abandon their cart entirely. And one of the most common moments of hesitation happens when a buyer realize",
-   "image": null
-  },
-  {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-15T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new ",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/1-scaled.png?resize=2560%2C1606&#038;ssl=1"
   },
   {
    "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
@@ -388,7 +458,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a58c0c29e340866286469/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a591b8f52d34433451490/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -522,26 +592,6 @@
    "image": null
   },
   {
-   "title": "lobste.rs is now running on SQLite",
-   "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
-   "date": "2026-07-14T19:44:11.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. Th",
-   "image": null
-  },
-  {
-   "title": "Quoting Armin Ronacher",
-   "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
-   "date": "2026-07-14T18:04:23.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has th",
-   "image": null
-  },
-  {
    "title": "Building a Custom Metrics Exporter for Kubernetes",
    "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
    "date": "2026-07-14T18:00:00.000Z",
@@ -549,16 +599,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "datasette 1.0a37",
-   "link": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
-   "date": "2026-07-14T16:31:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break. Tags: ",
    "image": null
   },
   {
@@ -570,16 +610,6 @@
    "source": "Martin Fowler",
    "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from",
    "image": null
-  },
-  {
-   "title": "Jimmy Angelakos: LinkedIn Live: Fixing Bad SQL in PostgreSQL with Jimmy Angelakos",
-   "link": "https://postgr.es/p/9pD",
-   "date": "2026-07-14T12:37:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Back on Friday, April 3rd, I ran a live, hands-on LinkedIn Live session on fixing bad SQL in PostgreSQL. My apologies for the delay in sharing the recording: for various reasons I couldn't post it earlier, but here it is",
-   "image": "https://vyruss.org/blog/feeds/images/linkedinlive.png"
   },
   {
    "title": "Laravel Quota: Usage Budgets for Calendar Periods",
@@ -662,16 +692,6 @@
    "image": null
   },
   {
-   "title": "Uvora: A macOS Menu Bar App for Finding Laravel Projects",
-   "link": "https://laravel-news.com/uvora-a-macos-menu-bar-app-for-finding-laravel-projects?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-13T04:31:15.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Uvora is a free macOS menu bar app that indexes your Laravel projects locally and opens any of them from a single keyboard shortcut. The post Uvora: A macOS Menu Bar App for Finding Laravel Projects appeared first on Lar",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Uvora-LN.png"
-  },
-  {
    "title": "A Week of Symfony #1019 (July 6–12, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1019-july-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-12T07:33:00.000Z",
@@ -732,16 +752,6 @@
    "image": null
   },
   {
-   "title": "Data for Agents",
-   "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-   "date": "2026-07-08T17:16:05.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Announcing etcd v3.7.0",
    "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
    "date": "2026-07-08T12:00:00.000Z",
@@ -782,14 +792,14 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nvhy6t6nskpbpvodlwbq.jpg"
   },
   {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-07T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_8249102E6BD5A7D94BC02F00D913B3B576539AF394F7402EF7DE7C968CBF8D3E_1773225348617_image.png?resize=1141%2C325&#038;ssl=1"
+   "title": "PHP Tek 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
+   "date": "2026-07-07T16:47:27.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
+   "image": null
   },
   {
    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
@@ -850,16 +860,6 @@
    "source": "Martin Fowler",
    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
    "image": null
-  },
-  {
-   "title": "Find the Security Vulnerabilities in Your Laravel App with Sensagraph",
-   "link": "https://laravel-news.com/find-the-security-vulnerabilities-in-your-laravel-app-with-sensagraph?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-06T11:31:46.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Sensagraph scans your live Laravel applications from the outside; surfacing SQL injection, XSS, open ports, misconfigurations, and weak TLS before attackers find them. The post Find the Security Vulnerabilities in Your L",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/featured.png"
   },
   {
    "title": "A Week of Symfony #1018 (June 29 – July 5, 2026)",
@@ -972,16 +972,6 @@
    "image": null
   },
   {
-   "title": "Sculpting a Digital Athlete: Capturing Stefanos Tsitsipas Beyond the Court",
-   "link": "https://tympanus.net/codrops/2026/07/01/sculpting-a-digital-athlete-capturing-stefanos-tsitsipas-beyond-the-court/",
-   "date": "2026-07-01T10:13:35.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Explore the complete 3D workflow behind Stefanos Tsitsipas' digital character, from photogrammetry and rigging to animation and WebGL optimization.",
-   "image": null
-  },
-  {
    "title": "The select element, sized just right",
    "link": "https://frontendfoc.us/issues/748",
    "date": "2026-07-01T00:00:00.000Z",
@@ -990,26 +980,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
-  },
-  {
-   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
-   "link": "https://css-tricks.com/whats-important-14/",
-   "date": "2026-06-30T13:54:14.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
-  },
-  {
-   "title": "The Shifting Line Between CSS States and JavaScript Events",
-   "link": "https://css-tricks.com/css-states-and-javascript-events/",
-   "date": "2026-06-29T13:03:32.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-   "image": null
   },
   {
    "title": "A Week of Symfony #1017 (June 22–28, 2026)",
@@ -1062,36 +1032,6 @@
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
-   "title": "translateZ()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-   "date": "2026-06-25T13:18:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1"
-  },
-  {
-   "title": "translateY()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-   "date": "2026-06-25T13:17:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
-  },
-  {
-   "title": "translateX()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-   "date": "2026-06-25T13:16:01.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/s_94397AB2C9D282B1C64AD8782FA74B7FBE105F79E31213B340BF4A9C4995557F_1612947653028_NewProject2.jpg?resize=1024%2C340&#038;ssl=1"
-  },
-  {
    "title": "CSS that picks its own readable text color",
    "link": "https://frontendfoc.us/issues/747",
    "date": "2026-06-24T00:00:00.000Z",
@@ -1139,26 +1079,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.7 Released!",
-   "link": "https://www.php.net/index.php#2026-06-04-1",
-   "date": "2026-06-04T14:05:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.7. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.7 please visit our , Win",
-   "image": null
-  },
-  {
-   "title": "Fragments: June  2",
-   "link": "https://martinfowler.com/fragments/2026-06-02.html",
-   "date": "2026-06-02T15:21:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs. Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whet",
    "image": null
   }
  ]
