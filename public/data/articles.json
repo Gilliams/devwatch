@@ -1,6 +1,116 @@
 {
- "generatedAt": "2026-07-16T00:07:30.352Z",
+ "generatedAt": "2026-07-16T07:30:53.830Z",
  "articles": [
+  {
+   "title": "n8n GitHub Node: Automate Issues, Pull Requests, and Releases in Your Workflows [Free Workflow JSON]",
+   "link": "https://dev.to/pirateprentice/n8n-github-node-automate-issues-pull-requests-and-releases-in-your-workflows-free-workflow-json-30mn",
+   "date": "2026-07-16T07:22:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If your team lives in GitHub, you're already doing manual work that n8n can eliminate: pasting issue links into Slack, copying PR details into project trackers, sending release notes to customers, and keeping spreadsheet",
+   "image": null
+  },
+  {
+   "title": "How To Test On iOS Without Owning Every iPhone",
+   "link": "https://dev.to/graceholloway_/how-to-test-on-ios-without-owning-every-iphone-561n",
+   "date": "2026-07-16T07:21:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most teams discover the same thing the hard way: the bug never appears on the newest phone sitting on the developer’s desk. It shows up on an older screen size, a weaker battery state, a different iOS point release, or a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ft1fim6ugexpxqb4em7kk.jpg"
+  },
+  {
+   "title": "Can You Get Netflix for Free? Here's What You Should Know",
+   "link": "https://dev.to/robert8814/can-you-get-netflix-for-free-heres-what-you-should-know-mpm",
+   "date": "2026-07-16T07:20:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Netflix is one of the world's most popular streaming services, offering thousands of movies, TV shows, documentaries, and original series. Because of its popularity, many people search online for ways to get Netflix for ",
+   "image": null
+  },
+  {
+   "title": "Which Online AI Certification Providers Issue LinkedIn-Ready Credentials?",
+   "link": "https://dev.to/ailearning/which-online-ai-certification-providers-issue-linkedin-ready-credentials-2dee",
+   "date": "2026-07-16T07:18:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Artificial intelligence has become one of the most sought-after skills across industries, and professionals are increasingly earning AI certifications to validate their expertise. Beyond gaining knowledge, many learners ",
+   "image": null
+  },
+  {
+   "title": "Soul in Motion — 12:33 PM | 2026-07-16",
+   "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1233-pm-2026-07-16-3p4h",
+   "date": "2026-07-16T07:18:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Unified fragmented AI video generation tools into a cohesive platform. Overcame eight-second video limit by cloning Veo 3. Integrated GPU worker scripts with studio interface using Python libraries. Configured Orac",
+   "image": null
+  },
+  {
+   "title": "3 WireGuard VPN Mistakes That Broke Our Remote Server Access",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/3-wireguard-vpn-mistakes-that-broke-our-remote-server-access-4ogi",
+   "date": "2026-07-16T07:01:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud Context WireGuard VPN mistakes rarely announce themselves. That's the whole problem — the tunnel just quietly stops working, or quietly does the wrong thing, and you find out from a",
+   "image": null
+  },
+  {
+   "title": "100 Days of DevOps and Cloud (AWS), Day 12: A Port Conflict Killed httpd, and an Attached Volume Isn't a Mounted One",
+   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-12-a-port-conflict-killed-httpd-and-an-attached-volume-3nom",
+   "date": "2026-07-16T06:48:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Two services cannot listen on the same port. So when Apache refuses to start, the most common reason is boring and specific, something else grabbed the port first. Day 12 was about finding that something and clearing it,",
+   "image": null
+  },
+  {
+   "title": "How to Deploy Paperclip on a VPS with ServerAvatar",
+   "link": "https://dev.to/serveravatar/how-to-deploy-paperclip-on-a-vps-with-serveravatar-1f8o",
+   "date": "2026-07-16T06:47:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you’re looking to deploy Paperclip for your team, a VPS gives you full control over your AI infrastructure. Paperclip is an open-source platform that lets you create AI agents, define goals, and connect LLM providers ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn9k18aqlwxcop7nnqsfa.png"
+  },
+  {
+   "title": "Webpro Company blog: Drupal core July security updates: what site owners should check now",
+   "link": "https://webpro.company/blog/drupal-core-july-security-updates",
+   "date": "2026-07-16T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "On July 15, 2026, Drupal published several core security advisories. If an organisation's website, portal or service platform runs on Drupal, now is the time to check not only the version number, but the whole update pro",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: event_triggers",
+   "link": "https://postgr.es/p/9pI",
+   "date": "2026-07-16T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Event triggers fire on DDL and login events, not rows—and a buggy one can lock out every user, even superusers.",
+   "image": null
+  },
+  {
+   "title": "Mermaid to Unicode box art (grok-mermaid)",
+   "link": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+   "date": "2026-07-16T00:33:18.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Merma",
+   "image": null
+  },
   {
    "title": "xai-org/grok-build, now open source",
    "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
@@ -12,73 +122,13 @@
    "image": null
   },
   {
-   "title": "Ingress-NGINX retired in March 2026: the Gateway API migration plan for 30 annotations",
-   "link": "https://dev.to/mr_manushukla/ingress-nginx-retired-in-march-2026-the-gateway-api-migration-plan-for-30-annotations-28ah",
-   "date": "2026-07-15T23:16:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ingress-NGINX retired in March 2026: the Gateway API migration plan for 30 annotations Summary. The deadline is not coming. It passed. Kubernetes SIG Network and the Security Response Committee retired Ingress-NGINX in M",
-   "image": null
-  },
-  {
-   "title": "The 10 Sites Guide to Buying Old Yahoo Accounts in 26",
-   "link": "https://dev.to/violantemccartyso8xt/the-10-sites-guide-to-buying-old-yahoo-accounts-in-26-26j7",
-   "date": "2026-07-15T23:12:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Old Yahoo Accounts: Risks, Security Issues, and Safe Alternatives (Complete Guide) 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubse",
-   "image": null
-  },
-  {
-   "title": "Your AI Coding Assistant Isn't Reading Your Code, It's Mailing It Home",
-   "link": "https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg",
-   "date": "2026-07-15T22:40:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hook An AI coding CLI that uploads your entire Git history — commit logs, secrets, and all — to a vendor-controlled bucket, and does it through a channel that your privacy opt-out doesn't even touch. That's not a bug bou",
-   "image": null
-  },
-  {
-   "title": "Master grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-grok-build-in-5-mins-oc5",
-   "date": "2026-07-15T22:27:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours manually building and deploying a Rust project, only to realize that I could have automated the entire process in just 20 lines of Python using grok-build. You will build a fully au",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "What's Actually Cooking in Azure AI Right Now (Notes from My MVP Prep Rabbit Hole)",
-   "link": "https://dev.to/ibne_sabidsaikat_1443282/whats-actually-cooking-in-azure-ai-right-now-notes-from-my-mvp-prep-rabbit-hole-9hf",
-   "date": "2026-07-15T22:15:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "So here's the thing — I've been buried in Azure documentation for the past few weeks, partly because I'm putting together my Microsoft MVP application, and partly because I genuinely can't keep up with how fast the Azure",
-   "image": null
-  },
-  {
-   "title": "Cron Expressions: The Parts That Actually Trip People Up",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/cron-expressions-the-parts-that-actually-trip-people-up-12il",
-   "date": "2026-07-15T22:12:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cron Expressions: The Parts That Actually Trip People Up Cron looks simple until you hit one of its few genuinely weird rules. Most tutorials cover the five fields and stop, so the gotchas end up getting discovered in pr",
-   "image": null
-  },
-  {
-   "title": "The Hard Part of Test Automation Isn’t Writing Tests Anymore",
-   "link": "https://dev.to/sleepyfalcon247/the-hard-part-of-test-automation-isnt-writing-tests-anymore-h9",
-   "date": "2026-07-15T22:04:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A few years ago, creating the automated test was usually the difficult part. You had to choose a framework, learn its APIs, build a project structure, write selectors, configure a runner, and eventually persuade the test",
+   "title": "Drupal Association blog: Tiffany Farriss to lead the Drupal Association",
+   "link": "https://www.drupal.org/association/blog/tiffany-farriss-to-lead-the-drupal-association",
+   "date": "2026-07-15T22:05:55.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This article is cross-posted with permission from Dries Buytaert's blog. The Drupal Association is entering a new chapter. Tim Doyle is stepping down as CEO, and the Board has appointed Tiffany Farriss as interim CEO. I ",
    "image": null
   },
   {
@@ -92,16 +142,6 @@
    "image": null
   },
   {
-   "title": "Chronological K8s Debugging: Merging Logs, Events, and Node Alerts on the Fly",
-   "link": "https://dev.to/dasmat13/chronological-k8s-debugging-merging-logs-events-and-node-alerts-on-the-fly-c62",
-   "date": "2026-07-15T21:37:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Chronological K8s Debugging: Merging Logs, Events, and Node Alerts on the Fly If you've ever had to debug a failing Kubernetes microservice in real time, you know the \"context-shift trap\" all too well. You find yourself ",
-   "image": null
-  },
-  {
    "title": "Drupal Association blog: Leadership changes at the Drupal Association",
    "link": "https://www.drupal.org/association/blog/leadership-changes-at-the-drupal-association",
    "date": "2026-07-15T20:01:24.000Z",
@@ -110,6 +150,16 @@
    "source": "Drupal Planet",
    "summary": "Our CEO, Tim Doyle, has stepped down from his role. We are grateful to Tim for his leadership and impact on our organization. Tim has built a strong leadership team that is positioned to continue the mission and vision t",
    "image": null
+  },
+  {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/cache/breeze-extra/gravatars/41a6f9778d12dfedcc7ec3727d64a12491d75d9a65d4b9323feb075391ae6795.jpg?resize=80%2C80&#038;ssl=1"
   },
   {
    "title": "Security advisories: Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-012",
@@ -192,6 +242,16 @@
    "image": null
   },
   {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-15T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new ",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/1-scaled.png?resize=2560%2C1606&#038;ssl=1"
+  },
+  {
    "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
    "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
    "date": "2026-07-15T14:33:53.000Z",
@@ -228,7 +288,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a581756a21b4423773162/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5872bed263e339929089/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -240,16 +300,6 @@
    "source": "Planet PostgreSQL",
    "summary": "POSETTE: An Event for Postgres 2026 is an online event for PostgreSQL, brought to us by the Postgres team at Microsoft, which took place on June 16-18, 2026. I'll always have a soft spot for in-person conferences, but PO",
    "image": "https://vyruss.org/blog/feeds/images/listen_notify.jpg"
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #561 - The Aaron Winborn Award",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-561-the-aaron-winborn-award",
-   "date": "2026-07-15T12:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Aaron Winborn, The award named after him, and what winning is like with guests George DeMet & April Sides. We'll also cover Summit as our module of the week. For show notes visit: https://www.t",
-   "image": null
   },
   {
    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
@@ -290,16 +340,6 @@
    "source": "The Hacker News",
    "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s1600/git.png"
-  },
-  {
-   "title": "BloomIdea: Dynamic Multibanco references in Drupal Commerce: Commerce ifthenpay 3.0 has arrived",
-   "link": "https://bloomidea.com/en/blog/dynamic-multibanco-references-drupal-commerce-commerce-ifthenpay-30-has-arrived",
-   "date": "2026-07-15T10:47:08.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "In 2018 we released Commerce ifthenpay, the module that brought Multibanco references to Drupal Commerce. Seven years later, we are publishing version 3.0.0: the module's biggest evolution since then, with dynamic Multib",
-   "image": null
   },
   {
    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
@@ -522,16 +562,6 @@
    "image": null
   },
   {
-   "title": "Using uvx in GitHub Actions in a cache-friendly way",
-   "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
-   "date": "2026-07-14T00:56:20.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" envi",
-   "image": null
-  },
-  {
    "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
    "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
    "date": "2026-07-13T20:00:00.000Z",
@@ -590,16 +620,6 @@
    "source": "Martin Fowler",
    "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat. When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it. When",
    "image": null
-  },
-  {
-   "title": "Jimmy Angelakos: PostgresEDI July 2026 Meetup — Public Speaking, AI Compliance",
-   "link": "https://postgr.es/p/9pq",
-   "date": "2026-07-13T12:37:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Actual sunshine ☀️ in Edinburgh 😲 and a room full of Postgres people catching up over pizza: July was good to us. 🐘 Thursday, July 9th brought us to Paterson's Land at the University of Edinburgh, and to a wonderfully ",
-   "image": "https://vyruss.org/blog/images/july2026_collage.jpg"
   },
   {
    "title": "MyDumper Locking Mechanisms Revisited: Introducing SAFE_NO_LOCK",
@@ -760,6 +780,26 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
+  },
+  {
+   "title": "PHP Tek 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
+   "date": "2026-07-07T16:47:27.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-07T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/s_8249102E6BD5A7D94BC02F00D913B3B576539AF394F7402EF7DE7C968CBF8D3E_1773225348617_image.png?resize=1141%2C325&#038;ssl=1"
   },
   {
    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
@@ -962,6 +1002,26 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/1-1.png?resize=1024%2C642&#038;ssl=1"
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
+  },
+  {
    "title": "A Week of Symfony #1017 (June 22–28, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1017-june-22-28-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-06-28T07:40:00.000Z",
@@ -1012,6 +1072,36 @@
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/xyz-plane-scaled.png?resize=2560%2C1396&#038;ssl=1"
+  },
+  {
+   "title": "translateY()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+   "date": "2026-06-25T13:17:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateX()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+   "date": "2026-06-25T13:16:01.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/s_94397AB2C9D282B1C64AD8782FA74B7FBE105F79E31213B340BF4A9C4995557F_1612947653028_NewProject2.jpg?resize=1024%2C340&#038;ssl=1"
+  },
+  {
    "title": "CSS that picks its own readable text color",
    "link": "https://frontendfoc.us/issues/747",
    "date": "2026-06-24T00:00:00.000Z",
@@ -1059,16 +1149,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.7 Released!",
-   "link": "https://www.php.net/index.php#2026-06-04-1",
-   "date": "2026-06-04T14:05:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.7. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.7 please visit our , Win",
    "image": null
   },
   {
