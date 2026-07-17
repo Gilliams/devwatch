@@ -1,75 +1,155 @@
 {
- "generatedAt": "2026-07-17T12:19:36.182Z",
+ "generatedAt": "2026-07-17T18:15:55.653Z",
  "articles": [
   {
-   "title": "Terraorbit",
-   "link": "https://dev.to/apurvbjp25/terraorbit-1e8m",
-   "date": "2026-07-17T12:08:34.000Z",
+   "title": "Production Ready Terraform with Testing, Validation and CI/CD",
+   "link": "https://dev.to/fatihkoc/production-ready-terraform-with-testing-validation-and-cicd-3ef0",
+   "date": "2026-07-17T18:09:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TerraOrbit: My 7-Day Journey Through the TrainWithShubham #TerraWeek Challenge The Challenge When TrainWithShubham announced the #TerraWeek Challenge — 7 days, one end-to-end Terraform project, real AWS infrastructure — ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmwlsvd4hiwh2k7izegwq.png"
+   "summary": "I've seen plenty of teams running Terraform from their laptops. Some commit the state file to git (which creates merge conflicts and exposes secrets). Others share it via S3 buckets without locking. A few keep it local a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdgskpmzdi3l1wptmjkxn.webp"
   },
   {
-   "title": "The Hypervisor Has Become A Commodity. Operations Have Not.",
-   "link": "https://dev.to/ntctech/the-hypervisor-has-become-a-commodity-operations-have-not-kd",
-   "date": "2026-07-17T12:06:14.000Z",
+   "title": "GitHub Actions: Automating Your Development Workflow",
+   "link": "https://dev.to/said_olano/github-actions-automating-your-development-workflow-2o2e",
+   "date": "2026-07-17T18:08:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hypervisor commoditization is changing how organizations evaluate virtualization platforms, but it is not reducing the operational complexity required to run them successfully. Twenty years ago, choosing a hypervisor was",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6kidyj9vb5qtf0o6tut.jpg"
-  },
-  {
-   "title": "Top 12 AI DevOps Tools You Can Trust in 2026",
-   "link": "https://dev.to/aws-builders/12-ai-devops-tools-you-can-trust-in-2026-ad5",
-   "date": "2026-07-17T12:03:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Table of Contents Quick Comparison 1. Sysdig 2. AWS CodeGuru 3. Snyk 4. Amazon Q Developer and Kiro 5. PagerDuty 6. Atlassian Intelligence 7. GitHub Copilot 8. incident.io 9. Datadog 10. Dynatrace 11. Jenkins with AI Plu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp0y6vk39n2j6sx8ei232.png"
-  },
-  {
-   "title": "Embrace the Power of Observability",
-   "link": "https://dev.to/fabiosarmento/embrace-the-power-of-observability-9p1",
-   "date": "2026-07-17T12:02:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In a complex system, knowing what’s happening is half the battle. Implement observability tools to gain insights, reduce downtime, and enhance performance. It pays off!",
+   "summary": "GitHub Actions: Automating Your Development Workflow GitHub Actions is GitHub's native CI/CD solution that automates your development workflow directly within your repository. Whether you're running tests, building conta",
    "image": null
   },
   {
-   "title": "The Importance of Documentation",
-   "link": "https://dev.to/fabiosarmento/the-importance-of-documentation-1lof",
-   "date": "2026-07-17T12:00:55.000Z",
+   "title": "Vault as an OIDC Identity Provider: Exposing Private Discovery Endpoints to the World",
+   "link": "https://dev.to/drewmullen/vault-as-an-oidc-identity-provider-exposing-private-discovery-endpoints-to-the-world-jlh",
+   "date": "2026-07-17T17:55:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Good code might speak for itself, but great documentation speaks for the team. It bridges gaps and ensures continuity. Invest time in it—future you will thank you!",
+   "summary": "Note: this blog was co-authored with the excellent David Alexander HashiCorp Vault can be used to centralize third-party service access via Secret Engines. To do that Vault needs a way to authenticate to the service whic",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjqfyhha0nx4hxxxwm09c.png"
+  },
+  {
+   "title": "Prometheus Was Built for Metrics. We’re Asking It to Explain Systems.",
+   "link": "https://dev.to/kubeha_18/prometheus-was-built-for-metrics-were-asking-it-to-explain-systems-9a1",
+   "date": "2026-07-17T17:48:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Prometheus Was Built for Metrics. We're Asking It to Explain Systems. For nearly a decade, Prometheus has been the gold standard for Kubernetes monitoring. It revolutionized cloud-native observability by making metrics c",
    "image": null
   },
   {
-   "title": "I replaced ssh -L with one CLI command. No SSH keys, no VPN, no open ports.",
-   "link": "https://dev.to/javimosch/i-replaced-ssh-l-with-one-cli-command-no-ssh-keys-no-vpn-no-open-ports-91j",
-   "date": "2026-07-17T11:56:31.000Z",
+   "title": "EnvGuard v4.0 — Now You Can See Your Environment Drift (and Catch Secrets You Leaked Months Ago)",
+   "link": "https://dev.to/tuhin1122/envguard-v40-now-you-can-see-your-environment-drift-and-catch-secrets-you-leaked-months-ago-35oj",
+   "date": "2026-07-17T17:37:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you manage servers, you've done this a thousand times: ssh -L 5432:localhost:5432 user@prod-server It works. But it requires SSH keys, an open port 22, a VPN if you're behind NAT, and a running SSH daemon on the targe",
+   "summary": "Every developer has been burned by a broken .env file—missing variables, empty values, or secrets accidentally committed to Git. EnvGuard v4 introduces two major features that make environment management even safer. 🚀 N",
    "image": null
   },
   {
-   "title": "MongoDB Backup and Restore Strategy on AWS",
-   "link": "https://dev.to/skntin/mongodb-backup-and-restore-strategy-on-aws-4i6",
-   "date": "2026-07-17T11:49:51.000Z",
+   "title": "7 Things Nobody Tells You Before Deploying Your First Full-Stack Application",
+   "link": "https://dev.to/drpratik/7-things-nobody-tells-you-before-deploying-your-first-full-stack-application-c5j",
+   "date": "2026-07-17T17:36:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Whether you're running a side project or managing enterprise-scale applications, having a reliable backup strategy for MongoDB is essential. I've seen teams invest months building systems but spend only a few minutes thi",
+   "summary": "When I built my first full-stack application, I thought the hard part was writing the code. I was wrong. The application worked perfectly on my local machine. The frontend loaded, the backend responded, the database conn",
    "image": null
+  },
+  {
+   "title": "How to Safely Buy Old GitHub Accounts Without Avoid",
+   "link": "https://dev.to/marianawalterl8gta/how-to-safely-buy-old-github-accounts-without-avoid-83a",
+   "date": "2026-07-17T17:27:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy GitHub Accounts from usadigitalhub.com 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhu",
+   "image": null
+  },
+  {
+   "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+   "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+   "date": "2026-07-17T17:12:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Op",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
+  },
+  {
+   "title": "Modern Compute Strategies for Agentic Workloads",
+   "link": "https://dev.to/vpodk/modern-compute-strategies-for-agentic-workloads-58cm",
+   "date": "2026-07-17T17:02:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The rapid rise of AI agents is fundamentally shifting how engineers think about cloud infrastructure and resource management. While Kubernetes served as the standard for container orchestration for ten years, its design ",
+   "image": null
+  },
+  {
+   "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+   "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+   "date": "2026-07-17T16:39:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
+  },
+  {
+   "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+   "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+   "date": "2026-07-17T15:57:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
+   "link": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
+   "date": "2026-07-17T14:05:45.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A technical breakdown of the pipeline, rendering techniques, and performance optimizations behind ZERO, an immersive scroll driven WebGL experience built for desktop and mobile.",
+   "image": null
+  },
+  {
+   "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+   "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+   "date": "2026-07-17T13:48:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
+  },
+  {
+   "title": "Quoting Kimi K3",
+   "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+   "date": "2026-07-17T13:43:53.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
+   "image": null
+  },
+  {
+   "title": "LakeDrops Drupal Consulting, Development and Hosting: A new chapter for the Drupal Association - and why I want you in it",
+   "link": "https://www.lakedrops.com/en/blog/new-chapter-drupal-association-and-why-i-want-you-it",
+   "date": "2026-07-17T12:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A new chapter for the Drupal Association - and why I want you in it Jürgen Haas Fri 17 Jul 2026 - 14:00 The Drupal Association is changing CEOs, and the community reacted with the intensity it usually reserves for contro",
+   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-07/rineshkumar-ghirao-UdDjFekHQuk-unsplash.jpg?h=0d27ee61&amp;itok=f8BNBp2Y"
   },
   {
    "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
@@ -80,16 +160,6 @@
    "source": "The Hacker News",
    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the displ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
-  },
-  {
-   "title": "We Measured the Lifespan of 7,144 Software Versions. The Median Is 18 Months.",
-   "link": "https://dev.to/endoflifeai/we-measured-the-lifespan-of-7144-software-versions-the-median-is-18-months-2dh0",
-   "date": "2026-07-17T11:36:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published at endoflife.ai. We run a database that tracks end-of-life dates for 485 software products — every version, every release date, every day the security patches stop. Which means we're sitting on somet",
-   "image": null
   },
   {
    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
@@ -132,16 +202,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
   },
   {
-   "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-   "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-   "date": "2026-07-17T06:42:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Feder",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
-  },
-  {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
    "link": "https://postgr.es/p/9pX",
    "date": "2026-07-17T06:05:23.000Z",
@@ -182,6 +242,16 @@
    "image": null
   },
   {
+   "title": "Vocalizer: Local Text-to-Speech for PHP",
+   "link": "https://laravel-news.com/vocalizer-local-text-to-speech-for-php?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-16T22:00:20.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Vocalizer is a native PHP extension for local speech synthesis, embedding sherpa-onnx and audio.cpp to run eight TTS model families — including Chatterbox voice cloning — behind one API. The post Vocalizer: Local Text-to",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/nativephp-vocalizer-featured.png"
+  },
+  {
    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
    "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
    "date": "2026-07-16T20:19:30.000Z",
@@ -210,36 +280,6 @@
    "source": "Simon Willison",
    "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandbox",
    "image": null
-  },
-  {
-   "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-   "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-   "date": "2026-07-16T17:09:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperab",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg"
-  },
-  {
-   "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-   "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-   "date": "2026-07-16T16:01:21.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-   "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-   "date": "2026-07-16T15:41:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
   },
   {
    "title": "Inkling: Our open-weights model",
@@ -412,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Mermaid to Unicode box art (grok-mermaid)",
-   "link": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-   "date": "2026-07-16T00:33:18.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs , a \"self-contained terminal renderer for Merma",
-   "image": null
-  },
-  {
    "title": "Enforce Per-Action Waiting Periods in Laravel with Cooldown",
    "link": "https://laravel-news.com/enforce-per-action-waiting-periods-in-laravel-with-cooldown?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-16T00:24:21.000Z",
@@ -469,16 +499,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "This article is cross-posted with permission from Dries Buytaert's blog. The Drupal Association is entering a new chapter. Tim Doyle is stepping down as CEO, and the Board has appointed Tiffany Farriss as interim CEO. I ",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Tiffany Farriss to lead the Drupal Association",
-   "link": "https://dri.es/tiffany-farriss-to-lead-the-drupal-association",
-   "date": "2026-07-15T21:54:09.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal Association is entering a new chapter. Tim Doyle is stepping down as CEO, and the Board has appointed Tiffany Farriss as interim CEO. I am grateful to Tim for his leadership and his impact on the Association. ",
    "image": null
   },
   {
@@ -538,7 +558,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5a109c667cf299103752/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5a6503ab5cb945332618/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -640,16 +660,6 @@
    "source": "Martin Fowler",
    "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from",
    "image": null
-  },
-  {
-   "title": "Laravel Quota: Usage Budgets for Calendar Periods",
-   "link": "https://laravel-news.com/laravel-quota-usage-budgets-for-calendar-periods?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-14T01:59:49.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "A Laravel package that tracks and enforces cumulative usage limits across calendar periods, with a fluent API, an Eloquent trait, route middleware, and cache or database storage. The post Laravel Quota: Usage Budgets for",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-quota-featured.png"
   },
   {
    "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
@@ -990,16 +1000,6 @@
    "source": "Percona Blog",
    "summary": "When you’re running MongoDB in production, backups are non-negotiable. But not all backup strategies are equal. The gap between a good backup strategy and a bad one only becomes visible at the worst possible moment: when",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
-  },
-  {
-   "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
-   "link": "https://tympanus.net/codrops/2026/07/02/from-years-of-client-work-to-a-next-js-sanity-starter-kit/",
-   "date": "2026-07-02T10:21:00.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How years of refining my workflow became a headless foundation other developers can build on.",
-   "image": null
   },
   {
    "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
