@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-07-17T07:28:38.390Z",
+ "generatedAt": "2026-07-17T12:19:36.182Z",
  "articles": [
   {
-   "title": "Build a Production-Grade Mail Server with Mailcow & Docker 🐋",
-   "link": "https://dev.to/bytesrack/build-a-production-grade-mail-server-with-mailcow-docker-pmn",
-   "date": "2026-07-17T07:20:43.000Z",
+   "title": "Terraorbit",
+   "link": "https://dev.to/apurvbjp25/terraorbit-1e8m",
+   "date": "2026-07-17T12:08:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every major mailbox provider charges a recurring monthly fee for something you can run yourself. If you have the hardware, you can host a complete, production-grade email stack—SMTP, IMAP, webmail, antivirus, and antispa",
+   "summary": "TerraOrbit: My 7-Day Journey Through the TrainWithShubham #TerraWeek Challenge The Challenge When TrainWithShubham announced the #TerraWeek Challenge — 7 days, one end-to-end Terraform project, real AWS infrastructure — ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmwlsvd4hiwh2k7izegwq.png"
+  },
+  {
+   "title": "The Hypervisor Has Become A Commodity. Operations Have Not.",
+   "link": "https://dev.to/ntctech/the-hypervisor-has-become-a-commodity-operations-have-not-kd",
+   "date": "2026-07-17T12:06:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hypervisor commoditization is changing how organizations evaluate virtualization platforms, but it is not reducing the operational complexity required to run them successfully. Twenty years ago, choosing a hypervisor was",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw6kidyj9vb5qtf0o6tut.jpg"
+  },
+  {
+   "title": "Top 12 AI DevOps Tools You Can Trust in 2026",
+   "link": "https://dev.to/aws-builders/12-ai-devops-tools-you-can-trust-in-2026-ad5",
+   "date": "2026-07-17T12:03:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Table of Contents Quick Comparison 1. Sysdig 2. AWS CodeGuru 3. Snyk 4. Amazon Q Developer and Kiro 5. PagerDuty 6. Atlassian Intelligence 7. GitHub Copilot 8. incident.io 9. Datadog 10. Dynatrace 11. Jenkins with AI Plu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp0y6vk39n2j6sx8ei232.png"
+  },
+  {
+   "title": "Embrace the Power of Observability",
+   "link": "https://dev.to/fabiosarmento/embrace-the-power-of-observability-9p1",
+   "date": "2026-07-17T12:02:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In a complex system, knowing what’s happening is half the battle. Implement observability tools to gain insights, reduce downtime, and enhance performance. It pays off!",
    "image": null
   },
   {
-   "title": "Beyond Logs: Why Observability's Next Era Is Comprehension",
-   "link": "https://dev.to/aws-builders/beyond-logs-why-observabilitys-next-era-is-comprehension-3l6",
-   "date": "2026-07-17T07:16:22.000Z",
+   "title": "The Importance of Documentation",
+   "link": "https://dev.to/fabiosarmento/the-importance-of-documentation-1lof",
+   "date": "2026-07-17T12:00:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Beyond Logs: Why Observability's Next Era Is Comprehension Ask most engineers to debug a production incident and watch what they reach for first. Nine times out of ten, it's logs. grep a request ID, tail a pod, scroll th",
+   "summary": "Good code might speak for itself, but great documentation speaks for the team. It bridges gaps and ensures continuity. Invest time in it—future you will thank you!",
    "image": null
   },
   {
-   "title": "How to Install KeyDB on Ubuntu: The Multi-Threaded Redis Alternative",
-   "link": "https://dev.to/jaksontate/how-to-install-keydb-on-ubuntu-the-multi-threaded-redis-alternative-572d",
-   "date": "2026-07-17T07:14:31.000Z",
+   "title": "I replaced ssh -L with one CLI command. No SSH keys, no VPN, no open ports.",
+   "link": "https://dev.to/javimosch/i-replaced-ssh-l-with-one-cli-command-no-ssh-keys-no-vpn-no-open-ports-91j",
+   "date": "2026-07-17T11:56:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Traditional in-memory databases process commands sequentially, utilizing a single thread exclusively. While recent updates introduced asynchronous network threading, core execution often remains isolated to one physical ",
+   "summary": "If you manage servers, you've done this a thousand times: ssh -L 5432:localhost:5432 user@prod-server It works. But it requires SSH keys, an open port 22, a VPN if you're behind NAT, and a running SSH daemon on the targe",
    "image": null
   },
   {
-   "title": "Top 10 Benefits of Blockchain Software Development for Modern Businesses",
-   "link": "https://dev.to/upwork_floatinginfotech_/top-10-benefits-of-blockchain-software-development-for-modern-businesses-25a3",
-   "date": "2026-07-17T07:12:00.000Z",
+   "title": "MongoDB Backup and Restore Strategy on AWS",
+   "link": "https://dev.to/skntin/mongodb-backup-and-restore-strategy-on-aws-4i6",
+   "date": "2026-07-17T11:49:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In today's rapidly evolving digital world, businesses are constantly searching for innovative technologies that can improve security, efficiency, transparency, and customer trust. One such revolutionary technology is Blo",
+   "summary": "Whether you're running a side project or managing enterprise-scale applications, having a reliable backup strategy for MongoDB is essential. I've seen teams invest months building systems but spend only a few minutes thi",
    "image": null
   },
   {
-   "title": "Integrating Weather Monitoring with Solar Farm SCADA for Smarter Operations",
-   "link": "https://dev.to/phuc_bach_22e/integrating-weather-monitoring-with-solar-farm-scada-for-smarter-operations-5cca",
-   "date": "2026-07-17T07:11:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Solar farms generate vast amounts of operational data, but monitoring electrical performance alone doesn't provide the complete picture. Environmental conditions—including solar radiation, temperature, wind, and rainfall",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0e9c605icdzzrrbztm28.png"
+   "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+   "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+   "date": "2026-07-17T11:44:41.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the displ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
   },
   {
-   "title": "Bitpanda Capital Markets Strengthens Digital Finance User Experience",
-   "link": "https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-strengthens-digital-finance-user-experience-4dc9",
-   "date": "2026-07-17T07:02:23.000Z",
+   "title": "We Measured the Lifespan of 7,144 Software Versions. The Median Is 18 Months.",
+   "link": "https://dev.to/endoflifeai/we-measured-the-lifespan-of-7144-software-versions-the-median-is-18-months-2dh0",
+   "date": "2026-07-17T11:36:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As digital financial platforms continue to evolve, user experience has become an important part of long-term platform development. A modern digital capital markets platform must not only provide access to financial infra",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpamljh5z3ux8w29tgw3t.png"
-  },
-  {
-   "title": "Prometheus Game Server Exporter Checklist for Player Metrics",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/prometheus-game-server-exporter-checklist-for-player-metrics-19a2",
-   "date": "2026-07-17T07:02:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Your Prometheus dashboard says everything is green while players are rage-quitting in Discord over lag. That disconnect happens because node_exporter and blackbox_exporter have no i",
+   "summary": "Originally published at endoflife.ai. We run a database that tracks end-of-life dates for 485 software products — every version, every release date, every day the security patches stop. Which means we're sitting on somet",
    "image": null
   },
   {
-   "title": "10 Top 55 Best Place to Buy Snapchat Accounts The",
-   "link": "https://dev.to/annnoraestradayi4zw/10-top-55-best-place-to-buy-snapchat-accounts-the-18oe",
-   "date": "2026-07-17T06:56:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Who Needs to Buy a Snapchat Account? 📞 WhatsApp: +1 (506) 541-7768 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhub.com/product/buy-snapchat-accounts/ Buying a ",
-   "image": null
+   "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+   "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+   "date": "2026-07-17T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
+  },
+  {
+   "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+   "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+   "date": "2026-07-17T10:53:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
+  },
+  {
+   "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+   "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+   "date": "2026-07-17T08:56:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
+  },
+  {
+   "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+   "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+   "date": "2026-07-17T08:46:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
   },
   {
    "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -90,6 +140,16 @@
    "source": "The Hacker News",
    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Feder",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
+  },
+  {
+   "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
+   "link": "https://postgr.es/p/9pX",
+   "date": "2026-07-17T06:05:23.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Postgres 19 is just a smorgasbord of new functionality; it's genuinely hard to believe they packed all these new features into a single release. To that laundry-list of new capabilities, it adds something I almost missed",
+   "image": null
   },
   {
    "title": "Spot birds not golf",
@@ -202,6 +262,16 @@
    "image": null
   },
   {
+   "title": "Meet the Speakers of the First Three.js Conference",
+   "link": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
+   "date": "2026-07-16T14:45:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Before they take the stage, we asked a handful of speakers to share what they're building, exploring, and excited to bring to Paris.",
+   "image": null
+  },
+  {
    "title": "Droptica: What to do after Drupal 7: new website, Drupal 11 migration, or another CMS?",
    "link": "https://www.droptica.com/blog/what-do-after-drupal-7-new-website-drupal-11-migration-or-another-cms/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
    "date": "2026-07-16T14:01:13.000Z",
@@ -210,16 +280,6 @@
    "source": "Drupal Planet",
    "summary": "Official Drupal 7 support ended on January 5, 2025 - yet many organizations still run sites on it in 2026. The real question is no longer “should we update?” but what platform you want for the next 5-10 years. A practica",
    "image": "https://www.droptica.com/sites/droptica.com/files/media/image/What%20to%20do%20after%20Drupal%207%20new%20website%2C%20Drupal%2011%20migration%2C%20or%20another%20CMS_1.png"
-  },
-  {
-   "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-   "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-   "date": "2026-07-16T13:33:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
   },
   {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
@@ -252,16 +312,6 @@
    "image": null
   },
   {
-   "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-   "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-   "date": "2026-07-16T12:50:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv5Rn7Ccy_az1UqogtcMmy8m09NuHcnSuylWjVMecOfxDKbvUAt4FnqKIJp4uZUcOPUmnYGIywea1nJG-yiSqcQbPC-ULonG5US-gEbUnkEHbGN3cVnQdkqbxKGt0EY4We_j8V9RrH4NVgtbPFEfc5mdMxV9sTOWSx_p3ShB0LWleupJbo74xMVlGHistw/s1600/click-malware.jpg"
-  },
-  {
    "title": "mark.ie: LocalGov Drupal Microsites Demo Module launched",
    "link": "https://mark.ie/blog/localgov-drupal-microsites-demo-module-launched",
    "date": "2026-07-16T12:47:30.000Z",
@@ -270,16 +320,6 @@
    "source": "Drupal Planet",
    "summary": "LocalGov Drupal Microsites Demo Module launched Contributing to LocalGov Microsites and demoing it to others is harder than it should be, due to the lack of a demo content. But no longer ... markconroy 16th Jul 2026",
    "image": null
-  },
-  {
-   "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-   "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-   "date": "2026-07-16T12:33:42.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
   },
   {
    "title": "Christopher Winslett: Postgres 19 Compression: from pglz to LZ4",
@@ -292,16 +332,6 @@
    "image": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/d24114b8-892a-49ae-2592-2ff2535dd900/original"
   },
   {
-   "title": "20+ Hijacked Government Websites Became an Attack Channel",
-   "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-   "date": "2026-07-16T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
-  },
-  {
    "title": "Newer Models, Same Advantage",
    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
    "date": "2026-07-16T11:49:48.000Z",
@@ -310,16 +340,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-   "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-   "date": "2026-07-16T11:32:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg"
   },
   {
    "title": "The Drop Times: AWS Outlines Sovereignty Controls as EU Sets Cloud Procurement Tests",
@@ -462,6 +482,16 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "What building Shippy taught us about building agents",
    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
    "date": "2026-07-15T17:29:41.000Z",
@@ -482,24 +512,34 @@
    "image": null
   },
   {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-15T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
+   "image": null
+  },
+  {
+   "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
+   "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
+   "date": "2026-07-15T14:33:53.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A behind-the-scenes look at how multiple animation, rendering, and interaction layers were unified into one performant web experience.",
+   "image": null
+  },
+  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a59d8572ba51150804565/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5a109c667cf299103752/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
-  },
-  {
-   "title": "Jimmy Angelakos: LISTEN Carefully: How NOTIFY Can Trip Up Your Database",
-   "link": "https://postgr.es/p/9pH",
-   "date": "2026-07-15T12:37:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "POSETTE: An Event for Postgres 2026 is an online event for PostgreSQL, brought to us by the Postgres team at Microsoft, which took place on June 16-18, 2026. I'll always have a soft spot for in-person conferences, but PO",
-   "image": "https://vyruss.org/blog/feeds/images/listen_notify.jpg"
   },
   {
    "title": "SymfonyCon Warsaw 2026: The first 4 speakers are live! 🔥",
@@ -672,6 +712,16 @@
    "image": null
   },
   {
+   "title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond",
+   "link": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
+   "date": "2026-07-13T11:43:42.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "For more than 15 years, makemepulse has combined creative storytelling and technical innovation to craft award-winning digital experiences across web, immersive media, and interactive installations.",
+   "image": null
+  },
+  {
    "title": "A Week of Symfony #1019 (July 6–12, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1019-july-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-12T07:33:00.000Z",
@@ -692,6 +742,16 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/architecture.png"
   },
   {
+   "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
+   "link": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
+   "date": "2026-07-10T13:31:58.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
+   "image": null
+  },
+  {
    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
    "link": "https://huggingface.co/blog/torch-attention-profile",
    "date": "2026-07-10T00:00:00.000Z",
@@ -699,6 +759,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
+   "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
+   "date": "2026-07-09T10:06:11.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A tutorial on how to create a minimalistic and customizable 3D wave grid background with Three.js.",
    "image": null
   },
   {
@@ -732,6 +802,16 @@
    "image": null
   },
   {
+   "title": "Ten Years Away: Designing an Interactive Comic for Studio375’s Tenth Anniversary",
+   "link": "https://tympanus.net/codrops/2026/07/08/ten-years-away-designing-an-interactive-comic-for-studio375s-tenth-anniversary/",
+   "date": "2026-07-08T10:32:42.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "The story behind \"Ten Years Away\", a scroll-driven interactive comic created to celebrate Studio375's tenth anniversary, from its printed origins to its WebGL implementation.",
+   "image": null
+  },
+  {
    "title": "Edge gets started on CSS mixins",
    "link": "https://frontendfoc.us/issues/749",
    "date": "2026-07-08T00:00:00.000Z",
@@ -749,6 +829,26 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-07T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
+   "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
+   "date": "2026-07-07T13:37:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Build a cinematic, scroll-driven 3D gallery using a camera path authored in Blender, rendered with Three.js, and animated with GSAP.",
    "image": null
   },
   {
@@ -892,6 +992,16 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
   },
   {
+   "title": "From Years of Client Work to a Next.js + Sanity Starter Kit",
+   "link": "https://tympanus.net/codrops/2026/07/02/from-years-of-client-work-to-a-next-js-sanity-starter-kit/",
+   "date": "2026-07-02T10:21:00.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "How years of refining my workflow became a headless foundation other developers can build on.",
+   "image": null
+  },
+  {
    "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
    "link": "https://www.percona.com/blog/mysql-8-0-eol-support-cve-fixes-covered/",
    "date": "2026-07-02T08:01:50.000Z",
@@ -910,6 +1020,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
+  },
+  {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
   },
   {
    "title": "A Week of Symfony #1017 (June 22–28, 2026)",
@@ -960,6 +1090,36 @@
    "source": "Kubernetes Blog",
    "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,",
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
+  },
+  {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateY()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+   "date": "2026-06-25T13:17:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateX()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+   "date": "2026-06-25T13:16:01.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
   },
   {
    "title": "CSS that picks its own readable text color",
