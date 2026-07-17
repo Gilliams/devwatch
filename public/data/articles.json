@@ -1,25 +1,115 @@
 {
- "generatedAt": "2026-07-16T18:17:42.409Z",
+ "generatedAt": "2026-07-17T00:10:20.606Z",
  "articles": [
   {
-   "title": "AIoT Explained: Why AI + IoT Is More Than Just Another Tech Buzzword",
-   "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-explained-why-ai-iot-is-more-than-just-another-tech-buzzword-254i",
-   "date": "2026-07-16T18:06:53.000Z",
+   "title": "How to Self-Host Nextcloud: A Complete Setup Guide",
+   "link": "https://dev.to/kimcomplete/how-to-self-host-nextcloud-a-complete-setup-guide-kem",
+   "date": "2026-07-17T00:04:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Developers have spent years building connected devices through IoT and intelligent applications with AI. But combining the two creates something that neither technology achieves alone. IoT collects data. AI understands d",
+   "summary": "A step-by-step guide to running your own private Nextcloud server — from choosing hardware and an install method to securing it with HTTPS and keeping it maintained. Nextcloud is an open-source content-collaboration plat",
    "image": null
   },
   {
-   "title": "Best Practices for Managing AWS WAF with Code",
-   "link": "https://dev.to/aws-builders/best-practices-for-managing-aws-waf-with-code-3efl",
-   "date": "2026-07-16T17:57:38.000Z",
+   "title": "✅ Day 10: 100 Days of GenAI for DevOps: MCP for DevOps Engineers: GitHub & AWS MCP Servers✅",
+   "link": "https://dev.to/lakhera2015/day-10-100-days-of-genai-for-devops-mcp-for-devops-engineers-github-aws-mcp-servers-7cf",
+   "date": "2026-07-16T23:54:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At first it is a few managed rule groups, an IP allowlist, maybe a rate limit on /login. Then a real application grows around it. You add exceptions. You tune false positives. You need different behavior for APIs, static",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs23tx46r7kozbnleo5ls.png"
+   "summary": "Today we're diving into one of the most important technologies in the AI ecosystem: Model Context Protocol (MCP). If you've been wondering how AI models can securely interact with external systems like GitHub, AWS, datab",
+   "image": null
+  },
+  {
+   "title": "Firefox in WebAssembly",
+   "link": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+   "date": "2026-07-16T23:34:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They",
+   "image": null
+  },
+  {
+   "title": "What if the safest Kubernetes fix is no fix at all?",
+   "link": "https://dev.to/mayank013/what-if-the-safest-kubernetes-fix-is-no-fix-at-all-29ac",
+   "date": "2026-07-16T22:49:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AI-assisted DevOps and SRE tools are becoming more common. Tools like K8sGPT can scan Kubernetes clusters, detect issues, and explain what might be going wrong. Most evaluations of these tools focus on one obvious questi",
+   "image": null
+  },
+  {
+   "title": "Fix Permission denied when editing /etc/hosts",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/fix-permission-denied-when-editing-etchosts-5c4f",
+   "date": "2026-07-16T22:38:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You open the hosts file, change one line, hit save, and get Permission denied. That is normal. The system hosts file is protected on purpose. On macOS and Linux, /etc/hosts is owned by root. On Windows, C:\\Windows\\System",
+   "image": null
+  },
+  {
+   "title": "Kubernetes in Azure",
+   "link": "https://dev.to/clinton_mbilitem_17fbf80c/kubernetes-in-azure-2mnk",
+   "date": "2026-07-16T22:35:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "creating a folder and initializing github for our work, then login in to our azure account creating our environmental variables and checking our Kubernetes version. creating a resource group in azure with variables creat",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F236m645c6jetxbwd7iv9.png"
+  },
+  {
+   "title": "DNS not updating after hosts file change? Fix it in order",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/dns-not-updating-after-hosts-file-change-fix-it-in-order-57en",
+   "date": "2026-07-16T22:32:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You edited the hosts file. The line looks correct. The browser still opens the old site. Do not rewrite the hosts file again yet. Walk the stack in order. macOS / Linux: grep -n \"example.com\" /etc/hosts Windows (Admin Po",
+   "image": null
+  },
+  {
+   "title": "Learn grok-build in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-54hf",
+   "date": "2026-07-16T22:27:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Did you know that 9 out of 10 developers waste over 2 hours a day on inefficient build processes? Last week, I spent hours struggling to optimize my build workflow, until I discovered grok-build, a powerful ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "macOS runs out of application memory because your dead dev servers never die",
+   "link": "https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c",
+   "date": "2026-07-16T22:18:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "It was past midnight and my Mac threw a box I had not seen in years. Your system has run out of application memory. Force Quit Applications. I had four things open. A browser, an editor, a terminal, and a music app that ",
+   "image": null
+  },
+  {
+   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+   "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+   "date": "2026-07-16T20:19:30.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release",
+   "image": null
+  },
+  {
+   "title": "Antony Pegg: Spock 6: The Only Logical Choice",
+   "link": "https://postgr.es/p/9pV",
+   "date": "2026-07-16T20:16:33.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Spock 6 has landed in Beta. pgEdge's multi-master replication extension now runs on PostgreSQL 16, 17, 18, and 19, tracks replication progress in shared memory instead of a catalog table, spills oversized replay queues t",
+   "image": "https://a.storyblok.com/f/187930/1370x904/76a4bbc4eb/spock-6-blog-1.png"
   },
   {
    "title": "Quoting Thibault Sottiaux",
@@ -29,66 +119,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandbox",
-   "image": null
-  },
-  {
-   "title": "From the Captain’s Chair: Mohammad-Ali A’râbi",
-   "link": "https://dev.to/rasne/from-the-captains-chair-mohammad-ali-arabi-1fok",
-   "date": "2026-07-16T17:30:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Canonical: From the Captain’s Chair: Mohammad-Ali A’râbi — read the full article on rasne.dev. In this edition of From the Captain’s Chair, we’re interviewing Mohammad-Ali A'râbi, author, public speaker, and software eng",
-   "image": null
-  },
-  {
-   "title": "Don't Just Learn AI — Deploy It",
-   "link": "https://dev.to/fatai_kolalawal_9b7c054d/dont-just-learn-ai-deploy-it-1c0n",
-   "date": "2026-07-16T17:27:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Production-ready Python code for 4 types of AI agents. Customer support, sales, content, ops — each with setup guide. No enterprise tools needed. 🌍 https://lawalfataikola.gumroad.com/l/dtbkre https://selar.com/4459d4651",
-   "image": null
-  },
-  {
-   "title": "I Asked GPT to Build the Same Infrastructure in AWS CDK, Terraform, Pulumi, and SST. Here's What Happened.",
-   "link": "https://dev.to/sun_wukong121/i-asked-gpt-to-build-the-same-infrastructure-in-aws-cdk-terraform-pulumi-and-sst-heres-what-al5",
-   "date": "2026-07-16T17:25:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most Infrastructure as Code debates ask the same questions: Which tool has the best syntax? Which one scales across teams? Which one supports multiple clouds? Which one produces the safest deployments? But AI coding agen",
-   "image": null
-  },
-  {
-   "title": "Is 9Proxy Down in 2026? Verified Status, Timeline & Best Alternatives Is 9Proxy Down in 2026? Verified Status, Timeline & Best Alternatives",
-   "link": "https://dev.to/proxyuniverse/is-9proxy-down-in-2026-verified-status-timeline-best-alternatives-is-9proxy-down-in-2026-1fo",
-   "date": "2026-07-16T17:25:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Last updated: July 16, 2026 Is 9Proxy down right now? What happened Verified timeline Why \"HTTP 200\" is not a proxy test Was 9Proxy seized or shut down? 9Proxy not working? Fast troubleshooting Best 9Proxy alternatives i",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1q4xmmv3m2kdu0lzf7uh.png"
-  },
-  {
-   "title": "Orion Belt v1.0 — from Alpha bastion to a stable self-hosted SSH PAM",
-   "link": "https://dev.to/zrouga/orion-belt-v10-from-alpha-bastion-to-a-stable-self-hosted-ssh-pam-3kn9",
-   "date": "2026-07-16T17:15:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Earlier I wrote Meet Orion-Belt, Go ZeroTrust Bastion — the Alpha “here’s the idea” post. This is the follow-up: I tagged v1.0.0, moved the project under orion-belt-dev, and I’m willing to call the SSH PAM slice stable. ",
-   "image": null
-  },
-  {
-   "title": "I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week",
-   "link": "https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7",
-   "date": "2026-07-16T17:12:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A lot of teams still treat fallback like a polish feature. Something you add after v1. Something for \"enterprise reliability\" later. I think that mindset is dead if you're building agents that actually run all day. While",
    "image": null
   },
   {
@@ -132,6 +162,16 @@
    "image": null
   },
   {
+   "title": "Mermaid to ASCII art (mermaid-ascii)",
+   "link": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+   "date": "2026-07-16T14:57:39.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Mermaid to ASCII art (mermaid-ascii) After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii tha",
+   "image": null
+  },
+  {
    "title": "Meet the Speakers of the First Three.js Conference",
    "link": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
    "date": "2026-07-16T14:45:56.000Z",
@@ -150,6 +190,16 @@
    "source": "The Hacker News",
    "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
+  },
+  {
+   "title": "PHP 8.6.0 Alpha 2 available for testing",
+   "link": "https://www.php.net/index.php#2026-07-16-1",
+   "date": "2026-07-16T13:28:29.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
+   "image": null
   },
   {
    "title": "Quoting Linus Torvalds",
@@ -269,6 +319,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "When you are upgrading across major PostgreSQL versions, there are a few ways to go. Dump and restore is the simplest to reason about, but downtime scales directly with database size, so for anything multi-terabyte, it i",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Darren Oh Outlines Drupal Board Priorities on AI, Sovereignty, and Contributor Health",
+   "link": "https://www.thedroptimes.com/interview/71159/darren-oh-drupal-board-priorities?utm_source=Drupal Planet",
+   "date": "2026-07-16T06:10:16.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Darren Oh links his board candidacy to a question now facing Drupal: how the project can expand adoption without adding friction for maintainers, smaller projects, and new users.",
    "image": null
   },
   {
@@ -402,13 +462,13 @@
    "image": null
   },
   {
-   "title": "Security advisories: Drupal core - Moderately critical - Cross-site scripting - SA-CORE-2026-012",
-   "link": "https://www.drupal.org/sa-core-2026-012",
-   "date": "2026-07-15T19:52:26.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Project: Drupal core Date: 2026-July-15 Security risk: Moderately critical 13 ∕ 25 AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default Vulnerability: Cross-site scripting Affected versions: =11.3.0 =11.4.0 <11.4.4 |",
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
    "image": null
   },
   {
@@ -432,6 +492,16 @@
    "image": null
   },
   {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-15T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
+   "image": null
+  },
+  {
    "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
    "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
    "date": "2026-07-15T14:33:53.000Z",
@@ -442,23 +512,13 @@
    "image": null
   },
   {
-   "title": "How I tricked Claude into leaking your deepest, darkest secrets",
-   "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-   "date": "2026-07-15T14:21:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design. To recap: r",
-   "image": null
-  },
-  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a591b8f52d34433451490/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a596e8a29f36315970137/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -559,36 +619,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Quoting GitHub Changelog",
-   "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
-   "date": "2026-07-14T22:43:35.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; Gi",
-   "image": null
-  },
-  {
-   "title": "simonw/pedalican",
-   "link": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
-   "date": "2026-07-14T22:29:45.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then lear",
-   "image": null
-  },
-  {
-   "title": "Regina Obe: Replacing pgAgent with pg_timetable: Part 2 - Installing pg_timetable as a service in Linux",
-   "link": "https://postgr.es/p/9pE",
-   "date": "2026-07-14T20:07:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "As stated in Part 1, pgAgent is going away, so I'm focussing on setting up pg_timetable as similar to pgAgent that I can. For this second part, I'm going to go over how to configure pg_timetable as a service on Linux. A ",
    "image": null
   },
   {
@@ -802,6 +832,16 @@
    "image": null
   },
   {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-07T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
    "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
    "date": "2026-07-07T13:37:56.000Z",
@@ -982,6 +1022,26 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
+  },
+  {
    "title": "A Week of Symfony #1017 (June 22–28, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1017-june-22-28-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-06-28T07:40:00.000Z",
@@ -1032,6 +1092,36 @@
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
   },
   {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateY()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+   "date": "2026-06-25T13:17:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateX()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+   "date": "2026-06-25T13:16:01.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
    "title": "CSS that picks its own readable text color",
    "link": "https://frontendfoc.us/issues/747",
    "date": "2026-06-24T00:00:00.000Z",
@@ -1070,16 +1160,6 @@
    "source": "MDN Blog",
    "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
    "image": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png"
-  },
-  {
-   "title": "PHP 8.4.22 Released!",
-   "link": "https://www.php.net/index.php#2026-06-04-2",
-   "date": "2026-06-04T22:14:47.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.22. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.22 please visit our , W",
-   "image": null
   }
  ]
 }
