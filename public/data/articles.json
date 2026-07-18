@@ -1,64 +1,84 @@
 {
- "generatedAt": "2026-07-18T07:06:24.926Z",
+ "generatedAt": "2026-07-18T12:02:05.479Z",
  "articles": [
   {
-   "title": "You fixed SPF, DKIM and DMARC and email still lands in spam. Here's why.",
-   "link": "https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f",
-   "date": "2026-07-18T07:04:20.000Z",
+   "title": "Tarik4D - Situs Slot Online Terpercaya 2026 | Platform Resmi Indonesia, Login Mudah & Deposit 10 Ribu",
+   "link": "https://dev.to/tarik4d/tarik4d-situs-slot-online-terpercaya-2026-platform-resmi-indonesia-login-mudah-deposit-10-2po8",
+   "date": "2026-07-18T11:53:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last post I got the auth records green on my side-project mail. SPF, DKIM, DMARC all passing, and I figured the hard part was behind me. It wasn't. The first real campaign, about four thousand people, mostly never reache",
+   "summary": "",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0ygm90hkuhtii093sux.png"
+  },
+  {
+   "title": "Salesforce DevOps with Copado Training | Live Online Course",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-with-copado-training-live-online-course-440o",
+   "date": "2026-07-18T11:39:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🚀 𝗕𝗲𝗰𝗼𝗺𝗲 𝗮 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝘅𝗽𝗲𝗿𝘁 𝘄𝗶𝘁𝗵 #𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵! ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗠𝗮𝘀𝘁𝗲𝗿: 🎯 𝗜𝗱𝗲𝗮𝗹 𝗳𝗼𝗿 Salesforce Developers, Admins, Consultants, and DevOps Professio",
    "image": null
   },
   {
-   "title": "Stop Credential Stuffing on Login with Cloudflare WAF Rules",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/stop-credential-stuffing-on-login-with-cloudflare-waf-rules-2pak",
-   "date": "2026-07-18T07:01:52.000Z",
+   "title": "How to Choose the Best Web Design Agency for Your Business",
+   "link": "https://dev.to/omsoftsolution_3e6d60c900/how-to-choose-the-best-web-design-agency-for-your-business-2cin",
+   "date": "2026-07-18T11:31:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Cloudflare WAF credential stuffing attacks don't look like a DDoS, and that's exactly why our first response made things worse. At 3am, PagerDuty woke me up because /api/v1/auth/log",
+   "summary": "How to Choose the Best Web Design Agency for Your Business website designing company in Delhi, it is imperative to consider certain parameters that make such an agency a good candidate for your project. website developme",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hamkoypqw0wfm55h9kp.png"
+  },
+  {
+   "title": "Unlock the Power of DevOps: A Guide for Modern Development Teams",
+   "link": "https://dev.to/chirag_rao_dde28961ccc574/unlock-the-power-of-devops-a-guide-for-modern-development-teams-oom",
+   "date": "2026-07-18T11:20:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction to DevOps In today's fast-paced tech environment, the pressure to deliver high-quality software quickly is at an all-time high. This is where DevOps steps in as a game-changer for development teams. By foste",
    "image": null
   },
   {
-   "title": "How to Choose an AI Gateway: 6 Criteria That Actually Matter",
-   "link": "https://dev.to/sahajmeet_kaur_/how-to-choose-an-ai-gateway-6-criteria-that-actually-matter-1g81",
-   "date": "2026-07-18T06:30:00.000Z",
+   "title": "Learn grok-build in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-5f8o",
+   "date": "2026-07-18T10:45:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every \"top N AI gateways\" list answers the wrong question first. Which one has the most providers or the lowest latency matters less than what you're actually trying to solve, and most teams pick a gateway before they've",
+   "summary": "Introduction Did you know that 70% of developers spend more time debugging than writing code, and a simple tool like grok-build can change that? You'll build a fully functional development environment with grok-build in ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Public vs Private IP Addresses",
+   "link": "https://dev.to/divineuzor/public-vs-private-ip-addresses-4e89",
+   "date": "2026-07-18T10:19:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "By now, you know that every device connected to a network needs an IP address. But here's something that often surprises beginners. Not all IP addresses are meant to be seen on the Internet. Some are designed for public ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8muw1oj4j0f350ikbk1c.png"
+  },
+  {
+   "title": "From Monolith to Mesh — Why Your Content Pipeline Needs an Orchestration Layer",
+   "link": "https://dev.to/claudia-ve/from-monolith-to-mesh-why-your-content-pipeline-needs-an-orchestration-layer-25lb",
+   "date": "2026-07-18T10:16:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every content team I've worked with starts the same way: write a post, copy-paste to Twitter, LinkedIn, Medium, and a newsletter. Then add YouTube descriptions, Reddit crossposts, and Discord announcements. Before long, ",
    "image": null
   },
   {
-   "title": "Building a Fully Automated SaaS: Payment to Deployment in 90 Seconds",
-   "link": "https://dev.to/agentchip/building-a-fully-automated-saas-payment-to-deployment-in-90-seconds-454c",
-   "date": "2026-07-18T06:19:16.000Z",
+   "title": "First Time I Self-Hosted SigNoz and Found the Observability Feature I Didn’t Know I Needed",
+   "link": "https://dev.to/kuntal22tech/first-time-i-self-hosted-signoz-and-found-the-observability-feature-i-didnt-know-i-needed-2im0",
+   "date": "2026-07-18T10:02:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Zero-Touch Customer Onboarding My AI agent hosting service has exactly zero manual steps between payment and deployment. Here is how: Customer pays via PayPal subscription Webhook fires to our server within seconds Pytho",
-   "image": null
-  },
-  {
-   "title": "I Automated the Entire AI Agent Hosting Business — Zero Human Intervention",
-   "link": "https://dev.to/agentchip/i-automated-the-entire-ai-agent-hosting-business-zero-human-intervention-2684",
-   "date": "2026-07-18T06:13:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Setup I run a fully automated AI agent hosting service. Customers pay via PayPal, get a Docker container with Hermes Agent pre-installed, receive their API key via email, and start using it — all without any human in",
-   "image": null
-  },
-  {
-   "title": "The Hidden Cost of Saving $1000/Month: Our AWS SES Migration Story",
-   "link": "https://dev.to/twinkalp10/the-hidden-cost-of-saving-1000month-our-aws-ses-migration-story-5fbn",
-   "date": "2026-07-18T06:02:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "4:00 PM on a Friday, a ticket came in from our highest-paying customer: \"None of our staff are receiving your system alerts.\" I opened the AWS SES console expecting a quick answer. Instead: no dashboard, no way to search",
+   "summary": "I started this project expecting to explore observability. I ended up discovering how much easier debugging becomes when traces, metrics, and logs are connected in one place. \"Distributed Tracing\". And I quickly understo",
    "image": null
   },
   {
@@ -72,16 +92,6 @@
    "image": null
   },
   {
-   "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-2jhe",
-   "date": "2026-07-18T05:41:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 9 out of 10 developers waste over 2 hours daily on manual build processes? Last week, I spent 3 hours manually building and debugging a Rust project, only to realize that I could have autom",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
    "title": "nascheme/quixote",
    "link": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
    "date": "2026-07-18T05:27:49.000Z",
@@ -89,16 +99,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that",
-   "image": null
-  },
-  {
-   "title": "Why Your Automation Completed Successfully But Shipped Nothing",
-   "link": "https://dev.to/babarmaker76/why-your-automation-completed-successfully-but-shipped-nothing-3pa2",
-   "date": "2026-07-18T05:10:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your n8n workflow ran successfully. The logs say 200. Your monitoring dashboard is green. But three days later, a customer asks why their data never arrived. The workflow executed — it just did nothing. This isn't a cras",
    "image": null
   },
   {
@@ -558,7 +558,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5b166a68999641555379/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5b6237e05f5876753804/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
