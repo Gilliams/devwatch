@@ -1,75 +1,115 @@
 {
- "generatedAt": "2026-07-17T18:15:55.653Z",
+ "generatedAt": "2026-07-18T00:06:08.137Z",
  "articles": [
   {
-   "title": "Production Ready Terraform with Testing, Validation and CI/CD",
-   "link": "https://dev.to/fatihkoc/production-ready-terraform-with-testing-validation-and-cicd-3ef0",
-   "date": "2026-07-17T18:09:49.000Z",
+   "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
+   "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2ohl",
+   "date": "2026-07-18T00:04:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've seen plenty of teams running Terraform from their laptops. Some commit the state file to git (which creates merge conflicts and exposes secrets). Others share it via S3 buckets without locking. A few keep it local a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdgskpmzdi3l1wptmjkxn.webp"
-  },
-  {
-   "title": "GitHub Actions: Automating Your Development Workflow",
-   "link": "https://dev.to/said_olano/github-actions-automating-your-development-workflow-2o2e",
-   "date": "2026-07-17T18:08:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "GitHub Actions: Automating Your Development Workflow GitHub Actions is GitHub's native CI/CD solution that automates your development workflow directly within your repository. Whether you're running tests, building conta",
+   "summary": "Open-source workspaces, wikis, and note tools you can run on your own server — and how to choose between them for data ownership, privacy, and cost control. Notion is a flexible all-in-one workspace, but it is a closed, ",
    "image": null
   },
   {
-   "title": "Vault as an OIDC Identity Provider: Exposing Private Discovery Endpoints to the World",
-   "link": "https://dev.to/drewmullen/vault-as-an-oidc-identity-provider-exposing-private-discovery-endpoints-to-the-world-jlh",
-   "date": "2026-07-17T17:55:25.000Z",
+   "title": "2026's Best Websites to Buy Verified Paxful Accounts In 2025/26",
+   "link": "https://dev.to/rubettaestejs8rv/2026s-best-websites-to-buy-verified-paxful-accounts-in-202526-2l4n",
+   "date": "2026-07-18T00:03:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Note: this blog was co-authored with the excellent David Alexander HashiCorp Vault can be used to centralize third-party service access via Secret Engines. To do that Vault needs a way to authenticate to the service whic",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjqfyhha0nx4hxxxwm09c.png"
-  },
-  {
-   "title": "Prometheus Was Built for Metrics. We’re Asking It to Explain Systems.",
-   "link": "https://dev.to/kubeha_18/prometheus-was-built-for-metrics-were-asking-it-to-explain-systems-9a1",
-   "date": "2026-07-17T17:48:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Prometheus Was Built for Metrics. We're Asking It to Explain Systems. For nearly a decade, Prometheus has been the gold standard for Kubernetes monitoring. It revolutionized cloud-native observability by making metrics c",
+   "summary": "Buy Verified Paxful Accounts 🌐 24/7 Customer Support Available 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website",
    "image": null
   },
   {
-   "title": "EnvGuard v4.0 — Now You Can See Your Environment Drift (and Catch Secrets You Leaked Months Ago)",
-   "link": "https://dev.to/tuhin1122/envguard-v40-now-you-can-see-your-environment-drift-and-catch-secrets-you-leaked-months-ago-35oj",
-   "date": "2026-07-17T17:37:02.000Z",
+   "title": "AES-GCM vs ChaCha20-Poly1305: A Practical Comparison for Protocol Designers",
+   "link": "https://dev.to/pstayet/aes-gcm-vs-chacha20-poly1305-a-practical-comparison-for-protocol-designers-5ef",
+   "date": "2026-07-17T23:33:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every developer has been burned by a broken .env file—missing variables, empty values, or secrets accidentally committed to Git. EnvGuard v4 introduces two major features that make environment management even safer. 🚀 N",
+   "summary": "If you build anything with transport security — VPNs, tunnels, messaging protocols, or encrypted overlay networks — you've met two dominant AEAD constructions: AES-256-GCM and ChaCha20-Poly1305. Both give you authenticat",
    "image": null
   },
   {
-   "title": "7 Things Nobody Tells You Before Deploying Your First Full-Stack Application",
-   "link": "https://dev.to/drpratik/7-things-nobody-tells-you-before-deploying-your-first-full-stack-application-c5j",
-   "date": "2026-07-17T17:36:40.000Z",
+   "title": "The OpenTofu Errors You'll Actually Hit (and How to Fix Them Fast)",
+   "link": "https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e",
+   "date": "2026-07-17T23:14:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When I built my first full-stack application, I thought the hard part was writing the code. I was wrong. The application worked perfectly on my local machine. The frontend loaded, the backend responded, the database conn",
+   "summary": "Every OpenTofu user hits the same wall of errors eventually, usually at the worst possible moment — mid-deploy, in CI, with a teammate waiting. After enough tofu apply runs on real infra I've learned that most of these h",
    "image": null
   },
   {
-   "title": "How to Safely Buy Old GitHub Accounts Without Avoid",
-   "link": "https://dev.to/marianawalterl8gta/how-to-safely-buy-old-github-accounts-without-avoid-83a",
-   "date": "2026-07-17T17:27:08.000Z",
+   "title": "Blinding the State Informant: How Axiom Shield Weaponizes Client-Side Sandboxing Against EU Chat Control",
+   "link": "https://dev.to/gabrielgigitashvili044pixel/blinding-the-state-informant-how-axiom-shield-weaponizes-client-side-sandboxing-against-eu-chat-3bpj",
+   "date": "2026-07-17T22:51:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy GitHub Accounts from usadigitalhub.com 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website:https://usadigitalhu",
+   "summary": "The regulatory push for EU Chat Control 2.0 has exposed a fundamental architectural vulnerability in modern operating systems. Governments have realized that while breaking End-to-End Encryption (E2EE) at the protocol le",
    "image": null
+  },
+  {
+   "title": "AI Worked Both Sides of the Security Ledger This Week. Here's What to Actually Run",
+   "link": "https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071",
+   "date": "2026-07-17T22:24:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Two of the zero-days Microsoft patched on July 14 are being exploited right now. Here is the one-liner to check whether either is sitting in your stack, and then the more interesting question underneath it: why the pile ",
+   "image": null
+  },
+  {
+   "title": "Docker Compose verstehen: Services, Volumes, Netzwerke",
+   "link": "https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je",
+   "date": "2026-07-17T22:10:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Im Docker-Tutorial hast du das Compose-Plugin compose.yaml. Wer diese Wir bauen Schritt für Schritt einen kleinen Stack auf und lernen dabei die fünf compose.yaml besteht: Services Ports (Erreichbarkeit von außen), Volum",
+   "image": null
+  },
+  {
+   "title": "Learn grok-build in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-em8",
+   "date": "2026-07-17T22:10:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week I spent 3 hours debugging a complex Rust project, only to realize that I could have saved hours by automating my build process with grok-build. You'll build a fully functional grok-build workflow t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+   "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+   "date": "2026-07-17T21:20:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
+  },
+  {
+   "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+   "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+   "date": "2026-07-17T20:20:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
+  },
+  {
+   "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+   "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+   "date": "2026-07-17T18:54:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteV",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
   },
   {
    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
@@ -82,16 +122,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
   },
   {
-   "title": "Modern Compute Strategies for Agentic Workloads",
-   "link": "https://dev.to/vpodk/modern-compute-strategies-for-agentic-workloads-58cm",
-   "date": "2026-07-17T17:02:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The rapid rise of AI agents is fundamentally shifting how engineers think about cloud infrastructure and resource management. While Kubernetes served as the standard for container orchestration for ten years, its design ",
-   "image": null
-  },
-  {
    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
    "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
    "date": "2026-07-17T16:39:16.000Z",
@@ -100,6 +130,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
+  },
+  {
+   "title": "The Drop Times: Three Providers Complete IRAP Assessments for Rules as Code Delivery",
+   "link": "https://www.thedroptimes.com/71208/salsa-rules-code-irap-assessment?utm_source=Drupal Planet",
+   "date": "2026-07-17T16:06:33.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Panel access simplifies procurement but does not authorise a deployment. Agencies still need to review the assessment scope, findings, and residual risk against their intended use.",
+   "image": null
   },
   {
    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
@@ -142,6 +182,16 @@
    "image": null
   },
   {
+   "title": "LLM cliché highlighter",
+   "link": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+   "date": "2026-07-17T12:11:11.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app ",
+   "image": null
+  },
+  {
    "title": "LakeDrops Drupal Consulting, Development and Hosting: A new chapter for the Drupal Association - and why I want you in it",
    "link": "https://www.lakedrops.com/en/blog/new-chapter-drupal-association-and-why-i-want-you-it",
    "date": "2026-07-17T12:00:00.000Z",
@@ -170,36 +220,6 @@
    "source": "The Hacker News",
    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
-  },
-  {
-   "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-   "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-   "date": "2026-07-17T10:53:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg"
-  },
-  {
-   "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-   "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-   "date": "2026-07-17T08:56:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
-  },
-  {
-   "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-   "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-   "date": "2026-07-17T08:46:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
   },
   {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
@@ -329,16 +349,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
-   "image": null
-  },
-  {
-   "title": "Quoting Linus Torvalds",
-   "link": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
-   "date": "2026-07-16T13:26:10.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with ",
    "image": null
   },
   {
@@ -492,16 +502,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXM5rJsb0CBv9EBQcdoLYPuzplnG_hdo8gEs9vC2qRLNpHiIKx2bd9afGBmORny3aVJWx1jyUVOzIBz3d1Av8PuloXfAgZOHJ08zV0hWVEa2DQJ5Ktaohtz-H5lV-YRoFAHDjf4VK9aEaTal3_SxtmOV1FjrJYVI469F1GSaKynbS7j_KgYRuvLbKGPuuS/s1600/image-01.jpeg"
   },
   {
-   "title": "Drupal Association blog: Tiffany Farriss to lead the Drupal Association",
-   "link": "https://www.drupal.org/association/blog/tiffany-farriss-to-lead-the-drupal-association",
-   "date": "2026-07-15T22:05:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This article is cross-posted with permission from Dries Buytaert's blog. The Drupal Association is entering a new chapter. Tim Doyle is stepping down as CEO, and the Board has appointed Tiffany Farriss as interim CEO. I ",
-   "image": null
-  },
-  {
    "title": "pointer-events",
    "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
    "date": "2026-07-15T19:57:51.000Z",
@@ -558,7 +558,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5a6503ab5cb945332618/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5ac206e1c85650393108/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
