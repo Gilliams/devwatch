@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-07-18T00:06:08.137Z",
+ "generatedAt": "2026-07-18T07:06:24.926Z",
  "articles": [
   {
-   "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
-   "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2ohl",
-   "date": "2026-07-18T00:04:24.000Z",
+   "title": "You fixed SPF, DKIM and DMARC and email still lands in spam. Here's why.",
+   "link": "https://dev.to/basictechnology/you-fixed-spf-dkim-and-dmarc-and-email-still-lands-in-spam-heres-why-a4f",
+   "date": "2026-07-18T07:04:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Open-source workspaces, wikis, and note tools you can run on your own server — and how to choose between them for data ownership, privacy, and cost control. Notion is a flexible all-in-one workspace, but it is a closed, ",
+   "summary": "Last post I got the auth records green on my side-project mail. SPF, DKIM, DMARC all passing, and I figured the hard part was behind me. It wasn't. The first real campaign, about four thousand people, mostly never reache",
    "image": null
   },
   {
-   "title": "2026's Best Websites to Buy Verified Paxful Accounts In 2025/26",
-   "link": "https://dev.to/rubettaestejs8rv/2026s-best-websites-to-buy-verified-paxful-accounts-in-202526-2l4n",
-   "date": "2026-07-18T00:03:59.000Z",
+   "title": "Stop Credential Stuffing on Login with Cloudflare WAF Rules",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/stop-credential-stuffing-on-login-with-cloudflare-waf-rules-2pak",
+   "date": "2026-07-18T07:01:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Verified Paxful Accounts 🌐 24/7 Customer Support Available 📞 WhatsApp: +1 (506) 541-7768 📱 Telegram: https://t.me/UsaDigitalHub 📢 Telegram Username: @usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Website",
+   "summary": "Originally published on kuryzhev.cloud Cloudflare WAF credential stuffing attacks don't look like a DDoS, and that's exactly why our first response made things worse. At 3am, PagerDuty woke me up because /api/v1/auth/log",
    "image": null
   },
   {
-   "title": "AES-GCM vs ChaCha20-Poly1305: A Practical Comparison for Protocol Designers",
-   "link": "https://dev.to/pstayet/aes-gcm-vs-chacha20-poly1305-a-practical-comparison-for-protocol-designers-5ef",
-   "date": "2026-07-17T23:33:10.000Z",
+   "title": "How to Choose an AI Gateway: 6 Criteria That Actually Matter",
+   "link": "https://dev.to/sahajmeet_kaur_/how-to-choose-an-ai-gateway-6-criteria-that-actually-matter-1g81",
+   "date": "2026-07-18T06:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you build anything with transport security — VPNs, tunnels, messaging protocols, or encrypted overlay networks — you've met two dominant AEAD constructions: AES-256-GCM and ChaCha20-Poly1305. Both give you authenticat",
+   "summary": "Every \"top N AI gateways\" list answers the wrong question first. Which one has the most providers or the lowest latency matters less than what you're actually trying to solve, and most teams pick a gateway before they've",
    "image": null
   },
   {
-   "title": "The OpenTofu Errors You'll Actually Hit (and How to Fix Them Fast)",
-   "link": "https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e",
-   "date": "2026-07-17T23:14:11.000Z",
+   "title": "Building a Fully Automated SaaS: Payment to Deployment in 90 Seconds",
+   "link": "https://dev.to/agentchip/building-a-fully-automated-saas-payment-to-deployment-in-90-seconds-454c",
+   "date": "2026-07-18T06:19:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every OpenTofu user hits the same wall of errors eventually, usually at the worst possible moment — mid-deploy, in CI, with a teammate waiting. After enough tofu apply runs on real infra I've learned that most of these h",
+   "summary": "Zero-Touch Customer Onboarding My AI agent hosting service has exactly zero manual steps between payment and deployment. Here is how: Customer pays via PayPal subscription Webhook fires to our server within seconds Pytho",
    "image": null
   },
   {
-   "title": "Blinding the State Informant: How Axiom Shield Weaponizes Client-Side Sandboxing Against EU Chat Control",
-   "link": "https://dev.to/gabrielgigitashvili044pixel/blinding-the-state-informant-how-axiom-shield-weaponizes-client-side-sandboxing-against-eu-chat-3bpj",
-   "date": "2026-07-17T22:51:13.000Z",
+   "title": "I Automated the Entire AI Agent Hosting Business — Zero Human Intervention",
+   "link": "https://dev.to/agentchip/i-automated-the-entire-ai-agent-hosting-business-zero-human-intervention-2684",
+   "date": "2026-07-18T06:13:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The regulatory push for EU Chat Control 2.0 has exposed a fundamental architectural vulnerability in modern operating systems. Governments have realized that while breaking End-to-End Encryption (E2EE) at the protocol le",
+   "summary": "The Setup I run a fully automated AI agent hosting service. Customers pay via PayPal, get a Docker container with Hermes Agent pre-installed, receive their API key via email, and start using it — all without any human in",
    "image": null
   },
   {
-   "title": "AI Worked Both Sides of the Security Ledger This Week. Here's What to Actually Run",
-   "link": "https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071",
-   "date": "2026-07-17T22:24:56.000Z",
+   "title": "The Hidden Cost of Saving $1000/Month: Our AWS SES Migration Story",
+   "link": "https://dev.to/twinkalp10/the-hidden-cost-of-saving-1000month-our-aws-ses-migration-story-5fbn",
+   "date": "2026-07-18T06:02:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Two of the zero-days Microsoft patched on July 14 are being exploited right now. Here is the one-liner to check whether either is sitting in your stack, and then the more interesting question underneath it: why the pile ",
+   "summary": "4:00 PM on a Friday, a ticket came in from our highest-paying customer: \"None of our staff are receiving your system alerts.\" I opened the AWS SES console expecting a quick answer. Instead: no dashboard, no way to search",
    "image": null
   },
   {
-   "title": "Docker Compose verstehen: Services, Volumes, Netzwerke",
-   "link": "https://dev.to/serverkueche/docker-compose-verstehen-services-volumes-netzwerke-11je",
-   "date": "2026-07-17T22:10:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Im Docker-Tutorial hast du das Compose-Plugin compose.yaml. Wer diese Wir bauen Schritt für Schritt einen kleinen Stack auf und lernen dabei die fünf compose.yaml besteht: Services Ports (Erreichbarkeit von außen), Volum",
+   "title": "Claude make Fable 5 permanent",
+   "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+   "date": "2026-07-18T06:00:13.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will cont",
    "image": null
   },
   {
    "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-em8",
-   "date": "2026-07-17T22:10:38.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-2jhe",
+   "date": "2026-07-18T05:41:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours debugging a complex Rust project, only to realize that I could have saved hours by automating my build process with grok-build. You'll build a fully functional grok-build workflow t",
+   "summary": "Introduction Did you know that 9 out of 10 developers waste over 2 hours daily on manual build processes? Last week, I spent 3 hours manually building and debugging a Rust project, only to realize that I could have autom",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "nascheme/quixote",
+   "link": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+   "date": "2026-07-18T05:27:49.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that",
+   "image": null
+  },
+  {
+   "title": "Why Your Automation Completed Successfully But Shipped Nothing",
+   "link": "https://dev.to/babarmaker76/why-your-automation-completed-successfully-but-shipped-nothing-3pa2",
+   "date": "2026-07-18T05:10:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your n8n workflow ran successfully. The logs say 200. Your monitoring dashboard is green. But three days later, a customer asks why their data never arrived. The workflow executed — it just did nothing. This isn't a cras",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: extension_control_path",
+   "link": "https://postgr.es/p/9pY",
+   "date": "2026-07-18T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 18 lets you store extensions anywhere with `extension_control_path`, ending the requirement to install them into the system directory.",
+   "image": null
+  },
+  {
+   "title": "Drupal.org blog: Migrating issues from security.drupal.org to git.drupalcode.org",
+   "link": "https://www.drupal.org/drupalorg/blog/migrating-issues-from-securitydrupalorg-to-gitdrupalcodeorg",
+   "date": "2026-07-17T21:50:48.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "All security issues have been migrated from the older security.drupal.org site to our GitLab instance at git.drupalcode.org. This is the latest in a series of steps to improve Drupal’s coordinated vulnerability disclosur",
+   "image": null
   },
   {
    "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -88,7 +128,7 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2",
+   "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of i",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
   },
   {
@@ -302,26 +342,6 @@
    "image": null
   },
   {
-   "title": "Inkling: Our open-weights model",
-   "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-   "date": "2026-07-16T15:35:25.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licen",
-   "image": null
-  },
-  {
-   "title": "Mermaid to ASCII art (mermaid-ascii)",
-   "link": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
-   "date": "2026-07-16T14:57:39.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: Mermaid to ASCII art (mermaid-ascii) After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii tha",
-   "image": null
-  },
-  {
    "title": "Meet the Speakers of the First Three.js Conference",
    "link": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
    "date": "2026-07-16T14:45:56.000Z",
@@ -482,26 +502,6 @@
    "image": null
   },
   {
-   "title": "DDEV Blog: DDEV July 2026: New Screencasts, Partner Perks",
-   "link": "https://ddev.com/blog/ddev-july-2026-newsletter",
-   "date": "2026-07-16T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "DDEV v1.25.3 Released DDEV v1.25.3 is out, with: New Docker Compose library → Improved UX during ddev start and ddev stop; the separate ~/.ddev/bin/docker-compose binary is no longer needed Way Faster ddev start, ddev st",
-   "image": "https://ddev.com/img/blog/2026/07/ddev-july-2026-featureimage.jpg"
-  },
-  {
-   "title": "Karen Jex: How much do you really need to know about databases?",
-   "link": "https://postgr.es/p/9pR",
-   "date": "2026-07-15T22:32:21.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Slides and transcript from How much do you really need to know about databases? at EuroPython 2026 in Kraków, Poland on 15 July 2026. I will add a link to the recording once it's available. I've included just very brief ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXM5rJsb0CBv9EBQcdoLYPuzplnG_hdo8gEs9vC2qRLNpHiIKx2bd9afGBmORny3aVJWx1jyUVOzIBz3d1Av8PuloXfAgZOHJ08zV0hWVEa2DQJ5Ktaohtz-H5lV-YRoFAHDjf4VK9aEaTal3_SxtmOV1FjrJYVI469F1GSaKynbS7j_KgYRuvLbKGPuuS/s1600/image-01.jpeg"
-  },
-  {
    "title": "pointer-events",
    "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
    "date": "2026-07-15T19:57:51.000Z",
@@ -558,7 +558,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5ac206e1c85650393108/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5b166a68999641555379/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
