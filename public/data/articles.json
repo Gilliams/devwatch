@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-07-18T12:02:05.479Z",
+ "generatedAt": "2026-07-18T18:04:40.575Z",
  "articles": [
   {
-   "title": "Tarik4D - Situs Slot Online Terpercaya 2026 | Platform Resmi Indonesia, Login Mudah & Deposit 10 Ribu",
-   "link": "https://dev.to/tarik4d/tarik4d-situs-slot-online-terpercaya-2026-platform-resmi-indonesia-login-mudah-deposit-10-2po8",
-   "date": "2026-07-18T11:53:24.000Z",
+   "title": "I built an AI agent that watches my Kubernetes cluster (and can’t break it)",
+   "link": "https://dev.to/emreoztoprak/i-built-an-ai-agent-that-watches-my-kubernetes-cluster-and-cant-break-it-44n7",
+   "date": "2026-07-18T17:51:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0ygm90hkuhtii093sux.png"
+   "summary": "I built an AI that watches my Kubernetes cluster (and can't break it) I only ever found out something was wrong in my cluster when I happened to There are plenty of Kubernetes dashboards, and I didn't want to build for m",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp41wtnqfbuqoyatgc64i.png"
   },
   {
-   "title": "Salesforce DevOps with Copado Training | Live Online Course",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-with-copado-training-live-online-course-440o",
-   "date": "2026-07-18T11:39:01.000Z",
+   "title": "Eval Frameworks: How to Swap LLM Models Without Breaking Production",
+   "link": "https://dev.to/justsoftlab_x01/eval-frameworks-how-to-swap-llm-models-without-breaking-production-13g0",
+   "date": "2026-07-18T17:46:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🚀 𝗕𝗲𝗰𝗼𝗺𝗲 𝗮 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝘅𝗽𝗲𝗿𝘁 𝘄𝗶𝘁𝗵 #𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵! ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗠𝗮𝘀𝘁𝗲𝗿: 🎯 𝗜𝗱𝗲𝗮𝗹 𝗳𝗼𝗿 Salesforce Developers, Admins, Consultants, and DevOps Professio",
+   "summary": "Every few weeks a better model ships, and a familiar meeting follows. Someone wants to upgrade. Someone else asks how we know it won't break. The room goes quiet, because the honest answer is that nobody knows. So the te",
    "image": null
   },
   {
-   "title": "How to Choose the Best Web Design Agency for Your Business",
-   "link": "https://dev.to/omsoftsolution_3e6d60c900/how-to-choose-the-best-web-design-agency-for-your-business-2cin",
-   "date": "2026-07-18T11:31:14.000Z",
+   "title": "Day 84: EXPLAIN `pretty=1` and `compact=1` in ClickHouse® 26.3",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-84-explain-pretty1-and-compact1-in-clickhouser-263-4en1",
+   "date": "2026-07-18T17:42:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Choose the Best Web Design Agency for Your Business website designing company in Delhi, it is imperative to consider certain parameters that make such an agency a good candidate for your project. website developme",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4hamkoypqw0wfm55h9kp.png"
+   "summary": "When a ClickHouse® query runs slowly, the root cause is not always insufficient hardware or an inefficient schema. In many cases, the issue lies in the execution plan itself. The challenge is that execution plans are oft",
+   "image": null
   },
   {
-   "title": "Unlock the Power of DevOps: A Guide for Modern Development Teams",
-   "link": "https://dev.to/chirag_rao_dde28961ccc574/unlock-the-power-of-devops-a-guide-for-modern-development-teams-oom",
-   "date": "2026-07-18T11:20:07.000Z",
+   "title": "Router Configuration Theft: What to Investigate After the Rebuild",
+   "link": "https://dev.to/kkierii/router-configuration-theft-what-to-investigate-after-the-rebuild-1lhb",
+   "date": "2026-07-18T17:29:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction to DevOps In today's fast-paced tech environment, the pressure to deliver high-quality software quickly is at an all-time high. This is where DevOps steps in as a game-changer for development teams. By foste",
+   "summary": "An SNMP Set request can make a router write its own configuration to a file and send that file to an external system. That is the mechanism network defenders should notice in the joint router-security advisory released J",
+   "image": null
+  },
+  {
+   "title": "Before You Give an OpenClaw Contractor SSH Access, Run These 7 Redacted Checks",
+   "link": "https://dev.to/moonshot_1341/before-you-give-an-openclaw-contractor-ssh-access-run-these-7-redacted-checks-2l64",
+   "date": "2026-07-18T17:12:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Giving a contractor SSH access should not be the first step in an OpenClaw VPS project. Before anyone logs in, you can learn a surprising amount from a small set of redacted outputs. The goal is not to replace hands-on h",
+   "image": null
+  },
+  {
+   "title": "Top 9 Platforms to Buy USA Facebook Accounts in USA",
+   "link": "https://dev.to/bert_s_c6879ae5aad667f7e7/top-9-platforms-to-buy-usa-facebook-accounts-in-usa-47gm",
+   "date": "2026-07-18T17:00:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Facebook accounts | Buy Verified Facebook Accounts Are you ready to elevate your Facebook game to new heights? Look no further – we have just what you need. Now is the time to Buy Facebook accounts that will give you",
    "image": null
   },
   {
    "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-5f8o",
-   "date": "2026-07-18T10:45:02.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-18ef",
+   "date": "2026-07-18T16:25:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 70% of developers spend more time debugging than writing code, and a simple tool like grok-build can change that? You'll build a fully functional development environment with grok-build in ",
+   "summary": "Introduction Last week, I spent hours struggling to optimize my build process, only to realize that I was wasting time on unnecessary complexity - a problem that 9 out of 10 developers face, according to a recent survey.",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
-   "title": "Public vs Private IP Addresses",
-   "link": "https://dev.to/divineuzor/public-vs-private-ip-addresses-4e89",
-   "date": "2026-07-18T10:19:51.000Z",
+   "title": "Monitoring and Logging: The Avengers Assemble",
+   "link": "https://dev.to/timevolt/monitoring-and-logging-the-avengers-assemble-33if",
+   "date": "2026-07-18T16:12:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "By now, you know that every device connected to a network needs an IP address. But here's something that often surprises beginners. Not all IP addresses are meant to be seen on the Internet. Some are designed for public ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8muw1oj4j0f350ikbk1c.png"
-  },
-  {
-   "title": "From Monolith to Mesh — Why Your Content Pipeline Needs an Orchestration Layer",
-   "link": "https://dev.to/claudia-ve/from-monolith-to-mesh-why-your-content-pipeline-needs-an-orchestration-layer-25lb",
-   "date": "2026-07-18T10:16:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every content team I've worked with starts the same way: write a post, copy-paste to Twitter, LinkedIn, Medium, and a newsletter. Then add YouTube descriptions, Reddit crossposts, and Discord announcements. Before long, ",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the night I got paged at 2 a.m. because a handful of users were seeing “500 Internal Server Error” on our checkout page. I rolled out of bed, opened the logs, and f",
    "image": null
   },
   {
-   "title": "First Time I Self-Hosted SigNoz and Found the Observability Feature I Didn’t Know I Needed",
-   "link": "https://dev.to/kuntal22tech/first-time-i-self-hosted-signoz-and-found-the-observability-feature-i-didnt-know-i-needed-2im0",
-   "date": "2026-07-18T10:02:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I started this project expecting to explore observability. I ended up discovering how much easier debugging becomes when traces, metrics, and logs are connected in one place. \"Distributed Tracing\". And I quickly understo",
+   "title": "BloomIdea: Make-to-Order production for Drupal Commerce: from a spreadsheet to a contrib module",
+   "link": "https://bloomidea.com/en/blog/make-order-production-drupal-commerce-spreadsheet-contrib-module",
+   "date": "2026-07-18T11:22:20.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "At Josefinas, every pair of shoes is handmade in Portugal after the order is placed. There is no warehouse full of finished stock: a customer buys, and an atelier starts working. For years, the bridge between \"order paid",
    "image": null
   },
   {
@@ -442,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Webpro Company blog: Drupal core July security updates: what site owners should check now",
-   "link": "https://webpro.company/blog/drupal-core-july-security-updates",
-   "date": "2026-07-16T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "On July 15, 2026, Drupal published several core security advisories. If an organisation's website, portal or service platform runs on Drupal, now is the time to check not only the version number, but the whole update pro",
-   "image": null
-  },
-  {
    "title": "Hans-Juergen Schoenig: Philosophy behind pg_hardstorage",
    "link": "https://postgr.es/p/9pS",
    "date": "2026-07-16T04:00:36.000Z",
@@ -558,7 +558,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5b6237e05f5876753804/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5bbed9ee909436216342/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
