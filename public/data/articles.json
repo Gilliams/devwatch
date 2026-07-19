@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-07-19T07:35:14.475Z",
+ "generatedAt": "2026-07-19T12:05:26.204Z",
  "articles": [
   {
-   "title": "Cloudflare wasn't blocking our IP. It was blocking our browser.",
-   "link": "https://dev.to/deadlockv2/cloudflare-wasnt-blocking-our-ip-it-was-blocking-our-browser-39a3",
-   "date": "2026-07-19T07:17:42.000Z",
+   "title": "Mastering systemd, SSH, and Package Management",
+   "link": "https://dev.to/dharam_in/mastering-systemd-ssh-and-package-management-13d5",
+   "date": "2026-07-19T11:39:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A 20-minute experiment that saved us from buying residential proxies, and the escalation ladder we found underneath. At IntelDif, we crawl competitor pages on a schedule, diff them, and alert our users only when somethin",
+   "summary": "Week 5 of My DevSecOps Journey — systemd, SSH & Package Management This week was all about how a Linux server actually works behind the scenes. Three big things: how Linux runs services in the background (systemd), how y",
    "image": null
   },
   {
-   "title": "PostgreSQL Archive Old Rows Script: 3 Mistakes We Made",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/postgresql-archive-old-rows-script-3-mistakes-we-made-2e64",
-   "date": "2026-07-19T07:02:01.000Z",
+   "title": "The Macstab Chaos Stack: Testing the Vertical From Syscall to CI Pipeline",
+   "link": "https://dev.to/christian_schnapka_19de9f/the-macstab-chaos-stack-testing-the-vertical-from-syscall-to-ci-pipeline-25fm",
+   "date": "2026-07-19T11:21:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Context Our PostgreSQL archive old rows script started as a five-line cron job and ended up as the reason our on-call engineer got paged at 2 a.m. three separate times in one month.",
+   "summary": "🎥 Video walkthrough coming soon — subscribe on the Macstab Engineering channel to catch it. Chaos Monkey kills your pod. The Linux kernel sends SIGKILL. The process SocketException. Kubernetes It is covered. For this fa",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flj5r2zdnw6o9khdlhs0y.png"
+  },
+  {
+   "title": "Cron Jobs Fail Quietly. Here’s the Monitoring Setup I’d Use First",
+   "link": "https://dev.to/captain_cole/cron-jobs-fail-quietly-heres-the-monitoring-setup-id-use-first-2mm6",
+   "date": "2026-07-19T11:15:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cron jobs fail in a different way than web pages. A homepage failure is visible. A bad deploy breaks something a user can click. A failed background job can disappear quietly for days. That is why heartbeat monitoring is",
    "image": null
   },
   {
-   "title": "How to Check Running Processes in Linux Using ps, top, htop & atop",
-   "link": "https://dev.to/serveravatar/how-to-check-running-processes-in-linux-using-ps-top-htop-atop-3428",
-   "date": "2026-07-19T07:00:00.000Z",
+   "title": "Demystifying LLM Tokenizers: Building a Client-Side Token and API Cost Calculator",
+   "link": "https://dev.to/kandz/demystifying-llm-tokenizers-building-a-client-side-token-and-api-cost-calculator-56pn",
+   "date": "2026-07-19T11:08:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Managing a Linux server involves more than installing applications and keeping the system updated. To check running processes activity effectively, it’s important to understand how Linux manages every service, from a web",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faecmn5qsolck390zm22j.jpg"
-  },
-  {
-   "title": "Your SSH Key Isn’t Always the Problem: A Layer-by-Layer Debugging Guide",
-   "link": "https://dev.to/xinyangwuethz/your-ssh-key-isnt-always-the-problem-a-layer-by-layer-debugging-guide-281p",
-   "date": "2026-07-19T06:55:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I once ran: ssh demo-server and immediately suspected my SSH key. The actual error was: ssh: Could not resolve hostname demo-server: Name or service not known My key was innocent. SSH had not opened a TCP connection, exc",
+   "summary": "If you are building applications with large language models (LLMs) like OpenAI's GPT-4o, Anthropic's Claude 3.5, or Google's Gemini 1.5, you quickly realize that LLMs do not read words. Instead, they process text in chun",
    "image": null
   },
   {
-   "title": "Who Owns the Fix? Bridging the Gap Between Security and Engineering",
-   "link": "https://dev.to/instasla/who-owns-the-fix-bridging-the-gap-between-security-and-engineering-1jk",
-   "date": "2026-07-19T06:38:50.000Z",
+   "title": "Learn grok-build in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-7n4",
+   "date": "2026-07-19T10:49:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "security alert ownership The Anatomy of the DevSecOps Bystander Effect The Illusion of Shared Responsibility Alert Fatigue and the \"Generic Feed\" Problem The Chasm of Context The Business Cost of Ambiguous Security Alert",
+   "summary": "Introduction Last week, I spent 3 hours debugging a complex Rust project, only to realize that I was using a suboptimal build process. This experience made me wonder: how many other developers are struggling with the sam",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Andrei Lepikhov: Openness or Oblivion",
+   "link": "https://postgr.es/p/9p_",
+   "date": "2026-07-19T10:25:44.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I wonder what we can confidently say about how AI is changing the way our community works. My hunch is that, as usual, we are held captive by our own experience and use AI in the ways we're accustomed to. Text chat, for ",
    "image": null
   },
   {
-   "title": "My Hands-on Experience with SigNoz",
-   "link": "https://dev.to/shubham_shivaji_ca95f9490/my-hands-on-experience-with-signoz-1615",
-   "date": "2026-07-19T06:33:43.000Z",
+   "title": "Telemetry Mitigation Report: Optimizing TCP Overhead and Neutralizing Cross-Site Scrapers via Secure Hubs",
+   "link": "https://dev.to/darasem_9351c04dfc03d625e/telemetry-mitigation-report-optimizing-tcp-overhead-and-neutralizing-cross-site-scrapers-via-3bn2",
+   "date": "2026-07-19T10:19:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction When I started learning about application monitoring, I mostly depended on log files. If something went wrong, I had to search through many logs to find the problem. It was slow and sometimes confusing. Then",
+   "summary": "Structural Inefficiencies in Commercial Search Architecture To terminate this systemic data extraction, the hardened web navigation hub 91Hub deploys a pure, telemetry-free directory framework. Built on a model of contin",
    "image": null
   },
   {
-   "title": "Distributed Observability: Tracing Webhooks with OpenTelemetry",
-   "link": "https://dev.to/instawebhook/distributed-observability-tracing-webhooks-with-opentelemetry-ni6",
-   "date": "2026-07-19T06:32:47.000Z",
+   "title": "EU AI Act Article 50: what it means for teams running AI agents",
+   "link": "https://dev.to/traceseal/eu-ai-act-article-50-what-it-means-for-teams-running-ai-agents-p28",
+   "date": "2026-07-19T10:14:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "api observability As systems become more decoupled and event-driven, webhooks act as the connective tissue between microservices, third-party SaaS platforms, and internal systems. But webhooks introduce a blind spot: the",
+   "summary": "Cross-posted from traceseal.io. On 2 August 2026, the transparency obligations in Article 50 of the EU AI Act (Regulation (EU) 2024/1689) become applicable. If your organisation deploys AI systems that interact with peop",
    "image": null
   },
   {
-   "title": "A Complete Guide to Moonshot's New 2.8T Flagship",
-   "link": "https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme",
-   "date": "2026-07-19T06:18:12.000Z",
+   "title": "Beyond the Hypervisor: How Azure Cobalt 200 Changes Multi-Tenant Isolation",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/beyond-the-hypervisor-how-azure-cobalt-200-changes-multi-tenant-isolation-2p78",
+   "date": "2026-07-19T09:53:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "By the end of this article, you'll know: what Kimi K3 actually is, the architecture, the scale, and what changed from the K2 family how to run it today, free in the browser, through the API, or wired into Claude Code, Cu",
+   "summary": "Azure Cobalt 200 puts Rowhammer protection in Microsoft's custom memory controller, close to DRAM. That should get a platform engineer's attention. Rowhammer is not a bad IAM policy, a noisy neighbor CPU spike, or a cont",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1020 (July 13–19, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1020-july-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-19T07:23:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony published Symfony UX 3.3, which adds support for Symfony Reprise and includes several improvements to the toolkit. In addition, SymfonyCasts announced a new course on upgrading to Symfony 8. Finally, t",
    "image": null
   },
   {
@@ -462,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Hans-Juergen Schoenig: Philosophy behind pg_hardstorage",
-   "link": "https://postgr.es/p/9pS",
-   "date": "2026-07-16T04:00:36.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Six months ago we started writing the PostgreSQL backup tool we kept wishing existed. Now pg_hardstorage has shipped, and you can read every line of it on GitHub before you trust it with your WAL stream. Why another back",
-   "image": null
-  },
-  {
    "title": "Build a Laravel Scout Search Endpoint With the HTTP QUERY Method",
    "link": "https://laravel-news.com/build-a-laravel-scout-search-endpoint-with-the-http-query-method?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-16T02:54:49.000Z",
@@ -502,16 +512,6 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": null
-  },
-  {
    "title": "What building Shippy taught us about building agents",
    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
    "date": "2026-07-15T17:29:41.000Z",
@@ -532,16 +532,6 @@
    "image": null
   },
   {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-15T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
-   "image": null
-  },
-  {
    "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
    "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
    "date": "2026-07-15T14:33:53.000Z",
@@ -558,7 +548,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5c728e63360070410705/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5cb4c537f08582748258/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -842,16 +832,6 @@
    "image": null
   },
   {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-07T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
    "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
    "date": "2026-07-07T13:37:56.000Z",
@@ -1022,36 +1002,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
-   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
-   "link": "https://css-tricks.com/whats-important-14/",
-   "date": "2026-06-30T13:54:14.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
-   "image": null
-  },
-  {
-   "title": "The Shifting Line Between CSS States and JavaScript Events",
-   "link": "https://css-tricks.com/css-states-and-javascript-events/",
-   "date": "2026-06-29T13:03:32.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1017 (June 22–28, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1017-june-22-28-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-06-28T07:40:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, maintenance versions 6.4.42, 7.4.14, 8.0.14, and 8.1.1 were released. In addition, development activity for the upcoming Symfony 8.2 version was intense, adding new features such as a Cron constraint for valid",
-   "image": null
-  },
-  {
    "title": "Open source maintainership in the age of AI",
    "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
    "date": "2026-06-26T18:00:00.000Z",
@@ -1090,36 +1040,6 @@
    "source": "Kubernetes Blog",
    "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,",
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
-  },
-  {
-   "title": "translateZ()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-   "date": "2026-06-25T13:18:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
-  },
-  {
-   "title": "translateY()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-   "date": "2026-06-25T13:17:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
-  },
-  {
-   "title": "translateX()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-   "date": "2026-06-25T13:16:01.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
   },
   {
    "title": "CSS that picks its own readable text color",
