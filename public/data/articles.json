@@ -1,55 +1,115 @@
 {
- "generatedAt": "2026-07-19T12:05:26.204Z",
+ "generatedAt": "2026-07-19T18:05:47.314Z",
  "articles": [
   {
-   "title": "Mastering systemd, SSH, and Package Management",
-   "link": "https://dev.to/dharam_in/mastering-systemd-ssh-and-package-management-13d5",
-   "date": "2026-07-19T11:39:17.000Z",
+   "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
+   "link": "https://dev.to/sudarshan_thakur_1e141b99/from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-30m8",
+   "date": "2026-07-19T17:53:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Week 5 of My DevSecOps Journey — systemd, SSH & Package Management This week was all about how a Linux server actually works behind the scenes. Three big things: how Linux runs services in the background (systemd), how y",
+   "summary": "Three months ago, tfdrift was 60 lines of Python that shelled out to terraform plan and printed a colored table. Today it has incremental scanning, parallel workers, drift history tracking, cost impact estimation, native",
    "image": null
   },
   {
-   "title": "The Macstab Chaos Stack: Testing the Vertical From Syscall to CI Pipeline",
-   "link": "https://dev.to/christian_schnapka_19de9f/the-macstab-chaos-stack-testing-the-vertical-from-syscall-to-ci-pipeline-25fm",
-   "date": "2026-07-19T11:21:09.000Z",
+   "title": "Running FFmpeg on Heroku: The Ephemeral-Filesystem Trap (and the Fix)",
+   "link": "https://dev.to/javidjamae/running-ffmpeg-on-heroku-the-ephemeral-filesystem-trap-and-the-fix-4i39",
+   "date": "2026-07-19T17:41:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🎥 Video walkthrough coming soon — subscribe on the Macstab Engineering channel to catch it. Chaos Monkey kills your pod. The Linux kernel sends SIGKILL. The process SocketException. Kubernetes It is covered. For this fa",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flj5r2zdnw6o9khdlhs0y.png"
-  },
-  {
-   "title": "Cron Jobs Fail Quietly. Here’s the Monitoring Setup I’d Use First",
-   "link": "https://dev.to/captain_cole/cron-jobs-fail-quietly-heres-the-monitoring-setup-id-use-first-2mm6",
-   "date": "2026-07-19T11:15:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cron jobs fail in a different way than web pages. A homepage failure is visible. A bad deploy breaks something a user can click. A failed background job can disappear quietly for days. That is why heartbeat monitoring is",
+   "summary": "Originally published at ffmpeg-micro.com Your FFmpeg pipeline works on localhost. You push to Heroku, trigger a transcode, and the job vanishes. No output file. No error you can Google. Just a request that hangs and then",
    "image": null
   },
   {
-   "title": "Demystifying LLM Tokenizers: Building a Client-Side Token and API Cost Calculator",
-   "link": "https://dev.to/kandz/demystifying-llm-tokenizers-building-a-client-side-token-and-api-cost-calculator-56pn",
-   "date": "2026-07-19T11:08:14.000Z",
+   "title": "Day 86: Faster Map Key Lookups in ClickHouse® 26.3 with Bucketed Map Serialization",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-86-faster-map-key-lookups-in-clickhouser-263-with-bucketed-map-serialization-21ha",
+   "date": "2026-07-19T17:40:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you are building applications with large language models (LLMs) like OpenAI's GPT-4o, Anthropic's Claude 3.5, or Google's Gemini 1.5, you quickly realize that LLMs do not read words. Instead, they process text in chun",
+   "summary": "Semi-structured data has become a standard part of modern analytics. Whether you're storing application logs, telemetry, user attributes, event metadata, or feature flags, it's common to encounter records where every row",
    "image": null
+  },
+  {
+   "title": "From Exit 139 to HTTP 402: Following One Payment Failure Across SigNoz",
+   "link": "https://dev.to/tyson1234/from-exit-139-to-http-402-following-one-payment-failure-across-signoz-3196",
+   "date": "2026-07-19T17:36:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How I self-hosted SigNoz on WSL2, recovered a crashing telemetry pipeline, and followed one payment failure across metrics, traces, logs, and alerts. Before I could debug a failed payment, I had to debug the observabilit",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvamv7z1do0bgxboxai7c.png"
+  },
+  {
+   "title": "Day 85: Using naturalSortKey() in ClickHouse® to Sort Version Strings, Filenames, and Numeric Text Naturally",
+   "link": "https://dev.to/kanishga_subramani_49ad73/day-85-using-naturalsortkey-in-clickhouser-to-sort-version-strings-filenames-and-numeric-text-298h",
+   "date": "2026-07-19T17:12:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you've ever sorted software version numbers like 21.4.0, 21.11.0, or filenames such as file1.txt, file10.txt, and file2.txt, you've probably noticed something frustrating. The results don't look right. Instead of orde",
+   "image": null
+  },
+  {
+   "title": "NGINX Abuse Guard Module: Auto-Ban Scanners and Bots",
+   "link": "https://dev.to/dvershinin/nginx-abuse-guard-module-auto-ban-scanners-and-bots-3a93",
+   "date": "2026-07-19T17:06:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Open your NGINX error log on any public server and you will see the same thing: a steady drip of 404s probing for /wp-login.php, /.env, /phpmyadmin, and a thousand other paths that do not exist on your site. A vulnerabil",
+   "image": null
+  },
+  {
+   "title": "Henrietta Dombrovskaya: Prairie Postgres July Meetup: Proudly Sourced at Midwest!",
+   "link": "https://postgr.es/p/9q0",
+   "date": "2026-07-19T16:27:03.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On July 15, we hosted the second meetup at our new location, the Chicago Innovations Center. The CIC is evolving, and we like it more and more! I will probably stop saying it at some point, but for now, I want to repeat ",
+   "image": "https://lh3.googleusercontent.com/pw/AP1GczMP7ZERt4v7FpVaRLq78s-7DkBkqBnVkZuViJoyx4KZfGIPwYBe8OM8nRpcOzGpRPUISIH08SJGsTzrs0OFhXDnkiweGqutstWiyelxBiN3-wMcz9vcniuTChA_XNS-ZGxX6fwoXzW3j6lRj3FCQ1Y__A=w1721-h1291-s-no-gm?authuser=0"
   },
   {
    "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-7n4",
-   "date": "2026-07-19T10:49:29.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-2fp4",
+   "date": "2026-07-19T16:26:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours debugging a complex Rust project, only to realize that I was using a suboptimal build process. This experience made me wonder: how many other developers are struggling with the sam",
+   "summary": "Introduction Last week I spent 3 hours manually building and managing my Rust project, only to realize that I could have automated the entire process in just 5 minutes with grok-build. You will build a fully automated Ru",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "🐳 Docker Basics Every Beginner Should Know",
+   "link": "https://dev.to/themdmohiuddin/docker-basics-every-beginner-should-know-26oe",
+   "date": "2026-07-19T16:01:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When I started learning Docker, I quickly realized that understanding a few core concepts and commands makes working with containers much easier. Instead of memorizing commands, I wanted to understand what Docker does an",
+   "image": null
+  },
+  {
+   "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+   "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+   "date": "2026-07-19T13:30:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emerge",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
+  },
+  {
+   "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+   "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+   "date": "2026-07-19T13:18:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 2",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
   },
   {
    "title": "Andrei Lepikhov: Openness or Oblivion",
@@ -59,36 +119,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "I wonder what we can confidently say about how AI is changing the way our community works. My hunch is that, as usual, we are held captive by our own experience and use AI in the ways we're accustomed to. Text chat, for ",
-   "image": null
-  },
-  {
-   "title": "Telemetry Mitigation Report: Optimizing TCP Overhead and Neutralizing Cross-Site Scrapers via Secure Hubs",
-   "link": "https://dev.to/darasem_9351c04dfc03d625e/telemetry-mitigation-report-optimizing-tcp-overhead-and-neutralizing-cross-site-scrapers-via-3bn2",
-   "date": "2026-07-19T10:19:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Structural Inefficiencies in Commercial Search Architecture To terminate this systemic data extraction, the hardened web navigation hub 91Hub deploys a pure, telemetry-free directory framework. Built on a model of contin",
-   "image": null
-  },
-  {
-   "title": "EU AI Act Article 50: what it means for teams running AI agents",
-   "link": "https://dev.to/traceseal/eu-ai-act-article-50-what-it-means-for-teams-running-ai-agents-p28",
-   "date": "2026-07-19T10:14:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cross-posted from traceseal.io. On 2 August 2026, the transparency obligations in Article 50 of the EU AI Act (Regulation (EU) 2024/1689) become applicable. If your organisation deploys AI systems that interact with peop",
-   "image": null
-  },
-  {
-   "title": "Beyond the Hypervisor: How Azure Cobalt 200 Changes Multi-Tenant Isolation",
-   "link": "https://dev.to/tran_tienvan_e45fc26d655/beyond-the-hypervisor-how-azure-cobalt-200-changes-multi-tenant-isolation-2p78",
-   "date": "2026-07-19T09:53:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Azure Cobalt 200 puts Rowhammer protection in Microsoft's custom memory controller, close to DRAM. That should get a platform engineer's attention. Rowhammer is not a bad IAM policy, a noisy neighbor CPU spike, or a cont",
    "image": null
   },
   {
@@ -322,26 +352,6 @@
    "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-07/rineshkumar-ghirao-UdDjFekHQuk-unsplash.jpg?h=0d27ee61&amp;itok=f8BNBp2Y"
   },
   {
-   "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-   "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-   "date": "2026-07-17T11:44:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the displ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg"
-  },
-  {
-   "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-   "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-   "date": "2026-07-17T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg"
-  },
-  {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
    "link": "https://postgr.es/p/9pX",
    "date": "2026-07-17T06:05:23.000Z",
@@ -472,16 +482,6 @@
    "image": null
   },
   {
-   "title": "SHRIDHAR KHANAL: Upgrading PostgreSQL 9.6 to 17 with pg_upgrade",
-   "link": "https://postgr.es/p/9pT",
-   "date": "2026-07-16T09:35:50.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "When you are upgrading across major PostgreSQL versions, there are a few ways to go. Dump and restore is the simplest to reason about, but downtime scales directly with database size, so for anything multi-terabyte, it i",
-   "image": null
-  },
-  {
    "title": "Build a Laravel Scout Search Endpoint With the HTTP QUERY Method",
    "link": "https://laravel-news.com/build-a-laravel-scout-search-endpoint-with-the-http-query-method?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-16T02:54:49.000Z",
@@ -512,6 +512,16 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "What building Shippy taught us about building agents",
    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
    "date": "2026-07-15T17:29:41.000Z",
@@ -532,6 +542,16 @@
    "image": null
   },
   {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-15T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
+   "image": null
+  },
+  {
    "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
    "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
    "date": "2026-07-15T14:33:53.000Z",
@@ -548,7 +568,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5cb4c537f08582748258/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5d11ebbda9a564425012/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -832,6 +852,16 @@
    "image": null
   },
   {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-07T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
    "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
    "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
    "date": "2026-07-07T13:37:56.000Z",
@@ -1002,6 +1032,26 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
+  },
+  {
    "title": "Open source maintainership in the age of AI",
    "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
    "date": "2026-06-26T18:00:00.000Z",
@@ -1040,6 +1090,36 @@
    "source": "Kubernetes Blog",
    "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,",
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
+  },
+  {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateY()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+   "date": "2026-06-25T13:17:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
+  },
+  {
+   "title": "translateX()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+   "date": "2026-06-25T13:16:01.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
   },
   {
    "title": "CSS that picks its own readable text color",
