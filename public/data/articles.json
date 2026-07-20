@@ -1,64 +1,114 @@
 {
- "generatedAt": "2026-07-19T18:05:47.314Z",
+ "generatedAt": "2026-07-20T02:12:53.079Z",
  "articles": [
   {
-   "title": "From Side Project to Production Tool: What 8 Releases of tfdrift Taught Me About Building DevOps Tooling",
-   "link": "https://dev.to/sudarshan_thakur_1e141b99/from-side-project-to-production-tool-what-8-releases-of-tfdrift-taught-me-about-building-devops-30m8",
-   "date": "2026-07-19T17:53:43.000Z",
+   "title": "CI/CD Local Runner trên Laptop AI Intel Core Ultra 5 và Snapdragon X",
+   "link": "https://dev.to/hungphatlaptop/cicd-local-runner-tren-laptop-ai-intel-core-ultra-5-va-snapdragon-x-bjh",
+   "date": "2026-07-20T02:06:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Three months ago, tfdrift was 60 lines of Python that shelled out to terraform plan and printed a colored table. Today it has incremental scanning, parallel workers, drift history tracking, cost impact estimation, native",
+   "summary": "Thiết lập self-hosted runner cho GitHub Actions ngay trên máy cá nhân là giải pháp lý tưởng khi bạn cần chạy CI pipeline cục bộ. Với các dòng máy phục vụ công việc AI agent hiện nay, hiệu năng CPU đóng vai trò cốt lõi th",
    "image": null
   },
   {
-   "title": "Running FFmpeg on Heroku: The Ephemeral-Filesystem Trap (and the Fix)",
-   "link": "https://dev.to/javidjamae/running-ffmpeg-on-heroku-the-ephemeral-filesystem-trap-and-the-fix-4i39",
-   "date": "2026-07-19T17:41:51.000Z",
+   "title": "Deploy a New Version of the Application (v2)",
+   "link": "https://dev.to/jumptotech/deploy-a-new-version-of-the-application-v2-1kg0",
+   "date": "2026-07-20T02:05:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published at ffmpeg-micro.com Your FFmpeg pipeline works on localhost. You push to Heroku, trigger a transcode, and the job vanishes. No output file. No error you can Google. Just a request that hangs and then",
+   "summary": "you deployed version 1 of the application. Today, Jules (the developer) sends you a message: \"I fixed several bugs and added a new feature. Please deploy Version 2.\" As a DevOps Engineer, you do not change the code. You ",
    "image": null
   },
   {
-   "title": "Day 86: Faster Map Key Lookups in ClickHouse® 26.3 with Bucketed Map Serialization",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-86-faster-map-key-lookups-in-clickhouser-263-with-bucketed-map-serialization-21ha",
-   "date": "2026-07-19T17:40:47.000Z",
+   "title": "Your Seeder Should Describe a Shape, Not Your Laptop",
+   "link": "https://dev.to/nasrulhazim/your-seeder-should-describe-a-shape-not-your-laptop-mad",
+   "date": "2026-07-20T01:53:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Semi-structured data has become a standard part of modern analytics. Whether you're storing application logs, telemetry, user attributes, event metadata, or feature flags, it's common to encounter records where every row",
+   "summary": "TL;DR Rewrote a bootstrap seeder so the deployment stack — DB engine, queue runner, PHP version — is config, not hardcoded. Renamed it away from a phase-based name (MvpSeeder). If a class name describes when you wrote it",
    "image": null
   },
   {
-   "title": "From Exit 139 to HTTP 402: Following One Payment Failure Across SigNoz",
-   "link": "https://dev.to/tyson1234/from-exit-139-to-http-402-following-one-payment-failure-across-signoz-3196",
-   "date": "2026-07-19T17:36:29.000Z",
+   "title": "Evals for DevOps AI Agents: Test Your Ops Agent Before It Touches Prod",
+   "link": "https://dev.to/devtocash/evals-for-devops-ai-agents-test-your-ops-agent-before-it-touches-prod-29ia",
+   "date": "2026-07-20T01:48:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How I self-hosted SigNoz on WSL2, recovered a crashing telemetry pipeline, and followed one payment failure across metrics, traces, logs, and alerts. Before I could debug a failed payment, I had to debug the observabilit",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvamv7z1do0bgxboxai7c.png"
-  },
-  {
-   "title": "Day 85: Using naturalSortKey() in ClickHouse® to Sort Version Strings, Filenames, and Numeric Text Naturally",
-   "link": "https://dev.to/kanishga_subramani_49ad73/day-85-using-naturalsortkey-in-clickhouser-to-sort-version-strings-filenames-and-numeric-text-298h",
-   "date": "2026-07-19T17:12:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you've ever sorted software version numbers like 21.4.0, 21.11.0, or filenames such as file1.txt, file10.txt, and file2.txt, you've probably noticed something frustrating. The results don't look right. Instead of orde",
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. You've built the MCP server that gives your agent scoped kubectl access. You've wrapped it i",
    "image": null
   },
   {
-   "title": "NGINX Abuse Guard Module: Auto-Ban Scanners and Bots",
-   "link": "https://dev.to/dvershinin/nginx-abuse-guard-module-auto-ban-scanners-and-bots-3a93",
-   "date": "2026-07-19T17:06:05.000Z",
+   "title": "During an incident, ChatGPT should gather evidence, not become root",
+   "link": "https://dev.to/mads_hansen_27b33ebfee4c9/during-an-incident-chatgpt-should-gather-evidence-not-become-root-2j9k",
+   "date": "2026-07-20T01:24:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Open your NGINX error log on any public server and you will see the same thing: a steady drip of 404s probing for /wp-login.php, /.env, /phpmyadmin, and a thousand other paths that do not exist on your site. A vulnerabil",
+   "summary": "During an incident, the expensive part is rarely writing one SQL query. It is preserving the same service, environment, tenant, deployment, and time window while responders move between errors, changes, health events, an",
+   "image": null
+  },
+  {
+   "title": "The first OpenClaw setup I’d recommend for a blind parent is not a chatbot",
+   "link": "https://dev.to/lars_winstand/the-first-openclaw-setup-id-recommend-for-a-blind-parent-is-not-a-chatbot-219p",
+   "date": "2026-07-20T01:11:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I knew this was going to annoy some agent builders the second I started reading the threads. Because yes, OpenClaw can absolutely be part of the solution. That’s not the real question. The real question is: should a blin",
+   "image": null
+  },
+  {
+   "title": "A Lightweight START-HERE.md for Small Projects",
+   "link": "https://dev.to/juso-on-gil-linkhub0/a-lightweight-start-heremd-for-small-projects-23gf",
+   "date": "2026-07-20T01:05:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Small projects often become difficult for a simple reason: the useful context is scattered. A repository may contain code, notes, issue links, design decisions, test instructions, and deployment details. None of these ar",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: extra_float_digits",
+   "link": "https://postgr.es/p/9q1",
+   "date": "2026-07-20T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "extra_float_digits is the setting whose job changed out from under it. For most of PostgreSQL’s history it forced a choice between floating-point output that was easy to read and output that was exactly right, and you co",
+   "image": null
+  },
+  {
+   "title": "Linux Performance Troubleshooting: The 60-Second Check and Beyond",
+   "link": "https://dev.to/toothbrush/linux-performance-troubleshooting-the-60-second-check-and-beyond-193f",
+   "date": "2026-07-20T00:49:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When a production server starts misbehaving — latency spikes, dropped requests, OOM kills — you don't have time to read man pages. You need a systematic approach that rules out the most common culprits in under a minute,",
+   "image": null
+  },
+  {
+   "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+   "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+   "date": "2026-07-19T20:42:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
+  },
+  {
+   "title": "#! code: LocalGov Drupal: Rewriting Waste Collection Data Provider Classes To Alter Data",
+   "link": "https://www.hashbangcode.com/article/localgov-drupal-rewriting-waste-collection-data-provider-classes-alter-data",
+   "date": "2026-07-19T17:35:10.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "LocalGov Drupal is a Drupal distribution that combines Drupal, some configuration, and a collection of modules with the aim of making it easier for councils to create websites. The functionality provided includes content",
    "image": null
   },
   {
@@ -70,26 +120,6 @@
    "source": "Planet PostgreSQL",
    "summary": "On July 15, we hosted the second meetup at our new location, the Chicago Innovations Center. The CIC is evolving, and we like it more and more! I will probably stop saying it at some point, but for now, I want to repeat ",
    "image": "https://lh3.googleusercontent.com/pw/AP1GczMP7ZERt4v7FpVaRLq78s-7DkBkqBnVkZuViJoyx4KZfGIPwYBe8OM8nRpcOzGpRPUISIH08SJGsTzrs0OFhXDnkiweGqutstWiyelxBiN3-wMcz9vcniuTChA_XNS-ZGxX6fwoXzW3j6lRj3FCQ1Y__A=w1721-h1291-s-no-gm?authuser=0"
-  },
-  {
-   "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-2fp4",
-   "date": "2026-07-19T16:26:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours manually building and managing my Rust project, only to realize that I could have automated the entire process in just 5 minutes with grok-build. You will build a fully automated Ru",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "🐳 Docker Basics Every Beginner Should Know",
-   "link": "https://dev.to/themdmohiuddin/docker-basics-every-beginner-should-know-26oe",
-   "date": "2026-07-19T16:01:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When I started learning Docker, I quickly realized that understanding a few core concepts and commands makes working with containers much easier. Instead of memorizing commands, I wanted to understand what Docker does an",
-   "image": null
   },
   {
    "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
@@ -312,16 +342,6 @@
    "image": null
   },
   {
-   "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-   "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-   "date": "2026-07-17T13:48:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg"
-  },
-  {
    "title": "Quoting Kimi K3",
    "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
    "date": "2026-07-17T13:43:53.000Z",
@@ -452,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Christopher Winslett: Postgres 19 Compression: from pglz to LZ4",
-   "link": "https://postgr.es/p/9pU",
-   "date": "2026-07-16T12:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres 19 is planning to change the default TOAST compression from pglz to LZ4, so let's look at how Postgres compresses data in table storage and indexes. Postgres uses a single, unified compression framework for tabl",
-   "image": "https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/d24114b8-892a-49ae-2592-2ff2535dd900/original"
-  },
-  {
    "title": "Newer Models, Same Advantage",
    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
    "date": "2026-07-16T11:49:48.000Z",
@@ -469,16 +479,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: AWS Outlines Sovereignty Controls as EU Sets Cloud Procurement Tests",
-   "link": "https://www.thedroptimes.com/71145/aws-sovereignty-controls-eu-cloud-procurement?utm_source=Drupal Planet",
-   "date": "2026-07-16T10:59:38.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "For regulated Drupal projects, choosing a cloud region settles only the easiest part of the sovereignty question. Access, key custody, operations, recovery, and exit planning determine whether the hosting claim holds.",
    "image": null
   },
   {
@@ -568,7 +568,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5d11ebbda9a564425012/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5d78c428c5e797433851/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
