@@ -1,85 +1,225 @@
 {
- "generatedAt": "2026-07-20T08:16:44.501Z",
+ "generatedAt": "2026-07-20T19:05:13.161Z",
  "articles": [
   {
-   "title": "Too Many Web Developers? Look Again.",
-   "link": "https://dev.to/member_cee45/too-many-web-developers-look-again-27m",
-   "date": "2026-07-20T08:15:03.000Z",
+   "title": "Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l",
+   "date": "2026-07-20T18:55:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You Think There Are Too Many Web Developers? Look Again. Sometimes, when you're learning web development, it's easy to look around and feel like you're already too late. You go on platforms like Fiverr, Upwork, and other",
+   "summary": "You can manage the hosts file without paying anyone. Plenty of people should. This is the free stack, plus the one case where a one-time paid app is rational. Best free GUI for most developers. Win / Mac / Linux Profiles",
    "image": null
   },
   {
-   "title": "5 Security Mistakes Every Developer Makes (And How to Fix Them in 2026)",
-   "link": "https://dev.to/lucky3mc/5-security-mistakes-every-developer-makes-and-how-to-fix-them-in-2026-5epf",
-   "date": "2026-07-20T08:10:42.000Z",
+   "title": "PowerToys Hosts File Editor alternative (when you need more than an edit box)",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3",
+   "date": "2026-07-20T18:42:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We all make security mistakes. The difference between a good developer and a great one is catching them before they reach production. Here are 5 security mistakes I see in almost every codebase and how to fix them. The m",
+   "summary": "Microsoft PowerToys includes a Hosts File Editor. It is free, signed, and already on many Windows machines. It is a good editor. It is not always a good hosts workflow. Opens the real Windows hosts file with the right el",
    "image": null
   },
   {
-   "title": "I built an open-source web vulnerability scanner — here's what I learned about scan fatigue",
-   "link": "https://dev.to/foxvr-sudo/i-built-an-open-source-web-vulnerability-scanner-heres-what-i-learned-about-scan-fatigue-3f7n",
-   "date": "2026-07-20T08:08:42.000Z",
+   "title": "We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud",
+   "link": "https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip",
+   "date": "2026-07-20T18:40:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For the last few months I've been building BugBounty Arsenal — an open-source web application security scanner — mostly to scratch my own itch. I want to share the two problems that shaped it, because they're the parts I",
+   "summary": "Every distributor we spoke to has the same quiet bottleneck, and none of them call it a problem. They call it Tuesday. A request for quote lands in a shared inbox. Sometimes it is a tidy bulleted list. More often it is t",
    "image": null
   },
   {
-   "title": "Éclat de l’Avenir Gestion S.A.R.L développe une approche financière axée sur la confiance client",
-   "link": "https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-developpe-une-approche-financiere-axee-sur-la-confiance-client-58kl",
-   "date": "2026-07-20T07:42:59.000Z",
+   "title": "Guia Prático de Versionamento para Equipes de Software",
+   "link": "https://dev.to/dev-freelancer/guia-pratico-de-versionamento-para-equipes-de-software-1jaf",
+   "date": "2026-07-20T18:38:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Dans le secteur financier, la confiance constitue l’un des fondements les plus importants d’une relation durable entre une institution et ses clients. Face à des marchés de plus en plus complexes, rapides et parfois diff",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqj3u55liqn6e3xg0ghb0.png"
-  },
-  {
-   "title": "# DevOps",
-   "link": "https://dev.to/charles_otugeh/-devops-5a5i",
-   "date": "2026-07-20T07:41:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Who Cleans the Code? My Journey from DevOps Confusion to Building a Secure CI/CD Pipeline. Starting a career in DevOps is like drinking water from a fire-hose. You are hit with an overwhelming number of tools, frameworks",
+   "summary": "Estratégias pragmáticas para gerenciar versionamento com alinhamento, testes robustos e deploys seguros. Dicas reais de equipes que entregam com consistência. 👉 Leia o artigo completo aqui: https://user.dev.br/blog/guia",
    "image": null
   },
   {
-   "title": "# DevOps",
-   "link": "https://dev.to/charles_otugeh/-devops-k44",
-   "date": "2026-07-20T07:34:58.000Z",
+   "title": "iHosts alternative for Mac developers who need Windows or Linux too",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/ihosts-alternative-for-mac-developers-who-need-windows-or-linux-too-m2e",
+   "date": "2026-07-20T18:34:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Who Cleans the Code? My Journey from DevOps Confusion to Building a Secure CI/CD Pipeline. Starting a career in DevOps is like drinking water from a fire-hose. You are hit with an overwhelming number of tools, frameworks",
+   "summary": "iHosts is a clean macOS hosts editor. If your world is only Apple hardware, it can be enough. The search for an iHosts alternative usually means one of three things: You need the same tool on a Windows or Linux machine Y",
    "image": null
   },
   {
-   "title": "วาง LLM Gateway ด้วย LiteLLM Proxy: คุม cost, token budget และ failover เวลาต้องยิงหลาย provider พร้อมกัน",
-   "link": "https://dev.to/icelimited/waang-llm-gateway-dwy-litellm-proxy-khum-cost-token-budget-aela-failover-ewlaatngyinghlaay-provider-200g",
-   "date": "2026-07-20T07:34:08.000Z",
+   "title": "Why Your Production Image Shouldn't Contain a Compiler",
+   "link": "https://dev.to/yarkhan02/why-your-production-image-shouldnt-contain-a-compiler-2k9d",
+   "date": "2026-07-20T18:32:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "เดือนก่อนทีมงานหนึ่งที่คุยด้วยมาบ่นให้ฟังว่า bill LLM ของเดือนนั้นพุ่งขึ้นเกือบ 3 เท่าโดยไม่มีใครรู้ตัวจนบิลออก สาเหตุไม่ใช่ traffic เพิ่ม แต่เป็นเพราะทีม dev คนหนึ่งเปลี่ยน model จาก Haiku ไปเป็น Opus ใน service เดียวเพ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcjx6yagl86wimyfzgv71.png"
+   "summary": "Multi-Stage Docker Builds for Go If you've ever built a Docker image for a Go service and been surprised to see it weighing in at 800MB-1GB+, this post is for you. We'll walk through exactly why that happens, and how a t",
+   "image": null
   },
   {
-   "title": "Even after years in tech, Git authentication can still throw unexpected curveballs! 😅",
-   "link": "https://dev.to/sayista_yazdani_3c0e9f4f9/even-after-years-in-tech-git-authentication-can-still-throw-unexpected-curveballs-27p6",
-   "date": "2026-07-20T07:24:40.000Z",
+   "title": "Kafka as Code: Beyond Topics",
+   "link": "https://dev.to/sderosiaux/kafka-as-code-beyond-topics-3mbc",
+   "date": "2026-07-20T18:23:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Even after years in tech, Git authentication can still throw unexpected curveballs! 😅 Today while pushing the complete codebase for the MBA Pathshala platform to a private GitHub repository, I bumped into a classic deve",
+   "summary": "Someone on your team asked \"which Terraform provider do we use for Kafka?\". Your answer is probably between Mongey/kafka and your vendor's provider like Aiven, MSK or Confluent. Good, but the question can actually be bro",
    "image": null
+  },
+  {
+   "title": "Best hosts file managers in 2026: SwitchHosts, Gas Mask, and the rest",
+   "link": "https://dev.to/locahl_9bd77121e3d366f72f/best-hosts-file-managers-in-2026-switchhosts-gas-mask-and-the-rest-4g8h",
+   "date": "2026-07-20T18:20:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you edit /etc/hosts more than once a week, a dedicated manager beats Notepad-as-Admin. Here is a clear map of the usual options in 2026, including the abandoned ones people still Google. Local domains like app.test in",
+   "image": null
+  },
+  {
+   "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+   "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+   "date": "2026-07-20T17:29:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
+  },
+  {
+   "title": "Who’s Afraid of Chinese Models?",
+   "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+   "date": "2026-07-20T17:09:19.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open mod",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Who Builds Drupal Now?",
+   "link": "https://www.thedroptimes.com/newsletter/who-builds-drupal-now?utm_source=Drupal Planet",
+   "date": "2026-07-20T16:57:37.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Visual page builders often arrive with a familiar promise: fewer developer handoffs and more control for editors. Drupal CMS 2.0 makes that promise concrete by using Drupal Canvas as its default editing experience, with ",
+   "image": null
+  },
+  {
+   "title": "Introducing Cosmos 3 Edge",
+   "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+   "date": "2026-07-20T15:58:51.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Chris Kelly Makes Easier Drupal Adoption a Focus of Board Candidacy",
+   "link": "https://www.thedroptimes.com/interview/71231/chris-kelly-easier-drupal-adoption-board-candidacy?utm_source=Drupal Planet",
+   "date": "2026-07-20T15:50:36.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Chris Kelly links the board candidacy to a question now facing Drupal: how the project can make installation and upgrades easier without weakening security, independence, or open-source safeguards.",
+   "image": null
+  },
+  {
+   "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+   "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+   "date": "2026-07-20T14:33:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
+  },
+  {
+   "title": "Talking Drupal: TD Cafe #019 - From Drupal to FIRST Robotics",
+   "link": "https://sacstudio.libsyn.com/td-cafe-019-from-drupal-to-first-robotics",
+   "date": "2026-07-20T14:17:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Michael Kinnunen and Steve Wirt share how they each got started with Drupal through higher-ed jobs and stayed for the communit. They compare those community values to FIRST Robotics, explaining FIRST's K–12 programs (FRC",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: HTML First Paper Raises Questions for Drupal Frontend Work",
+   "link": "https://www.thedroptimes.com/70982/html-first-drupal-frontend-work?utm_source=Drupal Planet",
+   "date": "2026-07-20T13:37:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal is not named in the HTML First paper, but the argument lands close to home. It gives Drupal teams a useful test for deciding when server rendering, Twig, components, and JavaScript should each carry the frontend l",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+   "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+   "date": "2026-07-20T13:32:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, ol",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
+  },
+  {
+   "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+   "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+   "date": "2026-07-20T12:13:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
+  },
+  {
+   "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+   "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+   "date": "2026-07-20T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery ov",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
+  },
+  {
+   "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
+   "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
+   "date": "2026-07-20T09:45:16.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look inside Unseen Studio's approach to transforming abstract ideas, hidden stories, and complex concepts into experiences people can explore and remember.",
+   "image": null
+  },
+  {
+   "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+   "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+   "date": "2026-07-20T09:10:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Ini",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
+  },
+  {
+   "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+   "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+   "date": "2026-07-20T09:07:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
   },
   {
    "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
@@ -92,14 +232,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
   },
   {
-   "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-   "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-   "date": "2026-07-20T05:15:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional pa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+   "title": "Scaffold Packages with the `laravel package` Command in Laravel Installer v5.31.0",
+   "link": "https://laravel-news.com/laravel-installer-5-31-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-20T05:09:42.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Installer v5.31.0 introduces a command to scaffold Laravel packages, along with environment variable propagation for node-less setups and automated PHP version matching for GitHub Actions. The post Scaffold Packa",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-installer-featured-LN.png"
   },
   {
    "title": "Hans-Juergen Schoenig: Moving to pg_hardstorage without changing your recovery strategy",
@@ -132,16 +272,6 @@
    "image": null
   },
   {
-   "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-   "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-   "date": "2026-07-19T20:42:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
-  },
-  {
    "title": "#! code: LocalGov Drupal: Rewriting Waste Collection Data Provider Classes To Alter Data",
    "link": "https://www.hashbangcode.com/article/localgov-drupal-rewriting-waste-collection-data-provider-classes-alter-data",
    "date": "2026-07-19T17:35:10.000Z",
@@ -160,26 +290,6 @@
    "source": "Planet PostgreSQL",
    "summary": "On July 15, we hosted the second meetup at our new location, the Chicago Innovations Center. The CIC is evolving, and we like it more and more! I will probably stop saying it at some point, but for now, I want to repeat ",
    "image": "https://lh3.googleusercontent.com/pw/AP1GczMP7ZERt4v7FpVaRLq78s-7DkBkqBnVkZuViJoyx4KZfGIPwYBe8OM8nRpcOzGpRPUISIH08SJGsTzrs0OFhXDnkiweGqutstWiyelxBiN3-wMcz9vcniuTChA_XNS-ZGxX6fwoXzW3j6lRj3FCQ1Y__A=w1721-h1291-s-no-gm?authuser=0"
-  },
-  {
-   "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-   "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-   "date": "2026-07-19T13:30:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emerge",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
-  },
-  {
-   "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-   "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-   "date": "2026-07-19T13:18:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 2",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
   },
   {
    "title": "Andrei Lepikhov: Openness or Oblivion",
@@ -278,7 +388,7 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that",
+   "summary": "nascheme/quixote A certain vintage of Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that",
    "image": null
   },
   {
@@ -302,56 +412,6 @@
    "image": null
   },
   {
-   "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-   "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-   "date": "2026-07-17T21:20:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg"
-  },
-  {
-   "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-   "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-   "date": "2026-07-17T20:20:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg"
-  },
-  {
-   "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-   "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-   "date": "2026-07-17T18:54:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteV",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
-  },
-  {
-   "title": "The Drop Times: Three Providers Complete IRAP Assessments for Rules as Code Delivery",
-   "link": "https://www.thedroptimes.com/71208/salsa-rules-code-irap-assessment?utm_source=Drupal Planet",
-   "date": "2026-07-17T16:06:33.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Panel access simplifies procurement but does not authorise a deployment. Agencies still need to review the assessment scope, findings, and residual risk against their intended use.",
-   "image": null
-  },
-  {
-   "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-   "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-   "date": "2026-07-17T15:57:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
    "link": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
    "date": "2026-07-17T14:05:45.000Z",
@@ -370,26 +430,6 @@
    "source": "Simon Willison",
    "summary": "Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
    "image": null
-  },
-  {
-   "title": "LLM cliché highlighter",
-   "link": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-   "date": "2026-07-17T12:11:11.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app ",
-   "image": null
-  },
-  {
-   "title": "LakeDrops Drupal Consulting, Development and Hosting: A new chapter for the Drupal Association - and why I want you in it",
-   "link": "https://www.lakedrops.com/en/blog/new-chapter-drupal-association-and-why-i-want-you-it",
-   "date": "2026-07-17T12:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A new chapter for the Drupal Association - and why I want you in it Jürgen Haas Fri 17 Jul 2026 - 14:00 The Drupal Association is changing CEOs, and the community reacted with the intensity it usually reserves for contro",
-   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-07/rineshkumar-ghirao-UdDjFekHQuk-unsplash.jpg?h=0d27ee61&amp;itok=f8BNBp2Y"
   },
   {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
@@ -432,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Droptica: What to do after Drupal 7: new website, Drupal 11 migration, or another CMS?",
-   "link": "https://www.droptica.com/blog/what-do-after-drupal-7-new-website-drupal-11-migration-or-another-cms/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-07-16T14:01:13.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Official Drupal 7 support ended on January 5, 2025 - yet many organizations still run sites on it in 2026. The real question is no longer “should we update?” but what platform you want for the next 5-10 years. A practica",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/What%20to%20do%20after%20Drupal%207%20new%20website%2C%20Drupal%2011%20migration%2C%20or%20another%20CMS_1.png"
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -459,16 +489,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. ",
-   "image": null
-  },
-  {
-   "title": "mark.ie: LocalGov Drupal Microsites Demo Module launched",
-   "link": "https://mark.ie/blog/localgov-drupal-microsites-demo-module-launched",
-   "date": "2026-07-16T12:47:30.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "LocalGov Drupal Microsites Demo Module launched Contributing to LocalGov Microsites and demoing it to others is harder than it should be, due to the lack of a demo content. But no longer ... markconroy 16th Jul 2026",
    "image": null
   },
   {
@@ -568,8 +588,18 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5dc19483b4f959233253/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5e62203833d079733989/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
+  },
+  {
+   "title": "The Analytics Stack for Laravel: Traffic, Revenue and Attribution in One Place",
+   "link": "https://laravel-news.com/the-analytics-stack-for-laravel-traffic-revenue-and-attribution-in-one-place?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-15T12:37:09.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "SimpleStats is a GDPR-compliant, server-side analytics platform built for Laravel that ties every visitor, signup and payment back to the campaign that earned it, so you can see which channels actually make money. The po",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/simplestats1.png"
   },
   {
    "title": "SymfonyCon Warsaw 2026: The first 4 speakers are live! 🔥",
@@ -600,26 +630,6 @@
    "source": "Percona Blog",
    "summary": "MySQL 9.7, a Long-Term Support (LTS) release, incorporates a variety of potential features spanning across multiple technical domains. This article covers some of the primary features introduced and evaluates their pract",
    "image": null
-  },
-  {
-   "title": "Laravel Legacy Bridge: Carry Authenticated Sessions from a Legacy App into Laravel",
-   "link": "https://laravel-news.com/laravel-legacy-bridge-carry-authenticated-sessions-from-a-legacy-app-into-laravel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-15T00:29:25.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Legacy Bridge reads a legacy PHP session cookie, decodes the payload, and logs the matching user into Laravel, so users mid-migration don't hit a second login prompt. The post Laravel Legacy Bridge: Carry Authent",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Legacy-Bridge-LN.png"
-  },
-  {
-   "title": "First-Party Image Processing in Laravel 13.20",
-   "link": "https://laravel-news.com/laravel-13-20-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-15T00:24:23.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.20.0 introduces an Image facade for resizing, converting, and storing images, along with a WithoutMiddleware controller attribute, a separate Redis session prefix, and quiet bulk increment methods on Eloquent.",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "Does the frontend still need build tools?",
@@ -859,16 +869,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "Building a Scroll-Driven 3D Gallery Using a Blender Camera Path with Three.js and GSAP",
-   "link": "https://tympanus.net/codrops/2026/07/07/building-a-scroll-driven-3d-gallery-using-a-blender-camera-path-with-three-js-and-gsap/",
-   "date": "2026-07-07T13:37:56.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Build a cinematic, scroll-driven 3D gallery using a camera path authored in Blender, rendered with Three.js, and animated with GSAP.",
    "image": null
   },
   {
