@@ -1,74 +1,124 @@
 {
- "generatedAt": "2026-07-20T02:12:53.079Z",
+ "generatedAt": "2026-07-20T08:16:44.501Z",
  "articles": [
   {
-   "title": "CI/CD Local Runner trên Laptop AI Intel Core Ultra 5 và Snapdragon X",
-   "link": "https://dev.to/hungphatlaptop/cicd-local-runner-tren-laptop-ai-intel-core-ultra-5-va-snapdragon-x-bjh",
-   "date": "2026-07-20T02:06:29.000Z",
+   "title": "Too Many Web Developers? Look Again.",
+   "link": "https://dev.to/member_cee45/too-many-web-developers-look-again-27m",
+   "date": "2026-07-20T08:15:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Thiết lập self-hosted runner cho GitHub Actions ngay trên máy cá nhân là giải pháp lý tưởng khi bạn cần chạy CI pipeline cục bộ. Với các dòng máy phục vụ công việc AI agent hiện nay, hiệu năng CPU đóng vai trò cốt lõi th",
+   "summary": "You Think There Are Too Many Web Developers? Look Again. Sometimes, when you're learning web development, it's easy to look around and feel like you're already too late. You go on platforms like Fiverr, Upwork, and other",
    "image": null
   },
   {
-   "title": "Deploy a New Version of the Application (v2)",
-   "link": "https://dev.to/jumptotech/deploy-a-new-version-of-the-application-v2-1kg0",
-   "date": "2026-07-20T02:05:53.000Z",
+   "title": "5 Security Mistakes Every Developer Makes (And How to Fix Them in 2026)",
+   "link": "https://dev.to/lucky3mc/5-security-mistakes-every-developer-makes-and-how-to-fix-them-in-2026-5epf",
+   "date": "2026-07-20T08:10:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "you deployed version 1 of the application. Today, Jules (the developer) sends you a message: \"I fixed several bugs and added a new feature. Please deploy Version 2.\" As a DevOps Engineer, you do not change the code. You ",
+   "summary": "We all make security mistakes. The difference between a good developer and a great one is catching them before they reach production. Here are 5 security mistakes I see in almost every codebase and how to fix them. The m",
    "image": null
   },
   {
-   "title": "Your Seeder Should Describe a Shape, Not Your Laptop",
-   "link": "https://dev.to/nasrulhazim/your-seeder-should-describe-a-shape-not-your-laptop-mad",
-   "date": "2026-07-20T01:53:39.000Z",
+   "title": "I built an open-source web vulnerability scanner — here's what I learned about scan fatigue",
+   "link": "https://dev.to/foxvr-sudo/i-built-an-open-source-web-vulnerability-scanner-heres-what-i-learned-about-scan-fatigue-3f7n",
+   "date": "2026-07-20T08:08:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Rewrote a bootstrap seeder so the deployment stack — DB engine, queue runner, PHP version — is config, not hardcoded. Renamed it away from a phase-based name (MvpSeeder). If a class name describes when you wrote it",
+   "summary": "For the last few months I've been building BugBounty Arsenal — an open-source web application security scanner — mostly to scratch my own itch. I want to share the two problems that shaped it, because they're the parts I",
    "image": null
   },
   {
-   "title": "Evals for DevOps AI Agents: Test Your Ops Agent Before It Touches Prod",
-   "link": "https://dev.to/devtocash/evals-for-devops-ai-agents-test-your-ops-agent-before-it-touches-prod-29ia",
-   "date": "2026-07-20T01:48:00.000Z",
+   "title": "Éclat de l’Avenir Gestion S.A.R.L développe une approche financière axée sur la confiance client",
+   "link": "https://dev.to/eclataveniravis/eclat-de-lavenir-gestion-sarl-developpe-une-approche-financiere-axee-sur-la-confiance-client-58kl",
+   "date": "2026-07-20T07:42:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. You've built the MCP server that gives your agent scoped kubectl access. You've wrapped it i",
+   "summary": "Dans le secteur financier, la confiance constitue l’un des fondements les plus importants d’une relation durable entre une institution et ses clients. Face à des marchés de plus en plus complexes, rapides et parfois diff",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqj3u55liqn6e3xg0ghb0.png"
+  },
+  {
+   "title": "# DevOps",
+   "link": "https://dev.to/charles_otugeh/-devops-5a5i",
+   "date": "2026-07-20T07:41:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Who Cleans the Code? My Journey from DevOps Confusion to Building a Secure CI/CD Pipeline. Starting a career in DevOps is like drinking water from a fire-hose. You are hit with an overwhelming number of tools, frameworks",
    "image": null
   },
   {
-   "title": "During an incident, ChatGPT should gather evidence, not become root",
-   "link": "https://dev.to/mads_hansen_27b33ebfee4c9/during-an-incident-chatgpt-should-gather-evidence-not-become-root-2j9k",
-   "date": "2026-07-20T01:24:10.000Z",
+   "title": "# DevOps",
+   "link": "https://dev.to/charles_otugeh/-devops-k44",
+   "date": "2026-07-20T07:34:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "During an incident, the expensive part is rarely writing one SQL query. It is preserving the same service, environment, tenant, deployment, and time window while responders move between errors, changes, health events, an",
+   "summary": "Who Cleans the Code? My Journey from DevOps Confusion to Building a Secure CI/CD Pipeline. Starting a career in DevOps is like drinking water from a fire-hose. You are hit with an overwhelming number of tools, frameworks",
    "image": null
   },
   {
-   "title": "The first OpenClaw setup I’d recommend for a blind parent is not a chatbot",
-   "link": "https://dev.to/lars_winstand/the-first-openclaw-setup-id-recommend-for-a-blind-parent-is-not-a-chatbot-219p",
-   "date": "2026-07-20T01:11:03.000Z",
+   "title": "วาง LLM Gateway ด้วย LiteLLM Proxy: คุม cost, token budget และ failover เวลาต้องยิงหลาย provider พร้อมกัน",
+   "link": "https://dev.to/icelimited/waang-llm-gateway-dwy-litellm-proxy-khum-cost-token-budget-aela-failover-ewlaatngyinghlaay-provider-200g",
+   "date": "2026-07-20T07:34:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I knew this was going to annoy some agent builders the second I started reading the threads. Because yes, OpenClaw can absolutely be part of the solution. That’s not the real question. The real question is: should a blin",
+   "summary": "เดือนก่อนทีมงานหนึ่งที่คุยด้วยมาบ่นให้ฟังว่า bill LLM ของเดือนนั้นพุ่งขึ้นเกือบ 3 เท่าโดยไม่มีใครรู้ตัวจนบิลออก สาเหตุไม่ใช่ traffic เพิ่ม แต่เป็นเพราะทีม dev คนหนึ่งเปลี่ยน model จาก Haiku ไปเป็น Opus ใน service เดียวเพ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcjx6yagl86wimyfzgv71.png"
+  },
+  {
+   "title": "Even after years in tech, Git authentication can still throw unexpected curveballs! 😅",
+   "link": "https://dev.to/sayista_yazdani_3c0e9f4f9/even-after-years-in-tech-git-authentication-can-still-throw-unexpected-curveballs-27p6",
+   "date": "2026-07-20T07:24:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Even after years in tech, Git authentication can still throw unexpected curveballs! 😅 Today while pushing the complete codebase for the MBA Pathshala platform to a private GitHub repository, I bumped into a classic deve",
    "image": null
   },
   {
-   "title": "A Lightweight START-HERE.md for Small Projects",
-   "link": "https://dev.to/juso-on-gil-linkhub0/a-lightweight-start-heremd-for-small-projects-23gf",
-   "date": "2026-07-20T01:05:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Small projects often become difficult for a simple reason: the useful context is scattered. A repository may contain code, notes, issue links, design decisions, test instructions, and deployment details. None of these ar",
+   "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+   "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+   "date": "2026-07-20T05:27:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
+  },
+  {
+   "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+   "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+   "date": "2026-07-20T05:15:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional pa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+  },
+  {
+   "title": "Hans-Juergen Schoenig: Moving to pg_hardstorage without changing your recovery strategy",
+   "link": "https://postgr.es/p/9q2",
+   "date": "2026-07-20T04:00:06.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Changing a PostgreSQL backup solution involves much more than installing a new binary. Backup repositories, retention policies, recovery procedures, operational runbooks, and compliance requirements have all been built o",
+   "image": null
+  },
+  {
+   "title": "Quoting Sam Altman",
+   "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+   "date": "2026-07-20T03:47:59.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability o",
    "image": null
   },
   {
@@ -79,16 +129,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "extra_float_digits is the setting whose job changed out from under it. For most of PostgreSQL’s history it forced a choice between floating-point output that was easy to read and output that was exactly right, and you co",
-   "image": null
-  },
-  {
-   "title": "Linux Performance Troubleshooting: The 60-Second Check and Beyond",
-   "link": "https://dev.to/toothbrush/linux-performance-troubleshooting-the-60-second-check-and-beyond-193f",
-   "date": "2026-07-20T00:49:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When a production server starts misbehaving — latency spikes, dropped requests, OOM kills — you don't have time to read man pages. You need a systematic approach that rules out the most common culprits in under a minute,",
    "image": null
   },
   {
@@ -292,26 +332,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg"
   },
   {
-   "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-   "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-   "date": "2026-07-17T17:12:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Op",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg"
-  },
-  {
-   "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-   "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-   "date": "2026-07-17T16:39:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg"
-  },
-  {
    "title": "The Drop Times: Three Providers Complete IRAP Assessments for Rules as Code Delivery",
    "link": "https://www.thedroptimes.com/71208/salsa-rules-code-irap-assessment?utm_source=Drupal Planet",
    "date": "2026-07-17T16:06:33.000Z",
@@ -382,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Spot birds not golf",
-   "link": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-   "date": "2026-07-17T02:58:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into bi",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: exit_on_error",
    "link": "https://postgr.es/p/9pW",
    "date": "2026-07-17T01:00:00.000Z",
@@ -410,16 +420,6 @@
    "source": "Laravel News",
    "summary": "Vocalizer is a native PHP extension for local speech synthesis, embedding sherpa-onnx and audio.cpp to run eight TTS model families — including Chatterbox voice cloning — behind one API. The post Vocalizer: Local Text-to",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/nativephp-vocalizer-featured.png"
-  },
-  {
-   "title": "Antony Pegg: Spock 6: The Only Logical Choice",
-   "link": "https://postgr.es/p/9pV",
-   "date": "2026-07-16T20:16:33.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Spock 6 has landed in Beta. pgEdge's multi-master replication extension now runs on PostgreSQL 16, 17, 18, and 19, tracks replication progress in shared memory instead of a catalog table, spills oversized replay queues t",
-   "image": "https://a.storyblok.com/f/187930/1370x904/76a4bbc4eb/spock-6-blog-1.png"
   },
   {
    "title": "Meet the Speakers of the First Three.js Conference",
@@ -568,7 +568,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5d78c428c5e797433851/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5dc19483b4f959233253/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
