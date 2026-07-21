@@ -1,84 +1,134 @@
 {
- "generatedAt": "2026-07-21T00:07:01.857Z",
+ "generatedAt": "2026-07-21T07:41:51.451Z",
  "articles": [
   {
-   "title": "How to Use AI for Code Reviews: A Complete Prompt System",
-   "link": "https://dev.to/draftkit/how-to-use-ai-for-code-reviews-a-complete-prompt-system-n66",
-   "date": "2026-07-20T23:34:23.000Z",
+   "title": "Wondering whether a virtual dedicated server is right for your next project?",
+   "link": "https://dev.to/onegbits/wondering-whether-a-virtual-dedicated-server-is-right-for-your-next-project-2o0f",
+   "date": "2026-07-21T07:35:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Code reviews are where AI earns its keep. Not as a replacement for human review — but as a first pass that catches the obvious stuff. You are a senior staff engineer doing a careful code review. Context: - Diff: [PASTE D",
+   "summary": "Wondering whether a virtual dedicated server is right for your next project? Quick tip: A VDS provides isolated resources and greater control than typical shared hosting, making it a strong option for demanding applicati",
    "image": null
   },
   {
-   "title": "A 500 Error Taught Me More Than a Green Checkmark Would Have",
-   "link": "https://dev.to/iriandr/a-500-error-taught-me-more-than-a-green-checkmark-would-have-3040",
-   "date": "2026-07-20T23:15:57.000Z",
+   "title": "Preventing Unsafe Regional Failover in Amazon EKS with Policy-Gated Recovery",
+   "link": "https://dev.to/pradeep_kandepaneni/preventing-unsafe-regional-failover-in-amazon-eks-with-policy-gated-recovery-3c8l",
+   "date": "2026-07-21T07:30:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I set up my first CI pipeline today. It failed on the first real run — The idea is simple: instead of manually checking \"does this still work?\" CI (Continuous Integration) is that automatic check — build the project, mai",
+   "summary": "This article was originally published on AWS Builder Center. A secondary Amazon EKS cluster can appear healthy while still being unsafe to receive production traffic. This article presents a policy-gated recovery model t",
    "image": null
   },
   {
-   "title": "Best 10 Places to Buy Naver Accounts (Verified & Ready ...",
-   "link": "https://dev.to/eilisfarleypgmnm/best-10-places-to-buy-naver-accounts-verified-ready--5b24",
-   "date": "2026-07-20T22:42:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Naver Accounts: Complete Guide to Features, Security, Risks & Responsible Account Management (2026) 📲 Telegram: https://t.me/UsaDigitalHub 💬 WhatsApp: +1 (506) 541-7768 🎮 Discord: usadigitalhub 📧 Email: usadigita",
+   "title": "Smartbees: 2 Drupal Projects We Rescued After Other Agencies",
+   "link": "https://smartbees.co/case-study/rescued-drupal-projects",
+   "date": "2026-07-21T07:25:37.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We take over projects from other agencies and see them through to completion – even if they are stuck, have errors, or require urgent intervention.",
    "image": null
   },
   {
-   "title": "I put an AI agent on a timer. Overnight it burned 136M tokens doing almost nothing.",
-   "link": "https://dev.to/wartzarbee/i-put-an-ai-agent-on-a-timer-overnight-it-burned-136m-tokens-doing-almost-nothing-2ae2",
-   "date": "2026-07-20T22:37:29.000Z",
+   "title": "The future of technology value: AI + Cloud + Humans",
+   "link": "https://dev.to/zop_8abedcc7e12/the-future-of-technology-value-ai-cloud-humans-43ca",
+   "date": "2026-07-21T07:21:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "To keep one of our AI-agent projects moving without me, I did the obvious thing: I gave the It ran overnight. By morning a single session had burned 136 million tokens — and it had spent other agents mid-run. This was a ",
+   "summary": "Quick take Every FinOps tool I have used stops at the recommendation. It shows a list of underused instances, a chart of overspend, a Slack digest of anomalies, and then leaves the humans to do the work. The gap between ",
    "image": null
   },
   {
-   "title": "Gold Eagle Can't Patch What Nobody Maintains: The EOL Hole in the White House's New Vulnerability Pipeline",
-   "link": "https://dev.to/endoflifeai/gold-eagle-cant-patch-what-nobody-maintains-the-eol-hole-in-the-white-houses-new-vulnerability-18bk",
-   "date": "2026-07-20T22:29:03.000Z",
+   "title": "From Zero to Production Backend with HTTPS in One Copy-Paste: Magic Cloud on DigitalOcean",
+   "link": "https://dev.to/polterguy/from-zero-to-production-backend-with-https-in-one-copy-paste-magic-cloud-on-digitalocean-2jn1",
+   "date": "2026-07-21T07:21:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On July 14, the White House launched Gold Eagle, a national vulnerability coordination clearinghouse created by Executive Order 14409. The premise is sound and the timing is not subtle: AI systems are now discovering sof",
+   "summary": "Modern deployment orthodoxy is very clear about what you need to run a backend in production: a Kubernetes cluster, a CI/CD pipeline, a \"platform team\", an observability stack, and a cloud bill with a comma in it. Prefer",
    "image": null
   },
   {
-   "title": "Learn grok-build in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-583l",
-   "date": "2026-07-20T22:27:43.000Z",
+   "title": "How Mobile-Friendly Technology Is Changing the Way Sports Fans Follow Khelofun",
+   "link": "https://dev.to/khelofun/how-mobile-friendly-technology-is-changing-the-way-sports-fans-follow-khelofun-5f59",
+   "date": "2026-07-21T07:20:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent hours struggling to set up a new build tool for my Rust project, only to realize that I could have mastered grok-build in just 5 minutes. You'll build a fully functional grok-build configu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "When Does Self-Hosting an LLM Actually Beat the API? The Break-Even Math",
-   "link": "https://dev.to/framz/when-does-self-hosting-an-llm-actually-beat-the-api-the-break-even-math-gl1",
-   "date": "2026-07-20T22:25:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every team I've worked with hits the same argument about three months after shipping something on top of an LLM: \"Should we still be paying per token, or should we just self-host?\" And it's always argued on vibes. Someon",
+   "summary": "Mobile technology has changed the way people access information. Today, sports fans no longer need to wait until they reach a desktop computer to check the latest updates. With a smartphone and an internet connection, th",
    "image": null
   },
   {
-   "title": "The Four Layers of Cloud Lock-In (and How Terraform Cuts Your Exit Cost)",
-   "link": "https://dev.to/framz/the-four-layers-of-cloud-lock-in-and-how-terraform-cuts-your-exit-cost-17he",
-   "date": "2026-07-20T22:25:08.000Z",
+   "title": "Your Backup Restored. Why Is the Application Still Down?",
+   "link": "https://dev.to/demivalerith/your-backup-restored-why-is-the-application-still-down-3da3",
+   "date": "2026-07-21T07:19:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "People throw around \"vendor lock-in\" like it's a binary — you either have it or you don't. That framing is why the conversation usually goes nowhere. Lock-in isn't one thing. It's four different things stacked on top of ",
+   "summary": "A backup can be perfectly readable and still fail to bring a service back. The database may restore while the application remains offline because a signing key is missing, an object-storage bucket was not included, DNS p",
+   "image": null
+  },
+  {
+   "title": "Custom Web Development vs. No-Code/Templates: A Framework for Making the Call",
+   "link": "https://dev.to/sneha_shri/custom-web-development-vs-no-codetemplates-a-framework-for-making-the-call-36ej",
+   "date": "2026-07-21T07:13:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every few months a founder or a fellow dev asks me a version of the same question: \"Should we just use Webflow/WordPress, or actually build this custom?\" It's a more nuanced decision than most \"just use a website builder",
+   "image": null
+  },
+  {
+   "title": "Ledgethxis Exchange Strengthens Global Identity Through Compliance",
+   "link": "https://dev.to/ledgethxis/ledgethxis-exchange-strengthens-global-identity-through-compliance-513a",
+   "date": "2026-07-21T07:13:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ledgethxis Exchange has announced its continued focus on strengthening global brand credibility through a compliance-centered approach, transparent communication, and structured operational practices. As the digital fina",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F714c2g5925fnk3bun285.png"
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 28",
+   "link": "https://postgr.es/p/9q5",
+   "date": "2026-07-21T06:38:49.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 15 July 2026, the Prairie Postgres Meetup Group met, organized by Henrietta Dombrovskaya and Carlos Aranibar. Speakers: Zach Paden Anna Bailliekova On 18 July 2026, Alicja Kucharczyk, Pavlo Golub, Denys Holub & Anasta",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: file_copy_method",
+   "link": "https://postgr.es/p/9q4",
+   "date": "2026-07-21T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 18's `file_copy_method = clone` can copy a terabyte database in half a second on copy-on-write filesystems. Here's when and why you should use it.",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS 3.7.0beta1",
+   "link": "https://postgr.es/p/9q6",
+   "date": "2026-07-21T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0beta1! Best Served with PostgreSQL 19 Beta2 and GEOS 3.15.0beta2. This version requires PostgreSQL 14 - 19beta2, GEOS 3.10 or higher, and Proj 6.1+. To take advantage o",
+   "image": null
+  },
+  {
+   "title": "Dries Buytaert: The cost of running multiple CMS platforms",
+   "link": "https://dri.es/the-cost-of-running-multiple-cms-platforms",
+   "date": "2026-07-20T22:10:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "In recent months, a number of Acquia customers have independently made the same strategic decision: to migrate hundreds of websites from WordPress and other platforms to Drupal. Some of these sites will move to Acquia Cl",
    "image": null
   },
   {
@@ -372,16 +422,6 @@
    "image": null
   },
   {
-   "title": "BloomIdea: Make-to-Order production for Drupal Commerce: from a spreadsheet to a contrib module",
-   "link": "https://bloomidea.com/en/blog/make-order-production-drupal-commerce-spreadsheet-contrib-module",
-   "date": "2026-07-18T11:22:20.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "At Josefinas, every pair of shoes is handmade in Portugal after the order is placed. There is no warehouse full of finished stock: a customer buys, and an atelier starts working. For years, the bridge between \"order paid",
-   "image": null
-  },
-  {
    "title": "Claude make Fable 5 permanent",
    "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
    "date": "2026-07-18T06:00:13.000Z",
@@ -402,26 +442,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: extension_control_path",
-   "link": "https://postgr.es/p/9pY",
-   "date": "2026-07-18T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 18 lets you store extensions anywhere with `extension_control_path`, ending the requirement to install them into the system directory.",
-   "image": null
-  },
-  {
-   "title": "Drupal.org blog: Migrating issues from security.drupal.org to git.drupalcode.org",
-   "link": "https://www.drupal.org/drupalorg/blog/migrating-issues-from-securitydrupalorg-to-gitdrupalcodeorg",
-   "date": "2026-07-17T21:50:48.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "All security issues have been migrated from the older security.drupal.org site to our GitLab instance at git.drupalcode.org. This is the latest in a series of steps to improve Drupal’s coordinated vulnerability disclosur",
-   "image": null
-  },
-  {
    "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
    "link": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
    "date": "2026-07-17T14:05:45.000Z",
@@ -429,26 +449,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical breakdown of the pipeline, rendering techniques, and performance optimizations behind ZERO, an immersive scroll driven WebGL experience built for desktop and mobile.",
-   "image": null
-  },
-  {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
-   "link": "https://postgr.es/p/9pX",
-   "date": "2026-07-17T06:05:23.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres 19 is just a smorgasbord of new functionality; it's genuinely hard to believe they packed all these new features into a single release. To that laundry-list of new capabilities, it adds something I almost missed",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: exit_on_error",
-   "link": "https://postgr.es/p/9pW",
-   "date": "2026-07-17T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's `exit_on_error` GUC promotes every error to a session-terminating event—but this fail-fast illusion masks a destructive truth.",
    "image": null
   },
   {
@@ -588,7 +588,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5e9fb533c27083069747/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5f1ec9299ce171383449/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
