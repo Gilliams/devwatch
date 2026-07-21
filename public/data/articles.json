@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-07-20T19:05:13.161Z",
+ "generatedAt": "2026-07-21T00:07:01.857Z",
  "articles": [
   {
-   "title": "Free hosts file editor alternatives: SwitchHosts, PowerToys, Terminal, and when to pay",
-   "link": "https://dev.to/locahl_9bd77121e3d366f72f/free-hosts-file-editor-alternatives-switchhosts-powertoys-terminal-and-when-to-pay-4m2l",
-   "date": "2026-07-20T18:55:31.000Z",
+   "title": "How to Use AI for Code Reviews: A Complete Prompt System",
+   "link": "https://dev.to/draftkit/how-to-use-ai-for-code-reviews-a-complete-prompt-system-n66",
+   "date": "2026-07-20T23:34:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You can manage the hosts file without paying anyone. Plenty of people should. This is the free stack, plus the one case where a one-time paid app is rational. Best free GUI for most developers. Win / Mac / Linux Profiles",
+   "summary": "Code reviews are where AI earns its keep. Not as a replacement for human review — but as a first pass that catches the obvious stuff. You are a senior staff engineer doing a careful code review. Context: - Diff: [PASTE D",
    "image": null
   },
   {
-   "title": "PowerToys Hosts File Editor alternative (when you need more than an edit box)",
-   "link": "https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3",
-   "date": "2026-07-20T18:42:13.000Z",
+   "title": "A 500 Error Taught Me More Than a Green Checkmark Would Have",
+   "link": "https://dev.to/iriandr/a-500-error-taught-me-more-than-a-green-checkmark-would-have-3040",
+   "date": "2026-07-20T23:15:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Microsoft PowerToys includes a Hosts File Editor. It is free, signed, and already on many Windows machines. It is a good editor. It is not always a good hosts workflow. Opens the real Windows hosts file with the right el",
+   "summary": "I set up my first CI pipeline today. It failed on the first real run — The idea is simple: instead of manually checking \"does this still work?\" CI (Continuous Integration) is that automatic check — build the project, mai",
    "image": null
   },
   {
-   "title": "We built an agent that turns messy RFQ emails into priced quotes, and shipped it on Alibaba Cloud",
-   "link": "https://dev.to/johnughiovhe/we-built-an-agent-that-turns-messy-rfq-emails-into-priced-quotes-and-shipped-it-on-alibaba-cloud-2oip",
-   "date": "2026-07-20T18:40:59.000Z",
+   "title": "Best 10 Places to Buy Naver Accounts (Verified & Ready ...",
+   "link": "https://dev.to/eilisfarleypgmnm/best-10-places-to-buy-naver-accounts-verified-ready--5b24",
+   "date": "2026-07-20T22:42:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every distributor we spoke to has the same quiet bottleneck, and none of them call it a problem. They call it Tuesday. A request for quote lands in a shared inbox. Sometimes it is a tidy bulleted list. More often it is t",
+   "summary": "Buy Naver Accounts: Complete Guide to Features, Security, Risks & Responsible Account Management (2026) 📲 Telegram: https://t.me/UsaDigitalHub 💬 WhatsApp: +1 (506) 541-7768 🎮 Discord: usadigitalhub 📧 Email: usadigita",
    "image": null
   },
   {
-   "title": "Guia Prático de Versionamento para Equipes de Software",
-   "link": "https://dev.to/dev-freelancer/guia-pratico-de-versionamento-para-equipes-de-software-1jaf",
-   "date": "2026-07-20T18:38:40.000Z",
+   "title": "I put an AI agent on a timer. Overnight it burned 136M tokens doing almost nothing.",
+   "link": "https://dev.to/wartzarbee/i-put-an-ai-agent-on-a-timer-overnight-it-burned-136m-tokens-doing-almost-nothing-2ae2",
+   "date": "2026-07-20T22:37:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Estratégias pragmáticas para gerenciar versionamento com alinhamento, testes robustos e deploys seguros. Dicas reais de equipes que entregam com consistência. 👉 Leia o artigo completo aqui: https://user.dev.br/blog/guia",
+   "summary": "To keep one of our AI-agent projects moving without me, I did the obvious thing: I gave the It ran overnight. By morning a single session had burned 136 million tokens — and it had spent other agents mid-run. This was a ",
    "image": null
   },
   {
-   "title": "iHosts alternative for Mac developers who need Windows or Linux too",
-   "link": "https://dev.to/locahl_9bd77121e3d366f72f/ihosts-alternative-for-mac-developers-who-need-windows-or-linux-too-m2e",
-   "date": "2026-07-20T18:34:42.000Z",
+   "title": "Gold Eagle Can't Patch What Nobody Maintains: The EOL Hole in the White House's New Vulnerability Pipeline",
+   "link": "https://dev.to/endoflifeai/gold-eagle-cant-patch-what-nobody-maintains-the-eol-hole-in-the-white-houses-new-vulnerability-18bk",
+   "date": "2026-07-20T22:29:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "iHosts is a clean macOS hosts editor. If your world is only Apple hardware, it can be enough. The search for an iHosts alternative usually means one of three things: You need the same tool on a Windows or Linux machine Y",
+   "summary": "On July 14, the White House launched Gold Eagle, a national vulnerability coordination clearinghouse created by Executive Order 14409. The premise is sound and the timing is not subtle: AI systems are now discovering sof",
    "image": null
   },
   {
-   "title": "Why Your Production Image Shouldn't Contain a Compiler",
-   "link": "https://dev.to/yarkhan02/why-your-production-image-shouldnt-contain-a-compiler-2k9d",
-   "date": "2026-07-20T18:32:27.000Z",
+   "title": "Learn grok-build in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/learn-grok-build-in-5-mins-583l",
+   "date": "2026-07-20T22:27:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Multi-Stage Docker Builds for Go If you've ever built a Docker image for a Go service and been surprised to see it weighing in at 800MB-1GB+, this post is for you. We'll walk through exactly why that happens, and how a t",
+   "summary": "Introduction Last week, I spent hours struggling to set up a new build tool for my Rust project, only to realize that I could have mastered grok-build in just 5 minutes. You'll build a fully functional grok-build configu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "When Does Self-Hosting an LLM Actually Beat the API? The Break-Even Math",
+   "link": "https://dev.to/framz/when-does-self-hosting-an-llm-actually-beat-the-api-the-break-even-math-gl1",
+   "date": "2026-07-20T22:25:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every team I've worked with hits the same argument about three months after shipping something on top of an LLM: \"Should we still be paying per token, or should we just self-host?\" And it's always argued on vibes. Someon",
    "image": null
   },
   {
-   "title": "Kafka as Code: Beyond Topics",
-   "link": "https://dev.to/sderosiaux/kafka-as-code-beyond-topics-3mbc",
-   "date": "2026-07-20T18:23:21.000Z",
+   "title": "The Four Layers of Cloud Lock-In (and How Terraform Cuts Your Exit Cost)",
+   "link": "https://dev.to/framz/the-four-layers-of-cloud-lock-in-and-how-terraform-cuts-your-exit-cost-17he",
+   "date": "2026-07-20T22:25:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Someone on your team asked \"which Terraform provider do we use for Kafka?\". Your answer is probably between Mongey/kafka and your vendor's provider like Aiven, MSK or Confluent. Good, but the question can actually be bro",
+   "summary": "People throw around \"vendor lock-in\" like it's a binary — you either have it or you don't. That framing is why the conversation usually goes nowhere. Lock-in isn't one thing. It's four different things stacked on top of ",
    "image": null
   },
   {
-   "title": "Best hosts file managers in 2026: SwitchHosts, Gas Mask, and the rest",
-   "link": "https://dev.to/locahl_9bd77121e3d366f72f/best-hosts-file-managers-in-2026-switchhosts-gas-mask-and-the-rest-4g8h",
-   "date": "2026-07-20T18:20:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you edit /etc/hosts more than once a week, a dedicated manager beats Notepad-as-Admin. Here is a clear map of the usual options in 2026, including the abandoned ones people still Google. Local domains like app.test in",
+   "title": "Reverse-engineering is cheap now",
+   "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+   "date": "2026-07-20T19:24:05.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to",
    "image": null
+  },
+  {
+   "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+   "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+   "date": "2026-07-20T18:23:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware fa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
   },
   {
    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
@@ -220,16 +240,6 @@
    "source": "The Hacker News",
    "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
-  },
-  {
-   "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-   "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-   "date": "2026-07-20T05:27:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
   },
   {
    "title": "Scaffold Packages with the `laravel package` Command in Laravel Installer v5.31.0",
@@ -422,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Quoting Kimi K3",
-   "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
-   "date": "2026-07-17T13:43:53.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Is there something I can actually help you with today? &mdash; Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
-   "image": null
-  },
-  {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control",
    "link": "https://postgr.es/p/9pX",
    "date": "2026-07-17T06:05:23.000Z",
@@ -588,7 +588,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5e62203833d079733989/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5e9fb533c27083069747/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
