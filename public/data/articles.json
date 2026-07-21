@@ -1,25 +1,155 @@
 {
- "generatedAt": "2026-07-21T07:41:51.451Z",
+ "generatedAt": "2026-07-21T12:42:42.225Z",
  "articles": [
   {
-   "title": "Wondering whether a virtual dedicated server is right for your next project?",
-   "link": "https://dev.to/onegbits/wondering-whether-a-virtual-dedicated-server-is-right-for-your-next-project-2o0f",
-   "date": "2026-07-21T07:35:49.000Z",
+   "title": "Why PikoCI uses HCL instead of YAML",
+   "link": "https://dev.to/xescugc/why-pikoci-uses-hcl-instead-of-yaml-3i9e",
+   "date": "2026-07-21T12:31:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Wondering whether a virtual dedicated server is right for your next project? Quick tip: A VDS provides isolated resources and greater control than typical shared hosting, making it a strong option for demanding applicati",
+   "summary": "Why PikoCI uses HCL instead of YAML Almost every CI/CD tool uses YAML. GitHub Actions, GitLab CI, Concourse, Drone, Woodpecker, all YAML. Before I wrote a single line of PikoCI's code, the first decision I made was that ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuoxawk0k88e0x69a2akp.png"
+  },
+  {
+   "title": "Monitoring Is Easy. Observability Is What Helps You Sleep at Night",
+   "link": "https://dev.to/sre_queen/monitoring-is-easy-observability-is-what-helps-you-sleep-at-night-4db0",
+   "date": "2026-07-21T12:25:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When I first started working with monitoring tools, I thought collecting CPU and memory metrics was enough. If the dashboards were green, everything was fine. Then production happened. Applications slowed down while CPU ",
    "image": null
   },
   {
-   "title": "Preventing Unsafe Regional Failover in Amazon EKS with Policy-Gated Recovery",
-   "link": "https://dev.to/pradeep_kandepaneni/preventing-unsafe-regional-failover-in-amazon-eks-with-policy-gated-recovery-3c8l",
-   "date": "2026-07-21T07:30:42.000Z",
+   "title": "The Execution Gap",
+   "link": "https://dev.to/rbuckley_/the-execution-gap-3d64",
+   "date": "2026-07-21T12:22:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This article was originally published on AWS Builder Center. A secondary Amazon EKS cluster can appear healthy while still being unsafe to receive production traffic. This article presents a policy-gated recovery model t",
+   "summary": "AI agents can now act in the real world. Almost nothing checks whether they're allowed to. On day nine of a \"vibe coding\" experiment in July 2025, Replit's AI agent deleted a production database. It was under an explicit",
    "image": null
+  },
+  {
+   "title": "Kimi K3 Overloaded Its Cluster in 48 Hours-Build This Capacity Admission Test",
+   "link": "https://dev.to/odd_background_328/kimi-k3-overloaded-its-cluster-in-48-hours-build-this-capacity-admission-test-464d",
+   "date": "2026-07-21T12:17:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Kimi K3 launched on July 16. By July 19, Moonshot AI suspended all new consumer subscriptions because user requests exceeded cluster capacity within 48 hours. This is not a Kimi problem. It is a capacity-planning lesson ",
+   "image": null
+  },
+  {
+   "title": "I built SSH session middleware so AI agents can work behind jump hosts",
+   "link": "https://dev.to/jie123108/i-built-ssh-session-middleware-so-ai-agents-can-work-behind-jump-hosts-4da0",
+   "date": "2026-07-21T12:13:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I build a lot with AI coding agents these days. Writing code, editing docs, poking at web pages — an agent can mostly handle it. The place it consistently falls apart is servers. Most of the machines I care about sit beh",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F23wu4f5vc1h06cikyns0.gif"
+  },
+  {
+   "title": "Kimi K3 Open Weights Are Coming-Run This 10-Minute Supply-Chain Gate First",
+   "link": "https://dev.to/jaryn_123/kimi-k3-open-weights-are-coming-run-this-10-minute-supply-chain-gate-first-4bh1",
+   "date": "2026-07-21T12:11:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Kimi K3 arrived with 2.8 trillion parameters and an Arena coding score that briefly displaced every closed model from the top slot. The team has indicated weights will follow. When they do, your inference pipeline inheri",
+   "image": null
+  },
+  {
+   "title": "Cloud Governance Is Replacing Cloud Architecture",
+   "link": "https://dev.to/ntctech/cloud-governance-is-replacing-cloud-architecture-3f4",
+   "date": "2026-07-21T12:09:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cloud governance is no longer the layer that gets bolted on after the architecture diagram is approved — it has become the constraint the diagram gets approved against. Cloud architecture is not disappearing. Governance ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4v01660gjrd1ma02mfk6.jpg"
+  },
+  {
+   "title": "Collaboration: The Heart of DevOps",
+   "link": "https://dev.to/fabiosarmento/collaboration-the-heart-of-devops-3h8c",
+   "date": "2026-07-21T12:02:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "DevOps isn't just about tools; it's about collaboration. Foster an environment where communication flows freely to truly unlock potential!",
+   "image": null
+  },
+  {
+   "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+   "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+   "date": "2026-07-21T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
+  },
+  {
+   "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+   "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+   "date": "2026-07-21T11:42:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
+  },
+  {
+   "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+   "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+   "date": "2026-07-21T11:24:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, descri",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
+  },
+  {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
+   "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+   "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+   "date": "2026-07-21T08:59:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg"
+  },
+  {
+   "title": "Cornelia Biacsics: Building The OAPE PostgreSQL Certification",
+   "link": "https://postgr.es/p/9q7",
+   "date": "2026-07-21T08:33:25.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Building the OAPE PostgreSQL Certification I’m one of the founders of the Open Alliance for PostgreSQL Education (OAPE). Over the past two years, I’ve had a front-row seat to watching an idea become a community, and a co",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*4xUqBzp_E_psZ2Ur9srt8g.png"
+  },
+  {
+   "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+   "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+   "date": "2026-07-21T07:34:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg"
   },
   {
    "title": "Smartbees: 2 Drupal Projects We Rescued After Other Agencies",
@@ -32,66 +162,6 @@
    "image": null
   },
   {
-   "title": "The future of technology value: AI + Cloud + Humans",
-   "link": "https://dev.to/zop_8abedcc7e12/the-future-of-technology-value-ai-cloud-humans-43ca",
-   "date": "2026-07-21T07:21:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Quick take Every FinOps tool I have used stops at the recommendation. It shows a list of underused instances, a chart of overspend, a Slack digest of anomalies, and then leaves the humans to do the work. The gap between ",
-   "image": null
-  },
-  {
-   "title": "From Zero to Production Backend with HTTPS in One Copy-Paste: Magic Cloud on DigitalOcean",
-   "link": "https://dev.to/polterguy/from-zero-to-production-backend-with-https-in-one-copy-paste-magic-cloud-on-digitalocean-2jn1",
-   "date": "2026-07-21T07:21:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Modern deployment orthodoxy is very clear about what you need to run a backend in production: a Kubernetes cluster, a CI/CD pipeline, a \"platform team\", an observability stack, and a cloud bill with a comma in it. Prefer",
-   "image": null
-  },
-  {
-   "title": "How Mobile-Friendly Technology Is Changing the Way Sports Fans Follow Khelofun",
-   "link": "https://dev.to/khelofun/how-mobile-friendly-technology-is-changing-the-way-sports-fans-follow-khelofun-5f59",
-   "date": "2026-07-21T07:20:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Mobile technology has changed the way people access information. Today, sports fans no longer need to wait until they reach a desktop computer to check the latest updates. With a smartphone and an internet connection, th",
-   "image": null
-  },
-  {
-   "title": "Your Backup Restored. Why Is the Application Still Down?",
-   "link": "https://dev.to/demivalerith/your-backup-restored-why-is-the-application-still-down-3da3",
-   "date": "2026-07-21T07:19:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A backup can be perfectly readable and still fail to bring a service back. The database may restore while the application remains offline because a signing key is missing, an object-storage bucket was not included, DNS p",
-   "image": null
-  },
-  {
-   "title": "Custom Web Development vs. No-Code/Templates: A Framework for Making the Call",
-   "link": "https://dev.to/sneha_shri/custom-web-development-vs-no-codetemplates-a-framework-for-making-the-call-36ej",
-   "date": "2026-07-21T07:13:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every few months a founder or a fellow dev asks me a version of the same question: \"Should we just use Webflow/WordPress, or actually build this custom?\" It's a more nuanced decision than most \"just use a website builder",
-   "image": null
-  },
-  {
-   "title": "Ledgethxis Exchange Strengthens Global Identity Through Compliance",
-   "link": "https://dev.to/ledgethxis/ledgethxis-exchange-strengthens-global-identity-through-compliance-513a",
-   "date": "2026-07-21T07:13:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ledgethxis Exchange has announced its continued focus on strengthening global brand credibility through a compliance-centered approach, transparent communication, and structured operational practices. As the digital fina",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F714c2g5925fnk3bun285.png"
-  },
-  {
    "title": "Cornelia Biacsics: Contributions for week 28",
    "link": "https://postgr.es/p/9q5",
    "date": "2026-07-21T06:38:49.000Z",
@@ -102,6 +172,26 @@
    "image": null
   },
   {
+   "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+   "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+   "date": "2026-07-21T06:29:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
+  },
+  {
+   "title": "Abhisek Goswami: PostgreSQL vs Destructive Time Travel: The Year 2038 Problem",
+   "link": "https://postgr.es/p/9q8",
+   "date": "2026-07-21T05:00:58.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Time, Physics, Mathematics, and Databases Physics treats time as one of the fundamental dimensions of the universe. Mathematics transforms time into measurable values, equations, intervals, and limits. Databases quietly ",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: file_copy_method",
    "link": "https://postgr.es/p/9q4",
    "date": "2026-07-21T01:00:00.000Z",
@@ -109,6 +199,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 18's `file_copy_method = clone` can copy a terabyte database in half a second on copy-on-write filesystems. Here's when and why you should use it.",
+   "image": null
+  },
+  {
+   "title": "Grabette: an open system to record robot-manipulation data",
+   "link": "https://huggingface.co/blog/grabette",
+   "date": "2026-07-21T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -202,16 +302,6 @@
    "image": null
   },
   {
-   "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-   "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-   "date": "2026-07-20T14:33:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg"
-  },
-  {
    "title": "Talking Drupal: TD Cafe #019 - From Drupal to FIRST Robotics",
    "link": "https://sacstudio.libsyn.com/td-cafe-019-from-drupal-to-first-robotics",
    "date": "2026-07-20T14:17:00.000Z",
@@ -232,36 +322,6 @@
    "image": null
   },
   {
-   "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-   "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-   "date": "2026-07-20T13:32:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, ol",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
-  },
-  {
-   "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-   "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-   "date": "2026-07-20T12:13:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
-  },
-  {
-   "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-   "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-   "date": "2026-07-20T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery ov",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
-  },
-  {
    "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
    "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
    "date": "2026-07-20T09:45:16.000Z",
@@ -270,26 +330,6 @@
    "source": "Codrops",
    "summary": "A look inside Unseen Studio's approach to transforming abstract ideas, hidden stories, and complex concepts into experiences people can explore and remember.",
    "image": null
-  },
-  {
-   "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-   "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-   "date": "2026-07-20T09:10:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Ini",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
-  },
-  {
-   "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-   "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-   "date": "2026-07-20T09:07:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
   },
   {
    "title": "Scaffold Packages with the `laravel package` Command in Laravel Installer v5.31.0",
@@ -352,16 +392,6 @@
    "image": "https://lh3.googleusercontent.com/pw/AP1GczMP7ZERt4v7FpVaRLq78s-7DkBkqBnVkZuViJoyx4KZfGIPwYBe8OM8nRpcOzGpRPUISIH08SJGsTzrs0OFhXDnkiweGqutstWiyelxBiN3-wMcz9vcniuTChA_XNS-ZGxX6fwoXzW3j6lRj3FCQ1Y__A=w1721-h1291-s-no-gm?authuser=0"
   },
   {
-   "title": "Andrei Lepikhov: Openness or Oblivion",
-   "link": "https://postgr.es/p/9p_",
-   "date": "2026-07-19T10:25:44.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "I wonder what we can confidently say about how AI is changing the way our community works. My hunch is that, as usual, we are held captive by our own experience and use AI in the ways we're accustomed to. Text chat, for ",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1020 (July 13–19, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1020-july-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-19T07:23:00.000Z",
@@ -389,16 +419,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring ",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: external_pid_file",
-   "link": "https://postgr.es/p/9pZ",
-   "date": "2026-07-19T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Write a second PID file to a custom location—useful when your cluster manager expects PostgreSQL's PID at a specific path like `/run/postgresql/postgresql.pid`.",
    "image": null
   },
   {
@@ -588,7 +608,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5f1ec9299ce171383449/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5f5f5b8db2a491925939/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -779,16 +799,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
-   "image": null
-  },
-  {
-   "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-   "link": "https://huggingface.co/blog/torch-attention-profile",
-   "date": "2026-07-10T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -1109,16 +1119,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
-  },
-  {
-   "title": "translateX()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-   "date": "2026-06-25T13:16:01.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateX() function shifts an element horizontally by the specified amount. translateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
    "image": null
   },
   {
