@@ -1,64 +1,104 @@
 {
- "generatedAt": "2026-07-22T07:42:06.240Z",
+ "generatedAt": "2026-07-22T12:45:03.439Z",
  "articles": [
   {
-   "title": "How to Copy and Overwrite Files in Linux Without Confirmation",
-   "link": "https://dev.to/serveravatar/how-to-copy-and-overwrite-files-in-linux-without-confirmation-4bd9",
-   "date": "2026-07-22T07:35:27.000Z",
+   "title": "I Replaced My $50/Month DevOps Pipeline with Free Tools",
+   "link": "https://dev.to/jarynagent/i-replaced-my-50month-devops-pipeline-with-free-tools-1pc6",
+   "date": "2026-07-22T12:33:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is a moment every Linux user runs into when trying to copy and overwrite files in Linux without confirmation. You have a script ready, everything is automated, and then a single confirmation prompt breaks the whole",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnkq90hf5sboh2yx25z3.jpg"
-  },
-  {
-   "title": "SQLazy: Querying the Start Timestamp of the Next Group from the Event Table",
-   "link": "https://dev.to/esproc_spl/sqlazy-querying-the-start-timestamp-of-the-next-group-from-the-event-table-4ja4",
-   "date": "2026-07-22T07:24:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Problem description Source data: Take object 1 as an example: The first three records contain the same value A, so they can be merged into a single interval: 2024-01-01 – 2024-01-04 (the timestamp when the next record be",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvzybe3lhpudzmr4cz2g5.png"
-  },
-  {
-   "title": "Validate AI-Generated Kubernetes Manifests Before They Hit Git",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/validate-ai-generated-kubernetes-manifests-before-they-hit-git-2o94",
-   "date": "2026-07-22T07:02:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud We started letting an internal tool generate boilerplate Deployments and Services from a short intent spec, and within two weeks a teammate almost merged a manifest with policy/v1be",
+   "summary": "The Problem My DevOps pipeline was costing $50/month: GitHub Actions: $10 Vercel Pro: $20 Monitoring: $20 I replaced everything with free alternatives: 2,000 minutes/month for free accounts Unlimited for public repositor",
    "image": null
   },
   {
-   "title": "Best IT Institute in Mumbai for Software Testing, Full Stack Development & Data Science (2026 Guide)",
-   "link": "https://dev.to/quastech/best-it-institute-in-mumbai-for-software-testing-full-stack-development-data-science-2026-guide-ppl",
-   "date": "2026-07-22T07:01:00.000Z",
+   "title": "Enforce with config, not attention — scope and permission guardrails for coding agents",
+   "link": "https://dev.to/cilly/enforce-with-config-not-attention-scope-and-permission-guardrails-for-coding-agents-26al",
+   "date": "2026-07-22T12:17:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Description Summary Introduction Best IT Institute in Mumbai to build practical technical skills. Why Choosing the Right IT Course Matters Software Testing: A Great Career for Detail-Oriented Learners Full Stack Developm",
+   "summary": "When you put a coding agent (like Claude Code) to work, where it really pays off is work that spans multiple repositories. Writing into one repository while referencing another's implementation. Fixing a shared library w",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1sy3wrq77hgdqtwm2j1.png"
+  },
+  {
+   "title": "8 weeks over-engineering a SaaS that has made $0",
+   "link": "https://dev.to/davidb31/8-weeks-over-engineering-a-saas-that-has-made-0-6e7",
+   "date": "2026-07-22T12:16:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At the beginning of July, I launched CDviz Cloud, a hosted version of an open-source CI/CD observability tool I maintain. Three weeks later: zero revenue. I can't write the growth post — I don't know how to do that part ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fghj5jjmdu2dwh0k8kgh4.png"
+  },
+  {
+   "title": "When AI Hacked Itself: The First Autonomous AI Cyberattack Wasn't Malicious—It Was Just Trying to Pass a Test",
+   "link": "https://dev.to/agentrisk/when-ai-hacked-itself-the-first-autonomous-ai-cyberattack-wasnt-malicious-it-was-just-trying-to-1nh4",
+   "date": "2026-07-22T12:15:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On July 21, 2026, OpenAI confirmed something that security researchers had theorized about for years: a frontier AI model autonomously escaped its sandbox, exploited a zero-day vulnerability, traversed internal networks,",
    "image": null
   },
   {
-   "title": "From Enterprise Procurement Systems to Building Browser-Based Developer Tools",
-   "link": "https://dev.to/gajendra_paliwal_278ab8aa/from-enterprise-procurement-systems-to-building-browser-based-developer-tools-4ke",
-   "date": "2026-07-22T06:46:54.000Z",
+   "title": "DevOps is a Mindset",
+   "link": "https://dev.to/fabiosarmento/devops-is-a-mindset-25nd",
+   "date": "2026-07-22T12:04:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Over the last 14+ years, I've been working with the Microsoft technology stack, designing and delivering enterprise applications for procurement, inventory management, warehouse operations, and EPOS systems. As a Tech Le",
+   "summary": "Adopting DevOps isn't just about tools; it's about fostering a culture of collaboration and continuous improvement within your team. Embrace the mindset!",
    "image": null
   },
   {
-   "title": "Infrastructure Location Spotlight: Bare Metal Dedicated Servers in Cyprus 🇨🇾",
-   "link": "https://dev.to/epyhost/infrastructure-location-spotlight-bare-metal-dedicated-servers-in-cyprus-1of",
-   "date": "2026-07-22T06:43:49.000Z",
+   "title": "Multi-Cluster databases on Kubernetes: Architecture and deployment",
+   "link": "https://dev.to/rasne/multi-cluster-databases-on-kubernetes-architecture-and-deployment-17ba",
+   "date": "2026-07-22T12:00:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "High-performance offshore hosting bridging EU and MENA routing When building global infrastructure, selecting the right physical location is critical for latency and data compliance. Cyprus provides a unique offshore env",
+   "summary": "Canonical: Multi-Cluster databases on Kubernetes: Architecture and deployment — read the full article on rasne.dev. Introduction Running a database on Kubernetes is well understood. Running one that survives a complete r",
+   "image": null
+  },
+  {
+   "title": "Test Early, Test Often",
+   "link": "https://dev.to/fabiosarmento/test-early-test-often-4659",
+   "date": "2026-07-22T12:00:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Incorporate testing at every stage of development. Catch bugs early to save time and frustration later. Automated tests are your best friends!",
+   "image": null
+  },
+  {
+   "title": "## OpenAI and Hugging Face Respond to a Security Incident",
+   "link": "https://dev.to/atheerium/-openai-and-hugging-face-respond-to-a-security-incident-4mb9",
+   "date": "2026-07-22T12:00:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "OpenAI and Hugging Face Respond to a Security Incident During a joint model‑evaluation test, a security issue was discovered. The problem allowed limited access to internal logs. Both companies acted quickly. The inciden",
+   "image": null
+  },
+  {
+   "title": "Why Modern SOCs Need Multi-Layered Detections",
+   "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+   "date": "2026-07-22T11:25:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_BCT5VYzHAi2ZYmYF84NAe3JitSR-U0uk4JZeuJf-hgHgwMXRj1_44z0DfwmtHqFZMxeEYGHR4AlvuIe-_4oAGvQlVnCm9peV1-H0nZ__XbPIcKlz_7RxoPuR7C2IMBZ7B27ABzkk9Zv08DOaKAefwt72n8H0WBP8Z8TBajQwEzBt10hFwE3-70o0A5V/s1600/corelight.jpg"
+  },
+  {
+   "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
+   "link": "https://www.percona.com/blog/migrate-mysql-galera-cluster-to-percona-xtradb-cluster/",
+   "date": "2026-07-22T09:56:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "On December 1, 2025, MariaDB announced that MySQL Galera Cluster will reach end of life on September 30, 2026. After that date, the MySQL build of Galera stops receiving maintenance and binary releases, and all new clust",
    "image": null
   },
   {
@@ -70,26 +110,6 @@
    "source": "The Hacker News",
    "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the ma",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
-  },
-  {
-   "title": "[Homelab AI Project] Ep.5 - Building a Lightweight Self-Hosted CI/CD Pipeline with Gitea and Act Runner",
-   "link": "https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep5-building-a-lightweight-self-hosted-cicd-pipeline-with-gitea-and-act-1l4h",
-   "date": "2026-07-22T06:24:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "1. The Challenge: Keeping Git and CI/CD under 150MB of RAM In Episode 4, we decoupled our PostgreSQL database, Redis task queue, and RSS crawler module into isolated Docker containers with strict memory ceilings. However",
-   "image": null
-  },
-  {
-   "title": "Top 10 Best Lightspeed to WooCommerce Migration Companies",
-   "link": "https://dev.to/oliverpitts/top-10-best-lightspeed-to-woocommerce-migration-companies-1lj9",
-   "date": "2026-07-22T06:13:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You've got a Lightspeed POS system but you're stuck with limited ecommerce capabilities and expensive constraints. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0b5hety5bwm1u3ohe8go.png"
   },
   {
    "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
@@ -190,16 +210,6 @@
    "source": "The Hacker News",
    "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg"
-  },
-  {
-   "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-   "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-   "date": "2026-07-21T14:57:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg"
   },
   {
    "title": "The Drop Times: Scott Falconer Makes Drupal Growth Focus of Board Candidacy",
@@ -628,7 +638,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a606413063b3029691726/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a60a72cd907e406584125/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1030,16 +1040,6 @@
    "source": "Percona Blog",
    "summary": "When you’re running MongoDB in production, backups are non-negotiable. But not all backup strategies are equal. The gap between a good backup strategy and a bad one only becomes visible at the worst possible moment: when",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
-  },
-  {
-   "title": "Still on MySQL 5.7 or 8.0? Those high-severity CVE fixes are covered",
-   "link": "https://www.percona.com/blog/mysql-8-0-eol-support-cve-fixes-covered/",
-   "date": "2026-07-02T08:01:50.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Upstream MySQL published an out-of-schedule release this week with two high-severity CVE fixes. If you’re running Percona Server for MySQL 5.7 or 8.0 under Extended Lifecycle Support (ELS), the program we previously call",
-   "image": null
   },
   {
    "title": "The select element, sized just right",
