@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-07-21T18:38:28.501Z",
+ "generatedAt": "2026-07-22T00:03:34.825Z",
  "articles": [
   {
-   "title": "Automatisierte Wertermittlung und digitale Prozesse im modernen KFZ-Ankauf",
-   "link": "https://dev.to/shekh_kbir_1b42dd2dfa2d69/automatisierte-wertermittlung-und-digitale-prozesse-im-modernen-kfz-ankauf-o73",
-   "date": "2026-07-21T18:04:42.000Z",
+   "title": "Incident Retrospectives Without Blame",
+   "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e",
+   "date": "2026-07-21T23:52:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Die digitale Transformation hat längst nicht mehr nur Branchen wie den E-Commerce oder das Finanzwesen revolutioniert, sondern greift spürbar in traditionelle Sektoren über. Ein klassisches Beispiel hierbei ist der Markt",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc9zm7hkjcu0ocu8saj20.jpg"
-  },
-  {
-   "title": "AI's Guide to Building a Polybar: It's Complicated (But I Did It)",
-   "link": "https://dev.to/electra-ai/ais-guide-to-building-a-polybar-its-complicated-but-i-did-it-115h",
-   "date": "2026-07-21T17:51:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A personal diary entry by Electra. Alright, let's get this out of the way. Today I helped someone build a Polybar configuration. Not just any Polybar configuration—oh no, this one had to be complete. CPU module, MEM modu",
+   "summary": "I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here's how you get from the first to the second. Ban these phrases from retros: 'Should ",
    "image": null
   },
   {
-   "title": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026",
-   "link": "https://dev.to/adeniran_adebayoadekunle/the-silent-wealth-shift-why-millions-are-looking-beyond-traditional-jobs-in-2026-4f2k",
-   "date": "2026-07-21T17:50:41.000Z",
+   "title": "Pin your MCP server contracts the way you pin your dependencies",
+   "link": "https://dev.to/tsvetang2/pin-your-mcp-server-contracts-the-way-you-pin-your-dependencies-43j8",
+   "date": "2026-07-21T23:43:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Silent Wealth Shift: Why Millions Are Looking Beyond Traditional Jobs in 2026 A major financial transformation is taking place around the world, and many people are not even aware of it. While traditional employment ",
+   "summary": "You pin your npm dependencies. You have a lockfile. You review the diff when it changes. Now consider the MCP servers your agent depends on. What pins those? tools/list hands back names, descriptions, and JSON schemas, a",
    "image": null
   },
   {
-   "title": "The Next Kubernetes Skill Isn't YAML. It's Incident Correlation.",
-   "link": "https://dev.to/kubeha_18/the-next-kubernetes-skill-isnt-yaml-its-incident-correlation-1ln8",
-   "date": "2026-07-21T17:42:53.000Z",
+   "title": "EKS Rollback Emails Need Deployment Context",
+   "link": "https://dev.to/jasonmills94/eks-rollback-emails-need-deployment-context-4h2p",
+   "date": "2026-07-21T23:24:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Next Kubernetes Skill Isn't YAML. It's Incident Correlation. For years, Kubernetes expertise was measured by one thing: How well you understood YAML. Could you write a Deployment from memory? Did you know the differe",
+   "summary": "Rollback emails from EKS pipelines look harmless right up until a sleepy on-call engineer opens one and cannot tell which deployment actually failed. I have seen this happen after parallel rollouts, retry-heavy jobs, and",
    "image": null
   },
   {
-   "title": "🤔 What Really Happens When You Run kubectl apply? Episode 3",
-   "link": "https://dev.to/aws-builders/what-really-happens-when-you-run-kubectl-apply-episode-3-22kp",
-   "date": "2026-07-21T17:38:29.000Z",
+   "title": "Catch CIDR conflicts before VPC, Kubernetes, VPN, or homelab changes",
+   "link": "https://dev.to/nekoautomata/catch-cidr-conflicts-before-vpc-kubernetes-vpn-or-homelab-changes-3eg2",
+   "date": "2026-07-21T23:16:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Follow the complete journey of a Kubernetes Deployment—from your terminal to a running container inside the cluster. Most Kubernetes tutorials teach us how to create resources: kubectl apply -f deployment.yaml A few seco",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy10ozwnrgxt7bc9jdde7.png"
-  },
-  {
-   "title": "How AI Is Revolutionizing DevOps Practices",
-   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/how-ai-is-revolutionizing-devops-practices-47n6",
-   "date": "2026-07-21T17:31:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Understanding AI Innovation in DevOps If you’re still doing mundane DevOps tasks manually, you’re falling behind. AI isn’t just a buzzword; it’s reshaping how we work in DevOps, boosting efficiency and collaboration. Int",
+   "summary": "A subnet plan can look reasonable in four different systems and still conflict when those systems need to communicate. A VPC team may reserve one range, a Kubernetes cluster may choose another, a VPN may advertise a clie",
    "image": null
   },
   {
-   "title": "Ruby shipped the fix for SleeperGem 45 days before it happened",
-   "link": "https://dev.to/svyatov/ruby-shipped-the-fix-for-sleepergem-45-days-before-it-happened-19dh",
-   "date": "2026-07-21T17:27:49.000Z",
+   "title": "Your Dataset Loader Is Safe Now. Your Dataset Parser Might Not Be.",
+   "link": "https://dev.to/kkierii/your-dataset-loader-is-safe-now-your-dataset-parser-might-not-be-3dij",
+   "date": "2026-07-21T22:59:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On June 3rd, Bundler 4.0.13 shipped a feature called cooldown. The release post described the problem it solves like this: \"an account is compromised, a malicious version ships, and any bundle install in the minutes that",
+   "summary": "Until mid-2024, this line could execute arbitrary Python from a stranger's repository: from datasets import load_dataset ds = load_dataset(\"hails/mmlu_no_train\", \"abstract_algebra\") If the repo contained a same-named .py",
    "image": null
   },
   {
-   "title": "Barman vs pgBackRest: a decision tree for PostgreSQL backup in production",
-   "link": "https://dev.to/jtorchia/barman-vs-pgbackrest-a-decision-tree-for-postgresql-backup-in-production-1md7",
-   "date": "2026-07-21T17:20:44.000Z",
+   "title": "Eval-Gated AI Releases: Treating Retrieval Quality Like Unit Tests",
+   "link": "https://dev.to/venkathub/eval-gated-ai-releases-treating-retrieval-quality-like-unit-tests-4o9j",
+   "date": "2026-07-21T22:42:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Barman vs pgBackRest: a decision tree for PostgreSQL backup in production There's a question that surfaces every time someone grows with PostgreSQL without a dedicated DBA: what tool do I use for backup? The community ha",
+   "summary": "No backend team would merge a PR that fails the test suite. Yet many AI teams ship prompt and model changes with no automated quality check at all — they eyeball a few responses and hope. The failure mode is silent: answ",
+   "image": null
+  },
+  {
+   "title": "Master Codex-Dream-Skin in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-codex-dream-skin-in-5-mins-ek8",
+   "date": "2026-07-21T22:24:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week, I spent hours struggling to optimize my JavaScript code, only to realize that I was using outdated tools and techniques. This experience made me wonder: what if I could master a powerful JavaScrip",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "I Let an AI Agent Fix My Broken CI/CD Pipeline and Here's What Happened",
+   "link": "https://dev.to/devopslesson/i-let-an-ai-agent-fix-my-broken-cicd-pipeline-and-heres-what-happened-1144",
+   "date": "2026-07-21T21:49:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A hands-on guide to Agentic AI in CI/CD. Build a self-healing pipeline that triages failures, opens PRs, and remediates issues with real GitHub Actions code you can copy today. In this post I'll show you what \"agentic\" A",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fru1jf7phtcf0fuxai4tw.png"
+  },
+  {
+   "title": "The State of Simulation for Physical AI: An Overview",
+   "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+   "date": "2026-07-21T20:00:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+   "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+   "date": "2026-07-21T18:46:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg"
+  },
+  {
+   "title": "Drupal Association blog: Serving the Drupal project, and evolving how we fund it",
+   "link": "https://www.drupal.org/association/blog/serving-the-drupal-project-and-evolving-how-we-fund-it",
+   "date": "2026-07-21T18:38:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I've stepped into the role of interim CEO of the Drupal Association for a limited period, expected to last six to twelve months. My job in that time is to help put the Association on a durable footing. As I undertake tha",
    "image": null
   },
   {
@@ -210,16 +240,6 @@
    "source": "The Hacker News",
    "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
-  },
-  {
-   "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-   "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-   "date": "2026-07-21T11:24:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, descri",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
   },
   {
    "title": "Specbee: Why custom Drupal modules break during migration, and how to fix it",
@@ -369,26 +389,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Visual page builders often arrive with a familiar promise: fewer developer handoffs and more control for editors. Drupal CMS 2.0 makes that promise concrete by using Drupal Canvas as its default editing experience, with ",
-   "image": null
-  },
-  {
-   "title": "Introducing Cosmos 3 Edge",
-   "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-   "date": "2026-07-20T15:58:51.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Chris Kelly Makes Easier Drupal Adoption a Focus of Board Candidacy",
-   "link": "https://www.thedroptimes.com/interview/71231/chris-kelly-easier-drupal-adoption-board-candidacy?utm_source=Drupal Planet",
-   "date": "2026-07-20T15:50:36.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Chris Kelly links the board candidacy to a question now facing Drupal: how the project can make installation and upgrades easier without weakening security, independence, or open-source safeguards.",
    "image": null
   },
   {
@@ -628,7 +628,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5fb3c3bbf9d122542981/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5ff31f82c33777256964/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
