@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-07-22T00:03:34.825Z",
+ "generatedAt": "2026-07-22T07:42:06.240Z",
  "articles": [
   {
-   "title": "Incident Retrospectives Without Blame",
-   "link": "https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e",
-   "date": "2026-07-21T23:52:45.000Z",
+   "title": "How to Copy and Overwrite Files in Linux Without Confirmation",
+   "link": "https://dev.to/serveravatar/how-to-copy-and-overwrite-files-in-linux-without-confirmation-4bd9",
+   "date": "2026-07-22T07:35:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've run over 100 post-mortems. The worst ones end with 'Alice will be more careful.' The best ones end with 'we fixed the system.' Here's how you get from the first to the second. Ban these phrases from retros: 'Should ",
+   "summary": "There is a moment every Linux user runs into when trying to copy and overwrite files in Linux without confirmation. You have a script ready, everything is automated, and then a single confirmation prompt breaks the whole",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnkq90hf5sboh2yx25z3.jpg"
+  },
+  {
+   "title": "SQLazy: Querying the Start Timestamp of the Next Group from the Event Table",
+   "link": "https://dev.to/esproc_spl/sqlazy-querying-the-start-timestamp-of-the-next-group-from-the-event-table-4ja4",
+   "date": "2026-07-22T07:24:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Problem description Source data: Take object 1 as an example: The first three records contain the same value A, so they can be merged into a single interval: 2024-01-01 – 2024-01-04 (the timestamp when the next record be",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvzybe3lhpudzmr4cz2g5.png"
+  },
+  {
+   "title": "Validate AI-Generated Kubernetes Manifests Before They Hit Git",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/validate-ai-generated-kubernetes-manifests-before-they-hit-git-2o94",
+   "date": "2026-07-22T07:02:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud We started letting an internal tool generate boilerplate Deployments and Services from a short intent spec, and within two weeks a teammate almost merged a manifest with policy/v1be",
    "image": null
   },
   {
-   "title": "Pin your MCP server contracts the way you pin your dependencies",
-   "link": "https://dev.to/tsvetang2/pin-your-mcp-server-contracts-the-way-you-pin-your-dependencies-43j8",
-   "date": "2026-07-21T23:43:41.000Z",
+   "title": "Best IT Institute in Mumbai for Software Testing, Full Stack Development & Data Science (2026 Guide)",
+   "link": "https://dev.to/quastech/best-it-institute-in-mumbai-for-software-testing-full-stack-development-data-science-2026-guide-ppl",
+   "date": "2026-07-22T07:01:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You pin your npm dependencies. You have a lockfile. You review the diff when it changes. Now consider the MCP servers your agent depends on. What pins those? tools/list hands back names, descriptions, and JSON schemas, a",
+   "summary": "Description Summary Introduction Best IT Institute in Mumbai to build practical technical skills. Why Choosing the Right IT Course Matters Software Testing: A Great Career for Detail-Oriented Learners Full Stack Developm",
    "image": null
   },
   {
-   "title": "EKS Rollback Emails Need Deployment Context",
-   "link": "https://dev.to/jasonmills94/eks-rollback-emails-need-deployment-context-4h2p",
-   "date": "2026-07-21T23:24:52.000Z",
+   "title": "From Enterprise Procurement Systems to Building Browser-Based Developer Tools",
+   "link": "https://dev.to/gajendra_paliwal_278ab8aa/from-enterprise-procurement-systems-to-building-browser-based-developer-tools-4ke",
+   "date": "2026-07-22T06:46:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Rollback emails from EKS pipelines look harmless right up until a sleepy on-call engineer opens one and cannot tell which deployment actually failed. I have seen this happen after parallel rollouts, retry-heavy jobs, and",
+   "summary": "Over the last 14+ years, I've been working with the Microsoft technology stack, designing and delivering enterprise applications for procurement, inventory management, warehouse operations, and EPOS systems. As a Tech Le",
    "image": null
   },
   {
-   "title": "Catch CIDR conflicts before VPC, Kubernetes, VPN, or homelab changes",
-   "link": "https://dev.to/nekoautomata/catch-cidr-conflicts-before-vpc-kubernetes-vpn-or-homelab-changes-3eg2",
-   "date": "2026-07-21T23:16:38.000Z",
+   "title": "Infrastructure Location Spotlight: Bare Metal Dedicated Servers in Cyprus 🇨🇾",
+   "link": "https://dev.to/epyhost/infrastructure-location-spotlight-bare-metal-dedicated-servers-in-cyprus-1of",
+   "date": "2026-07-22T06:43:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A subnet plan can look reasonable in four different systems and still conflict when those systems need to communicate. A VPC team may reserve one range, a Kubernetes cluster may choose another, a VPN may advertise a clie",
+   "summary": "High-performance offshore hosting bridging EU and MENA routing When building global infrastructure, selecting the right physical location is critical for latency and data compliance. Cyprus provides a unique offshore env",
    "image": null
   },
   {
-   "title": "Your Dataset Loader Is Safe Now. Your Dataset Parser Might Not Be.",
-   "link": "https://dev.to/kkierii/your-dataset-loader-is-safe-now-your-dataset-parser-might-not-be-3dij",
-   "date": "2026-07-21T22:59:17.000Z",
+   "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+   "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+   "date": "2026-07-22T06:38:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
+  },
+  {
+   "title": "[Homelab AI Project] Ep.5 - Building a Lightweight Self-Hosted CI/CD Pipeline with Gitea and Act Runner",
+   "link": "https://dev.to/tristan_kilhwanchai_5954/homelab-ai-project-ep5-building-a-lightweight-self-hosted-cicd-pipeline-with-gitea-and-act-1l4h",
+   "date": "2026-07-22T06:24:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Until mid-2024, this line could execute arbitrary Python from a stranger's repository: from datasets import load_dataset ds = load_dataset(\"hails/mmlu_no_train\", \"abstract_algebra\") If the repo contained a same-named .py",
+   "summary": "1. The Challenge: Keeping Git and CI/CD under 150MB of RAM In Episode 4, we decoupled our PostgreSQL database, Redis task queue, and RSS crawler module into isolated Docker containers with strict memory ceilings. However",
    "image": null
   },
   {
-   "title": "Eval-Gated AI Releases: Treating Retrieval Quality Like Unit Tests",
-   "link": "https://dev.to/venkathub/eval-gated-ai-releases-treating-retrieval-quality-like-unit-tests-4o9j",
-   "date": "2026-07-21T22:42:49.000Z",
+   "title": "Top 10 Best Lightspeed to WooCommerce Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-lightspeed-to-woocommerce-migration-companies-1lj9",
+   "date": "2026-07-22T06:13:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "No backend team would merge a PR that fails the test suite. Yet many AI teams ship prompt and model changes with no automated quality check at all — they eyeball a few responses and hope. The failure mode is silent: answ",
+   "summary": "You've got a Lightspeed POS system but you're stuck with limited ecommerce capabilities and expensive constraints. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0b5hety5bwm1u3ohe8go.png"
+  },
+  {
+   "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+   "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+   "date": "2026-07-22T06:00:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digita",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
+  },
+  {
+   "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+   "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+   "date": "2026-07-22T04:57:52.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
+  },
+  {
+   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+   "date": "2026-07-22T04:18:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: file_extend_method",
+   "link": "https://postgr.es/p/9qd",
+   "date": "2026-07-22T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "file_extend_method is an escape hatch wearing the costume of a tuning knob. It exists for one purpose: to let you turn off a PostgreSQL 16 optimization on the filesystems where that optimization turned out to misbehave. ",
    "image": null
-  },
-  {
-   "title": "Master Codex-Dream-Skin in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-codex-dream-skin-in-5-mins-ek8",
-   "date": "2026-07-21T22:24:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent hours struggling to optimize my JavaScript code, only to realize that I was using outdated tools and techniques. This experience made me wonder: what if I could master a powerful JavaScrip",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "I Let an AI Agent Fix My Broken CI/CD Pipeline and Here's What Happened",
-   "link": "https://dev.to/devopslesson/i-let-an-ai-agent-fix-my-broken-cicd-pipeline-and-heres-what-happened-1144",
-   "date": "2026-07-21T21:49:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A hands-on guide to Agentic AI in CI/CD. Build a self-healing pipeline that triages failures, opens PRs, and remediates issues with real GitHub Actions code you can copy today. In this post I'll show you what \"agentic\" A",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fru1jf7phtcf0fuxai4tw.png"
   },
   {
    "title": "The State of Simulation for Physical AI: An Overview",
@@ -109,6 +159,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "I've stepped into the role of interim CEO of the Drupal Association for a limited period, expected to last six to twelve months. My job in that time is to help put the Association on a durable footing. As I undertake tha",
+   "image": null
+  },
+  {
+   "title": "the floating-point divide: Inserting boilerplate text into CKEditor in Drupal",
+   "link": "https://fdiv.net/2026/07/21/inserting-boilerplate-text-ckeditor-drupal",
+   "date": "2026-07-21T18:38:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Inserting boilerplate text into CKEditor in Drupal Drupal Drupal 11.x Planet Drupal jstrecker 2026.07.21 @ 14:38 Don’t Repeat Yourself. It’s a rule that we learn for writing code. And guess what: it applies just as well ",
    "image": null
   },
   {
@@ -162,16 +222,6 @@
    "image": null
   },
   {
-   "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-   "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-   "date": "2026-07-21T14:04:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg"
-  },
-  {
    "title": "Drupal Association blog: Three Real-World AI Cases Coming to the Enterprise AI Summit",
    "link": "https://www.drupal.org/association/blog/three-real-world-ai-cases-coming-to-the-enterprise-ai-summit",
    "date": "2026-07-21T13:36:55.000Z",
@@ -180,16 +230,6 @@
    "source": "Drupal Planet",
    "summary": "It feels like the right moment to share something I have been looking forward to announcing. The holidays are just beginning, and the Enterprise AI Summit (28 September, Rotterdam) is coming together. We have been review",
    "image": null
-  },
-  {
-   "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-   "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-   "date": "2026-07-21T13:18:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_Q67gFWBtG5q7zVuyna7iJj3lSm-UQRoMsami8jaf-WYMCXqQlVprQ_ifyXx-PqJg2chDHN3KrFppnZSvejTvSco4kN-P_S4U3vKQHNtvZ48g5wftlSILrMulX1WUMOeeybU4apJ5Iv8BM6ipceEVGSJucR7yRJZguIrfTUaCbbHqefGt6o2BkHrJqV0/s1600/zimbra.jpg"
   },
   {
    "title": "Fragments: July 21",
@@ -220,26 +260,6 @@
    "source": "Codrops",
    "summary": "How a simple branding concept shaped the interaction design, animation, and WebGL implementation of the Dash Creative website.",
    "image": null
-  },
-  {
-   "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-   "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-   "date": "2026-07-21T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running comman",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
-  },
-  {
-   "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-   "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-   "date": "2026-07-21T11:42:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
   },
   {
    "title": "Specbee: Why custom Drupal modules break during migration, and how to fix it",
@@ -322,6 +342,16 @@
    "image": null
   },
   {
+   "title": "Paul Jungwirth: TQuel Paper",
+   "link": "https://postgr.es/p/9qe",
+   "date": "2026-07-21T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "With UPDATE/DELETE FOR PORTION OF looking like it will land in Postgres 19, I’ve been thinking about next steps. I read a very helpful paper on temporal relational algebra last May by Richard Snodgrass. Here are some not",
+   "image": null
+  },
+  {
    "title": "Regina Obe: PostGIS 3.7.0beta1",
    "link": "https://postgr.es/p/9q6",
    "date": "2026-07-21T00:00:00.000Z",
@@ -382,16 +412,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Who Builds Drupal Now?",
-   "link": "https://www.thedroptimes.com/newsletter/who-builds-drupal-now?utm_source=Drupal Planet",
-   "date": "2026-07-20T16:57:37.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Visual page builders often arrive with a familiar promise: fewer developer handoffs and more control for editors. Drupal CMS 2.0 makes that promise concrete by using Drupal Canvas as its default editing experience, with ",
-   "image": null
-  },
-  {
    "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
    "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
    "date": "2026-07-20T09:45:16.000Z",
@@ -440,26 +460,6 @@
    "source": "Simon Willison",
    "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability o",
    "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: extra_float_digits",
-   "link": "https://postgr.es/p/9q1",
-   "date": "2026-07-20T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "extra_float_digits is the setting whose job changed out from under it. For most of PostgreSQL’s history it forced a choice between floating-point output that was easy to read and output that was exactly right, and you co",
-   "image": null
-  },
-  {
-   "title": "Henrietta Dombrovskaya: Prairie Postgres July Meetup: Proudly Sourced at Midwest!",
-   "link": "https://postgr.es/p/9q0",
-   "date": "2026-07-19T16:27:03.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On July 15, we hosted the second meetup at our new location, the Chicago Innovations Center. The CIC is evolving, and we like it more and more! I will probably stop saying it at some point, but for now, I want to repeat ",
-   "image": "https://lh3.googleusercontent.com/pw/AP1GczMP7ZERt4v7FpVaRLq78s-7DkBkqBnVkZuViJoyx4KZfGIPwYBe8OM8nRpcOzGpRPUISIH08SJGsTzrs0OFhXDnkiweGqutstWiyelxBiN3-wMcz9vcniuTChA_XNS-ZGxX6fwoXzW3j6lRj3FCQ1Y__A=w1721-h1291-s-no-gm?authuser=0"
   },
   {
    "title": "A Week of Symfony #1020 (July 13–19, 2026)",
@@ -628,7 +628,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a5ff31f82c33777256964/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a606413063b3029691726/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
