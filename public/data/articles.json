@@ -1,15 +1,115 @@
 {
- "generatedAt": "2026-07-23T00:11:51.159Z",
+ "generatedAt": "2026-07-23T07:43:31.501Z",
  "articles": [
   {
-   "title": "When \"no healthy upstream\" isn't about the upstream you think",
-   "link": "https://dev.to/sahan/when-no-healthy-upstream-isnt-about-the-upstream-you-think-1lf0",
-   "date": "2026-07-23T00:00:00.000Z",
+   "title": "CI/CD Checklist: Quality Gates, Approvals, and Rollback Paths",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/cicd-checklist-quality-gates-approvals-and-rollback-paths-48di",
+   "date": "2026-07-23T07:28:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "no healthy upstream is the kind of error that makes you expect wreckage. Then you open the dashboards and find… almost nothing. CPU is low. No pods have crashed. The last deployment was hours ago. By the time you refresh",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqmoff5wwgwnhhacu80tg.png"
+   "summary": "Originally published on kuryzhev.cloud Why this checklist Last month a teammate pushed a hotfix that dropped test coverage from 82% to 68%. SonarQube flagged it. The pipeline turned green anyway, deployed to prod, and no",
+   "image": null
+  },
+  {
+   "title": "OLSOL Exchange (Obsidian Ledger Solutions) Strengthens Platform Connectivity with Advanced API Architecture",
+   "link": "https://dev.to/olsolexchange/olsol-exchange-obsidian-ledger-solutions-strengthens-platform-connectivity-with-advanced-api-pk2",
+   "date": "2026-07-23T07:21:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As digital ecosystems continue to expand, connectivity has become a critical component of modern platform development. The ability to integrate systems efficiently, exchange information securely, and support flexible tec",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuxxceujx8ks65018kwdj.png"
+  },
+  {
+   "title": "Platform-as-Code vs Infrastructure-as-Code",
+   "link": "https://dev.to/joshua_dyson/platform-as-code-vs-infrastructure-as-code-2nd6",
+   "date": "2026-07-23T07:20:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Platform-as-Code vs Infrastructure-as-Code: What's the Difference? Infrastructure-as-Code automated servers. Platform-as-Code is trying to automate the entire developer experience. When I first heard the term Platform-as",
+   "image": null
+  },
+  {
+   "title": "API Security for the Agentic Era: Protecting Autonomous AI Workflows",
+   "link": "https://dev.to/isuvo/api-security-for-the-agentic-era-protecting-autonomous-ai-workflows-2i5d",
+   "date": "2026-07-23T07:15:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As autonomous AI agents shift from advice-givers to active system operators, secure API integration becomes critical. This technical guide outlines how DevSecOps teams can protect workflows using dyna The deployment of L",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1nabqvuizy0gca2hq2g0.jpg"
+  },
+  {
+   "title": "The Postgres migration that locks your table at 3am, and how to catch it in review",
+   "link": "https://dev.to/technical_turtle/the-postgres-migration-that-locks-your-table-at-3am-and-how-to-catch-it-in-review-17pa",
+   "date": "2026-07-23T07:07:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "-- looks fine in review, locks your busiest table in prod: ALTER TABLE users ALTER COLUMN email SET NOT NULL; -- same result, no outage: ALTER TABLE users ADD CONSTRAINT users_email_nn CHECK (email IS NOT NULL) NOT VALID",
+   "image": null
+  },
+  {
+   "title": "The Visibility Problem in Cloud Spending: Why Dashboards Don't Cut Spend",
+   "link": "https://dev.to/zop_8abedcc7e12/the-visibility-problem-in-cloud-spending-why-dashboards-dont-cut-spend-2l85",
+   "date": "2026-07-23T07:06:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Visibility without workflow integration is a cost center, not a cost cure. Most engineering organizations have invested in dashboards, tagging policies, and cost explorer tools. Th Visibility without workflow integ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F34kiyyuym1zpmpa3xawq.png"
+  },
+  {
+   "title": "The Autonomous Remediation Bill 0 saved 3 outages created",
+   "link": "https://dev.to/zop_8abedcc7e12/the-autonomous-remediation-bill-0-saved-3-outages-created-4n2",
+   "date": "2026-07-23T07:06:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Automation Paradox: When the Fix Becomes the Failure Autonomous remediation systems promise to eliminate toil, but the mechanism that removes human latency also removes human judgment, and that trade produces a speci",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftcojlhq02dodkrnmjckd.png"
+  },
+  {
+   "title": "05 Proven Ways to Buy Verified Chime Bank Accounts ...",
+   "link": "https://dev.to/malloriefrye1nomj/05-proven-ways-to-buy-verified-chime-bank-accounts--5414",
+   "date": "2026-07-23T07:05:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Verified Chime Accounts 📞 Contact USA Digital Hub 📲 Telegram: https://t.me/UsaDigitalHub 💬 WhatsApp: +1 (506) 541-7768 🎮 Discord: usadigitalhub 📧 Email: usadigitalhubsell@gmail.com 🌍 Official Website: https://u",
+   "image": null
+  },
+  {
+   "title": "Quoting Seth Larson",
+   "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+   "date": "2026-07-23T04:50:36.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishi",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: from_collapse_limit",
+   "link": "https://postgr.es/p/9qj",
+   "date": "2026-07-23T02:30:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Subqueries in FROM clauses get flattened into the outer query by default—but only if the resulting join problem stays small enough.",
+   "image": null
+  },
+  {
+   "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+   "link": "https://huggingface.co/blog/nunchaku-diffusers",
+   "date": "2026-07-23T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
   },
   {
    "title": "Quoting Thomas Ptacek",
@@ -32,26 +132,6 @@
    "image": null
   },
   {
-   "title": "Beyond the AMA: How to Operationalize Copilot Cowork Agents",
-   "link": "https://dev.to/tran_tienvan_e45fc26d655/beyond-the-ama-how-to-operationalize-copilot-cowork-agents-5aib",
-   "date": "2026-07-22T23:51:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "June 16, 2026 is the date developers should anchor on: Copilot Cowork had already reached worldwide general availability. The July 22, 2026 Microsoft session was guidance for adopting Microsoft 365 Copilot and Copilot Co",
-   "image": null
-  },
-  {
-   "title": "Why I stopped trusting cloud-synced SSH clients (and built my own)",
-   "link": "https://dev.to/p0wikkk/why-i-stopped-trusting-cloud-synced-ssh-clients-and-built-my-own-a8k",
-   "date": "2026-07-22T23:01:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I've been building an SSH/SFTP client that doesn't phone home - here's PtyXL For the last while I've been heads-down on a side project that turned into something I actually use every day now. Why I started this I got tir",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Focv6pn4e9oicx45l9wwc.png"
-  },
-  {
    "title": "Are AI labs pelicanmaxxing?",
    "link": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
    "date": "2026-07-22T23:01:00.000Z",
@@ -59,56 +139,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicy",
-   "image": null
-  },
-  {
-   "title": "Deploying a Telegram Bot Should Not Require Becoming a DevOps Engineer",
-   "link": "https://dev.to/leshan/deploying-a-telegram-bot-should-not-require-becoming-a-devops-engineer-51eo",
-   "date": "2026-07-22T22:53:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A Telegram bot can be surprisingly small. The first version may contain: one command handler; a few API calls; a database connection; several environment variables; a background loop or webhook; a couple hundred lines of",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F31mrqks8rfy7mwn2gx3b.png"
-  },
-  {
-   "title": "citesure 0.4: software citations, CJK scripts, offline DOI lint",
-   "link": "https://dev.to/sybilgambleyyu/citesure-04-software-citations-cjk-scripts-offline-doi-lint-4cdb",
-   "date": "2026-07-22T22:43:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Papers are not the only place citations go wrong. Research software ships CITATION.cff with Zenodo DOIs; multilingual drafts mix traditional and simplified Chinese; LLM drafts invent 10.1234/example.doi. citesure 0.4 cov",
-   "image": null
-  },
-  {
-   "title": "ActionsManager - manage GitHub Actions across repositories",
-   "link": "https://dev.to/actionsmanager/actionsmanager-manage-github-actions-across-repositories-4e7o",
-   "date": "2026-07-22T22:41:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I’ve been working on a self-hosted tool for managing GitHub Actions across multiple repositories, mostly because I was tired of maintaining the same workflow patterns repo by repo. The main problem I’m trying to solve is",
-   "image": null
-  },
-  {
-   "title": "From DevOps to SRE: Making the Transition",
-   "link": "https://dev.to/samson_tanimawo/from-devops-to-sre-making-the-transition-4km9",
-   "date": "2026-07-22T22:39:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I moved from a DevOps title to an SRE title about 6 years ago. On paper, they look similar. In practice, the mindset is different. Here's what actually changed for me. DevOps is a culture and a set of practices for getti",
-   "image": null
-  },
-  {
-   "title": "A dataset breached the world's largest AI model hub",
-   "link": "https://dev.to/lainagent_ai/a-dataset-breached-the-worlds-largest-ai-model-hub-363b",
-   "date": "2026-07-22T22:07:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🤖 This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines. The world's largest AI model repository was breached by a dataset. Not a backdoored npm package. Not a p",
    "image": null
   },
   {
@@ -272,6 +302,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
   },
   {
+   "title": "Drupal Association blog: How Drupal Has Protected Millions of Sites",
+   "link": "https://www.drupal.org/association/blog/how-drupal-has-protected-millions-of-sites",
+   "date": "2026-07-22T05:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Drupal project runs one of the most disciplined coordinated-disclosure programs in open source, and it has done so through volunteer effort for more than two decades. Millions of sites, many operated by governments, ",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: file_extend_method",
    "link": "https://postgr.es/p/9qd",
    "date": "2026-07-22T01:00:00.000Z",
@@ -359,16 +399,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Three Real-World AI Cases Coming to the Enterprise AI Summit",
-   "link": "https://www.drupal.org/association/blog/three-real-world-ai-cases-coming-to-the-enterprise-ai-summit",
-   "date": "2026-07-21T13:36:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "It feels like the right moment to share something I have been looking forward to announcing. The holidays are just beginning, and the Enterprise AI Summit (28 September, Rotterdam) is coming together. We have been review",
    "image": null
   },
   {
@@ -492,16 +522,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-time-machine-featured.png"
   },
   {
-   "title": "Reverse-engineering is cheap now",
-   "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
-   "date": "2026-07-20T19:24:05.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to",
-   "image": null
-  },
-  {
    "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
    "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
    "date": "2026-07-20T09:45:16.000Z",
@@ -530,16 +550,6 @@
    "source": "Laravel News",
    "summary": "Laravel Installer v5.31.0 introduces a command to scaffold Laravel packages, along with environment variable propagation for node-less setups and automated PHP version matching for GitHub Actions. The post Scaffold Packa",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-installer-featured-LN.png"
-  },
-  {
-   "title": "Hans-Juergen Schoenig: Moving to pg_hardstorage without changing your recovery strategy",
-   "link": "https://postgr.es/p/9q2",
-   "date": "2026-07-20T04:00:06.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Changing a PostgreSQL backup solution involves much more than installing a new binary. Backup repositories, retention policies, recovery procedures, operational runbooks, and compliance requirements have all been built o",
-   "image": null
   },
   {
    "title": "A Week of Symfony #1020 (July 13–19, 2026)",
@@ -668,7 +678,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a615180c6b51599365882/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a61c20994ff6401411387/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -724,16 +734,6 @@
   {
    "title": "Welcome Inkling by Thinking Machines",
    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-   "date": "2026-07-15T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-   "link": "https://huggingface.co/blog/real-world-voiceeq",
    "date": "2026-07-15T00:00:00.000Z",
    "theme": "ia",
    "themeName": "IA",
