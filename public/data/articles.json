@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-07-23T12:47:11.387Z",
+ "generatedAt": "2026-07-23T18:22:02.217Z",
  "articles": [
   {
-   "title": "Learn GitHub Actions in a Single Post: A Complete Tutorial From Workflows and Jobs to Runners, Secrets, and Reusable Pipelines",
-   "link": "https://dev.to/pyshine/learn-github-actions-in-a-single-post-a-complete-tutorial-from-workflows-and-jobs-to-runners-37k4",
-   "date": "2026-07-23T12:41:51.000Z",
+   "title": "How I set up OpenClaw on NixOS",
+   "link": "https://dev.to/vokrob/how-i-set-up-openclaw-on-nixos-1mfi",
+   "date": "2026-07-23T18:14:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learn GitHub Actions in a Single Post: Complete Tutorial From Workflows and Jobs to Runners, Secrets, and Reusable Pipelines GitHub Actions is GitHub's built-in CI/CD: you write a YAML file, push it to your repo, and Git",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3obqsgmtu3g40lz11c9q.png"
+   "summary": "Introduction Every new dialogue with an assistant is a blank slate. It doesn't remember what we talked about in previous sessions. I wasn't okay with that. I started looking for a solution and settled on OpenClaw: declar",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqkn3ewb7dkn84d11vlgy.png"
   },
   {
-   "title": "Learn Kubernetes in a Single Post: A Complete K8s Tutorial From Pods and Deployments to Services and Production Operations",
-   "link": "https://dev.to/pyshine/learn-kubernetes-in-a-single-post-a-complete-k8s-tutorial-from-pods-and-deployments-to-services-33e1",
-   "date": "2026-07-23T12:32:47.000Z",
+   "title": "My 'Cloud Resume'",
+   "link": "https://dev.to/mlfiles/my-cloud-resume-823",
+   "date": "2026-07-23T18:03:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learn Kubernetes in a Single Post: Complete Tutorial From Pods and Deployments to Services and Production Kubernetes is the operating system of the cloud. It takes the container idea from Docker and adds orchestration at",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftfhmkrodlpa4rsxf6s4s.png"
-  },
-  {
-   "title": "SAP ABAP RAP Online: Watch the Free Recorded Demo Video",
-   "link": "https://dev.to/kalyan_visualpath_42cb693/sap-abap-rap-online-watch-the-free-recorded-demo-video-1ajj",
-   "date": "2026-07-23T12:29:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🤖 Watch the Free Demo & Become a SAP ABAP RAP Expert in 2026! https://www.youtube.com/@VisualPath_Pro https://visualpath.in/sap-abap-rap-online-training.html https://wa.me/c/917032290546 ▶️Watch Now: https://youtu.be/u7",
+   "summary": "In my research on the topic of Azure and Cloud, Gemini mentioned the Cloud Resume Challenge, which I looked into and picked up a copy of the book for. This post will outline my steps as I work through it 😁. The goal her",
    "image": null
   },
   {
-   "title": "Learn Terraform in a Single Post: A Complete Tutorial From HCL and State to Modules, Providers, and Infrastructure as Code",
-   "link": "https://dev.to/pyshine/learn-terraform-in-a-single-post-a-complete-tutorial-from-hcl-and-state-to-modules-providers-and-1nd7",
-   "date": "2026-07-23T12:28:29.000Z",
+   "title": "Why Transactional Email APIs Won't Power Your Outreach Engine",
+   "link": "https://dev.to/livedirectmarketing/why-transactional-email-apis-wont-power-your-outreach-engine-4icg",
+   "date": "2026-07-23T18:00:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learn Terraform in a Single Post: Complete Tutorial From HCL and State to Modules, Providers, and Infrastructure as Code Terraform is infrastructure as code: you describe the cloud resources you want — servers, databases",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fze7paobs1mcg7w0qoshn.png"
-  },
-  {
-   "title": "Stop Running `terraform apply` From Your Laptop: Building Your First Terraform CI/CD Pipeline with GitHub Actions",
-   "link": "https://dev.to/highbee/stop-running-terraform-apply-from-your-laptop-building-your-first-terraform-cicd-pipeline-with-32d3",
-   "date": "2026-07-23T12:28:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "One of the biggest mistakes beginners make when learning Terraform is treating their local machine as the deployment server. A typical workflow looks like this: terraform init terraform plan terraform apply While this ap",
+   "summary": "The Misconception You're building a sales tool. You need reliable email delivery. You've heard Postmark gets 98%+ inbox placement. So you reach for their API, wire it up, and start sending cold outreach at scale. Then yo",
    "image": null
   },
   {
-   "title": "Your Build Output Is Not an Artifact Yet. Here Are the Four Things It Needs.",
-   "link": "https://dev.to/vivian_okose/your-build-output-is-not-an-artifact-yet-here-are-the-four-things-it-needs-969",
-   "date": "2026-07-23T12:24:56.000Z",
+   "title": "BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable",
+   "link": "https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad",
+   "date": "2026-07-23T17:51:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In December 2021, a flaw was found in a Java logging library called Log4j. Not a famous library. The boring thing that writes messages to a log file. Then every company on earth asked the same question at once: are we us",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbmjxrmdnho4e1gexpx9.png"
-  },
-  {
-   "title": "How Alibaba Cloud CDN Accelerates Your Global Applications",
-   "link": "https://dev.to/fan_li_ee7d84c6203253d041/how-alibaba-cloud-cdn-accelerates-your-global-applications-4f9f",
-   "date": "2026-07-23T12:05:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How Alibaba Cloud CDN Accelerates Your Global Applications If your users are in Asia, Alibaba Cloud CDN is probably the best choice. 2,800+ nodes worldwide 200+ nodes in China (unmatched coverage) 600+ nodes in Southeast",
+   "summary": "Un análisis técnico basado en BorgBackup para entornos Debian/Ubuntu Autor: Arcadio Ortega Reinoso Versión del sistema: 2.1.0 Fecha: Julio 2026 Plataforma objetivo: Debian 11+ / Ubuntu 22.04+ (x86_64) Puedes encontrarlo ",
    "image": null
   },
   {
-   "title": "CI/CD Pipeline Security: What's the one security check you consider non-negotiable before every deployment?\r\n\r\n#cicd #pipeline #security #deployment",
-   "link": "https://dev.to/joshua_dyson/cicd-pipeline-security-whats-the-one-security-check-you-consider-non-negotiable-before-every-263p",
-   "date": "2026-07-23T12:02:49.000Z",
+   "title": "How to Build Efficient Context for Your AI Client to handle incidents",
+   "link": "https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd",
+   "date": "2026-07-23T17:32:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "",
+   "summary": "Most teams that adopt an AI coding or operations assistant eventually reach the same conclusion: The model is rarely the bottleneck. The bottleneck is context. A capable model with the wrong context produces a confident,",
    "image": null
+  },
+  {
+   "title": "Kubernetes HPA: Guide with Apache on KIND",
+   "link": "https://dev.to/nishant_bhardwaj_9135ba51/kubernetes-hpa-guide-with-apache-on-kind-131o",
+   "date": "2026-07-23T17:28:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Horizontal Pod Autoscaler (HPA) automatically increases or decreases the number of Pods based on CPU or memory utilization. In this project, I configured HPA on a local KIND cluster and verified autoscaling using CPU-bas",
+   "image": null
+  },
+  {
+   "title": "EKS Backup Drill Emails Need Restore Context",
+   "link": "https://dev.to/jasonmills94/eks-backup-drill-emails-need-restore-context-2j40",
+   "date": "2026-07-23T17:24:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Backup drills are easy to mark green for the wrong reasons. Snapshots finish, logs look healthy, and somebody posts \"restore tested\" in chat. Then a real incident happens and the email that should explain what was backed",
+   "image": null
+  },
+  {
+   "title": "Who Wrote This Code? AI Code Provenance Before the Audits Arrive",
+   "link": "https://dev.to/jonattan_s/who-wrote-this-code-ai-code-provenance-before-the-audits-arrive-1hj4",
+   "date": "2026-07-23T17:19:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on jonattan.in. It might be a customer running vendor due diligence. It might be a SOC 2 or ISO 27001 auditor who has added AI usage to their questionnaire. It might be your own legal team after read",
+   "image": null
+  },
+  {
+   "title": "SHRIDHAR KHANAL: The Right Way to Give a Third-Party DBA Access to Your PostgreSQL Database",
+   "link": "https://postgr.es/p/9ql",
+   "date": "2026-07-23T15:55:44.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Giving an external team access to your PostgreSQL database is one of those decisions that deserves a little thought. The easiest option is to hand over a superuser account, but it’s rarely the right one. A better approac",
+   "image": null
+  },
+  {
+   "title": "Laravel Announces the Founders Summit, a One-Day Event for Founders",
+   "link": "https://laravel-news.com/laravel-founders-summit-2026?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-23T15:07:03.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel is gauging interest in the Founders Summit, a one-day gathering in November 2026 for founders and leaders running businesses built on Laravel. The post Laravel Announces the Founders Summit, a One-Day Event for F",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/founders-summit.png"
+  },
+  {
+   "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+   "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+   "date": "2026-07-23T15:02:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in ope",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg"
+  },
+  {
+   "title": "Building Cerebrium: Making Serverless Infrastructure Tangible",
+   "link": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
+   "date": "2026-07-23T14:09:05.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Go behind the scenes of Cerebrium to explore the design, 3D, and WebGL techniques that turned complex AI infrastructure into an intuitive interactive experience.",
+   "image": null
+  },
+  {
+   "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+   "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+   "date": "2026-07-23T13:27:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5Vr8pje9uM-Ce6rzE-_hhU3HvR2NkKtYfaSrIXz3m0BbrC1ZNC9p4GW4GRQaAvFKPjE5kopXmdmcKcMb7_1dbOWvMO6_oe87HCj4TUXV1dWK99cz_OBcNHd81Ziat93g4wJcBdc3K1vq0IkwFL9DO9GlSrf_KxGi2hpg7VVsU9iTt7B2XByXL7nil86i/s1600/claude.gif"
+  },
+  {
+   "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+   "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+   "date": "2026-07-23T13:11:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpS2QJv9o35m4hpF1MjxwE07jbvy9d4kK2fiSsQKFYaYtlUFReQ0j1YQ7fdaOPUN9s3J5oBpHG9vPIbTu_HwdjSDoz8UdhlJOp6ys6uBJlQxTL5BQlxtcOU2aRS1aaPeVwqvfCqGFzXEmQm0is0azXtyPQ8cNN61LbHtCllseMZQoYlwyrL4FV6BrkgqE/s1600/chrome-headless.jpg"
+  },
+  {
+   "title": "Drupal AI Initiative: Outside AI - The State of Agent Experience in Drupal.",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/outside-ai-the-state-of-agent-experience-in-drupal",
+   "date": "2026-07-23T12:57:16.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "By Scott Falconer, Product Lead, Outside AI Where Drupal really stands with AI agents, where it has a right to win, and what we need to do next. AI agents can build with almost anything. That is both great news and a pro",
+   "image": null
+  },
+  {
+   "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+   "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+   "date": "2026-07-23T12:20:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a pre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s1600/malware-attack.jpg"
   },
   {
    "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
@@ -132,16 +212,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
   },
   {
-   "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-   "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-   "date": "2026-07-23T06:34:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
-  },
-  {
    "title": "Quoting Seth Larson",
    "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
    "date": "2026-07-23T04:50:36.000Z",
@@ -160,6 +230,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Subqueries in FROM clauses get flattened into the outer query by default—but only if the resulting join problem stays small enough.",
    "image": null
+  },
+  {
+   "title": "A Practical Guide to Laravel's First-Party Image Processing",
+   "link": "https://laravel-news.com/a-practical-guide-to-laravels-first-party-image-processing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-23T01:25:32.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Learn how to use Laravel's new Illuminate\\Image API introduced in Laravel 13.20 to resize, transform, convert, and store images with practical examples. The post A Practical Guide to Laravel's First-Party Image Processin",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/illuminate-image-featured.png"
   },
   {
    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
@@ -202,26 +282,6 @@
    "image": null
   },
   {
-   "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-   "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-   "date": "2026-07-22T18:37:42.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
-  },
-  {
-   "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-   "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-   "date": "2026-07-22T18:07:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
-  },
-  {
    "title": "Security public service announcements: Security advisory coverage removed - QA Accounts - PSA-2026-07-22",
    "link": "https://www.drupal.org/psa-2026-07-22",
    "date": "2026-07-22T17:59:58.000Z",
@@ -230,16 +290,6 @@
    "source": "Drupal Planet",
    "summary": "Date: 2026-July-22 Description: QA Accounts enables you to login to a Drupal site using a well known username/password combination. When 1.0 was released, it also was marked for security coverage. The module prioritizes ",
    "image": null
-  },
-  {
-   "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-   "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-   "date": "2026-07-22T15:01:21.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
   },
   {
    "title": "Centarro: Minimizing Downtime During eCommerce Migrations",
@@ -382,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Drupal Association blog: Serving the Drupal project, and evolving how we fund it",
-   "link": "https://www.drupal.org/association/blog/serving-the-drupal-project-and-evolving-how-we-fund-it",
-   "date": "2026-07-21T18:38:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "I've stepped into the role of interim CEO of the Drupal Association for a limited period, expected to last six to twelve months. My job in that time is to help put the Association on a durable footing. As I undertake tha",
-   "image": null
-  },
-  {
    "title": "Nativ: Run AI models locally on your Mac",
    "link": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
    "date": "2026-07-21T14:22:27.000Z",
@@ -452,6 +492,16 @@
    "image": "https://cdn-images-1.medium.com/max/1024/1*4xUqBzp_E_psZ2Ur9srt8g.png"
   },
   {
+   "title": "Floor Drees: Big Apple, Big PostgreSQL: EDB at Postgres Summit US 2026",
+   "link": "https://postgr.es/p/9qk",
+   "date": "2026-07-21T08:28:59.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Postgres Summit US 2026 (formerly: PGConf NYC) will take place September 30 - October 2, at Convene, in New York. EDB is joining the event as a sponsor at the Gold-level. Our team of Postgres experts, core contributors, ",
+   "image": null
+  },
+  {
    "title": "Cornelia Biacsics: Contributions for week 28",
    "link": "https://postgr.es/p/9q5",
    "date": "2026-07-21T06:38:49.000Z",
@@ -492,26 +542,6 @@
    "image": null
   },
   {
-   "title": "Paul Jungwirth: TQuel Paper",
-   "link": "https://postgr.es/p/9qe",
-   "date": "2026-07-21T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "With UPDATE/DELETE FOR PORTION OF looking like it will land in Postgres 19, I’ve been thinking about next steps. I read a very helpful paper on temporal relational algebra last May by Richard Snodgrass. Here are some not",
-   "image": null
-  },
-  {
-   "title": "Regina Obe: PostGIS 3.7.0beta1",
-   "link": "https://postgr.es/p/9q6",
-   "date": "2026-07-21T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0beta1! Best Served with PostgreSQL 19 Beta2 and GEOS 3.15.0beta2. This version requires PostgreSQL 14 - 19beta2, GEOS 3.10 or higher, and Proj 6.1+. To take advantage o",
-   "image": null
-  },
-  {
    "title": "Laravel Time Machine: A Request Lifecycle Profiler",
    "link": "https://laravel-news.com/laravel-time-machine-a-request-lifecycle-profiler?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-20T23:41:45.000Z",
@@ -540,16 +570,6 @@
    "source": "Laravel News",
    "summary": "Laravel SMS Catcher captures outgoing SMS notifications during local development and displays them in a phone-inspired inbox dashboard. The post Laravel SMS Catcher: A Local Dashboard for SMS Notifications appeared first",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/SMS-Catcher-LN.png"
-  },
-  {
-   "title": "Scaffold Packages with the `laravel package` Command in Laravel Installer v5.31.0",
-   "link": "https://laravel-news.com/laravel-installer-5-31-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-20T05:09:42.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Installer v5.31.0 introduces a command to scaffold Laravel packages, along with environment variable propagation for node-less setups and automated PHP version matching for GitHub Actions. The post Scaffold Packa",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-installer-featured-LN.png"
   },
   {
    "title": "A Week of Symfony #1020 (July 13–19, 2026)",
@@ -678,18 +698,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a62030c6d660339117582/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a624515466c6381739771/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
-  },
-  {
-   "title": "The Analytics Stack for Laravel: Traffic, Revenue and Attribution in One Place",
-   "link": "https://laravel-news.com/the-analytics-stack-for-laravel-traffic-revenue-and-attribution-in-one-place?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-15T12:37:09.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "SimpleStats is a GDPR-compliant, server-side analytics platform built for Laravel that ties every visitor, signup and payment back to the campaign that earned it, so you can see which channels actually make money. The po",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/simplestats1.png"
   },
   {
    "title": "SymfonyCon Warsaw 2026: The first 4 speakers are live! 🔥",
@@ -850,16 +860,6 @@
    "source": "Percona Blog",
    "summary": "ducksdb-mysql-engine is an experimental build of MySQL 9.7 where a table you mark ENGINE=DuckDB answers analytical queries from DuckDB instead of InnoDB. Same server, same connection, no second copy of the data. On TPC-H",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/architecture.png"
-  },
-  {
-   "title": "The Sleepers: Creating an Atmospheric WebGL Experience with Lightweight Techniques",
-   "link": "https://tympanus.net/codrops/2026/07/10/the-sleepers-creating-an-atmospheric-webgl-experience-with-lightweight-techniques/",
-   "date": "2026-07-10T13:31:58.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "From swirling transitions and animated fog to mesh outlines and infinite worlds, here's a breakdown of the techniques behind it.",
-   "image": null
   },
   {
    "title": "PHP version stats: July, 2026",
