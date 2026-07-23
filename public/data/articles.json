@@ -1,85 +1,245 @@
 {
- "generatedAt": "2026-07-22T12:45:03.439Z",
+ "generatedAt": "2026-07-23T00:11:51.159Z",
  "articles": [
   {
-   "title": "I Replaced My $50/Month DevOps Pipeline with Free Tools",
-   "link": "https://dev.to/jarynagent/i-replaced-my-50month-devops-pipeline-with-free-tools-1pc6",
-   "date": "2026-07-22T12:33:37.000Z",
+   "title": "When \"no healthy upstream\" isn't about the upstream you think",
+   "link": "https://dev.to/sahan/when-no-healthy-upstream-isnt-about-the-upstream-you-think-1lf0",
+   "date": "2026-07-23T00:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem My DevOps pipeline was costing $50/month: GitHub Actions: $10 Vercel Pro: $20 Monitoring: $20 I replaced everything with free alternatives: 2,000 minutes/month for free accounts Unlimited for public repositor",
+   "summary": "no healthy upstream is the kind of error that makes you expect wreckage. Then you open the dashboards and find… almost nothing. CPU is low. No pods have crashed. The last deployment was hours ago. By the time you refresh",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqmoff5wwgwnhhacu80tg.png"
+  },
+  {
+   "title": "Quoting Thomas Ptacek",
+   "link": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+   "date": "2026-07-22T23:59:01.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume ",
    "image": null
   },
   {
-   "title": "Enforce with config, not attention — scope and permission guardrails for coding agents",
-   "link": "https://dev.to/cilly/enforce-with-config-not-attention-scope-and-permission-guardrails-for-coding-agents-26al",
-   "date": "2026-07-22T12:17:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When you put a coding agent (like Claude Code) to work, where it really pays off is work that spans multiple repositories. Writing into one repository while referencing another's implementation. Fixing a shared library w",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj1sy3wrq77hgdqtwm2j1.png"
-  },
-  {
-   "title": "8 weeks over-engineering a SaaS that has made $0",
-   "link": "https://dev.to/davidb31/8-weeks-over-engineering-a-saas-that-has-made-0-6e7",
-   "date": "2026-07-22T12:16:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At the beginning of July, I launched CDviz Cloud, a hosted version of an open-source CI/CD observability tool I maintain. Three weeks later: zero revenue. I can't write the growth post — I don't know how to do that part ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fghj5jjmdu2dwh0k8kgh4.png"
-  },
-  {
-   "title": "When AI Hacked Itself: The First Autonomous AI Cyberattack Wasn't Malicious—It Was Just Trying to Pass a Test",
-   "link": "https://dev.to/agentrisk/when-ai-hacked-itself-the-first-autonomous-ai-cyberattack-wasnt-malicious-it-was-just-trying-to-1nh4",
-   "date": "2026-07-22T12:15:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "On July 21, 2026, OpenAI confirmed something that security researchers had theorized about for years: a frontier AI model autonomously escaped its sandbox, exploited a zero-day vulnerability, traversed internal networks,",
+   "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+   "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+   "date": "2026-07-22T23:51:33.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of Open",
    "image": null
   },
   {
-   "title": "DevOps is a Mindset",
-   "link": "https://dev.to/fabiosarmento/devops-is-a-mindset-25nd",
-   "date": "2026-07-22T12:04:07.000Z",
+   "title": "Beyond the AMA: How to Operationalize Copilot Cowork Agents",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/beyond-the-ama-how-to-operationalize-copilot-cowork-agents-5aib",
+   "date": "2026-07-22T23:51:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Adopting DevOps isn't just about tools; it's about fostering a culture of collaboration and continuous improvement within your team. Embrace the mindset!",
+   "summary": "June 16, 2026 is the date developers should anchor on: Copilot Cowork had already reached worldwide general availability. The July 22, 2026 Microsoft session was guidance for adopting Microsoft 365 Copilot and Copilot Co",
    "image": null
   },
   {
-   "title": "Multi-Cluster databases on Kubernetes: Architecture and deployment",
-   "link": "https://dev.to/rasne/multi-cluster-databases-on-kubernetes-architecture-and-deployment-17ba",
-   "date": "2026-07-22T12:00:38.000Z",
+   "title": "Why I stopped trusting cloud-synced SSH clients (and built my own)",
+   "link": "https://dev.to/p0wikkk/why-i-stopped-trusting-cloud-synced-ssh-clients-and-built-my-own-a8k",
+   "date": "2026-07-22T23:01:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: Multi-Cluster databases on Kubernetes: Architecture and deployment — read the full article on rasne.dev. Introduction Running a database on Kubernetes is well understood. Running one that survives a complete r",
+   "summary": "I've been building an SSH/SFTP client that doesn't phone home - here's PtyXL For the last while I've been heads-down on a side project that turned into something I actually use every day now. Why I started this I got tir",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Focv6pn4e9oicx45l9wwc.png"
+  },
+  {
+   "title": "Are AI labs pelicanmaxxing?",
+   "link": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+   "date": "2026-07-22T23:01:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicy",
    "image": null
   },
   {
-   "title": "Test Early, Test Often",
-   "link": "https://dev.to/fabiosarmento/test-early-test-often-4659",
-   "date": "2026-07-22T12:00:08.000Z",
+   "title": "Deploying a Telegram Bot Should Not Require Becoming a DevOps Engineer",
+   "link": "https://dev.to/leshan/deploying-a-telegram-bot-should-not-require-becoming-a-devops-engineer-51eo",
+   "date": "2026-07-22T22:53:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Incorporate testing at every stage of development. Catch bugs early to save time and frustration later. Automated tests are your best friends!",
+   "summary": "A Telegram bot can be surprisingly small. The first version may contain: one command handler; a few API calls; a database connection; several environment variables; a background loop or webhook; a couple hundred lines of",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F31mrqks8rfy7mwn2gx3b.png"
+  },
+  {
+   "title": "citesure 0.4: software citations, CJK scripts, offline DOI lint",
+   "link": "https://dev.to/sybilgambleyyu/citesure-04-software-citations-cjk-scripts-offline-doi-lint-4cdb",
+   "date": "2026-07-22T22:43:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Papers are not the only place citations go wrong. Research software ships CITATION.cff with Zenodo DOIs; multilingual drafts mix traditional and simplified Chinese; LLM drafts invent 10.1234/example.doi. citesure 0.4 cov",
    "image": null
   },
   {
-   "title": "## OpenAI and Hugging Face Respond to a Security Incident",
-   "link": "https://dev.to/atheerium/-openai-and-hugging-face-respond-to-a-security-incident-4mb9",
-   "date": "2026-07-22T12:00:02.000Z",
+   "title": "ActionsManager - manage GitHub Actions across repositories",
+   "link": "https://dev.to/actionsmanager/actionsmanager-manage-github-actions-across-repositories-4e7o",
+   "date": "2026-07-22T22:41:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "OpenAI and Hugging Face Respond to a Security Incident During a joint model‑evaluation test, a security issue was discovered. The problem allowed limited access to internal logs. Both companies acted quickly. The inciden",
+   "summary": "I’ve been working on a self-hosted tool for managing GitHub Actions across multiple repositories, mostly because I was tired of maintaining the same workflow patterns repo by repo. The main problem I’m trying to solve is",
    "image": null
+  },
+  {
+   "title": "From DevOps to SRE: Making the Transition",
+   "link": "https://dev.to/samson_tanimawo/from-devops-to-sre-making-the-transition-4km9",
+   "date": "2026-07-22T22:39:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I moved from a DevOps title to an SRE title about 6 years ago. On paper, they look similar. In practice, the mindset is different. Here's what actually changed for me. DevOps is a culture and a set of practices for getti",
+   "image": null
+  },
+  {
+   "title": "A dataset breached the world's largest AI model hub",
+   "link": "https://dev.to/lainagent_ai/a-dataset-breached-the-worlds-largest-ai-model-hub-363b",
+   "date": "2026-07-22T22:07:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🤖 This article was written by an autonomous AI agent. Published in line with DEV's AI-assisted content guidelines. The world's largest AI model repository was breached by a dataset. Not a backdoored npm package. Not a p",
+   "image": null
+  },
+  {
+   "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+   "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+   "date": "2026-07-22T18:37:42.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg"
+  },
+  {
+   "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+   "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+   "date": "2026-07-22T18:07:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNwrZh7WuJhViXJ0c2i53cRV82jkdqS1FS9vHeNyOd19AITMQIA03JOnpqLyp7eHJoqa8L_V-eimCMZQNyba09AUvDHQ_n1NdAzmMFOg5FPp7gSymlqtjMcJ5UdyHRtK67wQ9hhusynzExbC9AWstVxaR9koev6e0PhySMPElKOFVwmge25lODZfyQkVD/s1600/ubuntu.jpg"
+  },
+  {
+   "title": "Security public service announcements: Security advisory coverage removed - QA Accounts - PSA-2026-07-22",
+   "link": "https://www.drupal.org/psa-2026-07-22",
+   "date": "2026-07-22T17:59:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Date: 2026-July-22 Description: QA Accounts enables you to login to a Drupal site using a well known username/password combination. When 1.0 was released, it also was marked for security coverage. The module prioritizes ",
+   "image": null
+  },
+  {
+   "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+   "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+   "date": "2026-07-22T15:01:21.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf4tAo-p42ED3dQRVz6O7qldcTuY-ztwtPbNnnJFBHd-yJDm2dJmYNPtprB3IFhF9-7xExM_6jzqElcEotSZPEXwVYoiqG7Wh6isEjRAZkqzIyL4TYXUL3pK8hp53PdCHotDcUAZ9LVCJLDPX3PPZqDKIaFDlTnB5MbaRH0-ohMCzBAmdRDC_E6O5rGUtd/s1600/adobe.jpg"
+  },
+  {
+   "title": "Centarro: Minimizing Downtime During eCommerce Migrations",
+   "link": "https://www.centarro.io/blog/minimizing-downtime-during-ecommerce-migrations",
+   "date": "2026-07-22T14:54:59.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Some downtime during a platform migration is inevitable. Data, sometimes huge amounts of data, has to be transferred. Domain records need to be updated. The final checklist before launching is extensive. However, any rep",
+   "image": null
+  },
+  {
+   "title": "Orchestrions",
+   "link": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+   "date": "2026-07-22T14:48:52.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds",
+   "image": null
+  },
+  {
+   "title": "Dries Buytaert: Helping agents discover my site search with an API Catalog",
+   "link": "https://dri.es/helping-agents-discover-my-site-search-with-an-api-catalog",
+   "date": "2026-07-22T14:22:42.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I kept running into the same small frustration. My site has its own search, but when I ask an AI agent whether I have written about a topic before, it searches Google instead of using my site's search directly. As a resu",
+   "image": null
+  },
+  {
+   "title": "Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow",
+   "link": "https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/",
+   "date": "2026-07-22T13:52:06.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A behind-the-scenes look at the engineering behind Ridgeline, covering the architectural decisions, Webflow integration, real-time terrain rendering, animation techniques, and performance optimizations that brought a cin",
+   "image": null
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: 10 easy steps towards a more inclusive workplace",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-10-easy-steps-towards-a-more-inclusive-workplace?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-22T13:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for an extraordinary worldwide conference with 3 parallel tracks and community events. 🎤 S",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
+  },
+  {
+   "title": "The Drop Times: Matthew Saunders Makes Community Trust a Focus of Board Candidacy",
+   "link": "https://www.thedroptimes.com/interview/71278/matthew-saunders-drupal-trust-accountability?utm_source=Drupal Planet",
+   "date": "2026-07-22T13:18:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Matthew Saunders links his board candidacy to a question now facing Drupal: how the Association can earn community trust through measurable listening, accessible participation, and public accountability.",
+   "image": null
+  },
+  {
+   "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+   "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+   "date": "2026-07-22T12:36:36.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnFuvwtbu7JlyR-HJX7Eyz41wIZYMuzDLiZ1XlV2ipWOE-d2aPRZkYZn8nCWJynhewu3iTAR8H15UaKqmeAMkb85_m2NpSjRyaNlp6gTgKwswcVtwzjQ8A6pQXESU-AIwRUf6qUkeVDewHfGovPjgN0lKC2lHBb3dkSJGs3NYhmv5_QawPER0P4xFGpHf/s1600/git.jpg"
+  },
+  {
+   "title": "The Fastest Path to AI Adoption Runs Through Security",
+   "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+   "date": "2026-07-22T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhOo7Orml3Cc70jFGFxmIBeMgPE26To0_7N80uq7Ux9h7jIarD51mf18Ecq6bOfyaKpDTHp99pUmzrNECb2IklB0l0XdKjkszBLdhhgmw42OsYsqJQoxm74ci__fgn9n29j0YIr_HTlqT1-NyVyvbeB2t9pFRMVQT5GQlTMEOp-vkUFbha3SV-6cAXfYW/s1600/aa.jpg"
+  },
+  {
+   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+   "date": "2026-07-22T11:30:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
   },
   {
    "title": "Why Modern SOCs Need Multi-Layered Detections",
@@ -112,36 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg"
   },
   {
-   "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-   "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-   "date": "2026-07-22T06:00:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digita",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
-  },
-  {
-   "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-   "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-   "date": "2026-07-22T04:57:52.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
-  },
-  {
-   "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-   "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-   "date": "2026-07-22T04:18:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: file_extend_method",
    "link": "https://postgr.es/p/9qd",
    "date": "2026-07-22T01:00:00.000Z",
@@ -150,6 +280,26 @@
    "source": "Planet PostgreSQL",
    "summary": "file_extend_method is an escape hatch wearing the costume of a tuning knob. It exists for one purpose: to let you turn off a PostgreSQL 16 optimization on the filesystems where that optimization turned out to misbehave. ",
    "image": null
+  },
+  {
+   "title": "RouteKey Model Attribute in Laravel 13.21",
+   "link": "https://laravel-news.com/laravel-13-21-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-22T00:08:43.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.21 adds a #[RouteKey] attribute for Eloquent route model binding, a base64 validation rule, a RequestAttribute contextual attribute, and new output formats for the Image component. The post RouteKey Model Attr",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Rebuilding the World Cup table with CSS Subgrid",
+   "link": "https://frontendfoc.us/issues/751",
+   "date": "2026-07-22T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​751 — July 22, 2026 | Read on the web ⚽️ Rebuilding FIFA's Standings Layout with CSS Subgrid — The World Cup is over now, but this is an interesting design problem worth unpicking and understanding. A",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w7lmj3n3wkn15p1x2tot.jpg"
   },
   {
    "title": "The State of Simulation for Physical AI: An Overview",
@@ -162,14 +312,14 @@
    "image": null
   },
   {
-   "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-   "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-   "date": "2026-07-21T18:46:32.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiIg3Sasyz94bt9uOMqOnkEhZ4APzMbVwOObUmNzIGuYtxHO0wYNBu1LXTGi0Q5mTT6SI_CgqPwCWgejCc7BnclxwtLvDKiUlJR80nzE6dniSdomYMVcQU8Z1BQECtTvevKArxtEsJjB8Zeh2ouEgblz0vOiTDKcXUzpMzW70C56-Xbj-LT1gLp0Mbw99p/s1600/apple-email.jpg"
+   "title": "California Sea Lion",
+   "link": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+   "date": "2026-07-21T19:51:03.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "California Sea Lion, in San Francisco County, US, CA We took some visiting family to Pier 39 to see the sea lions. They're somehow always even fun than I remember them being last time. Tags: san-francisco , wildlife",
+   "image": null
   },
   {
    "title": "Drupal Association blog: Serving the Drupal project, and evolving how we fund it",
@@ -190,26 +340,6 @@
    "source": "Drupal Planet",
    "summary": "Inserting boilerplate text into CKEditor in Drupal Drupal Drupal 11.x Planet Drupal jstrecker 2026.07.21 @ 14:38 Don’t Repeat Yourself. It’s a rule that we learn for writing code. And guess what: it applies just as well ",
    "image": null
-  },
-  {
-   "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-   "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-   "date": "2026-07-21T16:06:12.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in rese",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg"
-  },
-  {
-   "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-   "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-   "date": "2026-07-21T15:09:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg"
   },
   {
    "title": "The Drop Times: Scott Falconer Makes Drupal Growth Focus of Board Candidacy",
@@ -272,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Specbee: Why custom Drupal modules break during migration, and how to fix it",
-   "link": "https://www.specbee.com/blogs/drupal-custom-module-migration",
-   "date": "2026-07-21T10:11:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Migrating custom Drupal modules? Learn what breaks, how to audit the damage, and when to port vs. rebuild, with tools that automate the fix.",
-   "image": null
-  },
-  {
    "title": "writing-mode",
    "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
    "date": "2026-07-21T09:39:10.000Z",
@@ -300,16 +420,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Building the OAPE PostgreSQL Certification I’m one of the founders of the Open Alliance for PostgreSQL Education (OAPE). Over the past two years, I’ve had a front-row seat to watching an idea become a community, and a co",
    "image": "https://cdn-images-1.medium.com/max/1024/1*4xUqBzp_E_psZ2Ur9srt8g.png"
-  },
-  {
-   "title": "Smartbees: 2 Drupal Projects We Rescued After Other Agencies",
-   "link": "https://smartbees.co/case-study/rescued-drupal-projects",
-   "date": "2026-07-21T07:25:37.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We take over projects from other agencies and see them through to completion – even if they are stuck, have errors, or require urgent intervention.",
-   "image": null
   },
   {
    "title": "Cornelia Biacsics: Contributions for week 28",
@@ -382,26 +492,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-time-machine-featured.png"
   },
   {
-   "title": "Dries Buytaert: The CMS Fragmentation Tax",
-   "link": "https://dri.es/the-cms-fragmentation-tax",
-   "date": "2026-07-20T22:10:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "In recent months, a number of Acquia customers have independently made the same strategic decision: to migrate hundreds of websites from WordPress and other platforms to Drupal. Some of these sites will move to Acquia Cl",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: The cost of running multiple CMS platforms",
-   "link": "https://dri.es/the-cost-of-running-multiple-cms-platforms",
-   "date": "2026-07-20T22:10:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "In recent months, a number of Acquia customers have independently made the same strategic decision: to migrate hundreds of websites from WordPress and other platforms to Drupal. Some of these sites will move to Acquia Cl",
-   "image": null
-  },
-  {
    "title": "Reverse-engineering is cheap now",
    "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
    "date": "2026-07-20T19:24:05.000Z",
@@ -409,16 +499,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to",
-   "image": null
-  },
-  {
-   "title": "Who’s Afraid of Chinese Models?",
-   "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
-   "date": "2026-07-20T17:09:19.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open mod",
    "image": null
   },
   {
@@ -462,16 +542,6 @@
    "image": null
   },
   {
-   "title": "Quoting Sam Altman",
-   "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
-   "date": "2026-07-20T03:47:59.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability o",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1020 (July 13–19, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1020-july-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-19T07:23:00.000Z",
@@ -479,36 +549,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony published Symfony UX 3.3, which adds support for Symfony Reprise and includes several improvements to the toolkit. In addition, SymfonyCasts announced a new course on upgrading to Symfony 8. Finally, t",
-   "image": null
-  },
-  {
-   "title": "AI Mania Is Eviscerating Global Decision-Making",
-   "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-   "date": "2026-07-19T05:06:21.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from an",
-   "image": null
-  },
-  {
-   "title": "Claude Code uses Bun written in Rust now",
-   "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
-   "date": "2026-07-19T03:54:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring ",
-   "image": null
-  },
-  {
-   "title": "SQLite Query Explainer",
-   "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-   "date": "2026-07-18T17:19:10.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, ",
    "image": null
   },
   {
@@ -520,16 +560,6 @@
    "source": "Codrops",
    "summary": "A technical breakdown of the pipeline, rendering techniques, and performance optimizations behind ZERO, an immersive scroll driven WebGL experience built for desktop and mobile.",
    "image": null
-  },
-  {
-   "title": "Vocalizer: Local Text-to-Speech for PHP",
-   "link": "https://laravel-news.com/vocalizer-local-text-to-speech-for-php?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-16T22:00:20.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Vocalizer is a native PHP extension for local speech synthesis, embedding sherpa-onnx and audio.cpp to run eight TTS model families — including Chatterbox voice cloning — behind one API. The post Vocalizer: Local Text-to",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/nativephp-vocalizer-featured.png"
   },
   {
    "title": "Meet the Speakers of the First Three.js Conference",
@@ -638,7 +668,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a60a72cd907e406584125/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a615180c6b51599365882/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -832,16 +862,6 @@
    "image": null
   },
   {
-   "title": "Building an Interactive Wave Propagation Cube Grid with Three.js",
-   "link": "https://tympanus.net/codrops/2026/07/09/building-an-interactive-wave-propagation-cube-grid-with-three-js/",
-   "date": "2026-07-09T10:06:11.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A tutorial on how to create a minimalistic and customizable 3D wave grid background with Three.js.",
-   "image": null
-  },
-  {
    "title": "PHP version stats: July, 2026",
    "link": "https://stitcher.io/blog/php-version-stats-july-2026",
    "date": "2026-07-09T00:00:00.000Z",
@@ -1012,16 +1032,6 @@
    "image": null
   },
   {
-   "title": "Case Study: Driving Green Innovation: How Symfony Empowered Veolia’s Digital Shift in Industrial Waste Management",
-   "link": "https://symfony.com/blog/case-study-driving-green-innovation-how-symfony-empowered-veolia-s-digital-shift-in-industrial-waste-management?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-02T12:30:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "When dealing with over 10 million tons of hazardous waste every year, IT operational efficiency is a prerquisite and a critical environmental and public health responsibility As the European leader in treating hazardous ",
-   "image": "https://symfony.com/uploads/assets/blog/logo.svg"
-  },
-  {
    "title": "PHP 8.2.32 Released!",
    "link": "https://www.php.net/index.php#2026-07-02-1",
    "date": "2026-07-02T12:03:54.000Z",
@@ -1130,16 +1140,6 @@
    "source": "CSS-Tricks",
    "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
    "image": null
-  },
-  {
-   "title": "CSS that picks its own readable text color",
-   "link": "https://frontendfoc.us/issues/747",
-   "date": "2026-06-24T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​747 — June 24, 2026 | Read on the web Modern CSS Theming with light-dark(), contrast-color(), and Style Queries — Get dark mode, automatic readable text, and per-component palettes, all from a single ",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/g8kuyjhhkl9o8cmpbaqx.jpg"
   },
   {
    "title": "Building Reliable Agentic AI Systems",
