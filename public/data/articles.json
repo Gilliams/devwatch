@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-07-24T12:43:20.025Z",
+ "generatedAt": "2026-07-24T18:43:49.554Z",
  "articles": [
   {
-   "title": "Did the model get worse, or is it just you? How to tell when an LLM API silently changes",
-   "link": "https://dev.to/taniacoder/did-the-model-get-worse-or-is-it-just-you-how-to-tell-when-an-llm-api-silently-changes-1lia",
-   "date": "2026-07-24T12:30:34.000Z",
+   "title": "Kubernetes 1.36: What's New and What Breaks",
+   "link": "https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11",
+   "date": "2026-07-24T18:39:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You ship a feature on top of gpt-x or claude-y. It works. Three weeks later your users say the outputs feel worse — vaguer, sloppier, failing on the same prompts that used to pass. You didn't change your code. Did the mo",
+   "summary": "Originally published on DevToolHub. Kubernetes 1.36 shipped on April 22, 2026, and it's a security-and-hardware release more than a feature release. Eighteen enhancements graduated to stable, 25 moved to beta, and the tw",
    "image": null
   },
   {
-   "title": "MintMCP Alternative: Why TrueFoundry is a better choice for MCP Governance",
-   "link": "https://dev.to/sahajmeet_kaur_/mintmcp-alternative-why-truefoundry-is-a-better-choice-for-mcp-governance-9ol",
-   "date": "2026-07-24T12:17:00.000Z",
+   "title": "Why Your SaaS Cold Email Fails: A Technical Autopsy of Deliverability",
+   "link": "https://dev.to/livedirectmarketing/why-your-saas-cold-email-fails-a-technical-autopsy-of-deliverability-30a2",
+   "date": "2026-07-24T18:00:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR MintMCP is a purpose-built MCP gateway: RBAC, Virtual MCP Bundles, Agent Bundles with M2M auth, and an Agent Monitor that extends beyond MCP to watch local non-MCP agent activity like bash commands and file operati",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmintcdn.com%2Ftruefoundry%2FqpANhu94l0rI9Dbt%2Fimages%2Fdocs%2Fai-gateway%2Fadd-mcp-server-options.png"
-  },
-  {
-   "title": "AI-Driven Development: How AI Accelerates Software Delivery",
-   "link": "https://dev.to/smartym/ai-driven-development-how-ai-accelerates-software-delivery-2bg8",
-   "date": "2026-07-24T12:11:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Competitive product teams still win on how fast they learn and ship — but \"fast\" in 2026 no longer means typing more code. AI-driven development means embedding AI across planning, implementation, test, review, deploymen",
+   "summary": "The Reply Rate That Never Moves You built something useful. You have a list of 200 prospects who fit your ICP perfectly. You send the emails and... nothing. Opens look okay, no bounces, but replies hover around 0.5%. If ",
    "image": null
   },
   {
-   "title": "Master AI Agents for DevOps Engineers Course | Visualpath",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-course-visualpath-4l5e",
-   "date": "2026-07-24T12:06:07.000Z",
+   "title": "Turning Claude into a Code Quality Auditor with MCP",
+   "link": "https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci",
+   "date": "2026-07-24T17:45:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗗𝗲𝘃𝗢𝗽𝘀 𝘄𝗶𝘁𝗵 𝗡𝗲𝘅𝘁-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀! ✨ 𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: 🎁 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼 & 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗔",
+   "summary": "Context switching is where engineering productivity goes to die. You're deep in a refactor inside Cursor or Claude Code, logic is flowing, and then—a notification. A repository grade dropped from an A to a B. Or worse, t",
    "image": null
   },
   {
-   "title": "Automate Your Repetitive Tasks",
-   "link": "https://dev.to/fabiosarmento/automate-your-repetitive-tasks-48np",
-   "date": "2026-07-24T12:03:11.000Z",
+   "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+   "link": "https://dev.to/rasne/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet-5bp3",
+   "date": "2026-07-24T17:30:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you find yourself doing the same task over and over, take the time to automate it. It’ll free you up for more meaningful work and reduce human error. Productivity win!",
+   "summary": "Canonical: BGP ORIGIN attribute manipulation and its impact on the Internet — read the full article on rasne.dev. By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transi",
    "image": null
   },
   {
-   "title": "Oops, I Committed a Secret: A Calm Guide to Scrubbing Git History",
-   "link": "https://dev.to/karamkhoury88/oops-i-committed-a-secret-a-calm-guide-to-scrubbing-git-history-38ll",
-   "date": "2026-07-24T12:00:25.000Z",
+   "title": "The AI Agent That Refused to Write Code",
+   "link": "https://dev.to/dsofianos/the-ai-agent-that-refused-to-write-code-2n2k",
+   "date": "2026-07-24T17:15:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You just finished a great feature. You're in the flow. git add . git commit -m \"Fixed the bug!\" git push Then you see it, staring back from the GitHub UI: your live API key. 💀 We've all been there. Here's the calm, corr",
+   "summary": "Applying the AI-Ready Nx Workspace to a production monorepo We asked our coding agent to start a task, /run-task 12.1. It read the task definition, followed its dependency chain, and stopped: STOP — 12.1 is blocked. Its ",
    "image": null
   },
   {
-   "title": "MyZubsterGateway: From Health Checks to Security Bots – A Development Log 🚀",
-   "link": "https://dev.to/danielioni/myzubstergateway-from-health-checks-to-security-bots-adevelopmentlog-1n7c",
-   "date": "2026-07-24T11:56:31.000Z",
+   "title": "I keep seeing managers try to run OpenClaw fleets from Claude Desktop, and it exposes a real hole in agent ops",
+   "link": "https://dev.to/lars_winstand/i-keep-seeing-managers-try-to-run-openclaw-fleets-from-claude-desktop-and-it-exposes-a-real-hole-1cef",
+   "date": "2026-07-24T17:12:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "MyZubsterGateway: From Health Checks to Security Bots – A Development Log 🚀 Today was a productive session. Here's everything we built, fixed, and shipped. MyZubster is an open-source, privacy-first ecosystem for peer-t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd11mxc47ixfs2ewg8pib.png"
+   "summary": "A manager asked for a ChatGPT-like way to supervise remote OpenClaw agents. The replies accidentally exposed one of the biggest missing layers in agent ops. If you run more than a couple of agents across VMs, repos, stag",
+   "image": null
   },
   {
-   "title": "Did the model get worse, or is it just you? How to actually tell when an LLM API silently changes",
-   "link": "https://dev.to/taniacoder/did-the-model-get-worse-or-is-it-just-you-how-to-actually-tell-when-an-llm-api-silently-changes-305b",
-   "date": "2026-07-24T11:39:18.000Z",
+   "title": "systemd RestartSec does not wait for your process to actually exit",
+   "link": "https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8",
+   "date": "2026-07-24T17:03:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You ship a feature on top of gpt-x or claude-y. It works. Three weeks later your users say the outputs feel worse — vaguer, sloppier, failing on the same prompts that used to pass. You didn't change your code. Did the mo",
+   "summary": "If you have ever set RestartSec on a systemd service and wondered why you still get Address already in use errors on restart, here is why. When RestartSec triggers a restart, systemd changes the PID but does not wait for",
    "image": null
+  },
+  {
+   "title": "Beyond Physical SIMs: A Developer’s Guide to eSIM Provisioning and Geo-Testing",
+   "link": "https://dev.to/bossybigboss/beyond-physical-sims-a-developers-guide-to-esim-provisioning-and-geo-testing-ean",
+   "date": "2026-07-24T16:47:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR & Disclosure Managing connectivity for globally distributed dev teams shouldn't require a hardware supply chain. eSIM shifts this to a software provisioning problem. Disclosure: I am a Saily affiliate. If you want ",
+   "image": null
+  },
+  {
+   "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+   "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+   "date": "2026-07-24T15:12:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
+  },
+  {
+   "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+   "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+   "date": "2026-07-24T14:15:21.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg"
+  },
+  {
+   "title": "The Art of Continuous Transformation: How Garden Eight Blends Integrity with Play",
+   "link": "https://tympanus.net/codrops/2026/07/24/the-art-of-continuous-transformation-how-garden-eight-blends-integrity-with-play/",
+   "date": "2026-07-24T14:06:07.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Inside Garden Eight's approach to creating websites that are not only visually striking, but thoughtfully crafted to evolve, engage, and endure.",
+   "image": null
+  },
+  {
+   "title": "Alert on CVEs in Your Percona Tools for MongoDB on Day One",
+   "link": "https://www.percona.com/blog/alert-on-cves-in-your-percona-tools-for-mongodb-on-day-one/",
+   "date": "2026-07-24T13:15:49.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "TL;DR: Starting with PBM 2.15.0 and PCSM 0.9.0, every release artifact – binary tarballs, RPM and DEB packages, and Docker images – ships a CycloneDX 1.6 Software Bill of Materials in JSON. Scan it with Trivy, Grype, or ",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/sbom-pipeline_6-scaled.png"
+  },
+  {
+   "title": "Dripyard Premium Drupal Themes: How Dripyard gave Tojio a fast foundation for Drupal CMS",
+   "link": "https://dripyard.com/blog/dripyard-drupal-cms-gcpc-relaunched-4-weeks",
+   "date": "2026-07-24T12:53:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "When we started building Dripyard as a business, we had a clear objective: Drupal developers should be able to move fast without giving up the things that make it Drupal. Structured content, editorial control, accessibil",
+   "image": null
+  },
+  {
+   "title": "Shaun Thomas: Looking Forward to Postgres 19: Autovacuum Tweaks",
+   "link": "https://postgr.es/p/9qp",
+   "date": "2026-07-24T12:34:46.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The autovacuum process has been dutifully tending Postgres tables since version 8.1, and almost every release since has acquired some new refinement: smarter thresholds, insert-aware triggering, resource cost limits, and",
+   "image": null
+  },
+  {
+   "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+   "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+   "date": "2026-07-24T11:53:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg"
+  },
+  {
+   "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+   "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+   "date": "2026-07-24T11:45:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same resu",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
   },
   {
    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
@@ -90,6 +170,16 @@
    "source": "The Hacker News",
    "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we eve",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
+  },
+  {
+   "title": "The Drop Times: TDT Town Hall Links Newsroom Changes With Drupal’s Wider Future",
+   "link": "https://www.thedroptimes.com/71322/tdt-july-town-hall-drupal-future?utm_source=Drupal Planet",
+   "date": "2026-07-24T10:37:39.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Community participation moves beyond story leads as The DropTimes prepares an Editorial Working Group for Drupal contributors.",
+   "image": null
   },
   {
    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
@@ -162,26 +252,6 @@
    "image": null
   },
   {
-   "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-   "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-   "date": "2026-07-24T06:58:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg"
-  },
-  {
-   "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-   "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-   "date": "2026-07-24T06:50:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
-  },
-  {
    "title": "MidCamp - Midwest Drupal Camp: Last Chance: MidCamp 2026 Call for Sessions Extended to March 13",
    "link": "https://www.midcamp.org/events/2026/news/last-chance-midcamp-2026-call-sessions-extended-march-13",
    "date": "2026-07-24T01:40:02.000Z",
@@ -242,36 +312,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
   },
   {
-   "title": "Dries Buytaert: Helping agents discover my site search with Agentic Resource Discovery",
-   "link": "https://dri.es/helping-agents-discover-my-site-search-with-agentic-resource-discovery",
-   "date": "2026-07-23T19:25:24.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Yesterday I blogged about the API catalog that announces my site's search API to agents. In response, someone pointed me to the ARD specification, a draft announced last month by a working group that includes Google, Mic",
-   "image": null
-  },
-  {
-   "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-   "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-   "date": "2026-07-23T18:36:08.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg"
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #562 - Acquia Fair Trade Initiative",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-562-acquia-fair-trade-initiative",
-   "date": "2026-07-23T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Supporting Open Source, Acquia, and The Acquia Fair Trade Initiative with guest James Sims. We'll also cover Image Effects as our module of the week. For show notes visit: https://www.talkingDr",
-   "image": null
-  },
-  {
    "title": "SHRIDHAR KHANAL: The Right Way to Give a Third-Party DBA Access to Your PostgreSQL Database",
    "link": "https://postgr.es/p/9ql",
    "date": "2026-07-23T15:55:44.000Z",
@@ -290,16 +330,6 @@
    "source": "Laravel News",
    "summary": "Laravel is gauging interest in the Founders Summit, a one-day gathering in November 2026 for founders and leaders running businesses built on Laravel. The post Laravel Announces the Founders Summit, a One-Day Event for F",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/founders-summit.png"
-  },
-  {
-   "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-   "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-   "date": "2026-07-23T15:02:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsmJNuemIhGxFuSqY6pq1opCEJECkmIjXm5VnOqOAEjfpoLxQ89Q-qXBqKQmM8YnwyVP2_feUo4c-VLZ3cC6s_J0VCXdwhLKFezoK1-i4lWQs68yXaZS8XtHGAsDj5zsdOToB7yD1QHzuMYIVQFvb14U6Zhd1cqDOm78tRY1O3v_1LFr7CC-4ItBLpLgZ3/s1600/th.jpg"
   },
   {
    "title": "Building Cerebrium: Making Serverless Infrastructure Tangible",
@@ -542,16 +572,6 @@
    "image": null
   },
   {
-   "title": "Cornelia Biacsics: Contributions for week 28",
-   "link": "https://postgr.es/p/9q5",
-   "date": "2026-07-21T06:38:49.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 15 July 2026, the Prairie Postgres Meetup Group met, organized by Henrietta Dombrovskaya and Carlos Aranibar. Speakers: Zach Paden Anna Bailliekova On 18 July 2026, Alicja Kucharczyk, Pavlo Golub, Denys Holub & Anasta",
-   "image": null
-  },
-  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -718,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a635de6bfb39101672172/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a63aeafab4cd062233452/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -852,16 +872,6 @@
    "image": null
   },
   {
-   "title": "Where Stories Become Interactive Worlds: How makemepulse Brings Ideas to Life Across Web, XR, and Beyond",
-   "link": "https://tympanus.net/codrops/2026/07/13/where-stories-become-interactive-worlds-how-makemepulse-brings-ideas-to-life-across-web-xr-and-beyond/",
-   "date": "2026-07-13T11:43:42.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "For more than 15 years, makemepulse has combined creative storytelling and technical innovation to craft award-winning digital experiences across web, immersive media, and interactive installations.",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1019 (July 6–12, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1019-july-6-12-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-12T07:33:00.000Z",
@@ -950,16 +960,6 @@
    "source": "Percona Blog",
    "summary": "Percona Operator for MySQL 1.2.0 is out, and it closes three gaps that platform teams hit once a MySQL deployment grows past a single cluster. Picture a fleet that has outgrown one region: you want a warm replica cluster",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Hero-2400-x-880-1024x376.png"
-  },
-  {
-   "title": "Comparing Migration Methods from the Crunchy Data PostgreSQL Operator to the Percona Operator for PostgreSQL",
-   "link": "https://www.percona.com/blog/comparing-migration-methods-from-the-crunchy-data-postgresql-operator-to-the-percona-operator-for-postgresql/",
-   "date": "2026-07-07T13:01:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Migrating a production PostgreSQL database on Kubernetes is not only about moving data from one operator to another. It is also about choosing the right trade-off between downtime, operational complexity, rollback safety",
-   "image": null
   },
   {
    "title": "Viability of local models for coding",
