@@ -1,54 +1,144 @@
 {
- "generatedAt": "2026-07-24T00:08:54.082Z",
+ "generatedAt": "2026-07-24T07:41:18.658Z",
  "articles": [
   {
-   "title": "How to Self-Host a Ghost Blog: A Complete Step-by-Step Guide",
-   "link": "https://dev.to/kimcomplete/how-to-self-host-a-ghost-blog-a-complete-step-by-step-guide-233n",
-   "date": "2026-07-24T00:04:37.000Z",
+   "title": "Which AI Certification Includes Hands-On Projects for Developers?",
+   "link": "https://dev.to/ailearning/which-ai-certification-includes-hands-on-projects-for-developers-2c2f",
+   "date": "2026-07-24T07:34:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Everything you need to install, secure, and maintain a self-hosted Ghost publication on your own server — plus how to decide whether self-hosting is the right call. Ghost is an open-source publishing platform built on No",
+   "summary": "Artificial Intelligence (AI) is transforming software development, making AI skills essential for developers who want to stay competitive. While there are many AI courses available online, the best AI certifications comb",
    "image": null
   },
   {
-   "title": "Microsoft Databricks Partnership: How to Build a Request-to-Answer Governance Gate",
-   "link": "https://dev.to/tran_tienvan_e45fc26d655/microsoft-databricks-partnership-how-to-build-a-request-to-answer-governance-gate-3jhc",
-   "date": "2026-07-23T23:57:53.000Z",
+   "title": "ETHENEA (ETHENEA Americas LLC) Builds a More Connected Digital Experience for Global Audiences",
+   "link": "https://dev.to/etheneaamericasinsights/ethenea-ethenea-americas-llc-builds-a-more-connected-digital-experience-for-global-audiences-37dp",
+   "date": "2026-07-24T07:28:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The July 23, 2026 update isn't just another shiny chat surface—it's a fundamental shift in how we link agent execution to enterprise governance. Microsoft and Databricks extended their decade-long strategic partnership t",
+   "summary": "In today’s increasingly connected world, digital presence has become an important part of how organizations communicate, share information, and build relationships with global audiences. For professional service firms, a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnw92wgh9u6y5seei2qyg.png"
+  },
+  {
+   "title": "Morpht: Protecting PII in Drupal AI: An introduction to Guardrails",
+   "link": "https://www.morpht.com/blog/protecting-pii-drupal-ai-introduction-guardrails",
+   "date": "2026-07-24T07:20:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Drupal AI module's Guardrails system runs configurable validation plugins both before a prompt is sent to an LLM and after a response is received. Guardrails can pass, block, or rewrite content, and can be combined i",
    "image": null
   },
   {
-   "title": "Securing Your App Like Neo Dodging Bullets: Secrets, SSL, and Firewalls",
-   "link": "https://dev.to/timevolt/securing-your-app-like-neo-dodging-bullets-secrets-ssl-and-firewalls-408m",
-   "date": "2026-07-23T23:40:10.000Z",
+   "title": "DevOps for Beginners: Everything Students Should Know",
+   "link": "https://dev.to/subha_74/devops-for-beginners-everything-students-should-know-3g9e",
+   "date": "2026-07-24T07:19:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") I still remember the first time I pushed a side‑project to a cheap VPS and felt like I’d just launched a rocket. The app worked, users signed up, and then… a friend pinged me: “Hey, did you s",
+   "summary": "The software industry has evolved significantly over the past decade. Earlier, developers wrote code while operations teams handled deployment and maintenance. This separation often led to delays, communication gaps, and",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fowyw9wlqpdof0mfqe0tc.png"
+  },
+  {
+   "title": "\"Error: Unable to find a match — fixing dnf package lookups after migrating off Amazon Linux 2\"",
+   "link": "https://dev.to/ntoledo319/error-unable-to-find-a-match-fixing-dnf-package-lookups-after-migrating-off-amazon-linux-2-56c7",
+   "date": "2026-07-24T07:17:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You moved an instance, AMI, or user-data script from Amazon Linux 2 to Amazon Linux 2023, and a package install that's worked for years suddenly fails: Error: Unable to find a match: python3-devel (or whatever package yo",
    "image": null
   },
   {
-   "title": "The Hidden Cost of Flaky Tests",
-   "link": "https://dev.to/samson_tanimawo/the-hidden-cost-of-flaky-tests-1j03",
-   "date": "2026-07-23T23:26:01.000Z",
+   "title": "Architecting Secure etcd Encryption: Analyzing the Vault Kubernetes KMS v2 Beta",
+   "link": "https://dev.to/isuvo/architecting-secure-etcd-encryption-analyzing-the-vault-kubernetes-kms-v2-beta-5h6c",
+   "date": "2026-07-24T07:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Flaky tests feel like a QA problem. They're actually a reliability problem. If your CI has a 10% flaky failure rate and you deploy 20 times a day, that's 2 rerun-required failures per day. Each rerun is 15 minutes. You j",
+   "summary": "Introduction Securing secrets at rest within a Kubernetes cluster has historically been a complex operational challenge. By default, Kubernetes stores all resource data, including sensitive Secret objects, in etcd as une",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr8g9joyyvxlvefdml8pn.jpg"
+  },
+  {
+   "title": "RefluXFS: The Silent Linux Kernel Bug Giving Hackers Root Access (CVE-2026-64600)",
+   "link": "https://dev.to/xpert4cyber/refluxfs-the-silent-linux-kernel-bug-giving-hackers-root-access-cve-2026-64600-4n94",
+   "date": "2026-07-24T07:07:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A local user with zero admin rights. A race condition hiding in the Linux kernel since 2017. Within seconds — full, passwordless root access, with no log trail left behind. That's RefluXFS (CVE-2026-64600), a newly discl",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2us5vb2vcll29hig2o7n.png"
+  },
+  {
+   "title": "Deploying a Full Stack SaaS",
+   "link": "https://dev.to/moose978/deploying-a-full-stack-saas-5g06",
+   "date": "2026-07-24T07:06:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The previous article in this series covered feature flags: how to decouple deploying code from releasing it, so a bad idea can be turned off without a rollback. That only pays off if deploying itself is a boring, repeata",
    "image": null
   },
   {
-   "title": "Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline",
-   "link": "https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb",
-   "date": "2026-07-23T23:02:30.000Z",
+   "title": "Disaster Recovery and Backups",
+   "link": "https://dev.to/moose978/disaster-recovery-and-backups-11l5",
+   "date": "2026-07-24T07:06:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The end of standard support for Amazon Linux 2 was June 30, 2026 – which has now passed. If you are still running AL2-based Storage Gateway appliances, you are in the unsupported window, and here’s how to remediate: the ",
+   "summary": "In the last article, I walked through what changes when a SaaS grows past a single server: load balancers, stateless app instances, a database that starts to strain under real concurrency. All of that assumes the databas",
+   "image": null
+  },
+  {
+   "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+   "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+   "date": "2026-07-24T06:50:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
+  },
+  {
+   "title": "MidCamp - Midwest Drupal Camp: Last Chance: MidCamp 2026 Call for Sessions Extended to March 13",
+   "link": "https://www.midcamp.org/events/2026/news/last-chance-midcamp-2026-call-sessions-extended-march-13",
+   "date": "2026-07-24T01:40:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We heard you... and we want to hear from more of you! The MidCamp 2026 Call for Sessions has been extended. The new deadline is March 13, 2026. If you had a session idea brewing but didn't quite get it across the finish ",
+   "image": null
+  },
+  {
+   "title": "MidCamp - Midwest Drupal Camp: MidCamp Chicago 2026 call for sessions open through Feb 26",
+   "link": "https://www.midcamp.org/events/2026/news/midcamp-chicago-2026-call-sessions-open-through-feb-26",
+   "date": "2026-07-24T01:40:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We're excited to celebrate you -- our future speakers! If you've got an idea for a session, now's the time to get involved in MidCamp 2026, happening May 12-14 in Chicago. Call for Speakers Since 2014, MidCamp has hosted",
+   "image": null
+  },
+  {
+   "title": "MidCamp - Midwest Drupal Camp: Catch up on all the MidCamp you missed!",
+   "link": "https://www.midcamp.org/events/2026/news/catch-all-midcamp-you-missed",
+   "date": "2026-07-24T01:40:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Watch the Dries fireside chat from 2025, or catch up on all of the sessions from last year on Drupal.tv. Theres even more Drupal goodness to be had in our archives or Drupal.tv's. The Archives: 2024 2023 2022 2021 2020 2",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: fsync",
+   "link": "https://postgr.es/p/9qo",
+   "date": "2026-07-24T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "fsync defaults to on and is the most dangerous setting in postgresql.conf—set it wrong and you risk unrecoverable data corruption, not just bad plans.",
    "image": null
   },
   {
@@ -60,36 +150,6 @@
    "source": "Simon Willison",
    "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Fa",
    "image": null
-  },
-  {
-   "title": "9 Best AI Gateways with Built-In Observability Dashboards for 2026",
-   "link": "https://dev.to/marco_rinaldi_179438a5611/9-best-ai-gateways-with-built-in-observability-dashboards-for-2026-155b",
-   "date": "2026-07-23T22:32:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A guide to the top AI gateways that provide the essential observability and monitoring dashboards needed to run LLM applications in production. This comparison reviews the leading options, with Bifrost emerging as the to",
-   "image": null
-  },
-  {
-   "title": "What Is Object Storage? A Plain-English Guide",
-   "link": "https://dev.to/kankan/what-is-object-storage-a-plain-english-guide-3813",
-   "date": "2026-07-23T22:31:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What Is Object Storage? A Plain-English Guide Object storage is a data storage architecture that manages information as discrete objects—each bundling data, metadata, and a unique identifier—rather than as files in folde",
-   "image": null
-  },
-  {
-   "title": "8 Best AI Gateways for Prompt and Model Configuration Management",
-   "link": "https://dev.to/claire_dubois/8-best-ai-gateways-for-prompt-and-model-configuration-management-2fgo",
-   "date": "2026-07-23T22:24:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A comparison of the top AI gateways for managing prompts and model configurations in production. For enterprise teams that need high performance, comprehensive governance, and flexible deployment, Bifrost is the leading ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb405jwew0ay8glbxulr9.png"
   },
   {
    "title": "Percona Operator for MongoDB 1.23.0: ClusterSync Migration, Vector Search, and PVC Snapshot Backups",
@@ -242,16 +302,6 @@
    "image": null
   },
   {
-   "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-   "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-   "date": "2026-07-23T10:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
-  },
-  {
    "title": "Quoting Seth Larson",
    "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
    "date": "2026-07-23T04:50:36.000Z",
@@ -322,26 +372,6 @@
    "image": null
   },
   {
-   "title": "Security public service announcements: Security advisory coverage removed - QA Accounts - PSA-2026-07-22",
-   "link": "https://www.drupal.org/psa-2026-07-22",
-   "date": "2026-07-22T17:59:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Date: 2026-July-22 Description: QA Accounts enables you to login to a Drupal site using a well known username/password combination. When 1.0 was released, it also was marked for security coverage. The module prioritizes ",
-   "image": null
-  },
-  {
-   "title": "Centarro: Minimizing Downtime During eCommerce Migrations",
-   "link": "https://www.centarro.io/blog/minimizing-downtime-during-ecommerce-migrations",
-   "date": "2026-07-22T14:54:59.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Some downtime during a platform migration is inevitable. Data, sometimes huge amounts of data, has to be transferred. Domain records need to be updated. The final checklist before launching is extensive. However, any rep",
-   "image": null
-  },
-  {
    "title": "Orchestrions",
    "link": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
    "date": "2026-07-22T14:48:52.000Z",
@@ -349,16 +379,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Helping agents discover my site search with an API Catalog",
-   "link": "https://dri.es/helping-agents-discover-my-site-search-with-an-api-catalog",
-   "date": "2026-07-22T14:22:42.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "I kept running into the same small frustration. My site has its own search, but when I ask an AI agent whether I have written about a topic before, it searches Google instead of using my site's search directly. As a resu",
    "image": null
   },
   {
@@ -380,16 +400,6 @@
    "source": "Symfony Blog",
    "summary": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for an extraordinary worldwide conference with 3 parallel tracks and community events. 🎤 S",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
-  },
-  {
-   "title": "The Drop Times: Matthew Saunders Makes Community Trust a Focus of Board Candidacy",
-   "link": "https://www.thedroptimes.com/interview/71278/matthew-saunders-drupal-trust-accountability?utm_source=Drupal Planet",
-   "date": "2026-07-22T13:18:27.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Matthew Saunders links his board candidacy to a question now facing Drupal: how the Association can earn community trust through measurable listening, accessible participation, and public accountability.",
-   "image": null
   },
   {
    "title": "Ahsan Hadi: Hybrid Search in PostgreSQL: BM25, Sparse Vectors, and Reciprocal Rank Fusion",
@@ -529,16 +539,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "On 15 July 2026, the Prairie Postgres Meetup Group met, organized by Henrietta Dombrovskaya and Carlos Aranibar. Speakers: Zach Paden Anna Bailliekova On 18 July 2026, Alicja Kucharczyk, Pavlo Golub, Denys Holub & Anasta",
-   "image": null
-  },
-  {
-   "title": "Abhisek Goswami: PostgreSQL vs Destructive Time Travel: The Year 2038 Problem",
-   "link": "https://postgr.es/p/9q8",
-   "date": "2026-07-21T05:00:58.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Time, Physics, Mathematics, and Databases Physics treats time as one of the fundamental dimensions of the universe. Mathematics transforms time into measurable values, equations, intervals, and limits. Databases quietly ",
    "image": null
   },
   {
@@ -708,7 +708,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a629a4900db6192652493/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6313a6c95d3075395377/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
