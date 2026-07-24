@@ -1,84 +1,134 @@
 {
- "generatedAt": "2026-07-23T18:22:02.217Z",
+ "generatedAt": "2026-07-24T00:08:54.082Z",
  "articles": [
   {
-   "title": "How I set up OpenClaw on NixOS",
-   "link": "https://dev.to/vokrob/how-i-set-up-openclaw-on-nixos-1mfi",
-   "date": "2026-07-23T18:14:39.000Z",
+   "title": "How to Self-Host a Ghost Blog: A Complete Step-by-Step Guide",
+   "link": "https://dev.to/kimcomplete/how-to-self-host-a-ghost-blog-a-complete-step-by-step-guide-233n",
+   "date": "2026-07-24T00:04:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Every new dialogue with an assistant is a blank slate. It doesn't remember what we talked about in previous sessions. I wasn't okay with that. I started looking for a solution and settled on OpenClaw: declar",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqkn3ewb7dkn84d11vlgy.png"
-  },
-  {
-   "title": "My 'Cloud Resume'",
-   "link": "https://dev.to/mlfiles/my-cloud-resume-823",
-   "date": "2026-07-23T18:03:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In my research on the topic of Azure and Cloud, Gemini mentioned the Cloud Resume Challenge, which I looked into and picked up a copy of the book for. This post will outline my steps as I work through it 😁. The goal her",
+   "summary": "Everything you need to install, secure, and maintain a self-hosted Ghost publication on your own server — plus how to decide whether self-hosting is the right call. Ghost is an open-source publishing platform built on No",
    "image": null
   },
   {
-   "title": "Why Transactional Email APIs Won't Power Your Outreach Engine",
-   "link": "https://dev.to/livedirectmarketing/why-transactional-email-apis-wont-power-your-outreach-engine-4icg",
-   "date": "2026-07-23T18:00:06.000Z",
+   "title": "Microsoft Databricks Partnership: How to Build a Request-to-Answer Governance Gate",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/microsoft-databricks-partnership-how-to-build-a-request-to-answer-governance-gate-3jhc",
+   "date": "2026-07-23T23:57:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Misconception You're building a sales tool. You need reliable email delivery. You've heard Postmark gets 98%+ inbox placement. So you reach for their API, wire it up, and start sending cold outreach at scale. Then yo",
+   "summary": "The July 23, 2026 update isn't just another shiny chat surface—it's a fundamental shift in how we link agent execution to enterprise governance. Microsoft and Databricks extended their decade-long strategic partnership t",
    "image": null
   },
   {
-   "title": "BorgShield: Sistema de Backup Linux Eficiente, Fiable y Verificable",
-   "link": "https://dev.to/arcadio_ortega/borgshield-sistema-de-backup-linux-eficiente-fiable-y-verificable-4iad",
-   "date": "2026-07-23T17:51:24.000Z",
+   "title": "Securing Your App Like Neo Dodging Bullets: Secrets, SSL, and Firewalls",
+   "link": "https://dev.to/timevolt/securing-your-app-like-neo-dodging-bullets-secrets-ssl-and-firewalls-408m",
+   "date": "2026-07-23T23:40:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Un análisis técnico basado en BorgBackup para entornos Debian/Ubuntu Autor: Arcadio Ortega Reinoso Versión del sistema: 2.1.0 Fecha: Julio 2026 Plataforma objetivo: Debian 11+ / Ubuntu 22.04+ (x86_64) Puedes encontrarlo ",
+   "summary": "The Quest Begins (The \"Why\") I still remember the first time I pushed a side‑project to a cheap VPS and felt like I’d just launched a rocket. The app worked, users signed up, and then… a friend pinged me: “Hey, did you s",
    "image": null
   },
   {
-   "title": "How to Build Efficient Context for Your AI Client to handle incidents",
-   "link": "https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd",
-   "date": "2026-07-23T17:32:48.000Z",
+   "title": "The Hidden Cost of Flaky Tests",
+   "link": "https://dev.to/samson_tanimawo/the-hidden-cost-of-flaky-tests-1j03",
+   "date": "2026-07-23T23:26:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most teams that adopt an AI coding or operations assistant eventually reach the same conclusion: The model is rarely the bottleneck. The bottleneck is context. A capable model with the wrong context produces a confident,",
+   "summary": "Flaky tests feel like a QA problem. They're actually a reliability problem. If your CI has a 10% flaky failure rate and you deploy 20 times a day, that's 2 rerun-required failures per day. Each rerun is 15 minutes. You j",
    "image": null
   },
   {
-   "title": "Kubernetes HPA: Guide with Apache on KIND",
-   "link": "https://dev.to/nishant_bhardwaj_9135ba51/kubernetes-hpa-guide-with-apache-on-kind-131o",
-   "date": "2026-07-23T17:28:28.000Z",
+   "title": "Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline",
+   "link": "https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb",
+   "date": "2026-07-23T23:02:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Horizontal Pod Autoscaler (HPA) automatically increases or decreases the number of Pods based on CPU or memory utilization. In this project, I configured HPA on a local KIND cluster and verified autoscaling using CPU-bas",
+   "summary": "The end of standard support for Amazon Linux 2 was June 30, 2026 – which has now passed. If you are still running AL2-based Storage Gateway appliances, you are in the unsupported window, and here’s how to remediate: the ",
    "image": null
   },
   {
-   "title": "EKS Backup Drill Emails Need Restore Context",
-   "link": "https://dev.to/jasonmills94/eks-backup-drill-emails-need-restore-context-2j40",
-   "date": "2026-07-23T17:24:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Backup drills are easy to mark green for the wrong reasons. Snapshots finish, logs look healthy, and somebody posts \"restore tested\" in chat. Then a real incident happens and the email that should explain what was backed",
+   "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+   "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+   "date": "2026-07-23T22:53:08.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Fa",
    "image": null
   },
   {
-   "title": "Who Wrote This Code? AI Code Provenance Before the Audits Arrive",
-   "link": "https://dev.to/jonattan_s/who-wrote-this-code-ai-code-provenance-before-the-audits-arrive-1hj4",
-   "date": "2026-07-23T17:19:14.000Z",
+   "title": "9 Best AI Gateways with Built-In Observability Dashboards for 2026",
+   "link": "https://dev.to/marco_rinaldi_179438a5611/9-best-ai-gateways-with-built-in-observability-dashboards-for-2026-155b",
+   "date": "2026-07-23T22:32:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on jonattan.in. It might be a customer running vendor due diligence. It might be a SOC 2 or ISO 27001 auditor who has added AI usage to their questionnaire. It might be your own legal team after read",
+   "summary": "A guide to the top AI gateways that provide the essential observability and monitoring dashboards needed to run LLM applications in production. This comparison reviews the leading options, with Bifrost emerging as the to",
+   "image": null
+  },
+  {
+   "title": "What Is Object Storage? A Plain-English Guide",
+   "link": "https://dev.to/kankan/what-is-object-storage-a-plain-english-guide-3813",
+   "date": "2026-07-23T22:31:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What Is Object Storage? A Plain-English Guide Object storage is a data storage architecture that manages information as discrete objects—each bundling data, metadata, and a unique identifier—rather than as files in folde",
+   "image": null
+  },
+  {
+   "title": "8 Best AI Gateways for Prompt and Model Configuration Management",
+   "link": "https://dev.to/claire_dubois/8-best-ai-gateways-for-prompt-and-model-configuration-management-2fgo",
+   "date": "2026-07-23T22:24:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A comparison of the top AI gateways for managing prompts and model configurations in production. For enterprise teams that need high performance, comprehensive governance, and flexible deployment, Bifrost is the leading ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb405jwew0ay8glbxulr9.png"
+  },
+  {
+   "title": "Percona Operator for MongoDB 1.23.0: ClusterSync Migration, Vector Search, and PVC Snapshot Backups",
+   "link": "https://www.percona.com/blog/percona-operator-for-mongodb-1-23-0-clustersync-vector-search-pvc-snapshot-backups/",
+   "date": "2026-07-23T19:55:51.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona Operator for MongoDB 1.23.0 makes the operator a place you move to, not just a place you start. A new ClusterSync component clones a live source and follows its change streams, so leaving a hosted service is a sh",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
+  },
+  {
+   "title": "Dries Buytaert: Helping agents discover my site search with Agentic Resource Discovery",
+   "link": "https://dri.es/helping-agents-discover-my-site-search-with-agentic-resource-discovery",
+   "date": "2026-07-23T19:25:24.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Yesterday I blogged about the API catalog that announces my site's search API to agents. In response, someone pointed me to the ARD specification, a draft announced last month by a working group that includes Google, Mic",
+   "image": null
+  },
+  {
+   "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+   "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+   "date": "2026-07-23T18:36:08.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email d",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #562 - Acquia Fair Trade Initiative",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-562-acquia-fair-trade-initiative",
+   "date": "2026-07-23T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Supporting Open Source, Acquia, and The Acquia Fair Trade Initiative with guest James Sims. We'll also cover Image Effects as our module of the week. For show notes visit: https://www.talkingDr",
    "image": null
   },
   {
@@ -200,16 +250,6 @@
    "source": "The Hacker News",
    "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
-  },
-  {
-   "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-   "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-   "date": "2026-07-23T08:04:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
   },
   {
    "title": "Quoting Seth Larson",
@@ -352,6 +392,16 @@
    "image": null
   },
   {
+   "title": "Ahsan Hadi: Hybrid Search in PostgreSQL: BM25, Sparse Vectors, and Reciprocal Rank Fusion",
+   "link": "https://postgr.es/p/9qm",
+   "date": "2026-07-22T11:19:03.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "In my previous blog on the pgEdge Vectorizer and RAG Server, I showed how to build a semantic search pipeline using dense vector embeddings. The RAG Server already did hybrid search, combining vector similarity with BM25",
+   "image": null
+  },
+  {
    "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
    "link": "https://www.percona.com/blog/migrate-mysql-galera-cluster-to-percona-xtradb-cluster/",
    "date": "2026-07-22T09:56:28.000Z",
@@ -359,16 +409,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "On December 1, 2025, MariaDB announced that MySQL Galera Cluster will reach end of life on September 30, 2026. After that date, the MySQL build of Galera stops receiving maintenance and binary releases, and all new clust",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: How Drupal Has Protected Millions of Sites",
-   "link": "https://www.drupal.org/association/blog/how-drupal-has-protected-millions-of-sites",
-   "date": "2026-07-22T05:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal project runs one of the most disciplined coordinated-disclosure programs in open source, and it has done so through volunteer effort for more than two decades. Millions of sites, many operated by governments, ",
    "image": null
   },
   {
@@ -402,16 +442,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w7lmj3n3wkn15p1x2tot.jpg"
   },
   {
-   "title": "Tag1 Insights: Ten Minutes, Not an Hour: What Efficient AI-Assisted Development Actually Looks Like",
-   "link": "https://www.tag1.com/blog/what-ai-assisted-development-looks-like/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
-   "date": "2026-07-22T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Take Away Marcin Grabias, Senior Drupal Engineer and maintainer of the Drupal LMS module, used Claude Code to merge two near-duplicate activity plugins into a single configurable one in roughly ten minutes of work that w",
-   "image": null
-  },
-  {
    "title": "The State of Simulation for Physical AI: An Overview",
    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
    "date": "2026-07-21T20:00:27.000Z",
@@ -428,7 +458,7 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "California Sea Lion, in San Francisco County, US, CA We took some visiting family to Pier 39 to see the sea lions. They're somehow always even fun than I remember them being last time. Tags: san-francisco , wildlife",
+   "summary": "California Sea Lion, in San Francisco County, US, CA We took some visiting family to Pier 39 to see the sea lions. They're somehow always even more fun than I remember them being last time. Tags: san-francisco , wildlife",
    "image": null
   },
   {
@@ -449,16 +479,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline find",
-   "image": null
-  },
-  {
-   "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-   "link": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
-   "date": "2026-07-21T12:54:02.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security",
    "image": null
   },
   {
@@ -519,16 +539,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Time, Physics, Mathematics, and Databases Physics treats time as one of the fundamental dimensions of the universe. Mathematics transforms time into measurable values, equations, intervals, and limits. Databases quietly ",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: file_copy_method",
-   "link": "https://postgr.es/p/9q4",
-   "date": "2026-07-21T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 18's `file_copy_method = clone` can copy a terabyte database in half a second on copy-on-write filesystems. Here's when and why you should use it.",
    "image": null
   },
   {
@@ -698,7 +708,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a624515466c6381739771/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a629a4900db6192652493/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1040,16 +1050,6 @@
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.2.32. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.32 please visit our , ",
    "image": null
-  },
-  {
-   "title": "Why Percona Backup for MongoDB Is the Right Choice for Production Backups",
-   "link": "https://www.percona.com/blog/why-percona-backup-for-mongodb-is-the-right-choice-for-production-backups/",
-   "date": "2026-07-02T11:43:25.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "When you’re running MongoDB in production, backups are non-negotiable. But not all backup strategies are equal. The gap between a good backup strategy and a bad one only becomes visible at the worst possible moment: when",
-   "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-12.10.49-PM-1024x630.png"
   },
   {
    "title": "The select element, sized just right",
