@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-07-25T12:08:27.963Z",
+ "generatedAt": "2026-07-25T18:05:56.138Z",
  "articles": [
   {
-   "title": "Prioritize Security from the Start",
-   "link": "https://dev.to/fabiosarmento/prioritize-security-from-the-start-2oeo",
-   "date": "2026-07-25T12:03:07.000Z",
+   "title": "The SSH Lockout That Made Me Close Port 22 For Good",
+   "link": "https://dev.to/hardil_singh_08a1f0abf23d/the-ssh-lockout-that-made-me-close-port-22-for-good-3cde",
+   "date": "2026-07-25T17:57:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Never treat security as an afterthought. Integrate security best practices from the design phase to shield your application from potential threats. It’s easier to build it right! #security #devops.",
+   "summary": "I got locked out of my own production server. Not \"forgot the password\" locked out — both SSH and the hosting panel's browser console rejected me, on a box running several live apps, for hours. Here's what actually happe",
    "image": null
   },
   {
-   "title": "AI Agent Sandboxing: Contain the Blast Radius",
-   "link": "https://dev.to/brennhill/ai-agent-sandboxing-contain-the-blast-radius-59p8",
-   "date": "2026-07-25T12:00:00.000Z",
+   "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+   "link": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
+   "date": "2026-07-25T17:55:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI agent sandboxing means running an autonomous AI agent inside an isolated, contained environment. No network by default, scoped and short-lived credentials, a locked-down filesystem, resource and budget caps, disposabl",
+   "summary": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning) From a bricked Raspberry Pi to a 4-node Talos Linux cluster running Cilium eBPF, ArgoCD, and Longhorn — every failure, every fi",
    "image": null
   },
   {
-   "title": "Turn OpenAI Degradation Into an SRE Runbook and SLO",
-   "link": "https://dev.to/odd_background_328/turn-openai-degradation-into-an-sre-runbook-and-slo-13m2",
-   "date": "2026-07-25T11:57:38.000Z",
+   "title": "LLM Cost Controls That Actually Work: Budgets, Rate Limits, and Per-Team Attribution",
+   "link": "https://dev.to/sahajmeet_kaur_/llm-cost-controls-that-actually-work-budgets-rate-limits-and-per-team-attribution-30c3",
+   "date": "2026-07-25T17:28:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "09:17:49 UTC: a provider incident starts. The operational question is not “is the status page red?” It is “which measured threshold changes routing, admission, and customer communication in our service?” The evidence tim",
+   "summary": "The first sign something's wrong with LLM spend is usually a bill, three weeks after the damage is done. By then the agent that got stuck in a retry loop, or the prompt that kept growing every turn, has already run a tho",
    "image": null
   },
   {
-   "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
-   "link": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
-   "date": "2026-07-25T11:47:44.000Z",
+   "title": "The Enterprise WAF Monopoly is Dead: How We Shattered Layer-7 Security Pricing with C++/WASM",
+   "link": "https://dev.to/bangsaenai/the-enterprise-waf-monopoly-is-dead-how-we-shattered-layer-7-security-pricing-with-cwasm-12ng",
+   "date": "2026-07-25T17:05:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introducing Gubernator: The Goldilocks Container Orchestrator Gubernator combines the simplicity of Docker Swarm with the flexibility of Nomad. Language: Go (Golang) State: SQLite (Centralized on Manager, with local cach",
+   "summary": "For years, giant cloud providers have held a dirty secret: Enterprise WAFs ($200–$1,000+/month) are priced high not because Edge compute is expensive, but because they know you can't build one yourself. If you run an e-c",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5ykx9j5asphiurt4c0p.png"
+  },
+  {
+   "title": "Bare-Metal Kubernetes: What NKP Metal Gets Right",
+   "link": "https://dev.to/schiff_heimlich/bare-metal-kubernetes-what-nkp-metal-gets-right-28fm",
+   "date": "2026-07-25T17:04:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bare-Metal Kubernetes: What NKP Metal Gets Right Here's something I ran into that might be worth a second look. Nutanix launched NKP Metal recently - basically their Kubernetes Platform extended to run directly on physic",
    "image": null
   },
   {
-   "title": "Scaling Your App: The Return of the Jedi",
-   "link": "https://dev.to/timevolt/scaling-your-app-the-return-of-the-jedi-fm1",
-   "date": "2026-07-25T11:45:40.000Z",
+   "title": "Your proxy connected. That doesn't mean it hid your IP.",
+   "link": "https://dev.to/roamproxy/your-proxy-connected-that-doesnt-mean-it-hid-your-ip-28e5",
+   "date": "2026-07-25T16:25:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I remember the day our little side‑project started getting real traffic. We’d launched a tiny API that served cat memes to a handful of friends, and suddenly the numbers started cli",
+   "summary": "Every proxy checker I've come across answers one question: did the connection open? That's the least interesting thing about a proxy. A proxy can connect perfectly and still hand your real IP address to the destination s",
    "image": null
   },
   {
-   "title": "Proving your agent did what it claimed: a receipts-based approach",
-   "link": "https://dev.to/maximehoule/proving-your-agent-did-what-it-claimed-a-receipts-based-approach-3app",
-   "date": "2026-07-25T11:44:43.000Z",
+   "title": "Why Your CI Agent Can't Install pip",
+   "link": "https://dev.to/techwithhari/why-your-ci-agent-cant-install-pip-11if",
+   "date": "2026-07-25T16:06:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR: Your agent said \"done.\" A dependency bumped last week. You cannot actually prove the agent still does what it did before, because you have no record of what it did before. Here is how I started recording real runs",
+   "summary": "If you've ever set up a self-hosted CI/CD agent on a fresh Ubuntu image and hit pip: command not found or No module named pip, your first instinct is probably to check the network. Mine was too. That instinct is wrong, a",
    "image": null
   },
   {
-   "title": "2026 Enterprise Zero Trust Architecture and Cybersecurity Career Index",
-   "link": "https://dev.to/cyberupdates365/2026-enterprise-zero-trust-architecture-and-cybersecurity-career-index-4nml",
-   "date": "2026-07-25T11:41:37.000Z",
+   "title": "Automating Web Regressions and Intel: How to Track DOM and Visual Changes Programmatically",
+   "link": "https://dev.to/codebass/automating-web-regressions-and-intel-how-to-track-dom-and-visual-changes-programmatically-55i",
+   "date": "2026-07-25T16:02:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "2026 Enterprise Zero Trust Architecture and Cybersecurity Career Index Building upon our established Threat Intelligence collections, this master engineering directory compiles implementation blueprints for Zero Trust ne",
-   "image": null
+   "summary": "Whether you are a developer preventing frontend UI regressions, a marketer monitoring competitor pricing strategies, or a DevOps engineer keeping tabs on external status dashboards, knowing when a webpage changes in real",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmbh3zee60vea2ipnp6x.png"
   },
   {
-   "title": "SAP ABAP RAP Online Training New Batch Starting July 27th",
-   "link": "https://dev.to/kalyan_visualpath_42cb693/sap-abap-rap-online-training-new-batch-starting-july-27th-2cnk",
-   "date": "2026-07-25T11:39:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗥𝗔𝗣 𝘄𝗶𝘁𝗵 𝗟𝗶𝘃𝗲 𝗢𝗻𝗹𝗶𝗻𝗲 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝘁 𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵! 🚀 📅 𝗕𝗮𝘁𝗰𝗵 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 https://l1nk.dev/rueixqm 🌟 𝗪𝗵𝘆 𝗟𝗲𝗮𝗿𝗻 𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗥𝗔𝗣? 🚀 \ud835",
-   "image": null
+   "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+   "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+   "date": "2026-07-25T12:52:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
   },
   {
    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
@@ -240,16 +250,6 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial in",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg"
-  },
-  {
-   "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-   "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-   "date": "2026-07-24T11:45:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same resu",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
   },
   {
    "title": "The Drop Times: TDT Town Hall Links Newsroom Changes With Drupal’s Wider Future",
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a64a65a9c437840748419/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a64f1ee57ed6780866613/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
