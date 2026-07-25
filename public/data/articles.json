@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-07-24T18:43:49.554Z",
+ "generatedAt": "2026-07-25T00:13:53.832Z",
  "articles": [
   {
-   "title": "Kubernetes 1.36: What's New and What Breaks",
-   "link": "https://dev.to/amareswer/kubernetes-136-whats-new-and-what-breaks-1i11",
-   "date": "2026-07-24T18:39:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on DevToolHub. Kubernetes 1.36 shipped on April 22, 2026, and it's a security-and-hardware release more than a feature release. Eighteen enhancements graduated to stable, 25 moved to beta, and the tw",
+   "title": "Introducing Claude Opus 5",
+   "link": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+   "date": "2026-07-24T23:48:50.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's des",
    "image": null
   },
   {
-   "title": "Why Your SaaS Cold Email Fails: A Technical Autopsy of Deliverability",
-   "link": "https://dev.to/livedirectmarketing/why-your-saas-cold-email-fails-a-technical-autopsy-of-deliverability-30a2",
-   "date": "2026-07-24T18:00:07.000Z",
+   "title": "Vulnerability Watch — 1 high-severity CVE (2026-07-24)",
+   "link": "https://dev.to/pkgdrift/vulnerability-watch-1-high-severity-cve-2026-07-24-fp4",
+   "date": "2026-07-24T23:03:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Reply Rate That Never Moves You built something useful. You have a list of 200 prospects who fit your ICP perfectly. You send the emails and... nothing. Opens look okay, no bounces, but replies hover around 0.5%. If ",
+   "summary": "Automated vulnerability report from pkgdrift — real-time CVE intelligence across tracked open-source packages. CVE CVSS Severity Description CVE-2026-7574 8.7 HIGH Anthropic Claude Desktop Cowork VM image handling (confi",
    "image": null
   },
   {
-   "title": "Turning Claude into a Code Quality Auditor with MCP",
-   "link": "https://dev.to/renato_marinho/turning-claude-into-a-code-quality-auditor-with-mcp-eci",
-   "date": "2026-07-24T17:45:41.000Z",
+   "title": "Deploying a Kubernetes Application on Azure Kubernetes Service (AKS): From Cluster Creation to Live Deployment",
+   "link": "https://dev.to/awokay/deploying-a-kubernetes-application-on-azure-kubernetes-service-aks-from-cluster-creation-to-live-3f97",
+   "date": "2026-07-24T22:21:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Context switching is where engineering productivity goes to die. You're deep in a refactor inside Cursor or Claude Code, logic is flowing, and then—a notification. A repository grade dropped from an A to a B. Or worse, t",
+   "summary": "Step 1 — Create a Resource Group and Verify It Step 2 — Create the AKS Cluster Step 3 — Verify the Cluster and Get Credentials Step 4 — Confirm Node Connectivity g) Step 5 — Deploy the Application and Check Pods Step 6 —",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foq6gytgyyabjwdhc413u.png"
+  },
+  {
+   "title": "The Hardest Browser Tests Live Outside the Browser",
+   "link": "https://dev.to/randomsquirrel802/the-hardest-browser-tests-live-outside-the-browser-afi",
+   "date": "2026-07-24T22:11:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The easiest browser test is the one that never leaves the browser. Open a page. Click a button. Check a message. Real customer journeys are rarely that polite. A user signs up, receives an email, opens a verification lin",
    "image": null
   },
   {
-   "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-   "link": "https://dev.to/rasne/bgp-origin-attribute-manipulation-and-its-impact-on-the-internet-5bp3",
-   "date": "2026-07-24T17:30:36.000Z",
+   "title": "Your Test Suite Isn't Slow. It's Accumulating Decisions",
+   "link": "https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080",
+   "date": "2026-07-24T22:09:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: BGP ORIGIN attribute manipulation and its impact on the Internet — read the full article on rasne.dev. By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transi",
+   "summary": "Most browser test suites do not collapse in one dramatic moment. They get a little slower on Monday. A little noisier on Tuesday. Someone adds a retry on Wednesday. By Friday, the pipeline takes 28 minutes, three tests f",
    "image": null
   },
   {
-   "title": "The AI Agent That Refused to Write Code",
-   "link": "https://dev.to/dsofianos/the-ai-agent-that-refused-to-write-code-2n2k",
-   "date": "2026-07-24T17:15:04.000Z",
+   "title": "The Next SharePoint 9.8 Arrived in Eight Days - And It Was the Last One With a Patch",
+   "link": "https://dev.to/endoflifeai/the-next-sharepoint-98-arrived-in-eight-days-and-it-was-the-last-one-with-a-patch-3db0",
+   "date": "2026-07-24T22:09:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Applying the AI-Ready Nx Workspace to a production monorepo We asked our coding agent to start a task, /run-task 12.1. It read the task definition, followed its dependency chain, and stopped: STOP — 12.1 is blocked. Its ",
+   "summary": "Originally published at endoflife.ai. On July 14, 2026, two things happened to SharePoint Server 2016 and 2019 at once: they reached end of extended support, and they received their final security update. At the time, th",
    "image": null
   },
   {
-   "title": "I keep seeing managers try to run OpenClaw fleets from Claude Desktop, and it exposes a real hole in agent ops",
-   "link": "https://dev.to/lars_winstand/i-keep-seeing-managers-try-to-run-openclaw-fleets-from-claude-desktop-and-it-exposes-a-real-hole-1cef",
-   "date": "2026-07-24T17:12:23.000Z",
+   "title": "A PR review agent with 2 comments beats one with 20",
+   "link": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
+   "date": "2026-07-24T21:26:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A manager asked for a ChatGPT-like way to supervise remote OpenClaw agents. The replies accidentally exposed one of the biggest missing layers in agent ops. If you run more than a couple of agents across VMs, repos, stag",
+   "summary": "A good review agent needs a bias toward silence, a validation pass against its own findings, a context budget, and a definition of \"correct\" that comes from the repo instead of from the industry. This walks through rules",
    "image": null
   },
   {
-   "title": "systemd RestartSec does not wait for your process to actually exit",
-   "link": "https://dev.to/schiff_heimlich/systemd-restartsec-does-not-wait-for-your-process-to-actually-exit-4pl8",
-   "date": "2026-07-24T17:03:53.000Z",
+   "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
+   "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-50cn",
+   "date": "2026-07-24T21:21:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you have ever set RestartSec on a systemd service and wondered why you still get Address already in use errors on restart, here is why. When RestartSec triggers a restart, systemd changes the PID but does not wait for",
+   "summary": "A few weeks ago I noticed some things I couldn't explain on one of my VPS instances — nothing catastrophic, just enough \"that's not right\" to make me nervous. I went looking for a lightweight tool to audit and harden a f",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2rtee18xdb90ilfdpqhs.gif"
+  },
+  {
+   "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
+   "link": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
+   "date": "2026-07-24T21:12:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: 2 cores, 2 GB RAM, 20 GB SATA SSD. It ingests errors, traces and metrics from two low-traffic sites of mine. The stack is three co",
    "image": null
   },
   {
-   "title": "Beyond Physical SIMs: A Developer’s Guide to eSIM Provisioning and Geo-Testing",
-   "link": "https://dev.to/bossybigboss/beyond-physical-sims-a-developers-guide-to-esim-provisioning-and-geo-testing-ean",
-   "date": "2026-07-24T16:47:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR & Disclosure Managing connectivity for globally distributed dev teams shouldn't require a hardware supply chain. eSIM shifts this to a software provisioning problem. Disclosure: I am a Saily affiliate. If you want ",
+   "title": "The Drop Times: Tiffany Farriss Proposes Cost Accounting and Usage-Based Enterprise Funding",
+   "link": "https://www.thedroptimes.com/71330/farriss-funding-cost-accounting?utm_source=Drupal Planet",
+   "date": "2026-07-24T16:53:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Farriss says reserves are covering a gap in Drupal’s wider stewardship work, prompting proposals to expose programme costs and connect enterprise use with ongoing support.",
    "image": null
   },
   {
@@ -252,6 +272,16 @@
    "image": null
   },
   {
+   "title": "The Drop Times: A \"Humanizer\" Should Not Become a House Style Manual",
+   "link": "https://www.thedroptimes.com/open/71335/humanizer-ai-writing-house-style?utm_source=Drupal Planet",
+   "date": "2026-07-24T07:09:49.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A developer I work with sent this skill over recently, asking whether it was worth adopting across the agency's client projects (an additional pass before publication under a client's name). That's a fair question to ask",
+   "image": null
+  },
+  {
    "title": "MidCamp - Midwest Drupal Camp: Last Chance: MidCamp 2026 Call for Sessions Extended to March 13",
    "link": "https://www.midcamp.org/events/2026/news/last-chance-midcamp-2026-call-sessions-extended-march-13",
    "date": "2026-07-24T01:40:02.000Z",
@@ -259,26 +289,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "We heard you... and we want to hear from more of you! The MidCamp 2026 Call for Sessions has been extended. The new deadline is March 13, 2026. If you had a session idea brewing but didn't quite get it across the finish ",
-   "image": null
-  },
-  {
-   "title": "MidCamp - Midwest Drupal Camp: MidCamp Chicago 2026 call for sessions open through Feb 26",
-   "link": "https://www.midcamp.org/events/2026/news/midcamp-chicago-2026-call-sessions-open-through-feb-26",
-   "date": "2026-07-24T01:40:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We're excited to celebrate you -- our future speakers! If you've got an idea for a session, now's the time to get involved in MidCamp 2026, happening May 12-14 in Chicago. Call for Speakers Since 2014, MidCamp has hosted",
-   "image": null
-  },
-  {
-   "title": "MidCamp - Midwest Drupal Camp: Catch up on all the MidCamp you missed!",
-   "link": "https://www.midcamp.org/events/2026/news/catch-all-midcamp-you-missed",
-   "date": "2026-07-24T01:40:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Watch the Dries fireside chat from 2025, or catch up on all of the sessions from last year on Drupal.tv. Theres even more Drupal goodness to be had in our archives or Drupal.tv's. The Archives: 2024 2023 2022 2021 2020 2",
    "image": null
   },
   {
@@ -512,16 +522,6 @@
    "image": null
   },
   {
-   "title": "Nativ: Run AI models locally on your Mac",
-   "link": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
-   "date": "2026-07-21T14:22:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in",
-   "image": null
-  },
-  {
    "title": "Fragments: July 21",
    "link": "https://martinfowler.com/fragments/2026-07-21.html",
    "date": "2026-07-21T13:13:00.000Z",
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a63aeafab4cd062233452/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a63f4ba908d4748516878/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
