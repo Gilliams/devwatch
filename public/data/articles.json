@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-07-25T07:27:28.413Z",
+ "generatedAt": "2026-07-25T12:08:27.963Z",
  "articles": [
   {
-   "title": "\"Failed to start iptables.service — Amazon Linux 2023 dropped it for nftables\"",
-   "link": "https://dev.to/ntoledo319/failed-to-start-iptablesservice-amazon-linux-2023-dropped-it-for-nftables-5flo",
-   "date": "2026-07-25T07:17:03.000Z",
+   "title": "Prioritize Security from the Start",
+   "link": "https://dev.to/fabiosarmento/prioritize-security-from-the-start-2oeo",
+   "date": "2026-07-25T12:03:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and a step that used to just work now fails: Failed to start iptables.service: Unit iptables.service not found. The instanc",
+   "summary": "Never treat security as an afterthought. Integrate security best practices from the design phase to shield your application from potential threats. It’s easier to build it right! #security #devops.",
    "image": null
   },
   {
-   "title": "OmniSRE: Closed-Loop AI Observability and Autonomous Self-Healing",
-   "link": "https://dev.to/rahulchandra2004/omnisre-closed-loop-ai-observability-and-autonomous-self-healing-1lf4",
-   "date": "2026-07-25T07:15:27.000Z",
+   "title": "AI Agent Sandboxing: Contain the Blast Radius",
+   "link": "https://dev.to/brennhill/ai-agent-sandboxing-contain-the-blast-radius-59p8",
+   "date": "2026-07-25T12:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How I Built an Autonomous AI SRE Agent with SigNoz (and the Telegram Kill Switch That Keeps It Safe) Track 01: AI & Agent Observability | WeMakeDevs x Agents of SigNoz Hackathon It was late at night, and I was watching m",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fngnjtpeil0h672idg3d8.png"
-  },
-  {
-   "title": "Analyzing Moonshot AI's Kimi K3: What a 2.8-Trillion Parameter Open-Weights Model Means for Your Infrastructure",
-   "link": "https://dev.to/isuvo/analyzing-moonshot-ais-kimi-k3-what-a-28-trillion-parameter-open-weights-model-means-for-your-5dj0",
-   "date": "2026-07-25T07:15:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "On July 17, 2026, Moonshot AI announced Kimi K3, a flagship model boasting 2.8 trillion parameters, with a commitment to release its open weights by July 27, 2026. This move pushes open-weights architecture into a scale ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmauo6qn98gxx4yjvposc.jpg"
-  },
-  {
-   "title": "What Is Kubernetes? A Beginner's Guide",
-   "link": "https://dev.to/subha_74/what-is-kubernetes-a-beginners-guide-53bh",
-   "date": "2026-07-25T07:07:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Modern applications need to be fast, reliable, and capable of serving millions of users simultaneously. Whether it's a video streaming platform, an e-commerce website, a banking application, or a social media platform, b",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqpbx7tkim88qvb02kza0.png"
-  },
-  {
-   "title": "Fix nginx-proxy SSL Certs Not Issuing in Docker Compose",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose-i0n",
-   "date": "2026-07-25T07:02:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Your app is up, DNS resolves, and yet the browser throws NET::ERR_CERT_AUTHORITY_INVALID instead of a green padlock. This is the single most common failure mode when running nginx-p",
+   "summary": "AI agent sandboxing means running an autonomous AI agent inside an isolated, contained environment. No network by default, scoped and short-lived credentials, a locked-down filesystem, resource and budget caps, disposabl",
    "image": null
   },
   {
-   "title": "Which AI Certifications Provide the Highest Career Value for Professionals?",
-   "link": "https://dev.to/ailearning/which-ai-certifications-provide-the-highest-career-value-for-professionals-1ng3",
-   "date": "2026-07-25T07:00:47.000Z",
+   "title": "Turn OpenAI Degradation Into an SRE Runbook and SLO",
+   "link": "https://dev.to/odd_background_328/turn-openai-degradation-into-an-sre-runbook-and-slo-13m2",
+   "date": "2026-07-25T11:57:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Artificial Intelligence (AI) has become one of the most valuable skills in today's job market. From software development and finance to healthcare and marketing, organizations are investing heavily in AI technologies and",
+   "summary": "09:17:49 UTC: a provider incident starts. The operational question is not “is the status page red?” It is “which measured threshold changes routing, admission, and customer communication in our service?” The evidence tim",
    "image": null
   },
   {
-   "title": "🌐 Understanding TCP Flow: From Handshake to Data Transfer",
-   "link": "https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n",
-   "date": "2026-07-25T06:40:15.000Z",
+   "title": "Introducing Gubernator: The Goldilocks Container Orchestrator (Docker Swarm + Nomad Hybrid)",
+   "link": "https://dev.to/gde/introducing-gubernator-the-goldilocks-container-orchestrator-docker-swarm-nomad-hybrid-1o7",
+   "date": "2026-07-25T11:47:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When you type a URL like https://youtube.com into Chrome, a fascinating sequence of events unfolds behind the scenes. Let’s break it down step by step. Chrome tells the operating system: “I want to connect to YouTube on ",
+   "summary": "Introducing Gubernator: The Goldilocks Container Orchestrator Gubernator combines the simplicity of Docker Swarm with the flexibility of Nomad. Language: Go (Golang) State: SQLite (Centralized on Manager, with local cach",
    "image": null
   },
   {
-   "title": "Linux File Permissions Explained: Read, Write, and Change Permissions",
-   "link": "https://dev.to/serveravatar/linux-file-permissions-explained-read-write-and-change-permissions-3ble",
-   "date": "2026-07-25T06:28:56.000Z",
+   "title": "Scaling Your App: The Return of the Jedi",
+   "link": "https://dev.to/timevolt/scaling-your-app-the-return-of-the-jedi-fm1",
+   "date": "2026-07-25T11:45:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Linux file permissions are one of the first concepts every Linux user and system administrator needs to master. Every sysadmin has been burned by a permissions mistake at least once. Uploaded a script that won’t run. Mov",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fenzgq37s2di69m2sxy0h.jpg"
+   "summary": "The Quest Begins (The \"Why\") Honestly, I remember the day our little side‑project started getting real traffic. We’d launched a tiny API that served cat memes to a handful of friends, and suddenly the numbers started cli",
+   "image": null
+  },
+  {
+   "title": "Proving your agent did what it claimed: a receipts-based approach",
+   "link": "https://dev.to/maximehoule/proving-your-agent-did-what-it-claimed-a-receipts-based-approach-3app",
+   "date": "2026-07-25T11:44:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR: Your agent said \"done.\" A dependency bumped last week. You cannot actually prove the agent still does what it did before, because you have no record of what it did before. Here is how I started recording real runs",
+   "image": null
+  },
+  {
+   "title": "2026 Enterprise Zero Trust Architecture and Cybersecurity Career Index",
+   "link": "https://dev.to/cyberupdates365/2026-enterprise-zero-trust-architecture-and-cybersecurity-career-index-4nml",
+   "date": "2026-07-25T11:41:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "2026 Enterprise Zero Trust Architecture and Cybersecurity Career Index Building upon our established Threat Intelligence collections, this master engineering directory compiles implementation blueprints for Zero Trust ne",
+   "image": null
+  },
+  {
+   "title": "SAP ABAP RAP Online Training New Batch Starting July 27th",
+   "link": "https://dev.to/kalyan_visualpath_42cb693/sap-abap-rap-online-training-new-batch-starting-july-27th-2cnk",
+   "date": "2026-07-25T11:39:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗥𝗔𝗣 𝘄𝗶𝘁𝗵 𝗟𝗶𝘃𝗲 𝗢𝗻𝗹𝗶𝗻𝗲 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝘁 𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵! 🚀 📅 𝗕𝗮𝘁𝗰𝗵 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 https://l1nk.dev/rueixqm 🌟 𝗪𝗵𝘆 𝗟𝗲𝗮𝗿𝗻 𝗦𝗔𝗣 𝗔𝗕𝗔𝗣 𝗥𝗔𝗣? 🚀 \ud835",
+   "image": null
+  },
+  {
+   "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+   "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+   "date": "2026-07-25T10:14:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not ta",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
+  },
+  {
+   "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+   "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+   "date": "2026-07-25T10:14:21.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised la",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
+  },
+  {
+   "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+   "date": "2026-07-25T10:14:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
+  },
+  {
+   "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+   "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+   "date": "2026-07-25T09:53:41.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: full_page_writes",
@@ -212,16 +252,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
   },
   {
-   "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-   "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-   "date": "2026-07-24T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we eve",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
-  },
-  {
    "title": "The Drop Times: TDT Town Hall Links Newsroom Changes With Drupal’s Wider Future",
    "link": "https://www.thedroptimes.com/71322/tdt-july-town-hall-drupal-future?utm_source=Drupal Planet",
    "date": "2026-07-24T10:37:39.000Z",
@@ -230,26 +260,6 @@
    "source": "Drupal Planet",
    "summary": "Community participation moves beyond story leads as The DropTimes prepares an Editorial Working Group for Drupal contributors.",
    "image": null
-  },
-  {
-   "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-   "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-   "date": "2026-07-24T10:15:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg"
-  },
-  {
-   "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-   "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-   "date": "2026-07-24T10:09:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public d",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg"
   },
   {
    "title": "Smartbees: Sumaris",
@@ -280,16 +290,6 @@
    "source": "Drupal Planet",
    "summary": "The Pattern I Keep Seeing A team starts a Drupal project. Someone asks how editors will build and arrange page content. Someone else says \"Layout Builder,\" and that is the end of the conversation. Nobody asks what the ed",
    "image": null
-  },
-  {
-   "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-   "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-   "date": "2026-07-24T07:41:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg"
   },
   {
    "title": "Morpht: Protecting PII in Drupal AI: An introduction to Guardrails",
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a646542a94ec829426440/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a64a65a9c437840748419/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
