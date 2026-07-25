@@ -1,6 +1,116 @@
 {
- "generatedAt": "2026-07-25T00:13:53.832Z",
+ "generatedAt": "2026-07-25T07:27:28.413Z",
  "articles": [
+  {
+   "title": "\"Failed to start iptables.service — Amazon Linux 2023 dropped it for nftables\"",
+   "link": "https://dev.to/ntoledo319/failed-to-start-iptablesservice-amazon-linux-2023-dropped-it-for-nftables-5flo",
+   "date": "2026-07-25T07:17:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and a step that used to just work now fails: Failed to start iptables.service: Unit iptables.service not found. The instanc",
+   "image": null
+  },
+  {
+   "title": "OmniSRE: Closed-Loop AI Observability and Autonomous Self-Healing",
+   "link": "https://dev.to/rahulchandra2004/omnisre-closed-loop-ai-observability-and-autonomous-self-healing-1lf4",
+   "date": "2026-07-25T07:15:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How I Built an Autonomous AI SRE Agent with SigNoz (and the Telegram Kill Switch That Keeps It Safe) Track 01: AI & Agent Observability | WeMakeDevs x Agents of SigNoz Hackathon It was late at night, and I was watching m",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fngnjtpeil0h672idg3d8.png"
+  },
+  {
+   "title": "Analyzing Moonshot AI's Kimi K3: What a 2.8-Trillion Parameter Open-Weights Model Means for Your Infrastructure",
+   "link": "https://dev.to/isuvo/analyzing-moonshot-ais-kimi-k3-what-a-28-trillion-parameter-open-weights-model-means-for-your-5dj0",
+   "date": "2026-07-25T07:15:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On July 17, 2026, Moonshot AI announced Kimi K3, a flagship model boasting 2.8 trillion parameters, with a commitment to release its open weights by July 27, 2026. This move pushes open-weights architecture into a scale ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmauo6qn98gxx4yjvposc.jpg"
+  },
+  {
+   "title": "What Is Kubernetes? A Beginner's Guide",
+   "link": "https://dev.to/subha_74/what-is-kubernetes-a-beginners-guide-53bh",
+   "date": "2026-07-25T07:07:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Modern applications need to be fast, reliable, and capable of serving millions of users simultaneously. Whether it's a video streaming platform, an e-commerce website, a banking application, or a social media platform, b",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqpbx7tkim88qvb02kza0.png"
+  },
+  {
+   "title": "Fix nginx-proxy SSL Certs Not Issuing in Docker Compose",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-nginx-proxy-ssl-certs-not-issuing-in-docker-compose-i0n",
+   "date": "2026-07-25T07:02:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud Your app is up, DNS resolves, and yet the browser throws NET::ERR_CERT_AUTHORITY_INVALID instead of a green padlock. This is the single most common failure mode when running nginx-p",
+   "image": null
+  },
+  {
+   "title": "Which AI Certifications Provide the Highest Career Value for Professionals?",
+   "link": "https://dev.to/ailearning/which-ai-certifications-provide-the-highest-career-value-for-professionals-1ng3",
+   "date": "2026-07-25T07:00:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Artificial Intelligence (AI) has become one of the most valuable skills in today's job market. From software development and finance to healthcare and marketing, organizations are investing heavily in AI technologies and",
+   "image": null
+  },
+  {
+   "title": "🌐 Understanding TCP Flow: From Handshake to Data Transfer",
+   "link": "https://dev.to/nagesh_k_2003/understanding-tcp-flow-from-handshake-to-data-transfer-201n",
+   "date": "2026-07-25T06:40:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When you type a URL like https://youtube.com into Chrome, a fascinating sequence of events unfolds behind the scenes. Let’s break it down step by step. Chrome tells the operating system: “I want to connect to YouTube on ",
+   "image": null
+  },
+  {
+   "title": "Linux File Permissions Explained: Read, Write, and Change Permissions",
+   "link": "https://dev.to/serveravatar/linux-file-permissions-explained-read-write-and-change-permissions-3ble",
+   "date": "2026-07-25T06:28:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Linux file permissions are one of the first concepts every Linux user and system administrator needs to master. Every sysadmin has been burned by a permissions mistake at least once. Uploaded a script that won’t run. Mov",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fenzgq37s2di69m2sxy0h.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: full_page_writes",
+   "link": "https://postgr.es/p/9qq",
+   "date": "2026-07-25T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Why PostgreSQL logs entire pages after crashes and why turning it off is riskier than it sounds.",
+   "image": null
+  },
+  {
+   "title": "Quoting Boris Cherny",
+   "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+   "date": "2026-07-25T00:42:59.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is ve",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Introducing the Drupal AI Security Initiative: The First Six Weeks",
+   "link": "https://www.drupal.org/association/blog/introducing-the-drupal-ai-security-initiative-the-first-six-weeks",
+   "date": "2026-07-24T23:55:38.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal's volunteer Security Team has protected millions of sites for more than 20 years and its process is world-class. Bandwidth among the security engineers has always been the limiting constraint. This spring that con",
+   "image": null
+  },
   {
    "title": "Introducing Claude Opus 5",
    "link": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
@@ -9,86 +119,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's des",
-   "image": null
-  },
-  {
-   "title": "Vulnerability Watch — 1 high-severity CVE (2026-07-24)",
-   "link": "https://dev.to/pkgdrift/vulnerability-watch-1-high-severity-cve-2026-07-24-fp4",
-   "date": "2026-07-24T23:03:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Automated vulnerability report from pkgdrift — real-time CVE intelligence across tracked open-source packages. CVE CVSS Severity Description CVE-2026-7574 8.7 HIGH Anthropic Claude Desktop Cowork VM image handling (confi",
-   "image": null
-  },
-  {
-   "title": "Deploying a Kubernetes Application on Azure Kubernetes Service (AKS): From Cluster Creation to Live Deployment",
-   "link": "https://dev.to/awokay/deploying-a-kubernetes-application-on-azure-kubernetes-service-aks-from-cluster-creation-to-live-3f97",
-   "date": "2026-07-24T22:21:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Step 1 — Create a Resource Group and Verify It Step 2 — Create the AKS Cluster Step 3 — Verify the Cluster and Get Credentials Step 4 — Confirm Node Connectivity g) Step 5 — Deploy the Application and Check Pods Step 6 —",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foq6gytgyyabjwdhc413u.png"
-  },
-  {
-   "title": "The Hardest Browser Tests Live Outside the Browser",
-   "link": "https://dev.to/randomsquirrel802/the-hardest-browser-tests-live-outside-the-browser-afi",
-   "date": "2026-07-24T22:11:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The easiest browser test is the one that never leaves the browser. Open a page. Click a button. Check a message. Real customer journeys are rarely that polite. A user signs up, receives an email, opens a verification lin",
-   "image": null
-  },
-  {
-   "title": "Your Test Suite Isn't Slow. It's Accumulating Decisions",
-   "link": "https://dev.to/mellowthunder735/your-test-suite-isnt-slow-its-accumulating-decisions-5080",
-   "date": "2026-07-24T22:09:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most browser test suites do not collapse in one dramatic moment. They get a little slower on Monday. A little noisier on Tuesday. Someone adds a retry on Wednesday. By Friday, the pipeline takes 28 minutes, three tests f",
-   "image": null
-  },
-  {
-   "title": "The Next SharePoint 9.8 Arrived in Eight Days - And It Was the Last One With a Patch",
-   "link": "https://dev.to/endoflifeai/the-next-sharepoint-98-arrived-in-eight-days-and-it-was-the-last-one-with-a-patch-3db0",
-   "date": "2026-07-24T22:09:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published at endoflife.ai. On July 14, 2026, two things happened to SharePoint Server 2016 and 2019 at once: they reached end of extended support, and they received their final security update. At the time, th",
-   "image": null
-  },
-  {
-   "title": "A PR review agent with 2 comments beats one with 20",
-   "link": "https://dev.to/stephanie_dover_b49c2e8d1/a-pr-review-agent-with-2-comments-beats-one-with-20-m2p",
-   "date": "2026-07-24T21:26:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A good review agent needs a bias toward silence, a validation pass against its own findings, a context budget, and a definition of \"correct\" that comes from the repo instead of from the industry. This walks through rules",
-   "image": null
-  },
-  {
-   "title": "I kept seeing weird stuff on my VPS, so I built a tool to stop guessing",
-   "link": "https://dev.to/salamancacm/i-kept-seeing-weird-stuff-on-my-vps-so-i-built-a-tool-to-stop-guessing-50cn",
-   "date": "2026-07-24T21:21:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A few weeks ago I noticed some things I couldn't explain on one of my VPS instances — nothing catastrophic, just enough \"that's not right\" to make me nervous. I went looking for a lightweight tool to audit and harden a f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2rtee18xdb90ilfdpqhs.gif"
-  },
-  {
-   "title": "My idle ClickHouse was merging 11 million rows every 30 seconds",
-   "link": "https://dev.to/otezvikentiy/my-idle-clickhouse-was-merging-11-million-rows-every-30-seconds-2d4i",
-   "date": "2026-07-24T21:12:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I run a small self-hosted observability tool on the cheapest VPS I could find on purpose: 2 cores, 2 GB RAM, 20 GB SATA SSD. It ingests errors, traces and metrics from two low-traffic sites of mine. The stack is three co",
    "image": null
   },
   {
@@ -279,16 +309,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "A developer I work with sent this skill over recently, asking whether it was worth adopting across the agency's client projects (an additional pass before publication under a client's name). That's a fair question to ask",
-   "image": null
-  },
-  {
-   "title": "MidCamp - Midwest Drupal Camp: Last Chance: MidCamp 2026 Call for Sessions Extended to March 13",
-   "link": "https://www.midcamp.org/events/2026/news/last-chance-midcamp-2026-call-sessions-extended-march-13",
-   "date": "2026-07-24T01:40:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We heard you... and we want to hear from more of you! The MidCamp 2026 Call for Sessions has been extended. The new deadline is March 13, 2026. If you had a session idea brewing but didn't quite get it across the finish ",
    "image": null
   },
   {
@@ -512,16 +532,6 @@
    "image": null
   },
   {
-   "title": "California Sea Lion",
-   "link": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
-   "date": "2026-07-21T19:51:03.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "California Sea Lion, in San Francisco County, US, CA We took some visiting family to Pier 39 to see the sea lions. They're somehow always even more fun than I remember them being last time. Tags: san-francisco , wildlife",
-   "image": null
-  },
-  {
    "title": "Fragments: July 21",
    "link": "https://martinfowler.com/fragments/2026-07-21.html",
    "date": "2026-07-21T13:13:00.000Z",
@@ -560,16 +570,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Building the OAPE PostgreSQL Certification I’m one of the founders of the Open Alliance for PostgreSQL Education (OAPE). Over the past two years, I’ve had a front-row seat to watching an idea become a community, and a co",
    "image": "https://cdn-images-1.medium.com/max/1024/1*4xUqBzp_E_psZ2Ur9srt8g.png"
-  },
-  {
-   "title": "Floor Drees: Big Apple, Big PostgreSQL: EDB at Postgres Summit US 2026",
-   "link": "https://postgr.es/p/9qk",
-   "date": "2026-07-21T08:28:59.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres Summit US 2026 (formerly: PGConf NYC) will take place September 30 - October 2, at Convene, in New York. EDB is joining the event as a sponsor at the Gold-level. Our team of Postgres experts, core contributors, ",
-   "image": null
   },
   {
    "title": "Grabette: an open system to record robot-manipulation data",
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a63f4ba908d4748516878/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a646542a94ec829426440/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
