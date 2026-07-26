@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-07-26T07:45:05.792Z",
+ "generatedAt": "2026-07-26T12:13:57.514Z",
  "articles": [
   {
-   "title": "Effective Metrics and Alerts",
-   "link": "https://dev.to/prazian/effective-metrics-and-alerts-2070",
-   "date": "2026-07-26T07:30:45.000Z",
+   "title": "DevOps: More Than Just Tools",
+   "link": "https://dev.to/fabiosarmento/devops-more-than-just-tools-b84",
+   "date": "2026-07-26T12:01:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Monitoring your system effectively is crucial for maintaining performance and user satisfaction. Two popular methodologies for choosing what to measure and monitor are the USE Method and the RED Method. Let's break down ",
+   "summary": "DevOps isn't about the latest tools; it’s about collaboration and culture. Foster communication between teams, and you'll see real progress in delivery speed!",
    "image": null
   },
   {
-   "title": "Hacker News + Reddit r/kubernetes (the compose-as-anti-pattern claim is the debate magnet that earns comments)",
-   "link": "https://dev.to/mikhail_dorokhovich_0c532/hacker-news-reddit-rkubernetes-the-compose-as-anti-pattern-claim-is-the-debate-magnet-that-2ic5",
-   "date": "2026-07-26T07:19:05.000Z",
+   "title": "Linux Command Line Tricks Every Developer Must Know",
+   "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-1o5k",
+   "date": "2026-07-26T12:00:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "docker-compose is not a production stand-in — and here's the receipt Chapter 2 of a local-Kubernetes series. The thesis is opinionated on purpose: a production-like local environment is not one where everything is like p",
+   "summary": "Linux Command Line Tricks Every Developer Must Know tags: linux, terminal, productivity, devops As a developer, you're likely no stranger to the Linux command line. You've probably used it to navigate directories, manage",
    "image": null
   },
   {
-   "title": "Mitigating Zero-Day Vulnerabilities: Architectural Patterns for Engineering Leaders",
-   "link": "https://dev.to/isuvo/mitigating-zero-day-vulnerabilities-architectural-patterns-for-engineering-leaders-57a",
-   "date": "2026-07-26T07:15:01.000Z",
+   "title": "Automated Regression Testing: The Complete 2026 Guide",
+   "link": "https://dev.to/aegis_runner_1fe3db6ef2bd/automated-regression-testing-the-complete-2026-guide-4538",
+   "date": "2026-07-26T11:48:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction As engineering leaders, we are constantly balancing the velocity of feature delivery against the hardening of our production systems. The recent batch of cybersecurity advisories from CISA, alongside updated",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1i27svisqm3gw6l3y8ay.jpg"
-  },
-  {
-   "title": "A Browser Click Is Not Proof: Verifying That Web Apps Actually Work",
-   "link": "https://dev.to/realdone/a-browser-click-is-not-proof-verifying-that-web-apps-actually-work-1lcp",
-   "date": "2026-07-26T07:08:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A web app can look finished while its most important actions do nothing durable. RealDone is not a Save-button checker. It discovers user-reachable actions across the app—including create, edit, delete, button clicks, fo",
+   "summary": "Every team I've talked to hits the same wall. You ship daily. Your QA checklist has 80 items. Nobody has time to run them all. You skip a few. Then you skip more. Then production breaks because a form you forgot to check",
    "image": null
   },
   {
-   "title": "Fixing n8n Bedrock Automation: Throttling, Duplicates, Cost Blowouts",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts-3n74",
-   "date": "2026-07-26T07:01:46.000Z",
+   "title": "Why Every Developer Feels Like a Fraud (And Why It Never Fully Goes Away)",
+   "link": "https://dev.to/chesea_dev/why-every-developer-feels-like-a-fraud-and-why-it-never-fully-goes-away-5ge7",
+   "date": "2026-07-26T11:31:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Your n8n Bedrock automation pipeline works fine in testing. You trigger it manually, watch the Claude response come back in two seconds, ship the demo to your team. Then it goes liv",
+   "summary": "I don't know if this is a tech thing or just a life thing. But wherever you're learning something, whatever it is, there's this quiet feeling that follows you: \"I'm probably not enough.\" I've been learning web developmen",
    "image": null
   },
   {
-   "title": "500 Blog Posts To Learn About Devops",
-   "link": "https://dev.to/learn_repo/500-blog-posts-to-learn-about-devops-56h0",
-   "date": "2026-07-26T07:00:32.000Z",
+   "title": "Deploy a SonicJS CMS to Cloudflare Workers with GitHub Actions - Part 2",
+   "link": "https://dev.to/infinitezone/deploy-a-sonicjs-cms-to-cloudflare-workers-with-github-actions-1gie",
+   "date": "2026-07-26T11:30:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Let's learn about Devops via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. How Devs from Ve",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkxcubveccptijrghrfvd.png"
+   "summary": "This post covers production bindings, secrets, migrate-before-deploy, and a GitHub Actions workflow that typechecks, migrates D1, deploys the Worker, and smoke-checks /health. A SonicJS project that already runs locally ",
+   "image": null
   },
   {
-   "title": "Azure Management Tasks Part 5: Keeping an Azure Environment Organized and Protected.",
-   "link": "https://dev.to/smayowa10/azure-management-tasks-part-5-keeping-an-azure-environment-organized-and-protected-4k8c",
-   "date": "2026-07-26T06:07:10.000Z",
+   "title": "Designing a Scalable Release System for Multi-Package TypeScript Monorepos",
+   "link": "https://dev.to/__whyd_rf/building-a-production-ready-release-pipeline-for-multi-package-typescript-monorepos-1ohm",
+   "date": "2026-07-26T11:24:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "INTRODUCTION Everything built so far actually works, the VM is on the right network, the storage account holds real files with real access controls. But none of it is labeled, and none of it is protected from a stray cli",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2levmwchngpufur459c.png"
+   "summary": "If you maintain more than one npm package in a single repository, you've probably felt the pain of release day. Bumping versions manually, publishing in the right order, hoping you didn't forget a step. Multiply that by ",
+   "image": null
   },
   {
-   "title": "\"Our emails are going to spam\" — a sysadmin's triage order",
-   "link": "https://dev.to/cannypigeons-pc/our-emails-are-going-to-spam-a-sysadmins-triage-order-55ij",
-   "date": "2026-07-26T05:39:17.000Z",
+   "title": "Run Ledgers Make Cron Jobs Trustworthy",
+   "link": "https://dev.to/mrdapperx/run-ledgers-make-cron-jobs-trustworthy-59ff",
+   "date": "2026-07-26T11:24:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The ticket says \"our emails are going to spam.\" It is one of the least actionable reports you will ever receive, because \"spam\" is the observable symptom of at least three unrelated failures, and the fix for one does not",
+   "summary": "I like cron jobs that do one thing well and leave behind enough context that I can trust the result later. That sounds obvious, but a lot of automation still behaves like a magic trick: the script runs, a side effect hap",
+   "image": null
+  },
+  {
+   "title": "Three breaches, three providers, one misconfigured DNS record",
+   "link": "https://dev.to/bala_paranj_059d338e44e7e/three-breaches-three-providers-one-misconfigured-dns-record-56lh",
+   "date": "2026-07-26T11:23:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. A subdomain takeover doesn't require exploiting a vulnerability. No buffer overflow, injection or zero-day. The attacker looks at a DNS record, checks w",
+   "image": null
+  },
+  {
+   "title": "Andrei Lepikhov: Why your pioneering Postgres feature should start in a fork",
+   "link": "https://postgr.es/p/9qt",
+   "date": "2026-07-26T08:58:27.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "At a Postgres meetup in Melbourne, I finally got a straight answer to a question that had nagged me for quite a long time: why do people actually choose Postgres? It isn't an idle question for me — I spend my days readin",
+   "image": "https://substackcdn.com/image/fetch/$s_!-4bB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ece504f-b088-4f41-8dca-d8a0bd40f397_800x500.svg"
+  },
+  {
+   "title": "A Week of Symfony #1021 (July 20–26, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1021-july-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-26T07:50:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony development activity was very intense and focused mostly on bug fixes. In addition, we added support for the upcoming Twig 4.0 version and fixed some issues related to changes in the upcoming PHP 8.6 v",
    "image": null
   },
   {
@@ -492,16 +512,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
-   "title": "Ahsan Hadi: Hybrid Search in PostgreSQL: BM25, Sparse Vectors, and Reciprocal Rank Fusion",
-   "link": "https://postgr.es/p/9qm",
-   "date": "2026-07-22T11:19:03.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "In my previous blog on the pgEdge Vectorizer and RAG Server, I showed how to build a semantic search pipeline using dense vector embeddings. The RAG Server already did hybrid search, combining vector similarity with BM25",
-   "image": null
-  },
-  {
    "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
    "link": "https://www.percona.com/blog/migrate-mysql-galera-cluster-to-percona-xtradb-cluster/",
    "date": "2026-07-22T09:56:28.000Z",
@@ -738,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a65a7220b7b8092872211/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a65dfe34aee1129438027/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -989,16 +999,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Last week, Thoughtworks ran a second Future of Software Development Retreat, this time in Europe. As with the previous event, I’ll be sharing some fragmentary thoughts on this. There were five parallel streams, so I coul",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1018 (June 29 – July 5, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1018-june-29-july-5-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-05T07:18:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony released Twig 3.28.0, with improvements to macros and the sandbox. In addition, we published a case study on using Symfony in the industrial sector. Lastly, we proposed a redesign of the exception page",
    "image": null
   },
   {
