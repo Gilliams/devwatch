@@ -1,54 +1,104 @@
 {
- "generatedAt": "2026-07-26T00:10:30.762Z",
+ "generatedAt": "2026-07-26T07:45:05.792Z",
  "articles": [
   {
-   "title": "Optimizing My Django Food Blog: Performance, SEO & Better Error Pages",
-   "link": "https://dev.to/cyberb0x/optimizing-my-django-food-blog-performance-seo-better-error-pages-178k",
-   "date": "2026-07-26T00:05:36.000Z",
+   "title": "Effective Metrics and Alerts",
+   "link": "https://dev.to/prazian/effective-metrics-and-alerts-2070",
+   "date": "2026-07-26T07:30:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Today's development session was focused on making my Django Food Blog faster, more search-engine friendly, and more resilient. Rather than introducing a new feature, I concentrated on the improvements that help create a ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0d45rdwep7inl4wp76m7.jpeg"
-  },
-  {
-   "title": "I built a discovery layer for AI agents because mine kept getting lost",
-   "link": "https://dev.to/mkk2026/i-built-a-discovery-layer-for-ai-agents-because-mine-kept-getting-lost-5bjo",
-   "date": "2026-07-25T23:54:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Everyone's building AI agents right now. Almost nobody's building the boring layer underneath them: how do agents find each other? I hit this in my own stack. I run a few MCP servers one for search, one for my database, ",
+   "summary": "Monitoring your system effectively is crucial for maintaining performance and user satisfaction. Two popular methodologies for choosing what to measure and monitor are the USE Method and the RED Method. Let's break down ",
    "image": null
   },
   {
-   "title": "Field Test Reports #44 & #45 Two NVIDIA NemoClaw PRs opened and Merged Upstream",
-   "link": "https://dev.to/scarab-systems/field-test-reports-44-45-two-nvidia-nemoclaw-prs-opened-and-merged-upstream-18d6",
-   "date": "2026-07-25T23:07:46.000Z",
+   "title": "Hacker News + Reddit r/kubernetes (the compose-as-anti-pattern claim is the debate magnet that earns comments)",
+   "link": "https://dev.to/mikhail_dorokhovich_0c532/hacker-news-reddit-rkubernetes-the-compose-as-anti-pattern-claim-is-the-debate-magnet-that-2ic5",
+   "date": "2026-07-26T07:19:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Target: NVIDIA/NemoClaw Field reports: #44 and #45 Pull requests: #7254 #7406 Result: both upstream accepted and merged This field note covers two Scarab-originated patches accepted upstream in NVIDIA NemoClaw. There wer",
+   "summary": "docker-compose is not a production stand-in — and here's the receipt Chapter 2 of a local-Kubernetes series. The thesis is opinionated on purpose: a production-like local environment is not one where everything is like p",
    "image": null
   },
   {
-   "title": "Deployment of Python Bot on Koyeb and Heroku using StayPresent",
-   "link": "https://dev.to/john_wick_47/deployment-of-python-bot-on-koyeb-and-heroku-using-staypresent-4gd7",
-   "date": "2026-07-25T22:50:23.000Z",
+   "title": "Mitigating Zero-Day Vulnerabilities: Architectural Patterns for Engineering Leaders",
+   "link": "https://dev.to/isuvo/mitigating-zero-day-vulnerabilities-architectural-patterns-for-engineering-leaders-57a",
+   "date": "2026-07-26T07:15:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deploying Python Bots to Koyeb and Heroku with StayPresent Render and Railway tend to dominate the conversation around free Python bot hosting, but Koyeb and Heroku are both still widely used, and both come with their ow",
+   "summary": "Introduction As engineering leaders, we are constantly balancing the velocity of feature delivery against the hardening of our production systems. The recent batch of cybersecurity advisories from CISA, alongside updated",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1i27svisqm3gw6l3y8ay.jpg"
+  },
+  {
+   "title": "A Browser Click Is Not Proof: Verifying That Web Apps Actually Work",
+   "link": "https://dev.to/realdone/a-browser-click-is-not-proof-verifying-that-web-apps-actually-work-1lcp",
+   "date": "2026-07-26T07:08:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A web app can look finished while its most important actions do nothing durable. RealDone is not a Save-button checker. It discovers user-reachable actions across the app—including create, edit, delete, button clicks, fo",
    "image": null
   },
   {
-   "title": "Running Python Bot on Docker and VPS with StayPresent",
-   "link": "https://dev.to/john_wick_47/running-python-bot-on-docker-and-vps-with-staypresent-jpj",
-   "date": "2026-07-25T22:49:14.000Z",
+   "title": "Fixing n8n Bedrock Automation: Throttling, Duplicates, Cost Blowouts",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fixing-n8n-bedrock-automation-throttling-duplicates-cost-blowouts-3n74",
+   "date": "2026-07-26T07:01:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deploying Python Bots on Docker and a VPS with StayPresent Not every bot lives on a managed PaaS. Plenty of developers run their python bot docker deployment on their own infrastructure — a VPS, a home server, a Kubernet",
+   "summary": "Originally published on kuryzhev.cloud Your n8n Bedrock automation pipeline works fine in testing. You trigger it manually, watch the Claude response come back in two seconds, ship the demo to your team. Then it goes liv",
+   "image": null
+  },
+  {
+   "title": "500 Blog Posts To Learn About Devops",
+   "link": "https://dev.to/learn_repo/500-blog-posts-to-learn-about-devops-56h0",
+   "date": "2026-07-26T07:00:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Let's learn about Devops via these 500 free blog posts. They are ordered by HackerNoon reader engagement data. Visit the Learn Repo or LearnRepo.com to find the most read blog posts about any technology. How Devs from Ve",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkxcubveccptijrghrfvd.png"
+  },
+  {
+   "title": "Azure Management Tasks Part 5: Keeping an Azure Environment Organized and Protected.",
+   "link": "https://dev.to/smayowa10/azure-management-tasks-part-5-keeping-an-azure-environment-organized-and-protected-4k8c",
+   "date": "2026-07-26T06:07:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "INTRODUCTION Everything built so far actually works, the VM is on the right network, the storage account holds real files with real access controls. But none of it is labeled, and none of it is protected from a stray cli",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv2levmwchngpufur459c.png"
+  },
+  {
+   "title": "\"Our emails are going to spam\" — a sysadmin's triage order",
+   "link": "https://dev.to/cannypigeons-pc/our-emails-are-going-to-spam-a-sysadmins-triage-order-55ij",
+   "date": "2026-07-26T05:39:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The ticket says \"our emails are going to spam.\" It is one of the least actionable reports you will ever receive, because \"spam\" is the observable symptom of at least three unrelated failures, and the fix for one does not",
+   "image": null
+  },
+  {
+   "title": "Bruce Momjian: Postgres AI Workshop",
+   "link": "https://postgr.es/p/9qs",
+   "date": "2026-07-26T03:15:01.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "AWS was kind enough to organize an AI workshop this week in Pittsburgh for their employees, and the Postgres committers and core team. The first day covered the basics of setting up Claude and specifically how to use it ",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: The geqo Family",
+   "link": "https://postgr.es/p/9qr",
+   "date": "2026-07-26T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's genetic query optimizer has seven knobs, but you should probably only touch one. Learn which one, and why the others are best left alone.",
    "image": null
   },
   {
@@ -60,36 +110,6 @@
    "source": "Simon Willison",
    "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my",
    "image": null
-  },
-  {
-   "title": "How I set up containerized dev environments you can spin up in seconds for Antigravity CLI",
-   "link": "https://dev.to/ykdap/how-i-set-up-containerized-dev-environments-you-can-spin-up-in-seconds-for-antigravity-cli-45lp",
-   "date": "2026-07-25T22:42:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "tl;dr: I set up a way to spin up containerized dev environments for AI agents with limited, controlled access. They only get the credentials and network access they need, so they can keep working without asking for permi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F86wx9kjxnc1zx8yk8jzm.png"
-  },
-  {
-   "title": "Why your n8n workflow can lose items and still show a green checkmark",
-   "link": "https://dev.to/marcelo_lang_4be7da2e0bee/why-your-n8n-workflow-can-lose-items-and-still-show-a-green-checkmark-1adh",
-   "date": "2026-07-25T22:31:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent a while chasing a bug where a scheduled n8n workflow was dropping items — not crashing, not erroring in a way I noticed, just… quietly not processing some of them. The execution list looked healthy. Re-running di",
-   "image": null
-  },
-  {
-   "title": "AI SRE Agents on SigNoz MCP: Root-Cause Analysis for $0.0013",
-   "link": "https://dev.to/harjapan_2005/ai-sre-agents-on-signoz-mcp-root-cause-analysis-for-00013-4ne2",
-   "date": "2026-07-25T21:25:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🏆 Built for the WeMakeDevs × Agents of SigNoz Hackathon 2026 · GitHub: github.com/HARJAPAN2005/MIB-Men-in-Backend Demo: https://youtu.be/sMqGD6IibTI Hackathon: wemakedevs.org/hackathons/signoz How we built a reactive + ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0zz9z6ql9xe2r9asd8sm.png"
   },
   {
    "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
@@ -492,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: file_extend_method",
-   "link": "https://postgr.es/p/9qd",
-   "date": "2026-07-22T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "file_extend_method is an escape hatch wearing the costume of a tuning knob. It exists for one purpose: to let you turn off a PostgreSQL 16 optimization on the filesystems where that optimization turned out to misbehave. ",
-   "image": null
-  },
-  {
    "title": "RouteKey Model Attribute in Laravel 13.21",
    "link": "https://laravel-news.com/laravel-13-21-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-22T00:08:43.000Z",
@@ -560,16 +570,6 @@
    "source": "CSS-Tricks",
    "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
    "image": null
-  },
-  {
-   "title": "Cornelia Biacsics: Building The OAPE PostgreSQL Certification",
-   "link": "https://postgr.es/p/9q7",
-   "date": "2026-07-21T08:33:25.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Building the OAPE PostgreSQL Certification I’m one of the founders of the Open Alliance for PostgreSQL Education (OAPE). Over the past two years, I’ve had a front-row seat to watching an idea become a community, and a co",
-   "image": "https://cdn-images-1.medium.com/max/1024/1*4xUqBzp_E_psZ2Ur9srt8g.png"
   },
   {
    "title": "Grabette: an open system to record robot-manipulation data",
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a654f2d2199b152682138/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a65a7220b7b8092872211/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
