@@ -1,84 +1,84 @@
 {
- "generatedAt": "2026-07-26T12:13:57.514Z",
+ "generatedAt": "2026-07-26T18:10:38.288Z",
  "articles": [
   {
-   "title": "DevOps: More Than Just Tools",
-   "link": "https://dev.to/fabiosarmento/devops-more-than-just-tools-b84",
-   "date": "2026-07-26T12:01:14.000Z",
+   "title": "GitHub Actions: Automate Your Workflow Like a Pro",
+   "link": "https://dev.to/qingluan/github-actions-automate-your-workflow-like-a-pro-2821",
+   "date": "2026-07-26T18:01:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DevOps isn't about the latest tools; it’s about collaboration and culture. Foster communication between teams, and you'll see real progress in delivery speed!",
+   "summary": "GitHub Actions: Automate Your Workflow Like a Pro tags: github, automation, devops, tutorial tags: github, automation, devops, tutorial tags: github, automation, devops, tutorial Imagine waking up every morning to find t",
    "image": null
   },
   {
-   "title": "Linux Command Line Tricks Every Developer Must Know",
-   "link": "https://dev.to/qingluan/linux-command-line-tricks-every-developer-must-know-1o5k",
-   "date": "2026-07-26T12:00:53.000Z",
+   "title": "Managing Test Cases Doesn't Answer the Real Question",
+   "link": "https://dev.to/srinathy/managing-test-cases-doesnt-answer-the-real-question-nho",
+   "date": "2026-07-26T17:57:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Linux Command Line Tricks Every Developer Must Know tags: linux, terminal, productivity, devops As a developer, you're likely no stranger to the Linux command line. You've probably used it to navigate directories, manage",
+   "summary": "Open any modern test management tool and the feature list is genuinely impressive: AI that drafts test cases, automation hooks, requirements and traceability, dashboards, analytics, integrations with everything you alrea",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkkny95rtaiigjzmuhk4u.png"
+  },
+  {
+   "title": "Pre-Action Gates for AI Agents: A Practical Enforcement Contract",
+   "link": "https://dev.to/igorganapolsky/pre-action-gates-for-ai-agents-a-practical-enforcement-contract-1bj",
+   "date": "2026-07-26T17:48:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most agent stacks can tell you what happened after a tool call. Fewer can stop a dangerous call before it executes. That distinction matters once an AI agent can run shell commands, edit files, operate a browser, trigger",
    "image": null
   },
   {
-   "title": "Automated Regression Testing: The Complete 2026 Guide",
-   "link": "https://dev.to/aegis_runner_1fe3db6ef2bd/automated-regression-testing-the-complete-2026-guide-4538",
-   "date": "2026-07-26T11:48:39.000Z",
+   "title": "I Built an AI Agent That Watches Itself and Heals Itself - Here's How",
+   "link": "https://dev.to/debjyoti_dc3dfa6aac6/i-built-an-ai-agent-that-watches-itself-and-heals-itself-heres-how-19je",
+   "date": "2026-07-26T17:24:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every team I've talked to hits the same wall. You ship daily. Your QA checklist has 80 items. Nobody has time to run them all. You skip a few. Then you skip more. Then production breaks because a form you forgot to check",
+   "summary": "I've been doing DevOps long enough to know that the scariest production failures are not the ones that crash everything. They are the quiet ones. Latency creeping up. Error rates ticking higher. Costs climbing while your",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr70affhqb7kj0bge3n33.png"
+  },
+  {
+   "title": "tfdrift Now Supports Microsoft Teams and OpsGenie Alerts",
+   "link": "https://dev.to/sudarshan_thakur_1e141b99/tfdrift-now-supports-microsoft-teams-and-opsgenie-alerts-2jck",
+   "date": "2026-07-26T17:12:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "tfdrift Now Supports Microsoft Teams and OpsGenie Alerts Quick update on tfdrift — the open-source Terraform drift detection CLI. The most common feedback I've been getting since the Terraform Weekly feature: \"We don't u",
    "image": null
   },
   {
-   "title": "Why Every Developer Feels Like a Fraud (And Why It Never Fully Goes Away)",
-   "link": "https://dev.to/chesea_dev/why-every-developer-feels-like-a-fraud-and-why-it-never-fully-goes-away-5ge7",
-   "date": "2026-07-26T11:31:43.000Z",
+   "title": "Gemini 3.6 Flash vs Claude Opus 5: Production Routing Guide",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/gemini-36-flash-vs-claude-opus-5-production-routing-guide-1o7c",
+   "date": "2026-07-26T17:11:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I don't know if this is a tech thing or just a life thing. But wherever you're learning something, whatever it is, there's this quiet feeling that follows you: \"I'm probably not enough.\" I've been learning web developmen",
+   "summary": "Gemini 3.6 Flash shipped on July 21, 2026; Claude Opus 5 followed on July 24. Three days apart does not make them interchangeable. For developers, the useful comparison is a routing decision: which task gets which model,",
    "image": null
   },
   {
-   "title": "Deploy a SonicJS CMS to Cloudflare Workers with GitHub Actions - Part 2",
-   "link": "https://dev.to/infinitezone/deploy-a-sonicjs-cms-to-cloudflare-workers-with-github-actions-1gie",
-   "date": "2026-07-26T11:30:25.000Z",
+   "title": "Openship: Your Deployment Tool Shouldn't Compete With Your App for RAM",
+   "link": "https://dev.to/arshtechpro/openship-your-deployment-tool-shouldnt-compete-with-your-app-for-ram-5a4k",
+   "date": "2026-07-26T16:59:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This post covers production bindings, secrets, migrate-before-deploy, and a GitHub Actions workflow that typechecks, migrates D1, deploys the Worker, and smoke-checks /health. A SonicJS project that already runs locally ",
+   "summary": "The self-hosted PaaS drawer is not empty. Coolify, Dokploy, CapRover, Dokku, Kamal. If you have wanted a Heroku you actually own, someone has already built you three of them. So when Openship showed up in July 2026 and h",
    "image": null
   },
   {
-   "title": "Designing a Scalable Release System for Multi-Package TypeScript Monorepos",
-   "link": "https://dev.to/__whyd_rf/building-a-production-ready-release-pipeline-for-multi-package-typescript-monorepos-1ohm",
-   "date": "2026-07-26T11:24:15.000Z",
+   "title": "Linux Isn't Hard—You're Learning It the Wrong Way",
+   "link": "https://dev.to/asepsayyad007/linux-isnt-hard-youre-learning-it-the-wrong-way-4hoo",
+   "date": "2026-07-26T16:55:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you maintain more than one npm package in a single repository, you've probably felt the pain of release day. Bumping versions manually, publishing in the right order, hoping you didn't forget a step. Multiply that by ",
-   "image": null
-  },
-  {
-   "title": "Run Ledgers Make Cron Jobs Trustworthy",
-   "link": "https://dev.to/mrdapperx/run-ledgers-make-cron-jobs-trustworthy-59ff",
-   "date": "2026-07-26T11:24:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I like cron jobs that do one thing well and leave behind enough context that I can trust the result later. That sounds obvious, but a lot of automation still behaves like a magic trick: the script runs, a side effect hap",
-   "image": null
-  },
-  {
-   "title": "Three breaches, three providers, one misconfigured DNS record",
-   "link": "https://dev.to/bala_paranj_059d338e44e7e/three-breaches-three-providers-one-misconfigured-dns-record-56lh",
-   "date": "2026-07-26T11:23:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. A subdomain takeover doesn't require exploiting a vulnerability. No buffer overflow, injection or zero-day. The attacker looks at a DNS record, checks w",
+   "summary": "Stop memorizing commands. Start understanding concepts. Many people believe Linux is difficult because they begin by trying to The truth is simple: Linux isn't hard---you're probably learning it Whether you want to becom",
    "image": null
   },
   {
@@ -748,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a65dfe34aee1129438027/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6635d049fe3839868814/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
