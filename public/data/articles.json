@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-07-25T18:05:56.138Z",
+ "generatedAt": "2026-07-26T00:10:30.762Z",
  "articles": [
   {
-   "title": "The SSH Lockout That Made Me Close Port 22 For Good",
-   "link": "https://dev.to/hardil_singh_08a1f0abf23d/the-ssh-lockout-that-made-me-close-port-22-for-good-3cde",
-   "date": "2026-07-25T17:57:13.000Z",
+   "title": "Optimizing My Django Food Blog: Performance, SEO & Better Error Pages",
+   "link": "https://dev.to/cyberb0x/optimizing-my-django-food-blog-performance-seo-better-error-pages-178k",
+   "date": "2026-07-26T00:05:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I got locked out of my own production server. Not \"forgot the password\" locked out — both SSH and the hosting panel's browser console rejected me, on a box running several live apps, for hours. Here's what actually happe",
+   "summary": "Today's development session was focused on making my Django Food Blog faster, more search-engine friendly, and more resilient. Rather than introducing a new feature, I concentrated on the improvements that help create a ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0d45rdwep7inl4wp76m7.jpeg"
+  },
+  {
+   "title": "I built a discovery layer for AI agents because mine kept getting lost",
+   "link": "https://dev.to/mkk2026/i-built-a-discovery-layer-for-ai-agents-because-mine-kept-getting-lost-5bjo",
+   "date": "2026-07-25T23:54:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Everyone's building AI agents right now. Almost nobody's building the boring layer underneath them: how do agents find each other? I hit this in my own stack. I run a few MCP servers one for search, one for my database, ",
    "image": null
   },
   {
-   "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
-   "link": "https://dev.to/le_beltagy/i-run-bare-metal-kubernetes-on-200-of-scrap-hardware-and-why-i-burned-3-sd-cards-learning-34cb",
-   "date": "2026-07-25T17:55:01.000Z",
+   "title": "Field Test Reports #44 & #45 Two NVIDIA NemoClaw PRs opened and Merged Upstream",
+   "link": "https://dev.to/scarab-systems/field-test-reports-44-45-two-nvidia-nemoclaw-prs-opened-and-merged-upstream-18d6",
+   "date": "2026-07-25T23:07:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning) From a bricked Raspberry Pi to a 4-node Talos Linux cluster running Cilium eBPF, ArgoCD, and Longhorn — every failure, every fi",
+   "summary": "Target: NVIDIA/NemoClaw Field reports: #44 and #45 Pull requests: #7254 #7406 Result: both upstream accepted and merged This field note covers two Scarab-originated patches accepted upstream in NVIDIA NemoClaw. There wer",
    "image": null
   },
   {
-   "title": "LLM Cost Controls That Actually Work: Budgets, Rate Limits, and Per-Team Attribution",
-   "link": "https://dev.to/sahajmeet_kaur_/llm-cost-controls-that-actually-work-budgets-rate-limits-and-per-team-attribution-30c3",
-   "date": "2026-07-25T17:28:31.000Z",
+   "title": "Deployment of Python Bot on Koyeb and Heroku using StayPresent",
+   "link": "https://dev.to/john_wick_47/deployment-of-python-bot-on-koyeb-and-heroku-using-staypresent-4gd7",
+   "date": "2026-07-25T22:50:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The first sign something's wrong with LLM spend is usually a bill, three weeks after the damage is done. By then the agent that got stuck in a retry loop, or the prompt that kept growing every turn, has already run a tho",
+   "summary": "Deploying Python Bots to Koyeb and Heroku with StayPresent Render and Railway tend to dominate the conversation around free Python bot hosting, but Koyeb and Heroku are both still widely used, and both come with their ow",
    "image": null
   },
   {
-   "title": "The Enterprise WAF Monopoly is Dead: How We Shattered Layer-7 Security Pricing with C++/WASM",
-   "link": "https://dev.to/bangsaenai/the-enterprise-waf-monopoly-is-dead-how-we-shattered-layer-7-security-pricing-with-cwasm-12ng",
-   "date": "2026-07-25T17:05:06.000Z",
+   "title": "Running Python Bot on Docker and VPS with StayPresent",
+   "link": "https://dev.to/john_wick_47/running-python-bot-on-docker-and-vps-with-staypresent-jpj",
+   "date": "2026-07-25T22:49:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For years, giant cloud providers have held a dirty secret: Enterprise WAFs ($200–$1,000+/month) are priced high not because Edge compute is expensive, but because they know you can't build one yourself. If you run an e-c",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo5ykx9j5asphiurt4c0p.png"
-  },
-  {
-   "title": "Bare-Metal Kubernetes: What NKP Metal Gets Right",
-   "link": "https://dev.to/schiff_heimlich/bare-metal-kubernetes-what-nkp-metal-gets-right-28fm",
-   "date": "2026-07-25T17:04:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Bare-Metal Kubernetes: What NKP Metal Gets Right Here's something I ran into that might be worth a second look. Nutanix launched NKP Metal recently - basically their Kubernetes Platform extended to run directly on physic",
+   "summary": "Deploying Python Bots on Docker and a VPS with StayPresent Not every bot lives on a managed PaaS. Plenty of developers run their python bot docker deployment on their own infrastructure — a VPS, a home server, a Kubernet",
    "image": null
   },
   {
-   "title": "Your proxy connected. That doesn't mean it hid your IP.",
-   "link": "https://dev.to/roamproxy/your-proxy-connected-that-doesnt-mean-it-hid-your-ip-28e5",
-   "date": "2026-07-25T16:25:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every proxy checker I've come across answers one question: did the connection open? That's the least interesting thing about a proxy. A proxy can connect perfectly and still hand your real IP address to the destination s",
+   "title": "Ruff v0.16.0",
+   "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+   "date": "2026-07-25T22:44:05.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my",
    "image": null
   },
   {
-   "title": "Why Your CI Agent Can't Install pip",
-   "link": "https://dev.to/techwithhari/why-your-ci-agent-cant-install-pip-11if",
-   "date": "2026-07-25T16:06:39.000Z",
+   "title": "How I set up containerized dev environments you can spin up in seconds for Antigravity CLI",
+   "link": "https://dev.to/ykdap/how-i-set-up-containerized-dev-environments-you-can-spin-up-in-seconds-for-antigravity-cli-45lp",
+   "date": "2026-07-25T22:42:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you've ever set up a self-hosted CI/CD agent on a fresh Ubuntu image and hit pip: command not found or No module named pip, your first instinct is probably to check the network. Mine was too. That instinct is wrong, a",
+   "summary": "tl;dr: I set up a way to spin up containerized dev environments for AI agents with limited, controlled access. They only get the credentials and network access they need, so they can keep working without asking for permi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F86wx9kjxnc1zx8yk8jzm.png"
+  },
+  {
+   "title": "Why your n8n workflow can lose items and still show a green checkmark",
+   "link": "https://dev.to/marcelo_lang_4be7da2e0bee/why-your-n8n-workflow-can-lose-items-and-still-show-a-green-checkmark-1adh",
+   "date": "2026-07-25T22:31:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I spent a while chasing a bug where a scheduled n8n workflow was dropping items — not crashing, not erroring in a way I noticed, just… quietly not processing some of them. The execution list looked healthy. Re-running di",
    "image": null
   },
   {
-   "title": "Automating Web Regressions and Intel: How to Track DOM and Visual Changes Programmatically",
-   "link": "https://dev.to/codebass/automating-web-regressions-and-intel-how-to-track-dom-and-visual-changes-programmatically-55i",
-   "date": "2026-07-25T16:02:06.000Z",
+   "title": "AI SRE Agents on SigNoz MCP: Root-Cause Analysis for $0.0013",
+   "link": "https://dev.to/harjapan_2005/ai-sre-agents-on-signoz-mcp-root-cause-analysis-for-00013-4ne2",
+   "date": "2026-07-25T21:25:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Whether you are a developer preventing frontend UI regressions, a marketer monitoring competitor pricing strategies, or a DevOps engineer keeping tabs on external status dashboards, knowing when a webpage changes in real",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flmbh3zee60vea2ipnp6x.png"
+   "summary": "🏆 Built for the WeMakeDevs × Agents of SigNoz Hackathon 2026 · GitHub: github.com/HARJAPAN2005/MIB-Men-in-Backend Demo: https://youtu.be/sMqGD6IibTI Hackathon: wemakedevs.org/hackathons/signoz How we built a reactive + ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0zz9z6ql9xe2r9asd8sm.png"
+  },
+  {
+   "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+   "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+   "date": "2026-07-25T18:48:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
   },
   {
    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
@@ -240,16 +260,6 @@
    "source": "Planet PostgreSQL",
    "summary": "The autovacuum process has been dutifully tending Postgres tables since version 8.1, and almost every release since has acquired some new refinement: smarter thresholds, insert-aware triggering, resource cost limits, and",
    "image": null
-  },
-  {
-   "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-   "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-   "date": "2026-07-24T11:53:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg"
   },
   {
    "title": "The Drop Times: TDT Town Hall Links Newsroom Changes With Drupal’s Wider Future",
@@ -439,16 +449,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicy",
-   "image": null
-  },
-  {
-   "title": "Orchestrions",
-   "link": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
-   "date": "2026-07-22T14:48:52.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds",
    "image": null
   },
   {
@@ -738,7 +738,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a64f1ee57ed6780866613/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a654f2d2199b152682138/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
