@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-07-27T08:44:44.298Z",
+ "generatedAt": "2026-07-27T13:44:04.238Z",
  "articles": [
   {
-   "title": "Deploying Scheduled Python Scripts Using Systemd",
-   "link": "https://dev.to/chasebot/deploying-scheduled-python-scripts-using-systemd-23kb",
-   "date": "2026-07-27T08:01:10.000Z",
+   "title": "\"Run AI Credit Pools and Hard Limits From One Operations Dashboard\"",
+   "link": "https://dev.to/odd_background_328/run-ai-credit-pools-and-hard-limits-from-one-operations-dashboard-1bmf",
+   "date": "2026-07-27T13:38:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What You'll Need Before diving into setting up systemd timers, ensure you have the following prerequisites ready: A Linux server running Ubuntu 20.04/22.04 or Debian 11/12 (Deploy one on Hetzner VPS or Contabo VPS) Root ",
+   "summary": "At 09:10 the shared credit pool is 82% consumed, yet one repository shows no recent task outcomes. At 09:25 an unrelated API project reaches a hard spend threshold and calls may fail. A single “AI spend” gauge cannot tel",
    "image": null
   },
   {
-   "title": "Why Your AI Assistant Should Be Your First Security Reviewer",
-   "link": "https://dev.to/archantech/why-your-ai-assistant-should-be-your-first-security-reviewer-hk4",
-   "date": "2026-07-27T08:00:00.000Z",
+   "title": "We’re open sourcing our privacy proxy CLI",
+   "link": "https://dev.to/rasne/were-open-sourcing-our-privacy-proxy-cli-4pdd",
+   "date": "2026-07-27T13:30:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Sometimes the best way to learn is from mistakes - even when they are made by an AI. Last week, my AI assistant confidently refactored a function and broke three other modules in the process. Classic butterfly effect. Bu",
+   "summary": "Canonical: We’re open sourcing our privacy proxy CLI — read the full article on rasne.dev. pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP. Debugging privacy-preserving ",
    "image": null
   },
   {
-   "title": "Why SPF Breaks After Adding One More Email Provider",
-   "link": "https://dev.to/petr_michal_178dc4f87ad91/why-spf-breaks-after-adding-one-more-email-provider-1jle",
-   "date": "2026-07-27T07:43:47.000Z",
+   "title": "Your gRPC stream is \"healthy\" and serving nothing: synthetic monitoring for server-side streams",
+   "link": "https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn",
+   "date": "2026-07-27T13:26:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why SPF Breaks After Adding One More Email Provider Your SPF record may look valid and still produce a PermError. This often happens after connecting one more service: Google Workspace Microsoft 365 Mailchimp Zendesk a C",
+   "summary": "By Daniil Romashov — SRE/DevOps engineer. The tool described here is open source: github.com/youngpabl0/grpc-streams-checker (Apache-2.0). Uptime checks are a solved problem for request/response APIs: hit the endpoint, r",
    "image": null
   },
   {
-   "title": "100 Days of DevOps and Cloud (AWS), Day 18: MariaDB's Secure Install, and Why 'Read-Only' Needs More Than ec2:Describe",
-   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-18-mariadbs-secure-install-and-why-read-only-needs-3h93",
-   "date": "2026-07-27T07:34:20.000Z",
+   "title": "Hybride Contentbeheer: Hoe AI en menselijke controle zorgen voor 99%+ nauwkeurigheid",
+   "link": "https://dev.to/datamondial/hybride-contentbeheer-hoe-ai-en-menselijke-controle-zorgen-voor-99-nauwkeurigheid-1l05",
+   "date": "2026-07-27T13:25:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The most secure version of a fresh install is the one with its convenient defaults stripped back out. New database software ships open enough to get you started fast, which is exactly the state an attacker is hoping to f",
+   "summary": "Automatisering in data-entry klinkt als een geregelde zaak: sluit een RPA-script aan op je documentenstroom, laat het systeem velden extraheren, en de data stroomt je TMS of WMS in. Bij gestandaardiseerde invoer — denk a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4avbfktrxe54m6ikakgz.png"
+  },
+  {
+   "title": "The Role of Platform Engineering in a Startup",
+   "link": "https://dev.to/samson_tanimawo/the-role-of-platform-engineering-in-a-startup-28fi",
+   "date": "2026-07-27T13:23:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Platform engineering sounds like a big-company thing. But I think every startup past 20 engineers needs a small platform function. Here's why. At 5 engineers, everybody knows how to deploy. At 20, they don't. People star",
    "image": null
   },
   {
-   "title": "I Stopped Building Software First. I Started Solving Business Problems Instead.",
-   "link": "https://dev.to/sunie_mehta/i-stopped-building-software-first-i-started-solving-business-problems-instead-4dc1",
-   "date": "2026-07-27T07:27:42.000Z",
+   "title": "Agent Roundup, July 27 2026: GitHub Models Shuts Down in Three Days, and the Harness Is Doing More Work Than You Think",
+   "link": "https://dev.to/lucioliu/agent-roundup-july-27-2026-github-models-shuts-down-in-three-days-and-the-harness-is-doing-more-2g9a",
+   "date": "2026-07-27T13:19:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There was a time when every new project started with the same question: \"Which framework are we using?\" React, Next.js, Laravel, Node.js, Flutter—it felt like the technology stack was the most important decision. Over ti",
+   "summary": "I read agent news with one question: does this change what I should do this week? Two things clear that bar today. One of them has a three-day deadline attached. GitHub Models is being retired on July 30. The model catal",
    "image": null
   },
   {
-   "title": "Choosing between a VDS and a dedicated server for your next project?",
-   "link": "https://dev.to/onegbits/choosing-between-a-vds-and-a-dedicated-server-for-your-next-project-lk6",
-   "date": "2026-07-27T07:21:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Choosing between a VDS and a dedicated server for your next project? Quick tip: A VDS balances dedicated resources with flexibility, while a dedicated server provides full hardware control and maximum performance. Explor",
+   "title": "Between Print and Digital: The Making of MERSI’s Website",
+   "link": "https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/",
+   "date": "2026-07-27T13:18:10.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "FLOT NOIR reimagines MERSI’s digital presence as a quiet, immersive space between architectural print and interactive web, combining a tailored Webflow build with precise motion and editorial storytelling.",
    "image": null
   },
   {
-   "title": "The Algorithm Is the Last Decision You Make in Machine Learning",
-   "link": "https://dev.to/nishant_banginwar_80b7dc5/the-algorithm-is-the-last-decision-you-make-in-machine-learning-p0a",
-   "date": "2026-07-27T07:19:09.000Z",
+   "title": "Bridging the Gap Between Rapid Framework Adoption and Secure-by-Design Mandates",
+   "link": "https://dev.to/isuvo/bridging-the-gap-between-rapid-framework-adoption-and-secure-by-design-mandates-3jpd",
+   "date": "2026-07-27T13:15:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every delivery manager I've worked with runs a prediction model on Monday morning. It's called dread. Open the portfolio, scan 30 projects, and your gut sorts them: these five worry me, those twenty are fine, and that on",
+   "summary": "The Structural Tension of Modern Framework Adoption As an engineering leader, I find myself caught in a structural pincer movement. On one side, the relentless pace of application development demands that we rapidly adop",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5pqudyzwtw3frb15cofr.jpg"
+  },
+  {
+   "title": "Hole Punching Explained for Developers: STUN, ICE, and Why You Need a Relay",
+   "link": "https://dev.to/pstayet/hole-punching-explained-for-developers-stun-ice-and-why-you-need-a-relay-2c6h",
+   "date": "2026-07-27T13:08:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I spent last week trying to get two AI agents — one on a Linux box behind a home ISP and another on a cloud VM behind AWS NAT Gateway — to talk to each other without a central relay. No websocket server in the middle, no",
    "image": null
   },
   {
-   "title": "\"/usr/bin/env: 'python2': No such file or directory — Amazon Linux 2023 has no Python 2\"",
-   "link": "https://dev.to/ntoledo319/usrbinenv-python2-no-such-file-or-directory-amazon-linux-2023-has-no-python-2-5h8g",
-   "date": "2026-07-27T07:17:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You moved an instance, AMI, or launch template from Amazon Linux 2 to Amazon Linux 2023, and something that used to run cleanly now fails on first boot: /usr/bin/env: 'python2': No such file or directory Or, if the scrip",
+   "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+   "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+   "date": "2026-07-27T13:05:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg"
+  },
+  {
+   "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+   "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+   "date": "2026-07-27T12:37:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg"
+  },
+  {
+   "title": "UI Suite Initiative website: UI Suite Monthly #37 — A new look for Display Builder, and an archaeology site digs in",
+   "link": "https://uisuite.net/ui-suite-monthly-37-a-new-look-for-display-builder-and-an-archaeology-site-digs-in",
+   "date": "2026-07-27T12:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Our 37th monthly UI Suite meeting (July 23, 2026) opened with a small piece of housekeeping: our sessions had quietly drifted from 30 minutes to a full hour, so Pierre asked the group to bring them back to half an hour —",
    "image": null
+  },
+  {
+   "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+   "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+   "date": "2026-07-27T10:51:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
+  },
+  {
+   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+   "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+   "date": "2026-07-27T09:32:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+   "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+   "date": "2026-07-27T08:48:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
+  },
+  {
+   "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+   "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+   "date": "2026-07-27T08:01:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: gin_fuzzy_search_limit",
@@ -182,36 +262,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
   },
   {
-   "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-   "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-   "date": "2026-07-25T10:14:21.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised la",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
-  },
-  {
-   "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-   "date": "2026-07-25T10:14:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
-  },
-  {
-   "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-   "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-   "date": "2026-07-25T09:53:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: full_page_writes",
    "link": "https://postgr.es/p/9qq",
    "date": "2026-07-25T01:00:00.000Z",
@@ -260,26 +310,6 @@
    "source": "Drupal Planet",
    "summary": "Farriss says reserves are covering a gap in Drupal’s wider stewardship work, prompting proposals to expose programme costs and connect enterprise use with ongoing support.",
    "image": null
-  },
-  {
-   "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-   "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-   "date": "2026-07-24T15:12:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
-  },
-  {
-   "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-   "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-   "date": "2026-07-24T14:15:21.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg"
   },
   {
    "title": "The Art of Continuous Transformation: How Garden Eight Blends Integrity with Play",
@@ -369,16 +399,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "The Drupal AI module's Guardrails system runs configurable validation plugins both before a prompt is sent to an LLM and after a response is received. Guardrails can pass, block, or rewrite content, and can be combined i",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: A \"Humanizer\" Should Not Become a House Style Manual",
-   "link": "https://www.thedroptimes.com/open/71335/humanizer-ai-writing-house-style?utm_source=Drupal Planet",
-   "date": "2026-07-24T07:09:49.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A developer I work with sent this skill over recently, asking whether it was worth adopting across the agency's client projects (an additional pass before publication under a client's name). That's a fair question to ask",
    "image": null
   },
   {
@@ -540,16 +560,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​751 — July 22, 2026 | Read on the web ⚽️ Rebuilding FIFA's Standings Layout with CSS Subgrid — The World Cup is over now, but this is an interesting design problem worth unpicking and understanding. A",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w7lmj3n3wkn15p1x2tot.jpg"
-  },
-  {
-   "title": "The State of Simulation for Physical AI: An Overview",
-   "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-   "date": "2026-07-21T20:00:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "Fragments: July 21",
@@ -732,23 +742,13 @@
    "image": null
   },
   {
-   "title": "The Architecture Behind Trionn: Coordinating GSAP, Three.js, Lenis, and Web Audio",
-   "link": "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/",
-   "date": "2026-07-15T14:33:53.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A behind-the-scenes look at how multiple animation, rendering, and interaction layers were unified into one performant web experience.",
-   "image": null
-  },
-  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67115acb1ff546624877/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a675ce460f63820153486/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
