@@ -1,64 +1,124 @@
 {
- "generatedAt": "2026-07-27T13:44:04.238Z",
+ "generatedAt": "2026-07-27T18:44:46.146Z",
  "articles": [
   {
-   "title": "\"Run AI Credit Pools and Hard Limits From One Operations Dashboard\"",
-   "link": "https://dev.to/odd_background_328/run-ai-credit-pools-and-hard-limits-from-one-operations-dashboard-1bmf",
-   "date": "2026-07-27T13:38:55.000Z",
+   "title": "Fix Line-by-Line Text File Diffs Without GUIs or APIs",
+   "link": "https://dev.to/intellitools/fix-line-by-line-text-file-diffs-without-guis-or-apis-5k8",
+   "date": "2026-07-27T18:08:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 09:10 the shared credit pool is 82% consumed, yet one repository shows no recent task outcomes. At 09:25 an unrelated API project reaches a hard spend threshold and calls may fail. A single “AI spend” gauge cannot tel",
+   "summary": "When working with text files in a CI/CD pipeline or version control system, the need to compare files line by line is common. Whether you're auditing changes in a config file, tracking updates in a JSON log, or validatin",
    "image": null
   },
   {
-   "title": "We’re open sourcing our privacy proxy CLI",
-   "link": "https://dev.to/rasne/were-open-sourcing-our-privacy-proxy-cli-4pdd",
-   "date": "2026-07-27T13:30:39.000Z",
+   "title": "CGNAT Broke My Server: Four Ways to Reach a Service Behind Carrier-Grade NAT",
+   "link": "https://dev.to/pstayet/cgnat-broke-my-server-four-ways-to-reach-a-service-behind-carrier-grade-nat-4852",
+   "date": "2026-07-27T18:07:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: We’re open sourcing our privacy proxy CLI — read the full article on rasne.dev. pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP. Debugging privacy-preserving ",
+   "summary": "My home server sat behind a static IP for years. Port forwarding, DDNS, the whole routine — it worked. Then my ISP migrated me to CGNAT (Carrier-Grade NAT), and every port-forwarding tutorial I had bookmarked became inst",
    "image": null
   },
   {
-   "title": "Your gRPC stream is \"healthy\" and serving nothing: synthetic monitoring for server-side streams",
-   "link": "https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn",
-   "date": "2026-07-27T13:26:37.000Z",
+   "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+   "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+   "date": "2026-07-27T17:16:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg"
+  },
+  {
+   "title": "The 502 That Wasn't the Server",
+   "link": "https://dev.to/pedro_furst_53f8c10f2701d/the-502-that-wasnt-the-server-41ca",
+   "date": "2026-07-27T17:02:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "By Daniil Romashov — SRE/DevOps engineer. The tool described here is open source: github.com/youngpabl0/grpc-streams-checker (Apache-2.0). Uptime checks are a solved problem for request/response APIs: hit the endpoint, r",
+   "summary": "We spent over a year blaming the wrong things. A 502 Bad Gateway kept hitting our login route — about one login in twenty, no pattern we could find. A 502 usually means the upstream is unhappy, so that's where we looked:",
    "image": null
   },
   {
-   "title": "Hybride Contentbeheer: Hoe AI en menselijke controle zorgen voor 99%+ nauwkeurigheid",
-   "link": "https://dev.to/datamondial/hybride-contentbeheer-hoe-ai-en-menselijke-controle-zorgen-voor-99-nauwkeurigheid-1l05",
-   "date": "2026-07-27T13:25:51.000Z",
+   "title": "AI Didn't Make Your Team Faster. It Moved the Bottleneck.",
+   "link": "https://dev.to/_firelinks/i-didnt-make-your-team-faster-it-moved-the-bottleneck-1lj",
+   "date": "2026-07-27T17:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Automatisering in data-entry klinkt als een geregelde zaak: sluit een RPA-script aan op je documentenstroom, laat het systeem velden extraheren, en de data stroomt je TMS of WMS in. Bij gestandaardiseerde invoer — denk a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4avbfktrxe54m6ikakgz.png"
-  },
-  {
-   "title": "The Role of Platform Engineering in a Startup",
-   "link": "https://dev.to/samson_tanimawo/the-role-of-platform-engineering-in-a-startup-28fi",
-   "date": "2026-07-27T13:23:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Platform engineering sounds like a big-company thing. But I think every startup past 20 engineers needs a small platform function. Here's why. At 5 engineers, everybody knows how to deploy. At 20, they don't. People star",
+   "summary": "This is publishing in the same month the loudest AI jobs forecasts got walked back by the people who made them. That reversal surprised a lot of commentators. It shouldn't surprise anyone who measures systems for a livin",
    "image": null
   },
   {
-   "title": "Agent Roundup, July 27 2026: GitHub Models Shuts Down in Three Days, and the Harness Is Doing More Work Than You Think",
-   "link": "https://dev.to/lucioliu/agent-roundup-july-27-2026-github-models-shuts-down-in-three-days-and-the-harness-is-doing-more-2g9a",
-   "date": "2026-07-27T13:19:44.000Z",
+   "title": "Buy Walmart Seller Accounts – Start Selling Fast & Grow",
+   "link": "https://dev.to/beyax96055/buy-walmart-seller-accounts-start-selling-fast-grow-4dd8",
+   "date": "2026-07-27T16:41:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I read agent news with one question: does this change what I should do this week? Two things clear that bar today. One of them has a three-day deadline attached. GitHub Models is being retired on July 30. The model catal",
+   "summary": "Buy Verified Walmart Seller Account progmb.contact@gmail.com https://www.progmb.com/product/buy-walmart-seller-accounts/ Looking to sell your products online? You’ve heard of a Walmart seller account, but are not sure wh",
+   "image": null
+  },
+  {
+   "title": "Istio and the Sidecar Pattern: What I Learned About Service Mesh Fundamentals",
+   "link": "https://dev.to/madhavnakra/istio-and-the-sidecar-pattern-what-i-learned-about-service-mesh-fundamentals-1np6",
+   "date": "2026-07-27T16:39:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you work with Kubernetes long enough, you eventually hit a wall that has nothing to do with your application code. Your services are deployed, your pods are healthy, but you still have no good answer to questions like",
+   "image": null
+  },
+  {
+   "title": "I built Docker Stack Builder: A free visual docker-compose.yml generator",
+   "link": "https://dev.to/izxn_martinez_1549e6594d9/i-built-docker-stack-builder-a-free-visual-docker-composeyml-generator-4i6h",
+   "date": "2026-07-27T16:23:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hi everyone! I created Docker Stack Builder to make generating “docker-compose.yml” files visual, fast, and clean, without writing repetitive YAML syntax by hand. 🚀 Live Tool: https://docker-stack-builder.vercel.app/ ht",
+   "image": null
+  },
+  {
+   "title": "Cloudflare Tunnel: Easy Security or Centralized Dependency?",
+   "link": "https://dev.to/merbayerp/cloudflare-tunnel-easy-security-or-centralized-dependency-4pd4",
+   "date": "2026-07-27T16:22:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When I needed to securely expose an internal service to the outside world, my first thought was always to open a port in the firewall or set up a VPN server. These traditional methods have their own setup and management ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZ3JhcGggVEQ7CiAgICBBWyJDbGllbnQgKEJyb3dzZXIvQXBwKSJdIC0tPiBCWyJDbG91ZGZsYXJlIEVkZ2UgTmV0d29yayJdOwogICAgQiAtLSAiUGVyc2lzdGVudCBPdXRib3VuZCBDb25uZWN0aW9uIiAtLT4gQ1siY2xvdWRmbGFyZWQgRGFlbW9uIChPbiBMb2NhbCBOZXR3b3JrKSJdOwogICAgQyAtLT4gRFsiTG9jYWwgU2VydmljZSAoV2ViIFNlcnZlci9BUEkpIl07CgogICAgc3ViZ3JhcGggTG9jYWwgTmV0d29yazsKICAgICAgICBDOyBEOwogICAgZW5kCgogICAgc3R5bGUgQSBmaWxsOiNlMGY3ZmEsc3Ryb2tlOiMwMGFjYzEsc3Ryb2tlLXdpZHRoOjJweDsKICAgIHN0eWxlIEIgZmlsbDojZmZmZGU3LHN0cm9rZTojZmZlYjNiLHN0cm9rZS13aWR0aDoycHg7CiAgICBzdHlsZSBDIGZpbGw6I2U4ZjVlOSxzdHJva2U6IzRjYWY1MCxzdHJva2Utd2lkdGg6MnB4OwogICAgc3R5bGUgRCBmaWxsOiNlY2VmZjEsc3Ryb2tlOiM2MDdkOGIsc3Ryb2tlLXdpZHRoOjJweDs%3Ftype%3Dpng%26bgColor%3Dwhite"
+  },
+  {
+   "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+   "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+   "date": "2026-07-27T14:40:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg"
+  },
+  {
+   "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+   "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+   "date": "2026-07-27T14:10:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg"
+  },
+  {
+   "title": "Radim Marek: PostgreSQL's MVCC is bad. So is everyone else's.",
+   "link": "https://postgr.es/p/9qy",
+   "date": "2026-07-27T14:00:40.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The first thing you will probably learn about Postgres, if you follow people who don't like Postgres, is that MVCC is bad. The 40-year-old design mistake. It's signatures are everywhere. Bloated tables that double in siz",
    "image": null
   },
   {
@@ -69,26 +129,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "FLOT NOIR reimagines MERSI’s digital presence as a quiet, immersive space between architectural print and interactive web, combining a tailored Webflow build with precise motion and editorial storytelling.",
-   "image": null
-  },
-  {
-   "title": "Bridging the Gap Between Rapid Framework Adoption and Secure-by-Design Mandates",
-   "link": "https://dev.to/isuvo/bridging-the-gap-between-rapid-framework-adoption-and-secure-by-design-mandates-3jpd",
-   "date": "2026-07-27T13:15:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Structural Tension of Modern Framework Adoption As an engineering leader, I find myself caught in a structural pincer movement. On one side, the relentless pace of application development demands that we rapidly adop",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5pqudyzwtw3frb15cofr.jpg"
-  },
-  {
-   "title": "Hole Punching Explained for Developers: STUN, ICE, and Why You Need a Relay",
-   "link": "https://dev.to/pstayet/hole-punching-explained-for-developers-stun-ice-and-why-you-need-a-relay-2c6h",
-   "date": "2026-07-27T13:08:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent last week trying to get two AI agents — one on a Linux box behind a home ISP and another on a cloud VM behind AWS NAT Gateway — to talk to each other without a central relay. No websocket server in the middle, no",
    "image": null
   },
   {
@@ -230,36 +270,6 @@
    "source": "Simon Willison",
    "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my",
    "image": null
-  },
-  {
-   "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-   "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-   "date": "2026-07-25T18:48:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
-  },
-  {
-   "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-   "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-   "date": "2026-07-25T12:52:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
-  },
-  {
-   "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-   "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-   "date": "2026-07-25T10:14:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not ta",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: full_page_writes",
@@ -430,16 +440,6 @@
    "source": "Percona Blog",
    "summary": "Percona Operator for MongoDB 1.23.0 makes the operator a place you move to, not just a place you start. A new ClusterSync component clones a live source and follows its change streams, so leaving a hosted service is a sh",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
-  },
-  {
-   "title": "SHRIDHAR KHANAL: The Right Way to Give a Third-Party DBA Access to Your PostgreSQL Database",
-   "link": "https://postgr.es/p/9ql",
-   "date": "2026-07-23T15:55:44.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Giving an external team access to your PostgreSQL database is one of those decisions that deserves a little thought. The easiest option is to hand over a superuser account, but it’s rarely the right one. A better approac",
-   "image": null
   },
   {
    "title": "Laravel Announces the Founders Summit, a One-Day Event for Founders",
@@ -748,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a675ce460f63820153486/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67954f65dc9065610589/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
