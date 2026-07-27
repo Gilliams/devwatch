@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-07-27T00:10:18.532Z",
+ "generatedAt": "2026-07-27T08:44:44.298Z",
  "articles": [
   {
-   "title": "Infrastructure as Code with Terraform: The Basics You Need to Know",
-   "link": "https://dev.to/cloudfrontier/infrastructure-as-code-with-terraform-the-basics-you-need-to-know-5g11",
-   "date": "2026-07-27T00:00:48.000Z",
+   "title": "Deploying Scheduled Python Scripts Using Systemd",
+   "link": "https://dev.to/chasebot/deploying-scheduled-python-scripts-using-systemd-23kb",
+   "date": "2026-07-27T08:01:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What is Infrastructure as Code? Infrastructure as Code (IaC) is the practice of managing and provisioning infrastructure (servers, networks, databases) through machine-readable definition files, rather than manual proces",
+   "summary": "What You'll Need Before diving into setting up systemd timers, ensure you have the following prerequisites ready: A Linux server running Ubuntu 20.04/22.04 or Debian 11/12 (Deploy one on Hetzner VPS or Contabo VPS) Root ",
    "image": null
   },
   {
-   "title": "Subagent Launch Costs: Audit Before You Try to Reduce",
-   "link": "https://dev.to/nomurasan/why-my-subagent-launches-cost-50k-tokens-before-doing-any-work-4em1",
-   "date": "2026-07-26T23:43:59.000Z",
+   "title": "Why Your AI Assistant Should Be Your First Security Reviewer",
+   "link": "https://dev.to/archantech/why-your-ai-assistant-should-be-your-first-security-reviewer-hk4",
+   "date": "2026-07-27T08:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick answer Launch your subagent once. Log input + cache_creation + output + finish_reason. Repeat the exact same call. If the second run doesn't reuse cache, the entrance is the bug — not the prompt. Only after that ba",
+   "summary": "Sometimes the best way to learn is from mistakes - even when they are made by an AI. Last week, my AI assistant confidently refactored a function and broke three other modules in the process. Classic butterfly effect. Bu",
    "image": null
   },
   {
-   "title": "Replay Packs Make Cron Jobs Easier to Fix",
-   "link": "https://dev.to/mrdapperx/replay-packs-make-cron-jobs-easier-to-fix-4mg8",
-   "date": "2026-07-26T23:23:35.000Z",
+   "title": "Why SPF Breaks After Adding One More Email Provider",
+   "link": "https://dev.to/petr_michal_178dc4f87ad91/why-spf-breaks-after-adding-one-more-email-provider-1jle",
+   "date": "2026-07-27T07:43:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Replay Packs Make Cron Jobs Easier to Fix I like small automation scripts. They are fast to write, easy to ship, and honestly pretty fun when they remove one annoying task from the week. The downside is that a cron job c",
+   "summary": "Why SPF Breaks After Adding One More Email Provider Your SPF record may look valid and still produce a PermError. This often happens after connecting one more service: Google Workspace Microsoft 365 Mailchimp Zendesk a C",
    "image": null
   },
   {
-   "title": "# Why Every Engineering Student Should Build Simulators Instead of Solving More Equations",
-   "link": "https://dev.to/ahmedadawy625/-why-every-engineering-student-should-build-simulators-instead-of-solving-more-equations-378l",
-   "date": "2026-07-26T23:17:08.000Z",
+   "title": "100 Days of DevOps and Cloud (AWS), Day 18: MariaDB's Secure Install, and Why 'Read-Only' Needs More Than ec2:Describe",
+   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-18-mariadbs-secure-install-and-why-read-only-needs-3h93",
+   "date": "2026-07-27T07:34:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "During my journey studying computational engineering, I noticed something surprising. Most textbooks do an excellent job explaining the mathematics behind engineering problems. They derive differential equations. They pr",
+   "summary": "The most secure version of a fresh install is the one with its convenient defaults stripped back out. New database software ships open enough to get you started fast, which is exactly the state an attacker is hoping to f",
    "image": null
   },
   {
-   "title": "Infrastructure as Code: Terraform and CloudFormation – The Fellowship of the Cloud",
-   "link": "https://dev.to/timevolt/infrastructure-as-code-terraform-and-cloudformation-the-fellowship-of-the-cloud-4kke",
-   "date": "2026-07-26T23:13:30.000Z",
+   "title": "I Stopped Building Software First. I Started Solving Business Problems Instead.",
+   "link": "https://dev.to/sunie_mehta/i-stopped-building-software-first-i-started-solving-business-problems-instead-4dc1",
+   "date": "2026-07-27T07:27:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I was tired of playing “guess the configuration” every time I spun up a new environment. One day I clicked “Apply” in the AWS console, watched a VPC pop up, then realized three week",
+   "summary": "There was a time when every new project started with the same question: \"Which framework are we using?\" React, Next.js, Laravel, Node.js, Flutter—it felt like the technology stack was the most important decision. Over ti",
    "image": null
   },
   {
-   "title": "One badge that tells your users when your dependencies die",
-   "link": "https://dev.to/endoflifeai/one-badge-that-tells-your-users-when-your-dependencies-die-1gbj",
-   "date": "2026-07-26T22:41:21.000Z",
+   "title": "Choosing between a VDS and a dedicated server for your next project?",
+   "link": "https://dev.to/onegbits/choosing-between-a-vds-and-a-dedicated-server-for-your-next-project-lk6",
+   "date": "2026-07-27T07:21:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every README makes claims about support. Almost none of them stay true. \"Requires Node 18+\" — written in 2023, when Node 18 was the fresh LTS. Node 18 died in April 2025. The README didn't notice. Neither did most of the",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3Dhttps%253A%252F%252Fendoflife.ai%252Fbadge%252Fnodejs.json"
-  },
-  {
-   "title": "What Your Hosting Tier Actually Buys You",
-   "link": "https://dev.to/paulcrinigan/what-your-hosting-tier-actually-buys-you-bf9",
-   "date": "2026-07-26T22:27:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hosting is the least interesting line item in most budgets, and one of the few that quietly sets a ceiling on everything above it. Here is the part that usually gets skipped when people compare plans. Providers advertise",
+   "summary": "Choosing between a VDS and a dedicated server for your next project? Quick tip: A VDS balances dedicated resources with flexibility, while a dedicated server provides full hardware control and maximum performance. Explor",
    "image": null
   },
   {
-   "title": "The MCP spec lands in 48 hours. I scanned 671,693 domains first. The layer under your email agents is rotting.",
-   "link": "https://dev.to/livedirectmarketing/the-mcp-spec-lands-in-48-hours-i-scanned-671693-domains-first-the-layer-under-your-email-agents-5914",
-   "date": "2026-07-26T22:08:24.000Z",
+   "title": "The Algorithm Is the Last Decision You Make in Machine Learning",
+   "link": "https://dev.to/nishant_banginwar_80b7dc5/the-algorithm-is-the-last-decision-you-make-in-machine-learning-p0a",
+   "date": "2026-07-27T07:19:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AgentMail. Cloudflare Email Service. Resend's agent SDK. Every AI SDR startup on Product Hunt this month. The pitch is always the same: \"one API call and your agent has an inbox.\" Cool. I went and measured the ground the",
+   "summary": "Every delivery manager I've worked with runs a prediction model on Monday morning. It's called dread. Open the portfolio, scan 30 projects, and your gut sorts them: these five worry me, those twenty are fine, and that on",
+   "image": null
+  },
+  {
+   "title": "\"/usr/bin/env: 'python2': No such file or directory — Amazon Linux 2023 has no Python 2\"",
+   "link": "https://dev.to/ntoledo319/usrbinenv-python2-no-such-file-or-directory-amazon-linux-2023-has-no-python-2-5h8g",
+   "date": "2026-07-27T07:17:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You moved an instance, AMI, or launch template from Amazon Linux 2 to Amazon Linux 2023, and something that used to run cleanly now fails on first boot: /usr/bin/env: 'python2': No such file or directory Or, if the scrip",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: gin_fuzzy_search_limit",
+   "link": "https://postgr.es/p/9qw",
+   "date": "2026-07-27T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's `gin_fuzzy_search_limit` silently returns a random subset of matching rows instead of all results—a dangerous trade of correctness for speed that…",
    "image": null
   },
   {
@@ -442,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: from_collapse_limit",
-   "link": "https://postgr.es/p/9qj",
-   "date": "2026-07-23T02:30:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Subqueries in FROM clauses get flattened into the outer query by default—but only if the resulting join problem stays small enough.",
-   "image": null
-  },
-  {
    "title": "A Practical Guide to Laravel's First-Party Image Processing",
    "link": "https://laravel-news.com/a-practical-guide-to-laravels-first-party-image-processing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-23T01:25:32.000Z",
@@ -748,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6697f2a6b62311185304/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67115acb1ff546624877/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
