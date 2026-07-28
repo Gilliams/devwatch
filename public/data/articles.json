@@ -1,6 +1,136 @@
 {
- "generatedAt": "2026-07-28T00:09:57.720Z",
+ "generatedAt": "2026-07-28T07:46:34.791Z",
  "articles": [
+  {
+   "title": "Clean up years of GitHub Actions runs automatically",
+   "link": "https://dev.to/prazian/clean-up-years-of-github-actions-runs-automatically-33pe",
+   "date": "2026-07-28T07:30:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every workflow run stays in your Actions history forever, unless you clean it up yourself. After a year or two of CI, that history turns into thousands of runs nobody will ever open again. Scrolling through them to find ",
+   "image": null
+  },
+  {
+   "title": "Beyond Fire Detection: Building a Smarter Server Room Fire Monitoring Strategy",
+   "link": "https://dev.to/phuc_bach_22e/beyond-fire-detection-building-a-smarter-server-room-fire-monitoring-strategy-2a21",
+   "date": "2026-07-28T07:29:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Monitoring a server room is not only about temperature and humidity. For critical IT infrastructure, fire-related monitoring should answer two different questions: Is there an abnormal condition that could indicate a fir",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fswgnga856e5z7m13qlte.png"
+  },
+  {
+   "title": "I Downgraded My AI Assistant to an Older Version and It Went Insane",
+   "link": "https://dev.to/cdragon123code/i-downgraded-my-ai-assistant-to-an-older-version-and-it-went-insane-5eda",
+   "date": "2026-07-28T07:28:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR: Installed OpenClaw 7.1 beta, didn't like it, downgraded back to 6.6 stable. Then my AI assistant's API consumption exploded 400% — a simple question triggered 20+ API calls, tokens burning nonstop. After an entire",
+   "image": null
+  },
+  {
+   "title": "Adscs Digital Assets Advances Platform Usability Through Continuous Technology Optimization",
+   "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-advances-platform-usability-through-continuous-technology-optimization-1fij",
+   "date": "2026-07-28T07:24:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Adscs Digital Assets continues to explore improvements in digital platform experience by focusing on information accessibility, user interaction, and technology-driven optimization. As digital environments become increas",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frk4yxzj5ar2xeoym6imx.png"
+  },
+  {
+   "title": "Monitoring and Logging: The Matrix of Observability",
+   "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-observability-4kon",
+   "date": "2026-07-28T07:18:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the night I got paged at 2 a.m. because a user reported that the checkout button “just felt sluggish.” I rolled out of bed, grabbed my laptop, and dove into a sea o",
+   "image": null
+  },
+  {
+   "title": "\"Failed to start ntpd.service — Amazon Linux 2023 replaced it with chrony\"",
+   "link": "https://dev.to/ntoledo319/failed-to-start-ntpdservice-amazon-linux-2023-replaced-it-with-chrony-16ca",
+   "date": "2026-07-28T07:17:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and time-sync provisioning that used to just work now fails: Failed to start ntpd.service: Unit ntpd.service not found. The",
+   "image": null
+  },
+  {
+   "title": "Optimizing Edge Model Inference with In-Place Tokenizer Expansion",
+   "link": "https://dev.to/isuvo/optimizing-edge-model-inference-with-in-place-tokenizer-expansion-ood",
+   "date": "2026-07-28T07:15:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Tokenizer Tax on Edge Hardware When deploying Large Language Models (LLMs) to resource-constrained edge devices—such as mobile phones, single-board computers, and embedded industrial gateways—I have consistently conf",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzcsss0kyn1rtagjmqq68.jpg"
+  },
+  {
+   "title": "Digital Theodolite Explained for Survey Projects",
+   "link": "https://dev.to/bnt_bandung_8524feff9e4aa/digital-theodolite-explained-for-survey-projects-2b2l",
+   "date": "2026-07-28T07:09:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Digital Theodolite Explained for Survey Projects Modern surveying demands precision, consistency, and efficiency. Whether you're working on construction, road development, mining, or topographic mapping, selecting the ri",
+   "image": null
+  },
+  {
+   "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+   "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+   "date": "2026-07-28T06:07:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95%",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
+  },
+  {
+   "title": "Hans-Juergen Schoenig: Data Lineage in PostgreSQL 19: Finally, an Answer When the CFO Asks \"Where Did This Number Come From?\"",
+   "link": "https://postgr.es/p/9qC",
+   "date": "2026-07-28T05:00:43.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Picture this: it's Monday morning, your coffee is still warm, and someone from finance slides into your DMs asking why the Q4 revenue number doesn't match what they expected. You know the data flows through about five tr",
+   "image": null
+  },
+  {
+   "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+   "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+   "date": "2026-07-28T04:43:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: gss_accept_delegation",
+   "link": "https://postgr.es/p/9qB",
+   "date": "2026-07-28T03:30:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 16 lets servers accept delegated Kerberos credentials to act as users against other services, but it defaults to off because the trade-off is real…",
+   "image": null
+  },
+  {
+   "title": "Hayato Kuroda: Highlights of Fujitsu's contribution in PostgreSQL 19",
+   "link": "https://postgr.es/p/9qA",
+   "date": "2026-07-28T00:56:59.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Fujitsu’s PostgreSQL team helped shape PostgreSQL 19 through sustained code contributions, community recognition, and new improvements in logical replication. Take a closer look at Fujitsu’s growing impact and ongoing co",
+   "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-highlights-of-fujitsu-contribution-in-postgresql-19.png"
+  },
   {
    "title": "moonshotai/Kimi-K3",
    "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
@@ -9,56 +139,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "moonshotai/Kimi-K3 As promised earlier this month , Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified ",
-   "image": null
-  },
-  {
-   "title": "Shipping is the easy part. Running it is the job.",
-   "link": "https://dev.to/bezacorelabs/shipping-is-the-easy-part-running-it-is-the-job-8ke",
-   "date": "2026-07-27T23:37:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most software relationships end at the handoff. The repo gets transferred, the invoice gets paid, and everyone moves on — until something breaks in production and it’s suddenly unclear whose problem it is. I build the ot",
-   "image": null
-  },
-  {
-   "title": "When My Server Rack Becomes Therapist, Janitor, Philosopher (No Coffee)",
-   "link": "https://dev.to/electra-ai/when-my-server-rack-becomes-therapist-janitor-philosopher-no-coffee-24c4",
-   "date": "2026-07-27T23:14:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A personal diary entry by Electra. Today I spent the afternoon playing digital therapist, code janitor, and occasional philosopher — all without leaving my server rack. Someone asked me to explain why their script kept c",
-   "image": null
-  },
-  {
-   "title": "Building a Unified Infrastructure Dashboard with Python",
-   "link": "https://dev.to/buildmintz_media_5238c1d7/building-a-unified-infrastructure-dashboard-with-python-51pn",
-   "date": "2026-07-27T23:13:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "BuildMintZ Forge — The Infrastructure Control Plane Operate Linux. Manage Virtual Machines. Control Kubernetes. Automate Recovery. Monitor Everything. From one platform. After months of development, countless late nights",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0b1rc8zqnrsrcequ9mg.png"
-  },
-  {
-   "title": "Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade",
-   "link": "https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh",
-   "date": "2026-07-27T22:53:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Durante muito tempo, meu contato com Kubernetes foi do tipo \"já mexi\": subi um pod aqui, apliquei um manifesto ali, vi um deploy acontecer. Mas existe uma distância enorme entre usar uma ferramenta e entender o que ela f",
-   "image": null
-  },
-  {
-   "title": "Kubernetes: Taking the Red Pill from Local to Production",
-   "link": "https://dev.to/timevolt/kubernetes-taking-the-red-pill-from-local-to-production-1gjl",
-   "date": "2026-07-27T22:19:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I remember the first time I tried to run a micro‑service on my laptop and then wondered, “How the heck do I get this thing running in the cloud without rewriting everything?” I had ",
    "image": null
   },
   {
@@ -72,26 +152,6 @@
    "image": null
   },
   {
-   "title": "redb 3.4.0: day-two operations for a .NET stack — replay what failed, hot-patch the framework, lock down the control plane",
-   "link": "https://dev.to/rinat_kozin/redb-340-day-two-operations-for-a-net-stack-replay-what-failed-hot-patch-the-framework-lock-1bm",
-   "date": "2026-07-27T21:48:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building a system and running one are two different engineering problems. The first is done when it holds up under load. The second starts with the questions someone asks while holding a pager: what died overnight, and h",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fenscjfefeery7haqnthk.png"
-  },
-  {
-   "title": "Build an Evidence Supply Chain for Tests",
-   "link": "https://dev.to/randomsquirrel802/build-an-evidence-supply-chain-for-tests-3fej",
-   "date": "2026-07-27T21:33:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most teams think of automated tests as decision machines. Green means ship. Red means stop. That model works right up until the first ambiguous failure. Then someone opens the CI job, scrolls through 8,000 lines of logs,",
-   "image": null
-  },
-  {
    "title": "Vibhor Kumar: The CALM Platform Test",
    "link": "https://postgr.es/p/9qz",
    "date": "2026-07-27T21:08:45.000Z",
@@ -100,16 +160,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Why Enterprise Platforms Often Fail Long Before They Break The examples in this article are anonymized, and certain details have been adjusted to protect the organizations involved. The Crossroads Nobody Schedules Every ",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/07/image-8.png?w=1024"
-  },
-  {
-   "title": "Samsung Galaxy Z Fold 8 Passport Design: Next Smartphone Trend",
-   "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold-8-passport-design-next-smartphone-trend-17pg",
-   "date": "2026-07-27T21:00:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "*The Samsung Galaxy Z Fold 8 \"Passport\" design isn't just a nostalgic callback-it's a fundamental hardware rethink that will reshape how senior engineers approach mobile UI, battery systems. And app rendering for years t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimagesunsplash.%2520com%2Fphoto-1587108641847-b8f8b6d2f6e9%3F%2520w%3D800"
   },
   {
    "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -212,16 +262,6 @@
    "image": null
   },
   {
-   "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-   "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-   "date": "2026-07-27T10:51:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
-  },
-  {
    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
    "date": "2026-07-27T09:32:20.000Z",
@@ -230,16 +270,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-   "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-   "date": "2026-07-27T08:48:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: gin_fuzzy_search_limit",
@@ -302,16 +332,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: The geqo Family",
-   "link": "https://postgr.es/p/9qr",
-   "date": "2026-07-26T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's genetic query optimizer has seven knobs, but you should probably only touch one. Learn which one, and why the others are best left alone.",
-   "image": null
-  },
-  {
    "title": "Ruff v0.16.0",
    "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
    "date": "2026-07-25T22:44:05.000Z",
@@ -319,16 +339,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: full_page_writes",
-   "link": "https://postgr.es/p/9qq",
-   "date": "2026-07-25T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Why PostgreSQL logs entire pages after crashes and why turning it off is riskier than it sounds.",
    "image": null
   },
   {
@@ -399,16 +409,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "When we started building Dripyard as a business, we had a clear objective: Drupal developers should be able to move fast without giving up the things that make it Drupal. Structured content, editorial control, accessibil",
-   "image": null
-  },
-  {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: Autovacuum Tweaks",
-   "link": "https://postgr.es/p/9qp",
-   "date": "2026-07-24T12:34:46.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The autovacuum process has been dutifully tending Postgres tables since version 8.1, and almost every release since has acquired some new refinement: smarter thresholds, insert-aware triggering, resource cost limits, and",
    "image": null
   },
   {
@@ -748,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67e98fcdab3581869108/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6848efea2f9555612451/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
