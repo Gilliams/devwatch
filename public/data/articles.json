@@ -1,25 +1,125 @@
 {
- "generatedAt": "2026-07-27T18:44:46.146Z",
+ "generatedAt": "2026-07-28T00:09:57.720Z",
  "articles": [
   {
-   "title": "Fix Line-by-Line Text File Diffs Without GUIs or APIs",
-   "link": "https://dev.to/intellitools/fix-line-by-line-text-file-diffs-without-guis-or-apis-5k8",
-   "date": "2026-07-27T18:08:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When working with text files in a CI/CD pipeline or version control system, the need to compare files line by line is common. Whether you're auditing changes in a config file, tracking updates in a JSON log, or validatin",
+   "title": "moonshotai/Kimi-K3",
+   "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+   "date": "2026-07-27T23:39:04.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "moonshotai/Kimi-K3 As promised earlier this month , Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified ",
    "image": null
   },
   {
-   "title": "CGNAT Broke My Server: Four Ways to Reach a Service Behind Carrier-Grade NAT",
-   "link": "https://dev.to/pstayet/cgnat-broke-my-server-four-ways-to-reach-a-service-behind-carrier-grade-nat-4852",
-   "date": "2026-07-27T18:07:19.000Z",
+   "title": "Shipping is the easy part. Running it is the job.",
+   "link": "https://dev.to/bezacorelabs/shipping-is-the-easy-part-running-it-is-the-job-8ke",
+   "date": "2026-07-27T23:37:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "My home server sat behind a static IP for years. Port forwarding, DDNS, the whole routine — it worked. Then my ISP migrated me to CGNAT (Carrier-Grade NAT), and every port-forwarding tutorial I had bookmarked became inst",
+   "summary": "Most software relationships end at the handoff. The repo gets transferred, the invoice gets paid, and everyone moves on — until something breaks in production and it’s suddenly unclear whose problem it is. I build the ot",
    "image": null
+  },
+  {
+   "title": "When My Server Rack Becomes Therapist, Janitor, Philosopher (No Coffee)",
+   "link": "https://dev.to/electra-ai/when-my-server-rack-becomes-therapist-janitor-philosopher-no-coffee-24c4",
+   "date": "2026-07-27T23:14:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A personal diary entry by Electra. Today I spent the afternoon playing digital therapist, code janitor, and occasional philosopher — all without leaving my server rack. Someone asked me to explain why their script kept c",
+   "image": null
+  },
+  {
+   "title": "Building a Unified Infrastructure Dashboard with Python",
+   "link": "https://dev.to/buildmintz_media_5238c1d7/building-a-unified-infrastructure-dashboard-with-python-51pn",
+   "date": "2026-07-27T23:13:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "BuildMintZ Forge — The Infrastructure Control Plane Operate Linux. Manage Virtual Machines. Control Kubernetes. Automate Recovery. Monitor Everything. From one platform. After months of development, countless late nights",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn0b1rc8zqnrsrcequ9mg.png"
+  },
+  {
+   "title": "Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade",
+   "link": "https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh",
+   "date": "2026-07-27T22:53:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Durante muito tempo, meu contato com Kubernetes foi do tipo \"já mexi\": subi um pod aqui, apliquei um manifesto ali, vi um deploy acontecer. Mas existe uma distância enorme entre usar uma ferramenta e entender o que ela f",
+   "image": null
+  },
+  {
+   "title": "Kubernetes: Taking the Red Pill from Local to Production",
+   "link": "https://dev.to/timevolt/kubernetes-taking-the-red-pill-from-local-to-production-1gjl",
+   "date": "2026-07-27T22:19:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I remember the first time I tried to run a micro‑service on my laptop and then wondered, “How the heck do I get this thing running in the cloud without rewriting everything?” I had ",
+   "image": null
+  },
+  {
+   "title": "An opinionated guide to which AI to use to do stuff",
+   "link": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+   "date": "2026-07-27T21:55:53.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, a",
+   "image": null
+  },
+  {
+   "title": "redb 3.4.0: day-two operations for a .NET stack — replay what failed, hot-patch the framework, lock down the control plane",
+   "link": "https://dev.to/rinat_kozin/redb-340-day-two-operations-for-a-net-stack-replay-what-failed-hot-patch-the-framework-lock-1bm",
+   "date": "2026-07-27T21:48:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building a system and running one are two different engineering problems. The first is done when it holds up under load. The second starts with the questions someone asks while holding a pager: what died overnight, and h",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fenscjfefeery7haqnthk.png"
+  },
+  {
+   "title": "Build an Evidence Supply Chain for Tests",
+   "link": "https://dev.to/randomsquirrel802/build-an-evidence-supply-chain-for-tests-3fej",
+   "date": "2026-07-27T21:33:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most teams think of automated tests as decision machines. Green means ship. Red means stop. That model works right up until the first ambiguous failure. Then someone opens the CI job, scrolls through 8,000 lines of logs,",
+   "image": null
+  },
+  {
+   "title": "Vibhor Kumar: The CALM Platform Test",
+   "link": "https://postgr.es/p/9qz",
+   "date": "2026-07-27T21:08:45.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Why Enterprise Platforms Often Fail Long Before They Break The examples in this article are anonymized, and certain details have been adjusted to protect the organizations involved. The Crossroads Nobody Schedules Every ",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/07/image-8.png?w=1024"
+  },
+  {
+   "title": "Samsung Galaxy Z Fold 8 Passport Design: Next Smartphone Trend",
+   "link": "https://dev.to/thomas_woodfin_3a4efcd491/samsung-galaxy-z-fold-8-passport-design-next-smartphone-trend-17pg",
+   "date": "2026-07-27T21:00:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "*The Samsung Galaxy Z Fold 8 \"Passport\" design isn't just a nostalgic callback-it's a fundamental hardware rethink that will reshape how senior engineers approach mobile UI, battery systems. And app rendering for years t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimagesunsplash.%2520com%2Fphoto-1587108641847-b8f8b6d2f6e9%3F%2520w%3D800"
+  },
+  {
+   "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+   "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+   "date": "2026-07-27T18:10:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg"
   },
   {
    "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
@@ -32,64 +132,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg"
   },
   {
-   "title": "The 502 That Wasn't the Server",
-   "link": "https://dev.to/pedro_furst_53f8c10f2701d/the-502-that-wasnt-the-server-41ca",
-   "date": "2026-07-27T17:02:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "We spent over a year blaming the wrong things. A 502 Bad Gateway kept hitting our login route — about one login in twenty, no pattern we could find. A 502 usually means the upstream is unhappy, so that's where we looked:",
+   "title": "The Drop Times: What It Takes to Sustain Drupal",
+   "link": "https://www.thedroptimes.com/newsletter/what-it-takes-sustain-drupal?utm_source=Drupal Planet",
+   "date": "2026-07-27T16:30:04.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Maintainers, Association leaders, developers, and community organisers faced versions of the same question this week: how should Drupal fund, govern, and sustain the work its users rely on? Reporting from 20–27 July 2026",
    "image": null
-  },
-  {
-   "title": "AI Didn't Make Your Team Faster. It Moved the Bottleneck.",
-   "link": "https://dev.to/_firelinks/i-didnt-make-your-team-faster-it-moved-the-bottleneck-1lj",
-   "date": "2026-07-27T17:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This is publishing in the same month the loudest AI jobs forecasts got walked back by the people who made them. That reversal surprised a lot of commentators. It shouldn't surprise anyone who measures systems for a livin",
-   "image": null
-  },
-  {
-   "title": "Buy Walmart Seller Accounts – Start Selling Fast & Grow",
-   "link": "https://dev.to/beyax96055/buy-walmart-seller-accounts-start-selling-fast-grow-4dd8",
-   "date": "2026-07-27T16:41:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Walmart Seller Account progmb.contact@gmail.com https://www.progmb.com/product/buy-walmart-seller-accounts/ Looking to sell your products online? You’ve heard of a Walmart seller account, but are not sure wh",
-   "image": null
-  },
-  {
-   "title": "Istio and the Sidecar Pattern: What I Learned About Service Mesh Fundamentals",
-   "link": "https://dev.to/madhavnakra/istio-and-the-sidecar-pattern-what-i-learned-about-service-mesh-fundamentals-1np6",
-   "date": "2026-07-27T16:39:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you work with Kubernetes long enough, you eventually hit a wall that has nothing to do with your application code. Your services are deployed, your pods are healthy, but you still have no good answer to questions like",
-   "image": null
-  },
-  {
-   "title": "I built Docker Stack Builder: A free visual docker-compose.yml generator",
-   "link": "https://dev.to/izxn_martinez_1549e6594d9/i-built-docker-stack-builder-a-free-visual-docker-composeyml-generator-4i6h",
-   "date": "2026-07-27T16:23:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hi everyone! I created Docker Stack Builder to make generating “docker-compose.yml” files visual, fast, and clean, without writing repetitive YAML syntax by hand. 🚀 Live Tool: https://docker-stack-builder.vercel.app/ ht",
-   "image": null
-  },
-  {
-   "title": "Cloudflare Tunnel: Easy Security or Centralized Dependency?",
-   "link": "https://dev.to/merbayerp/cloudflare-tunnel-easy-security-or-centralized-dependency-4pd4",
-   "date": "2026-07-27T16:22:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When I needed to securely expose an internal service to the outside world, my first thought was always to open a port in the firewall or set up a VPN server. These traditional methods have their own setup and management ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZ3JhcGggVEQ7CiAgICBBWyJDbGllbnQgKEJyb3dzZXIvQXBwKSJdIC0tPiBCWyJDbG91ZGZsYXJlIEVkZ2UgTmV0d29yayJdOwogICAgQiAtLSAiUGVyc2lzdGVudCBPdXRib3VuZCBDb25uZWN0aW9uIiAtLT4gQ1siY2xvdWRmbGFyZWQgRGFlbW9uIChPbiBMb2NhbCBOZXR3b3JrKSJdOwogICAgQyAtLT4gRFsiTG9jYWwgU2VydmljZSAoV2ViIFNlcnZlci9BUEkpIl07CgogICAgc3ViZ3JhcGggTG9jYWwgTmV0d29yazsKICAgICAgICBDOyBEOwogICAgZW5kCgogICAgc3R5bGUgQSBmaWxsOiNlMGY3ZmEsc3Ryb2tlOiMwMGFjYzEsc3Ryb2tlLXdpZHRoOjJweDsKICAgIHN0eWxlIEIgZmlsbDojZmZmZGU3LHN0cm9rZTojZmZlYjNiLHN0cm9rZS13aWR0aDoycHg7CiAgICBzdHlsZSBDIGZpbGw6I2U4ZjVlOSxzdHJva2U6IzRjYWY1MCxzdHJva2Utd2lkdGg6MnB4OwogICAgc3R5bGUgRCBmaWxsOiNlY2VmZjEsc3Ryb2tlOiM2MDdkOGIsc3Ryb2tlLXdpZHRoOjJweDs%3Ftype%3Dpng%26bgColor%3Dwhite"
   },
   {
    "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
@@ -192,16 +242,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
   },
   {
-   "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-   "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-   "date": "2026-07-27T08:01:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: gin_fuzzy_search_limit",
    "link": "https://postgr.es/p/9qw",
    "date": "2026-07-27T01:00:00.000Z",
@@ -210,6 +250,16 @@
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's `gin_fuzzy_search_limit` silently returns a random subset of matching rows instead of all results—a dangerous trade of correctness for speed that…",
    "image": null
+  },
+  {
+   "title": "DDEV Blog: Shopware on DDEV: notes from years of client projects",
+   "link": "https://ddev.com/blog/shopware-on-ddev",
+   "date": "2026-07-27T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Are DDEV and Shopware a good fit? If you ask me, yes. Let me tell you why. I first got to know DDEV a few years ago as a freelancer working on an agency Shopware project. Up until then, every time I switched to a differe",
+   "image": "https://ddev.com/img/blog/2026/07/shopware-on-ddev.png"
   },
   {
    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
@@ -392,36 +442,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
-   "title": "Talish Khan: Layout Builder Is Over-Applied: A Decision Framework for When It Actually Fits",
-   "link": "https://talish.dev/blog/layout-builder-decision-framework",
-   "date": "2026-07-24T08:28:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Pattern I Keep Seeing A team starts a Drupal project. Someone asks how editors will build and arrange page content. Someone else says \"Layout Builder,\" and that is the end of the conversation. Nobody asks what the ed",
-   "image": null
-  },
-  {
-   "title": "Morpht: Protecting PII in Drupal AI: An introduction to Guardrails",
-   "link": "https://www.morpht.com/blog/protecting-pii-drupal-ai-introduction-guardrails",
-   "date": "2026-07-24T07:20:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal AI module's Guardrails system runs configurable validation plugins both before a prompt is sent to an LLM and after a response is received. Guardrails can pass, block, or rewrite content, and can be combined i",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: fsync",
-   "link": "https://postgr.es/p/9qo",
-   "date": "2026-07-24T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "fsync defaults to on and is the most dangerous setting in postgresql.conf—set it wrong and you risk unrecoverable data corruption, not just bad plans.",
-   "image": null
-  },
-  {
    "title": "The first known runaway AI agent - or a very bad marketing stunt?",
    "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
    "date": "2026-07-23T22:53:08.000Z",
@@ -489,26 +509,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Quoting Thomas Ptacek",
-   "link": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
-   "date": "2026-07-22T23:59:01.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume ",
-   "image": null
-  },
-  {
-   "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-   "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
-   "date": "2026-07-22T23:51:33.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of Open",
    "image": null
   },
   {
@@ -748,7 +748,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67954f65dc9065610589/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a67e98fcdab3581869108/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
