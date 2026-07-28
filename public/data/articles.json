@@ -1,88 +1,138 @@
 {
- "generatedAt": "2026-07-28T07:46:34.791Z",
+ "generatedAt": "2026-07-28T13:01:04.818Z",
  "articles": [
   {
-   "title": "Clean up years of GitHub Actions runs automatically",
-   "link": "https://dev.to/prazian/clean-up-years-of-github-actions-runs-automatically-33pe",
-   "date": "2026-07-28T07:30:45.000Z",
+   "title": "Why DevOps Training in BTM is the Secret Ingredient for Achieving Career Success in 2026",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/why-devops-training-in-btm-is-the-secret-ingredient-for-achieving-career-success-in-2026-558d",
+   "date": "2026-07-28T12:44:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every workflow run stays in your Actions history forever, unless you clean it up yourself. After a year or two of CI, that history turns into thousands of runs nobody will ever open again. Scrolling through them to find ",
+   "summary": "Why DevOps Training in BTM is the Secret Ingredient for Achieving Career Success in 2026 As the tech landscape evolves, the importance of efficient collaboration between development and operations teams has never been cl",
    "image": null
   },
   {
-   "title": "Beyond Fire Detection: Building a Smarter Server Room Fire Monitoring Strategy",
-   "link": "https://dev.to/phuc_bach_22e/beyond-fire-detection-building-a-smarter-server-room-fire-monitoring-strategy-2a21",
-   "date": "2026-07-28T07:29:53.000Z",
+   "title": "Unlock Advanced Skills: A Future-Focused Approach to DevOps Training in BTM for 2026",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/unlock-advanced-skills-a-future-focused-approach-to-devops-training-in-btm-for-2026-3e95",
+   "date": "2026-07-28T12:44:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Monitoring a server room is not only about temperature and humidity. For critical IT infrastructure, fire-related monitoring should answer two different questions: Is there an abnormal condition that could indicate a fir",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fswgnga856e5z7m13qlte.png"
-  },
-  {
-   "title": "I Downgraded My AI Assistant to an Older Version and It Went Insane",
-   "link": "https://dev.to/cdragon123code/i-downgraded-my-ai-assistant-to-an-older-version-and-it-went-insane-5eda",
-   "date": "2026-07-28T07:28:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR: Installed OpenClaw 7.1 beta, didn't like it, downgraded back to 6.6 stable. Then my AI assistant's API consumption exploded 400% — a simple question triggered 20+ API calls, tokens burning nonstop. After an entire",
+   "summary": "Unlock Advanced Skills: A Future-Focused Approach to DevOps Training in BTM for 2026 As the software development landscape evolves, the need for proficient DevOps professionals continues to rise. This has led to an incre",
    "image": null
   },
   {
-   "title": "Adscs Digital Assets Advances Platform Usability Through Continuous Technology Optimization",
-   "link": "https://dev.to/adscsdigitalassetsinsights/adscs-digital-assets-advances-platform-usability-through-continuous-technology-optimization-1fij",
-   "date": "2026-07-28T07:24:26.000Z",
+   "title": "Unleash Your Professional Potential: Top Reasons to Choose DevOps Training in BTM for Career Advancement in 2026",
+   "link": "https://dev.to/h2_lmt_318f611464212f9336/unleash-your-professional-potential-top-reasons-to-choose-devops-training-in-btm-for-career-jha",
+   "date": "2026-07-28T12:44:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Adscs Digital Assets continues to explore improvements in digital platform experience by focusing on information accessibility, user interaction, and technology-driven optimization. As digital environments become increas",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frk4yxzj5ar2xeoym6imx.png"
-  },
-  {
-   "title": "Monitoring and Logging: The Matrix of Observability",
-   "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-observability-4kon",
-   "date": "2026-07-28T07:18:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the night I got paged at 2 a.m. because a user reported that the checkout button “just felt sluggish.” I rolled out of bed, grabbed my laptop, and dove into a sea o",
+   "summary": "Unleash Your Professional Potential: Top Reasons to Choose DevOps Training in BTM for Career Advancement in 2026 In an ever-evolving technological landscape, the demand for skilled professionals who can bridge the gap be",
    "image": null
   },
   {
-   "title": "\"Failed to start ntpd.service — Amazon Linux 2023 replaced it with chrony\"",
-   "link": "https://dev.to/ntoledo319/failed-to-start-ntpdservice-amazon-linux-2023-replaced-it-with-chrony-16ca",
-   "date": "2026-07-28T07:17:03.000Z",
+   "title": "Supercharge Your Career Prospects: Why DevOps Training in BTM is Key for 2026 Success",
+   "link": "https://dev.to/h2_lmt_318f611464212f9336/supercharge-your-career-prospects-why-devops-training-in-btm-is-key-for-2026-success-25na",
+   "date": "2026-07-28T12:44:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You moved an AMI, launch template, or Ansible playbook from Amazon Linux 2 to Amazon Linux 2023, and time-sync provisioning that used to just work now fails: Failed to start ntpd.service: Unit ntpd.service not found. The",
+   "summary": "Supercharge Your Career Prospects: Why DevOps Training in BTM is Key for 2026 Success In an ever-evolving tech landscape, the importance of DevOps cannot be overstated. Professionals who are adept in DevOps practices not",
    "image": null
   },
   {
-   "title": "Optimizing Edge Model Inference with In-Place Tokenizer Expansion",
-   "link": "https://dev.to/isuvo/optimizing-edge-model-inference-with-in-place-tokenizer-expansion-ood",
-   "date": "2026-07-28T07:15:02.000Z",
+   "title": "Cómo montar un motor de contenidos que no te arruine (julio 2026)",
+   "link": "https://dev.to/acrdev/como-montar-un-motor-de-contenidos-que-no-te-arruine-julio-2026-1jel",
+   "date": "2026-07-28T12:43:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Tokenizer Tax on Edge Hardware When deploying Large Language Models (LLMs) to resource-constrained edge devices—such as mobile phones, single-board computers, and embedded industrial gateways—I have consistently conf",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzcsss0kyn1rtagjmqq68.jpg"
-  },
-  {
-   "title": "Digital Theodolite Explained for Survey Projects",
-   "link": "https://dev.to/bnt_bandung_8524feff9e4aa/digital-theodolite-explained-for-survey-projects-2b2l",
-   "date": "2026-07-28T07:09:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Digital Theodolite Explained for Survey Projects Modern surveying demands precision, consistency, and efficiency. Whether you're working on construction, road development, mining, or topographic mapping, selecting the ri",
+   "summary": "Cómo montar un motor de contenidos que no te arruine (julio 2026) Si sigues pagando 300 euros al mes por herramientas \"todo en uno\" de marketing, estás tirando el dinero. A mediados de 2026, la tecnología para automatiza",
    "image": null
   },
   {
-   "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+   "title": "Revolutionize Your Skillset: How DevOps Training in BTM Can Catalyze Your Career Journey in 2026",
+   "link": "https://dev.to/lmt_new_5ff6b33c7/revolutionize-your-skillset-how-devops-training-in-btm-can-catalyze-your-career-journey-in-2026-169k",
+   "date": "2026-07-28T12:42:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Revolutionize Your Skillset: How DevOps Training in BTM Can Catalyze Your Career Journey in 2026 In today's fast-paced software development landscape, acquiring new skills is not just beneficial; it's essential for profe",
+   "image": null
+  },
+  {
+   "title": "DevOps Training in BTM: An Unseen Catalyst for 2026 Career Acceleration",
+   "link": "https://dev.to/lmt_new_5ff6b33c7/devops-training-in-btm-an-unseen-catalyst-for-2026-career-acceleration-5f80",
+   "date": "2026-07-28T12:42:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "DevOps Training in BTM: An Unseen Catalyst for 2026 Career Acceleration As the tech landscape evolves, the demand for DevOps expertise continues to skyrocket. The integration of development and operations has transformed",
+   "image": null
+  },
+  {
+   "title": "Elevate Your Skillset: How DevOps Training in BTM Turns Ambitious Professionals into Industry Leaders",
+   "link": "https://dev.to/h1_lmt_582a030968e32867be/elevate-your-skillset-how-devops-training-in-btm-turns-ambitious-professionals-into-industry-54nk",
+   "date": "2026-07-28T12:42:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Elevate Your Skillset: How DevOps Training in BTM Turns Ambitious Professionals into Industry Leaders In the fast-paced realm of technology, remaining relevant requires a commitment to continuous learning and adaptation.",
+   "image": null
+  },
+  {
+   "title": "Why I’m Writing Rachel’s Ramblings",
+   "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+   "date": "2026-07-28T12:32:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not",
+   "image": null
+  },
+  {
+   "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+   "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+   "date": "2026-07-28T11:55:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the M",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg"
+  },
+  {
+   "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+   "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+   "date": "2026-07-28T08:11:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg"
+  },
+  {
+   "title": "Salsa Digital: Drupal AI Context — beta 3 released",
+   "link": "/insights/drupal-ai-context-beta-3-released?utm_source=drupalplanet",
+   "date": "2026-07-28T08:05:01.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Beta 3 release of Drupal AI Context Beta 3 of Drupal AI Context , also known as Context Control Center (CCC), is now available. CCC helps Drupal sites provide governed, reusable context for AI workflows and agents, from ",
+   "image": null
+  },
+  {
+   "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+   "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+   "date": "2026-07-28T08:04:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
+  },
+  {
+   "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
    "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
    "date": "2026-07-28T06:07:22.000Z",
    "theme": "securite",
@@ -202,16 +252,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg"
   },
   {
-   "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-   "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-   "date": "2026-07-27T14:10:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg"
-  },
-  {
    "title": "Radim Marek: PostgreSQL's MVCC is bad. So is everyone else's.",
    "link": "https://postgr.es/p/9qy",
    "date": "2026-07-27T14:00:40.000Z",
@@ -230,26 +270,6 @@
    "source": "Codrops",
    "summary": "FLOT NOIR reimagines MERSI’s digital presence as a quiet, immersive space between architectural print and interactive web, combining a tailored Webflow build with precise motion and editorial storytelling.",
    "image": null
-  },
-  {
-   "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-   "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-   "date": "2026-07-27T13:05:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg"
-  },
-  {
-   "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-   "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-   "date": "2026-07-27T12:37:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg"
   },
   {
    "title": "UI Suite Initiative website: UI Suite Monthly #37 — A new look for Display Builder, and an archaeology site digs in",
@@ -419,16 +439,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Community participation moves beyond story leads as The DropTimes prepares an Editorial Working Group for Drupal contributors.",
-   "image": null
-  },
-  {
-   "title": "Smartbees: Sumaris",
-   "link": "https://smartbees.co/case-study/sumaris",
-   "date": "2026-07-24T09:58:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Check out our B2B platform implementation for Sumaris – a company providing specialized solutions for industry.",
    "image": null
   },
   {
@@ -748,7 +758,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6848efea2f9555612451/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a689c73237a0751138279/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1139,16 +1149,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-   "image": null
-  },
-  {
-   "title": "Building Reliable Agentic AI Systems",
-   "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-   "date": "2026-06-16T12:11:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "One of the most interesting projects my colleagues have done with LLMs has been building a system with Bayer to allow pharmaceutical researchers to query decades of information about studies buried in PDF reports. Sarang",
    "image": null
   },
   {
