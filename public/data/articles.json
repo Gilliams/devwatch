@@ -1,85 +1,145 @@
 {
- "generatedAt": "2026-07-28T18:41:41.837Z",
+ "generatedAt": "2026-07-29T00:07:35.253Z",
  "articles": [
   {
-   "title": "A ledger that only bills the dead",
-   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-ledger-that-only-bills-the-dead-31co",
-   "date": "2026-07-28T18:22:04.000Z",
+   "title": "Build a Kubernetes Operator with Python",
+   "link": "https://dev.to/qingluan/build-a-kubernetes-operator-with-python-pd9",
+   "date": "2026-07-29T00:00:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I run some models locally and some in the cloud. The cloud ones are metered to four decimal They are not free. They are unpriced, which is a different thing, and the reason they are nvidia-smi load, VRAM device, live, as",
+   "summary": "Build a Kubernetes Operator with Python tags: python, kubernetes, devops, tutorial tags: python, kubernetes, devops, tutorial Imagine you’re the developer who just realized that managing a fleet of custom microservices i",
    "image": null
   },
   {
-   "title": "AI Does Not Need Another Demo. It Needs an Operating Boundary.",
-   "link": "https://dev.to/shawnbure/ai-does-not-need-another-demo-it-needs-an-operating-boundary-2n7p",
-   "date": "2026-07-28T17:57:47.000Z",
+   "title": "How Japan’s 250% Training Surge is Shaping Global AI Talent",
+   "link": "https://dev.to/rasne/how-japans-250-training-surge-is-shaping-global-ai-talent-4b0e",
+   "date": "2026-07-28T23:30:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The model is important. The system around the model determines whether a company can trust it with real work. Most AI projects begin with a model demonstration. Someone uploads a document, asks a difficult question, and ",
+   "summary": "Canonical: How Japan’s 250% Training Surge is Shaping Global AI Talent — read the full article on rasne.dev. The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills ",
    "image": null
   },
   {
-   "title": "A DevOps Perspective on Turning AI Skepticism Into the Right Kind of Productivity",
-   "link": "https://dev.to/kimae/a-devops-perspective-on-turning-ai-skepticism-into-the-right-kind-of-productivity-b5c",
-   "date": "2026-07-28T17:42:41.000Z",
+   "title": "Facebook en guardias: aisla correos de prueba",
+   "link": "https://dev.to/alexcarteruk/facebook-en-guardias-aisla-correos-de-prueba-290",
+   "date": "2026-07-28T23:24:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction A few years ago I would not have believed that an assistant reading from a chat window could become a real working partner for someone in infrastructure and platform engineering. My first contact with these ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuj1x31gxvtj2dyinvs15.png"
-  },
-  {
-   "title": "Why I Built an AI Server Admin That Runs on a Tiny Go",
-   "link": "https://dev.to/bash_7fbf76fb8857b4bd169c/why-i-built-an-ai-server-admin-that-runs-on-a-tiny-go-3cak",
-   "date": "2026-07-28T17:40:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you manage servers, you probably know the drill: you're jumping between SSH terminals, looking up obscure CLI flags, digging through logs, or fighting with bloated control panel interfaces just to get a routine task d",
+   "summary": "Cuando un equipo toca login social, casi siempre mira primero el callback, el token y el frontend. Lo entiendo. Pero en guardias reales he visto otro punto frágil: el correo que acompaña el flujo de verificación, aviso o",
    "image": null
   },
   {
-   "title": "CloudWatch Alarm Emails Need Deploy Evidence",
-   "link": "https://dev.to/jasonmills94/cloudwatch-alarm-emails-need-deploy-evidence-4ee1",
-   "date": "2026-07-28T17:24:59.000Z",
+   "title": "The Silent Outage: Monitoring What You Can't See",
+   "link": "https://dev.to/samson_tanimawo/the-silent-outage-monitoring-what-you-cant-see-323n",
+   "date": "2026-07-28T23:14:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "CloudWatch alarm emails look trustworthy until two deploys happen close together and the inbox shows the right subject with the wrong story underneath. I have seen alarms mention the correct service name while the body s",
+   "summary": "The worst kind of outage is one nobody notices. Your metrics are green. Your dashboards are fine. Your users are quietly getting a broken experience. I've been burned by three silent outages in my career. Here's how I ca",
    "image": null
   },
   {
-   "title": "SafeLine vs Cloudflare WAF: An Honest, Detailed Comparison",
-   "link": "https://dev.to/lialiago/safeline-vs-cloudflare-waf-an-honest-detailed-comparison-3dga",
-   "date": "2026-07-28T17:07:23.000Z",
+   "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
+   "link": "https://dev.to/rasne/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai-2hae",
+   "date": "2026-07-28T23:00:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you're choosing a web application firewall, you've probably narrowed it down to two very different options: Cloudflare WAF, the cloud giant, and SafeLine, the most-starred WAF on GitHub with 17K+ stars. I've used both",
+   "summary": "Canonical: Kubeflow unveils new cloud native innovations to supercharge AI — read the full article on rasne.dev. The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancem",
    "image": null
   },
   {
-   "title": "Advance Your Career with In-Demand Technology Skills",
-   "link": "https://dev.to/shehzad_aa295a34ed36ff9bd/advance-your-career-with-in-demand-technology-skills-535k",
-   "date": "2026-07-28T17:03:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Technology continues to transform businesses across industries, creating strong demand for professionals with advanced skills in cloud computing, artificial intelligence, cybersecurity, data analytics, automation, and en",
+   "title": "Discovering cryptographic weaknesses with Claude",
+   "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+   "date": "2026-07-28T22:45:37.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"n",
    "image": null
   },
   {
-   "title": "Node.js July 2026 security release: your fast-patch playbook and version matrix",
-   "link": "https://dev.to/mr_manushukla/nodejs-july-2026-security-release-your-fast-patch-playbook-and-version-matrix-n78",
-   "date": "2026-07-28T17:03:04.000Z",
+   "title": "How to Buy TextNow Accounts in 2026: A Complete Guide",
+   "link": "https://dev.to/nickyaguirreb5se8/how-to-buy-textnow-accounts-in-2026-a-complete-guide-19pn",
+   "date": "2026-07-28T22:40:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Node.js July 2026 security release: your fast-patch playbook and version matrix Summary. On Monday, July 27, 2026, the Node.js project shipped security releases for its three supported lines, 26.x, 24.x and 22.x, with th",
+   "summary": "Buy TextNow Accounts: Verification, Account Security & Safe Digital Communication (Complete Guide 2026) 💫💎💲💫🌐✨💎WhatsApp :+1 (506) 541-7768 💫💎💲💫🌐✨💎Telegram: @usadigitalhub 💫💎💲💫🌐✨💎Discord: usadigitalhub \ud83d",
    "image": null
+  },
+  {
+   "title": "Quoting Akshat Bubna",
+   "link": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+   "date": "2026-07-28T22:05:55.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were ",
+   "image": null
+  },
+  {
+   "title": "uv 0.12.0",
+   "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+   "date": "2026-07-28T21:51:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "uv 0.12.0 Some interesting breaking changes in this release of uv , in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The previous version of uv ",
+   "image": null
+  },
+  {
+   "title": "Amazon Q Developer.: Agente de Desenvolvimento baseado em IA da AWS",
+   "link": "https://dev.to/rafaelbonilha/amazon-q-developer-agente-de-desenvolvimento-baseado-em-ia-da-aws-48e4",
+   "date": "2026-07-28T21:31:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A Amazon lançou o Amazon Q em Novembro de 2023 como um chatbot de IA para empresas fazerem perguntas usando seus dados em serviços da AWS. O Amazon Q acabou evoluindo para um Agente de conversação por chat baseado em IA.",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flyy1pnlou60xkyboczgg.png"
+  },
+  {
+   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+   "link": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+   "date": "2026-07-28T21:28:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their i",
+   "image": null
+  },
+  {
+   "title": "Teaching an Autonomous Pentest Agent to Prove a Breach — Not Just Claim One",
+   "link": "https://dev.to/xenocoregiger31/teaching-an-autonomous-pentest-agent-to-prove-a-breach-not-just-claim-one-1bfi",
+   "date": "2026-07-28T21:26:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The hardest part of an autonomous exploitation engine isn't landing a shell. It's knowing you landed one. Point an LLM-driven agent at a target and it will cheerfully report 23/23 ports popped — while the real number is ",
+   "image": null
+  },
+  {
+   "title": "Dries Buytaert: From personal AI experiments to shared tools",
+   "link": "https://dri.es/from-personal-ai-experiments-to-shared-tools",
+   "date": "2026-07-28T20:06:31.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "In April 2025, I published Claude Code meets Drupal, my first public experiment with an AI coding agent. I have been experimenting with coding agents ever since, often by building tools to solve problems in my own work. ",
+   "image": null
+  },
+  {
+   "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+   "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+   "date": "2026-07-28T18:59:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symm",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg"
   },
   {
    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
@@ -242,14 +302,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
   },
   {
-   "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-   "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-   "date": "2026-07-28T06:07:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95%",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
+   "title": "The Drop Times: Drupal 12 HTMX 4 Upgrade Returns to Review",
+   "link": "https://www.thedroptimes.com/71356/drupal-12-htmx-4-upgrade-review?utm_source=Drupal Planet",
+   "date": "2026-07-28T05:39:33.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Changes to how Drupal handles dynamic page updates could force contributed-module maintainers to support different behaviour in Drupal 11 and Drupal 12.",
+   "image": null
   },
   {
    "title": "Hans-Juergen Schoenig: Data Lineage in PostgreSQL 19: Finally, an Answer When the CFO Asks \"Where Did This Number Come From?\"",
@@ -372,6 +432,16 @@
    "image": null
   },
   {
+   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+   "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+   "date": "2026-07-27T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "DDEV Blog: Shopware on DDEV: notes from years of client projects",
    "link": "https://ddev.com/blog/shopware-on-ddev",
    "date": "2026-07-27T00:00:00.000Z",
@@ -422,46 +492,6 @@
    "image": null
   },
   {
-   "title": "Quoting Boris Cherny",
-   "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
-   "date": "2026-07-25T00:42:59.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is ve",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Introducing the Drupal AI Security Initiative: The First Six Weeks",
-   "link": "https://www.drupal.org/association/blog/introducing-the-drupal-ai-security-initiative-the-first-six-weeks",
-   "date": "2026-07-24T23:55:38.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal's volunteer Security Team has protected millions of sites for more than 20 years and its process is world-class. Bandwidth among the security engineers has always been the limiting constraint. This spring that con",
-   "image": null
-  },
-  {
-   "title": "Introducing Claude Opus 5",
-   "link": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
-   "date": "2026-07-24T23:48:50.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's des",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Tiffany Farriss Proposes Cost Accounting and Usage-Based Enterprise Funding",
-   "link": "https://www.thedroptimes.com/71330/farriss-funding-cost-accounting?utm_source=Drupal Planet",
-   "date": "2026-07-24T16:53:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Farriss says reserves are covering a gap in Drupal’s wider stewardship work, prompting proposals to expose programme costs and connect enterprise use with ongoing support.",
-   "image": null
-  },
-  {
    "title": "The Art of Continuous Transformation: How Garden Eight Blends Integrity with Play",
    "link": "https://tympanus.net/codrops/2026/07/24/the-art-of-continuous-transformation-how-garden-eight-blends-integrity-with-play/",
    "date": "2026-07-24T14:06:07.000Z",
@@ -492,16 +522,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
-   "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-   "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
-   "date": "2026-07-23T22:53:08.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Fa",
-   "image": null
-  },
-  {
    "title": "Percona Operator for MongoDB 1.23.0: ClusterSync Migration, Vector Search, and PVC Snapshot Backups",
    "link": "https://www.percona.com/blog/percona-operator-for-mongodb-1-23-0-clustersync-vector-search-pvc-snapshot-backups/",
    "date": "2026-07-23T19:55:51.000Z",
@@ -529,16 +549,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "Go behind the scenes of Cerebrium to explore the design, 3D, and WebGL techniques that turned complex AI infrastructure into an intuitive interactive experience.",
-   "image": null
-  },
-  {
-   "title": "Quoting Seth Larson",
-   "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-   "date": "2026-07-23T04:50:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishi",
    "image": null
   },
   {
@@ -762,16 +772,6 @@
    "image": null
   },
   {
-   "title": "Model Routing Is Simple. Until It Isn’t.",
-   "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-   "date": "2026-07-15T17:27:01.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
    "link": "https://css-tricks.com/whats-important-15/",
    "date": "2026-07-15T14:36:18.000Z",
@@ -788,7 +788,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a68e2a56229b117847325/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a693b271c7ec027913535/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
