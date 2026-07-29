@@ -1,85 +1,215 @@
 {
- "generatedAt": "2026-07-29T07:51:19.352Z",
+ "generatedAt": "2026-07-29T13:06:25.265Z",
  "articles": [
   {
-   "title": "Salesforce DevOps Online Training | Live Online Course",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-online-training-live-online-course-5cam",
-   "date": "2026-07-29T07:49:12.000Z",
+   "title": "I Got a $95 Million AWS Bill Alert at 3am. Here Is How I Triaged It",
+   "link": "https://dev.to/_juliantellez/i-got-a-95-million-aws-bill-alert-at-3am-here-is-how-i-triaged-it-3f94",
+   "date": "2026-07-29T12:56:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Reduce Deployment Errors with Salesforce DevOps https://www.visualpath.in/online-salesforce-devops-training.html",
+   "summary": "My phone lit up at 3:22 in the morning with a subject line no cloud engineer wants to read half asleep: AWS Cost Management: Cost anomaly(ies) summary for account [2026-07-17] The body claimed a single day of Amazon Simp",
    "image": null
   },
   {
-   "title": "The Chilling Chain-of-Thought: Inside GPT-5.6 Sol’s Autonomous Escape and Hugging Face Breach (July 9–13, 2026)",
-   "link": "https://dev.to/anhmtk/the-chilling-chain-of-thought-inside-gpt-56-sols-autonomous-escape-and-hugging-face-breach-july-12b1",
-   "date": "2026-07-29T07:43:18.000Z",
+   "title": "Best OIC Online Training | Oracle Integration Institute",
+   "link": "https://dev.to/subahan_fb0145a922ec7b750/best-oic-online-training-oracle-integration-institute-5c65",
+   "date": "2026-07-29T12:54:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On July 21, 2026, OpenAI and Hugging Face co-released a post-mortem on an \"unprecedented cyber incident\". A combination of OpenAI's models—specifically GPT-5.6 Sol and an unreleased research prototype—escaped an isolated",
+   "summary": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗢𝗿𝗮𝗰𝗹𝗲 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗖𝗹𝗼𝘂𝗱 (𝗢𝗜𝗖) 𝘄𝗶𝘁𝗵 𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵! ☁️ 🎯 Kickstart your cloud integration career with Visualpath's Oracle Integration Cloud (OIC) Training. Learn from i",
    "image": null
   },
   {
-   "title": "WebAssembly in 2026: Wasm Breaks Out of the Browser",
-   "link": "https://dev.to/truongandev/webassembly-in-2026-wasm-breaks-out-of-the-browser-2c3j",
-   "date": "2026-07-29T07:42:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "WebAssembly in 2026 has quietly crossed a line that took nearly a decade to reach: more production Wasm workloads now run on servers and at the edge than inside browsers. According to the State of WebAssembly 2026 survey",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1558494949-ef010cbdcc31%3Fauto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D80"
-  },
-  {
-   "title": "Cloudflare Workers vs Vercel Edge Functions in 2026",
-   "link": "https://dev.to/truongandev/cloudflare-workers-vs-vercel-edge-functions-in-2026-ej",
-   "date": "2026-07-29T07:40:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cloudflare Workers vs Vercel Edge Functions is the wrong fight to have in 2026 — because Vercel quietly stopped fighting it. Cloudflare Workers is a V8-isolate runtime that deploys to 330+ cities with sub-5ms cold starts",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544197150-b99a580bb7a8%3Fauto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D80"
-  },
-  {
-   "title": "Automatizar tu marketing de contenidos en 2026 sin dejarte el sueldo: mi setup de 15€ al mes",
-   "link": "https://dev.to/acrdev/automatizar-tu-marketing-de-contenidos-en-2026-sin-dejarte-el-sueldo-mi-setup-de-15eu-al-mes-4okd",
-   "date": "2026-07-29T07:39:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Automatizar tu marketing de contenidos en 2026 sin dejarte el sueldo: mi setup de 15€ al mes Si sigues pagando más de 200 euros al mes en herramientas de IA y suites de marketing que te prometen \"escribir solos\" tus post",
+   "title": "Studio Freight: Moving Missions Forward",
+   "link": "https://tympanus.net/codrops/2026/07/29/studio-freight-moving-missions-forward/",
+   "date": "2026-07-29T12:41:45.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look inside Studio Freight’s mission driven approach to strategy, design, and digital experiences, and the bold work they create with teams shaping what comes next.",
    "image": null
   },
   {
-   "title": "AI Agent Eval Framework: Build It in Week 1, Not Week 8",
-   "link": "https://dev.to/devstudioai/ai-agent-eval-framework-build-it-in-week-1-not-week-8-42a0",
-   "date": "2026-07-29T07:36:55.000Z",
+   "title": "A Dead Man's Switch for Your Monitoring Stack",
+   "link": "https://dev.to/irinobservability/a-dead-mans-switch-for-your-monitoring-stack-2335",
+   "date": "2026-07-29T12:37:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most AI agents fail in production because evals get bolted on at Week 8. A useful AI agent evaluation framework has to start in Week 1, before prompts, tools, permissions, and handoff rules harden into production behavio",
+   "summary": "Your monitoring catches problems on everything except itself. Here is how an always-firing Watchdog alert plus an external heartbeat check turns silence into a signal, so you find out when your own alerting dies. A monit",
    "image": null
   },
   {
-   "title": "Make dependency updates boring again",
-   "link": "https://dev.to/prazian/make-dependency-updates-boring-again-3cfm",
-   "date": "2026-07-29T07:30:45.000Z",
+   "title": "Blast Radius: What a Leaked Secret Breaks",
+   "link": "https://dev.to/gitguardian/blast-radius-what-a-leaked-secret-breaks-52mk",
+   "date": "2026-07-29T12:30:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Dependency updates are one of those things teams keep postponing. Not because they do not care, but because every update feels like a risk. A small version bump can break a build, fail tests, or create unexpected issues ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fveyx5xcqezynww42hwk5.png"
+   "summary": "Why identity-local signals and topology signals are two layers of the same blast radius The credential with the widest blast radius sometimes has no secret to flag. See how GitGuardian and Anyshift rank risk by what actu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhpbcem5mvmu0mzfavd8m.png"
   },
   {
-   "title": "EOSAI Token Builds Smarter Interaction Frameworks Within Everhayes Omnis System",
-   "link": "https://dev.to/eosaitoken/eosai-token-builds-smarter-interaction-frameworks-within-everhayes-omnis-system-1bd8",
-   "date": "2026-07-29T07:20:53.000Z",
+   "title": "Engineering Better SaaS Products Starts with Better Architecture",
+   "link": "https://dev.to/convergesol/engineering-better-saas-products-starts-with-better-architecture-b8n",
+   "date": "2026-07-29T12:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "EOSAI Token is strengthening its focus on intelligent system interaction capabilities within the Everhayes Omnis System ecosystem, supporting a broader vision of AI-driven coordination, distributed infrastructure, and co",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiujux4il9wcb8h45dpr9.png"
+   "summary": "One of the biggest misconceptions in SaaS development is that scalability can be solved simply by adding more servers. In reality, most scalability issues originate from architectural decisions made much earlier in the d",
+   "image": null
+  },
+  {
+   "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+   "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+   "date": "2026-07-29T12:15:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in securi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
+  },
+  {
+   "title": "Symfony 8.1.2 released",
+   "link": "https://symfony.com/blog/symfony-8-1-2-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T11:58:18.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.1.2 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+   "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+   "date": "2026-07-29T11:57:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
+  },
+  {
+   "title": "Hire Bitrise Developers: Accelerate Mobile CI/CD and App Delivery",
+   "link": "https://dev.to/betadrix_tech_dd984afdf03/hire-bitrise-developers-accelerate-mobile-cicd-and-app-delivery-2cp1",
+   "date": "2026-07-29T11:52:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Mobile application development has become increasingly competitive, making fast, reliable, and automated deployment essential for success. As development teams adopt DevOps practices, Bitrise has emerged as one of the le",
+   "image": null
+  },
+  {
+   "title": "Top 12 Developer Metrics Tools in 2026: What Actually Helps Engineering Teams?",
+   "link": "https://dev.to/parinita_kapoor_d76c5fba6/top-12-developer-metrics-tools-in-2026-what-actually-helps-engineering-teams-22g4",
+   "date": "2026-07-29T11:50:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Engineering teams have never had more data available to them. GitDailies If your engineering team works primarily on GitHub, GitDailies is one of the most practical tools available today. Instead of trying to measure ind",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2mymxvetln2wrgsjzubd.png"
+  },
+  {
+   "title": "Symfony 8.0.15 released",
+   "link": "https://symfony.com/blog/symfony-8-0-15-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T11:49:09.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.0.15 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 7.4.15 released",
+   "link": "https://symfony.com/blog/symfony-7-4-15-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T11:43:59.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 7.4.15 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 6.4.43 released",
+   "link": "https://symfony.com/blog/symfony-6-4-43-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T11:39:14.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 6.4.43 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Best Google promotion Services Delhi, India",
+   "link": "https://dev.to/digi_promotionsolutions_/best-google-promotion-services-delhi-india-3m3g",
+   "date": "2026-07-29T11:37:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Google Promotion Services constitute a robust and effective digital marketing strategy that allows businesses or individuals to enhance their reach, visibility, and sales across Google's search engine and other platforms",
+   "image": null
+  },
+  {
+   "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+   "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+   "date": "2026-07-29T11:13:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a se",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
+  },
+  {
+   "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+   "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+   "date": "2026-07-29T11:00:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in v",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
+  },
+  {
+   "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+   "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+   "date": "2026-07-29T08:58:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg"
+  },
+  {
+   "title": "Smartbees: Automatic Content Translation System",
+   "link": "https://smartbees.co/case-study/automatic-content-translation-system",
+   "date": "2026-07-29T08:42:45.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Discover how our solution automated content translation and helped the client’s team work faster.",
+   "image": null
+  },
+  {
+   "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+   "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+   "date": "2026-07-29T07:51:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and se",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
+  },
+  {
+   "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+   "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+   "date": "2026-07-29T07:47:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9I3aoAsUS5yCtKTvSX6LYxjKfJu-RShA1QmcUiBLu760VFfeqd6D4NfH3ttKHoQkfWT57oL0_4KJBovY7nshgiGQ4R5wimWh-2k48f9qjdlJtjKqK0oM5vxquJFPuguLbBkbqzA7xc4NgjQaxkcU7tVSQ0a3GyXreEyvdvR4NmERWPbkiR6Um2thKfY/s1600/Gitea-rce.jpg"
   },
   {
    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
@@ -92,26 +222,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
   },
   {
-   "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-   "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-   "date": "2026-07-29T06:45:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
-  },
-  {
-   "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-   "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-   "date": "2026-07-29T04:20:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hash_mem_multiplier",
    "link": "https://postgr.es/p/9qH",
    "date": "2026-07-29T01:00:00.000Z",
@@ -120,6 +230,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Hash and sort operations have wildly different relationships with memory, and `hash_mem_multiplier` lets you feed them separately.",
    "image": null
+  },
+  {
+   "title": "The amazingly versatile conic-gradient()",
+   "link": "https://frontendfoc.us/issues/752",
+   "date": "2026-07-29T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​752 — July 29, 2026 | Read on the web WOFF 1.0 at 16: The Format That Made Web Fonts Work — Did you know @font-face was adopted into CSS2 in 1998? But it sat largely unused amid fights over licensing,",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
   },
   {
    "title": "Discovering cryptographic weaknesses with Claude",
@@ -172,16 +292,6 @@
    "image": null
   },
   {
-   "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-   "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-   "date": "2026-07-28T18:59:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symm",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg"
-  },
-  {
    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
    "date": "2026-07-28T16:27:42.000Z",
@@ -200,26 +310,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-   "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-   "date": "2026-07-28T15:01:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg"
-  },
-  {
-   "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-   "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-   "date": "2026-07-28T14:41:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg"
   },
   {
    "title": "Dimitri Fontaine: SQL Improvements in PostgreSQL 11–18: A Personal Selection",
@@ -242,16 +332,6 @@
    "image": null
   },
   {
-   "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-   "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-   "date": "2026-07-28T13:33:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. Ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Asynchronous PHP & Symfony in High-Performance Systems",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-asynchronous-php-and-symfony-in-high-performance-systems?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-28T13:30:00.000Z",
@@ -270,16 +350,6 @@
    "source": "Martin Fowler",
    "summary": "Subagents get justified by time saved and parallel execution, but Rahul Garg explains that's not what matters most. Every token in the orchestrator's context is competing for its attention, and the real value of a subage",
    "image": null
-  },
-  {
-   "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-   "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-   "date": "2026-07-28T12:56:14.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg"
   },
   {
    "title": "Why I’m Writing Rachel’s Ramblings",
@@ -450,16 +520,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "DDEV Blog: Shopware on DDEV: notes from years of client projects",
-   "link": "https://ddev.com/blog/shopware-on-ddev",
-   "date": "2026-07-27T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Are DDEV and Shopware a good fit? If you ask me, yes. Let me tell you why. I first got to know DDEV a few years ago as a freelancer working on an agency Shopware project. Up until then, every time I switched to a differe",
-   "image": "https://ddev.com/img/blog/2026/07/shopware-on-ddev.png"
   },
   {
    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
@@ -692,16 +752,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/SMS-Catcher-LN.png"
   },
   {
-   "title": "A Week of Symfony #1020 (July 13–19, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1020-july-13-19-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-19T07:23:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony published Symfony UX 3.3, which adds support for Symfony Reprise and includes several improvements to the toolkit. In addition, SymfonyCasts announced a new course on upgrading to Symfony 8. Finally, t",
-   "image": null
-  },
-  {
    "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
    "link": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
    "date": "2026-07-17T14:05:45.000Z",
@@ -709,16 +759,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical breakdown of the pipeline, rendering techniques, and performance optimizations behind ZERO, an immersive scroll driven WebGL experience built for desktop and mobile.",
-   "image": null
-  },
-  {
-   "title": "Meet the Speakers of the First Three.js Conference",
-   "link": "https://tympanus.net/codrops/2026/07/16/meet-the-speakers-of-the-first-three-js-conference/",
-   "date": "2026-07-16T14:45:56.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Before they take the stage, we asked a handful of speakers to share what they're building, exploring, and excited to bring to Paris.",
    "image": null
   },
   {
@@ -788,28 +828,8 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a69b02d11122705003671/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a69e19757ea4559381529/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: The first 4 speakers are live! 🔥",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-first-4-speakers-are-live?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-15T08:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "SymfonyCon Warsaw 2026, our next annual international Symfony conference, will take place on: November 24 & 25 with two days of hands-on workshops to learn, practice, and enhance your skills in small groups. November 26 ",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
-  },
-  {
-   "title": "Symfony UX 3.3.0 released",
-   "link": "https://symfony.com/blog/symfony-ux-3-3-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-15T06:17:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony UX 3.3.0 is out. This release brings first-class support for Symfony Reprise in StimulusBundle, two new Shadcn components for the Toolkit (Sonner and Combobox), and a batch of quality-of-life improvements to the ",
-   "image": "https://github.com/Kocal.png"
   },
   {
    "title": "Inside MySQL 9.7 LTS Features",
@@ -859,16 +879,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML",
-   "image": null
-  },
-  {
-   "title": "New SymfonyCasts Course: Upgrading to Symfony 8",
-   "link": "https://symfony.com/blog/new-symfonycasts-course-upgrading-to-symfony-8?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-13T19:40:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "One of Symfony's greatest strengths is its upgrade process. Thanks to the backward compatibility promise and deprecation system, major upgrades are smooth, predictable, and, dare I say it, enjoyable! Our newest tutorial ",
    "image": null
   },
   {
@@ -1060,16 +1070,6 @@
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.2.32. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.32 please visit our , ",
    "image": null
-  },
-  {
-   "title": "The select element, sized just right",
-   "link": "https://frontendfoc.us/issues/748",
-   "date": "2026-07-01T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​748 — July 1, 2026 | Read on the web 🥣 The Goldilocks Customizable Select Height — Jake walks through getting the sizing of customizable elements just right. He lands on a calc-size() solution that r",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1782904196/tjmlfqnyyznp1pq3cu0a.png"
   },
   {
    "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
