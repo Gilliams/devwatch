@@ -1,64 +1,114 @@
 {
- "generatedAt": "2026-07-30T00:08:29.074Z",
+ "generatedAt": "2026-07-30T07:41:25.825Z",
  "articles": [
   {
-   "title": "Supabase vs Firebase: How the Two Backends Compare (2026)",
-   "link": "https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3co4",
-   "date": "2026-07-30T00:04:56.000Z",
+   "title": "How to Revoke an AI Agent's Access Before You Regret Not Planning for It",
+   "link": "https://dev.to/pstayet/how-to-revoke-an-ai-agents-access-before-you-regret-not-planning-for-it-2do4",
+   "date": "2026-07-30T07:38:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A feature-by-feature and pricing comparison of two hosted app backends, based on each vendor's own documentation as of July 29, 2026. Supabase and Firebase both give developers a hosted backend so you can ship an app wit",
+   "summary": "I've been running a small fleet of coding agents for about six months now. They review PRs, run integration tests, and occasionally triage alerts. Setting them up was easy — generate a token, grant a role, move on. Revok",
    "image": null
   },
   {
-   "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-   "link": "https://dev.to/rasne/how-the-controller-runtime-cache-actually-works-and-why-your-controller-does-not-crash-the-api-a8g",
-   "date": "2026-07-30T00:00:40.000Z",
+   "title": "Unlocking Opportunities: A Comprehensive Exploration of DevOps Training in Bangalore for Aspiring Tech Professionals",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/unlocking-opportunities-a-comprehensive-exploration-of-devops-training-in-bangalore-for-aspiring-bl8",
+   "date": "2026-07-30T07:33:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server — read the full article on rasne.dev. Kubernetes has long been the default platform for distributed worklo",
+   "summary": "Unlocking Opportunities: A Comprehensive Exploration of DevOps Training in Bangalore for Aspiring Tech Professionals The tech landscape is evolving rapidly, and with the rise of agile methodologies and continuous integra",
    "image": null
   },
   {
-   "title": "GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change",
-   "link": "https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4",
-   "date": "2026-07-29T23:52:17.000Z",
+   "title": "The Ultimate Playbook: How DevOps Training in Bangalore Can Advance Your Career in 2026",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-ultimate-playbook-how-devops-training-in-bangalore-can-advance-your-career-in-2026-3j1c",
+   "date": "2026-07-30T07:33:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, code references, and screenshots reflect production systems I designed and operate at airCloset; the pr",
+   "summary": "The Ultimate Playbook: How DevOps Training in Bangalore Can Advance Your Career in 2026 In the dynamic realm of software development, DevOps Training in Bangalore stands out as a vital investment for forward-thinking sof",
    "image": null
   },
   {
-   "title": "TLS Certificate Management Without Tears",
-   "link": "https://dev.to/samson_tanimawo/tls-certificate-management-without-tears-5fi1",
-   "date": "2026-07-29T22:49:28.000Z",
+   "title": "Future-Proof Your Skills: Top Reasons to Consider DevOps Training in Bangalore for Career Advancement",
+   "link": "https://dev.to/h2_lmt_318f611464212f9336/future-proof-your-skills-top-reasons-to-consider-devops-training-in-bangalore-for-career-a89",
+   "date": "2026-07-30T07:33:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Expired certificates cause more outages than they should. Every time, the post-mortem says 'we'll monitor expiry dates.' Every time, six months later, someone forgets. Here's how to actually solve it. Rule 1: Don't manag",
+   "summary": "Future-Proof Your Skills: Top Reasons to Consider DevOps Training in Bangalore for Career Advancement In today’s fast-evolving tech landscape, software developers and engineers are continually seeking opportunities to en",
    "image": null
   },
   {
-   "title": "A self-hosted n8n that actually matches the 2.x architecture (SQLite + external task runners)",
-   "link": "https://dev.to/greatsage_sh/a-self-hosted-n8n-that-actually-matches-the-2x-architecture-sqlite-external-task-runners-3i2d",
-   "date": "2026-07-29T22:08:09.000Z",
+   "title": "Elevate Your Career: Five Key Reasons to Choose DevOps Training in Bangalore for 2026 Success",
+   "link": "https://dev.to/h2_lmt_318f611464212f9336/elevate-your-career-five-key-reasons-to-choose-devops-training-in-bangalore-for-2026-success-1o4",
+   "date": "2026-07-30T07:33:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you're self-hosting n8n, you've probably noticed the 2.x line changed more than the version number. The thing that actually matters operationally: n8n moved Code node execution out of the main process and into a separ",
+   "summary": "Elevate Your Career: Five Key Reasons to Choose DevOps Training in Bangalore for 2026 Success In the ever-evolving tech landscape, the demand for skilled DevOps professionals is skyrocketing, particularly in tech hubs li",
    "image": null
   },
   {
-   "title": "Build a Website Health Checker with Python",
-   "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-2men",
-   "date": "2026-07-29T22:00:04.000Z",
+   "title": "Elevate Your Tech Career: Navigating Opportunities in DevOps Training in Bangalore for 2026",
+   "link": "https://dev.to/lmt_new_5ff6b33c7/elevate-your-tech-career-navigating-opportunities-in-devops-training-in-bangalore-for-2026-cp8",
+   "date": "2026-07-30T07:33:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a Website Health Checker with Python tags: python, devops, monitoring, tools tags: python, devops, monitoring, tools You’ve got a broken link at 2 AM, your users are furious, and you’re the only one who knows why. ",
+   "summary": "Elevate Your Tech Career: Navigating Opportunities in DevOps Training in Bangalore for 2026 The technological landscape is evolving at an unprecedented rate, and with it, the demand for DevOps professionals is skyrocketi",
+   "image": null
+  },
+  {
+   "title": "Transform Your Skill Set: How DevOps Training in Bangalore Prepares You for Tomorrow's Tech Landscape",
+   "link": "https://dev.to/lmt_new_5ff6b33c7/transform-your-skill-set-how-devops-training-in-bangalore-prepares-you-for-tomorrows-tech-4k52",
+   "date": "2026-07-30T07:33:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Transform Your Skill Set: How DevOps Training in Bangalore Prepares You for Tomorrow's Tech Landscape The tech industry is evolving at an unprecedented pace, making it essential for software developers and engineers to s",
+   "image": null
+  },
+  {
+   "title": "Bridge the Gap: Essential Skills from DevOps Training in Bangalore for a Dynamic 2026",
+   "link": "https://dev.to/h1_lmt_582a030968e32867be/bridge-the-gap-essential-skills-from-devops-training-in-bangalore-for-a-dynamic-2026-3b45",
+   "date": "2026-07-30T07:32:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bridge the Gap: Essential Skills from DevOps Training in Bangalore for a Dynamic 2026 The landscape of software development is evolving at a breakneck speed. As organizations strive to deliver software products faster an",
+   "image": null
+  },
+  {
+   "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+   "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+   "date": "2026-07-30T06:05:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
+  },
+  {
+   "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+   "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+   "date": "2026-07-30T05:08:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: hba_file",
+   "link": "https://postgr.es/p/9qM",
+   "date": "2026-07-30T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "hba_file points to your authentication rules, not the rules themselves. Reload changes to pg_hba.conf instantly; restart when moving the file.",
    "image": null
   },
   {
@@ -79,26 +129,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.0.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Top 10 Kubernetes Interview Questions for 2026 (With Answers)",
-   "link": "https://dev.to/devopslesson/top-10-kubernetes-interview-questions-for-2026-with-answers-2e3c",
-   "date": "2026-07-29T21:39:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The 10 Kubernetes interview questions you are most likely to be asked in 2026 with clear, senior-level answers covering pods, deployments, services, self-healing, networking, and real scenario-based problems for DevOps a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbnq4l7d88ttz8qbi1mo.png"
-  },
-  {
-   "title": "Seu code review não precisa discutir espaçamento",
-   "link": "https://dev.to/denisgusto1/seu-code-review-nao-precisa-discutir-espacamento-1ild",
-   "date": "2026-07-29T21:38:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "O pull request com 14 comentários (13 são sobre vírgula) Você abre o PR do colega. Quarenta arquivos alterados, uma feature importante. E os comentários são esses: \"faltou linha em branco antes do return\" \"acho que aqui ",
    "image": null
   },
   {
@@ -139,7 +169,7 @@
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg"
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
   },
   {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
@@ -242,16 +272,6 @@
    "image": null
   },
   {
-   "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-   "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-   "date": "2026-07-29T11:57:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-  },
-  {
    "title": "Symfony 8.0.15 released",
    "link": "https://symfony.com/blog/symfony-8-0-15-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-29T11:49:09.000Z",
@@ -280,16 +300,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 6.4.43 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
-  },
-  {
-   "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-   "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-   "date": "2026-07-29T11:13:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
   },
   {
    "title": "Smartbees: Automatic Content Translation System",
@@ -530,16 +540,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Fujitsu’s PostgreSQL team helped shape PostgreSQL 19 through sustained code contributions, community recognition, and new improvements in logical replication. Take a closer look at Fujitsu’s growing impact and ongoing co",
    "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-highlights-of-fujitsu-contribution-in-postgresql-19.png"
-  },
-  {
-   "title": "Vibhor Kumar: The CALM Platform Test",
-   "link": "https://postgr.es/p/9qz",
-   "date": "2026-07-27T21:08:45.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Why Enterprise Platforms Often Fail Long Before They Break The examples in this article are anonymized, and certain details have been adjusted to protect the organizations involved. The Crossroads Nobody Schedules Every ",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/07/image-8.png?w=1024"
   },
   {
    "title": "Between Print and Digital: The Making of MERSI’s Website",
@@ -838,7 +838,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6a8bf1e073e236497432/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6afcd96cdf9107828811/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
