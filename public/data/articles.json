@@ -1,84 +1,164 @@
 {
- "generatedAt": "2026-07-30T07:41:25.825Z",
+ "generatedAt": "2026-07-30T12:52:41.042Z",
  "articles": [
   {
-   "title": "How to Revoke an AI Agent's Access Before You Regret Not Planning for It",
-   "link": "https://dev.to/pstayet/how-to-revoke-an-ai-agents-access-before-you-regret-not-planning-for-it-2do4",
-   "date": "2026-07-30T07:38:51.000Z",
+   "title": "Your Agent's Memory Is a Markdown File. Let's Audit It.",
+   "link": "https://dev.to/mjfekri/your-agents-memory-is-a-markdown-file-lets-audit-it-4l2n",
+   "date": "2026-07-30T12:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've been running a small fleet of coding agents for about six months now. They review PRs, run integration tests, and occasionally triage alerts. Setting them up was easy — generate a token, grant a role, move on. Revok",
+   "summary": "Quick check: does your agent stack have a memory.md in it somewhere? An AGENTS.md? A notes file the agent appends to when something seems worth keeping? Thought so. Mine did too. It's the pattern everyone converges on, i",
    "image": null
   },
   {
-   "title": "Unlocking Opportunities: A Comprehensive Exploration of DevOps Training in Bangalore for Aspiring Tech Professionals",
-   "link": "https://dev.to/lm_pg_ae695f1a4c717f/unlocking-opportunities-a-comprehensive-exploration-of-devops-training-in-bangalore-for-aspiring-bl8",
-   "date": "2026-07-30T07:33:55.000Z",
+   "title": "Everyone Designs the Happy Path. Production Happens at 3 AM.",
+   "link": "https://dev.to/merbayerp/everyone-designs-the-happy-path-production-happens-at-3-am-c7a",
+   "date": "2026-07-30T12:26:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Unlocking Opportunities: A Comprehensive Exploration of DevOps Training in Bangalore for Aspiring Tech Professionals The tech landscape is evolving rapidly, and with the rise of agile methodologies and continuous integra",
+   "summary": "At 3 AM, architecture diagrams become unusually honest. The clean arrows are still there. The trust boundaries have not moved. The signature algorithm is still mathematically sound. But the person responding to the incid",
    "image": null
   },
   {
-   "title": "The Ultimate Playbook: How DevOps Training in Bangalore Can Advance Your Career in 2026",
-   "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-ultimate-playbook-how-devops-training-in-bangalore-can-advance-your-career-in-2026-3j1c",
-   "date": "2026-07-30T07:33:54.000Z",
+   "title": "Getting a Free Oracle Cloud VPS from India: The Full Guide (and the RuPay Wall Nobody Warns You About)",
+   "link": "https://dev.to/ashish-codejourney/getting-a-free-oracle-cloud-vps-from-india-the-full-guide-and-the-rupay-wall-nobody-warns-you-4p5o",
+   "date": "2026-07-30T12:21:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Ultimate Playbook: How DevOps Training in Bangalore Can Advance Your Career in 2026 In the dynamic realm of software development, DevOps Training in Bangalore stands out as a vital investment for forward-thinking sof",
+   "summary": "Hey Folks! So you want a real server. One that runs 24/7, hosts your side projects, survives reboots, and costs you exactly zero rupees a month. Not a trial that dies in 30 days. Not a $5 droplet you keep forgetting to c",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2rarct22akm3vyu4azlu.png"
+  },
+  {
+   "title": "DSCI series / Rakulang CI, part2. Cro Application",
+   "link": "https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini",
+   "date": "2026-07-30T12:15:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In this episode I talk about developing web application based on well known cro framework and specifically how to create CI pipeline using DSCI tool. Here is example of very simple cro application (taken from cro web sit",
    "image": null
   },
   {
-   "title": "Future-Proof Your Skills: Top Reasons to Consider DevOps Training in Bangalore for Career Advancement",
-   "link": "https://dev.to/h2_lmt_318f611464212f9336/future-proof-your-skills-top-reasons-to-consider-devops-training-in-bangalore-for-career-a89",
-   "date": "2026-07-30T07:33:40.000Z",
+   "title": "My drift detector cried wolf every time my autoscaler scaled out — and the fix was a tag AWS already sets",
+   "link": "https://dev.to/hitoshi1964/my-drift-detector-cried-wolf-every-time-my-autoscaler-scaled-out-and-the-fix-was-a-tag-aws-4f3e",
+   "date": "2026-07-30T12:14:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Future-Proof Your Skills: Top Reasons to Consider DevOps Training in Bangalore for Career Advancement In today’s fast-evolving tech landscape, software developers and engineers are continually seeking opportunities to en",
+   "summary": "A while back I wrote about the first time my self-hosted drift detector cried : a diff bug that flagged phantom changes on every scan. I fixed it and Then I pointed it at an account with an Auto Scaling group, and it cri",
    "image": null
   },
   {
-   "title": "Elevate Your Career: Five Key Reasons to Choose DevOps Training in Bangalore for 2026 Success",
-   "link": "https://dev.to/h2_lmt_318f611464212f9336/elevate-your-career-five-key-reasons-to-choose-devops-training-in-bangalore-for-2026-success-1o4",
-   "date": "2026-07-30T07:33:30.000Z",
+   "title": "The Complete Technical SEO Guide for React Applications (2026)",
+   "link": "https://dev.to/jaimin_umaraniya_c1fa0102/the-complete-technical-seo-guide-for-react-applications-2026-3h6h",
+   "date": "2026-07-30T12:14:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Elevate Your Career: Five Key Reasons to Choose DevOps Training in Bangalore for 2026 Success In the ever-evolving tech landscape, the demand for skilled DevOps professionals is skyrocketing, particularly in tech hubs li",
+   "summary": "Technical SEO Guide for React Apps (2026) By Jaimin-Umaraniya Is React good for SEO? Yes—but only if you handle rendering, metadata, and performance correctly. Installing Next.js doesn't fix your SEO by itself. It just h",
    "image": null
   },
   {
-   "title": "Elevate Your Tech Career: Navigating Opportunities in DevOps Training in Bangalore for 2026",
-   "link": "https://dev.to/lmt_new_5ff6b33c7/elevate-your-tech-career-navigating-opportunities-in-devops-training-in-bangalore-for-2026-cp8",
-   "date": "2026-07-30T07:33:19.000Z",
+   "title": "How to Implement Generative AI in MedTech with QMS Controls",
+   "link": "https://dev.to/jasperstewart/how-to-implement-generative-ai-in-medtech-with-qms-controls-1a44",
+   "date": "2026-07-30T12:06:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Elevate Your Tech Career: Navigating Opportunities in DevOps Training in Bangalore for 2026 The technological landscape is evolving at an unprecedented rate, and with it, the demand for DevOps professionals is skyrocketi",
+   "summary": "A step-by-step path from use-case selection to monitored deployment A generative AI pilot can look convincing within days, yet converting it into a dependable medical device workflow is a different exercise. Design assur",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folkij0kz1o89rjq9o9j1.jpeg"
+  },
+  {
+   "title": "The Automation Debt Curve: Why Automation Eventually Costs More Than It Saves",
+   "link": "https://dev.to/ntctech/the-automation-debt-curve-why-automation-eventually-costs-more-than-it-saves-3fl6",
+   "date": "2026-07-30T12:03:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The automation debt curve describes what most organizations get backwards about infrastructure automation: it doesn't become expensive because you automate more. It becomes expensive because yesterday's automation has to",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1orcp9m0klwy16hf46a3.jpg"
+  },
+  {
+   "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+   "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+   "date": "2026-07-30T11:54:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg"
+  },
+  {
+   "title": "The Network Has Become the Control Plane for AI Security",
+   "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+   "date": "2026-07-30T11:32:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
+  },
+  {
+   "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+   "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+   "date": "2026-07-30T10:33:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security softwa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg"
+  },
+  {
+   "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+   "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+   "date": "2026-07-30T10:32:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg"
+  },
+  {
+   "title": "Symfony 8.0 reaches its end of maintenance",
+   "link": "https://symfony.com/blog/symfony-8-0-reaches-its-end-of-maintenance?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-30T10:21:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.0.16 was released on July 29, 2026. It is the last release of the 8.0 branch. Symfony's release policy gives standard versions eight months of support, with bug fixes and security fixes ending at the same time.",
    "image": null
   },
   {
-   "title": "Transform Your Skill Set: How DevOps Training in Bangalore Prepares You for Tomorrow's Tech Landscape",
-   "link": "https://dev.to/lmt_new_5ff6b33c7/transform-your-skill-set-how-devops-training-in-bangalore-prepares-you-for-tomorrows-tech-4k52",
-   "date": "2026-07-30T07:33:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Transform Your Skill Set: How DevOps Training in Bangalore Prepares You for Tomorrow's Tech Landscape The tech industry is evolving at an unprecedented pace, making it essential for software developers and engineers to s",
-   "image": null
+   "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+   "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+   "date": "2026-07-30T07:40:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
   },
   {
-   "title": "Bridge the Gap: Essential Skills from DevOps Training in Bangalore for a Dynamic 2026",
-   "link": "https://dev.to/h1_lmt_582a030968e32867be/bridge-the-gap-essential-skills-from-devops-training-in-bangalore-for-a-dynamic-2026-3b45",
-   "date": "2026-07-30T07:32:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Bridge the Gap: Essential Skills from DevOps Training in Bangalore for a Dynamic 2026 The landscape of software development is evolving at a breakneck speed. As organizations strive to deliver software products faster an",
+   "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+   "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+   "date": "2026-07-30T07:28:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
+  },
+  {
+   "title": "Metadrop: How to automate WordPress-to-Drupal content migration with WordPress Migrate SQL",
+   "link": "https://metadrop.net/en/articles/how-to-automate-wordpress-to-drupal-content-migration-with-wordpress-migrate-sql",
+   "date": "2026-07-30T06:15:15.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Some WordPress sites reach a point where the content model no longer fits the organization's needs. Custom content types, custom entities, and custom fields become necessary to represent internal data precisely, and Drup",
    "image": null
   },
   {
@@ -109,6 +189,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "hba_file points to your authentication rules, not the rules themselves. Reload changes to pg_hba.conf instantly; restart when moving the file.",
+   "image": null
+  },
+  {
+   "title": "Stefanie Janine: ProOpenSource is now an Open Alliance for PostgreSQL Education Supporter",
+   "link": "https://postgr.es/p/9qN",
+   "date": "2026-07-29T22:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "What Is Open Alliance for PostgreSQL Education (OAPE)? The OAPE is the recently founded organistion that will offer indipendent community PostgreSQL certifications. Why Becoming A Supporter For years there have only been",
    "image": null
   },
   {
@@ -162,16 +252,6 @@
    "image": null
   },
   {
-   "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-   "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-   "date": "2026-07-29T18:10:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
-  },
-  {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
    "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
    "date": "2026-07-29T18:00:00.000Z",
@@ -192,46 +272,6 @@
    "image": "https://abs.twimg.com/emoji/v2/svg/1fa84.svg"
   },
   {
-   "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-   "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-   "date": "2026-07-29T15:39:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-  },
-  {
-   "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-   "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-   "date": "2026-07-29T15:31:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-  },
-  {
-   "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-   "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-   "date": "2026-07-29T13:48:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Pla",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
-  },
-  {
-   "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-   "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-   "date": "2026-07-29T13:42:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-  },
-  {
    "title": "Studio Freight: Moving Missions Forward",
    "link": "https://tympanus.net/codrops/2026/07/29/studio-freight-moving-missions-forward/",
    "date": "2026-07-29T12:41:45.000Z",
@@ -240,16 +280,6 @@
    "source": "Codrops",
    "summary": "A look inside Studio Freight’s mission driven approach to strategy, design, and digital experiences, and the bold work they create with teams shaping what comes next.",
    "image": null
-  },
-  {
-   "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-   "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-   "date": "2026-07-29T12:15:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in securi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
   },
   {
    "title": "Drupal Association blog: Why We Contribute: The Philosophy Behind 1xINTERNET's Top-Tier Drupal Status",
@@ -502,16 +532,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Drupal 12 HTMX 4 Upgrade Returns to Review",
-   "link": "https://www.thedroptimes.com/71356/drupal-12-htmx-4-upgrade-review?utm_source=Drupal Planet",
-   "date": "2026-07-28T05:39:33.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Changes to how Drupal handles dynamic page updates could force contributed-module maintainers to support different behaviour in Drupal 11 and Drupal 12.",
-   "image": null
-  },
-  {
    "title": "Hans-Juergen Schoenig: Data Lineage in PostgreSQL 19: Finally, an Answer When the CFO Asks \"Where Did This Number Come From?\"",
    "link": "https://postgr.es/p/9qC",
    "date": "2026-07-28T05:00:43.000Z",
@@ -530,16 +550,6 @@
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 16 lets servers accept delegated Kerberos credentials to act as users against other services, but it defaults to off because the trade-off is real…",
    "image": null
-  },
-  {
-   "title": "Hayato Kuroda: Highlights of Fujitsu's contribution in PostgreSQL 19",
-   "link": "https://postgr.es/p/9qA",
-   "date": "2026-07-28T00:56:59.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Fujitsu’s PostgreSQL team helped shape PostgreSQL 19 through sustained code contributions, community recognition, and new improvements in logical replication. Take a closer look at Fujitsu’s growing impact and ongoing co",
-   "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-highlights-of-fujitsu-contribution-in-postgresql-19.png"
   },
   {
    "title": "Between Print and Digital: The Making of MERSI’s Website",
@@ -569,16 +579,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1021 (July 20–26, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1021-july-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-26T07:50:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony development activity was very intense and focused mostly on bug fixes. In addition, we added support for the upcoming Twig 4.0 version and fixed some issues related to changes in the upcoming PHP 8.6 v",
    "image": null
   },
   {
@@ -838,7 +838,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6afcd96cdf9107828811/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6b3c96e959c976391187/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
