@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-07-29T18:14:39.638Z",
+ "generatedAt": "2026-07-30T00:08:29.074Z",
  "articles": [
   {
-   "title": "CODEOWNERS notifies the wrong people",
-   "link": "https://dev.to/vivek5071/codeowners-notifies-the-wrong-people-13oh",
-   "date": "2026-07-29T18:06:36.000Z",
+   "title": "Supabase vs Firebase: How the Two Backends Compare (2026)",
+   "link": "https://dev.to/kimcomplete/supabase-vs-firebase-how-the-two-backends-compare-2026-3co4",
+   "date": "2026-07-30T00:04:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Someone changes a shared helper. Tightens a return type, nothing dramatic. The diff is clean, tests pass, and the person who owns that directory approves it in about four minutes. Then four call sites in a completely dif",
+   "summary": "A feature-by-feature and pricing comparison of two hosted app backends, based on each vendor's own documentation as of July 29, 2026. Supabase and Firebase both give developers a hosted backend so you can ship an app wit",
    "image": null
   },
   {
-   "title": "⚙️ Linux Process Management Every DevOps Engineer Should Know",
-   "link": "https://dev.to/themdmohiuddin/linux-process-management-every-devops-engineer-should-know-403k",
-   "date": "2026-07-29T17:55:06.000Z",
+   "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+   "link": "https://dev.to/rasne/how-the-controller-runtime-cache-actually-works-and-why-your-controller-does-not-crash-the-api-a8g",
+   "date": "2026-07-30T00:00:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When an application stops responding, a server becomes slow, or a deployment suddenly fails, one of the first places a DevOps engineer looks is the Linux process list. Every web server, database, monitoring agent, Docker",
+   "summary": "Canonical: How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server — read the full article on rasne.dev. Kubernetes has long been the default platform for distributed worklo",
    "image": null
   },
   {
-   "title": "NGINX Buffer Overflow (CVE-2026-42533): Detection & Patch Guide",
-   "link": "https://dev.to/xpert4cyber/nginx-buffer-overflow-cve-2026-42533-detection-patch-guide-8ee",
-   "date": "2026-07-29T17:24:29.000Z",
+   "title": "GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change",
+   "link": "https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4",
+   "date": "2026-07-29T23:52:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "## 🚨 CVE-2026-42533: A 15-Year-Old NGINX Bug Just Became a Critical RCE If you're running NGINX anywhere in your stack, this one's worth your attention today, not next sprint. CVE-2026-42533 is a heap-based buffer overf",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8034kdibf02ovax3q824.png"
-  },
-  {
-   "title": "Your n8n Workflow Is a Demo Until It Has These 5 Things",
-   "link": "https://dev.to/sasidharsunkesula/your-n8n-workflow-is-a-demo-until-it-has-these-5-things-46n9",
-   "date": "2026-07-29T17:24:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I've reviewed dozens of n8n workflows shared on Reddit, Twitter, and the n8n community forum. Most of them are demos. They work when you click \"Execute Workflow\" on a Tuesday afternoon with perfect data and stable APIs. ",
+   "summary": "AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, code references, and screenshots reflect production systems I designed and operate at airCloset; the pr",
    "image": null
   },
   {
-   "title": "Terraform Modules vs CDK Constructs | What the Extra Layers Change",
-   "link": "https://dev.to/upstood/terraform-modules-vs-cdk-constructs-what-the-extra-layers-change-daa",
-   "date": "2026-07-29T17:14:48.000Z",
+   "title": "TLS Certificate Management Without Tears",
+   "link": "https://dev.to/samson_tanimawo/tls-certificate-management-without-tears-5fi1",
+   "date": "2026-07-29T22:49:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Terraform gives you two layers of abstraction. CDK gives you four. That difference decides how much your own module has to justify itself, and what a refactor costs you a year later. Teams moving between the two tools co",
+   "summary": "Expired certificates cause more outages than they should. Every time, the post-mortem says 'we'll monitor expiry dates.' Every time, six months later, someone forgets. Here's how to actually solve it. Rule 1: Don't manag",
    "image": null
   },
   {
-   "title": "Soul in Motion — 10:13 PM | 2026-07-29",
-   "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1013-pm-2026-07-29-50h3",
-   "date": "2026-07-29T16:58:26.000Z",
+   "title": "A self-hosted n8n that actually matches the 2.x architecture (SQLite + external task runners)",
+   "link": "https://dev.to/greatsage_sh/a-self-hosted-n8n-that-actually-matches-the-2x-architecture-sqlite-external-task-runners-3i2d",
+   "date": "2026-07-29T22:08:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Mastered algorithmic optimization, achieving significant performance and scalability improvements Successfully integrated new UI components into frontend architecture Maintained a healthy work-life balance, includi",
+   "summary": "If you're self-hosting n8n, you've probably noticed the 2.x line changed more than the version number. The thing that actually matters operationally: n8n moved Code node execution out of the main process and into a separ",
    "image": null
   },
   {
-   "title": "AI Code Review Is Broken: The 7 Bugs That Slip Through Every Time",
-   "link": "https://dev.to/rumeshprasanga/ai-code-review-is-broken-the-7-bugs-that-slip-through-every-time-5amk",
-   "date": "2026-07-29T16:56:30.000Z",
+   "title": "Build a Website Health Checker with Python",
+   "link": "https://dev.to/qingluan/build-a-website-health-checker-with-python-2men",
+   "date": "2026-07-29T22:00:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI coding assistants are now used by 78% of professional developers. But here's the uncomfortable truth: only 12% of teams have any process to verify AI-generated code before deployment. We analyzed 10,000+ AI-generated ",
+   "summary": "Build a Website Health Checker with Python tags: python, devops, monitoring, tools tags: python, devops, monitoring, tools You’ve got a broken link at 2 AM, your users are furious, and you’re the only one who knows why. ",
    "image": null
   },
   {
-   "title": "Why AIoT Is Becoming a Game Changer for Commercial Construction",
-   "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/why-aiot-is-becoming-a-game-changer-for-commercial-construction-24hf",
-   "date": "2026-07-29T16:53:14.000Z",
+   "title": "Symfony 8.1.3 released",
+   "link": "https://symfony.com/blog/symfony-8-1-3-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T21:51:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.1.3 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 8.0.16 released",
+   "link": "https://symfony.com/blog/symfony-8-0-16-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-07-29T21:46:02.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.0.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Top 10 Kubernetes Interview Questions for 2026 (With Answers)",
+   "link": "https://dev.to/devopslesson/top-10-kubernetes-interview-questions-for-2026-with-answers-2e3c",
+   "date": "2026-07-29T21:39:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Commercial construction projects generate massive amounts of data every day—from workforce activity and equipment usage to material deliveries and project milestones. The challenge isn't collecting the data; it's turning",
+   "summary": "The 10 Kubernetes interview questions you are most likely to be asked in 2026 with clear, senior-level answers covering pods, deployments, services, self-healing, networking, and real scenario-based problems for DevOps a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbnq4l7d88ttz8qbi1mo.png"
+  },
+  {
+   "title": "Seu code review não precisa discutir espaçamento",
+   "link": "https://dev.to/denisgusto1/seu-code-review-nao-precisa-discutir-espacamento-1ild",
+   "date": "2026-07-29T21:38:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "O pull request com 14 comentários (13 são sobre vírgula) Você abre o PR do colega. Quarenta arquivos alterados, uma feature importante. E os comentários são esses: \"faltou linha em branco antes do return\" \"acho que aqui ",
    "image": null
+  },
+  {
+   "title": "Quoting D. Richard Hipp",
+   "link": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+   "date": "2026-07-29T21:15:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this only a little bit—and ",
+   "image": null
+  },
+  {
+   "title": "AI Worming through Word",
+   "link": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+   "date": "2026-07-29T18:43:03.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions ",
+   "image": null
+  },
+  {
+   "title": "Quoting Matthew Green",
+   "link": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+   "date": "2026-07-29T18:18:15.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there a",
+   "image": null
+  },
+  {
+   "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+   "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+   "date": "2026-07-29T18:10:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg"
+  },
+  {
+   "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+   "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
+   "date": "2026-07-29T18:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes has long been the default platform for distributed workloads, and writing your own controller for it is now a matter of a few hours. The common path — Golang, using kubebuilder on top of controller-runtime — g",
+   "image": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
   },
   {
    "title": "Dave Stokes: AI Chat With DBeaver Community Edition",
@@ -222,16 +292,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
   },
   {
-   "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-   "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-   "date": "2026-07-29T11:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in v",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
-  },
-  {
    "title": "Smartbees: Automatic Content Translation System",
    "link": "https://smartbees.co/case-study/automatic-content-translation-system",
    "date": "2026-07-29T08:42:45.000Z",
@@ -242,6 +302,16 @@
    "image": null
   },
   {
+   "title": "Sehrope Sarkuni: Introducing pg-java, a new PostgreSQL driver for the JVM",
+   "link": "https://postgr.es/p/9qJ",
+   "date": "2026-07-29T04:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Background Why a new driver Things you won't find in other Java drivers Batch INSERT rewritten to array parameters A real pipelining API It won't hand your password to an unencrypted socket The public API surface is a fi",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hash_mem_multiplier",
    "link": "https://postgr.es/p/9qH",
    "date": "2026-07-29T01:00:00.000Z",
@@ -249,6 +319,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Hash and sort operations have wildly different relationships with memory, and `hash_mem_multiplier` lets you feed them separately.",
+   "image": null
+  },
+  {
+   "title": "Adding a custom MCP server to Claude and ChatGPT",
+   "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+   "date": "2026-07-29T00:13:18.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "TIL: Adding a custom MCP server to Claude and ChatGPT Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps. Tags: ai , generative-ai , chatgpt , llms",
    "image": null
   },
   {
@@ -452,26 +532,6 @@
    "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-highlights-of-fujitsu-contribution-in-postgresql-19.png"
   },
   {
-   "title": "moonshotai/Kimi-K3",
-   "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-   "date": "2026-07-27T23:39:04.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "moonshotai/Kimi-K3 As promised earlier this month , Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified ",
-   "image": null
-  },
-  {
-   "title": "An opinionated guide to which AI to use to do stuff",
-   "link": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-   "date": "2026-07-27T21:55:53.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, a",
-   "image": null
-  },
-  {
    "title": "Vibhor Kumar: The CALM Platform Test",
    "link": "https://postgr.es/p/9qz",
    "date": "2026-07-27T21:08:45.000Z",
@@ -480,16 +540,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Why Enterprise Platforms Often Fail Long Before They Break The examples in this article are anonymized, and certain details have been adjusted to protect the organizations involved. The Crossroads Nobody Schedules Every ",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/07/image-8.png?w=1024"
-  },
-  {
-   "title": "Radim Marek: PostgreSQL's MVCC is bad. So is everyone else's.",
-   "link": "https://postgr.es/p/9qy",
-   "date": "2026-07-27T14:00:40.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The first thing you will probably learn about Postgres, if you follow people who don't like Postgres, is that MVCC is bad. The 40-year-old design mistake. It's signatures are everywhere. Bloated tables that double in siz",
-   "image": null
   },
   {
    "title": "Between Print and Digital: The Making of MERSI’s Website",
@@ -522,16 +572,6 @@
    "image": null
   },
   {
-   "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-   "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
-   "date": "2026-07-26T19:30:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1021 (July 20–26, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1021-july-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-26T07:50:00.000Z",
@@ -539,16 +579,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony development activity was very intense and focused mostly on bug fixes. In addition, we added support for the upcoming Twig 4.0 version and fixed some issues related to changes in the upcoming PHP 8.6 v",
-   "image": null
-  },
-  {
-   "title": "sqlite-utils 3.39.1",
-   "link": "https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything",
-   "date": "2026-07-26T04:38:46.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-utils 3.39.1 I back-ported a fix for table.delete_where() that shipped in version 4. Tags: sqlite-utils",
    "image": null
   },
   {
@@ -570,16 +600,6 @@
    "source": "Percona Blog",
    "summary": "TL;DR: Starting with PBM 2.15.0 and PCSM 0.9.0, every release artifact – binary tarballs, RPM and DEB packages, and Docker images – ships a CycloneDX 1.6 Software Bill of Materials in JSON. Scan it with Trivy, Grype, or ",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/sbom-pipeline_6-scaled.png"
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: Securing Your API: The OWASP API Top 10",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-securing-your-api-the-owasp-api-top-10?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-24T09:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. 🎤 Speaker announcements Joining us in Warsaw is Rob Allen, Software Consultant at Nine",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
    "title": "Percona Operator for MongoDB 1.23.0: ClusterSync Migration, Vector Search, and PVC Snapshot Backups",
@@ -640,16 +660,6 @@
    "source": "Codrops",
    "summary": "A behind-the-scenes look at the engineering behind Ridgeline, covering the architectural decisions, Webflow integration, real-time terrain rendering, animation techniques, and performance optimizations that brought a cin",
    "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: 10 easy steps towards a more inclusive workplace",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-10-easy-steps-towards-a-more-inclusive-workplace?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-22T13:30:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for an extraordinary worldwide conference with 3 parallel tracks and community events. 🎤 S",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
    "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
@@ -828,7 +838,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6a39c78a7da762719265/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6a8bf1e073e236497432/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1122,16 +1132,6 @@
    "image": "https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/volcano-jobs-list.png"
   },
   {
-   "title": "See your serverless: introducing the Headlamp plugin for Knative",
-   "link": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/",
-   "date": "2026-06-25T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling,",
-   "image": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/knative-map-view.png"
-  },
-  {
    "title": "translateZ()",
    "link": "https://css-tricks.com/almanac/functions/t/translatez/",
    "date": "2026-06-25T13:18:56.000Z",
@@ -1150,16 +1150,6 @@
    "source": "CSS-Tricks",
    "summary": "The translateY() function shifts an element vertically by the specified amount. translateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
    "image": null
-  },
-  {
-   "title": "Introducing the MDN MCP server",
-   "link": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/",
-   "date": "2026-06-15T00:00:00.000Z",
-   "theme": "devweb",
-   "themeName": "Développement Web",
-   "source": "MDN Blog",
-   "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
-   "image": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png"
   }
  ]
 }
