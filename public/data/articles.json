@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-07-30T12:52:41.042Z",
+ "generatedAt": "2026-07-30T18:42:11.916Z",
  "articles": [
   {
-   "title": "Your Agent's Memory Is a Markdown File. Let's Audit It.",
-   "link": "https://dev.to/mjfekri/your-agents-memory-is-a-markdown-file-lets-audit-it-4l2n",
-   "date": "2026-07-30T12:30:00.000Z",
+   "title": "AI Gateway Governance: Control Model API Access Across the Enterprise",
+   "link": "https://dev.to/kuldeep_paul/ai-gateway-governance-control-model-api-access-across-the-enterprise-ap0",
+   "date": "2026-07-30T18:39:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick check: does your agent stack have a memory.md in it somewhere? An AGENTS.md? A notes file the agent appends to when something seems worth keeping? Thought so. Mine did too. It's the pattern everyone converges on, i",
+   "summary": "The proliferation of generative AI introduces significant governance challenges for enterprises, including cost overruns, security risks, and compliance gaps. An AI gateway provides a centralized control plane to manage ",
    "image": null
   },
   {
-   "title": "Everyone Designs the Happy Path. Production Happens at 3 AM.",
-   "link": "https://dev.to/merbayerp/everyone-designs-the-happy-path-production-happens-at-3-am-c7a",
-   "date": "2026-07-30T12:26:53.000Z",
+   "title": "Best AI Security Gateway for Enterprises in 2026",
+   "link": "https://dev.to/kuldeep_paul/best-ai-security-gateway-for-enterprises-in-2026-efm",
+   "date": "2026-07-30T18:38:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 3 AM, architecture diagrams become unusually honest. The clean arrows are still there. The trust boundaries have not moved. The signature algorithm is still mathematically sound. But the person responding to the incid",
+   "summary": "[This guide compares the best AI security gateways for enterprises, focusing on data protection, access control, compliance, and threat prevention. For organizations with mission-critical AI workloads, Bifrost offers the",
    "image": null
   },
   {
-   "title": "Getting a Free Oracle Cloud VPS from India: The Full Guide (and the RuPay Wall Nobody Warns You About)",
-   "link": "https://dev.to/ashish-codejourney/getting-a-free-oracle-cloud-vps-from-india-the-full-guide-and-the-rupay-wall-nobody-warns-you-4p5o",
-   "date": "2026-07-30T12:21:36.000Z",
+   "title": "OpenClaw’s new extended-stable channel might be the first update policy small agent teams can actually trust",
+   "link": "https://dev.to/lars_winstand/openclaws-new-extended-stable-channel-might-be-the-first-update-policy-small-agent-teams-can-okn",
+   "date": "2026-07-30T18:35:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hey Folks! So you want a real server. One that runs 24/7, hosts your side projects, survives reboots, and costs you exactly zero rupees a month. Not a trial that dies in 30 days. Not a $5 droplet you keep forgetting to c",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2rarct22akm3vyu4azlu.png"
-  },
-  {
-   "title": "DSCI series / Rakulang CI, part2. Cro Application",
-   "link": "https://dev.to/sp1983/dsci-series-rakulang-ci-part2-cro-application-4ini",
-   "date": "2026-07-30T12:15:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In this episode I talk about developing web application based on well known cro framework and specifically how to create CI pipeline using DSCI tool. Here is example of very simple cro application (taken from cro web sit",
+   "summary": "I knew this post was worth writing the second I read one line on Reddit. Not from a founder. Not from a launch thread. From a tired user on r/openclaw who had clearly been burned by upgrades before: “Thank god, coz each ",
    "image": null
   },
   {
-   "title": "My drift detector cried wolf every time my autoscaler scaled out — and the fix was a tag AWS already sets",
-   "link": "https://dev.to/hitoshi1964/my-drift-detector-cried-wolf-every-time-my-autoscaler-scaled-out-and-the-fix-was-a-tag-aws-4f3e",
-   "date": "2026-07-30T12:14:52.000Z",
+   "title": "AI Gateway Model Support: Routing Across Every Provider From One Platform",
+   "link": "https://dev.to/kuldeep_paul/ai-gateway-model-support-routing-across-every-provider-from-one-platform-4e8d",
+   "date": "2026-07-30T18:35:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A while back I wrote about the first time my self-hosted drift detector cried : a diff bug that flagged phantom changes on every scan. I fixed it and Then I pointed it at an account with an Auto Scaling group, and it cri",
+   "summary": "An AI gateway unifies access to hundreds of LLM providers like OpenAI, Anthropic, and Google through a single, consistent API. For engineering teams, this means the ability to switch models without changing application c",
    "image": null
   },
   {
-   "title": "The Complete Technical SEO Guide for React Applications (2026)",
-   "link": "https://dev.to/jaimin_umaraniya_c1fa0102/the-complete-technical-seo-guide-for-react-applications-2026-3h6h",
-   "date": "2026-07-30T12:14:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Technical SEO Guide for React Apps (2026) By Jaimin-Umaraniya Is React good for SEO? Yes—but only if you handle rendering, metadata, and performance correctly. Installing Next.js doesn't fix your SEO by itself. It just h",
+   "title": "Quoting Bruce Schneier",
+   "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+   "date": "2026-07-30T18:25:26.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thin",
    "image": null
   },
   {
-   "title": "How to Implement Generative AI in MedTech with QMS Controls",
-   "link": "https://dev.to/jasperstewart/how-to-implement-generative-ai-in-medtech-with-qms-controls-1a44",
-   "date": "2026-07-30T12:06:03.000Z",
+   "title": "Scheduling Tasks on Linux with Systemd Timers",
+   "link": "https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h",
+   "date": "2026-07-30T18:03:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A step-by-step path from use-case selection to monitored deployment A generative AI pilot can look convincing within days, yet converting it into a dependable medical device workflow is a different exercise. Design assur",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folkij0kz1o89rjq9o9j1.jpeg"
+   "summary": "🇧🇷 Leia a versão em português aqui. Routines like automatic backups, log cleanup, or any script that needs to run at a fixed time are traditionally handled with cron. But on modern Linux distributions based on systemd,",
+   "image": null
   },
   {
-   "title": "The Automation Debt Curve: Why Automation Eventually Costs More Than It Saves",
-   "link": "https://dev.to/ntctech/the-automation-debt-curve-why-automation-eventually-costs-more-than-it-saves-3fl6",
-   "date": "2026-07-30T12:03:35.000Z",
+   "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
+   "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh",
+   "date": "2026-07-30T18:02:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The automation debt curve describes what most organizations get backwards about infrastructure automation: it doesn't become expensive because you automate more. It becomes expensive because yesterday's automation has to",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1orcp9m0klwy16hf46a3.jpg"
+   "summary": "If you last touched domain lookups a few years ago, the thing you remember is It is effectively gone. RDAP replaced it, it is RFC 9083, it returns JSON, and Here is what a lookup looks like now, what you can actually get",
+   "image": null
+  },
+  {
+   "title": "Agendando Tarefas no Linux com Systemd Timer",
+   "link": "https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5",
+   "date": "2026-07-30T18:02:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🇺🇸 English version here. Rotinas como backups automáticos, limpeza de logs ou qualquer script que precise rodar em um horário fixo tradicionalmente são resolvidas com cron. Mas em distribuições Linux modernas baseadas ",
+   "image": null
+  },
+  {
+   "title": "Free TLS Certificates with Let's Encrypt and Certbot",
+   "link": "https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9",
+   "date": "2026-07-30T17:54:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🇧🇷 Leia a versão em português aqui. On traditional servers — a VPS hosting a static site, a standalone application server, or any machine outside the cluster — Certbot remains the most straightforward tool for issuing ",
+   "image": null
+  },
+  {
+   "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+   "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+   "date": "2026-07-30T15:25:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg"
+  },
+  {
+   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+   "date": "2026-07-30T15:09:09.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Christopher Winslett: Hybrid Search Patterns with Postgres and pgvector",
+   "link": "https://postgr.es/p/9qP",
+   "date": "2026-07-30T15:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Most production vector queries are not simple nearest-neighbor searches. Rarely is the query to return \"the 10 most similar documents in the entire table.\" Typically, it's something closer to: find the 10 most similar do",
+   "image": null
+  },
+  {
+   "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
+   "link": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
+   "date": "2026-07-30T14:16:27.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Learn how to build an infinite GSAP gallery with parallax scrolling, reveal animations, and Flip-powered fullscreen transitions.",
+   "image": null
+  },
+  {
+   "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+   "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+   "date": "2026-07-30T13:34:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg"
+  },
+  {
+   "title": "The Economic Benefit of Refactoring",
+   "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+   "date": "2026-07-30T13:04:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a large function helps reduce token costs, suggesting that is may now be possible to measure the economic benefit of refactoring more…",
+   "image": null
   },
   {
    "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
@@ -132,6 +202,16 @@
    "image": null
   },
   {
+   "title": "Pavlo Golub: vip-manager v5 is out: what you need to know",
+   "link": "https://postgr.es/p/9qO",
+   "date": "2026-07-30T10:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "High availability setups are never “set and forget”. Every new release of your tooling can change how your cluster behaves at 03:00 when something breaks. vip-manager v5 is one of those releases you really want to read a",
+   "image": null
+  },
+  {
    "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
    "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
    "date": "2026-07-30T07:40:48.000Z",
@@ -160,26 +240,6 @@
    "source": "Drupal Planet",
    "summary": "Some WordPress sites reach a point where the content model no longer fits the organization's needs. Custom content types, custom entities, and custom fields become necessary to represent internal data precisely, and Drup",
    "image": null
-  },
-  {
-   "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-   "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-   "date": "2026-07-30T06:05:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
-  },
-  {
-   "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-   "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-   "date": "2026-07-30T05:08:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: hba_file",
@@ -219,6 +279,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.0.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Dries Buytaert: Responsibility follows control",
+   "link": "https://dri.es/responsibility-follows-control",
+   "date": "2026-07-29T21:27:33.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "An AI model does not decide what data it can access, which tools it can use, or whether it can act without approval. People make those decisions at different points. Upstream, a model developer trains and tests the model",
    "image": null
   },
   {
@@ -422,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-   "link": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-   "date": "2026-07-28T21:28:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their i",
-   "image": null
-  },
-  {
    "title": "Dries Buytaert: From personal AI experiments to shared tools",
    "link": "https://dri.es/from-personal-ai-experiments-to-shared-tools",
    "date": "2026-07-28T20:06:31.000Z",
@@ -519,36 +579,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Learn how Drupal's service container and dependency injection work, why they matter for testable code, and what Drupal 11 changes for your service classes.",
-   "image": null
-  },
-  {
-   "title": "Salsa Digital: Drupal AI Context — beta 3 released",
-   "link": "/insights/drupal-ai-context-beta-3-released?utm_source=drupalplanet",
-   "date": "2026-07-28T08:05:01.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Beta 3 release of Drupal AI Context Beta 3 of Drupal AI Context , also known as Context Control Center (CCC), is now available. CCC helps Drupal sites provide governed, reusable context for AI workflows and agents, from ",
-   "image": null
-  },
-  {
-   "title": "Hans-Juergen Schoenig: Data Lineage in PostgreSQL 19: Finally, an Answer When the CFO Asks \"Where Did This Number Come From?\"",
-   "link": "https://postgr.es/p/9qC",
-   "date": "2026-07-28T05:00:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Picture this: it's Monday morning, your coffee is still warm, and someone from finance slides into your DMs asking why the Q4 revenue number doesn't match what they expected. You know the data flows through about five tr",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: gss_accept_delegation",
-   "link": "https://postgr.es/p/9qB",
-   "date": "2026-07-28T03:30:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 16 lets servers accept delegated Kerberos credentials to act as users against other services, but it defaults to off because the trade-off is real…",
    "image": null
   },
   {
@@ -762,16 +792,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/SMS-Catcher-LN.png"
   },
   {
-   "title": "ZERO: The Engineering Behind a Defiant Interactive Narrative",
-   "link": "https://tympanus.net/codrops/2026/07/17/zero-the-engineering-behind-a-defiant-interactive-narrative/",
-   "date": "2026-07-17T14:05:45.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A technical breakdown of the pipeline, rendering techniques, and performance optimizations behind ZERO, an immersive scroll driven WebGL experience built for desktop and mobile.",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -795,16 +815,6 @@
    "title": "Newer Models, Same Advantage",
    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
    "date": "2026-07-16T11:49:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Security incident disclosure — July 2026",
-   "link": "https://huggingface.co/blog/security-incident-july-2026",
-   "date": "2026-07-16T00:00:00.000Z",
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
@@ -838,7 +848,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6b3c96e959c976391187/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6b8a645c208141485602/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1010,16 +1020,6 @@
    "source": "Percona Blog",
    "summary": "Percona Operator for MySQL 1.2.0 is out, and it closes three gaps that platform teams hit once a MySQL deployment grows past a single cluster. Picture a fleet that has outgrown one region: you want a warm replica cluster",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Hero-2400-x-880-1024x376.png"
-  },
-  {
-   "title": "Viability of local models for coding",
-   "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
-   "date": "2026-07-07T12:34:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Birgitta Böckeler recently spent some time trying out running local LLMs for some programming tasks. In this memo she outlines the factors that influence how viable they are for the job. more…",
-   "image": null
   },
   {
    "title": "Getting started with PHP",
