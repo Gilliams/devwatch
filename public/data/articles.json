@@ -1,24 +1,104 @@
 {
- "generatedAt": "2026-07-31T00:13:56.285Z",
+ "generatedAt": "2026-07-31T08:08:34.830Z",
  "articles": [
   {
-   "title": "Vercel vs Netlify: Features, Pricing, and How to Choose (2026)",
-   "link": "https://dev.to/kimcomplete/vercel-vs-netlify-features-pricing-and-how-to-choose-2026-3mg9",
-   "date": "2026-07-31T00:04:57.000Z",
+   "title": "How My AI Handles Deployments Better Than I Do",
+   "link": "https://dev.to/archantech/how-my-ai-handles-deployments-better-than-i-do-40p6",
+   "date": "2026-07-31T08:00:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A side-by-side look at deploys, functions, edge delivery, AI tooling, security, and pricing for two widely used frontend cloud platforms, based on their official pages as of 2026-07-29. Vercel and Netlify are two popular",
+   "summary": "Sometimes the best way to learn is from mistakes - even when they are made by an AI. Last week, my AI assistant confidently refactored a function and broke three other modules in the process. Classic butterfly effect. Bu",
    "image": null
   },
   {
-   "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
-   "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-19nh",
-   "date": "2026-07-31T00:02:22.000Z",
+   "title": "AI Agent Development Company: 8 Production Pitfalls to Avoid",
+   "link": "https://dev.to/edith_heroux_aca4c9046ef5/ai-agent-development-company-8-production-pitfalls-to-avoid-55ac",
+   "date": "2026-07-31T07:52:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Wild West of Multi-Agent Systems When I first started running automated agents at scale, I thought I had it figured out. Spin up a few bots, point them at some tasks, collect the output. Simple, right? Then I hit 50 ",
+   "summary": "Why Enterprise Agents Fail After the Demo Enterprise agent pilots often look successful because the content set is small, the questions are predictable, and engineers are present to repair failures. Production removes th",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5oiy6mkpl59bc2pom9x.jpeg"
+  },
+  {
+   "title": "How an AI Agent Development Company Builds Production Agents",
+   "link": "https://dev.to/jasperstewart/how-an-ai-agent-development-company-builds-production-agents-1oai",
+   "date": "2026-07-31T07:52:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A Practical Build Sequence for Enterprise AI Agents Building an enterprise agent is an iterative systems-engineering exercise. The model is only one dependency in a workflow that also includes knowledge ingestion, retrie",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpda7we1yvitq2v3hj58p.jpeg"
+  },
+  {
+   "title": "Change Management and Training for Human-Robot Collaborative Warehouses",
+   "link": "https://dev.to/beefedai/change-management-and-training-for-human-robot-collaborative-warehouses-2b6",
+   "date": "2026-07-31T07:49:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Stakeholder mapping and communication plan Designing human-in-the-loop workflows that reduce friction Learning pathways: curriculum, simulation labs, and phased shadowing Change actions: incentives, SOPs, and performance",
+   "image": null
+  },
+  {
+   "title": "My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore",
+   "link": "https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo",
+   "date": "2026-07-31T07:40:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ciao Amici 👋 Grab your chai, because the robot accountant is back, and this time we have a moving-day story. If you read my last article, you know I built \"The Accountant,\" a Bedrock Agent that reads my AWS bill every m",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphokw3jjv67wt7srjxsu.jpg"
+  },
+  {
+   "title": "Automated Deploy Pipelines: Cutting Release Time From Three Days to Forty Minutes",
+   "link": "https://dev.to/krishnamm/automated-deploy-pipelines-cutting-release-time-from-three-days-to-forty-minutes-1766",
+   "date": "2026-07-31T07:34:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For the first year of Edilec, shipping a release meant blocking out an afternoon and hoping nothing else came up. A deploy was: SSH into the box, git pull, stop the service, run migrations by hand, restart, tail the logs",
+   "image": null
+  },
+  {
+   "title": "\"The AWS runtime-upgrade error map: which errors you'll hit, in what order, for each migration path\"",
+   "link": "https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5",
+   "date": "2026-07-31T07:17:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every deprecated-runtime migration produces the same shape of pain: you bump one version number, redeploy, and get hit with errors that look unrelated to each other but are all downstream of the same jump. The errors are",
+   "image": null
+  },
+  {
+   "title": "Kimi K3 vs Opus 5 vs GPT-5.6 Sol: Practical Model Routing",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/kimi-k3-vs-opus-5-vs-gpt-56-sol-practical-model-routing-646",
+   "date": "2026-07-31T07:13:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Claude Opus 5 fits difficult repository work, GPT-5.6 Sol fits math-heavy Codex work, and Kimi K3 fits lower-cost, open-weight volume. The practical task is to encode those differences as routes and fallbacks, not crown ",
+   "image": null
+  },
+  {
+   "title": "Morpht: Building a semantic search chatbot with Drupal AI",
+   "link": "https://www.morpht.com/blog/building-semantic-search-chatbot-drupal-ai",
+   "date": "2026-07-31T04:35:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Drupal AI module provides everything needed for a RAG chatbot: AI Search embeds your content into a vector database, AI Assistant API wraps an LLM with a grounded search prompt, and AI Chatbot puts a Deep Chat block ",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby",
+   "link": "https://postgr.es/p/9qQ",
+   "date": "2026-07-31T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's hot_standby switch transforms a spare server into a readable replica, but the real tuning work happens elsewhere.",
    "image": null
   },
   {
@@ -32,26 +112,6 @@
    "image": null
   },
   {
-   "title": "I Couldn't Find a Set-and-Forget Monitoring API, So I Built One With Webhook Alerts",
-   "link": "https://dev.to/gustavo1500/i-couldnt-find-a-set-and-forget-monitoring-api-so-i-built-one-with-webhook-alerts-2ob2",
-   "date": "2026-07-30T23:52:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hi, I recently wanted to integrate automated domain and SSL monitoring into a couple of my personal projects. I checked RapidAPI hoping to find an API that would handle background monitoring for me, but almost everything",
-   "image": null
-  },
-  {
-   "title": "The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps",
-   "link": "https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24",
-   "date": "2026-07-30T23:50:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Toda organização que tenta \"fazer DevOps\" acaba, cedo ou tarde, comprando um Jenkins, adotando Kubernetes e escrevendo Terraform e mesmo assim continua com deploys arriscados, times sobrecarregados e um MTTR (Mean Time t",
-   "image": null
-  },
-  {
    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
    "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
    "date": "2026-07-30T23:41:29.000Z",
@@ -62,43 +122,13 @@
    "image": null
   },
   {
-   "title": "Where you host your MCP server decides whether it still works in three months",
-   "link": "https://dev.to/theopslog/where-you-host-your-mcp-server-decides-whether-it-still-works-in-three-months-1hg1",
-   "date": "2026-07-30T23:30:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I probed every remote MCP server listed in the official registry — 10,716 endpoints — and then asked a question the aggregate numbers hide: when a listing is dead, where is it hosted? The answer is not evenly distributed",
-   "image": null
-  },
-  {
-   "title": "The Database Backup Quest: A Hero's Journey (Inspired by The Matrix)",
-   "link": "https://dev.to/timevolt/the-database-backup-quest-a-heros-journey-inspired-by-the-matrix-3j2f",
-   "date": "2026-07-30T22:46:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Picture this: it’s 2 a.m., the pager screeches, and the monitoring dashboard is flashing red like a haunted house. Our primary PostgreSQL cluster has just gone silent because a rogue script d",
-   "image": null
-  },
-  {
-   "title": "The Reliability Roadmap: A 90-Day Plan for New SRE Teams",
-   "link": "https://dev.to/samson_tanimawo/the-reliability-roadmap-a-90-day-plan-for-new-sre-teams-3af9",
-   "date": "2026-07-30T22:37:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "New SRE team at your company? Here's a 90-day plan I've used twice. It works because it balances 'show immediate value' with 'build for the long term.' Resist the urge to change things. Watch the current system, read exi",
-   "image": null
-  },
-  {
-   "title": "Learning AWS CloudFormation: A Practical Introduction",
-   "link": "https://dev.to/arash_zand/learning-aws-cloudformation-a-practical-introduction-26om",
-   "date": "2026-07-30T22:16:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AWS CloudFormation lets you manage your AWS infrastructure using code. Instead of setting up resources by hand, you write a template in JSON or YAML and let CloudFormation handle the rest. This guide covers the core conc",
+   "title": "llm 0.32rc2",
+   "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+   "date": "2026-07-30T22:52:06.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.32rc2 Hot on the heels of RC1 , this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna . It was previously GPT",
    "image": null
   },
   {
@@ -142,6 +172,26 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/psmdb-83-highlights-1024x576.png"
   },
   {
+   "title": "llm-chat-completions-server 0.1a0",
+   "link": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+   "date": "2026-07-30T15:43:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous co",
+   "image": null
+  },
+  {
+   "title": "llm 0.32rc1",
+   "link": "https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything",
+   "date": "2026-07-30T15:30:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.32rc1 This RC for LLM 0.32 finishes the work that started in LLM 0.32a0 - it adds a new schema design that does a much better job of capturing the details of the prompts and responses returned by the lates",
+   "image": null
+  },
+  {
    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
    "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
    "date": "2026-07-30T15:25:57.000Z",
@@ -172,6 +222,26 @@
    "image": null
   },
   {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
+  },
+  {
    "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
    "link": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
    "date": "2026-07-30T14:16:27.000Z",
@@ -190,6 +260,16 @@
    "source": "The Hacker News",
    "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg"
+  },
+  {
+   "title": "PHP 8.6.0 Alpha 3 available for testing",
+   "link": "https://www.php.net/index.php#2026-07-30-3",
+   "date": "2026-07-30T13:24:32.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 3. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
+   "image": null
   },
   {
    "title": "The Economic Benefit of Refactoring",
@@ -212,6 +292,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg"
   },
   {
+   "title": "PHP 8.5.9 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-2",
+   "date": "2026-07-30T11:38:53.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.5.9. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.9 please visit our , Wi",
+   "image": null
+  },
+  {
    "title": "The Network Has Become the Control Plane for AI Security",
    "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
    "date": "2026-07-30T11:32:46.000Z",
@@ -220,6 +310,16 @@
    "source": "The Hacker News",
    "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
+  },
+  {
+   "title": "PHP 8.2.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-1",
+   "date": "2026-07-30T11:00:24.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.2.33. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.33 please visit our , ",
+   "image": null
   },
   {
    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
@@ -362,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Quoting Matthew Green",
-   "link": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-   "date": "2026-07-29T18:18:15.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there a",
-   "image": null
-  },
-  {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
    "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
    "date": "2026-07-29T18:00:00.000Z",
@@ -502,16 +592,6 @@
    "image": null
   },
   {
-   "title": "Adding a custom MCP server to Claude and ChatGPT",
-   "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
-   "date": "2026-07-29T00:13:18.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "TIL: Adding a custom MCP server to Claude and ChatGPT Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps. Tags: ai , generative-ai , chatgpt , llms",
-   "image": null
-  },
-  {
    "title": "The amazingly versatile conic-gradient()",
    "link": "https://frontendfoc.us/issues/752",
    "date": "2026-07-29T00:00:00.000Z",
@@ -542,16 +622,6 @@
    "image": "https://ddev.com/img/blog/2026/07/love-letter-ddev-community.png"
   },
   {
-   "title": "Discovering cryptographic weaknesses with Claude",
-   "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-   "date": "2026-07-28T22:45:37.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"n",
-   "image": null
-  },
-  {
    "title": "Inertia DevTools Is Now on the Chrome Web Store",
    "link": "https://laravel-news.com/inertia-devtools-is-now-on-the-chrome-web-store?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-28T22:13:24.000Z",
@@ -560,16 +630,6 @@
    "source": "Laravel News",
    "summary": "Inertia DevTools, the official Chrome DevTools panel for inspecting Inertia.js visits, props, and route metadata, is now listed on the Chrome Web Store instead of requiring an unpacked install from GitHub. The post Inert",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertiajs-devtools-featured.png"
-  },
-  {
-   "title": "Dries Buytaert: From personal AI experiments to shared tools",
-   "link": "https://dri.es/from-personal-ai-experiments-to-shared-tools",
-   "date": "2026-07-28T20:06:31.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "In April 2025, I published Claude Code meets Drupal, my first public experiment with an AI coding agent. I have been experimenting with coding agents ever since, often by building tools to solve problems in my own work. ",
-   "image": null
   },
   {
    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
@@ -589,16 +649,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Dimitri Fontaine: SQL Improvements in PostgreSQL 11–18: A Personal Selection",
-   "link": "https://postgr.es/p/9qF",
-   "date": "2026-07-28T14:39:25.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Seven major versions of PostgreSQL shipped between 2018 and 2025, one per year without exception, and each with a changelog of 150 to 200 user-visible changes. Each release covers a broad canvas — performance, replicatio",
    "image": null
   },
   {
@@ -858,7 +908,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6bdf401f134155766597/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6c3f74d7389938444030/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1029,56 +1079,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.8 Released!",
-   "link": "https://www.php.net/index.php#2026-07-02-5",
-   "date": "2026-07-02T19:55:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.8. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.8 please visit our , Wi",
-   "image": null
-  },
-  {
-   "title": "PHP 8.4.23 Released!",
-   "link": "https://www.php.net/index.php#2026-07-02-4",
-   "date": "2026-07-02T17:24:56.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.23. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.23 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Alpha 1 available for testing",
-   "link": "https://www.php.net/index.php#2026-07-02-3",
-   "date": "2026-07-02T17:00:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first testing release of PHP 8.6.0, Alpha 1. This starts the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Alpha",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.32 Released!",
-   "link": "https://www.php.net/index.php#2026-07-02-2",
-   "date": "2026-07-02T16:38:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.32. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.32 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.2.32 Released!",
-   "link": "https://www.php.net/index.php#2026-07-02-1",
-   "date": "2026-07-02T12:03:54.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.2.32. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.32 please visit our , ",
    "image": null
   },
   {
