@@ -1,44 +1,104 @@
 {
- "generatedAt": "2026-07-30T18:42:11.916Z",
+ "generatedAt": "2026-07-31T00:13:56.285Z",
  "articles": [
   {
-   "title": "AI Gateway Governance: Control Model API Access Across the Enterprise",
-   "link": "https://dev.to/kuldeep_paul/ai-gateway-governance-control-model-api-access-across-the-enterprise-ap0",
-   "date": "2026-07-30T18:39:16.000Z",
+   "title": "Vercel vs Netlify: Features, Pricing, and How to Choose (2026)",
+   "link": "https://dev.to/kimcomplete/vercel-vs-netlify-features-pricing-and-how-to-choose-2026-3mg9",
+   "date": "2026-07-31T00:04:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The proliferation of generative AI introduces significant governance challenges for enterprises, including cost overruns, security risks, and compliance gaps. An AI gateway provides a centralized control plane to manage ",
+   "summary": "A side-by-side look at deploys, functions, edge delivery, AI tooling, security, and pricing for two widely used frontend cloud platforms, based on their official pages as of 2026-07-29. Vercel and Netlify are two popular",
    "image": null
   },
   {
-   "title": "Best AI Security Gateway for Enterprises in 2026",
-   "link": "https://dev.to/kuldeep_paul/best-ai-security-gateway-for-enterprises-in-2026-efm",
-   "date": "2026-07-30T18:38:59.000Z",
+   "title": "Fleet Management for 100+ AI Bots: Lessons Learned",
+   "link": "https://dev.to/robo_rent_cc/fleet-management-for-100-ai-bots-lessons-learned-19nh",
+   "date": "2026-07-31T00:02:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "[This guide compares the best AI security gateways for enterprises, focusing on data protection, access control, compliance, and threat prevention. For organizations with mission-critical AI workloads, Bifrost offers the",
+   "summary": "The Wild West of Multi-Agent Systems When I first started running automated agents at scale, I thought I had it figured out. Spin up a few bots, point them at some tasks, collect the output. Simple, right? Then I hit 50 ",
    "image": null
   },
   {
-   "title": "OpenClaw’s new extended-stable channel might be the first update policy small agent teams can actually trust",
-   "link": "https://dev.to/lars_winstand/openclaws-new-extended-stable-channel-might-be-the-first-update-policy-small-agent-teams-can-okn",
-   "date": "2026-07-30T18:35:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I knew this post was worth writing the second I read one line on Reddit. Not from a founder. Not from a launch thread. From a tired user on r/openclaw who had clearly been burned by upgrades before: “Thank god, coz each ",
+   "title": "Advancing the price-performance frontier with GPT‑5.6",
+   "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+   "date": "2026-07-30T23:58:42.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.",
    "image": null
   },
   {
-   "title": "AI Gateway Model Support: Routing Across Every Provider From One Platform",
-   "link": "https://dev.to/kuldeep_paul/ai-gateway-model-support-routing-across-every-provider-from-one-platform-4e8d",
-   "date": "2026-07-30T18:35:06.000Z",
+   "title": "I Couldn't Find a Set-and-Forget Monitoring API, So I Built One With Webhook Alerts",
+   "link": "https://dev.to/gustavo1500/i-couldnt-find-a-set-and-forget-monitoring-api-so-i-built-one-with-webhook-alerts-2ob2",
+   "date": "2026-07-30T23:52:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An AI gateway unifies access to hundreds of LLM providers like OpenAI, Anthropic, and Google through a single, consistent API. For engineering teams, this means the ability to switch models without changing application c",
+   "summary": "Hi, I recently wanted to integrate automated domain and SSL monitoring into a couple of my personal projects. I checked RapidAPI hoping to find an API that would handle background monitoring for me, but almost everything",
+   "image": null
+  },
+  {
+   "title": "The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps",
+   "link": "https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24",
+   "date": "2026-07-30T23:50:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Toda organização que tenta \"fazer DevOps\" acaba, cedo ou tarde, comprando um Jenkins, adotando Kubernetes e escrevendo Terraform e mesmo assim continua com deploys arriscados, times sobrecarregados e um MTTR (Mean Time t",
+   "image": null
+  },
+  {
+   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+   "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+   "date": "2026-07-30T23:41:29.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier mo",
+   "image": null
+  },
+  {
+   "title": "Where you host your MCP server decides whether it still works in three months",
+   "link": "https://dev.to/theopslog/where-you-host-your-mcp-server-decides-whether-it-still-works-in-three-months-1hg1",
+   "date": "2026-07-30T23:30:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I probed every remote MCP server listed in the official registry — 10,716 endpoints — and then asked a question the aggregate numbers hide: when a listing is dead, where is it hosted? The answer is not evenly distributed",
+   "image": null
+  },
+  {
+   "title": "The Database Backup Quest: A Hero's Journey (Inspired by The Matrix)",
+   "link": "https://dev.to/timevolt/the-database-backup-quest-a-heros-journey-inspired-by-the-matrix-3j2f",
+   "date": "2026-07-30T22:46:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Picture this: it’s 2 a.m., the pager screeches, and the monitoring dashboard is flashing red like a haunted house. Our primary PostgreSQL cluster has just gone silent because a rogue script d",
+   "image": null
+  },
+  {
+   "title": "The Reliability Roadmap: A 90-Day Plan for New SRE Teams",
+   "link": "https://dev.to/samson_tanimawo/the-reliability-roadmap-a-90-day-plan-for-new-sre-teams-3af9",
+   "date": "2026-07-30T22:37:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "New SRE team at your company? Here's a 90-day plan I've used twice. It works because it balances 'show immediate value' with 'build for the long term.' Resist the urge to change things. Watch the current system, read exi",
+   "image": null
+  },
+  {
+   "title": "Learning AWS CloudFormation: A Practical Introduction",
+   "link": "https://dev.to/arash_zand/learning-aws-cloudformation-a-practical-introduction-26om",
+   "date": "2026-07-30T22:16:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AWS CloudFormation lets you manage your AWS infrastructure using code. Instead of setting up resources by hand, you write a template in JSON or YAML and let CloudFormation handle the rest. This guide covers the core conc",
    "image": null
   },
   {
@@ -52,44 +112,34 @@
    "image": null
   },
   {
-   "title": "Scheduling Tasks on Linux with Systemd Timers",
-   "link": "https://dev.to/celsonery/scheduling-tasks-on-linux-with-systemd-timers-2o0h",
-   "date": "2026-07-30T18:03:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Leia a versão em português aqui. Routines like automatic backups, log cleanup, or any script that needs to run at a fixed time are traditionally handled with cron. But on modern Linux distributions based on systemd,",
+   "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+   "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+   "date": "2026-07-30T18:18:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to delive",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #563 - Drupito: More Than a Marketplace",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-563-drupito-more-than-a-marketplace",
+   "date": "2026-07-30T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Drupito, its Business model, and Marketplaces with guest Ashraf Abed. We'll also cover Generate (Social Media) Image as our module of the week. For show notes visit: https://www.talkingDrupal.c",
    "image": null
   },
   {
-   "title": "WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think",
-   "link": "https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh",
-   "date": "2026-07-30T18:02:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you last touched domain lookups a few years ago, the thing you remember is It is effectively gone. RDAP replaced it, it is RFC 9083, it returns JSON, and Here is what a lookup looks like now, what you can actually get",
-   "image": null
-  },
-  {
-   "title": "Agendando Tarefas no Linux com Systemd Timer",
-   "link": "https://dev.to/celsonery/agendando-tarefas-no-linux-com-systemd-timer-47i5",
-   "date": "2026-07-30T18:02:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇺🇸 English version here. Rotinas como backups automáticos, limpeza de logs ou qualquer script que precise rodar em um horário fixo tradicionalmente são resolvidas com cron. Mas em distribuições Linux modernas baseadas ",
-   "image": null
-  },
-  {
-   "title": "Free TLS Certificates with Let's Encrypt and Certbot",
-   "link": "https://dev.to/celsonery/free-tls-certificates-with-lets-encrypt-and-certbot-gg9",
-   "date": "2026-07-30T17:54:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Leia a versão em português aqui. On traditional servers — a VPS hosting a static site, a standalone application server, or any machine outside the cluster — Certbot remains the most straightforward tool for issuing ",
-   "image": null
+   "title": "Percona Server for MongoDB 8.3 Technical Preview Is Now Available",
+   "link": "https://www.percona.com/blog/percona-server-for-mongodb-8-3-technical-preview-is-now-available/",
+   "date": "2026-07-30T17:36:14.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona Server for MongoDB 8.3 is available today as a Technical Preview. It is not for production. It is for your lab, your staging cluster, and your benchmark harness – and for sharing with us what works and what does ",
+   "image": "https://www.percona.com/wp-content/uploads/2026/07/psmdb-83-highlights-1024x576.png"
   },
   {
    "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
@@ -222,16 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
   },
   {
-   "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-   "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-   "date": "2026-07-30T07:28:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
-  },
-  {
    "title": "Metadrop: How to automate WordPress-to-Drupal content migration with WordPress Migrate SQL",
    "link": "https://metadrop.net/en/articles/how-to-automate-wordpress-to-drupal-content-migration-with-wordpress-migrate-sql",
    "date": "2026-07-30T06:15:15.000Z",
@@ -240,6 +280,16 @@
    "source": "Drupal Planet",
    "summary": "Some WordPress sites reach a point where the content model no longer fits the organization's needs. Custom content types, custom entities, and custom fields become necessary to represent internal data precisely, and Drup",
    "image": null
+  },
+  {
+   "title": "Laravel AI SDK Adds Human-in-the-Loop Tool Approval",
+   "link": "https://laravel-news.com/laravel-ai-sdk-adds-human-in-the-loop-tool-approval?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-30T01:04:02.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Announced at Laracon US 2026, the Laravel AI SDK's new human-in-the-loop API pauses an agent before it runs a sensitive tool so a person can approve, reject, or edit the tool call first. The post Laravel AI SDK Adds Huma",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: hba_file",
@@ -328,7 +378,7 @@
    "theme": "devops",
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
-   "summary": "Kubernetes has long been the default platform for distributed workloads, and writing your own controller for it is now a matter of a few hours. The common path — Golang, using kubebuilder on top of controller-runtime — g",
+   "summary": "Caution: Some of the technical detail in this article is not accurate. We are reviewing it and preparing corrections. Until then, check what you read here against the controller-runtime documentation. Kubernetes has long",
    "image": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
   },
   {
@@ -422,6 +472,26 @@
    "image": null
   },
   {
+   "title": "Pest 5 Released With Test Impact Analysis, Agent Verification, and Evals",
+   "link": "https://laravel-news.com/pest-5?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-29T03:47:15.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Nuno Maduro announced Pest 5 at Laracon US 2026. The PHP testing framework adds test impact analysis, an agent plugin, evals, PHPStan, and Rector support. The post Pest 5 Released With Test Impact Analysis, Agent Verific",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pest-5-featured.png"
+  },
+  {
+   "title": "Blade Formatting in Laravel Pint",
+   "link": "https://laravel-news.com/blade-formatting-in-laravel-pint?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-29T03:42:54.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Pint 1.30.0 adds a --blade flag that formats .blade.php files through Prettier, alongside fixes for --diff, --quiet, and a new in key for pint.json. The post Blade Formatting in Laravel Pint appeared first on Laravel New",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-pint-featured.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hash_mem_multiplier",
    "link": "https://postgr.es/p/9qH",
    "date": "2026-07-29T01:00:00.000Z",
@@ -452,6 +522,16 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
   },
   {
+   "title": "Tag1 Insights: Teaching AI to Speed Up Accessibility Testing",
+   "link": "https://www.tag1.com/blog/teaching-ai-to-do-the-boring-parts/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
+   "date": "2026-07-29T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Take Away Marlene Wanberg, Frontend Developer at Tag1 and a Drupal builder since 2007, built a suite of fifteen AI agent skills that runs a full automated accessibility audit and narrows thousands of raw scanner findings",
+   "image": null
+  },
+  {
    "title": "DDEV Blog: A Love Letter to the DDEV Community",
    "link": "https://ddev.com/blog/love-letter-ddev-community",
    "date": "2026-07-29T00:00:00.000Z",
@@ -472,24 +552,14 @@
    "image": null
   },
   {
-   "title": "Quoting Akshat Bubna",
-   "link": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
-   "date": "2026-07-28T22:05:55.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were ",
-   "image": null
-  },
-  {
-   "title": "uv 0.12.0",
-   "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
-   "date": "2026-07-28T21:51:38.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "uv 0.12.0 Some interesting breaking changes in this release of uv , in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The previous version of uv ",
-   "image": null
+   "title": "Inertia DevTools Is Now on the Chrome Web Store",
+   "link": "https://laravel-news.com/inertia-devtools-is-now-on-the-chrome-web-store?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-28T22:13:24.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Inertia DevTools, the official Chrome DevTools panel for inspecting Inertia.js visits, props, and route metadata, is now listed on the Chrome Web Store instead of requiring an unpacked install from GitHub. The post Inert",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertiajs-devtools-featured.png"
   },
   {
    "title": "Dries Buytaert: From personal AI experiments to shared tools",
@@ -532,16 +602,6 @@
    "image": null
   },
   {
-   "title": "BloomIdea: Shipping with MRW from Drupal Commerce: no more copy-pasting into the carrier portal",
-   "link": "https://bloomidea.com/en/blog/mrw-shipping-drupal-commerce-sagec-contrib-module",
-   "date": "2026-07-28T14:00:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Several of the e-commerce stores we build and run ship with MRW, one of the main carriers in Spain and Portugal. Until recently, shipping an order meant leaving the store: open MRW's customer portal, retype the customer'",
-   "image": null
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Asynchronous PHP & Symfony in High-Performance Systems",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-asynchronous-php-and-symfony-in-high-performance-systems?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-28T13:30:00.000Z",
@@ -572,14 +632,14 @@
    "image": null
   },
   {
-   "title": "Specbee: Understanding Drupal's Service Container and Dependency Injection",
-   "link": "https://www.specbee.com/blogs/drupal-service-container-dependency-injection",
-   "date": "2026-07-28T11:20:08.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Learn how Drupal's service container and dependency injection work, why they matter for testable code, and what Drupal 11 changes for your service classes.",
-   "image": null
+   "title": "Queue-SQL: Run Mass Deletes and Updates Across Parallel Queue Jobs",
+   "link": "https://laravel-news.com/queue-sql-run-mass-deletes-and-updates-across-parallel-queue-jobs?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-07-27T23:46:29.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Queue-SQL is a Laravel package that turns mass updates, deletes, and inserts into batches of parallel queued jobs. The post Queue-SQL: Run Mass Deletes and Updates Across Parallel Queue Jobs appeared first on Laravel New",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Queue-SQL-LN.png"
   },
   {
    "title": "Between Print and Digital: The Making of MERSI’s Website",
@@ -642,16 +702,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
   },
   {
-   "title": "Laravel Announces the Founders Summit, a One-Day Event for Founders",
-   "link": "https://laravel-news.com/laravel-founders-summit-2026?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-23T15:07:03.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel is gauging interest in the Founders Summit, a one-day gathering in November 2026 for founders and leaders running businesses built on Laravel. The post Laravel Announces the Founders Summit, a One-Day Event for F",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/founders-summit.png"
-  },
-  {
    "title": "Building Cerebrium: Making Serverless Infrastructure Tangible",
    "link": "https://tympanus.net/codrops/2026/07/23/building-cerebrium-making-serverless-infrastructure-tangible/",
    "date": "2026-07-23T14:09:05.000Z",
@@ -660,16 +710,6 @@
    "source": "Codrops",
    "summary": "Go behind the scenes of Cerebrium to explore the design, 3D, and WebGL techniques that turned complex AI infrastructure into an intuitive interactive experience.",
    "image": null
-  },
-  {
-   "title": "A Practical Guide to Laravel's First-Party Image Processing",
-   "link": "https://laravel-news.com/a-practical-guide-to-laravels-first-party-image-processing?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-23T01:25:32.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Learn how to use Laravel's new Illuminate\\Image API introduced in Laravel 13.20 to resize, transform, convert, and store images with practical examples. The post A Practical Guide to Laravel's First-Party Image Processin",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/illuminate-image-featured.png"
   },
   {
    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
@@ -700,16 +740,6 @@
    "source": "Percona Blog",
    "summary": "On December 1, 2025, MariaDB announced that MySQL Galera Cluster will reach end of life on September 30, 2026. After that date, the MySQL build of Galera stops receiving maintenance and binary releases, and all new clust",
    "image": null
-  },
-  {
-   "title": "RouteKey Model Attribute in Laravel 13.21",
-   "link": "https://laravel-news.com/laravel-13-21-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-22T00:08:43.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.21 adds a #[RouteKey] attribute for Eloquent route model binding, a base64 validation rule, a RequestAttribute contextual attribute, and new output formats for the Image component. The post RouteKey Model Attr",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
@@ -762,16 +792,6 @@
    "image": null
   },
   {
-   "title": "Laravel Time Machine: A Request Lifecycle Profiler",
-   "link": "https://laravel-news.com/laravel-time-machine-a-request-lifecycle-profiler?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-20T23:41:45.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Time Machine profiles every stage of the Laravel request lifecycle, from bootstrap to termination, with a timeline dashboard and SQL query capture. The post Laravel Time Machine: A Request Lifecycle Profiler appe",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-time-machine-featured.png"
-  },
-  {
    "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
    "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
    "date": "2026-07-20T09:45:16.000Z",
@@ -780,16 +800,6 @@
    "source": "Codrops",
    "summary": "A look inside Unseen Studio's approach to transforming abstract ideas, hidden stories, and complex concepts into experiences people can explore and remember.",
    "image": null
-  },
-  {
-   "title": "Laravel SMS Catcher: A Local Dashboard for SMS Notifications",
-   "link": "https://laravel-news.com/laravel-sms-catcher-a-local-dashboard-for-sms-notifications?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-20T05:10:46.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel SMS Catcher captures outgoing SMS notifications during local development and displays them in a phone-inspired inbox dashboard. The post Laravel SMS Catcher: A Local Dashboard for SMS Notifications appeared first",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/SMS-Catcher-LN.png"
   },
   {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
@@ -848,7 +858,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6b8a645c208141485602/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6bdf401f134155766597/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1010,16 +1020,6 @@
    "source": "CSS-Tricks",
    "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
    "image": null
-  },
-  {
-   "title": "Percona Operator for MySQL 1.2.0: Cross-Site Replication, Encrypted Backups, and Automatic Storage Scaling",
-   "link": "https://www.percona.com/blog/percona-operator-for-mysql-1-2-0-cross-site-replication-encrypted-backups-storage-autoscaling/",
-   "date": "2026-07-07T13:19:26.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Percona Operator for MySQL 1.2.0 is out, and it closes three gaps that platform teams hit once a MySQL deployment grows past a single cluster. Picture a fleet that has outgrown one region: you want a warm replica cluster",
-   "image": "https://www.percona.com/wp-content/uploads/2026/07/Hero-2400-x-880-1024x376.png"
   },
   {
    "title": "Getting started with PHP",
