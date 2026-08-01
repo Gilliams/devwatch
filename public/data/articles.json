@@ -1,25 +1,95 @@
 {
- "generatedAt": "2026-08-01T07:36:46.741Z",
+ "generatedAt": "2026-08-01T12:10:34.598Z",
  "articles": [
   {
-   "title": "Track MySQL LTS Updates with Renovate",
-   "link": "https://dev.to/catatsuy/track-mysql-lts-updates-with-renovate-27f9",
-   "date": "2026-08-01T07:28:33.000Z",
+   "title": "Herdr and the Throughput Case for Parallel Coding Agents",
+   "link": "https://dev.to/pvgomes/herdr-and-the-throughput-case-for-parallel-coding-agents-4dk0",
+   "date": "2026-08-01T12:02:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In private-isu, we used MySQL 8.4 in Docker Compose. mysql: image: mysql:8.4 However, the default Renovate configuration created a pull request to update MySQL to 26.7. https://github.com/catatsuy/private-isu/pull/1107 -",
+   "summary": "Most agent tooling is still built around a single conversation: one agent, one task, one terminal, one stream to babysit. Fine for small tasks, bad for real engineering work. Herdr is interesting because it treats that a",
    "image": null
   },
   {
-   "title": "\"Why did my AWS deploy break with zero code changes?\"",
-   "link": "https://dev.to/ntoledo319/why-did-my-aws-deploy-break-with-zero-code-changes-5dg9",
-   "date": "2026-08-01T07:17:03.000Z",
+   "title": "The Word link your relationship scan cannot see",
+   "link": "https://dev.to/sybilgambleyyu/the-word-link-your-relationship-scan-cannot-see-44lo",
+   "date": "2026-08-01T11:52:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every other class of \"it broke\" starts with a diff. This one doesn't. git log shows nothing since last week, CI was green then, it's red now, and the error doesn't look like anything your team wrote. That's the tell. A d",
+   "summary": "The Word link your relationship scan cannot see A relationship scan is useful, but it is not a complete link inventory. A href attribute. HYPERLINK field, no w:hyperlink, and no DrawingML action for a review gate to find",
    "image": null
+  },
+  {
+   "title": "Reachable Doesn't Mean Exploitable. How to Tell the Difference From Configuration Alone.",
+   "link": "https://dev.to/bala_paranj_059d338e44e7e/reachable-doesnt-mean-exploitable-how-to-tell-the-difference-from-configuration-alone-45f7",
+   "date": "2026-08-01T11:45:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. A scanner reports: \"IAM role StorageAdmin has s3:DeleteBucket permission on the CloudTrail destination bucket prod-logs.\" Is this a problem? It depends ",
+   "image": null
+  },
+  {
+   "title": "Green CI is not a deploy decision",
+   "link": "https://dev.to/deployconfidence/green-ci-is-not-a-deploy-decision-53lc",
+   "date": "2026-08-01T11:44:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "It's 17:40 on a Thursday. Sixty-one commits have landed since the last tag. CI is green. Someone in the release channel types: \"are we good to ship?\" And then a strange thing happens. Nobody actually knows. The person wh",
+   "image": null
+  },
+  {
+   "title": "6 Failure Modes to Instrument Before You Ship an AI Agent",
+   "link": "https://dev.to/opsveritas/6-failure-modes-to-instrument-before-you-ship-an-ai-agent-3aoj",
+   "date": "2026-08-01T11:44:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Before you ship an AI agent to production, you need to know what happens when it breaks silently, and most teams don't find out until a customer complains. The reason is structural: your agent can return HTTP 200, your l",
+   "image": null
+  },
+  {
+   "title": "Linux Kernel CVEs: What to Patch by Device (26 Jul – 1 Aug 2026)",
+   "link": "https://dev.to/raghu_bharadwaj_404e60eb0c/linux-kernel-cves-what-to-patch-by-device-26-jul-1-aug-2026-54g9",
+   "date": "2026-08-01T11:42:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Linux kernel project published 33 Linux kernel CVEs in the week of 26 July to 1 August 2026. Normal-volume week after last week's large batch. Every CVE is already fixed in a stable release, no 0-day and no public ex",
+   "image": null
+  },
+  {
+   "title": "Which job schedulers fire on time? We tested ten.",
+   "link": "https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42",
+   "date": "2026-08-01T11:37:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "One of the application infrastructure products we built for smplkit is an HTTP job scheduler called Smpl Jobs. Of course, we wanted it to compare favorably with competing job schedulers, but we wondered how well it reall",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqb8xil1ebcekiuiucv3.png"
+  },
+  {
+   "title": "One Word image link can be two stored markers",
+   "link": "https://dev.to/sybilgambleyyu/one-word-image-link-can-be-two-stored-markers-1pe5",
+   "date": "2026-08-01T11:29:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "One Word image link can be two stored markers “This image has a hyperlink” sounds like one fact. In a Word OOXML package, it DocFence 0.19.0 a:hlinkClick, a:hlinkHover, and a:hlinkMouseOver markers inside supported Word ",
+   "image": null
+  },
+  {
+   "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+   "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+   "date": "2026-08-01T09:03:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg"
   },
   {
    "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
@@ -32,46 +102,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg"
   },
   {
-   "title": "A Word comment can retain a hidden review graph",
-   "link": "https://dev.to/sybilgambleyyu/a-word-comment-can-retain-a-hidden-review-graph-3ln3",
-   "date": "2026-08-01T07:11:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A Word comment can retain a hidden review graph A visible comment count is not the whole review surface in a current Word file. DocFence 0.9.0 people, commentsExtended, commentsIds, and commentsExtensible parts and Micro",
-   "image": null
-  },
-  {
-   "title": "Fix Ansible Bootstrap Playbook Failing on Fresh Cloud Servers",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-ansible-bootstrap-playbook-failing-on-fresh-cloud-servers-fpg",
-   "date": "2026-08-01T07:01:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Your Ansible bootstrap playbook fails on the first run against a freshly created instance, then works perfectly when you re-run it thirty seconds later. If that sounds familiar, you",
-   "image": null
-  },
-  {
-   "title": "GPT-5.6 Price Cuts: AI Agent Routing and FinOps Guide",
-   "link": "https://dev.to/tran_tienvan_e45fc26d655/gpt-56-price-cuts-ai-agent-routing-and-finops-guide-3od",
-   "date": "2026-08-01T06:38:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "OpenAI’s July 30 price update just killed the \"set it and forget it\" AI agent architecture. OpenAI's July 30, 2026 announcement attributed the savings to improvements across its models, inference systems, production soft",
-   "image": null
-  },
-  {
-   "title": "A Word field can quietly consult the outside world",
-   "link": "https://dev.to/sybilgambleyyu/a-word-field-can-quietly-consult-the-outside-world-2hd0",
-   "date": "2026-08-01T06:30:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A Word field can quietly consult the outside world A field result can look like ordinary document text while its stored instruction DocFence 0.8.0 DATABASE, legacy DATA, DDE, DDEAUTO, INCLUDE/INCLUDETEXT, INCLUDEPICTURE/",
-   "image": null
-  },
-  {
    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
    "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
    "date": "2026-08-01T06:29:05.000Z",
@@ -80,26 +110,6 @@
    "source": "The Hacker News",
    "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg"
-  },
-  {
-   "title": "A large company Cavepay requires employees:",
-   "link": "https://dev.to/jesika1224777/a-large-company-cavepay-requires-employees-o4k",
-   "date": "2026-08-01T06:26:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A large company Cavepay requires employees: https://cavepay.us/start",
-   "image": null
-  },
-  {
-   "title": "DevOps with Multi Cloud Course in Telugu: Learn CI/CD Pipeline from Scratch",
-   "link": "https://dev.to/chandramouli_aegu_264b84e/devops-with-multi-cloud-course-in-telugu-learn-cicd-pipeline-from-scratch-2dnd",
-   "date": "2026-08-01T06:23:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction DevOps with Multi Cloud Course in Telugu teaches beginners how Continuous Integration (CI) and Continuous Deployment (CD) work using industry-standard tools. Linux Fundamentals Learn essential Linux commands",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6e2d2wsk25jdhs80iks.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
@@ -322,16 +332,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/rss-vsz.png"
   },
   {
-   "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-   "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-   "date": "2026-07-31T11:24:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-cons",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg"
-  },
-  {
    "title": "Muhammad Aqeel: PostgreSQL 18's extension_control_path: Decoupling Extensions from Server Images",
    "link": "https://postgr.es/p/9r0",
    "date": "2026-07-31T10:08:07.000Z",
@@ -399,6 +399,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "The Drupal AI module provides everything needed for a RAG chatbot: AI Search embeds your content into a vector database, AI Assistant API wraps an LLM with a grounded search prompt, and AI Chatbot puts a Deep Chat block ",
+   "image": null
+  },
+  {
+   "title": "Stuart Clark (Deciphered): Custom Formatters 4.1.0",
+   "link": "https://stuar.tc/writing/custom-formatters-410-20260731",
+   "date": "2026-07-31T03:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Custom Formatters is old. I started it in 2009, my first year building seriously for Drupal, and shipped it through Drupal 6 and 7. Then in late 2016, not long after the first Drupal 8 alpha, I stepped away (work, life, ",
    "image": null
   },
   {
@@ -610,16 +620,6 @@
    "source": "Kubernetes Blog",
    "summary": "Caution: Some of the technical detail in this article is not accurate. We are reviewing it and preparing corrections. Until then, check what you read here against the controller-runtime documentation. Kubernetes has long",
    "image": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
-  },
-  {
-   "title": "Electric Citizen: What’s the Deal with Schema",
-   "link": "https://electriccitizen.com/insights/schema-markup-ai-seo",
-   "date": "2026-07-29T16:07:37.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "It’s not new and it’s not sexy, but Schema.org is getting a lot more attention these days. The reason is AI. You’ve probably heard that Schema improves your AI search results — apply it to your site and voilà, better res",
-   "image": "https://electriccitizen.com/sites/default/files/styles/medium_non_crop_non_webp/public/2026-07/featured-image-schema-article.jpg?itok=qy7_jq-i"
   },
   {
    "title": "Studio Freight: Moving Missions Forward",
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6d870d9cc99596514842/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6dd649e6dbc027940823/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
