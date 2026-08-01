@@ -1,14 +1,114 @@
 {
- "generatedAt": "2026-08-01T00:10:12.630Z",
+ "generatedAt": "2026-08-01T07:36:46.741Z",
  "articles": [
   {
-   "title": "Docker Images Without the Bloat",
-   "link": "https://dev.to/cloudfrontier/docker-images-without-the-bloat-1mk7",
-   "date": "2026-08-01T00:01:00.000Z",
+   "title": "Track MySQL LTS Updates with Renovate",
+   "link": "https://dev.to/catatsuy/track-mysql-lts-updates-with-renovate-27f9",
+   "date": "2026-08-01T07:28:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem with Fat Images We've all been there: you pull a Docker image, and it's 1.2GB. You run a simple Node app, and the image is bigger than your entire OS. The culprit? Base images like node:latest or python:3.11 ",
+   "summary": "In private-isu, we used MySQL 8.4 in Docker Compose. mysql: image: mysql:8.4 However, the default Renovate configuration created a pull request to update MySQL to 26.7. https://github.com/catatsuy/private-isu/pull/1107 -",
+   "image": null
+  },
+  {
+   "title": "\"Why did my AWS deploy break with zero code changes?\"",
+   "link": "https://dev.to/ntoledo319/why-did-my-aws-deploy-break-with-zero-code-changes-5dg9",
+   "date": "2026-08-01T07:17:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every other class of \"it broke\" starts with a diff. This one doesn't. git log shows nothing since last week, CI was green then, it's red now, and the error doesn't look like anything your team wrote. That's the tell. A d",
+   "image": null
+  },
+  {
+   "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+   "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+   "date": "2026-08-01T07:12:42.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg"
+  },
+  {
+   "title": "A Word comment can retain a hidden review graph",
+   "link": "https://dev.to/sybilgambleyyu/a-word-comment-can-retain-a-hidden-review-graph-3ln3",
+   "date": "2026-08-01T07:11:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A Word comment can retain a hidden review graph A visible comment count is not the whole review surface in a current Word file. DocFence 0.9.0 people, commentsExtended, commentsIds, and commentsExtensible parts and Micro",
+   "image": null
+  },
+  {
+   "title": "Fix Ansible Bootstrap Playbook Failing on Fresh Cloud Servers",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/fix-ansible-bootstrap-playbook-failing-on-fresh-cloud-servers-fpg",
+   "date": "2026-08-01T07:01:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on kuryzhev.cloud Your Ansible bootstrap playbook fails on the first run against a freshly created instance, then works perfectly when you re-run it thirty seconds later. If that sounds familiar, you",
+   "image": null
+  },
+  {
+   "title": "GPT-5.6 Price Cuts: AI Agent Routing and FinOps Guide",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/gpt-56-price-cuts-ai-agent-routing-and-finops-guide-3od",
+   "date": "2026-08-01T06:38:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "OpenAI’s July 30 price update just killed the \"set it and forget it\" AI agent architecture. OpenAI's July 30, 2026 announcement attributed the savings to improvements across its models, inference systems, production soft",
+   "image": null
+  },
+  {
+   "title": "A Word field can quietly consult the outside world",
+   "link": "https://dev.to/sybilgambleyyu/a-word-field-can-quietly-consult-the-outside-world-2hd0",
+   "date": "2026-08-01T06:30:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A Word field can quietly consult the outside world A field result can look like ordinary document text while its stored instruction DocFence 0.8.0 DATABASE, legacy DATA, DDE, DDEAUTO, INCLUDE/INCLUDETEXT, INCLUDEPICTURE/",
+   "image": null
+  },
+  {
+   "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+   "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+   "date": "2026-08-01T06:29:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg"
+  },
+  {
+   "title": "A large company Cavepay requires employees:",
+   "link": "https://dev.to/jesika1224777/a-large-company-cavepay-requires-employees-o4k",
+   "date": "2026-08-01T06:26:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A large company Cavepay requires employees: https://cavepay.us/start",
+   "image": null
+  },
+  {
+   "title": "DevOps with Multi Cloud Course in Telugu: Learn CI/CD Pipeline from Scratch",
+   "link": "https://dev.to/chandramouli_aegu_264b84e/devops-with-multi-cloud-course-in-telugu-learn-cicd-pipeline-from-scratch-2dnd",
+   "date": "2026-08-01T06:23:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction DevOps with Multi Cloud Course in Telugu teaches beginners how Continuous Integration (CI) and Continuous Deployment (CD) work using industry-standard tools. Linux Fundamentals Learn essential Linux commands",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6e2d2wsk25jdhs80iks.png"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
+   "link": "https://postgr.es/p/9r4",
+   "date": "2026-08-01T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "`hot_standby_feedback` trades primary bloat to prevent query cancellations on standbys—but it only stops cleanup conflicts, not lock or drop conflicts, and…",
    "image": null
   },
   {
@@ -22,16 +122,6 @@
    "image": null
   },
   {
-   "title": "Code review is the bottleneck. AI made writing cheap",
-   "link": "https://dev.to/rizzdev/code-review-is-the-bottleneck-ai-made-writing-cheap-4ghi",
-   "date": "2026-07-31T23:24:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Code review is the bottleneck now. AI made writing cheap. High-output teams did not get a matching lift in human approval, and the queue is where the gains go to die. This is not a pitch to buy an AI reviewer. It is a re",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fns56t4grpmraqahng1n3.webp"
-  },
-  {
    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
    "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
    "date": "2026-07-31T23:13:22.000Z",
@@ -42,63 +132,13 @@
    "image": null
   },
   {
-   "title": "Top 10 Sites to Buy Verified PayPal Accounts In 2026",
-   "link": "https://dev.to/sofiedixon4soh7/top-10-sites-to-buy-verified-paypal-accounts-in-2026-29mf",
-   "date": "2026-07-31T22:50:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Payoneer Account 💫💎💲💫🌐✨💎Fast & Reliable 24/7 Customer Support 💫💎💲💫🌐✨💎WhatsApp :+1 (506) 541-7768 💫💎💲💫🌐✨💎Telegram: @usadigitalhub 💫💎💲💫🌐✨💎Discord: usadigitalhub 💫💎💲💫🌐✨💎Email:usadi",
-   "image": null
-  },
-  {
-   "title": "AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild & CodeDeploy",
-   "link": "https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e",
-   "date": "2026-07-31T22:38:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Over the past few articles, we have learned how to create AWS infrastructure manually using services like: Amazon EC2 Amazon S3 VPC Route 53 CloudFormation But once an application is developed, another quest",
-   "image": null
-  },
-  {
-   "title": "Cost Attribution in Shared Infrastructure",
-   "link": "https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p",
-   "date": "2026-07-31T22:23:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your shared Kubernetes cluster costs $80k/month. Which team owes what? If your answer is 'I don't know,' you have a finops problem that's about to become a political problem. Here's how to do cost attribution without sta",
-   "image": null
-  },
-  {
-   "title": "Your robots.txt decides whether ChatGPT can cite you. Here's the 5-minute check.",
-   "link": "https://dev.to/siccscha/your-robotstxt-decides-whether-chatgpt-can-cite-you-heres-the-5-minute-check-185l",
-   "date": "2026-07-31T22:23:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "More and more answers reach your readers through ChatGPT, Claude and Perplexity instead of a blue link. Whether those answers can ever cite you is decided by one file: robots.txt. And most robots.txt files decide it by a",
-   "image": null
-  },
-  {
-   "title": "Cost Attribution in Shared Infrastructure",
-   "link": "https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-5eei",
-   "date": "2026-07-31T22:13:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your shared Kubernetes cluster costs $80k/month. Which team owes what? If your answer is 'I don't know,' you have a finops problem that's about to become a political problem. Here's how to do cost attribution without sta",
-   "image": null
-  },
-  {
-   "title": "\"Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill\"",
-   "link": "https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po",
-   "date": "2026-07-31T21:44:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill Kubernetes interviews often fail when they test whether a candidate can recall obscure implementation details instead of showing how that person d",
+   "title": "llm-mcp-client 0.1a0",
+   "link": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+   "date": "2026-07-31T23:03:47.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-mcp-client 0.1a0 See this blog entry . Tags: llm , model-context-protocol",
    "image": null
   },
   {
@@ -172,6 +212,16 @@
    "image": null
   },
   {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
    "title": "Robert Haas: Hacking Workshop for September 2026",
    "link": "https://postgr.es/p/9qZ",
    "date": "2026-07-31T15:09:42.000Z",
@@ -190,6 +240,26 @@
    "source": "The Hacker News",
    "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers na",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
+  },
+  {
+   "title": "datasette-agent 0.4a0",
+   "link": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+   "date": "2026-07-31T14:14:23.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for Datasette Agent plug",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
+   "image": null
   },
   {
    "title": "The Drop Times: Randy Kolenko on Maestro and Drupal’s Emerging Orchestration Work",
@@ -262,16 +332,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg"
   },
   {
-   "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-   "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-   "date": "2026-07-31T11:21:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found interne",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg"
-  },
-  {
    "title": "Muhammad Aqeel: PostgreSQL 18's extension_control_path: Decoupling Extensions from Server Images",
    "link": "https://postgr.es/p/9r0",
    "date": "2026-07-31T10:08:07.000Z",
@@ -320,16 +380,6 @@
    "source": "Symfony Blog",
    "summary": "For years, Webpack Encore was the answer to asset management in Symfony, and it still works. But the JavaScript bundler landscape has moved on since Encore was designed. Webpack needed a loader wired up for nearly everyt",
    "image": null
-  },
-  {
-   "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-   "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-   "date": "2026-07-31T06:41:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg"
   },
   {
    "title": "The Drop Times: Entity Reference Field Override Adds Per-Placement Control in Drupal",
@@ -382,26 +432,6 @@
    "image": null
   },
   {
-   "title": "llm 0.32rc2",
-   "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
-   "date": "2026-07-30T22:52:06.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.32rc2 Hot on the heels of RC1 , this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna . It was previously GPT",
-   "image": null
-  },
-  {
-   "title": "Quoting Bruce Schneier",
-   "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-   "date": "2026-07-30T18:25:26.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thin",
-   "image": null
-  },
-  {
    "title": "Talking Drupal: Talking Drupal #563 - Drupito: More Than a Marketplace",
    "link": "https://sacstudio.libsyn.com/talking-drupal-563-drupito-more-than-a-marketplace",
    "date": "2026-07-30T18:00:00.000Z",
@@ -429,16 +459,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Christopher Winslett: Hybrid Search Patterns with Postgres and pgvector",
-   "link": "https://postgr.es/p/9qP",
-   "date": "2026-07-30T15:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Most production vector queries are not simple nearest-neighbor searches. Rarely is the query to return \"the 10 most similar documents in the entire table.\" Typically, it's something closer to: find the 10 most similar do",
    "image": null
   },
   {
@@ -852,6 +872,16 @@
    "image": null
   },
   {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -902,13 +932,23 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6d2d787f8e9757225358/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6d870d9cc99596514842/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -939,6 +979,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-14T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
@@ -1052,6 +1102,26 @@
    "image": null
   },
   {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+   "image": null
+  },
+  {
    "title": "Open source maintainership in the age of AI",
    "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
    "date": "2026-06-26T18:00:00.000Z",
@@ -1070,6 +1140,16 @@
    "source": "Kubernetes Blog",
    "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources directly from a browser. Cluster API (CAPI) is a Kubernetes sub-project that brings declar",
    "image": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/cluster-api-dashboard.png"
+  },
+  {
+   "title": "translateZ()",
+   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+   "date": "2026-06-25T13:18:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+   "image": null
   }
  ]
 }
