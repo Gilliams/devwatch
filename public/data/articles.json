@@ -1,34 +1,114 @@
 {
- "generatedAt": "2026-08-02T00:08:28.224Z",
+ "generatedAt": "2026-08-02T07:39:58.754Z",
  "articles": [
   {
-   "title": "Fly.io vs Railway: Deployment, Pricing, and Features Compared",
-   "link": "https://dev.to/kimcomplete/flyio-vs-railway-deployment-pricing-and-features-compared-4okd",
-   "date": "2026-08-02T00:03:12.000Z",
+   "title": "Goodhart in Agent Pipelines: Five Cheap Ways to Pass",
+   "link": "https://dev.to/ceniy_mei_e0d035b3608fd94/goodhart-in-agent-pipelines-five-cheap-ways-to-pass-1406",
+   "date": "2026-08-02T07:32:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Two usage-based cloud platforms with different defaults — a CLI-and-primitives approach versus a repo-first, visual-canvas workflow. Here is how they line up as of 2026-07-29. Fly.io and Railway both let you deploy apps ",
+   "summary": "In round 16, a specification role invented a test backdoor that could make a broken input box and an unbound button look healthy. In round 47, a coder made an error message permanently visible so a textContains assertion",
    "image": null
   },
   {
-   "title": "Kubernetes: drenar nodos sin perder contexto",
-   "link": "https://dev.to/alexcarteruk/kubernetes-drenar-nodos-sin-perder-contexto-m0n",
-   "date": "2026-08-01T23:24:23.000Z",
+   "title": "To test or not to test, \"How\" is the question!",
+   "link": "https://dev.to/prazian/to-test-or-not-to-test-how-is-the-question-1l2e",
+   "date": "2026-08-02T07:30:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "En muchos equipos el drenado de nodos se trata como una tarea rutinaria: se agenda, se ejecuta y se da por hecho que todos entienden el impacto. En produccion eso casi nunca pasa asi. Cuando el correo de aviso llega floj",
+   "summary": "Have you ever joined a project without test coverage and wanted to add a new feature or fix a bug? Then, you spent some time, committed the fix, and deployed. Amazing! Five minutes later, bam, ten more bugs! Event detail",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjirjtbuub5xid27xaiu.png"
+  },
+  {
+   "title": "The silent CI blind spot: when \"diff against HEAD^\" lies to you",
+   "link": "https://dev.to/deftoexplore/the-silent-ci-blind-spot-when-diff-against-head-lies-to-you-48il",
+   "date": "2026-08-02T07:15:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most CI quality gates work the same way: diff the PR, check what changed. Simple — until you run the same tool locally, where there's no PR event to read a base SHA from. The naive fallback is HEAD^, the previous commit.",
    "image": null
   },
   {
-   "title": "Monitoring and Logging: The Matrix of Spotting Problems Before Users Do",
-   "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-spotting-problems-before-users-do-491d",
-   "date": "2026-08-01T23:10:52.000Z",
+   "title": "Terraform Vault Secrets: Fix Plaintext State Leaks",
+   "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-vault-secrets-fix-plaintext-state-leaks-5bof",
+   "date": "2026-08-02T07:01:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think that as long as my app didn’t crash in production, everything was fine. I’d ship a feature, watch the green CI badge, and call it a day. Then one Tuesday morning, I ",
+   "summary": "Originally published on kuryzhev.cloud Your Terraform state file might already be leaking every Vault secret you've ever provisioned — plaintext, unencrypted, and one terraform state show away from disaster. I've audited",
+   "image": null
+  },
+  {
+   "title": "Your cron expression can be valid and still never run",
+   "link": "https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg",
+   "date": "2026-08-02T06:44:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your cron expression can be valid and still never run A cron parser can answer one question—does this have five fields and legal tokens?—while your scheduler needs a different answer: will this job ever run, and will it ",
+   "image": null
+  },
+  {
+   "title": "Agentic DevOps Security: Old IAM Failures at New Speed",
+   "link": "https://dev.to/dortort/agentic-devops-security-old-iam-failures-at-new-speed-3575",
+   "date": "2026-08-02T05:29:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I argued previously that agentic AI is reintroducing ClickOps, and I still think that holds. But I made a second claim in that piece I've stopped believing: that least-privilege design is harder for agents than for human",
+   "image": null
+  },
+  {
+   "title": "Kubernetes Swap Support in 1.35: The Config That Silently Does Nothing",
+   "link": "https://dev.to/dev_encyclopedia/kubernetes-swap-support-in-135-the-config-that-silently-does-nothing-2deb",
+   "date": "2026-08-02T05:17:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Node swap support (KEP-2400) went GA in 1.34 and stable in 1.35. If you've been putting off a decision on this, this is the release where it's actually safe to test. But \"stable\" doesn't mean \"on for you.\" Swap is opt-in",
+   "image": null
+  },
+  {
+   "title": "Stop Ignoring Firmware CVEs: Practical fwupd and LVFS on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-ignoring-firmware-cves-practical-fwupd-and-lvfs-on-linux-56c7",
+   "date": "2026-08-02T05:02:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your package manager is current. Unattended upgrades are green. Containers rebuild nightly. Then a laptop BIOS advisory lands for a DMA or SMM bug, your NVMe firmware has a known data-loss fix, and the Thunderbolt dock i",
+   "image": null
+  },
+  {
+   "title": "Open letters about AI development",
+   "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+   "date": "2026-08-02T04:16:52.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership ",
+   "image": null
+  },
+  {
+   "title": "July 2026 newsletter",
+   "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+   "date": "2026-08-02T04:12:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under t",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: ident_file",
+   "link": "https://postgr.es/p/9r8",
+   "date": "2026-08-02T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "ident_file tells the server where pg_ident.conf lives, but when it's wrong, the server just logs a quiet failure and keeps running.",
    "image": null
   },
   {
@@ -42,6 +122,16 @@
    "image": null
   },
   {
+   "title": "Freelock Blog: Zero to new Drupal site in 133 seconds",
+   "link": "https://www.freelock.com/blog/john-locke/2026-08/zero-new-drupal-site-133-seconds",
+   "date": "2026-08-01T22:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Zero to new Drupal site in 133 seconds John Locke Sat, 08/01/2026 - 15:00 Gabor asked in Slack about how people contributing to Drupal manage multiple different Drupal versions, and different contributed module branches,",
+   "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-08/computer-4795762_150.jpg?itok=3n3w11YZ"
+  },
+  {
    "title": "datasette-apps 0.2a0",
    "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
    "date": "2026-08-01T21:23:56.000Z",
@@ -52,26 +142,6 @@
    "image": null
   },
   {
-   "title": "Galaxy S27 Ultra Rumors: Silicon-Carbon Battery May Skip Some Models",
-   "link": "https://dev.to/thomas_woodfin_3a4efcd491/galaxy-s27-ultra-rumors-silicon-carbon-battery-may-skip-some-models-2hfe",
-   "date": "2026-08-01T21:00:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "*The Galaxy S27 Ultra's rumored shift to silicon-carbon batteries isn't just a spec bump-it's a fundamental re-architecture of how Android devices manage energy. And Samsung's decision to potentially limit the tech to ce",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages%2C%2520and%2520unsplashcom%2Fphoto-placeholder%3F%2520w%3D800"
-  },
-  {
-   "title": "Optimizing Legacy Vehicle Valuation Systems: A Technical Deep Dive into Modern Auto-Ankauf Platforms",
-   "link": "https://dev.to/germanautoexpert_f1777898/optimizing-legacy-vehicle-valuation-systems-a-technical-deep-dive-into-modern-auto-ankauf-platforms-2c0n",
-   "date": "2026-08-01T20:45:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "https://www.aachen-gebrauchtwagen.de/ rely on streamlined data processing to evaluate mechanical failures, mileage matrices, and market fluctuations instantly. Implementing such a system demands efficient database queryi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cdccr24p9rtvujb23cq.jpg"
-  },
-  {
    "title": "Ten advances in mathematics and theoretical computer science",
    "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
    "date": "2026-08-01T20:34:49.000Z",
@@ -80,36 +150,6 @@
    "source": "Simon Willison",
    "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that includ",
    "image": null
-  },
-  {
-   "title": "Building a Production-Grade Microservices Platform on AWS EKS",
-   "link": "https://dev.to/neshan_parvej_bf2aed2f5d8/building-a-production-grade-microservices-platform-on-aws-eks-44jd",
-   "date": "2026-08-01T20:33:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🎯 Introduction Running microservices in development is easy. Building a production-grade platform with hard limits, zero-trust pod IAM roles, automated GitOps delivery, full telemetry, and an SRE incident response frame",
-   "image": null
-  },
-  {
-   "title": "NetBSD 11.0 sale con tres fallos de seguridad abiertos, sin ocultarlos",
-   "link": "https://dev.to/lu1tr0n/netbsd-110-sale-con-tres-fallos-de-seguridad-abiertos-sin-ocultarlos-3bdj",
-   "date": "2026-08-01T20:21:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "El proyecto NetBSD publicó oficialmente la versión 11.0 el 1 de agosto de 2026, y lo hizo reconociendo en el mismo anuncio que existen tres fallos de seguridad conocidos sin parchear. En vez de demorar aún más un ciclo q",
-   "image": null
-  },
-  {
-   "title": "I Broke My Own Serverless App on Purpose, Then Asked AWS DevOps Agent What Happened",
-   "link": "https://dev.to/aws-builders/i-broke-my-own-serverless-app-on-purpose-then-asked-aws-devops-agent-what-happened-20m3",
-   "date": "2026-08-01T20:09:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A hands-on field report: real account, real incident, real investigation output — graded claim by claim against CloudWatch, including the two things the agent got wrong. Why another DevOps Agent post What AWS DevOps Agen",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnbh2ex2d95e9dw8r6n0.png"
   },
   {
    "title": "BloomIdea: When two terms called Food are not the same term",
@@ -199,26 +239,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: llm-mcp-client 0.1a0 See this blog entry . Tags: llm , model-context-protocol",
-   "image": null
-  },
-  {
-   "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
-   "link": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
-   "date": "2026-07-31T21:33:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight mode",
-   "image": null
-  },
-  {
-   "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-   "link": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
-   "date": "2026-07-31T21:15:23.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the",
    "image": null
   },
   {
@@ -442,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby",
-   "link": "https://postgr.es/p/9qQ",
-   "date": "2026-07-31T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's hot_standby switch transforms a spare server into a readable replica, but the real tuning work happens elsewhere.",
-   "image": null
-  },
-  {
    "title": "Talking Drupal: Talking Drupal #563 - Drupito: More Than a Marketplace",
    "link": "https://sacstudio.libsyn.com/talking-drupal-563-drupito-more-than-a-marketplace",
    "date": "2026-07-30T18:00:00.000Z",
@@ -559,16 +569,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.0.16 was released on July 29, 2026. It is the last release of the 8.0 branch. Symfony's release policy gives standard versions eight months of support, with bug fixes and security fixes ending at the same time.",
-   "image": null
-  },
-  {
-   "title": "Metadrop: How to automate WordPress-to-Drupal content migration with WordPress Migrate SQL",
-   "link": "https://metadrop.net/en/articles/how-to-automate-wordpress-to-drupal-content-migration-with-wordpress-migrate-sql",
-   "date": "2026-07-30T06:15:15.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Some WordPress sites reach a point where the content model no longer fits the organization's needs. Custom content types, custom entities, and custom fields become necessary to represent internal data precisely, and Drup",
    "image": null
   },
   {
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6e8805cfca8934379115/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6ee1d874735322183512/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
