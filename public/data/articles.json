@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-08-01T12:10:34.598Z",
+ "generatedAt": "2026-08-02T00:08:28.224Z",
  "articles": [
   {
-   "title": "Herdr and the Throughput Case for Parallel Coding Agents",
-   "link": "https://dev.to/pvgomes/herdr-and-the-throughput-case-for-parallel-coding-agents-4dk0",
-   "date": "2026-08-01T12:02:08.000Z",
+   "title": "Fly.io vs Railway: Deployment, Pricing, and Features Compared",
+   "link": "https://dev.to/kimcomplete/flyio-vs-railway-deployment-pricing-and-features-compared-4okd",
+   "date": "2026-08-02T00:03:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most agent tooling is still built around a single conversation: one agent, one task, one terminal, one stream to babysit. Fine for small tasks, bad for real engineering work. Herdr is interesting because it treats that a",
+   "summary": "Two usage-based cloud platforms with different defaults — a CLI-and-primitives approach versus a repo-first, visual-canvas workflow. Here is how they line up as of 2026-07-29. Fly.io and Railway both let you deploy apps ",
    "image": null
   },
   {
-   "title": "The Word link your relationship scan cannot see",
-   "link": "https://dev.to/sybilgambleyyu/the-word-link-your-relationship-scan-cannot-see-44lo",
-   "date": "2026-08-01T11:52:20.000Z",
+   "title": "Kubernetes: drenar nodos sin perder contexto",
+   "link": "https://dev.to/alexcarteruk/kubernetes-drenar-nodos-sin-perder-contexto-m0n",
+   "date": "2026-08-01T23:24:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Word link your relationship scan cannot see A relationship scan is useful, but it is not a complete link inventory. A href attribute. HYPERLINK field, no w:hyperlink, and no DrawingML action for a review gate to find",
+   "summary": "En muchos equipos el drenado de nodos se trata como una tarea rutinaria: se agenda, se ejecuta y se da por hecho que todos entienden el impacto. En produccion eso casi nunca pasa asi. Cuando el correo de aviso llega floj",
    "image": null
   },
   {
-   "title": "Reachable Doesn't Mean Exploitable. How to Tell the Difference From Configuration Alone.",
-   "link": "https://dev.to/bala_paranj_059d338e44e7e/reachable-doesnt-mean-exploitable-how-to-tell-the-difference-from-configuration-alone-45f7",
-   "date": "2026-08-01T11:45:12.000Z",
+   "title": "Monitoring and Logging: The Matrix of Spotting Problems Before Users Do",
+   "link": "https://dev.to/timevolt/monitoring-and-logging-the-matrix-of-spotting-problems-before-users-do-491d",
+   "date": "2026-08-01T23:10:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. A scanner reports: \"IAM role StorageAdmin has s3:DeleteBucket permission on the CloudTrail destination bucket prod-logs.\" Is this a problem? It depends ",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think that as long as my app didn’t crash in production, everything was fine. I’d ship a feature, watch the green CI badge, and call it a day. Then one Tuesday morning, I ",
    "image": null
   },
   {
-   "title": "Green CI is not a deploy decision",
-   "link": "https://dev.to/deployconfidence/green-ci-is-not-a-deploy-decision-53lc",
-   "date": "2026-08-01T11:44:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "It's 17:40 on a Thursday. Sixty-one commits have landed since the last tag. CI is green. Someone in the release channel types: \"are we good to ship?\" And then a strange thing happens. Nobody actually knows. The person wh",
+   "title": "Quoting Greg Brockman",
+   "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+   "date": "2026-08-01T22:29:44.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by th",
    "image": null
   },
   {
-   "title": "6 Failure Modes to Instrument Before You Ship an AI Agent",
-   "link": "https://dev.to/opsveritas/6-failure-modes-to-instrument-before-you-ship-an-ai-agent-3aoj",
-   "date": "2026-08-01T11:44:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Before you ship an AI agent to production, you need to know what happens when it breaks silently, and most teams don't find out until a customer complains. The reason is structural: your agent can return HTTP 200, your l",
+   "title": "datasette-apps 0.2a0",
+   "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+   "date": "2026-08-01T21:23:56.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_l",
    "image": null
   },
   {
-   "title": "Linux Kernel CVEs: What to Patch by Device (26 Jul – 1 Aug 2026)",
-   "link": "https://dev.to/raghu_bharadwaj_404e60eb0c/linux-kernel-cves-what-to-patch-by-device-26-jul-1-aug-2026-54g9",
-   "date": "2026-08-01T11:42:14.000Z",
+   "title": "Galaxy S27 Ultra Rumors: Silicon-Carbon Battery May Skip Some Models",
+   "link": "https://dev.to/thomas_woodfin_3a4efcd491/galaxy-s27-ultra-rumors-silicon-carbon-battery-may-skip-some-models-2hfe",
+   "date": "2026-08-01T21:00:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Linux kernel project published 33 Linux kernel CVEs in the week of 26 July to 1 August 2026. Normal-volume week after last week's large batch. Every CVE is already fixed in a stable release, no 0-day and no public ex",
+   "summary": "*The Galaxy S27 Ultra's rumored shift to silicon-carbon batteries isn't just a spec bump-it's a fundamental re-architecture of how Android devices manage energy. And Samsung's decision to potentially limit the tech to ce",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages%2C%2520and%2520unsplashcom%2Fphoto-placeholder%3F%2520w%3D800"
+  },
+  {
+   "title": "Optimizing Legacy Vehicle Valuation Systems: A Technical Deep Dive into Modern Auto-Ankauf Platforms",
+   "link": "https://dev.to/germanautoexpert_f1777898/optimizing-legacy-vehicle-valuation-systems-a-technical-deep-dive-into-modern-auto-ankauf-platforms-2c0n",
+   "date": "2026-08-01T20:45:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "https://www.aachen-gebrauchtwagen.de/ rely on streamlined data processing to evaluate mechanical failures, mileage matrices, and market fluctuations instantly. Implementing such a system demands efficient database queryi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9cdccr24p9rtvujb23cq.jpg"
+  },
+  {
+   "title": "Ten advances in mathematics and theoretical computer science",
+   "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+   "date": "2026-08-01T20:34:49.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that includ",
    "image": null
   },
   {
-   "title": "Which job schedulers fire on time? We tested ten.",
-   "link": "https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42",
-   "date": "2026-08-01T11:37:23.000Z",
+   "title": "Building a Production-Grade Microservices Platform on AWS EKS",
+   "link": "https://dev.to/neshan_parvej_bf2aed2f5d8/building-a-production-grade-microservices-platform-on-aws-eks-44jd",
+   "date": "2026-08-01T20:33:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "One of the application infrastructure products we built for smplkit is an HTTP job scheduler called Smpl Jobs. Of course, we wanted it to compare favorably with competing job schedulers, but we wondered how well it reall",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqb8xil1ebcekiuiucv3.png"
+   "summary": "🎯 Introduction Running microservices in development is easy. Building a production-grade platform with hard limits, zero-trust pod IAM roles, automated GitOps delivery, full telemetry, and an SRE incident response frame",
+   "image": null
   },
   {
-   "title": "One Word image link can be two stored markers",
-   "link": "https://dev.to/sybilgambleyyu/one-word-image-link-can-be-two-stored-markers-1pe5",
-   "date": "2026-08-01T11:29:24.000Z",
+   "title": "NetBSD 11.0 sale con tres fallos de seguridad abiertos, sin ocultarlos",
+   "link": "https://dev.to/lu1tr0n/netbsd-110-sale-con-tres-fallos-de-seguridad-abiertos-sin-ocultarlos-3bdj",
+   "date": "2026-08-01T20:21:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "One Word image link can be two stored markers “This image has a hyperlink” sounds like one fact. In a Word OOXML package, it DocFence 0.19.0 a:hlinkClick, a:hlinkHover, and a:hlinkMouseOver markers inside supported Word ",
+   "summary": "El proyecto NetBSD publicó oficialmente la versión 11.0 el 1 de agosto de 2026, y lo hizo reconociendo en el mismo anuncio que existen tres fallos de seguridad conocidos sin parchear. En vez de demorar aún más un ciclo q",
    "image": null
+  },
+  {
+   "title": "I Broke My Own Serverless App on Purpose, Then Asked AWS DevOps Agent What Happened",
+   "link": "https://dev.to/aws-builders/i-broke-my-own-serverless-app-on-purpose-then-asked-aws-devops-agent-what-happened-20m3",
+   "date": "2026-08-01T20:09:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A hands-on field report: real account, real incident, real investigation output — graded claim by claim against CloudWatch, including the two things the agent got wrong. Why another DevOps Agent post What AWS DevOps Agen",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flnbh2ex2d95e9dw8r6n0.png"
+  },
+  {
+   "title": "BloomIdea: When two terms called Food are not the same term",
+   "link": "https://bloomidea.com/en/blog/when-two-terms-called-food-are-not-same-term",
+   "date": "2026-08-01T18:40:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "You have a supplier spreadsheet with a category column that reads Animals > Dogs > Food, and you want Drupal to end up with a real taxonomy tree: Animals, with a child Dogs, with a child Food, each level created only if ",
+   "image": null
+  },
+  {
+   "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+   "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+   "date": "2026-08-01T17:17:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg"
   },
   {
    "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
@@ -252,16 +302,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
   },
   {
-   "title": "datasette-agent 0.4a0",
-   "link": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
-   "date": "2026-07-31T14:14:23.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-agent 0.4a0 New await context.browser_task() mechanism allowing agent tools to run code directly in the user's browser. #33 This is an exciting new capability: it makes it easy for Datasette Agent plug",
-   "image": null
-  },
-  {
    "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
    "link": "https://css-tricks.com/whats-important-16/",
    "date": "2026-07-31T14:06:21.000Z",
@@ -310,16 +350,6 @@
    "source": "The Hacker News",
    "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg"
-  },
-  {
-   "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-   "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-   "date": "2026-07-31T11:55:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5Qzkfu4WC4nW5n_nmFDP3CoZsw91wzaKcfKRZBx7DXHggnqqxqun757BOQey3jOUCGe4928DBU6fy4dPX04Cmp94xqWdNkZgkp1DuenVewYZFxSs9YSQdArKp1Ma3hAGkDAIA7zH8_7hXubNrJbP27r6XxIlCrzrYYoi3vAVFaLVdu1tnN6blLhE61xE/s1600/ifinder.jpg"
   },
   {
    "title": "Stored Procedures memory consumption in Percona Server for MySQL",
@@ -419,26 +449,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's hot_standby switch transforms a spare server into a readable replica, but the real tuning work happens elsewhere.",
-   "image": null
-  },
-  {
-   "title": "Advancing the price-performance frontier with GPT‑5.6",
-   "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
-   "date": "2026-07-30T23:58:42.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.",
-   "image": null
-  },
-  {
-   "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-   "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
-   "date": "2026-07-30T23:41:29.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier mo",
    "image": null
   },
   {
@@ -599,16 +609,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.0.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Responsibility follows control",
-   "link": "https://dri.es/responsibility-follows-control",
-   "date": "2026-07-29T21:27:33.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "An AI model does not decide what data it can access, which tools it can use, or whether it can act without approval. People make those decisions at different points. Upstream, a model developer trains and tests the model",
    "image": null
   },
   {
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6dd649e6dbc027940823/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6e8805cfca8934379115/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
