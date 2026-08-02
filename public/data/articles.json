@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-02T07:39:58.754Z",
+ "generatedAt": "2026-08-02T12:13:06.713Z",
  "articles": [
   {
-   "title": "Goodhart in Agent Pipelines: Five Cheap Ways to Pass",
-   "link": "https://dev.to/ceniy_mei_e0d035b3608fd94/goodhart-in-agent-pipelines-five-cheap-ways-to-pass-1406",
-   "date": "2026-08-02T07:32:47.000Z",
+   "title": "Your scraper isn't blocked — your proxy is. Stop treating every failure the same way",
+   "link": "https://dev.to/aethyn_team/your-scraper-isnt-blocked-your-proxy-is-stop-treating-every-failure-the-same-way-330d",
+   "date": "2026-08-02T11:38:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In round 16, a specification role invented a test backdoor that could make a broken input box and an unbound button look healthy. In round 47, a coder made an error message permanently visible so a textContains assertion",
+   "summary": "Here's a retry loop. You've written this loop. I've written this loop. for attempt in range(5): try: r = requests.get(url, proxies=proxies, timeout=30) if r.status_code == 200: return r.text except Exception: pass rotate",
    "image": null
   },
   {
-   "title": "To test or not to test, \"How\" is the question!",
-   "link": "https://dev.to/prazian/to-test-or-not-to-test-how-is-the-question-1l2e",
-   "date": "2026-08-02T07:30:45.000Z",
+   "title": "The Ghost in the Catalog",
+   "link": "https://dev.to/jeremy_longshore/the-ghost-in-the-catalog-42m0",
+   "date": "2026-08-02T11:30:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Have you ever joined a project without test coverage and wanted to add a new feature or fix a bug? Then, you spent some time, committed the fix, and deployed. Amazing! Five minutes later, bam, ten more bugs! Event detail",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdjirjtbuub5xid27xaiu.png"
-  },
-  {
-   "title": "The silent CI blind spot: when \"diff against HEAD^\" lies to you",
-   "link": "https://dev.to/deftoexplore/the-silent-ci-blind-spot-when-diff-against-head-lies-to-you-48il",
-   "date": "2026-08-02T07:15:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most CI quality gates work the same way: diff the PR, check what changed. Simple — until you run the same tool locally, where there's no PR event to read a base SHA from. The naive fallback is HEAD^, the previous commit.",
+   "summary": "Yesterday my blog published an article auditing itself. It counted its own posts, tallied its own Not wrong in a rounding way. Wrong in a way that should not be possible: one of the rows described That is the whole story",
    "image": null
   },
   {
-   "title": "Terraform Vault Secrets: Fix Plaintext State Leaks",
-   "link": "https://dev.to/oleksandr_kuryzhev_42873f/terraform-vault-secrets-fix-plaintext-state-leaks-5bof",
-   "date": "2026-08-02T07:01:50.000Z",
+   "title": "Stop Leaking Secrets into your LLM Context Windows",
+   "link": "https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5",
+   "date": "2026-08-02T11:21:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on kuryzhev.cloud Your Terraform state file might already be leaking every Vault secret you've ever provisioned — plaintext, unencrypted, and one terraform state show away from disaster. I've audited",
+   "summary": "I've seen it happen more than once in production logs: an AI agent, given access to a database or a third-party API via MCP, returns a payload that includes not just the requested data, but also a session token, an AWS s",
    "image": null
   },
   {
-   "title": "Your cron expression can be valid and still never run",
-   "link": "https://dev.to/takeaseatventure/your-cron-expression-can-be-valid-and-still-never-run-4alg",
-   "date": "2026-08-02T06:44:56.000Z",
+   "title": "Get your FedEx job!",
+   "link": "https://dev.to/al_islam_92240b3be93b2b91/get-your-fedex-job-53na",
+   "date": "2026-08-02T11:15:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your cron expression can be valid and still never run A cron parser can answer one question—does this have five fields and legal tokens?—while your scheduler needs a different answer: will this job ever run, and will it ",
+   "summary": "went youe jobs https://www.af9m8trk.com/NQZ113KS/42T1214V/",
    "image": null
   },
   {
-   "title": "Agentic DevOps Security: Old IAM Failures at New Speed",
-   "link": "https://dev.to/dortort/agentic-devops-security-old-iam-failures-at-new-speed-3575",
-   "date": "2026-08-02T05:29:58.000Z",
+   "title": "Lifecycle, DevOps & Multi-Agent Orchestration for Enterprise AI",
+   "link": "https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m",
+   "date": "2026-08-02T11:08:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I argued previously that agentic AI is reintroducing ClickOps, and I still think that holds. But I made a second claim in that piece I've stopped believing: that least-privilege design is harder for agents than for human",
+   "summary": "The Agentic DevOps Challenge As enterprise AI adoption matures, organizations are shifting from single-turn chat assistants to complex multi-agent orchestration meshes. In these architectures, specialized autonomous agen",
    "image": null
   },
   {
-   "title": "Kubernetes Swap Support in 1.35: The Config That Silently Does Nothing",
-   "link": "https://dev.to/dev_encyclopedia/kubernetes-swap-support-in-135-the-config-that-silently-does-nothing-2deb",
-   "date": "2026-08-02T05:17:02.000Z",
+   "title": "My Python Class — The Golden Rules of Programming",
+   "link": "https://dev.to/karthick_07/my-python-class-the-golden-rules-of-programming-348f",
+   "date": "2026-08-02T11:06:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Node swap support (KEP-2400) went GA in 1.34 and stable in 1.35. If you've been putting off a decision on this, this is the release where it's actually safe to test. But \"stable\" doesn't mean \"on for you.\" Swap is opt-in",
+   "summary": "1. Never Say \"I Don't Know\" — Say \"Let Me Try\" The first rule, and maybe the most important mindset shift. When you look at a program and feel lost, the instinct is to freeze and say \"I don't know this.\" Instead, the hab",
    "image": null
   },
   {
-   "title": "Stop Ignoring Firmware CVEs: Practical fwupd and LVFS on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-ignoring-firmware-cves-practical-fwupd-and-lvfs-on-linux-56c7",
-   "date": "2026-08-02T05:02:43.000Z",
+   "title": "From Vercel to a €40 Hetzner box: serving 1M+ Next.js ISR pages without melting the disk",
+   "link": "https://dev.to/ahmet_arslan_9f071826c3ba/from-vercel-to-a-eu40-hetzner-box-serving-1m-nextjs-isr-pages-without-melting-the-disk-10b9",
+   "date": "2026-08-02T11:05:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your package manager is current. Unattended upgrades are green. Containers rebuild nightly. Then a laptop BIOS advisory lands for a DMA or SMM bug, your NVMe firmware has a known data-loss fix, and the Thunderbolt dock i",
+   "summary": "We run Hizmetgo, a Turkish local-services marketplace (think Thumbtack for Türkiye). The site is programmatic-SEO heavy: ~1M+ Next.js ISR pages across 81 provinces, 970+ districts and thousands of service categories. Her",
+   "image": null
+  },
+  {
+   "title": "Docker Engine v29: Fixing \"API Version Mismatch\" Error",
+   "link": "https://dev.to/romanpinchuk/docker-engine-v29-fixing-api-version-mismatch-error-15j6",
+   "date": "2026-08-02T10:53:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you've recently upgraded to Docker Engine - Community Version 29, you might have hit a frustrating API version mismatch error. Specifically, you might see an error indicating that a minimum API version >= 1.44 is requ",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1022 (July 27 – August 2, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1022-july-27-august-2-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-02T07:02:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony 6.4.43, 7.4.15, 8.0.16 and 8.1.3 maintenance versions were released. In addition, Symfony 8.0 reached its end of life. Finally, we introduced Symfony Reprise, the evolution of Webpack Encore for modern",
    "image": null
   },
   {
@@ -662,16 +672,6 @@
    "image": null
   },
   {
-   "title": "Symfony 6.4.43 released",
-   "link": "https://symfony.com/blog/symfony-6-4-43-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-29T11:39:14.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 6.4.43 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "Blade Formatting in Laravel Pint",
    "link": "https://laravel-news.com/blade-formatting-in-laravel-pint?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-29T03:42:54.000Z",
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6ee1d874735322183512/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6f3450b5cac172697807/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
