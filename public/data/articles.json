@@ -1,74 +1,144 @@
 {
- "generatedAt": "2026-08-03T00:09:08.452Z",
+ "generatedAt": "2026-08-03T08:41:05.659Z",
  "articles": [
   {
-   "title": "Notion vs Obsidian: How to Choose in 2026",
-   "link": "https://dev.to/kimcomplete/notion-vs-obsidian-how-to-choose-in-2026-5beh",
-   "date": "2026-08-03T00:03:52.000Z",
+   "title": "Uptime Monitoring for Microservices: A Practical Guide with Vigilmon",
+   "link": "https://dev.to/vigilmon/uptime-monitoring-for-microservices-a-practical-guide-with-vigilmon-22nc",
+   "date": "2026-08-03T08:26:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A feature-by-feature look at Notion's connected team workspace and Obsidian's private, plugin-driven notes app, with pricing observed on 2026-07-29 and clear picks for teams and for solo note-takers. Notion and Obsidian ",
+   "summary": "Microservices make uptime monitoring more complex than monolith monitoring. Instead of one service to watch, you have dozens of services with dependencies between them. This guide covers practical uptime monitoring strat",
    "image": null
   },
   {
-   "title": "Docker Images Without the Bloat",
-   "link": "https://dev.to/cloudfrontier/docker-images-without-the-bloat-an",
-   "date": "2026-08-03T00:01:23.000Z",
+   "title": "Green is not evidence. Two of my checks were covering less than I thought.",
+   "link": "https://dev.to/isamu/green-is-not-evidence-two-of-my-checks-were-covering-less-than-i-thought-j99",
+   "date": "2026-08-03T08:25:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem with Fat Images We've all been there: you pull an image, run docker images, and see a 1.2GB monster staring back at you. That's not just disk space wasted; it's slower pulls, slower deploys, and a larger atta",
+   "summary": "Someone left this on a post of mine about how I stopped reviewing my own code: Most teams test the output of a rule (e.g., does this code pass linting?) but rarely test the rule itself. I'd been writing about pulling dec",
    "image": null
   },
   {
-   "title": "Dose anyone have experience with Leapd for building business?",
-   "link": "https://dev.to/somayeh_8c30e34eb2d8b6c19/dose-anyone-have-experience-with-leapd-for-building-business-3g17",
-   "date": "2026-08-02T23:45:42.000Z",
+   "title": "How to Monitor MySQL Database Health with Vigilmon (Free External Uptime Checks)",
+   "link": "https://dev.to/vigilmon/how-to-monitor-mysql-database-health-with-vigilmon-free-external-uptime-checks-35h2",
+   "date": "2026-08-03T08:25:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I’ve heard that its very easy to build our own business with AI and I always had dream to have my own. My colleagues introduced Leapd and I was wondering if anyone has used it, or any advice For context : I already gave ",
+   "summary": "MySQL powers millions of applications. When it goes down or becomes unreachable, your entire app follows. This guide shows how to monitor MySQL health externally using Vigilmon - no agent installation, no database creden",
    "image": null
   },
   {
-   "title": "Top 65 Sites to Buy Old Facebook Accounts for Ads Are ...",
-   "link": "https://dev.to/junierosalesa7226/top-65-sites-to-buy-old-facebook-accounts-for-ads-are--jf0",
-   "date": "2026-08-02T23:20:06.000Z",
+   "title": "Offshoring versus EU-Nearshoring: De beste keuze voor logistieke backoffice outsourcing",
+   "link": "https://dev.to/datamondial/offshoring-versus-eu-nearshoring-de-beste-keuze-voor-logistieke-backoffice-outsourcing-21nk",
+   "date": "2026-08-03T08:24:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Facebook Ads Accounts: Advertising Account Security, Privacy Protection & Responsible Management (Complete Guide 2026) 💫💎💲💫🌐✨💎WhatsApp :+1 (506) 541-7768 💫💎💲💫🌐✨💎Telegram: @usadigitalhub 💫💎💲💫🌐✨💎D",
+   "summary": "Logistieke capaciteitsplanning vereist een directe verschuiving van de focus op de 'goedkoopst mogelijke uren' naar structureel snelle, foutloze doorlooptijden. Datastromen rondom zeevracht, fysiek transport en warehouse",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozoiwvrk34x3xbb1b7ut.png"
+  },
+  {
+   "title": "How to Set Up On-Call Alerting with Vigilmon (Rotations, Escalations, and Alert Rules)",
+   "link": "https://dev.to/vigilmon/how-to-set-up-on-call-alerting-with-vigilmon-rotations-escalations-and-alert-rules-5877",
+   "date": "2026-08-03T08:20:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On-call rotations are stressful when your alerting setup is noisy or poorly configured. This guide shows how to set up intelligent on-call alerting with Vigilmon - so the right person gets paged for real incidents, not f",
    "image": null
   },
   {
-   "title": "12 Best Sites to Buy Google 5 Star Reviews (5 Star & Non- ...",
-   "link": "https://dev.to/junierosalesa7226/12-best-sites-to-buy-google-5-star-reviews-5-star-non--p5p",
-   "date": "2026-08-02T23:15:24.000Z",
+   "title": "Self-Healing Instance Pools on Vultr: A Reconciler Loop for Solo Devs Without Kubernetes",
+   "link": "https://dev.to/mukesh_13/self-healing-instance-pools-on-vultr-a-reconciler-loop-for-solo-devs-without-kubernetes-4k70",
+   "date": "2026-08-03T08:19:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Google 5-Star Reviews: Ethical Strategies to Earn More Authentic Customer Reviews (Complete Guide 2026) 💫💎💲💫🌐✨💎WhatsApp :+1 (506) 541-7768 💫💎💲💫🌐✨💎Telegram: @usadigitalhub 💫💎💲💫🌐✨💎Discord: usadigitalhub \ud83d",
+   "summary": "Managed Kubernetes gives you self-healing for free: a node dies, the scheduler notices, a replacement pod comes up elsewhere. If you're running a handful of Vultr instances behind a load balancer — a Postgres read replic",
    "image": null
   },
   {
-   "title": "A GitHub Actions tag is a promise, not a fact: pinning by SHA the right way",
-   "link": "https://dev.to/wahib_el_khadiri_0/a-github-actions-tag-is-a-promise-not-a-fact-pinning-by-sha-the-right-way-3np",
-   "date": "2026-08-02T22:58:53.000Z",
+   "title": "Smarter Test Splitting in CircleCI: Balancing Parallel Containers with Real Timing Data Instead of Guesswork",
+   "link": "https://dev.to/mukesh_13/smarter-test-splitting-in-circleci-balancing-parallel-containers-with-real-timing-data-instead-of-p7g",
+   "date": "2026-08-03T08:19:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When you write uses: actions/checkout@v4 in a GitHub Actions workflow, you are not pinning anything. You are trusting a promise. A tag is a movable pointer. Whoever owns that repository can repoint v4 at a different comm",
+   "summary": "Most teams turn on parallelism in CircleCI, add circleci tests split, and assume the test-speed problem is solved. It usually isn't. The default split mode divides test files by name or count, which produces wildly uneve",
    "image": null
   },
   {
-   "title": "AI Doesn’t Just Have a Compute Shortage. It Has an Execution Problem.",
-   "link": "https://dev.to/jaguarkyng/ai-doesnt-just-have-a-compute-shortage-it-has-an-execution-problem-gb0",
-   "date": "2026-08-02T22:32:17.000Z",
+   "title": "How to Monitor PostgreSQL Database Health with Vigilmon (Free External Checks)",
+   "link": "https://dev.to/vigilmon/how-to-monitor-postgresql-database-health-with-vigilmon-free-external-checks-e6c",
+   "date": "2026-08-03T08:19:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The AI industry has spent the past several years discussing one dominant infrastructure problem: There is not enough compute. Companies are racing to secure GPUs. Cloud providers are expanding capacity. Governments are f",
+   "summary": "PostgreSQL is the backbone of most production applications. When Postgres goes down or slows down, your entire application grinds to a halt. This guide shows how to use Vigilmon to monitor your PostgreSQL database health",
+   "image": null
+  },
+  {
+   "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+   "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+   "date": "2026-08-03T08:05:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
+  },
+  {
+   "title": "Drupal AI Initiative: Move Fast, Stay On-Brand: How Drupal AI Delivers Both",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/move-fast-stay-on-brand-how-drupal-ai-delivers-both",
+   "date": "2026-08-03T07:46:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Author: Will Huggins In our previous blog posts, we’ve talked about how our growing ecosystem — now backed by 32 global partner organisations and a dedicated delivery team — is structured to build a secure, stable, and h",
+   "image": null
+  },
+  {
+   "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+   "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+   "date": "2026-08-03T06:41:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
+  },
+  {
+   "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+   "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+   "date": "2026-08-03T06:40:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
+  },
+  {
+   "title": "Talking Drupal: TD Cafe #020 - AI & Development Teams",
+   "link": "https://sacstudio.libsyn.com/td-cafe-020-ai-development-teams",
+   "date": "2026-08-03T04:05:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "How should development teams adopt AI without sacrificing code quality or collaboration? In this Talking Drupal Cafe, Stephen Cross is joined by Mike Miles and Jim Birch to discuss practical strategies for integrating AI",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout",
+   "link": "https://postgr.es/p/9r9",
+   "date": "2026-08-03T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Idle transactions hold locks and block vacuums, turning one forgotten connection into a cascading outage.",
    "image": null
   },
   {
@@ -79,16 +149,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's",
-   "image": null
-  },
-  {
-   "title": "Building Jungle Grid: Jungle Grid vs Renting GPUs Directly",
-   "link": "https://dev.to/jaguarkyng/building-jungle-grid-jungle-grid-vs-renting-gpus-directly-112a",
-   "date": "2026-08-02T22:14:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building Jungle Grid: Jungle Grid vs Renting GPUs Directly One of the obvious questions for Jungle Grid is: Why not just rent GPUs directly? That is a fair question. If you know exactly what GPU you need, exactly which p",
    "image": null
   },
   {
@@ -292,16 +352,6 @@
    "image": null
   },
   {
-   "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-   "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-   "date": "2026-07-31T16:39:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg"
-  },
-  {
    "title": "Kubernetes v1.37 Sneak Peek",
    "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
    "date": "2026-07-31T16:00:00.000Z",
@@ -330,16 +380,6 @@
    "source": "Planet PostgreSQL",
    "summary": "I'm pleased to announce that David Rowley will be joining us in September to discuss his talk Optimizing code in the hot path; with examples from tuple deformation. If you're interesting in joining us, please sign up usi",
    "image": null
-  },
-  {
-   "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-   "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-   "date": "2026-07-31T14:45:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers na",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
   },
   {
    "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
@@ -382,16 +422,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pest-5-featured.png"
   },
   {
-   "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-   "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-   "date": "2026-07-31T12:51:52.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg"
-  },
-  {
    "title": "Stored Procedures memory consumption in Percona Server for MySQL",
    "link": "https://www.percona.com/blog/stored-procedures-memory-consumption-in-percona-server-for-mysql/",
    "date": "2026-07-31T11:50:51.000Z",
@@ -432,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: The Cult of Functionality",
-   "link": "https://postgr.es/p/9r1",
-   "date": "2026-07-31T09:31:21.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres ships with a genuinely bountiful catalog of built-in functions. There are literally thousands of them, covering everything from trigonometry to JSON path queries to full-text ranking. It's a kitchen sink of stag",
-   "image": null
-  },
-  {
    "title": "Introducing Symfony Reprise: The Symfony Integration Layer for Modern Bundlers",
    "link": "https://symfony.com/blog/introducing-symfony-reprise-the-symfony-integration-layer-for-modern-bundlers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-07-31T07:52:00.000Z",
@@ -459,26 +479,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Reusable Drupal components become awkward when each placement needs a different presentation. ERFO adds controlled variation without duplicating or altering the referenced content.",
-   "image": null
-  },
-  {
-   "title": "Morpht: Building a semantic search chatbot with Drupal AI",
-   "link": "https://www.morpht.com/blog/building-semantic-search-chatbot-drupal-ai",
-   "date": "2026-07-31T04:35:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal AI module provides everything needed for a RAG chatbot: AI Search embeds your content into a vector database, AI Assistant API wraps an LLM with a grounded search prompt, and AI Chatbot puts a Deep Chat block ",
-   "image": null
-  },
-  {
-   "title": "Stuart Clark (Deciphered): Custom Formatters 4.1.0",
-   "link": "https://stuar.tc/writing/custom-formatters-410-20260731",
-   "date": "2026-07-31T03:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Custom Formatters is old. I started it in 2009, my first year building seriously for Drupal, and shipped it through Drupal 6 and 7. Then in late 2016, not long after the first Drupal 8 alpha, I stepped away (work, life, ",
    "image": null
   },
   {
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a6fd932e7d64583474356/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a70477b82603863968445/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
