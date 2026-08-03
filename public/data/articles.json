@@ -1,85 +1,205 @@
 {
- "generatedAt": "2026-08-03T13:47:37.783Z",
+ "generatedAt": "2026-08-03T18:57:31.423Z",
  "articles": [
   {
-   "title": "Vigilmon vs AppDynamics: Lightweight Uptime Monitoring vs Enterprise APM (2026)",
-   "link": "https://dev.to/vigilmon/vigilmon-vs-appdynamics-lightweight-uptime-monitoring-vs-enterprise-apm-2026-2m6i",
-   "date": "2026-08-03T13:42:46.000Z",
+   "title": "How to Monitor Microservices: A Practical Guide for Distributed Systems",
+   "link": "https://dev.to/vigilmon/how-to-monitor-microservices-a-practical-guide-for-distributed-systems-4lp6",
+   "date": "2026-08-03T18:38:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vigilmon vs AppDynamics: Lightweight Uptime Monitoring vs Enterprise APM (2026) If you are evaluating AppDynamics for your team and wondering whether you actually need it — or whether a focused uptime monitor like Vigilm",
+   "summary": "How to Monitor Microservices: A Practical Guide for Distributed Systems Monitoring a monolith is simple: one service, one health endpoint, one status page. Monitoring microservices is harder-you have dozens of services, ",
    "image": null
   },
   {
-   "title": "How Marketing Studios Manage Multi-Persona Client Portfolios on Autopilot",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/how-marketing-studios-manage-multi-persona-client-portfolios-on-autopilot-3332",
-   "date": "2026-08-03T13:42:42.000Z",
+   "title": "Vigilmon vs Dynatrace: Uptime Monitoring vs Full-Stack Observability (2026)",
+   "link": "https://dev.to/vigilmon/vigilmon-vs-dynatrace-uptime-monitoring-vs-full-stack-observability-2026-2io9",
+   "date": "2026-08-03T18:37:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Managing a diverse portfolio of clients, each with their own distinct voice and audience, can be quite the challenge. ShadowSocial.io offers a streamlined solution for marketing studios to handle this complexity. The pla",
+   "summary": "Vigilmon vs Dynatrace: Uptime Monitoring vs Full-Stack Observability (2026) Dynatrace is one of the most powerful observability platforms on the market-and one of the most expensive. Vigilmon is a focused uptime monitori",
    "image": null
   },
   {
-   "title": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadowsocialio-3ejj",
-   "date": "2026-08-03T13:27:37.000Z",
+   "title": "Vigilmon vs OpsGenie: Uptime Monitoring vs On-Call Management (2026)",
+   "link": "https://dev.to/vigilmon/vigilmon-vs-opsgenie-uptime-monitoring-vs-on-call-management-2026-28cd",
+   "date": "2026-08-03T18:36:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Title: Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io Let's dive straight into how you can set up an automated video queue for your brand using ShadowSocial. This guide will help sol",
+   "summary": "Vigilmon vs OpsGenie: Uptime Monitoring vs On-Call Management (2026) OpsGenie and Vigilmon solve adjacent but distinct problems in incident management. Vigilmon detects that something is wrong; OpsGenie manages the human",
    "image": null
   },
   {
-   "title": "Runbook-Driven Development: A New Way to Ship",
-   "link": "https://dev.to/samson_tanimawo/runbook-driven-development-a-new-way-to-ship-a6i",
-   "date": "2026-08-03T13:23:19.000Z",
+   "title": "How to Monitor AWS RDS and Aurora with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-aws-rds-and-aurora-with-vigilmon-3f8d",
+   "date": "2026-08-03T18:34:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here's an idea I've been advocating for the last year: write the runbook before you ship the feature. Sounds backwards. It's transformative. Let me explain. Team ships feature → feature breaks at 3 AM → on-call engineer ",
+   "summary": "How to Monitor AWS RDS and Aurora with Vigilmon AWS RDS and Aurora provide managed database infrastructure, but \"managed\" doesn't mean \"always up.\" Databases go into maintenance windows, connection pools exhaust, and rep",
    "image": null
   },
   {
-   "title": "54 Advisories Looked AI-Fabricated. Some Still Reached the CVE Pipeline",
-   "link": "https://dev.to/lucioliu/54-advisories-looked-ai-fabricated-some-still-reached-the-cve-pipeline-4664",
-   "date": "2026-08-03T13:16:23.000Z",
+   "title": "How to Monitor Your Bun.js Application with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-bunjs-application-with-vigilmon-1l31",
+   "date": "2026-08-03T18:33:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security teams are trained to treat a new critical CVE as a fire alarm. A recent JFrog investigation shows what happens when the alarm itself may have been generated from fiction. JFrog examined a newly created GitHub re",
+   "summary": "How to Monitor Your Bun.js Application with Vigilmon Bun is fast-but fast doesn't mean infallible. Whether you're running a Bun HTTP server, an Elysia.js API, or a Bun-powered CLI service, you need uptime monitoring to c",
    "image": null
   },
   {
-   "title": "How Marketing Studios Manage Multi-Persona Client Portfolios on Autopilot",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/how-marketing-studios-manage-multi-persona-client-portfolios-on-autopilot-4lgg",
-   "date": "2026-08-03T13:12:45.000Z",
+   "title": "Vigilmon vs LogRocket: Uptime Monitoring vs Frontend Session Replay (2026)",
+   "link": "https://dev.to/vigilmon/vigilmon-vs-logrocket-uptime-monitoring-vs-frontend-session-replay-2026-17n1",
+   "date": "2026-08-03T18:32:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Managing a diverse portfolio of brand ambassadors can be a complex task, especially when each persona needs to maintain a unique voice and style. ShadowSocial.io offers a solution with its multi-persona console, designed",
+   "summary": "Vigilmon vs LogRocket: Uptime Monitoring vs Frontend Session Replay (2026) LogRocket and Vigilmon solve fundamentally different problems. If your app goes down, LogRocket won't tell you-and if a user has a bad session, V",
    "image": null
   },
   {
-   "title": "Multi-Cluster Kubernetes Management Tools: A Complete Guide for Modern DevOps Teams",
-   "link": "https://dev.to/betadrix_tech_dd984afdf03/multi-cluster-kubernetes-management-tools-a-complete-guide-for-modern-devops-teams-45e4",
-   "date": "2026-08-03T13:10:26.000Z",
+   "title": "🚀 Beyond pip install: The Invisible Memory Leak Destroying AI Microservices",
+   "link": "https://dev.to/ahmedadawy625/beyond-pip-install-the-invisible-memory-leak-destroying-ai-microservices-3b5o",
+   "date": "2026-08-03T18:25:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As organizations scale their cloud-native infrastructure, managing a single Kubernetes cluster is often no longer enough. Enterprises commonly operate multiple Kubernetes clusters across different cloud providers, geogra",
+   "summary": "There is a specific kind of developer pain that only happens at 2:00 AM. Your code compiles. Your tests pass with flying colors. You build a sleek Python/AI microservice, write a few clean modules,wrap it up nicely, and ",
    "image": null
   },
   {
-   "title": "Hire Remote Bitrise Developer: Scale Your Mobile CI/CD with Expert DevOps Talent",
-   "link": "https://dev.to/betadrix_tech_dd984afdf03/hire-remote-bitrise-developer-scale-your-mobile-cicd-with-expert-devops-talent-b5l",
-   "date": "2026-08-03T13:06:05.000Z",
+   "title": "Harnessing AI to Revolutionize Cloud Infrastructure",
+   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-to-revolutionize-cloud-infrastructure-45p5",
+   "date": "2026-08-03T18:18:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As mobile applications become more complex, businesses need faster release cycles, reliable automation, and consistent app quality. This is where hiring a Remote Bitrise Developer can make a significant difference. Bitri",
+   "summary": "Understanding AI Innovation in Cloud Infrastructure Artificial Intelligence (AI) is reshaping cloud infrastructure, making it more efficient, scalable, and intelligent. Companies leveraging AI find themselves at a compet",
    "image": null
+  },
+  {
+   "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+   "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+   "date": "2026-08-03T16:24:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
+  },
+  {
+   "title": "Quoting David Crawshaw's prompt",
+   "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+   "date": "2026-08-03T16:15:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current versio",
+   "image": null
+  },
+  {
+   "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+   "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+   "date": "2026-08-03T16:15:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg"
+  },
+  {
+   "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
+   "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
+   "date": "2026-08-03T16:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
+   "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
+  },
+  {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
+  },
+  {
+   "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
+   "link": "https://postgr.es/p/9ra",
+   "date": "2026-08-03T15:33:25.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "“The database is locked up.” We heard some version of that sentence more than once this past week, from the same team, about what looked like the same problem. It was not the same problem. Once, Postgres had genuinely st",
+   "image": null
+  },
+  {
+   "title": "Devtools must be open source (exe.dev)",
+   "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+   "date": "2026-08-03T15:30:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News. One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works. The reality",
+   "image": null
+  },
+  {
+   "title": "Laravel Doctor: Diagnose Your App With One Artisan Command",
+   "link": "https://laravel-news.com/laravel-doctor-first-party-diagnostics-for-your-application?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-03T14:05:40.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Run php artisan doctor to check your Laravel app's environment, config, database, queue, and storage, then let it auto-fix what it safely can. The post Laravel Doctor: Diagnose Your App With One Artisan Command appeared ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Doctor-LN.png"
+  },
+  {
+   "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+   "date": "2026-08-03T14:03:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
+  },
+  {
+   "title": "The Drop Times: Public Code Must Survive the Contract",
+   "link": "https://www.thedroptimes.com/newsletter/public-code-must-survive-contract?utm_source=Drupal Planet",
+   "date": "2026-08-03T13:52:25.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Public software is easiest to celebrate at launch, when a service is delivered, a repository is published, and an institution can point to visible progress. Its harder test begins after the original contract ends. Securi",
+   "image": null
+  },
+  {
+   "title": "PhpStorm 2026.2 Released",
+   "link": "https://laravel-news.com/phpstorm-20262-released?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-03T13:50:35.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "JetBrains has released PhpStorm 2026.2 with a new Laravel tool window, a FileReference attribute for PHP, PHP 8.5 pipe operator support, and an agent skills manager. The post PhpStorm 2026.2 Released appeared first on La",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/preview.png"
+  },
+  {
+   "title": "Symfony Polyfill 1.41.0 released: Io\\Poll now available",
+   "link": "https://symfony.com/blog/symfony-polyfill-1-41-0-released-io-poll-now-available?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-03T13:40:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Applications that adopt PHP 8.6's new I/O polling API normally cannot run that code on older PHP versions. Symfony Polyfill 1.41.0 brings this API to PHP 8.1 and later, alongside several compatibility fixes for the Graph",
+   "image": "https://github.com/nicolas-grekas.png"
   },
   {
    "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
@@ -108,7 +228,7 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it ide",
+   "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
   },
   {
@@ -150,16 +270,6 @@
    "source": "The Hacker News",
    "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
-  },
-  {
-   "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-   "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-   "date": "2026-08-03T06:40:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg"
   },
   {
    "title": "Talking Drupal: TD Cafe #020 - AI & Development Teams",
@@ -302,26 +412,6 @@
    "image": null
   },
   {
-   "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-   "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-   "date": "2026-08-01T17:17:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg"
-  },
-  {
-   "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-   "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-   "date": "2026-08-01T09:03:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
    "link": "https://postgr.es/p/9r4",
    "date": "2026-08-01T01:00:00.000Z",
@@ -332,23 +422,13 @@
    "image": null
   },
   {
-   "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-   "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-   "date": "2026-07-31T23:59:44.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above ",
-   "image": null
-  },
-  {
-   "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-   "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-   "date": "2026-07-31T23:13:22.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it ",
+   "title": "Elizabeth Garrett Christensen: Postgres COUNT(DISTINCT) Too Slow? Fast Approximation Guide",
+   "link": "https://postgr.es/p/9rb",
+   "date": "2026-07-31T22:49:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "That's 320 milliseconds vs 671 ms for exact COUNT(DISTINCT) which is about twice as fast on a single scan. Also HLL isn't just about raw speed on one query. The function names are a bit verbose but the pattern is always ",
    "image": null
   },
   {
@@ -450,36 +530,6 @@
    "source": "Percona Blog",
    "summary": "1. What it is about This investigation began as a performance comparison for different memory allocators. However, during benchmarking, I discovered unexpected effects deserving a more detailed explanation. I hope you fi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/rss-vsz.png"
-  },
-  {
-   "title": "Muhammad Aqeel: PostgreSQL 18's extension_control_path: Decoupling Extensions from Server Images",
-   "link": "https://postgr.es/p/9r0",
-   "date": "2026-07-31T10:08:07.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 18 adds a Grand Unified Configuration (GUC), , that lets an extension's control and SQL files live outside the server's own directories. Together with Kubernetes's ImageVolume and Docker's , that makes it prac",
-   "image": null
-  },
-  {
-   "title": "Drupal AI Initiative: Empowering Creators and Governing Agents: The Next Phase of the Drupal AI Initiative",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/empowering-creators-and-governing-agents-the-next-phase-of-the-drupal-ai-initiative",
-   "date": "2026-07-31T10:03:52.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Author: Will Huggins In 2025, the Drupal AI Initiative launched with a clear vision: to establish Drupal as the premier open-source AI platform for digital experiences. One year later, the market momentum is clear. What ",
-   "image": null
-  },
-  {
-   "title": "Pavlo Golub: WAWTech+Summer 2026 [UNLOGGED]",
-   "link": "https://postgr.es/p/9r2",
-   "date": "2026-07-31T10:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The official logs are still processing, but the raw data is ready. Welcome to the newest #UNLOGGED drop from WAWTech+Summer 2026 in Warsaw. We traded the classic conference center for an open-air tech festival at Tor Słu",
-   "image": null
   },
   {
    "title": "Introducing Symfony Reprise: The Symfony Integration Layer for Modern Bundlers",
@@ -672,26 +722,6 @@
    "image": null
   },
   {
-   "title": "Symfony 7.4.15 released",
-   "link": "https://symfony.com/blog/symfony-7-4-15-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-29T11:43:59.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 7.4.15 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Blade Formatting in Laravel Pint",
-   "link": "https://laravel-news.com/blade-formatting-in-laravel-pint?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-29T03:42:54.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Pint 1.30.0 adds a --blade flag that formats .blade.php files through Prettier, alongside fixes for --diff, --quiet, and a new in key for pint.json. The post Blade Formatting in Laravel Pint appeared first on Laravel New",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-pint-featured.png"
-  },
-  {
    "title": "The amazingly versatile conic-gradient()",
    "link": "https://frontendfoc.us/issues/752",
    "date": "2026-07-29T00:00:00.000Z",
@@ -740,16 +770,6 @@
    "source": "Martin Fowler",
    "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not",
    "image": null
-  },
-  {
-   "title": "Queue-SQL: Run Mass Deletes and Updates Across Parallel Queue Jobs",
-   "link": "https://laravel-news.com/queue-sql-run-mass-deletes-and-updates-across-parallel-queue-jobs?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-27T23:46:29.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Queue-SQL is a Laravel package that turns mass updates, deletes, and inserts into batches of parallel queued jobs. The post Queue-SQL: Run Mass Deletes and Updates Across Parallel Queue Jobs appeared first on Laravel New",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Queue-SQL-LN.png"
   },
   {
    "title": "Between Print and Digital: The Making of MERSI’s Website",
@@ -948,7 +968,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7095b59677a417703906/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a70cdfae042c280596746/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1129,26 +1149,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha",
-   "image": null
-  },
-  {
-   "title": "Introducing the Cluster API plugin for Headlamp",
-   "link": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/",
-   "date": "2026-06-25T22:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources directly from a browser. Cluster API (CAPI) is a Kubernetes sub-project that brings declar",
-   "image": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/cluster-api-dashboard.png"
-  },
-  {
-   "title": "translateZ()",
-   "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-   "date": "2026-06-25T13:18:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The translateZ() function moves an element closer to or farther from the user. translateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
    "image": null
   }
  ]
