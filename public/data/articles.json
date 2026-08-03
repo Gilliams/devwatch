@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-08-03T08:41:05.659Z",
+ "generatedAt": "2026-08-03T13:47:37.783Z",
  "articles": [
   {
-   "title": "Uptime Monitoring for Microservices: A Practical Guide with Vigilmon",
-   "link": "https://dev.to/vigilmon/uptime-monitoring-for-microservices-a-practical-guide-with-vigilmon-22nc",
-   "date": "2026-08-03T08:26:53.000Z",
+   "title": "Vigilmon vs AppDynamics: Lightweight Uptime Monitoring vs Enterprise APM (2026)",
+   "link": "https://dev.to/vigilmon/vigilmon-vs-appdynamics-lightweight-uptime-monitoring-vs-enterprise-apm-2026-2m6i",
+   "date": "2026-08-03T13:42:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Microservices make uptime monitoring more complex than monolith monitoring. Instead of one service to watch, you have dozens of services with dependencies between them. This guide covers practical uptime monitoring strat",
+   "summary": "Vigilmon vs AppDynamics: Lightweight Uptime Monitoring vs Enterprise APM (2026) If you are evaluating AppDynamics for your team and wondering whether you actually need it — or whether a focused uptime monitor like Vigilm",
    "image": null
   },
   {
-   "title": "Green is not evidence. Two of my checks were covering less than I thought.",
-   "link": "https://dev.to/isamu/green-is-not-evidence-two-of-my-checks-were-covering-less-than-i-thought-j99",
-   "date": "2026-08-03T08:25:55.000Z",
+   "title": "How Marketing Studios Manage Multi-Persona Client Portfolios on Autopilot",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/how-marketing-studios-manage-multi-persona-client-portfolios-on-autopilot-3332",
+   "date": "2026-08-03T13:42:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Someone left this on a post of mine about how I stopped reviewing my own code: Most teams test the output of a rule (e.g., does this code pass linting?) but rarely test the rule itself. I'd been writing about pulling dec",
+   "summary": "Managing a diverse portfolio of clients, each with their own distinct voice and audience, can be quite the challenge. ShadowSocial.io offers a streamlined solution for marketing studios to handle this complexity. The pla",
    "image": null
   },
   {
-   "title": "How to Monitor MySQL Database Health with Vigilmon (Free External Uptime Checks)",
-   "link": "https://dev.to/vigilmon/how-to-monitor-mysql-database-health-with-vigilmon-free-external-uptime-checks-35h2",
-   "date": "2026-08-03T08:25:30.000Z",
+   "title": "Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/step-by-step-walkthrough-building-a-30-day-autopilot-video-queue-on-shadowsocialio-3ejj",
+   "date": "2026-08-03T13:27:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "MySQL powers millions of applications. When it goes down or becomes unreachable, your entire app follows. This guide shows how to monitor MySQL health externally using Vigilmon - no agent installation, no database creden",
+   "summary": "Title: Step-by-Step Walkthrough: Building a 30-Day Autopilot Video Queue on ShadowSocial.io Let's dive straight into how you can set up an automated video queue for your brand using ShadowSocial. This guide will help sol",
    "image": null
   },
   {
-   "title": "Offshoring versus EU-Nearshoring: De beste keuze voor logistieke backoffice outsourcing",
-   "link": "https://dev.to/datamondial/offshoring-versus-eu-nearshoring-de-beste-keuze-voor-logistieke-backoffice-outsourcing-21nk",
-   "date": "2026-08-03T08:24:46.000Z",
+   "title": "Runbook-Driven Development: A New Way to Ship",
+   "link": "https://dev.to/samson_tanimawo/runbook-driven-development-a-new-way-to-ship-a6i",
+   "date": "2026-08-03T13:23:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Logistieke capaciteitsplanning vereist een directe verschuiving van de focus op de 'goedkoopst mogelijke uren' naar structureel snelle, foutloze doorlooptijden. Datastromen rondom zeevracht, fysiek transport en warehouse",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fozoiwvrk34x3xbb1b7ut.png"
-  },
-  {
-   "title": "How to Set Up On-Call Alerting with Vigilmon (Rotations, Escalations, and Alert Rules)",
-   "link": "https://dev.to/vigilmon/how-to-set-up-on-call-alerting-with-vigilmon-rotations-escalations-and-alert-rules-5877",
-   "date": "2026-08-03T08:20:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "On-call rotations are stressful when your alerting setup is noisy or poorly configured. This guide shows how to set up intelligent on-call alerting with Vigilmon - so the right person gets paged for real incidents, not f",
+   "summary": "Here's an idea I've been advocating for the last year: write the runbook before you ship the feature. Sounds backwards. It's transformative. Let me explain. Team ships feature → feature breaks at 3 AM → on-call engineer ",
    "image": null
   },
   {
-   "title": "Self-Healing Instance Pools on Vultr: A Reconciler Loop for Solo Devs Without Kubernetes",
-   "link": "https://dev.to/mukesh_13/self-healing-instance-pools-on-vultr-a-reconciler-loop-for-solo-devs-without-kubernetes-4k70",
-   "date": "2026-08-03T08:19:53.000Z",
+   "title": "54 Advisories Looked AI-Fabricated. Some Still Reached the CVE Pipeline",
+   "link": "https://dev.to/lucioliu/54-advisories-looked-ai-fabricated-some-still-reached-the-cve-pipeline-4664",
+   "date": "2026-08-03T13:16:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Managed Kubernetes gives you self-healing for free: a node dies, the scheduler notices, a replacement pod comes up elsewhere. If you're running a handful of Vultr instances behind a load balancer — a Postgres read replic",
+   "summary": "Security teams are trained to treat a new critical CVE as a fire alarm. A recent JFrog investigation shows what happens when the alarm itself may have been generated from fiction. JFrog examined a newly created GitHub re",
    "image": null
   },
   {
-   "title": "Smarter Test Splitting in CircleCI: Balancing Parallel Containers with Real Timing Data Instead of Guesswork",
-   "link": "https://dev.to/mukesh_13/smarter-test-splitting-in-circleci-balancing-parallel-containers-with-real-timing-data-instead-of-p7g",
-   "date": "2026-08-03T08:19:16.000Z",
+   "title": "How Marketing Studios Manage Multi-Persona Client Portfolios on Autopilot",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/how-marketing-studios-manage-multi-persona-client-portfolios-on-autopilot-4lgg",
+   "date": "2026-08-03T13:12:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most teams turn on parallelism in CircleCI, add circleci tests split, and assume the test-speed problem is solved. It usually isn't. The default split mode divides test files by name or count, which produces wildly uneve",
+   "summary": "Managing a diverse portfolio of brand ambassadors can be a complex task, especially when each persona needs to maintain a unique voice and style. ShadowSocial.io offers a solution with its multi-persona console, designed",
    "image": null
   },
   {
-   "title": "How to Monitor PostgreSQL Database Health with Vigilmon (Free External Checks)",
-   "link": "https://dev.to/vigilmon/how-to-monitor-postgresql-database-health-with-vigilmon-free-external-checks-e6c",
-   "date": "2026-08-03T08:19:01.000Z",
+   "title": "Multi-Cluster Kubernetes Management Tools: A Complete Guide for Modern DevOps Teams",
+   "link": "https://dev.to/betadrix_tech_dd984afdf03/multi-cluster-kubernetes-management-tools-a-complete-guide-for-modern-devops-teams-45e4",
+   "date": "2026-08-03T13:10:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "PostgreSQL is the backbone of most production applications. When Postgres goes down or slows down, your entire application grinds to a halt. This guide shows how to use Vigilmon to monitor your PostgreSQL database health",
+   "summary": "As organizations scale their cloud-native infrastructure, managing a single Kubernetes cluster is often no longer enough. Enterprises commonly operate multiple Kubernetes clusters across different cloud providers, geogra",
    "image": null
+  },
+  {
+   "title": "Hire Remote Bitrise Developer: Scale Your Mobile CI/CD with Expert DevOps Talent",
+   "link": "https://dev.to/betadrix_tech_dd984afdf03/hire-remote-bitrise-developer-scale-your-mobile-cicd-with-expert-devops-talent-b5l",
+   "date": "2026-08-03T13:06:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As mobile applications become more complex, businesses need faster release cycles, reliable automation, and consistent app quality. This is where hiring a Remote Bitrise Developer can make a significant difference. Bitri",
+   "image": null
+  },
+  {
+   "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+   "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+   "date": "2026-08-03T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
+  },
+  {
+   "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
+   "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
+   "date": "2026-08-03T11:10:44.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
+   "image": null
+  },
+  {
+   "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+   "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+   "date": "2026-08-03T10:49:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it ide",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
+  },
+  {
+   "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+   "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+   "date": "2026-08-03T09:13:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addres",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
   },
   {
    "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
@@ -139,6 +179,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Idle transactions hold locks and block vacuums, turning one forgotten connection into a cascading outage.",
+   "image": null
+  },
+  {
+   "title": "Cheppers: Introducing ExperienceKit: AI-Generated Drupal Pages, Built on a Governed Design System",
+   "link": "https://cheppers.com/post/introducing-experiencekit-ai-generated-drupal-pages",
+   "date": "2026-08-03T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Your marketing team needs a landing page for next month's campaign. Today that means a brief, a ticket, a spot in the developer queue, and a few weeks of waiting. ExperienceKit turns it into a sentence. Describe the page",
    "image": null
   },
   {
@@ -272,26 +322,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg"
   },
   {
-   "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-   "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-   "date": "2026-08-01T07:12:42.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg"
-  },
-  {
-   "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-   "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-   "date": "2026-08-01T06:29:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
    "link": "https://postgr.es/p/9r4",
    "date": "2026-08-01T01:00:00.000Z",
@@ -330,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "The PostgreSQL Performance Farm is still not quite a reality, but I think there is some hope on the horizon. After some discussions with various folks at AWS about large scale OLTP testing with PostgreSQL on EC2, I was i",
    "image": null
-  },
-  {
-   "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-   "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-   "date": "2026-07-31T18:52:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg"
   },
   {
    "title": "Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – SQL Property Graph Queries (SQL/PGQ)",
@@ -469,16 +489,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "For years, Webpack Encore was the answer to asset management in Symfony, and it still works. But the JavaScript bundler landscape has moved on since Encore was designed. Webpack needed a loader wired up for nearly everyt",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Entity Reference Field Override Adds Per-Placement Control in Drupal",
-   "link": "https://www.thedroptimes.com/71461/drupal-erfo-per-placement-field-overrides?utm_source=Drupal Planet",
-   "date": "2026-07-31T05:35:16.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Reusable Drupal components become awkward when each placement needs a different presentation. ERFO adds controlled variation without duplicating or altering the referenced content.",
    "image": null
   },
   {
@@ -892,16 +902,6 @@
    "image": null
   },
   {
-   "title": "The Craft Behind Memorable Digital Experiences: Inside Unseen Studio",
-   "link": "https://tympanus.net/codrops/2026/07/20/the-craft-behind-memorable-digital-experiences-inside-unseen-studio/",
-   "date": "2026-07-20T09:45:16.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A look inside Unseen Studio's approach to transforming abstract ideas, hidden stories, and complex concepts into experiences people can explore and remember.",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -948,7 +948,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a70477b82603863968445/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7095b59677a417703906/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
