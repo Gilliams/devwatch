@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-08-03T18:57:31.423Z",
+ "generatedAt": "2026-08-04T00:15:12.395Z",
  "articles": [
   {
-   "title": "How to Monitor Microservices: A Practical Guide for Distributed Systems",
-   "link": "https://dev.to/vigilmon/how-to-monitor-microservices-a-practical-guide-for-distributed-systems-4lp6",
-   "date": "2026-08-03T18:38:46.000Z",
+   "title": "Enhancing AI Influencer Scalability and Performance on ShadowSocial.io with Qwen-Max Multi-Modal AI and Caddy Reverse Proxy Techniques",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/enhancing-ai-influencer-scalability-and-performance-on-shadowsocialio-with-qwen-max-multi-modal-ai-19l9",
+   "date": "2026-08-04T00:03:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Microservices: A Practical Guide for Distributed Systems Monitoring a monolith is simple: one service, one health endpoint, one status page. Monitoring microservices is harder-you have dozens of services, ",
+   "summary": "At ShadowSocial.io, we've been tackling the challenge of scaling AI-driven influencer content generation and distribution. We've integrated Qwen-Max, a multi-modal AI, to handle the complex tasks of creating and optimisi",
    "image": null
   },
   {
-   "title": "Vigilmon vs Dynatrace: Uptime Monitoring vs Full-Stack Observability (2026)",
-   "link": "https://dev.to/vigilmon/vigilmon-vs-dynatrace-uptime-monitoring-vs-full-stack-observability-2026-2io9",
-   "date": "2026-08-03T18:37:15.000Z",
+   "title": "5 Essential System Prompt Rules to Stop Your AI Agents from Going Rogue",
+   "link": "https://dev.to/shohei-ai-lab/5-essential-system-prompt-rules-to-stop-your-ai-agents-from-going-rogue-39mp",
+   "date": "2026-08-04T00:01:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vigilmon vs Dynatrace: Uptime Monitoring vs Full-Stack Observability (2026) Dynatrace is one of the most powerful observability platforms on the market-and one of the most expensive. Vigilmon is a focused uptime monitori",
+   "summary": "We are in the era of autonomous AI agents. Tools like Claude Code, Cline, Cursor, and other agentic coding frameworks are replacing simple Q&A chat interfaces. They can read your workspace, run shell commands, write code",
    "image": null
   },
   {
-   "title": "Vigilmon vs OpsGenie: Uptime Monitoring vs On-Call Management (2026)",
-   "link": "https://dev.to/vigilmon/vigilmon-vs-opsgenie-uptime-monitoring-vs-on-call-management-2026-28cd",
-   "date": "2026-08-03T18:36:05.000Z",
+   "title": "Vigilmon vs AppDynamics: Uptime Monitoring vs Full-Stack APM (2026)",
+   "link": "https://dev.to/vigilmon/vigilmon-vs-appdynamics-uptime-monitoring-vs-full-stack-apm-2026-2e5m",
+   "date": "2026-08-03T23:48:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vigilmon vs OpsGenie: Uptime Monitoring vs On-Call Management (2026) OpsGenie and Vigilmon solve adjacent but distinct problems in incident management. Vigilmon detects that something is wrong; OpsGenie manages the human",
+   "summary": "Vigilmon vs AppDynamics: Uptime Monitoring vs Full-Stack APM (2026) AppDynamics and Vigilmon solve fundamentally different problems. Choosing between them — or understanding when to use both — depends on what your team n",
    "image": null
   },
   {
-   "title": "How to Monitor AWS RDS and Aurora with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-aws-rds-and-aurora-with-vigilmon-3f8d",
-   "date": "2026-08-03T18:34:05.000Z",
+   "title": "How to Monitor Your Railway Application with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-railway-application-with-vigilmon-52pn",
+   "date": "2026-08-03T23:47:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor AWS RDS and Aurora with Vigilmon AWS RDS and Aurora provide managed database infrastructure, but \"managed\" doesn't mean \"always up.\" Databases go into maintenance windows, connection pools exhaust, and rep",
+   "summary": "How to Monitor Your Railway Application with Vigilmon Railway is a developer-friendly platform for deploying apps, databases, and services. It handles deployments, scaling, and networking — but external uptime monitoring",
    "image": null
   },
   {
-   "title": "How to Monitor Your Bun.js Application with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-bunjs-application-with-vigilmon-1l31",
-   "date": "2026-08-03T18:33:26.000Z",
+   "title": "How to Monitor Your Fly.io Application with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-flyio-application-with-vigilmon-3hik",
+   "date": "2026-08-03T23:47:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your Bun.js Application with Vigilmon Bun is fast-but fast doesn't mean infallible. Whether you're running a Bun HTTP server, an Elysia.js API, or a Bun-powered CLI service, you need uptime monitoring to c",
+   "summary": "How to Monitor Your Fly.io Application with Vigilmon Fly.io is a popular platform for deploying containers close to your users. It handles networking, TLS, and deployment — but you still need to monitor whether your app ",
    "image": null
   },
   {
-   "title": "Vigilmon vs LogRocket: Uptime Monitoring vs Frontend Session Replay (2026)",
-   "link": "https://dev.to/vigilmon/vigilmon-vs-logrocket-uptime-monitoring-vs-frontend-session-replay-2026-17n1",
-   "date": "2026-08-03T18:32:47.000Z",
+   "title": "How to Set Up Multi-Region Monitoring for Global Apps with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-set-up-multi-region-monitoring-for-global-apps-with-vigilmon-51ka",
+   "date": "2026-08-03T23:46:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vigilmon vs LogRocket: Uptime Monitoring vs Frontend Session Replay (2026) LogRocket and Vigilmon solve fundamentally different problems. If your app goes down, LogRocket won't tell you-and if a user has a bad session, V",
+   "summary": "How to Set Up Multi-Region Monitoring for Global Apps with Vigilmon Single-region monitoring misses regional outages. Your server in US-East might be up while users in Europe or Asia experience timeouts or errors. Multi-",
    "image": null
   },
   {
-   "title": "🚀 Beyond pip install: The Invisible Memory Leak Destroying AI Microservices",
-   "link": "https://dev.to/ahmedadawy625/beyond-pip-install-the-invisible-memory-leak-destroying-ai-microservices-3b5o",
-   "date": "2026-08-03T18:25:58.000Z",
+   "title": "How to Monitor Your Tauri Application Backend with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-tauri-application-backend-with-vigilmon-iki",
+   "date": "2026-08-03T23:46:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is a specific kind of developer pain that only happens at 2:00 AM. Your code compiles. Your tests pass with flying colors. You build a sleek Python/AI microservice, write a few clean modules,wrap it up nicely, and ",
+   "summary": "How to Monitor Your Tauri Application Backend with Vigilmon Tauri builds lightweight, secure desktop apps with a Rust backend and web frontend. Most Tauri apps are purely local — but many connect to a remote API or backe",
    "image": null
   },
   {
-   "title": "Harnessing AI to Revolutionize Cloud Infrastructure",
-   "link": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/harnessing-ai-to-revolutionize-cloud-infrastructure-45p5",
-   "date": "2026-08-03T18:18:43.000Z",
+   "title": "How to Monitor Your Payload CMS v3 Application with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-payload-cms-v3-application-with-vigilmon-1jhc",
+   "date": "2026-08-03T23:46:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Understanding AI Innovation in Cloud Infrastructure Artificial Intelligence (AI) is reshaping cloud infrastructure, making it more efficient, scalable, and intelligent. Companies leveraging AI find themselves at a compet",
+   "summary": "How to Monitor Your Payload CMS v3 Application with Vigilmon Payload CMS v3 is a TypeScript-first headless CMS built natively on Next.js. Its tight Next.js integration is a strength — but it also means your Payload insta",
    "image": null
+  },
+  {
+   "title": "Don't be a meat proxy",
+   "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+   "date": "2026-08-03T23:45:04.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Don&#x27;t be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. ",
+   "image": null
+  },
+  {
+   "title": "Mike Herchel's Blog: A First Look at the DrupalCon Orlando Venue",
+   "link": "https://herchel.com/articles/first-look-drupalcon-orlando-venue",
+   "date": "2026-08-03T20:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A First Look at the DrupalCon Orlando Venue mherchel Mon, 08/03/2026 - 16:00",
+   "image": null
+  },
+  {
+   "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+   "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+   "date": "2026-08-03T18:43:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
   },
   {
    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
@@ -120,16 +150,6 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-  },
-  {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
   },
   {
    "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
@@ -262,16 +282,6 @@
    "image": null
   },
   {
-   "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-   "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-   "date": "2026-08-03T06:41:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
-  },
-  {
    "title": "Talking Drupal: TD Cafe #020 - AI & Development Teams",
    "link": "https://sacstudio.libsyn.com/td-cafe-020-ai-development-teams",
    "date": "2026-08-03T04:05:00.000Z",
@@ -392,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Ten advances in mathematics and theoretical computer science",
-   "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-   "date": "2026-08-01T20:34:49.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that includ",
-   "image": null
-  },
-  {
    "title": "BloomIdea: When two terms called Food are not the same term",
    "link": "https://bloomidea.com/en/blog/when-two-terms-called-food-are-not-same-term",
    "date": "2026-08-01T18:40:05.000Z",
@@ -462,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-31T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
    "title": "Robert Haas: Hacking Workshop for September 2026",
    "link": "https://postgr.es/p/9qZ",
    "date": "2026-07-31T15:09:42.000Z",
@@ -479,26 +469,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "I'm pleased to announce that David Rowley will be joining us in September to discuss his talk Optimizing code in the hot path; with examples from tuple deformation. If you're interesting in joining us, please sign up usi",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Randy Kolenko on Maestro and Drupal’s Emerging Orchestration Work",
-   "link": "https://www.thedroptimes.com/interview/71331/randy-kolenko-maestro-drupal-orchestration?utm_source=Drupal Planet",
-   "date": "2026-07-31T13:51:31.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal’s automation tools solve different problems. The harder question is how they can exchange work without weakening their execution models, permissions, or auditability.",
    "image": null
   },
   {
@@ -902,16 +872,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -952,23 +912,13 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": null
-  },
-  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a70cdfae042c280596746/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a712cc1bfdce413853763/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -999,16 +949,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-14T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
@@ -1119,26 +1059,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
-   "image": null
-  },
-  {
-   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
-   "link": "https://css-tricks.com/whats-important-14/",
-   "date": "2026-06-30T13:54:14.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
-   "image": null
-  },
-  {
-   "title": "The Shifting Line Between CSS States and JavaScript Events",
-   "link": "https://css-tricks.com/css-states-and-javascript-events/",
-   "date": "2026-06-29T13:03:32.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
    "image": null
   },
   {
