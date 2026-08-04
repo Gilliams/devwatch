@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-08-04T07:46:51.278Z",
+ "generatedAt": "2026-08-04T13:07:13.893Z",
  "articles": [
   {
-   "title": "Master Copado Online Training | Salesforce DevOps Course",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-online-training-salesforce-devops-course-klp",
-   "date": "2026-08-04T07:32:25.000Z",
+   "title": "Every DKIM checker is guessing — including mine",
+   "link": "https://dev.to/jose_pollman_fa7c6ec43cdd/every-dkim-checker-is-guessing-including-mine-1klb",
+   "date": "2026-08-04T12:53:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How Salesforce DevOps Reduces Release Failures and Rollbacks https://www.visualpath.in/salesforce-devops-copado-ai-training.html",
+   "summary": "Almost every DNS record you care about can be looked up. Ask for the SPF record, you get it. Ask for _dmarc, it's there. DKIM doesn't work that way, and almost nobody building tooling around it says so out loud. A DKIM p",
    "image": null
   },
   {
-   "title": "Docker port mapping: connect your containers to the outside world",
-   "link": "https://dev.to/fj_palacios/docker-port-mapping-connect-your-containers-to-the-outside-world-49j0",
-   "date": "2026-08-04T07:26:12.000Z",
+   "title": "Healthcare IT Modernization: Solving Interoperability Without Breaking Compliance",
+   "link": "https://dev.to/cloudgen/healthcare-it-modernization-solving-interoperability-without-breaking-compliance-1pkf",
+   "date": "2026-08-04T12:37:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In the previous lesson you launched an Nginx container in detached mode. docker ps showed it as Up, the PORTS column said 80/tcp, everything looked fine. You opened the browser, typed http://localhost:80, and got... noth",
+   "summary": "The Healthcare Integration Challenge Healthcare IT is uniquely constrained. Every system change must consider patient safety, regulatory compliance (HIPAA, HITECH, state regulations), clinical workflow disruption, and th",
    "image": null
   },
   {
-   "title": "The First 48 Hours After a Site Goes Live",
-   "link": "https://dev.to/webdevwales/the-first-48-hours-after-a-site-goes-live-46c4",
-   "date": "2026-08-04T07:25:30.000Z",
+   "title": "Your Recovery Program Has a Recovery Evidence Boundary",
+   "link": "https://dev.to/ntctech/your-recovery-program-has-a-recovery-evidence-boundary-584i",
+   "date": "2026-08-04T12:27:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Launch day gets all the attention. The client sees the new site, everyone is pleased, the invoice goes out. Then the developer moves on to the next project, and the two days that decide whether the launch actually worked",
+   "summary": "Recovery evidence boundary is the point where a recovery program stops being an engineering question and starts being a governance one — and most organizations cross it without ever finding out, because everything on the",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdpcvk8w93b7ospf9sim.jpg"
+  },
+  {
+   "title": "AI Coding Agent Cost Optimization in 2026: Cut Claude Code, Cursor & Aider Token Spend",
+   "link": "https://dev.to/agdex_ai/ai-coding-agent-cost-optimization-in-2026-cut-claude-code-cursor-aider-token-spend-5a5l",
+   "date": "2026-08-04T12:24:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AI Coding Agent Cost Optimization in 2026: How to Reduce Claude Code, Cursor & Aider Token Spend As software engineering workflows transition from single-prompt LLM code completions to autonomous agentic coding tools—suc",
    "image": null
   },
   {
-   "title": "ColdFusion Code Review Checklist: What Senior Devs Check Before Merging CFML",
-   "link": "https://dev.to/deepak_sir__/coldfusion-code-review-checklist-what-senior-devs-check-before-merging-cfml-1e50",
-   "date": "2026-08-04T07:20:47.000Z",
+   "title": "Guardians of the Galaxy: Securing Your App’s Secrets, SSL, and Firewalls",
+   "link": "https://dev.to/timevolt/guardians-of-the-galaxy-securing-your-apps-secrets-ssl-and-firewalls-4g98",
+   "date": "2026-08-04T12:19:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A senior ColdFusion reviewer isn’t reading for style — they’re scanning for the specific CFML mistakes that cause security holes, production outages, and hard-to-debug behavior. The non-negotiables: every database query ",
+   "summary": "The Quest Begins (The \"Why\") I still remember the night I pushed a tiny side‑project to a public repo and woke up to a dozen alert emails: “Your API key was exposed!” My stomach dropped. I’d hard‑coded a Stripe secret st",
    "image": null
   },
   {
-   "title": "Best Thousand Eyes Alternatives in 2026 (Free and Paid)",
-   "link": "https://dev.to/vigilmon/best-thousand-eyes-alternatives-in-2026-free-and-paid-dhj",
-   "date": "2026-08-04T07:07:01.000Z",
+   "title": "Best ManageEngine OpManager Alternatives in 2026",
+   "link": "https://dev.to/vigilmon/best-manageengine-opmanager-alternatives-in-2026-4dcg",
+   "date": "2026-08-04T12:12:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best ThousandEyes Alternatives in 2026 (Free and Paid) Cisco ThousandEyes is a powerful network intelligence platform — but it's priced for enterprise teams with enterprise budgets. If you need reliable uptime monitoring",
+   "summary": "ManageEngine OpManager is a long-standing network and infrastructure monitoring platform used by enterprise IT teams to monitor servers, network devices, virtual machines, and applications. It's comprehensive — but it's ",
    "image": null
   },
   {
-   "title": "Monitoring Traefik and Nginx Reverse Proxies with Vigilmon",
-   "link": "https://dev.to/vigilmon/monitoring-traefik-and-nginx-reverse-proxies-with-vigilmon-1hmh",
-   "date": "2026-08-04T07:05:26.000Z",
+   "title": "How to Monitor AWS DynamoDB with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-aws-dynamodb-with-vigilmon-19e0",
+   "date": "2026-08-04T12:12:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Monitoring Traefik and Nginx Reverse Proxies with Vigilmon Your reverse proxy is the front door to everything: your apps, APIs, microservices, and static assets. If Traefik or Nginx goes down, all your services go dark —",
+   "summary": "AWS DynamoDB is Amazon's fully managed NoSQL database — fast, scalable, and deeply integrated into the AWS ecosystem. It powers everything from serverless APIs to gaming leaderboards to e-commerce carts. But \"managed\" do",
    "image": null
   },
   {
-   "title": "How to Monitor Your CockroachDB Database with Vigilmon (External Health Checks)",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-cockroachdb-database-with-vigilmon-external-health-checks-2m1o",
-   "date": "2026-08-04T07:04:53.000Z",
+   "title": "Best Atatus Alternatives in 2026 (Free and Paid)",
+   "link": "https://dev.to/vigilmon/best-atatus-alternatives-in-2026-free-and-paid-8n4",
+   "date": "2026-08-04T12:11:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your CockroachDB Database with Vigilmon (External Health Checks) CockroachDB is a distributed SQL database built for resilience and horizontal scaling. It powers applications that can't afford downtime — w",
+   "summary": "Atatus is a solid APM and monitoring platform, but it's not the right fit for everyone. Whether you're looking for a more affordable option, a simpler interface, a better free tier, or a tool that focuses specifically on",
    "image": null
   },
   {
-   "title": "How to Monitor WebSocket Services with Vigilmon (Uptime + Connection Health)",
-   "link": "https://dev.to/vigilmon/how-to-monitor-websocket-services-with-vigilmon-uptime-connection-health-3lg1",
-   "date": "2026-08-04T07:04:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to Monitor WebSocket Services with Vigilmon (Uptime + Connection Health) WebSocket services power real-time features: live chat, collaborative editing, price tickers, and push notifications. When your WebSocket serve",
+   "title": "Fragments: August  4",
+   "link": "https://martinfowler.com/fragments/2026-08-04.html",
+   "date": "2026-08-04T12:08:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incide",
    "image": null
+  },
+  {
+   "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+   "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+   "date": "2026-08-04T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
+  },
+  {
+   "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+   "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+   "date": "2026-08-04T11:16:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
+  },
+  {
+   "title": "Building an Endless Interactive Glass Xylophone with Three.js",
+   "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
+   "date": "2026-08-04T10:58:37.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A scrolling helix of frosted glass bars that ring as you sweep across them, built in Three.js with instancing, a fluid simulation, and glass faked entirely in the shader.",
+   "image": null
+  },
+  {
+   "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+   "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+   "date": "2026-08-04T10:36:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
+  },
+  {
+   "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+   "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+   "date": "2026-08-04T09:03:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
+  },
+  {
+   "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+   "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+   "date": "2026-08-04T07:00:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
   },
   {
    "title": "Drupal Association blog: Drupal Association 2025 Audit and Financial Overview",
@@ -222,16 +292,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Doctor-LN.png"
   },
   {
-   "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-   "date": "2026-08-03T14:03:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
-  },
-  {
    "title": "The Drop Times: Public Code Must Survive the Contract",
    "link": "https://www.thedroptimes.com/newsletter/public-code-must-survive-contract?utm_source=Drupal Planet",
    "date": "2026-08-03T13:52:25.000Z",
@@ -262,16 +322,6 @@
    "image": "https://github.com/nicolas-grekas.png"
   },
   {
-   "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-   "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-   "date": "2026-08-03T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
-  },
-  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -280,36 +330,6 @@
    "source": "Codrops",
    "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
    "image": null
-  },
-  {
-   "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-   "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-   "date": "2026-08-03T10:49:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
-  },
-  {
-   "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-   "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-   "date": "2026-08-03T09:13:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addres",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
-  },
-  {
-   "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-   "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-   "date": "2026-08-03T08:05:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
   },
   {
    "title": "Drupal AI Initiative: Move Fast, Stay On-Brand: How Drupal AI Delivers Both",
@@ -722,6 +742,16 @@
    "image": null
   },
   {
+   "title": "What's new in PHP 8.6",
+   "link": "https://stitcher.io/blog/new-in-php-86",
+   "date": "2026-07-29T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/new-in-php-86",
+   "image": null
+  },
+  {
    "title": "The amazingly versatile conic-gradient()",
    "link": "https://frontendfoc.us/issues/752",
    "date": "2026-07-29T00:00:00.000Z",
@@ -892,16 +922,6 @@
    "image": null
   },
   {
-   "title": "Magnetic Commerce: Building the Dash Creative Website",
-   "link": "https://tympanus.net/codrops/2026/07/21/magnetic-commerce-building-the-dash-creative-website/",
-   "date": "2026-07-21T12:50:15.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How a simple branding concept shaped the interaction design, animation, and WebGL implementation of the Dash Creative website.",
-   "image": null
-  },
-  {
    "title": "writing-mode",
    "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
    "date": "2026-07-21T09:39:10.000Z",
@@ -968,7 +988,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7192f053a06737033629/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a71d6cb498a0591378147/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1049,16 +1069,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
-   "image": null
-  },
-  {
-   "title": "Fragments: July 13",
-   "link": "https://martinfowler.com/fragments/2026-07-13.html",
-   "date": "2026-07-13T12:51:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Some more of my notes from Thoughtworks Future of Software Development Retreat. When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it. When",
    "image": null
   },
   {
