@@ -1,85 +1,175 @@
 {
- "generatedAt": "2026-08-04T13:07:13.893Z",
+ "generatedAt": "2026-08-04T18:48:11.781Z",
  "articles": [
   {
-   "title": "Every DKIM checker is guessing — including mine",
-   "link": "https://dev.to/jose_pollman_fa7c6ec43cdd/every-dkim-checker-is-guessing-including-mine-1klb",
-   "date": "2026-08-04T12:53:34.000Z",
+   "title": "I tried reading those agent identity scans and realized they’re mostly tests of prompt instruction priority",
+   "link": "https://dev.to/lars_winstand/i-tried-reading-those-agent-identity-scans-and-realized-theyre-mostly-tests-of-prompt-instruction-4eah",
+   "date": "2026-08-04T18:35:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Almost every DNS record you care about can be looked up. Ask for the SPF record, you get it. Ask for _dmarc, it's there. DKIM doesn't work that way, and almost nobody building tooling around it says so out loud. A DKIM p",
+   "summary": "I kept seeing these “agent identity scan” posts and had the same reaction a lot of people had: this is either a clever new eval category or it’s a very funny way to social-engineer your own agent After reading a bunch of",
    "image": null
   },
   {
-   "title": "Healthcare IT Modernization: Solving Interoperability Without Breaking Compliance",
-   "link": "https://dev.to/cloudgen/healthcare-it-modernization-solving-interoperability-without-breaking-compliance-1pkf",
-   "date": "2026-08-04T12:37:32.000Z",
+   "title": "Designing Resilient AIoT Data Pipelines for Automotive Manufacturing",
+   "link": "https://dev.to/sonaltigga/designing-resilient-aiot-data-pipelines-for-automotive-manufacturing-8ng",
+   "date": "2026-08-04T18:29:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Healthcare Integration Challenge Healthcare IT is uniquely constrained. Every system change must consider patient safety, regulatory compliance (HIPAA, HITECH, state regulations), clinical workflow disruption, and th",
+   "summary": "Modern automotive manufacturing depends on data just as much as it depends on machinery. Every production line generates a continuous stream of events—from machine telemetry and inventory movements to quality inspections",
    "image": null
   },
   {
-   "title": "Your Recovery Program Has a Recovery Evidence Boundary",
-   "link": "https://dev.to/ntctech/your-recovery-program-has-a-recovery-evidence-boundary-584i",
-   "date": "2026-08-04T12:27:27.000Z",
+   "title": "Load Testing the Server Before Deploying Your Critical App",
+   "link": "https://dev.to/daanial/load-testing-the-server-before-deploying-your-critical-app-34fa",
+   "date": "2026-08-04T18:13:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Recovery evidence boundary is the point where a recovery program stops being an engineering question and starts being a governance one — and most organizations cross it without ever finding out, because everything on the",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpdpcvk8w93b7ospf9sim.jpg"
+   "summary": "A presales war story about CPU steal time — the metric almost nobody checks before go-live — and the full stress-test checklist I now run before any app touches production. A customer once told me, with total confidence:",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F93s3u3qu7kvg4amm8mpb.png"
   },
   {
-   "title": "AI Coding Agent Cost Optimization in 2026: Cut Claude Code, Cursor & Aider Token Spend",
-   "link": "https://dev.to/agdex_ai/ai-coding-agent-cost-optimization-in-2026-cut-claude-code-cursor-aider-token-spend-5a5l",
-   "date": "2026-08-04T12:24:48.000Z",
+   "title": "🦸‍♂️ Hello — The Interactive CLI Commander",
+   "link": "https://dev.to/hrustbb/one-cli-tool-for-docker-environment-management-and-one-click-deployment-5fk2",
+   "date": "2026-08-04T18:09:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI Coding Agent Cost Optimization in 2026: How to Reduce Claude Code, Cursor & Aider Token Spend As software engineering workflows transition from single-prompt LLM code completions to autonomous agentic coding tools—suc",
+   "summary": "\"Because typing the same 15 commands every day is so 2026.\" A command-line utility that turns your chaotic terminal sessions into a beautiful, interactive menu. Stop memorizing commands. Start executing like a pro. Featu",
    "image": null
   },
   {
-   "title": "Guardians of the Galaxy: Securing Your App’s Secrets, SSL, and Firewalls",
-   "link": "https://dev.to/timevolt/guardians-of-the-galaxy-securing-your-apps-secrets-ssl-and-firewalls-4g98",
-   "date": "2026-08-04T12:19:19.000Z",
+   "title": "How to Monitor Railway Deployments with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-railway-deployments-with-vigilmon-33po",
+   "date": "2026-08-04T17:59:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") I still remember the night I pushed a tiny side‑project to a public repo and woke up to a dozen alert emails: “Your API key was exposed!” My stomach dropped. I’d hard‑coded a Stripe secret st",
+   "summary": "How to Monitor Railway Deployments with Vigilmon Railway is a developer-first deployment platform that makes it easy to ship applications without DevOps expertise — deploy from GitHub, add databases, and get a public URL",
    "image": null
   },
   {
-   "title": "Best ManageEngine OpManager Alternatives in 2026",
-   "link": "https://dev.to/vigilmon/best-manageengine-opmanager-alternatives-in-2026-4dcg",
-   "date": "2026-08-04T12:12:53.000Z",
+   "title": "How to Monitor Your gRPC Services with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-grpc-services-with-vigilmon-ip2",
+   "date": "2026-08-04T17:59:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ManageEngine OpManager is a long-standing network and infrastructure monitoring platform used by enterprise IT teams to monitor servers, network devices, virtual machines, and applications. It's comprehensive — but it's ",
+   "summary": "How to Monitor Your gRPC Services with Vigilmon gRPC is the go-to protocol for high-performance microservice communication — used by Google, Netflix, and thousands of engineering teams for its speed, strong typing (Proto",
    "image": null
   },
   {
-   "title": "How to Monitor AWS DynamoDB with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-aws-dynamodb-with-vigilmon-19e0",
-   "date": "2026-08-04T12:12:21.000Z",
+   "title": "Best Freshping Alternatives in 2026 (Free and Paid)",
+   "link": "https://dev.to/vigilmon/best-freshping-alternatives-in-2026-free-and-paid-2ejk",
+   "date": "2026-08-04T17:59:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AWS DynamoDB is Amazon's fully managed NoSQL database — fast, scalable, and deeply integrated into the AWS ecosystem. It powers everything from serverless APIs to gaming leaderboards to e-commerce carts. But \"managed\" do",
+   "summary": "Best Freshping Alternatives in 2026 (Free and Paid) Freshping (by Freshworks) is a solid uptime monitoring tool — but with the Freshworks ecosystem rebranding and pricing changes, many teams are looking for alternatives ",
    "image": null
   },
   {
-   "title": "Best Atatus Alternatives in 2026 (Free and Paid)",
-   "link": "https://dev.to/vigilmon/best-atatus-alternatives-in-2026-free-and-paid-8n4",
-   "date": "2026-08-04T12:11:36.000Z",
+   "title": "Best New Relic Alternatives in 2026 (Free and Paid)",
+   "link": "https://dev.to/vigilmon/best-new-relic-alternatives-in-2026-free-and-paid-36l5",
+   "date": "2026-08-04T17:58:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Atatus is a solid APM and monitoring platform, but it's not the right fit for everyone. Whether you're looking for a more affordable option, a simpler interface, a better free tier, or a tool that focuses specifically on",
+   "summary": "Best New Relic Alternatives in 2026 (Free and Paid) New Relic is a comprehensive observability platform — but it's complex, expensive at scale, and recently moved to a consumption-based model that surprises teams with un",
    "image": null
+  },
+  {
+   "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+   "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+   "date": "2026-08-04T17:27:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg"
+  },
+  {
+   "title": "Official Laravel Zed Extension: LSP for PHP & Blade",
+   "link": "https://laravel-news.com/laravel-zed-extension?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-04T17:17:30.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "The official Laravel extension for Zed wires up Laravel LSP, giving you completions, hovers, diagnostics, and code actions in PHP and Blade files. The post Official Laravel Zed Extension: LSP for PHP & Blade appeared fir",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-zed-official.png"
+  },
+  {
+   "title": "Jacob Rockowitz: Vibing Drupal: Choosing a model for Drupal development",
+   "link": "https://www.jrockowitz.com/blog/vibing-drupal-choosing-a-model",
+   "date": "2026-08-04T17:01:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Cost anxiety Last month, on a client project, I ran out of my monthly 10,000 Copilot Credits allotment (which costs approximately $100 USD). Limiting developers to 10,000 Copilot Credits per month is probably not enough ",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Sovereignty Takes Different Forms Across Drupal Hosting",
+   "link": "https://www.thedroptimes.com/71321/drupal-hosting-sovereignty-models?utm_source=Drupal Planet",
+   "date": "2026-08-04T15:47:39.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Data can remain in one jurisdiction while account ownership, administrator access, software dependencies, and exit control sit elsewhere.",
+   "image": null
+  },
+  {
+   "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+   "date": "2026-08-04T13:58:29.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Symfony UX 3.4.0 released",
+   "link": "https://symfony.com/blog/symfony-ux-3-4-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-04T13:53:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony UX 3.4 expands Toolkit with a Bootstrap 5.3 kit, reusable design-system-agnostic behaviors and richer documentation for kit authors. The release also adds dynamic Twig component names, safer on-demand icons, mode",
+   "image": "https://github.com/Kocal.png"
+  },
+  {
+   "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+   "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+   "date": "2026-08-04T13:30:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned ve",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg"
+  },
+  {
+   "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+   "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+   "date": "2026-08-04T13:11:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
+  },
+  {
+   "title": "Laravel Head: Manage Meta Tags, Open Graph, and JSON-LD",
+   "link": "https://laravel-news.com/laravel-head-package?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-04T12:56:05.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Announced in Taylor Otwell's Laracon US 2026 keynote, Laravel Head is a first-party package that manages your document head with a fluent API covering titles, Open Graph, robots directives, JSON-LD schemas, and performan",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-head-featured.png"
   },
   {
    "title": "Fragments: August  4",
@@ -89,6 +179,16 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incide",
+   "image": null
+  },
+  {
+   "title": "Specbee: Is your SEO strategy missing AEO and GEO? Here’s how to keep up",
+   "link": "https://www.specbee.com/blogs/seo-strategy-aeo-geo-ai",
+   "date": "2026-08-04T11:55:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Search is no longer just about rankings. This blog breaks down how AI, AEO, and GEO are changing SEO and what you need to do to stay ahead.",
    "image": null
   },
   {
@@ -152,6 +252,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
   },
   {
+   "title": "The Drop Times: Decoupled Days 2026 Speakers Preview AI, Content Models, and Neurodiversity",
+   "link": "https://www.thedroptimes.com/71524/decoupled-days-2026-speaker-preview?utm_source=Drupal Planet",
+   "date": "2026-08-04T05:58:30.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI may accelerate output, but the featured speakers are looking at the content structures, application design, development processes, and working conditions that surround its use.",
+   "image": null
+  },
+  {
    "title": "Drupal Association blog: Drupal Association 2025 Audit and Financial Overview",
    "link": "https://www.drupal.org/association/blog/drupal-association-2025-audit-and-financial-overview",
    "date": "2026-08-04T02:26:22.000Z",
@@ -202,26 +312,6 @@
    "image": null
   },
   {
-   "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-   "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-   "date": "2026-08-03T18:43:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg"
-  },
-  {
-   "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-   "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-   "date": "2026-08-03T16:24:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg"
-  },
-  {
    "title": "Quoting David Crawshaw's prompt",
    "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
    "date": "2026-08-03T16:15:27.000Z",
@@ -230,16 +320,6 @@
    "source": "Simon Willison",
    "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current versio",
    "image": null
-  },
-  {
-   "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-   "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-   "date": "2026-08-03T16:15:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg"
   },
   {
    "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
@@ -342,16 +422,6 @@
    "image": null
   },
   {
-   "title": "Talking Drupal: TD Cafe #020 - AI & Development Teams",
-   "link": "https://sacstudio.libsyn.com/td-cafe-020-ai-development-teams",
-   "date": "2026-08-03T04:05:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "How should development teams adopt AI without sacrificing code quality or collaboration? In this Talking Drupal Cafe, Stephen Cross is joined by Mike Miles and Jim Birch to discuss practical strategies for integrating AI",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout",
    "link": "https://postgr.es/p/9r9",
    "date": "2026-08-03T01:00:00.000Z",
@@ -362,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Cheppers: Introducing ExperienceKit: AI-Generated Drupal Pages, Built on a Governed Design System",
-   "link": "https://cheppers.com/post/introducing-experiencekit-ai-generated-drupal-pages",
-   "date": "2026-08-03T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Your marketing team needs a landing page for next month's campaign. Today that means a brief, a ticket, a spot in the developer queue, and a few weeks of waiting. ExperienceKit turns it into a sentence. Describe the page",
-   "image": null
-  },
-  {
    "title": "condense-json 1.0",
    "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
    "date": "2026-08-02T22:19:59.000Z",
@@ -379,16 +439,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's",
-   "image": null
-  },
-  {
-   "title": "#! code: Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 1",
-   "link": "https://www.hashbangcode.com/article/drupal-11-migrating-jadu-localgov-drupal-part-1",
-   "date": "2026-08-02T17:04:06.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 1 This is the first post in a series of posts looking at migrating content from a Jadu site into a Drupal site running the LocalGov Drupal (LGD) distribution. The",
    "image": null
   },
   {
@@ -440,16 +490,6 @@
    "source": "Simon Willison",
    "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by th",
    "image": null
-  },
-  {
-   "title": "Freelock Blog: Zero to new Drupal site in 133 seconds",
-   "link": "https://www.freelock.com/blog/john-locke/2026-08/zero-new-drupal-site-133-seconds",
-   "date": "2026-08-01T22:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Zero to new Drupal site in 133 seconds John Locke Sat, 08/01/2026 - 15:00 Gabor asked in Slack about how people contributing to Drupal manage multiple different Drupal versions, and different contributed module branches,",
-   "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-08/computer-4795762_150.jpg?itok=3n3w11YZ"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
@@ -530,16 +570,6 @@
    "source": "Martin Fowler",
    "summary": "TL;DR Why I think software development is starting to feel a little more like conducting an orchestra. There’s a shift happening in software development that I don’t think we’re talking about clearly enough. For the last",
    "image": null
-  },
-  {
-   "title": "Pest 5 Released With Test Impact Analysis, Agent Verification, and Evals",
-   "link": "https://laravel-news.com/pest-5?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-31T13:00:53.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Nuno Maduro announced Pest 5 at Laracon US 2026. The PHP testing framework adds test impact analysis, an agent plugin, evals, PHPStan, and Rector support. The post Pest 5 Released With Test Impact Analysis, Agent Verific",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pest-5-featured.png"
   },
   {
    "title": "Stored Procedures memory consumption in Percona Server for MySQL",
@@ -662,16 +692,6 @@
    "image": null
   },
   {
-   "title": "Laravel AI SDK Adds Human-in-the-Loop Tool Approval",
-   "link": "https://laravel-news.com/laravel-ai-sdk-adds-human-in-the-loop-tool-approval?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-30T01:04:02.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Announced at Laracon US 2026, the Laravel AI SDK's new human-in-the-loop API pauses an agent before it runs a sensitive tool so a person can approve, reject, or edit the tool call first. The post Laravel AI SDK Adds Huma",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
-  },
-  {
    "title": "CPX: The Composer Package Executor for PHP",
    "link": "https://laravel-news.com/cpx-the-composer-package-executor-for-php?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-07-30T01:01:56.000Z",
@@ -732,16 +752,6 @@
    "image": null
   },
   {
-   "title": "Symfony 8.0.15 released",
-   "link": "https://symfony.com/blog/symfony-8-0-15-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-29T11:49:09.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.0.15 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "What's new in PHP 8.6",
    "link": "https://stitcher.io/blog/new-in-php-86",
    "date": "2026-07-29T00:00:00.000Z",
@@ -765,16 +775,6 @@
    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
    "date": "2026-07-28T16:27:42.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-   "date": "2026-07-28T15:01:45.000Z",
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
@@ -988,7 +988,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a71d6cb498a0591378147/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a722b88506b2282283604/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
