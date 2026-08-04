@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-08-04T00:15:12.395Z",
+ "generatedAt": "2026-08-04T07:46:51.278Z",
  "articles": [
   {
-   "title": "Enhancing AI Influencer Scalability and Performance on ShadowSocial.io with Qwen-Max Multi-Modal AI and Caddy Reverse Proxy Techniques",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/enhancing-ai-influencer-scalability-and-performance-on-shadowsocialio-with-qwen-max-multi-modal-ai-19l9",
-   "date": "2026-08-04T00:03:12.000Z",
+   "title": "Master Copado Online Training | Salesforce DevOps Course",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-online-training-salesforce-devops-course-klp",
+   "date": "2026-08-04T07:32:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At ShadowSocial.io, we've been tackling the challenge of scaling AI-driven influencer content generation and distribution. We've integrated Qwen-Max, a multi-modal AI, to handle the complex tasks of creating and optimisi",
+   "summary": "How Salesforce DevOps Reduces Release Failures and Rollbacks https://www.visualpath.in/salesforce-devops-copado-ai-training.html",
    "image": null
   },
   {
-   "title": "5 Essential System Prompt Rules to Stop Your AI Agents from Going Rogue",
-   "link": "https://dev.to/shohei-ai-lab/5-essential-system-prompt-rules-to-stop-your-ai-agents-from-going-rogue-39mp",
-   "date": "2026-08-04T00:01:40.000Z",
+   "title": "Docker port mapping: connect your containers to the outside world",
+   "link": "https://dev.to/fj_palacios/docker-port-mapping-connect-your-containers-to-the-outside-world-49j0",
+   "date": "2026-08-04T07:26:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We are in the era of autonomous AI agents. Tools like Claude Code, Cline, Cursor, and other agentic coding frameworks are replacing simple Q&A chat interfaces. They can read your workspace, run shell commands, write code",
+   "summary": "In the previous lesson you launched an Nginx container in detached mode. docker ps showed it as Up, the PORTS column said 80/tcp, everything looked fine. You opened the browser, typed http://localhost:80, and got... noth",
    "image": null
   },
   {
-   "title": "Vigilmon vs AppDynamics: Uptime Monitoring vs Full-Stack APM (2026)",
-   "link": "https://dev.to/vigilmon/vigilmon-vs-appdynamics-uptime-monitoring-vs-full-stack-apm-2026-2e5m",
-   "date": "2026-08-03T23:48:08.000Z",
+   "title": "The First 48 Hours After a Site Goes Live",
+   "link": "https://dev.to/webdevwales/the-first-48-hours-after-a-site-goes-live-46c4",
+   "date": "2026-08-04T07:25:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vigilmon vs AppDynamics: Uptime Monitoring vs Full-Stack APM (2026) AppDynamics and Vigilmon solve fundamentally different problems. Choosing between them — or understanding when to use both — depends on what your team n",
+   "summary": "Launch day gets all the attention. The client sees the new site, everyone is pleased, the invoice goes out. Then the developer moves on to the next project, and the two days that decide whether the launch actually worked",
    "image": null
   },
   {
-   "title": "How to Monitor Your Railway Application with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-railway-application-with-vigilmon-52pn",
-   "date": "2026-08-03T23:47:30.000Z",
+   "title": "ColdFusion Code Review Checklist: What Senior Devs Check Before Merging CFML",
+   "link": "https://dev.to/deepak_sir__/coldfusion-code-review-checklist-what-senior-devs-check-before-merging-cfml-1e50",
+   "date": "2026-08-04T07:20:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your Railway Application with Vigilmon Railway is a developer-friendly platform for deploying apps, databases, and services. It handles deployments, scaling, and networking — but external uptime monitoring",
+   "summary": "A senior ColdFusion reviewer isn’t reading for style — they’re scanning for the specific CFML mistakes that cause security holes, production outages, and hard-to-debug behavior. The non-negotiables: every database query ",
    "image": null
   },
   {
-   "title": "How to Monitor Your Fly.io Application with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-flyio-application-with-vigilmon-3hik",
-   "date": "2026-08-03T23:47:24.000Z",
+   "title": "Best Thousand Eyes Alternatives in 2026 (Free and Paid)",
+   "link": "https://dev.to/vigilmon/best-thousand-eyes-alternatives-in-2026-free-and-paid-dhj",
+   "date": "2026-08-04T07:07:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your Fly.io Application with Vigilmon Fly.io is a popular platform for deploying containers close to your users. It handles networking, TLS, and deployment — but you still need to monitor whether your app ",
+   "summary": "Best ThousandEyes Alternatives in 2026 (Free and Paid) Cisco ThousandEyes is a powerful network intelligence platform — but it's priced for enterprise teams with enterprise budgets. If you need reliable uptime monitoring",
    "image": null
   },
   {
-   "title": "How to Set Up Multi-Region Monitoring for Global Apps with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-set-up-multi-region-monitoring-for-global-apps-with-vigilmon-51ka",
-   "date": "2026-08-03T23:46:45.000Z",
+   "title": "Monitoring Traefik and Nginx Reverse Proxies with Vigilmon",
+   "link": "https://dev.to/vigilmon/monitoring-traefik-and-nginx-reverse-proxies-with-vigilmon-1hmh",
+   "date": "2026-08-04T07:05:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Set Up Multi-Region Monitoring for Global Apps with Vigilmon Single-region monitoring misses regional outages. Your server in US-East might be up while users in Europe or Asia experience timeouts or errors. Multi-",
+   "summary": "Monitoring Traefik and Nginx Reverse Proxies with Vigilmon Your reverse proxy is the front door to everything: your apps, APIs, microservices, and static assets. If Traefik or Nginx goes down, all your services go dark —",
    "image": null
   },
   {
-   "title": "How to Monitor Your Tauri Application Backend with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-tauri-application-backend-with-vigilmon-iki",
-   "date": "2026-08-03T23:46:40.000Z",
+   "title": "How to Monitor Your CockroachDB Database with Vigilmon (External Health Checks)",
+   "link": "https://dev.to/vigilmon/how-to-monitor-your-cockroachdb-database-with-vigilmon-external-health-checks-2m1o",
+   "date": "2026-08-04T07:04:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your Tauri Application Backend with Vigilmon Tauri builds lightweight, secure desktop apps with a Rust backend and web frontend. Most Tauri apps are purely local — but many connect to a remote API or backe",
+   "summary": "How to Monitor Your CockroachDB Database with Vigilmon (External Health Checks) CockroachDB is a distributed SQL database built for resilience and horizontal scaling. It powers applications that can't afford downtime — w",
    "image": null
   },
   {
-   "title": "How to Monitor Your Payload CMS v3 Application with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-payload-cms-v3-application-with-vigilmon-1jhc",
-   "date": "2026-08-03T23:46:02.000Z",
+   "title": "How to Monitor WebSocket Services with Vigilmon (Uptime + Connection Health)",
+   "link": "https://dev.to/vigilmon/how-to-monitor-websocket-services-with-vigilmon-uptime-connection-health-3lg1",
+   "date": "2026-08-04T07:04:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your Payload CMS v3 Application with Vigilmon Payload CMS v3 is a TypeScript-first headless CMS built natively on Next.js. Its tight Next.js integration is a strength — but it also means your Payload insta",
+   "summary": "How to Monitor WebSocket Services with Vigilmon (Uptime + Connection Health) WebSocket services power real-time features: live chat, collaborative editing, price tickers, and push notifications. When your WebSocket serve",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Drupal Association 2025 Audit and Financial Overview",
+   "link": "https://www.drupal.org/association/blog/drupal-association-2025-audit-and-financial-overview",
+   "date": "2026-08-04T02:26:22.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "When I took on the role of Interim CEO, I committed to being direct about our finances and noted that our earlier audits already told much of the story. The board has now released our 2025 audit report, which was provide",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: idle_replication_slot_timeout",
+   "link": "https://postgr.es/p/9rc",
+   "date": "2026-08-04T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Replication slots promise to keep WAL forever—until PostgreSQL 18's new `idle_replication_slot_timeout` puts an expiration date on abandoned ones before they…",
+   "image": null
+  },
+  {
+   "title": "Quoting Steve Yegge",
+   "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+   "date": "2026-08-04T00:42:45.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the ",
    "image": null
   },
   {
@@ -150,6 +180,16 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
+  },
+  {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
   },
   {
    "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
@@ -392,26 +432,6 @@
    "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-08/computer-4795762_150.jpg?itok=3n3w11YZ"
   },
   {
-   "title": "datasette-apps 0.2a0",
-   "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-   "date": "2026-08-01T21:23:56.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_l",
-   "image": null
-  },
-  {
-   "title": "BloomIdea: When two terms called Food are not the same term",
-   "link": "https://bloomidea.com/en/blog/when-two-terms-called-food-are-not-same-term",
-   "date": "2026-08-01T18:40:05.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "You have a supplier spreadsheet with a category column that reads Animals > Dogs > Food, and you want Drupal to end up with a real taxonomy tree: Animals, with a child Dogs, with a child Food, each level created only if ",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
    "link": "https://postgr.es/p/9r4",
    "date": "2026-08-01T01:00:00.000Z",
@@ -462,13 +482,23 @@
    "image": null
   },
   {
-   "title": "Robert Haas: Hacking Workshop for September 2026",
-   "link": "https://postgr.es/p/9qZ",
-   "date": "2026-07-31T15:09:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "I'm pleased to announce that David Rowley will be joining us in September to discuss his talk Optimizing code in the hot path; with examples from tuple deformation. If you're interesting in joining us, please sign up usi",
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -872,6 +902,16 @@
    "image": null
   },
   {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -912,13 +952,23 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a712cc1bfdce413853763/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7192f053a06737033629/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -949,6 +999,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-14T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
@@ -1059,6 +1119,26 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
+   "image": null
+  },
+  {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
    "image": null
   },
   {
