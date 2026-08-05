@@ -1,85 +1,185 @@
 {
- "generatedAt": "2026-08-05T07:48:15.154Z",
+ "generatedAt": "2026-08-05T13:01:06.810Z",
  "articles": [
   {
-   "title": "How to Prepare for an Azure Interview A Practical Guide",
-   "link": "https://dev.to/d_j_2515aadc6ba65a085d7cd/how-to-prepare-for-an-azure-interview-a-practical-guide-2bc3",
-   "date": "2026-08-05T07:23:54.000Z",
+   "title": "# BlazeMeter alternatives: top performance testing tools in 2026",
+   "link": "https://dev.to/gatling/-blazemeter-alternatives-top-performance-testing-tools-in-2026-49gh",
+   "date": "2026-08-05T12:55:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Azure interviews are different from general developer interviews. The questions aren't just about coding they're about architecture, services, security, cost management and real-world problem solving in a cloud environme",
+   "summary": "BlazeMeter built its reputation on making JMeter easier to scale in the cloud. But as engineering teams shift toward test-as-code practices and tighter CI/CD integration, a lot of them find themselves outgrowing what a J",
    "image": null
   },
   {
-   "title": "Unveiling Career Transformations: How DevOps Training in Bangalore Can Propel You Towards Industry Success in 2026",
-   "link": "https://dev.to/lm_pg_ae695f1a4c717f/unveiling-career-transformations-how-devops-training-in-bangalore-can-propel-you-towards-industry-3hp8",
-   "date": "2026-08-05T07:22:19.000Z",
+   "title": "What Makes a SaaS Product Scalable? Engineering Practices Behind High-Growth Applications",
+   "link": "https://dev.to/convergesol/what-makes-a-saas-product-scalable-engineering-practices-behind-high-growth-applications-82n",
+   "date": "2026-08-05T12:55:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Unveiling Career Transformations: How DevOps Training in Bangalore Can Propel You Towards Industry Success in 2026 The tech industry is continuously evolving, and with it, the need for professionals adept in modern metho",
+   "summary": "Launching a SaaS application is only the beginning. Many startups successfully build and release an MVP, but scaling that product to support thousands of users, frequent feature releases, and increasing business requirem",
    "image": null
   },
   {
-   "title": "The Path to Tomorrow: Exploring Innovative Approaches to DevOps Training in Bangalore for Aspiring Tech Leaders",
-   "link": "https://dev.to/h2_lmt_318f611464212f9336/the-path-to-tomorrow-exploring-innovative-approaches-to-devops-training-in-bangalore-for-aspiring-1n28",
-   "date": "2026-08-05T07:18:54.000Z",
+   "title": "Self-Host STT on Baseten, Modal, Fireworks — or an API?",
+   "link": "https://dev.to/martschweiger/self-host-stt-on-baseten-modal-fireworks-or-an-api-303k",
+   "date": "2026-08-05T12:54:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Path to Tomorrow: Exploring Innovative Approaches to DevOps Training in Bangalore for Aspiring Tech Leaders In today's fast-paced technology landscape, the adoption of DevOps practices is not just a trend; it’s a nec",
+   "summary": "Here's a decision more teams are facing: an open speech model like Whisper or Qwen3-ASR is free, and platforms like Baseten, Modal, and Fireworks make it genuinely easy to serve one. A few hours of work and you've got a ",
    "image": null
   },
   {
-   "title": "Elevate Your IT Journey: Key Outcomes from Engaging in DevOps Training in Bangalore",
-   "link": "https://dev.to/h2_lmt_318f611464212f9336/elevate-your-it-journey-key-outcomes-from-engaging-in-devops-training-in-bangalore-39ph",
-   "date": "2026-08-05T07:18:45.000Z",
+   "title": "I let an AI agent into my repo. Here's what I lock down first.",
+   "link": "https://dev.to/mikobuilds/i-let-an-ai-agent-into-my-repo-heres-what-i-lock-down-first-5145",
+   "date": "2026-08-05T12:50:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Elevate Your IT Journey: Key Outcomes from Engaging in DevOps Training in Bangalore In the dynamic landscape of software development, the role of DevOps has emerged as a linchpin that binds development and operations tog",
+   "summary": "An AI coding agent isn't autocomplete. It runs shell commands, reads your files, installs It's also why I don't start projects the way I used to. Nothing dramatic happened to me, by the way. I'm not writing this from the",
    "image": null
   },
   {
-   "title": "Essential Steps to Kickstart Your Journey with DevOps Training in Bangalore",
-   "link": "https://dev.to/lmt_new_5ff6b33c7/essential-steps-to-kickstart-your-journey-with-devops-training-in-bangalore-pjk",
-   "date": "2026-08-05T07:18:27.000Z",
+   "title": "Grafana Agent vs Alloy: What Changed and Why",
+   "link": "https://dev.to/irinobservability/grafana-agent-vs-alloy-what-changed-and-why-2f90",
+   "date": "2026-08-05T12:45:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Essential Steps to Kickstart Your Journey with DevOps Training in Bangalore In today's fast-paced technology landscape, the importance of DevOps cannot be overstated. It integrates software development (Dev) and IT opera",
+   "summary": "TL;DR: Grafana Agent reached End-of-Life on November 1, 2025 and has been replaced by Grafana Alloy. Alloy consolidates Agent's Static mode, Flow mode, and Kubernetes Operator into a single collector built on the OpenTel",
    "image": null
   },
   {
-   "title": "Transform Your Skillset: 7 Unforgettable Benefits of Enrolling in DevOps Training in Bangalore Today",
-   "link": "https://dev.to/lmt_new_5ff6b33c7/transform-your-skillset-7-unforgettable-benefits-of-enrolling-in-devops-training-in-bangalore-today-k2n",
-   "date": "2026-08-05T07:18:26.000Z",
+   "title": "Open Source Observability Stack: From LGTM to Unified APM",
+   "link": "https://dev.to/logan_zhang_8ca3575087c5b/open-source-observability-stack-from-lgtm-to-unified-apm-49fi",
+   "date": "2026-08-05T12:32:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Transform Your Skillset: 7 Unforgettable Benefits of Enrolling in DevOps Training in Bangalore Today As the tech industry evolves at a breakneck pace, mastering DevOps practices has become essential for software develope",
+   "summary": "Searching for an open source observability stack often lands you between two camps — assemble Grafana LGTM piece by piece, or adopt a unified observability platform open source teams can run themselves. This guide explai",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ccuocfo4l2p1ie27bl3.jpg"
+  },
+  {
+   "title": "Get $1000 in Amazon",
+   "link": "https://dev.to/al_islam_92240b3be93b2b91/get-1000-in-amazon-6pg",
+   "date": "2026-08-05T12:30:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "https://sites.google.com/view/islamigstlgf/home",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbh42nvqdnp3tpj5317ak.webp"
+  },
+  {
+   "title": "Stop Chasing 100 Lighthouse Scores. Build E-commerce Websites That Actually Convert.",
+   "link": "https://dev.to/princeparmar/stop-chasing-100-lighthouse-scores-build-e-commerce-websites-that-actually-convert-2i6p",
+   "date": "2026-08-05T12:29:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Developers love performance metrics. A Lighthouse score of 100. An LCP under two seconds. A JavaScript bundle that's smaller than the competition. Those numbers are worth improving, but after working on e-commerce projec",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fze1efpya3e6lnvvw07b5.png"
+  },
+  {
+   "title": "New in Twig 4.0: A First-Class Sandbox",
+   "link": "https://symfony.com/blog/new-in-twig-4-0-a-first-class-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-05T12:09:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
+   "image": "https://github.com/fabpot.png"
+  },
+  {
+   "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+   "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+   "date": "2026-08-05T11:43:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for rou",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
+  },
+  {
+   "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+   "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+   "date": "2026-08-05T11:43:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication pa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
+  },
+  {
+   "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+   "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+   "date": "2026-08-05T11:04:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafte",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
+  },
+  {
+   "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+   "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+   "date": "2026-08-05T10:35:29.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
+  },
+  {
+   "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
+   "link": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
+   "date": "2026-08-05T10:22:14.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A selection of websites that show why individuality, not trends, creates the most memorable experiences on the web.",
    "image": null
   },
   {
-   "title": "Transform Your IT Career: Top Benefits of Enrolling in DevOps Training in Bangalore for 2026",
-   "link": "https://dev.to/h1_lmt_582a030968e32867be/transform-your-it-career-top-benefits-of-enrolling-in-devops-training-in-bangalore-for-2026-3m0b",
-   "date": "2026-08-05T07:18:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Transform Your IT Career: Top Benefits of Enrolling in DevOps Training in Bangalore for 2026 In the rapidly evolving world of technology, DevOps has emerged as a pivotal methodology that bridges the gap between developme",
+   "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+   "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+   "date": "2026-08-05T09:23:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg"
+  },
+  {
+   "title": "Avi Vallarapu: Tuning PostgreSQL HOT Updates - A HammerDB Benchmark",
+   "link": "https://postgr.es/p/9ro",
+   "date": "2026-08-05T09:12:04.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Vacuum is not a problem as we can help PostgreSQL avoid it with HOT updates. A HammerDB TPROC-C benchmark shows how tuning fillfactor for tables eliminates vacuum and reduces the bloat growth.",
    "image": null
   },
   {
-   "title": "Navigating the Future of Technology: Your Comprehensive Roadmap to DevOps Training in Bangalore",
-   "link": "https://dev.to/h1_lmt_582a030968e32867be/navigating-the-future-of-technology-your-comprehensive-roadmap-to-devops-training-in-bangalore-c5c",
-   "date": "2026-08-05T07:18:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Navigating the Future of Technology: Your Comprehensive Roadmap to DevOps Training in Bangalore In today's fast-paced technological landscape, the demand for professionals who can bridge the gap between development and o",
-   "image": null
+   "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+   "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+   "date": "2026-08-05T07:53:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly wa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg"
+  },
+  {
+   "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+   "date": "2026-08-05T07:40:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg"
   },
   {
    "title": "SymfonyLive Germany 2027 heads to Cologne",
@@ -132,6 +232,16 @@
    "image": null
   },
   {
+   "title": "Aten Design Group: A/B Testing in Drupal Without the Enterprise Price Tag: A Practical Guide Using the A/B Test JS Module",
+   "link": "https://atendesigngroup.com/articles/ab-testing-drupal-without-enterprise-price-tag-practical-guide-using-ab-test-js-module",
+   "date": "2026-08-04T22:56:55.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A/B Testing in Drupal Without the Enterprise Price Tag: A Practical Guide Using the A/B Test JS Module Joel Steidl Tue, 08/04/2026 - 16:56 Drupal Many organizations want to run A/B tests but either don’t know where to st",
+   "image": "https://atendesigngroup.com/sites/default/files/entity-reference-layout.png"
+  },
+  {
    "title": "llm-anthropic 0.26",
    "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
    "date": "2026-08-04T22:00:58.000Z",
@@ -150,16 +260,6 @@
    "source": "Simon Willison",
    "summary": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use ",
    "image": null
-  },
-  {
-   "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-   "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-   "date": "2026-08-04T17:27:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg"
   },
   {
    "title": "Official Laravel Zed Extension: LSP for PHP & Blade",
@@ -222,26 +322,6 @@
    "image": "https://github.com/smnandre.png"
   },
   {
-   "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-   "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-   "date": "2026-08-04T13:30:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned ve",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg"
-  },
-  {
-   "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-   "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-   "date": "2026-08-04T13:11:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
-  },
-  {
    "title": "Laravel Head: Manage Meta Tags, Open Graph, and JSON-LD",
    "link": "https://laravel-news.com/laravel-head-package?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-04T12:56:05.000Z",
@@ -272,26 +352,6 @@
    "image": null
   },
   {
-   "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-   "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-   "date": "2026-08-04T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
-  },
-  {
-   "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-   "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-   "date": "2026-08-04T11:16:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
-  },
-  {
    "title": "Building an Endless Interactive Glass Xylophone with Three.js",
    "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
    "date": "2026-08-04T10:58:37.000Z",
@@ -302,26 +362,6 @@
    "image": null
   },
   {
-   "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-   "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-   "date": "2026-08-04T10:36:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
-  },
-  {
-   "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-   "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-   "date": "2026-08-04T09:03:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
-  },
-  {
    "title": "The Drop Times: Decoupled Days 2026 Speakers Preview AI, Content Models, and Neurodiversity",
    "link": "https://www.thedroptimes.com/71524/decoupled-days-2026-speaker-preview?utm_source=Drupal Planet",
    "date": "2026-08-04T05:58:30.000Z",
@@ -329,6 +369,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "AI may accelerate output, but the featured speakers are looking at the content structures, application design, development processes, and working conditions that surround its use.",
+   "image": null
+  },
+  {
+   "title": "Wellingtone Luvonga: Mastering PostgreSQL Configuration Management with CloudNativePG (CNPG)",
+   "link": "https://postgr.es/p/9rp",
+   "date": "2026-08-04T05:00:38.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "If you are a traditional database administrator (DBA) transitioning to Kubernetes, the cloud-native ecosystem can feel like a series of personal attacks on your workflow. For years, your terminal was your home. If a quer",
    "image": null
   },
   {
@@ -442,16 +492,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Doctor-LN.png"
   },
   {
-   "title": "The Drop Times: Public Code Must Survive the Contract",
-   "link": "https://www.thedroptimes.com/newsletter/public-code-must-survive-contract?utm_source=Drupal Planet",
-   "date": "2026-08-03T13:52:25.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Public software is easiest to celebrate at launch, when a service is delivered, a repository is published, and an institution can point to visible progress. Its harder test begins after the original contract ends. Securi",
-   "image": null
-  },
-  {
    "title": "PhpStorm 2026.2 Released",
    "link": "https://laravel-news.com/phpstorm-20262-released?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-03T13:50:35.000Z",
@@ -519,26 +559,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "`hot_standby_feedback` trades primary bloat to prevent query cancellations on standbys—but it only stops cleanup conflicts, not lock or drop conflicts, and…",
-   "image": null
-  },
-  {
-   "title": "Elizabeth Garrett Christensen: Postgres COUNT(DISTINCT) Too Slow? Fast Approximation Guide",
-   "link": "https://postgr.es/p/9rb",
-   "date": "2026-07-31T22:49:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "That's 320 milliseconds vs 671 ms for exact COUNT(DISTINCT) which is about twice as fast on a single scan. Also HLL isn't just about raw speed on one query. The function names are a bit verbose but the pattern is always ",
-   "image": null
-  },
-  {
-   "title": "Mark Wong: Performance Farm July 2026 Update",
-   "link": "https://postgr.es/p/9r3",
-   "date": "2026-07-31T19:29:58.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostgreSQL Performance Farm is still not quite a reality, but I think there is some hope on the horizon. After some discussions with various folks at AWS about large scale OLTP testing with PostgreSQL on EC2, I was i",
    "image": null
   },
   {
@@ -712,26 +732,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/cpx-2.0-featured.png"
   },
   {
-   "title": "Symfony 8.1.3 released",
-   "link": "https://symfony.com/blog/symfony-8-1-3-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-29T21:51:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.3 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 8.0.16 released",
-   "link": "https://symfony.com/blog/symfony-8-0-16-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-07-29T21:46:02.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.0.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
    "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
    "date": "2026-07-29T18:00:00.000Z",
@@ -882,16 +882,6 @@
    "image": null
   },
   {
-   "title": "Building Ridgeline: Engineering a Real-Time 3D Experience in Webflow",
-   "link": "https://tympanus.net/codrops/2026/07/22/building-ridgeline-engineering-a-real-time-3d-experience-in-webflow/",
-   "date": "2026-07-22T13:52:06.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A behind-the-scenes look at the engineering behind Ridgeline, covering the architectural decisions, Webflow integration, real-time terrain rendering, animation techniques, and performance optimizations that brought a cin",
-   "image": null
-  },
-  {
    "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
    "link": "https://www.percona.com/blog/migrate-mysql-galera-cluster-to-percona-xtradb-cluster/",
    "date": "2026-07-22T09:56:28.000Z",
@@ -988,7 +978,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a72e4926d14c226187274/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a732475100cf978716444/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
