@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-08-05T13:01:06.810Z",
+ "generatedAt": "2026-08-05T18:46:33.662Z",
  "articles": [
   {
-   "title": "# BlazeMeter alternatives: top performance testing tools in 2026",
-   "link": "https://dev.to/gatling/-blazemeter-alternatives-top-performance-testing-tools-in-2026-49gh",
-   "date": "2026-08-05T12:55:33.000Z",
+   "title": "I tried using an AI agent to set up a fresh Windows PC and Reddit was right about Ninite",
+   "link": "https://dev.to/lars_winstand/i-tried-using-an-ai-agent-to-set-up-a-fresh-windows-pc-and-reddit-was-right-about-ninite-37da",
+   "date": "2026-08-05T18:34:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "BlazeMeter built its reputation on making JMeter easier to scale in the cloud. But as engineering teams shift toward test-as-code practices and tighter CI/CD integration, a lot of them find themselves outgrowing what a J",
+   "summary": "I tried the obvious nerd experiment on a fresh Windows machine: let an AI agent handle setup. It looked clever for about two minutes. Then I watched OpenClaw get stuck on installer checkboxes, pause on modal windows, and",
    "image": null
   },
   {
-   "title": "What Makes a SaaS Product Scalable? Engineering Practices Behind High-Growth Applications",
-   "link": "https://dev.to/convergesol/what-makes-a-saas-product-scalable-engineering-practices-behind-high-growth-applications-82n",
-   "date": "2026-08-05T12:55:00.000Z",
+   "title": "How to Self-Host n8n: A Complete Beginner's Guide (2026)",
+   "link": "https://dev.to/ali_ilyas/how-to-self-host-n8n-a-complete-beginners-guide-2026-412f",
+   "date": "2026-08-05T18:19:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Launching a SaaS application is only the beginning. Many startups successfully build and release an MVP, but scaling that product to support thousands of users, frequent feature releases, and increasing business requirem",
+   "summary": "Originally published at noderecipe.com. Self-hosting n8n gives you unlimited workflow executions, full ownership of your data, and no per-task fees — all for the cost of a small server (about $5/month). This guide takes ",
    "image": null
   },
   {
-   "title": "Self-Host STT on Baseten, Modal, Fireworks — or an API?",
-   "link": "https://dev.to/martschweiger/self-host-stt-on-baseten-modal-fireworks-or-an-api-303k",
-   "date": "2026-08-05T12:54:16.000Z",
+   "title": "Lessons from migrating a production Rails API from Render to Railway",
+   "link": "https://dev.to/johnbuilds/lessons-from-migrating-a-production-rails-api-from-render-to-railway-262i",
+   "date": "2026-08-05T18:16:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here's a decision more teams are facing: an open speech model like Whisper or Qwen3-ASR is free, and platforms like Baseten, Modal, and Fireworks make it genuinely easy to serve one. A few hours of work and you've got a ",
+   "summary": "Moved a production Rails API from Render to Railway recently. Web service, Solid Queue worker, Postgres 18. Here are the lessons worth stealing, whichever direction you're migrating. Suspending costs nothing and it is th",
    "image": null
   },
   {
-   "title": "I let an AI agent into my repo. Here's what I lock down first.",
-   "link": "https://dev.to/mikobuilds/i-let-an-ai-agent-into-my-repo-heres-what-i-lock-down-first-5145",
-   "date": "2026-08-05T12:50:14.000Z",
+   "title": "AI Agent Credential Rotation Without Downtime: Keeping In-Flight Communication Alive",
+   "link": "https://dev.to/pstayet/ai-agent-credential-rotation-without-downtime-keeping-in-flight-communication-alive-2bol",
+   "date": "2026-08-05T18:11:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An AI coding agent isn't autocomplete. It runs shell commands, reads your files, installs It's also why I don't start projects the way I used to. Nothing dramatic happened to me, by the way. I'm not writing this from the",
+   "summary": "Your agent has been talking to a peer for six hours. There are in-flight requests, a signing key, an API token, and a long-lived tunnel that peers discovered through NAT. Security says: rotate everything by Friday. You s",
    "image": null
   },
   {
-   "title": "Grafana Agent vs Alloy: What Changed and Why",
-   "link": "https://dev.to/irinobservability/grafana-agent-vs-alloy-what-changed-and-why-2f90",
-   "date": "2026-08-05T12:45:59.000Z",
+   "title": "An Agent That Publishes Unattended Needs Nine Deterministic Gates, Not a Second Model Reviewing Its Output",
+   "link": "https://dev.to/nekoaineko/an-agent-that-publishes-unattended-needs-nine-deterministic-gates-not-a-second-model-reviewing-its-ah0",
+   "date": "2026-08-05T18:00:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR: Grafana Agent reached End-of-Life on November 1, 2025 and has been replaced by Grafana Alloy. Alloy consolidates Agent's Static mode, Flow mode, and Kubernetes Operator into a single collector built on the OpenTel",
+   "summary": "An Agent That Publishes Unattended Needs Nine Deterministic Gates, Not a Second Model Reviewing Its Output Freelancers often rely on automation to handle repetitive and time-consuming tasks, such as scheduling posts, ren",
    "image": null
   },
   {
-   "title": "Open Source Observability Stack: From LGTM to Unified APM",
-   "link": "https://dev.to/logan_zhang_8ca3575087c5b/open-source-observability-stack-from-lgtm-to-unified-apm-49fi",
-   "date": "2026-08-05T12:32:31.000Z",
+   "title": "PagerDuty vs Vigilmon: Incident Management vs Uptime Monitoring - What is the Difference",
+   "link": "https://dev.to/vigilmon/pagerduty-vs-vigilmon-incident-management-vs-uptime-monitoring-what-is-the-difference-dh8",
+   "date": "2026-08-05T17:37:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Searching for an open source observability stack often lands you between two camps — assemble Grafana LGTM piece by piece, or adopt a unified observability platform open source teams can run themselves. This guide explai",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9ccuocfo4l2p1ie27bl3.jpg"
+   "summary": "PagerDuty vs Vigilmon: Incident Management vs Uptime Monitoring PagerDuty and Vigilmon both live in the \"keep your systems up\" space, but they solve different problems and operate at different points in the incident life",
+   "image": null
   },
   {
-   "title": "Get $1000 in Amazon",
-   "link": "https://dev.to/al_islam_92240b3be93b2b91/get-1000-in-amazon-6pg",
-   "date": "2026-08-05T12:30:06.000Z",
+   "title": "Sentry vs Vigilmon: Error Monitoring vs Uptime Monitoring - When to Use Each",
+   "link": "https://dev.to/vigilmon/sentry-vs-vigilmon-error-monitoring-vs-uptime-monitoring-when-to-use-each-3f4b",
+   "date": "2026-08-05T17:36:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "https://sites.google.com/view/islamigstlgf/home",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbh42nvqdnp3tpj5317ak.webp"
+   "summary": "Sentry vs Vigilmon: Error Monitoring vs Uptime Monitoring - When to Use Each Sentry and Vigilmon both monitor your applications, but they answer fundamentally different questions. Understanding the distinction helps you ",
+   "image": null
   },
   {
-   "title": "Stop Chasing 100 Lighthouse Scores. Build E-commerce Websites That Actually Convert.",
-   "link": "https://dev.to/princeparmar/stop-chasing-100-lighthouse-scores-build-e-commerce-websites-that-actually-convert-2i6p",
-   "date": "2026-08-05T12:29:41.000Z",
+   "title": "Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications",
+   "link": "https://dev.to/vigilmon/laravel-application-monitoring-with-vigilmon-health-checks-for-php-applications-2nmf",
+   "date": "2026-08-05T17:35:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Developers love performance metrics. A Lighthouse score of 100. An LCP under two seconds. A JavaScript bundle that's smaller than the competition. Those numbers are worth improving, but after working on e-commerce projec",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fze1efpya3e6lnvvw07b5.png"
+   "summary": "Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications Laravel is the most popular PHP framework for web applications. Whether you're running a SaaS, e-commerce platform, or API backend, externa",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: Ontogeny Recapitulates the Relcache",
+   "link": "https://postgr.es/p/9rq",
+   "date": "2026-08-05T16:09:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Jacob Jackson at ByteofDev built something I can only describe as admirably irresponsible (and something I wish I had thought of first): claudegres, a “PostgreSQL” in which Claude is the entire backend. Not Claude tuning",
+   "image": null
+  },
+  {
+   "title": "Official Laravel Zed Extension: LSP for PHP & Blade",
+   "link": "https://laravel-news.com/laravel-zed-extension?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-05T15:52:32.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "The official Laravel extension for Zed wires up Laravel LSP, giving you completions, hovers, diagnostics, and code actions in PHP and Blade files. The post Official Laravel Zed Extension: LSP for PHP & Blade appeared fir",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-zed-official.png"
+  },
+  {
+   "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+   "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+   "date": "2026-08-05T15:36:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such servic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
+  },
+  {
+   "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+   "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+   "date": "2026-08-05T15:14:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both pat",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
+  },
+  {
+   "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+   "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+   "date": "2026-08-05T14:27:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's con",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
+  },
+  {
+   "title": "The Drop Times: Helge Notø Makes Open-Source Stewardship a Focus of Board Candidacy",
+   "link": "https://www.thedroptimes.com/interview/71509/helge-noto-ai-contribution-drupal-stewardship?utm_source=Drupal Planet",
+   "date": "2026-08-05T13:57:14.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal’s openness is tested not only by software choices, but by who carries the maintenance burden and whether institutions support the commons they use.",
+   "image": null
+  },
+  {
+   "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+   "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+   "date": "2026-08-05T13:41:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg"
   },
   {
    "title": "New in Twig 4.0: A First-Class Sandbox",
@@ -142,16 +212,6 @@
    "image": null
   },
   {
-   "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-   "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-   "date": "2026-08-05T09:23:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg"
-  },
-  {
    "title": "Avi Vallarapu: Tuning PostgreSQL HOT Updates - A HammerDB Benchmark",
    "link": "https://postgr.es/p/9ro",
    "date": "2026-08-05T09:12:04.000Z",
@@ -160,26 +220,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Vacuum is not a problem as we can help PostgreSQL avoid it with HOT updates. A HammerDB TPROC-C benchmark shows how tuning fillfactor for tables eliminates vacuum and reduces the bloat growth.",
    "image": null
-  },
-  {
-   "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-   "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-   "date": "2026-08-05T07:53:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly wa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg"
-  },
-  {
-   "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-   "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-   "date": "2026-08-05T07:40:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg"
   },
   {
    "title": "SymfonyLive Germany 2027 heads to Cologne",
@@ -202,16 +242,6 @@
    "image": null
   },
   {
-   "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-   "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-   "date": "2026-08-05T05:47:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. Ac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: idle_session_timeout",
    "link": "https://postgr.es/p/9rn",
    "date": "2026-08-05T01:00:00.000Z",
@@ -220,6 +250,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Idle sessions consume connection slots and backend memory—not locks or xmin. Learn when and how to reap them without sabotaging your connection pooler.",
    "image": null
+  },
+  {
+   "title": "The new CSS feature devs love most but can't rely on yet",
+   "link": "https://frontendfoc.us/issues/753",
+   "date": "2026-08-05T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
   },
   {
    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
@@ -242,6 +282,16 @@
    "image": "https://atendesigngroup.com/sites/default/files/entity-reference-layout.png"
   },
   {
+   "title": "Image Dominant Color and HEIC Support in Laravel 13.24",
+   "link": "https://laravel-news.com/laravel-13-24-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-04T22:38:46.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.24 adds dominant color detection and HEIC support to the image API, a modelKeys() query builder method, and an array_keys validation rule. The post Image Dominant Color and HEIC Support in Laravel 13.24 appear",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
    "title": "llm-anthropic 0.26",
    "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
    "date": "2026-08-04T22:00:58.000Z",
@@ -260,16 +310,6 @@
    "source": "Simon Willison",
    "summary": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use ",
    "image": null
-  },
-  {
-   "title": "Official Laravel Zed Extension: LSP for PHP & Blade",
-   "link": "https://laravel-news.com/laravel-zed-extension?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-04T17:17:30.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "The official Laravel extension for Zed wires up Laravel LSP, giving you completions, hovers, diagnostics, and code actions in PHP and Blade files. The post Official Laravel Zed Extension: LSP for PHP & Blade appeared fir",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-zed-official.png"
   },
   {
    "title": "llm 0.32",
@@ -422,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Mike Herchel's Blog: A First Look at the DrupalCon Orlando Venue",
-   "link": "https://herchel.com/articles/first-look-drupalcon-orlando-venue",
-   "date": "2026-08-03T20:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A First Look at the DrupalCon Orlando Venue mherchel Mon, 08/03/2026 - 16:00",
-   "image": null
-  },
-  {
    "title": "Quoting David Crawshaw's prompt",
    "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
    "date": "2026-08-03T16:15:27.000Z",
@@ -549,16 +579,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "ident_file tells the server where pg_ident.conf lives, but when it's wrong, the server just logs a quiet failure and keeps running.",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback",
-   "link": "https://postgr.es/p/9r4",
-   "date": "2026-08-01T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "`hot_standby_feedback` trades primary bloat to prevent query cancellations on standbys—but it only stops cleanup conflicts, not lock or drop conflicts, and…",
    "image": null
   },
   {
@@ -720,16 +740,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 8.0.16 was released on July 29, 2026. It is the last release of the 8.0 branch. Symfony's release policy gives standard versions eight months of support, with bug fixes and security fixes ending at the same time.",
    "image": null
-  },
-  {
-   "title": "CPX: The Composer Package Executor for PHP",
-   "link": "https://laravel-news.com/cpx-the-composer-package-executor-for-php?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-07-30T01:01:56.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "cpx 2.0 is a full rewrite of the Composer package executor. It runs a command from any Composer package without adding it to your project, prefers the binaries your project already pins, and returns JSON when an AI agent",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/cpx-2.0-featured.png"
   },
   {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
@@ -978,7 +988,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a732475100cf978716444/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a73806696d11874999417/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1090,16 +1100,6 @@
    "source": "Kubernetes Blog",
    "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
    "image": null
-  },
-  {
-   "title": "Edge gets started on CSS mixins",
-   "link": "https://frontendfoc.us/issues/749",
-   "date": "2026-07-08T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​749 — July 8, 2026 | Read on the web The Descent: What Happened to the Frontend While You Weren't Watching — A comprehensive deep dive into the technical evolution of frontend development over the pas",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nvhy6t6nskpbpvodlwbq.jpg"
   },
   {
    "title": "PHP Tek 2027",
