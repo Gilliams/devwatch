@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-08-04T18:48:11.781Z",
+ "generatedAt": "2026-08-05T00:13:25.880Z",
  "articles": [
   {
-   "title": "I tried reading those agent identity scans and realized they’re mostly tests of prompt instruction priority",
-   "link": "https://dev.to/lars_winstand/i-tried-reading-those-agent-identity-scans-and-realized-theyre-mostly-tests-of-prompt-instruction-4eah",
-   "date": "2026-08-04T18:35:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I kept seeing these “agent identity scan” posts and had the same reaction a lot of people had: this is either a clever new eval category or it’s a very funny way to social-engineer your own agent After reading a bunch of",
+   "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+   "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+   "date": "2026-08-04T23:58:24.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned con",
    "image": null
   },
   {
-   "title": "Designing Resilient AIoT Data Pipelines for Automotive Manufacturing",
-   "link": "https://dev.to/sonaltigga/designing-resilient-aiot-data-pipelines-for-automotive-manufacturing-8ng",
-   "date": "2026-08-04T18:29:15.000Z",
+   "title": "Best Oh Dear Alternatives in 2026 (Uptime and SSL Monitoring)",
+   "link": "https://dev.to/vigilmon/best-oh-dear-alternatives-in-2026-uptime-and-ssl-monitoring-2h3n",
+   "date": "2026-08-04T23:07:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Modern automotive manufacturing depends on data just as much as it depends on machinery. Every production line generates a continuous stream of events—from machine telemetry and inventory movements to quality inspections",
+   "summary": "Best Oh Dear Alternatives in 2026 (Uptime and SSL Monitoring) Oh Dear is a solid website monitoring service with uptime checks, SSL monitoring, broken link detection, and performance monitoring. But it may not be the rig",
    "image": null
   },
   {
-   "title": "Load Testing the Server Before Deploying Your Critical App",
-   "link": "https://dev.to/daanial/load-testing-the-server-before-deploying-your-critical-app-34fa",
-   "date": "2026-08-04T18:13:54.000Z",
+   "title": "How to Monitor Microservices Architecture with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-microservices-architecture-with-vigilmon-1kpe",
+   "date": "2026-08-04T23:06:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A presales war story about CPU steal time — the metric almost nobody checks before go-live — and the full stress-test checklist I now run before any app touches production. A customer once told me, with total confidence:",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F93s3u3qu7kvg4amm8mpb.png"
-  },
-  {
-   "title": "🦸‍♂️ Hello — The Interactive CLI Commander",
-   "link": "https://dev.to/hrustbb/one-cli-tool-for-docker-environment-management-and-one-click-deployment-5fk2",
-   "date": "2026-08-04T18:09:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"Because typing the same 15 commands every day is so 2026.\" A command-line utility that turns your chaotic terminal sessions into a beautiful, interactive menu. Stop memorizing commands. Start executing like a pro. Featu",
+   "summary": "How to Monitor Microservices Architecture with Vigilmon Microservices give you deployment flexibility and team autonomy — but they multiply your monitoring surface. What was one monolith to watch becomes 10, 20, or 50 se",
    "image": null
   },
   {
-   "title": "How to Monitor Railway Deployments with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-railway-deployments-with-vigilmon-33po",
-   "date": "2026-08-04T17:59:54.000Z",
+   "title": "How to Build a Status Page with Vigilmon (Free)",
+   "link": "https://dev.to/vigilmon/how-to-build-a-status-page-with-vigilmon-free-55db",
+   "date": "2026-08-04T23:06:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Railway Deployments with Vigilmon Railway is a developer-first deployment platform that makes it easy to ship applications without DevOps expertise — deploy from GitHub, add databases, and get a public URL",
+   "summary": "How to Build a Status Page with Vigilmon (Free) A status page is your public-facing reliability dashboard — it tells customers whether your service is up or down before they flood your support inbox. This guide explains ",
    "image": null
   },
   {
-   "title": "How to Monitor Your gRPC Services with Vigilmon",
-   "link": "https://dev.to/vigilmon/how-to-monitor-your-grpc-services-with-vigilmon-ip2",
-   "date": "2026-08-04T17:59:25.000Z",
+   "title": "How to Monitor Laravel Horizon Queue with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-laravel-horizon-queue-with-vigilmon-4ck3",
+   "date": "2026-08-04T23:05:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Monitor Your gRPC Services with Vigilmon gRPC is the go-to protocol for high-performance microservice communication — used by Google, Netflix, and thousands of engineering teams for its speed, strong typing (Proto",
+   "summary": "How to Monitor Laravel Horizon Queue with Vigilmon Laravel Horizon provides a beautiful dashboard for your Redis-powered queues. But when Horizon stops processing jobs, failed jobs pile up silently while your users exper",
    "image": null
   },
   {
-   "title": "Best Freshping Alternatives in 2026 (Free and Paid)",
-   "link": "https://dev.to/vigilmon/best-freshping-alternatives-in-2026-free-and-paid-2ejk",
-   "date": "2026-08-04T17:59:21.000Z",
+   "title": "How to Monitor Memcached with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-memcached-with-vigilmon-124a",
+   "date": "2026-08-04T23:04:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best Freshping Alternatives in 2026 (Free and Paid) Freshping (by Freshworks) is a solid uptime monitoring tool — but with the Freshworks ecosystem rebranding and pricing changes, many teams are looking for alternatives ",
+   "summary": "How to Monitor Memcached with Vigilmon Memcached is a battle-tested in-memory caching layer used by high-traffic applications. When Memcached fails, your database gets hammered with cache-miss traffic, causing cascading ",
    "image": null
   },
   {
-   "title": "Best New Relic Alternatives in 2026 (Free and Paid)",
-   "link": "https://dev.to/vigilmon/best-new-relic-alternatives-in-2026-free-and-paid-36l5",
-   "date": "2026-08-04T17:58:52.000Z",
+   "title": "How to Monitor AWS Elastic Beanstalk with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-aws-elastic-beanstalk-with-vigilmon-56o3",
+   "date": "2026-08-04T23:03:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best New Relic Alternatives in 2026 (Free and Paid) New Relic is a comprehensive observability platform — but it's complex, expensive at scale, and recently moved to a consumption-based model that surprises teams with un",
+   "summary": "How to Monitor AWS Elastic Beanstalk with Vigilmon AWS Elastic Beanstalk abstracts infrastructure management but does not eliminate downtime risk. Deployments can fail, auto-scaling events cause brief outages, and enviro",
+   "image": null
+  },
+  {
+   "title": "How to Monitor Elasticsearch and OpenSearch with Vigilmon",
+   "link": "https://dev.to/vigilmon/how-to-monitor-elasticsearch-and-opensearch-with-vigilmon-1l5c",
+   "date": "2026-08-04T23:03:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How to Monitor Elasticsearch and OpenSearch with Vigilmon Elasticsearch and OpenSearch power search and analytics for millions of applications. When they go down, users lose search functionality, dashboards go blank, and",
+   "image": null
+  },
+  {
+   "title": "Solo founders need a SOC 2. Here's how.",
+   "link": "https://dev.to/yinthisgame/solo-founders-need-a-soc-2-heres-how-222f",
+   "date": "2026-08-04T22:59:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A one-person company ships like a 20-person team now. That is the whole reason this problem exists. You are selling to companies big enough to have a procurement process, at a headcount that used to mean you were never i",
+   "image": null
+  },
+  {
+   "title": "PipeNetwork/minimax-h3-mlx",
+   "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+   "date": "2026-08-04T19:10:09.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "PipeNetwork/minimax-h3-mlx MiniMax released MiniMax-H3 two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use ",
    "image": null
   },
   {
@@ -100,6 +120,16 @@
    "source": "Laravel News",
    "summary": "The official Laravel extension for Zed wires up Laravel LSP, giving you completions, hovers, diagnostics, and code actions in PHP and Blade files. The post Official Laravel Zed Extension: LSP for PHP & Blade appeared fir",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-zed-official.png"
+  },
+  {
+   "title": "llm 0.32",
+   "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+   "date": "2026-08-04T17:15:33.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.32 See my detailed blog post about this release . Tags: llm",
+   "image": null
   },
   {
    "title": "Jacob Rockowitz: Vibing Drupal: Choosing a model for Drupal development",
@@ -139,7 +169,7 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony UX 3.4 expands Toolkit with a Bootstrap 5.3 kit, reusable design-system-agnostic behaviors and richer documentation for kit authors. The release also adds dynamic Twig component names, safer on-demand icons, mode",
-   "image": "https://github.com/Kocal.png"
+   "image": "https://github.com/smnandre.png"
   },
   {
    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
@@ -422,6 +452,16 @@
    "image": null
   },
   {
+   "title": "condense-json 1.1",
+   "link": "https://simonwillison.net/2026/Aug/3/condense-json/#atom-everything",
+   "date": "2026-08-03T04:56:26.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: condense-json 1.1 After shipping condense-json 1.0 I started integrating it into LLM, and found there were some desirable new features already: Replacements object can now include values other than strings. Thes",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout",
    "link": "https://postgr.es/p/9r9",
    "date": "2026-08-03T01:00:00.000Z",
@@ -429,16 +469,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Idle transactions hold locks and block vacuums, turning one forgotten connection into a cascading outage.",
-   "image": null
-  },
-  {
-   "title": "condense-json 1.0",
-   "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-   "date": "2026-08-02T22:19:59.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's",
    "image": null
   },
   {
@@ -452,26 +482,6 @@
    "image": null
   },
   {
-   "title": "Open letters about AI development",
-   "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-   "date": "2026-08-02T04:16:52.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership ",
-   "image": null
-  },
-  {
-   "title": "July 2026 newsletter",
-   "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-   "date": "2026-08-02T04:12:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under t",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: ident_file",
    "link": "https://postgr.es/p/9r8",
    "date": "2026-08-02T01:00:00.000Z",
@@ -479,16 +489,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "ident_file tells the server where pg_ident.conf lives, but when it's wrong, the server just logs a quiet failure and keeps running.",
-   "image": null
-  },
-  {
-   "title": "Quoting Greg Brockman",
-   "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-   "date": "2026-08-01T22:29:44.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by th",
    "image": null
   },
   {
@@ -988,7 +988,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a722b88506b2282283604/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7274074206a870513557/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
