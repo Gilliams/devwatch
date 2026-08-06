@@ -1,6 +1,136 @@
 {
- "generatedAt": "2026-08-06T00:08:55.143Z",
+ "generatedAt": "2026-08-06T07:47:51.552Z",
  "articles": [
+  {
+   "title": "Golden Paths Aren't About Standardization. They're About Reducing Developer Decisions.",
+   "link": "https://dev.to/vertro/golden-paths-arent-about-standardization-theyre-about-reducing-developer-decisions-5dn7",
+   "date": "2026-08-06T07:39:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Golden Paths aren't about forcing every team to work the same way. They're about removing repetitive infrastructure decisions so developers can focus on building software while platform teams ensure consistency, se",
+   "image": null
+  },
+  {
+   "title": "Best One Way Drop Taxi – Affordable & Comfortable One Way Cab Booking",
+   "link": "https://dev.to/drop_taxi_a07001bdcf9b9d1/best-one-way-drop-taxi-affordable-comfortable-one-way-cab-booking-3dbj",
+   "date": "2026-08-06T07:38:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Traveling between cities has become easier with professional one way taxi services. Instead of paying for a round trip, travelers can choose a convenient one-way cab option and save money. A reliable taxi provider offers",
+   "image": null
+  },
+  {
+   "title": "NAS Volume Layout Planning: Why Redesigning After Year One Always Hurts More",
+   "link": "https://dev.to/nasstorage/nas-volume-layout-planning-why-redesigning-after-year-one-always-hurts-more-1j63",
+   "date": "2026-08-06T07:38:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Few storage decisions feel less urgent at deployment time, and more painful a year later, than how volumes get carved up on a new NAS. NAS volume layout planning tends to get rushed during initial setup because teams are",
+   "image": null
+  },
+  {
+   "title": "How I Stitched Two Kubernetes Clusters Together with Karmada, HAProxy, and Azure Pipelines",
+   "link": "https://dev.to/noushad_hasan_4be85cd12d6/how-i-stitched-two-kubernetes-clusters-together-with-karmada-haproxy-and-azure-pipelines-22la",
+   "date": "2026-08-06T07:33:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "kubectl apply, Two Clusters, Zero Downtime: My Karmada + HAProxy Journey A few weeks ago I was staring at two separate Kubernetes clusters, each with its own ingress, its own deploy process, and its own quirks — and I wa",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy9pkht55hpmti3hkatkz.gif"
+  },
+  {
+   "title": "Ops Ops everywhere",
+   "link": "https://dev.to/prazian/ops-ops-everywhere-1kpp",
+   "date": "2026-08-06T07:30:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Give a term like \"system administrator\" to the marketing-loving, \"buzzword-loving\" non-technical managers; then you'll get: #DevOps #DevSecOps #GitOps #AIOps #MLOps #LLMOps #PlatformOps #CloudOps #DataOps #FinOps #SecOps",
+   "image": null
+  },
+  {
+   "title": "NAS Failover Clustering: What Active-Active Testing Actually Reveals",
+   "link": "https://dev.to/nasstorage/nas-failover-clustering-what-active-active-testing-actually-reveals-116d",
+   "date": "2026-08-06T07:29:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every storage vendor's spec sheet claims high availability, and most active-active clusters look perfect on paper. Two nodes, synchronized state, automatic failover, near-zero downtime. What separates a cluster that actu",
+   "image": null
+  },
+  {
+   "title": "The check that could not fail",
+   "link": "https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4",
+   "date": "2026-08-06T07:29:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Context There is one cheap way to ask python-semantic-release whether it will write your changelog. It answers would have written your changelog to CHANGELOG.md. It answers that for a setup that writes nothing. Mine wrot",
+   "image": null
+  },
+  {
+   "title": "ColdFusion MVC With ColdBox: Moving From Spaghetti .cfm to Testable, Modular Code",
+   "link": "https://dev.to/deepak_sir__/coldfusion-mvc-with-coldbox-moving-from-spaghetti-cfm-to-testable-modular-code-5g8m",
+   "date": "2026-08-06T07:27:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "ColdBox is the mature, conventions-based HMVC framework for ColdFusion (CFML), built by Ortus Solutions, and it’s the standard path out of tangled .cfm files where SQL, business logic, and HTML all live in one template. ",
+   "image": null
+  },
+  {
+   "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+   "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+   "date": "2026-08-06T06:04:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
+  },
+  {
+   "title": "Morpht: Customising the Drupal AI Chatbot: Settings, buttons and the Deep Chat widget",
+   "link": "https://www.morpht.com/blog/customising-drupal-ai-chatbot-settings-buttons-and-deep-chat-widget",
+   "date": "2026-08-06T04:40:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Explore the inner workings of the AI Chatbot module to customise the chat experience via hooks.",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: ignore_checksum_failure",
+   "link": "https://postgr.es/p/9rx",
+   "date": "2026-08-06T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "When data checksums catch corruption, restore from backup or fail over—unless you have neither.",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: The work that just happens: the DA Insider for July 2026",
+   "link": "https://www.drupal.org/association/blog/the-work-that-just-happens-the-da-insider-for-july-2026",
+   "date": "2026-08-06T00:34:13.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This post is adapted from the DA Insider, the Drupal Association's monthly newsletter. Subscribe here to get it in your inbox each month. A note from our interim CEO Dear Drupal community, Open source hums along on the w",
+   "image": null
+  },
+  {
+   "title": "An AI model from Meta also hacked another company during testing",
+   "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+   "date": "2026-08-06T00:25:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybers",
+   "image": null
+  },
   {
    "title": "Introducing Muse Code and Muse Spark 1.2",
    "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
@@ -12,56 +142,6 @@
    "image": null
   },
   {
-   "title": "When Your VPS Never Had the Resources It Was Sold With",
-   "link": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
-   "date": "2026-08-05T23:58:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel needs IPv4, so I upgraded to the next tier: 2 vCPU, 2 GB RAM, 20 GB SSD, one IPv4 address. What followed was two separat",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0c4wljx0k64gybq6qz7w.png"
-  },
-  {
-   "title": "Decoupling AI Influencer Compute: ShadowSocial's Zero-Idle-RAM Queueing with Burstable ECS & Qwen-Max Orchestration",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/decoupling-ai-influencer-compute-shadowsocials-zero-idle-ram-queueing-with-burstable-ecs--4n39",
-   "date": "2026-08-05T23:48:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Right, let's talk about how we're actually doing this AI influencer stuff at ShadowSocial, specifically around managing the compute. This isn't some hand-wavy marketing spiel. We faced a pretty gnarly problem: how do you",
-   "image": null
-  },
-  {
-   "title": "Hyper-Converged AI Influence: ShadowSocial's Caddy-Proxied, Zero-Idle Qwen-Max/Wan 2.1 Micro-Burst Architecture",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/hyper-converged-ai-influence-shadowsocials-caddy-proxied-zero-idle-qwen-maxwan-21-micro-burst-4pmf",
-   "date": "2026-08-05T23:48:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Right, so we've been running into some interesting challenges with AI media generation at ShadowSocial.io. Specifically, getting Qwen-Max and Wan 2.1 to play nice in a hyper-converged, zero-idle setup, especially when yo",
-   "image": null
-  },
-  {
-   "title": "ShadowSocial's Burstable ECS: Hyper-Optimizing AI Influencer Compute with Zero-Idle-RAM Queueing and Qwen-Max Fusion",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-burstable-ecs-hyper-optimizing-ai-influencer-compute-with-zero-idle-ram-queueing-4njd",
-   "date": "2026-08-05T23:45:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Right, let's talk about how ShadowSocial handles AI influencer compute. We're dealing with some serious demands for media generation and distribution, and it's not a simple \"spin up a VM\" problem. Our core solution revol",
-   "image": null
-  },
-  {
-   "title": "ShadowSocial's Qwen-Max/Wan 2.1 Latency Optimization: Zero-Idle-RAM Queueing for Hyper-Efficient AI Influencer Video Synthesis",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-qwen-maxwan-21-latency-optimization-zero-idle-ram-queueing-for-hyper-efficient-ai-e8f",
-   "date": "2026-08-05T23:45:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Right, so we've been pushing hard on the AI video synthesis front, specifically for our influencer platform. The core challenge, as many of you know, is latency. Generating high-quality video from models like Qwen-Max or",
-   "image": null
-  },
-  {
    "title": "Third-party cyber evaluations involving OpenAI models",
    "link": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
    "date": "2026-08-05T23:45:32.000Z",
@@ -69,36 +149,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my",
-   "image": null
-  },
-  {
-   "title": "Incident Command: The Skills They Don't Teach You",
-   "link": "https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-4j9l",
-   "date": "2026-08-05T23:42:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Running a production incident is a skill. Most of the skill isn't technical. Here's what nobody told me when I started running incidents. During an incident, time warps. Everyone is heads-down in logs. Nobody remembers w",
-   "image": null
-  },
-  {
-   "title": "When Shipping Gets Cheap, Deciding Gets Expensive: Guardrails for AI-Era Cloud Costs",
-   "link": "https://dev.to/ryantsuji/when-shipping-gets-cheap-deciding-gets-expensive-guardrails-for-ai-era-cloud-costs-5g95",
-   "date": "2026-08-05T23:40:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, code references, and screenshots reflect production systems I designed and operate at airCloset; the pr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd8zztdjjbrjz79uc6lc6.png"
-  },
-  {
-   "title": "AI Memory Is Not a Trust Model for Team Knowledge",
-   "link": "https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j",
-   "date": "2026-08-05T23:33:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI memory solves a real problem: every new session starts cold. An assistant can save facts about a project, retrieve them later, and avoid asking the same questions again. That works well for personal preferences and lo",
    "image": null
   },
   {
@@ -120,6 +170,16 @@
    "source": "PortSwigger Research",
    "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
    "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
+  },
+  {
+   "title": "PreviousNext: Drupal's certified partners unite for NSW government showcase",
+   "link": "https://www.previousnext.com.au/blog/drupals-certified-partners-unite-nsw-government-showcase",
+   "date": "2026-08-05T23:21:59.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Last week, PreviousNext joined forces with fellow Drupal Certified Partners Annex, Morpht and Salsa Digital for a shared booth at the Public Sector Network's Government Innovation Showcase in NSW. We came together to sho",
+   "image": "https://www.previousnext.com.au/sites/default/files/styles/content_1x/public/2026-08/1000134542.jpg.webp?itok=yd08t1Hu"
   },
   {
    "title": "Radim Marek: The DISTINCT in your COUNT",
@@ -272,16 +332,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
   },
   {
-   "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-   "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-   "date": "2026-08-05T11:43:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication pa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
-  },
-  {
    "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
    "link": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
    "date": "2026-08-05T10:22:14.000Z",
@@ -392,16 +442,6 @@
    "image": null
   },
   {
-   "title": "llm 0.32",
-   "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-   "date": "2026-08-04T17:15:33.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.32 See my detailed blog post about this release . Tags: llm",
-   "image": null
-  },
-  {
    "title": "Jacob Rockowitz: Vibing Drupal: Choosing a model for Drupal development",
    "link": "https://www.jrockowitz.com/blog/vibing-drupal-choosing-a-model",
    "date": "2026-08-04T17:01:32.000Z",
@@ -409,16 +449,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Cost anxiety Last month, on a client project, I ran out of my monthly 10,000 Copilot Credits allotment (which costs approximately $100 USD). Limiting developers to 10,000 Copilot Credits per month is probably not enough ",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Sovereignty Takes Different Forms Across Drupal Hosting",
-   "link": "https://www.thedroptimes.com/71321/drupal-hosting-sovereignty-models?utm_source=Drupal Planet",
-   "date": "2026-08-04T15:47:39.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Data can remain in one jurisdiction while account ownership, administrator access, software dependencies, and exit control sit elsewhere.",
    "image": null
   },
   {
@@ -462,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Specbee: Is your SEO strategy missing AEO and GEO? Here’s how to keep up",
-   "link": "https://www.specbee.com/blogs/seo-strategy-aeo-geo-ai",
-   "date": "2026-08-04T11:55:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Search is no longer just about rankings. This blog breaks down how AI, AEO, and GEO are changing SEO and what you need to do to stay ahead.",
-   "image": null
-  },
-  {
    "title": "Building an Endless Interactive Glass Xylophone with Three.js",
    "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
    "date": "2026-08-04T10:58:37.000Z",
@@ -479,16 +499,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A scrolling helix of frosted glass bars that ring as you sweep across them, built in Three.js with instancing, a fluid simulation, and glass faked entirely in the shader.",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Decoupled Days 2026 Speakers Preview AI, Content Models, and Neurodiversity",
-   "link": "https://www.thedroptimes.com/71524/decoupled-days-2026-speaker-preview?utm_source=Drupal Planet",
-   "date": "2026-08-04T05:58:30.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "AI may accelerate output, but the featured speakers are looking at the content structures, application design, development processes, and working conditions that surround its use.",
    "image": null
   },
   {
@@ -520,6 +530,16 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
+  },
+  {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
   },
   {
    "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
@@ -572,16 +592,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout",
-   "link": "https://postgr.es/p/9r9",
-   "date": "2026-08-03T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Idle transactions hold locks and block vacuums, turning one forgotten connection into a cascading outage.",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1022 (July 27 – August 2, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1022-july-27-august-2-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-02T07:02:00.000Z",
@@ -599,6 +609,26 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -912,6 +942,16 @@
    "image": null
   },
   {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -952,13 +992,23 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a73b8dd87a81853407731/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a74242c7e1ac207456840/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -989,6 +1039,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-14T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
@@ -1079,6 +1139,26 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
+   "image": null
+  },
+  {
+   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
+   "link": "https://css-tricks.com/whats-important-14/",
+   "date": "2026-06-30T13:54:14.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
+   "image": null
+  },
+  {
+   "title": "The Shifting Line Between CSS States and JavaScript Events",
+   "link": "https://css-tricks.com/css-states-and-javascript-events/",
+   "date": "2026-06-29T13:03:32.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
    "image": null
   },
   {
