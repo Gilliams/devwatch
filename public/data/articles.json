@@ -1,85 +1,185 @@
 {
- "generatedAt": "2026-08-05T18:46:33.662Z",
+ "generatedAt": "2026-08-06T00:08:55.143Z",
  "articles": [
   {
-   "title": "I tried using an AI agent to set up a fresh Windows PC and Reddit was right about Ninite",
-   "link": "https://dev.to/lars_winstand/i-tried-using-an-ai-agent-to-set-up-a-fresh-windows-pc-and-reddit-was-right-about-ninite-37da",
-   "date": "2026-08-05T18:34:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I tried the obvious nerd experiment on a fresh Windows machine: let an AI agent handle setup. It looked clever for about two minutes. Then I watched OpenClaw get stuck on installer checkboxes, pause on modal windows, and",
+   "title": "Introducing Muse Code and Muse Spark 1.2",
+   "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+   "date": "2026-08-05T23:58:35.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that",
    "image": null
   },
   {
-   "title": "How to Self-Host n8n: A Complete Beginner's Guide (2026)",
-   "link": "https://dev.to/ali_ilyas/how-to-self-host-n8n-a-complete-beginners-guide-2026-412f",
-   "date": "2026-08-05T18:19:46.000Z",
+   "title": "When Your VPS Never Had the Resources It Was Sold With",
+   "link": "https://dev.to/pascal_cescato_692b7a8a20/when-your-vps-never-had-the-resources-it-was-sold-with-302o",
+   "date": "2026-08-05T23:58:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published at noderecipe.com. Self-hosting n8n gives you unlimited workflow executions, full ownership of your data, and no per-task fees — all for the cost of a small server (about $5/month). This guide takes ",
+   "summary": "I needed a VPS to run CyberPanel. Simple enough: 1 vCPU, 1 GB RAM, 10 GB SSD, IPv6 only. CyberPanel needs IPv4, so I upgraded to the next tier: 2 vCPU, 2 GB RAM, 20 GB SSD, one IPv4 address. What followed was two separat",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0c4wljx0k64gybq6qz7w.png"
+  },
+  {
+   "title": "Decoupling AI Influencer Compute: ShadowSocial's Zero-Idle-RAM Queueing with Burstable ECS & Qwen-Max Orchestration",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/decoupling-ai-influencer-compute-shadowsocials-zero-idle-ram-queueing-with-burstable-ecs--4n39",
+   "date": "2026-08-05T23:48:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Right, let's talk about how we're actually doing this AI influencer stuff at ShadowSocial, specifically around managing the compute. This isn't some hand-wavy marketing spiel. We faced a pretty gnarly problem: how do you",
    "image": null
   },
   {
-   "title": "Lessons from migrating a production Rails API from Render to Railway",
-   "link": "https://dev.to/johnbuilds/lessons-from-migrating-a-production-rails-api-from-render-to-railway-262i",
-   "date": "2026-08-05T18:16:34.000Z",
+   "title": "Hyper-Converged AI Influence: ShadowSocial's Caddy-Proxied, Zero-Idle Qwen-Max/Wan 2.1 Micro-Burst Architecture",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/hyper-converged-ai-influence-shadowsocials-caddy-proxied-zero-idle-qwen-maxwan-21-micro-burst-4pmf",
+   "date": "2026-08-05T23:48:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Moved a production Rails API from Render to Railway recently. Web service, Solid Queue worker, Postgres 18. Here are the lessons worth stealing, whichever direction you're migrating. Suspending costs nothing and it is th",
+   "summary": "Right, so we've been running into some interesting challenges with AI media generation at ShadowSocial.io. Specifically, getting Qwen-Max and Wan 2.1 to play nice in a hyper-converged, zero-idle setup, especially when yo",
    "image": null
   },
   {
-   "title": "AI Agent Credential Rotation Without Downtime: Keeping In-Flight Communication Alive",
-   "link": "https://dev.to/pstayet/ai-agent-credential-rotation-without-downtime-keeping-in-flight-communication-alive-2bol",
-   "date": "2026-08-05T18:11:19.000Z",
+   "title": "ShadowSocial's Burstable ECS: Hyper-Optimizing AI Influencer Compute with Zero-Idle-RAM Queueing and Qwen-Max Fusion",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-burstable-ecs-hyper-optimizing-ai-influencer-compute-with-zero-idle-ram-queueing-4njd",
+   "date": "2026-08-05T23:45:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your agent has been talking to a peer for six hours. There are in-flight requests, a signing key, an API token, and a long-lived tunnel that peers discovered through NAT. Security says: rotate everything by Friday. You s",
+   "summary": "Right, let's talk about how ShadowSocial handles AI influencer compute. We're dealing with some serious demands for media generation and distribution, and it's not a simple \"spin up a VM\" problem. Our core solution revol",
    "image": null
   },
   {
-   "title": "An Agent That Publishes Unattended Needs Nine Deterministic Gates, Not a Second Model Reviewing Its Output",
-   "link": "https://dev.to/nekoaineko/an-agent-that-publishes-unattended-needs-nine-deterministic-gates-not-a-second-model-reviewing-its-ah0",
-   "date": "2026-08-05T18:00:27.000Z",
+   "title": "ShadowSocial's Qwen-Max/Wan 2.1 Latency Optimization: Zero-Idle-RAM Queueing for Hyper-Efficient AI Influencer Video Synthesis",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-qwen-maxwan-21-latency-optimization-zero-idle-ram-queueing-for-hyper-efficient-ai-e8f",
+   "date": "2026-08-05T23:45:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An Agent That Publishes Unattended Needs Nine Deterministic Gates, Not a Second Model Reviewing Its Output Freelancers often rely on automation to handle repetitive and time-consuming tasks, such as scheduling posts, ren",
+   "summary": "Right, so we've been pushing hard on the AI video synthesis front, specifically for our influencer platform. The core challenge, as many of you know, is latency. Generating high-quality video from models like Qwen-Max or",
    "image": null
   },
   {
-   "title": "PagerDuty vs Vigilmon: Incident Management vs Uptime Monitoring - What is the Difference",
-   "link": "https://dev.to/vigilmon/pagerduty-vs-vigilmon-incident-management-vs-uptime-monitoring-what-is-the-difference-dh8",
-   "date": "2026-08-05T17:37:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "PagerDuty vs Vigilmon: Incident Management vs Uptime Monitoring PagerDuty and Vigilmon both live in the \"keep your systems up\" space, but they solve different problems and operate at different points in the incident life",
+   "title": "Third-party cyber evaluations involving OpenAI models",
+   "link": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+   "date": "2026-08-05T23:45:32.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my",
    "image": null
   },
   {
-   "title": "Sentry vs Vigilmon: Error Monitoring vs Uptime Monitoring - When to Use Each",
-   "link": "https://dev.to/vigilmon/sentry-vs-vigilmon-error-monitoring-vs-uptime-monitoring-when-to-use-each-3f4b",
-   "date": "2026-08-05T17:36:30.000Z",
+   "title": "Incident Command: The Skills They Don't Teach You",
+   "link": "https://dev.to/samson_tanimawo/incident-command-the-skills-they-dont-teach-you-4j9l",
+   "date": "2026-08-05T23:42:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Sentry vs Vigilmon: Error Monitoring vs Uptime Monitoring - When to Use Each Sentry and Vigilmon both monitor your applications, but they answer fundamentally different questions. Understanding the distinction helps you ",
+   "summary": "Running a production incident is a skill. Most of the skill isn't technical. Here's what nobody told me when I started running incidents. During an incident, time warps. Everyone is heads-down in logs. Nobody remembers w",
    "image": null
   },
   {
-   "title": "Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications",
-   "link": "https://dev.to/vigilmon/laravel-application-monitoring-with-vigilmon-health-checks-for-php-applications-2nmf",
-   "date": "2026-08-05T17:35:51.000Z",
+   "title": "When Shipping Gets Cheap, Deciding Gets Expensive: Guardrails for AI-Era Cloud Costs",
+   "link": "https://dev.to/ryantsuji/when-shipping-gets-cheap-deciding-gets-expensive-guardrails-for-ai-era-cloud-costs-5g95",
+   "date": "2026-08-05T23:40:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Laravel Application Monitoring with Vigilmon: Health Checks for PHP Applications Laravel is the most popular PHP framework for web applications. Whether you're running a SaaS, e-commerce platform, or API backend, externa",
+   "summary": "AI assistance disclosure: This article was drafted with the help of Claude. All technical content, design decisions, code references, and screenshots reflect production systems I designed and operate at airCloset; the pr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd8zztdjjbrjz79uc6lc6.png"
+  },
+  {
+   "title": "AI Memory Is Not a Trust Model for Team Knowledge",
+   "link": "https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j",
+   "date": "2026-08-05T23:33:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AI memory solves a real problem: every new session starts cold. An assistant can save facts about a project, retrieve them later, and avoid asking the same questions again. That works well for personal preferences and lo",
    "image": null
+  },
+  {
+   "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+   "link": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+   "date": "2026-08-05T23:32:06.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with",
+   "image": null
+  },
+  {
+   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
+   "date": "2026-08-05T23:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
+   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
+  },
+  {
+   "title": "Radim Marek: The DISTINCT in your COUNT",
+   "link": "https://postgr.es/p/9rw",
+   "date": "2026-08-05T21:00:52.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Here is a query that shows up in every analytics workload: SELECT count(DISTINCT user_id) FROM events; It looks like the cheapest possible thing: count the distinct users. On a machine with cores to spare you would expec",
+   "image": null
+  },
+  {
+   "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+   "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+   "date": "2026-08-05T19:42:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude C",
+   "image": null
+  },
+  {
+   "title": "Can AI do novel security research? Meet the HTTP Terminator",
+   "link": "https://portswigger.net/research/http-terminator",
+   "date": "2026-08-05T19:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
+   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
+  },
+  {
+   "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+   "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+   "date": "2026-08-05T18:44:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had b",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
+  },
+  {
+   "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+   "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+   "date": "2026-08-05T18:33:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
+  },
+  {
+   "title": "LakeDrops Drupal Consulting, Development and Hosting: Why I Use OpenCode as My AI Harness",
+   "link": "https://www.lakedrops.com/en/blog/why-i-use-opencode-my-ai-harness",
+   "date": "2026-08-05T16:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Why I Use OpenCode as My AI Harness Jürgen Haas Wed 5 Aug 2026 - 18:30 This article explains why I use OpenCode as the stable local harness around replaceable remote AI models. The core distinction is simple: my agents, ",
+   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-08/frederic-koberl-2836IR07ocg-unsplash.jpg?h=8a65506b&amp;itok=3Id93vSf"
   },
   {
    "title": "Christophe Pettus: Ontogeny Recapitulates the Relcache",
@@ -180,26 +280,6 @@
    "source": "The Hacker News",
    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication pa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
-  },
-  {
-   "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-   "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-   "date": "2026-08-05T11:04:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafte",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
-  },
-  {
-   "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-   "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-   "date": "2026-08-05T10:35:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
   },
   {
    "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
@@ -422,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Drupal Association blog: Drupal Association 2025 Audit and Financial Overview",
-   "link": "https://www.drupal.org/association/blog/drupal-association-2025-audit-and-financial-overview",
-   "date": "2026-08-04T02:26:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "When I took on the role of Interim CEO, I committed to being direct about our finances and noted that our earlier audits already told much of the story. The board has now released our 2025 audit report, which was provide",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: idle_replication_slot_timeout",
    "link": "https://postgr.es/p/9rc",
    "date": "2026-08-04T01:00:00.000Z",
@@ -439,36 +509,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Replication slots promise to keep WAL forever—until PostgreSQL 18's new `idle_replication_slot_timeout` puts an expiration date on abandoned ones before they…",
-   "image": null
-  },
-  {
-   "title": "Quoting Steve Yegge",
-   "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-   "date": "2026-08-04T00:42:45.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the ",
-   "image": null
-  },
-  {
-   "title": "Don't be a meat proxy",
-   "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-   "date": "2026-08-03T23:45:04.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Don&#x27;t be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. ",
-   "image": null
-  },
-  {
-   "title": "Quoting David Crawshaw's prompt",
-   "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-   "date": "2026-08-03T16:15:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the &lt;software&gt; and rebase all local changes on top of upstream. Check that the software works as intended and replace the current versio",
    "image": null
   },
   {
@@ -482,16 +522,6 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
    "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
    "link": "https://postgr.es/p/9ra",
    "date": "2026-08-03T15:33:25.000Z",
@@ -499,16 +529,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "“The database is locked up.” We heard some version of that sentence more than once this past week, from the same team, about what looked like the same problem. It was not the same problem. Once, Postgres had genuinely st",
-   "image": null
-  },
-  {
-   "title": "Devtools must be open source (exe.dev)",
-   "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-   "date": "2026-08-03T15:30:38.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My comment on Devtools must be open source (exe.dev) &mdash; Hacker News. One of the arguments for open source software for end-users has always been the freedom to examine and modify how that software works. The reality",
    "image": null
   },
   {
@@ -572,16 +592,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: ident_file",
-   "link": "https://postgr.es/p/9r8",
-   "date": "2026-08-02T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "ident_file tells the server where pg_ident.conf lives, but when it's wrong, the server just logs a quiet failure and keeps running.",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37 Sneak Peek",
    "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
    "date": "2026-07-31T16:00:00.000Z",
@@ -589,26 +599,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
-  },
-  {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-31T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -922,16 +912,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -972,23 +952,13 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": null
-  },
-  {
    "title": "PostgreSQL Meta Commands that save time every day",
    "link": "https://www.percona.com/blog/postgresql-meta-commands-that-save-time-every-day/",
    "date": "2026-07-15T12:44:13.000Z",
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a73806696d11874999417/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a73b8dd87a81853407731/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
@@ -1019,16 +989,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-14T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
@@ -1119,26 +1079,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
-   "image": null
-  },
-  {
-   "title": "What’s !important #14: Gap Decorations, random(), <select> field-sizing, and More",
-   "link": "https://css-tricks.com/whats-important-14/",
-   "date": "2026-06-30T13:54:14.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss! What’s !import",
-   "image": null
-  },
-  {
-   "title": "The Shifting Line Between CSS States and JavaScript Events",
-   "link": "https://css-tricks.com/css-states-and-javascript-events/",
-   "date": "2026-06-29T13:03:32.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
    "image": null
   },
   {
