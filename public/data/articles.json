@@ -1,95 +1,195 @@
 {
- "generatedAt": "2026-08-06T07:47:51.552Z",
+ "generatedAt": "2026-08-06T13:02:43.216Z",
  "articles": [
   {
-   "title": "Golden Paths Aren't About Standardization. They're About Reducing Developer Decisions.",
-   "link": "https://dev.to/vertro/golden-paths-arent-about-standardization-theyre-about-reducing-developer-decisions-5dn7",
-   "date": "2026-08-06T07:39:48.000Z",
+   "title": "How to Turn Any Android Tablet into a Production-Grade Dev Rig in 5 Minutes. Published in #developer #android #terminal #productivity",
+   "link": "https://dev.to/ahmedpokey/how-to-turn-any-android-tablet-into-a-production-grade-dev-rig-in-5-minutes-published-in-5hf0",
+   "date": "2026-08-06T12:50:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Golden Paths aren't about forcing every team to work the same way. They're about removing repetitive infrastructure decisions so developers can focus on building software while platform teams ensure consistency, se",
+   "summary": "If you've ever tried coding on an iPad, Galaxy Tab, or Chromebook, you know the frustration: Standard desktop tutorials assume a Mac or high-spec Linux laptop. What is DevDock? Instead of fighting configuration files, on",
    "image": null
   },
   {
-   "title": "Best One Way Drop Taxi – Affordable & Comfortable One Way Cab Booking",
-   "link": "https://dev.to/drop_taxi_a07001bdcf9b9d1/best-one-way-drop-taxi-affordable-comfortable-one-way-cab-booking-3dbj",
-   "date": "2026-08-06T07:38:57.000Z",
+   "title": "I made stale coding-agent context fail CI instead of failing silently",
+   "link": "https://dev.to/agentskit/i-made-stale-coding-agent-context-fail-ci-instead-of-failing-silently-3434",
+   "date": "2026-08-06T12:50:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Traveling between cities has become easier with professional one way taxi services. Instead of paying for a round trip, travelers can choose a convenient one-way cab option and save money. A reliable taxi provider offers",
+   "summary": "A coding agent with no context usually hesitates, searches, or asks a question. A coding agent with stale context can be much more confident. That is the dangerous case. The file still exists. The instructions look delib",
    "image": null
   },
   {
-   "title": "NAS Volume Layout Planning: Why Redesigning After Year One Always Hurts More",
-   "link": "https://dev.to/nasstorage/nas-volume-layout-planning-why-redesigning-after-year-one-always-hurts-more-1j63",
-   "date": "2026-08-06T07:38:52.000Z",
+   "title": "Stop retrying privacy fixes on every deploy 🛡️",
+   "link": "https://dev.to/upsun/stop-retrying-privacy-fixes-on-every-deploy-2j63",
+   "date": "2026-08-06T12:46:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Few storage decisions feel less urgent at deployment time, and more painful a year later, than how volumes get carved up on a new NAS. NAS volume layout planning tends to get rushed during initial setup because teams are",
+   "summary": "Rebuilding basic privacy and security controls for every new service is an absolute grind. When compliance is an afterthought, engineering teams end up stuck in endless manual reviews, rebuilding identity systems, and sc",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D1015%26type%3Dblog-posts%26size%3Dsocial"
+  },
+  {
+   "title": "Deconstructing ShadowSocial's Qwen-Max to Wan 2.1 Pipeline: Latency Engineering with Zero-Idle-RAM and Caddy's Edge Caching for Likeness Lock v2.4",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/deconstructing-shadowsocials-qwen-max-to-wan-21-pipeline-latency-engineering-with-zero-idle-ram-19i2",
+   "date": "2026-08-06T12:39:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Deconstructing ShadowSocial's Qwen-Max to Wan 2.1 Pipeline: Latency Engineering with Zero-Idle-RAM and Caddy's Edge Caching for Likeness Lock v2.4 Building AI media generation and distribution systems that don't feel lik",
    "image": null
   },
   {
-   "title": "How I Stitched Two Kubernetes Clusters Together with Karmada, HAProxy, and Azure Pipelines",
-   "link": "https://dev.to/noushad_hasan_4be85cd12d6/how-i-stitched-two-kubernetes-clusters-together-with-karmada-haproxy-and-azure-pipelines-22la",
-   "date": "2026-08-06T07:33:33.000Z",
+   "title": "The Easiest Way to Buying Old Snapchat Accounts -Blog",
+   "link": "https://dev.to/khachuannguyen4sgqr/the-easiest-way-to-buying-old-snapchat-accounts-blog-1k10",
+   "date": "2026-08-06T12:36:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "kubectl apply, Two Clusters, Zero Downtime: My Karmada + HAProxy Journey A few weeks ago I was staring at two separate Kubernetes clusters, each with its own ingress, its own deploy process, and its own quirks — and I wa",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy9pkht55hpmti3hkatkz.gif"
-  },
-  {
-   "title": "Ops Ops everywhere",
-   "link": "https://dev.to/prazian/ops-ops-everywhere-1kpp",
-   "date": "2026-08-06T07:30:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Give a term like \"system administrator\" to the marketing-loving, \"buzzword-loving\" non-technical managers; then you'll get: #DevOps #DevSecOps #GitOps #AIOps #MLOps #LLMOps #PlatformOps #CloudOps #DataOps #FinOps #SecOps",
+   "summary": "Why You Should Buy an Old Snapchat Account 💫💎💲💫🌐✨💎WhatsApp :+1 (506) 541-7768 💫💎💲💫🌐✨💎Telegram: @usadigitalhub 💫💎💲💫🌐✨💎Discord: usadigitalhub 💫💎💲💫🌐✨💎Email:usadigitalhubsell@gmail.com 💫💎💲💫🌐✨💎Co",
    "image": null
   },
   {
-   "title": "NAS Failover Clustering: What Active-Active Testing Actually Reveals",
-   "link": "https://dev.to/nasstorage/nas-failover-clustering-what-active-active-testing-actually-reveals-116d",
-   "date": "2026-08-06T07:29:27.000Z",
+   "title": "Vibhor Kumar: ORBIT: An Execution Framework for Reliable Enterprise AI",
+   "link": "https://postgr.es/p/9rB",
+   "date": "2026-08-06T12:35:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Why AI Reliability Is an Execution Problem, Not a Model Problem The most dangerous AI decision isn’t the wrong one. It’s the one nobody can explain afterward. Most conversations about AI reliability start in the wrong pl",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image.png?w=1024"
+  },
+  {
+   "title": "Cybersecurity Meets Patient Safety: Building an ECG STRIDE Threat Model",
+   "link": "https://dev.to/sujalavnelavai/cybersecurity-meets-patient-safety-building-an-ecg-stride-threat-model-4kbf",
+   "date": "2026-08-06T12:29:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every storage vendor's spec sheet claims high availability, and most active-active clusters look perfect on paper. Two nodes, synchronized state, automatic failover, near-zero downtime. What separates a cluster that actu",
+   "summary": "**The purpose of this light version threat model is to demonstrate how STRIDE can be applied to an ECG device. It is intended for readers learning system decomposition and threat modelling techniques. The example include",
    "image": null
   },
   {
-   "title": "The check that could not fail",
-   "link": "https://dev.to/nazarii-ahapevych/the-check-that-could-not-fail-55n4",
-   "date": "2026-08-06T07:29:16.000Z",
+   "title": "ShadowSocial.io's Qwen-Max to Wan 2.1 Pipeline: Zero-Idle-RAM Queueing and Burstable ECS for Latency-Agnostic AI Influencer Synthesis",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialios-qwen-max-to-wan-21-pipeline-zero-idle-ram-queueing-and-burstable-ecs-for-2inf",
+   "date": "2026-08-06T12:24:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Context There is one cheap way to ask python-semantic-release whether it will write your changelog. It answers would have written your changelog to CHANGELOG.md. It answers that for a setup that writes nothing. Mine wrot",
+   "summary": "ShadowSocial.io's Qwen-Max to Wan 2.1 Pipeline: Zero-Idle-RAM Queueing and Burstable ECS for Latency-Agnostic AI Influencer Synthesis The core challenge at ShadowSocial.io isn't just running a large language model like Q",
    "image": null
   },
   {
-   "title": "ColdFusion MVC With ColdBox: Moving From Spaghetti .cfm to Testable, Modular Code",
-   "link": "https://dev.to/deepak_sir__/coldfusion-mvc-with-coldbox-moving-from-spaghetti-cfm-to-testable-modular-code-5g8m",
-   "date": "2026-08-06T07:27:24.000Z",
+   "title": "ShadowSocial's Qwen-Max/WAN 2.1 Synergy: Orchestrating Likeness Lock v2.4 with Zero-Idle-RAM Queues on Burstable ECS via Caddy Edge Routing",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocials-qwen-maxwan-21-synergy-orchestrating-likeness-lock-v24-with-zero-idle-ram-queues-2k00",
+   "date": "2026-08-06T12:09:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ColdBox is the mature, conventions-based HMVC framework for ColdFusion (CFML), built by Ortus Solutions, and it’s the standard path out of tangled .cfm files where SQL, business logic, and HTML all live in one template. ",
+   "summary": "ShadowSocial's Qwen-Max/WAN 2.1 Integration: Orchestrating Likeness Lock v2.4 with Zero-Idle-RAM Queues on Burstable ECS via Caddy Edge Routing The AI media generation and distribution pipeline at ShadowSocial.io is a be",
    "image": null
   },
   {
-   "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-   "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-   "date": "2026-08-06T06:04:30.000Z",
+   "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+   "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+   "date": "2026-08-06T11:49:48.000Z",
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
+   "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg"
+  },
+  {
+   "title": "Gabriele Bartolini: CNPG Recipe 26 - Extension image catalogs",
+   "link": "https://postgr.es/p/9rz",
+   "date": "2026-08-06T11:48:58.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "CloudNativePG lets the ClusterImageCatalog carry extension images alongside the operand, a capability every currently supported release already has, so a Cluster manifest only needs to name an extension and nothing else.",
+   "image": null
+  },
+  {
+   "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+   "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+   "date": "2026-08-06T11:33:08.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg"
+  },
+  {
+   "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+   "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+   "date": "2026-08-06T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg"
+  },
+  {
+   "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+   "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+   "date": "2026-08-06T09:19:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg"
+  },
+  {
+   "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+   "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+   "date": "2026-08-06T08:57:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNMtOKfZBxSDQ1928IVtFay3f8_6go4rnTY6yFaQYCzAdGt3e6uBkZfZkoFtHbS_cEbTCri3ZNVVO7BbuvoVpjGCLSpdphneotNbiXRT3vciQT6dzPa0K81_ee8Al2rxx7GlT5qTS3_B2MKjCCUcHut1pdIeqaLBRjoD5ZqttMcHxZ5AwKea3eL-wruta7/s1600/agent-sdk.jpg"
+  },
+  {
+   "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+   "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+   "date": "2026-08-06T08:05:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmwa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3VqhMa79pNymspvzHhSpHG4HCDAGn4nAD-7ZwQgDuSOELhM0xxHASqfnd2ThEv8XJ0tM58bPsGPHcobfoaEEWW4Am9H-Wd9bpb-QqYRQfFcFKrvbLjwEGYu0VfIAclBcVn9PpMWS02ZAtOa7hhwg8e45cYcgYYX0C1_yQptZh7-ZvqFHpf-9uqq5csbCj/s1600/router-hacking.jpg"
+  },
+  {
+   "title": "The Drop Times: EU Open Source Strategy Backs Public Code With Procurement and Maintenance Measures",
+   "link": "https://www.thedroptimes.com/71489/eu-open-source-procurement-security-maintenance?utm_source=Drupal Planet",
+   "date": "2026-08-06T07:59:31.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The European Commission wants public bodies to become stronger users and contributors to open source, supported by fairer procurement, maintenance funding, security measures and long-term stewardship.",
+   "image": null
+  },
+  {
+   "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+   "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+   "date": "2026-08-06T07:19:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 202",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsIRDdzzjtJRcq3kiouQy7I8wwCFvWIKA5VHAKEVdGC2OJL3WCGnKPZUvAHUi-Jrz9yLN5pfTtS0QI8MRUuSbGOlbg_3jNktHGZSb4wsOKvjcwehZYqL671hB0UgjVjUPnKju5QFDO4BXhjePhJuvGDw_mJs1scXXI_veItNxCej7uEwjKfTHzc9Nkm90/s1600/Ransom-Cartel.jpg"
+  },
+  {
+   "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+   "date": "2026-08-06T06:51:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnera",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
   },
   {
    "title": "Morpht: Customising the Drupal AI Chatbot: Settings, buttons and the Deep Chat widget",
@@ -212,26 +312,6 @@
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
-   "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-   "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-   "date": "2026-08-05T18:44:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had b",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
-  },
-  {
-   "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-   "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-   "date": "2026-08-05T18:33:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
-  },
-  {
    "title": "LakeDrops Drupal Consulting, Development and Hosting: Why I Use OpenCode as My AI Harness",
    "link": "https://www.lakedrops.com/en/blog/why-i-use-opencode-my-ai-harness",
    "date": "2026-08-05T16:30:00.000Z",
@@ -262,36 +342,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-zed-official.png"
   },
   {
-   "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-   "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-   "date": "2026-08-05T15:36:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such servic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
-  },
-  {
-   "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-   "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-   "date": "2026-08-05T15:14:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both pat",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
-  },
-  {
-   "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-   "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-   "date": "2026-08-05T14:27:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's con",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
-  },
-  {
    "title": "The Drop Times: Helge Notø Makes Open-Source Stewardship a Focus of Board Candidacy",
    "link": "https://www.thedroptimes.com/interview/71509/helge-noto-ai-contribution-drupal-stewardship?utm_source=Drupal Planet",
    "date": "2026-08-05T13:57:14.000Z",
@@ -302,16 +352,6 @@
    "image": null
   },
   {
-   "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-   "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-   "date": "2026-08-05T13:41:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg"
-  },
-  {
    "title": "New in Twig 4.0: A First-Class Sandbox",
    "link": "https://symfony.com/blog/new-in-twig-4-0-a-first-class-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-05T12:09:00.000Z",
@@ -320,16 +360,6 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
    "image": "https://github.com/fabpot.png"
-  },
-  {
-   "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-   "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-   "date": "2026-08-05T11:43:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for rou",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
   },
   {
    "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
@@ -442,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Jacob Rockowitz: Vibing Drupal: Choosing a model for Drupal development",
-   "link": "https://www.jrockowitz.com/blog/vibing-drupal-choosing-a-model",
-   "date": "2026-08-04T17:01:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Cost anxiety Last month, on a client project, I ran out of my monthly 10,000 Copilot Credits allotment (which costs approximately $100 USD). Limiting developers to 10,000 Copilot Credits per month is probably not enough ",
-   "image": null
-  },
-  {
    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
    "date": "2026-08-04T13:58:29.000Z",
@@ -512,16 +532,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: idle_replication_slot_timeout",
-   "link": "https://postgr.es/p/9rc",
-   "date": "2026-08-04T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Replication slots promise to keep WAL forever—until PostgreSQL 18's new `idle_replication_slot_timeout` puts an expiration date on abandoned ones before they…",
-   "image": null
-  },
-  {
    "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
    "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
    "date": "2026-08-03T16:00:00.000Z",
@@ -539,16 +549,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
-   "title": "Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart",
-   "link": "https://postgr.es/p/9ra",
-   "date": "2026-08-03T15:33:25.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "“The database is locked up.” We heard some version of that sentence more than once this past week, from the same team, about what looked like the same problem. It was not the same problem. Once, Postgres had genuinely st",
    "image": null
   },
   {
@@ -1008,7 +1008,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a74242c7e1ac207456840/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a7477fba098a889333135/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
