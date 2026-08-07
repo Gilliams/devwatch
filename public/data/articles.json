@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-08-07T06:16:24.284Z",
+ "generatedAt": "2026-08-07T11:54:21.681Z",
  "articles": [
   {
-   "title": "Agents IA autonomes : ce qu&#x27;ils font vraiment, ce que j&#x27;utilise: field controls that hold",
-   "link": "https://dev.to/isabelle_dubuis_d858453d7/agents-ia-autonomes-ce-qux27ils-font-vraiment-ce-que-jx27utilise-field-controls-that-hold-924",
-   "date": "2026-08-07T06:06:38.000Z",
+   "title": "Email Deliverability: Why IP Reputation Matters More Than Content",
+   "link": "https://dev.to/e_servers/email-deliverability-why-ip-reputation-matters-more-than-content-glm",
+   "date": "2026-08-07T11:50:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Agents IA autonomes : ce qu'ils font vraiment, ce que j'utilise should not be treated as filler content. The real risk is not a shortage of ideas; it is publishing a piece that mixes judgement, unsupported numbers, and m",
+   "summary": "You can write the perfect email — clean copy, real value, a list of people who actually want to hear from you — and still watch it land in a spam folder nobody checks. Most of the time, the reason has nothing to do with ",
    "image": null
   },
   {
-   "title": "The eval illusion: why passing tests doesn't mean safe in production",
-   "link": "https://dev.to/opsveritas/the-eval-illusion-why-passing-tests-doesnt-mean-safe-in-production-11h1",
-   "date": "2026-08-07T06:04:18.000Z",
+   "title": "Add a streaming sidecar so kubectl logs can see a legacy app (CKA)",
+   "link": "https://dev.to/thecybersidekick/add-a-streaming-sidecar-so-kubectl-logs-can-see-a-legacy-app-cka-hed",
+   "date": "2026-08-07T11:50:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You built an AI agent. The reasoning holds up — your eval suite checks that it picks the right tool for each task, chains them logically, recovers from a bad step. Scores are high. You ship it. Three days later, a custom",
+   "summary": "Add a streaming sidecar so kubectl logs can see a legacy app (CKA) Here is a pod that is perfectly healthy, doing real work, and completely silent as far as Kubernetes is concerned. kubectl logs returns nothing at all. T",
    "image": null
   },
   {
-   "title": "Build a Canary Deployment System with Python",
-   "link": "https://dev.to/qingluan/build-a-canary-deployment-system-with-python-3pph",
-   "date": "2026-08-07T06:00:08.000Z",
+   "title": "Artifacts & Registries: Where Your Builds Live",
+   "link": "https://dev.to/sri2614/artifacts-registries-where-your-builds-live-5ddk",
+   "date": "2026-08-07T11:50:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a Canary Deployment System with Python tags: python, devops, deployment, tutorial tags: python, architecture, tutorial, advanced tags: python, git, devops, tools tags: python, git, devops, tools tags: python, devop",
+   "summary": "⚡ TL;DR: Learn what your pipeline actually produces and where it lives: immutable build artifacts, meaningful version tags (and why latest is a trap), how registries work, and the build-once-promote-many pattern. Your pi",
    "image": null
   },
   {
-   "title": "Deploy TensorRT-LLM on NVIDIA H100 & RTX 6000 — Step-by-Step Tutorial",
-   "link": "https://dev.to/gpuyard/deploy-tensorrt-llm-on-nvidia-h100-rtx-6000-step-by-step-tutorial-530o",
-   "date": "2026-08-07T05:58:00.000Z",
+   "title": "Railway vs Render vs Fly.io: Deploying a Hobby App Without a DevOps Team",
+   "link": "https://dev.to/libme/railway-vs-render-vs-flyio-deploying-a-hobby-app-without-a-devops-team-10d3",
+   "date": "2026-08-07T11:48:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The demand for fast, affordable Large Language Model (LLM) inference is at an all-time high. Every additional millisecond of latency and every extra dollar per million tokens directly impacts product economics. To maximi",
+   "summary": "If you just want a small app and its database online without learning Kubernetes, all three work — but they optimize for different things. Railway is the fastest to a running deploy and the friendliest for a Postgres-bac",
    "image": null
   },
   {
-   "title": "ShadowSocial.io: Orchestrating Qwen-Max Multi-Modal Inference and Wan 2.1 Video Synthesis with Likeness Lock v2.4 on Zero-Idle-RAM ECS via Caddy.",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/shadowsocialio-orchestrating-qwen-max-multi-modal-inference-and-wan-21-video-synthesis-with-5hcc",
-   "date": "2026-08-07T05:55:24.000Z",
+   "title": "GitHub Actions vs CircleCI vs Buildkite: The Real Cost of \"Free\" CI Minutes",
+   "link": "https://dev.to/libme/github-actions-vs-circleci-vs-buildkite-the-real-cost-of-free-ci-minutes-4p57",
+   "date": "2026-08-07T11:44:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ShadowSocial.io: Orchestrating Qwen-Max Multi-Modal Inference and Wan 2.1 Video Synthesis with Likeness Lock v2.4 on Zero-Idle-RAM ECS via Caddy. Building generative AI media pipelines isn't just about picking the latest",
+   "summary": "The free-minutes number on a CI pricing page is the least useful figure for predicting your bill. GitHub Actions bills wall-clock minutes with per-OS multipliers, CircleCI bills credits tied to machine size, and Buildkit",
    "image": null
   },
   {
-   "title": "How to Install Caddy on Ubuntu 24.04: Production Reverse Proxy",
-   "link": "https://dev.to/jaksontate/how-to-install-caddy-on-ubuntu-2404-production-reverse-proxy-1j6o",
-   "date": "2026-08-07T05:43:50.000Z",
+   "title": "Elevate Your IT Game: Why DevOps Training in Bangalore Should Be Your Next Step to Success",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/elevate-your-it-game-why-devops-training-in-bangalore-should-be-your-next-step-to-success-4kg1",
+   "date": "2026-08-07T11:41:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ditch Nginx complexity. Master the official Cloudsmith repository, unlock HTTP/3 with UFW, and build zero-downtime reverse proxies on ServerMO Bare Metal. For years, Nginx has been the undisputed king of web servers. How",
+   "summary": "Elevate Your IT Game: Why DevOps Training in Bangalore Should Be Your Next Step to Success In today's fast-paced tech environment, the demand for streamlined development and operations has surged. As organizations strive",
    "image": null
   },
   {
-   "title": "Adaptive AI Development Company | Smart & Scalable AI Solutions",
-   "link": "https://dev.to/william_jones_a2b/adaptive-ai-development-company-smart-scalable-ai-solutions-3op1",
-   "date": "2026-08-07T05:39:31.000Z",
+   "title": "Game-Changer Alert: Transform Your Career Game with Expert DevOps Training in Bangalore",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/game-changer-alert-transform-your-career-game-with-expert-devops-training-in-bangalore-44la",
+   "date": "2026-08-07T11:41:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Adaptive AI Development Company: Transforming Businesses with Intelligent Solutions In today’s fast changing digital landscape, businesses need more than just traditional software. they need systems that can learn, adapt",
+   "summary": "Game-Changer Alert: Transform Your Career Game with Expert DevOps Training in Bangalore In today's rapidly evolving tech landscape, DevOps stands out as a pivotal practice that fosters collaboration between development a",
    "image": null
   },
   {
-   "title": "Deep Dive: Likeness Lock v2.4's Sub-250ms AI Persona Synthesis on ShadowSocial.io's Zero-Idle-RAM, Caddy-Proxied Burstable ECS",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/deep-dive-likeness-lock-v24s-sub-250ms-ai-persona-synthesis-on-shadowsocialios-zero-idle-ram-1mi4",
-   "date": "2026-08-07T05:36:07.000Z",
+   "title": "The Ultimate Comparison: Choosing Between DevOps Training in Bangalore and Remote Alternatives for Career Success in 2026",
+   "link": "https://dev.to/h2_lmt_318f611464212f9336/the-ultimate-comparison-choosing-between-devops-training-in-bangalore-and-remote-alternatives-for-3p6",
+   "date": "2026-08-07T11:41:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deep Dive: Likeness Lock v2.4's Sub-250ms AI Persona Synthesis on ShadowSocial.io's Zero-Idle-RAM, Caddy-Proxied Burstable ECS The challenge on ShadowSocial.io has always been delivering high-quality AI-generated media, ",
+   "summary": "The Ultimate Comparison: Choosing Between DevOps Training in Bangalore and Remote Alternatives for Career Success in 2026 As the tech industry continues to evolve at a breakneck pace, professionals must stay ahead of the",
    "image": null
+  },
+  {
+   "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+   "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+   "date": "2026-08-07T10:38:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
+  },
+  {
+   "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+   "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+   "date": "2026-08-07T10:09:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
+  },
+  {
+   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+   "date": "2026-08-07T09:32:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped port",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 29 & 30",
+   "link": "https://postgr.es/p/9rM",
+   "date": "2026-08-07T09:09:51.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The Talk Selection Committee of PGConf.EU 2026 met to finalize the conference schedule: Samed Yildirim (Non-Voting Chair) Floor Drees Gülçin Yıldırım Jelinek Jan Wieremjewicz Mayuresh Bagayatkar Andrei Lepikhov Jan Karre",
+   "image": null
+  },
+  {
+   "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+   "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+   "date": "2026-08-07T08:52:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg"
+  },
+  {
+   "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+   "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+   "date": "2026-08-07T08:18:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg"
+  },
+  {
+   "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+   "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+   "date": "2026-08-07T06:50:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years befor",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: ignore_invalid_pages",
@@ -89,6 +159,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "When a standby refuses to replay WAL that references pages that don't exist, `ignore_invalid_pages` converts the PANIC into a WARNING—but only as a last resort…",
+   "image": null
+  },
+  {
+   "title": "Andrei Mironov: PostgreSQL Row-Level Security for AI Agents: A Testable Setup",
+   "link": "https://postgr.es/p/9rL",
+   "date": "2026-08-07T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Build and verify PostgreSQL row-level security for AI agents with non-owner roles, FORCE RLS, explicit policies, controlled writes, and denial tests.",
    "image": null
   },
   {
@@ -152,7 +232,7 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif"
   },
   {
-   "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+   "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
    "date": "2026-08-06T17:13:15.000Z",
    "theme": "securite",
@@ -182,16 +262,6 @@
    "image": null
   },
   {
-   "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-   "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-   "date": "2026-08-06T16:17:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg"
-  },
-  {
    "title": "2026 State of CSS, Devs Surveys",
    "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
    "date": "2026-08-06T15:54:52.000Z",
@@ -210,16 +280,6 @@
    "source": "Planet PostgreSQL",
    "summary": "It can looks like (2026-08-06 17:44:32) postgres=# \\luacode Enter code to be copied followed by a newline. End with a backslash and a period on a line by itself, or an EOF signal. >> function x(n) >> return n + 10 >> end",
    "image": null
-  },
-  {
-   "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-   "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-   "date": "2026-08-06T15:24:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg"
   },
   {
    "title": "The Drop Times: James Abrahams Makes Sustainable Funding a Focus of Board Candidacy",
@@ -272,16 +332,6 @@
    "image": "https://a.storyblok.com/f/187930/1400x880/096d5b8168/what_agents_do_to_your_database.png"
   },
   {
-   "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-   "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-   "date": "2026-08-06T12:16:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan co",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg"
-  },
-  {
    "title": "New in Twig 4.0: A New Macro System",
    "link": "https://symfony.com/blog/new-in-twig-4-0-a-new-macro-system?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-06T12:12:00.000Z",
@@ -302,16 +352,6 @@
    "image": null
   },
   {
-   "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-   "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-   "date": "2026-08-06T11:49:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg"
-  },
-  {
    "title": "Gabriele Bartolini: CNPG Recipe 26 - Extension image catalogs",
    "link": "https://postgr.es/p/9rz",
    "date": "2026-08-06T11:48:58.000Z",
@@ -320,26 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "CloudNativePG lets the ClusterImageCatalog carry extension images alongside the operand, a capability every currently supported release already has, so a Cluster manifest only needs to name an extension and nothing else.",
    "image": null
-  },
-  {
-   "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-   "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-   "date": "2026-08-06T11:33:08.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg"
-  },
-  {
-   "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-   "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-   "date": "2026-08-06T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg"
   },
   {
    "title": "The Drop Times: Open-Source Dependency Stewardship Continues After Adoption",
@@ -379,16 +399,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Explore the inner workings of the AI Chatbot module to customise the chat experience via hooks.",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: ignore_checksum_failure",
-   "link": "https://postgr.es/p/9rx",
-   "date": "2026-08-06T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "When data checksums catch corruption, restore from backup or fail over—unless you have neither.",
    "image": null
   },
   {
@@ -480,16 +490,6 @@
    "source": "PortSwigger Research",
    "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
    "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
-  },
-  {
-   "title": "Radim Marek: The DISTINCT in your COUNT",
-   "link": "https://postgr.es/p/9rw",
-   "date": "2026-08-05T21:00:52.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Here is a query that shows up in every analytics workload: SELECT count(DISTINCT user_id) FROM events; It looks like the cheapest possible thing: count the distinct users. On a machine with cores to spare you would expec",
-   "image": null
   },
   {
    "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
@@ -1038,7 +1038,7 @@
    "theme": "database",
    "themeName": "Bases de données",
    "source": "Percona Blog",
-   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a755d10191bf010434735/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
+   "summary": "When most people start working with PostgreSQL, they quickly learn SQL: [crayon-6a75bc946994d836772945/] But very soon, another world opens up inside psql — a set of commands that don’t look like SQL, don’t end with semi",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-11.39.10-AM-300x134.png"
   },
   {
