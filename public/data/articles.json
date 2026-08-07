@@ -1,15 +1,145 @@
 {
- "generatedAt": "2026-08-07T17:59:24.960Z",
+ "generatedAt": "2026-08-07T23:45:36.387Z",
  "articles": [
   {
-   "title": "How I Caught a Live Attacker With Nothing But tail, grep, and sha256sum",
-   "link": "https://dev.to/xpert4cyber/how-i-caught-a-live-attacker-with-nothing-but-tail-grep-and-sha256sum-130d",
-   "date": "2026-08-07T17:57:57.000Z",
+   "title": "Getting Camera and Sensor Data Into an Edge Model Without Falling Behind",
+   "link": "https://dev.to/multigrid/getting-camera-and-sensor-data-into-an-edge-model-without-falling-behind-69d",
+   "date": "2026-08-07T23:32:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🚨 I traced a webshell using ONLY 6 native Linux commands — no EDR, no dashboard, just a terminal. 2:47 AM. Unusual outbound traffic. Zero security agents installed. 20 minutes later → full attacker timeline reconstructe",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhprzgge15wxe8j4dkh1i.png"
+   "summary": "A sensor produces data at a rate it chooses. A model consumes it at a rate the hardware permits. When the second is slower than the first — which it usually is — the queue between them is either bounded, or it is a laten",
+   "image": null
+  },
+  {
+   "title": "Quantisation for Edge Devices: What int8 and int4 Do to a Weight",
+   "link": "https://dev.to/multigrid/quantisation-for-edge-devices-what-int8-and-int4-do-to-a-weight-365l",
+   "date": "2026-08-07T23:31:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Quantisation replaces each weight with the nearest value on a coarse grid and stores the grid index instead of the number. That is the whole mechanism. Everything difficult about it follows from one fact: the grid is sha",
+   "image": null
+  },
+  {
+   "title": "Edge Inference: What Actually Fits on a Phone",
+   "link": "https://dev.to/multigrid/edge-inference-what-actually-fits-on-a-phone-3578",
+   "date": "2026-08-07T23:31:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On-device inference is usually discussed in terms of what a model can do. The prior question is what the device can hold, how fast it can read it, and what reading it costs in joules — three calculations, all of which ca",
+   "image": null
+  },
+  {
+   "title": "Containerising an AI Service Properly",
+   "link": "https://dev.to/multigrid/containerising-an-ai-service-properly-56n8",
+   "date": "2026-08-07T23:27:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An AI service image is large for three or four specific reasons, and each one has a named fix. The general advice — use multi-stage builds, use slim base images — is correct but does not tell you which of your layers is ",
+   "image": null
+  },
+  {
+   "title": "Differential Privacy in Deployed Systems: What Epsilon Lets an Attacker Learn",
+   "link": "https://dev.to/multigrid/differential-privacy-in-deployed-systems-what-epsilon-lets-an-attacker-learn-1kno",
+   "date": "2026-08-07T23:24:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Differential privacy is a mathematical guarantee about how much any one person’s presence in a dataset can change what comes out of it. The guarantee is real and it is precise. The parameter that controls it, epsilon, is",
+   "image": null
+  },
+  {
+   "title": "Shipping a Model Inside a Desktop App: Packaging, Signing, Updates",
+   "link": "https://dev.to/multigrid/shipping-a-model-inside-a-desktop-app-packaging-signing-updates-5coj",
+   "date": "2026-08-07T23:23:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The first real decision when putting a language model inside a desktop application is whether the weights live inside the code-signed bundle or beside it. Almost everything else — release time, update size, disk usage, n",
+   "image": null
+  },
+  {
+   "title": "Debugging a Bad Response Six Hours Later",
+   "link": "https://dev.to/multigrid/debugging-a-bad-response-six-hours-later-3mgk",
+   "date": "2026-08-07T23:20:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A support ticket says the assistant gave a customer bad pricing information yesterday afternoon. You have a name, an approximate time, and a screenshot. Whether that is a ten-minute investigation or an unanswerable quest",
+   "image": null
+  },
+  {
+   "title": "Defending the Realm: Secrets, SSL, and Firewalls — A Dev's Quest Inspired by Guardians of the Galaxy",
+   "link": "https://dev.to/timevolt/defending-the-realm-secrets-ssl-and-firewalls-a-devs-quest-inspired-by-guardians-of-the-galaxy-2m0n",
+   "date": "2026-08-07T23:18:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I was just trying to ship a tiny API for a side‑project when I got hit with a rude wake‑up call: a friend’s repo got leaked because they’d hard‑coded an API key straight into the Ja",
+   "image": null
+  },
+  {
+   "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+   "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+   "date": "2026-08-07T19:18:09.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise ",
+   "image": null
+  },
+  {
+   "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+   "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+   "date": "2026-08-07T18:48:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
+  },
+  {
+   "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+   "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+   "date": "2026-08-07T18:29:08.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
+  },
+  {
+   "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+   "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+   "date": "2026-08-07T18:16:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
+  },
+  {
+   "title": "Symfony 8.1.4 released",
+   "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-07T18:08:16.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.1.4 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 7.4.16 released",
+   "link": "https://symfony.com/blog/symfony-7-4-16-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-07T18:03:31.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 7.4.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
   },
   {
    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -22,73 +152,13 @@
    "image": null
   },
   {
-   "title": "Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster",
-   "link": "https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88",
-   "date": "2026-08-07T17:47:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Last month I spent more than an hour cutting a release across six Go microservice repos. Tag log, wait for CI. Update sdk's go.mod to point at the new log SHA, push, wait for CI. Repeat for utils. Then do api, cli, and w",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkaindp8dirfk3ghecpqn.png"
-  },
-  {
-   "title": "Qwen-Max Multi-Modal Fusion: Engineering Sub-200ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with WAN 2.1 & Caddy",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-multi-modal-fusion-engineering-sub-200ms-likeness-lock-v24-on-shadowsocialios-494d",
-   "date": "2026-08-07T17:26:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Qwen-Max Multi-Modal Fusion: Engineering Sub-200ms Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM ECS with WAN 2.1 & Caddy The challenge at ShadowSocial.io isn't just about running AI models, it's about doing it f",
-   "image": null
-  },
-  {
-   "title": "Buy Fast, Secure & Verified Gmail Accounts ( New & Old )",
-   "link": "https://dev.to/alexhenryus/buy-fast-secure-verified-gmail-accounts-new-old--108e",
-   "date": "2026-08-07T17:21:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Fast, Secure & Verified Gmail Accounts ( New & Old ) Security & Quality Assurance Why Choose USShopIT? For businesses looking for reliable digital solutions, USShopIT can focus its service offering around legitimate ",
-   "image": null
-  },
-  {
-   "title": "Qwen-Max Fusion & Wan 2.1 Synthesis: Architecting Sub-Second AI Personas with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM Burstable ECS",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/qwen-max-fusion-wan-21-synthesis-architecting-sub-second-ai-personas-with-likeness-lock-v24-on-1ei5",
-   "date": "2026-08-07T16:42:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Qwen-Max Fusion & Wan 2.1 Synthesis: Architecting Sub-Second AI Personas with Likeness Lock v2.4 on ShadowSocial.io's Zero-Idle-RAM Burstable ECS Building AI personas that feel truly alive and respond in near real-time i",
-   "image": null
-  },
-  {
-   "title": "Stop Testing Your Code on Overpriced Public Cloud Sandboxes",
-   "link": "https://dev.to/sadaf_botanist/stop-testing-your-code-on-overpriced-public-cloud-sandboxes-23fa",
-   "date": "2026-08-07T16:34:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When building an application prototype or configuring a staging server, developers almost always prioritize setup convenience. The default industry action is simple: jump onto a major public cloud platform, spin up a bas",
-   "image": null
-  },
-  {
-   "title": "Why Code Compilation is Painfully Slow on Big Public Clouds",
-   "link": "https://dev.to/sadaf_botanist/why-code-compilation-is-painfully-slow-on-big-public-clouds-40p",
-   "date": "2026-08-07T16:30:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When launching a new application backend or running automated test pipelines, software engineers usually prioritize deployment convenience. The standard industry advice is always the same: pick a massive public cloud pro",
-   "image": null
-  },
-  {
-   "title": "Buy Razer Gold Gift Card for Your Gaming Needs",
-   "link": "https://dev.to/hassan_gujjar_fbef59f5e43/buy-razer-gold-gift-card-for-your-gaming-needs-3i21",
-   "date": "2026-08-07T16:28:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Digital gaming has made it easier than ever to purchase games, in-game content, and other entertainment services online. For gamers who prefer prepaid payment options, Razer Gold is a convenient choice. It provides virtu",
+   "title": "Gábor Hojtsy: Introducing Language Audit and Configuration Language Lock for Drupal and asking for your feedback",
+   "link": "https://www.hojtsy.hu/blog/2026-aug-07/introducing-language-audit-and-configuration-language-lock-drupal-and-asking-your",
+   "date": "2026-08-07T16:22:20.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Introducing Language Audit and Configuration Language Lock for Drupal and asking for your feedback I am neck deep in Drupal configuration language recently as I was diagnosing problems with how recipes are installed on f",
    "image": null
   },
   {
@@ -222,16 +292,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
   },
   {
-   "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-   "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-   "date": "2026-08-07T10:09:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg"
-  },
-  {
    "title": "Cornelia Biacsics: Contributions for week 29 & 30",
    "link": "https://postgr.es/p/9rM",
    "date": "2026-08-07T09:09:51.000Z",
@@ -240,26 +300,6 @@
    "source": "Planet PostgreSQL",
    "summary": "The Talk Selection Committee of PGConf.EU 2026 met to finalize the conference schedule: Samed Yildirim (Non-Voting Chair) Floor Drees Gülçin Yıldırım Jelinek Jan Wieremjewicz Mayuresh Bagayatkar Andrei Lepikhov Jan Karre",
    "image": null
-  },
-  {
-   "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-   "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-   "date": "2026-08-07T08:52:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81b6_YckjrqqfRrJQNRdIf3nu4xfqLNScukFYEao4VeF5QNlt16sbEwrdutizdB9Q1nOWRQpqeSZg4gYZsL8cIhRSJ43XJqMKWKgdKF28oeTl19HQQ75dnOKVHsa6DtXr4zhlmIF43nbUWV5jyEh4D1TjIvBKjgoAX2MpUbjJH3cN4hd4zDvIu_t4Jec/s1600/windows-hello-keys.jpg"
-  },
-  {
-   "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-   "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-   "date": "2026-08-07T08:18:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguukj-eRhx9RtAq9X96hAxHi0IU3ZWgM_W5XkdWhF8ezevuBQygkpv-ku5PSri9Gt5hRkNVxe6HmJJr5Mg33X_PhOGziqaho9bwm-mkRZSBl2jo94XF3jRwTZOb_PocueKWJkEtvl7kG_YqmbVfUxNht8_ODzLOERIqQteMdPxnWpobM-c9-fHhn0cLMQ/s1600/claude-github.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: ignore_invalid_pages",
@@ -482,16 +522,6 @@
    "image": null
   },
   {
-   "title": "Drupal Association blog: The work that just happens: the DA Insider for July 2026",
-   "link": "https://www.drupal.org/association/blog/the-work-that-just-happens-the-da-insider-for-july-2026",
-   "date": "2026-08-06T00:34:13.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This post is adapted from the DA Insider, the Drupal Association's monthly newsletter. Subscribe here to get it in your inbox each month. A note from our interim CEO Dear Drupal community, Open source hums along on the w",
-   "image": null
-  },
-  {
    "title": "An AI model from Meta also hacked another company during testing",
    "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
    "date": "2026-08-06T00:25:27.000Z",
@@ -529,16 +559,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my",
-   "image": null
-  },
-  {
-   "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
-   "link": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
-   "date": "2026-08-05T23:32:06.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with",
    "image": null
   },
   {
@@ -692,16 +712,6 @@
    "image": null
   },
   {
-   "title": "Symfony Polyfill 1.41.0 released: Io\\Poll now available",
-   "link": "https://symfony.com/blog/symfony-polyfill-1-41-0-released-io-poll-now-available?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-03T13:40:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Applications that adopt PHP 8.6's new I/O polling API normally cannot run that code on older PHP versions. Symfony Polyfill 1.41.0 brings this API to PHP 8.1 and later, alongside several compatibility fixes for the Graph",
-   "image": "https://github.com/nicolas-grekas.png"
-  },
-  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -709,16 +719,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1022 (July 27 – August 2, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1022-july-27-august-2-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-02T07:02:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony 6.4.43, 7.4.15, 8.0.16 and 8.1.3 maintenance versions were released. In addition, Symfony 8.0 reached its end of life. Finally, we introduced Symfony Reprise, the evolution of Webpack Encore for modern",
    "image": null
   },
   {
