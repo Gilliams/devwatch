@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-08T17:43:24.642Z",
+ "generatedAt": "2026-08-08T23:41:26.673Z",
  "articles": [
   {
-   "title": "The App Needed a Real Desktop, Not Just a Real Windows Machine",
-   "link": "https://dev.to/techwithhari/the-app-needed-a-real-desktop-not-just-a-real-windows-machine-284b",
-   "date": "2026-08-08T17:37:06.000Z",
+   "title": "Load Balancer Tuning: Lessons from Production",
+   "link": "https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-1k21",
+   "date": "2026-08-08T23:34:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The App Needed a Real Desktop, Not Just a Real Windows Machine Before any of the debugging stories, gotchas, or architecture arguments in this series existed, there was one earlier decision that had to fail first and it'",
+   "summary": "Load balancers are the silent infrastructure. You don't think about them until they start dropping connections at 2 AM. Here are the settings that have bitten me in production. Default connection idle timeout on AWS ALB ",
    "image": null
   },
   {
-   "title": "Ninety Lines of Terraform, One Whole AWS Network",
-   "link": "https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489",
-   "date": "2026-08-08T17:28:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How a single folder of config spins up a VPC, two subnets, a gateway, a firewall, and a running server — and the two small things that tripped me up. The AWS console and I have a complicated relationship. Every time I bu",
-   "image": null
-  },
-  {
-   "title": "How I Rescued My Broken Local Kubernetes Development Environment in One Afternoon (Docker + k3d + Tilt)",
-   "link": "https://dev.to/mnvasil/how-i-rescued-my-broken-local-kubernetes-development-environment-in-one-afternoon-docker-k3d--h50",
-   "date": "2026-08-08T17:16:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There's a specific flavor of shame in a local Kubernetes development environment that only you can't get working. Everyone else on the team runs kubectl get pods and gets an answer. You run it and get connection refused,",
-   "image": null
-  },
-  {
-   "title": "A GitOps Adoption Roadmap: The Principle of Walking the Arc Instead of Leaping It",
-   "link": "https://dev.to/mikhail_dorokhovich_0c532/a-gitops-adoption-roadmap-the-principle-of-walking-the-arc-instead-of-leaping-it-2408",
-   "date": "2026-08-08T17:16:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The problem in context Anyone in the industry long enough remembers the sleepless release night: the coffee, the collective prayer that a deploy would go smoothly, the one guru who alone understood the process, no docume",
-   "image": null
-  },
-  {
-   "title": "DNS Explained: The Complete Guide for Founders, Developers, and Modern Businesses",
-   "link": "https://dev.to/anik_sikder_313/dns-explained-the-complete-guide-for-founders-developers-and-modern-businesses-93l",
-   "date": "2026-08-08T17:02:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most people don’t think about DNS until something breaks. A founder launches a new website and suddenly email stops working. A developer migrates infrastructure and traffic starts disappearing. A marketing team changes a",
-   "image": null
-  },
-  {
-   "title": "Beginners Don’t Need More Cloud Jargon. They Need a Map.",
-   "link": "https://dev.to/chisom_ejiba/beginners-dont-need-more-cloud-jargon-they-need-a-map-56o3",
-   "date": "2026-08-08T16:56:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This is why I’m building ChiCloud Academy to teach cloud engineering through stories, diagrams, and real project lessons. Most beginners don’t struggle with cloud engineering because they are not smart. They struggle bec",
-   "image": null
-  },
-  {
-   "title": "BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. https://omnistrate.com/b",
-   "link": "https://dev.to/atheerium/byoc-is-not-just-deploy-into-their-cloud-learn-about-the-spectrum-of-bring-your-own-cloud-5cfk",
-   "date": "2026-08-08T16:48:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
-   "image": null
-  },
-  {
-   "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly Start in 2026",
-   "link": "https://dev.to/kirbycardenaskahgv/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-2026-4bid",
-   "date": "2026-08-08T16:32:23.000Z",
+   "title": "5 Best Site To Buy Aged OnlyFans Accounts In,,,",
+   "link": "https://dev.to/florribarry0j0zk/5-best-site-to-buy-aged-onlyfans-accounts-in-o5a",
+   "date": "2026-08-08T23:09:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
    "summary": "Introduction ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gmail.",
+   "image": null
+  },
+  {
+   "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+   "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+   "date": "2026-08-08T22:36:03.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claud",
+   "image": null
+  },
+  {
+   "title": "GitHub Agentic Workflows: Your Octopus Students for Controlled Automation",
+   "link": "https://dev.to/mburakunuvar/github-agentic-workflows-your-octopus-students-for-controlled-automation-3ma8",
+   "date": "2026-08-08T22:27:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "❓ Have you found your self orchestrating multiple coding agents across different harnesses, screens, surfaces? How many at most can you track and monitor simultaneously? 😫 ❓ Did you ever give up on approving permission ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fun2er2c5ilmnpippmjnn.jpg"
+  },
+  {
+   "title": "Trusted 5 Marketplaces for Buying Old Instagram Accounts |...",
+   "link": "https://dev.to/florribarry0j0zk/trusted-5-marketplaces-for-buying-old-instagram-accounts--44p2",
+   "date": "2026-08-08T22:11:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gmail.",
+   "image": null
+  },
+  {
+   "title": "Como Implantar Docker em VPS Linux: Tutorial Pratico e Requisitos",
+   "link": "https://dev.to/gabriel_kemmer_6f1f38b7a3/como-implantar-docker-em-vps-linux-tutorial-pratico-e-requisitos-46oa",
+   "date": "2026-08-08T21:52:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Como Implantar Docker em VPS Linux: Tutorial Prático e Requisitos de Servidor Se você chegou até aqui, provavelmente já entende o potencial do Docker para transformar a maneira como você desenvolve, empacota e implanta s",
+   "image": null
+  },
+  {
+   "title": "Master anydoc in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-335k",
+   "date": "2026-08-08T21:51:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Did you know that 87% of developers struggle to integrate AI-generated code into their workflows, resulting in wasted time and frustration? Last week, I spent 3 hours trying to automate a task using Rust too",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Your AI Agent Restarted. Did Its Credentials Survive Too?",
+   "link": "https://dev.to/zira125/your-ai-agent-restarted-did-its-credentials-survive-too-4mop",
+   "date": "2026-08-08T21:51:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A restart test that checks only whether the process comes back is incomplete. For an AI agent, the more dangerous question is whether credentials, browser profiles, cached tokens, and queued work come back with the same ",
+   "image": null
+  },
+  {
+   "title": "The Kernel Underneath Kubernetes: nftables, netfilter, and Why svclb-traefik Kept Crash-Looping",
+   "link": "https://dev.to/audu97/the-kernel-underneath-kubernetes-nftables-netfilter-and-why-svclb-traefik-kept-crash-looping-5cgi",
+   "date": "2026-08-08T21:32:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A few weeks ago, I hit a bug that sent me further down the Linux networking stack than I'd gone in years: an NVIDIA Jetson device, running k3s at the edge, with svclb-traefik stuck in a CrashLoopBackOff that made no sens",
    "image": null
   },
   {
@@ -302,16 +312,6 @@
    "image": null
   },
   {
-   "title": "Using and Styling the Dialog Element",
-   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-   "date": "2026-08-07T14:06:43.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
    "title": "Saga Lara Flow: Durable Workflows and Compensating Transactions on Laravel Queues",
    "link": "https://laravel-news.com/saga-lara-flow?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-07T12:58:48.000Z",
@@ -412,16 +412,6 @@
    "image": null
   },
   {
-   "title": "Simon Willison on Technical Blogging",
-   "link": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
-   "date": "2026-08-06T18:04:39.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to ",
-   "image": null
-  },
-  {
    "title": "Talking Drupal: Talking Drupal #564 - Approachable Open Source",
    "link": "https://sacstudio.libsyn.com/talking-drupal-564-approachable-open-source",
    "date": "2026-08-06T18:00:00.000Z",
@@ -449,16 +439,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A tiny WebGPU and TSL experiment, tinkering with physics, deformations, and procedural audio, all tied together inside a sphere to play with.",
-   "image": null
-  },
-  {
-   "title": "2026 State of CSS, Devs Surveys",
-   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-   "date": "2026-08-06T15:54:52.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
    "image": null
   },
   {
@@ -712,16 +692,6 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -739,26 +709,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
-  },
-  {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-31T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -1012,16 +962,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -1052,16 +992,6 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": null
-  },
-  {
    "title": "Does the frontend still need build tools?",
    "link": "https://frontendfoc.us/issues/750",
    "date": "2026-07-15T00:00:00.000Z",
@@ -1079,16 +1009,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-14T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
