@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-08-08T11:39:41.760Z",
+ "generatedAt": "2026-08-08T17:43:24.642Z",
  "articles": [
   {
-   "title": "What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)",
-   "link": "https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif",
-   "date": "2026-08-08T11:29:46.000Z",
+   "title": "The App Needed a Real Desktop, Not Just a Real Windows Machine",
+   "link": "https://dev.to/techwithhari/the-app-needed-a-real-desktop-not-just-a-real-windows-machine-284b",
+   "date": "2026-08-08T17:37:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you've worked with AWS for more than a few weeks, you've created a VPC. You've drawn subnets, attached route tables, written security group rules, maybe even set up peering between two VPCs. It works. You move on. But",
+   "summary": "The App Needed a Real Desktop, Not Just a Real Windows Machine Before any of the debugging stories, gotchas, or architecture arguments in this series existed, there was one earlier decision that had to fail first and it'",
    "image": null
   },
   {
-   "title": "GitOps: Declarative Delivery with ArgoCD & Flux",
-   "link": "https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121",
-   "date": "2026-08-08T11:21:22.000Z",
+   "title": "Ninety Lines of Terraform, One Whole AWS Network",
+   "link": "https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489",
+   "date": "2026-08-08T17:28:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: GitOps makes Git the single source of truth and lets a controller reconcile reality to match it, so rollback is a git revert, every change is audited, and drift heals itself. Includes ArgoCD vs Flux and the trad",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fZGV2KCJEZXZlbG9wZXJzPGJyLz5PcGVuIGEgUFIiKQogIGNsYXNzIG5fZGV2IGNsaWVudDsKICBuX2dpdCgiQ29uZmlnIFJlcG88YnIvPkRlc2lyZWQgc3RhdGUgKEdpdCkiKQogIGNsYXNzIG5fZ2l0IGV4dGVybmFsOwogIG5fY3RsKCJHaXRPcHMgQ29udHJvbGxlcjxici8-QXJnb0NEIC8gRmx1eCIpCiAgY2xhc3Mgbl9jdGwgY29tcHV0ZTsKICBuX2NsdXN0ZXIoIkt1YmVybmV0ZXM8YnIvPkFjdHVhbCBzdGF0ZSIpCiAgY2xhc3Mgbl9jbHVzdGVyIGRhdGE7CiAgbl9yZWdpc3RyeSgiSW1hZ2UgUmVnaXN0cnk8YnIvPk5ldyBpbWFnZSB0YWdzIikKICBjbGFzcyBuX3JlZ2lzdHJ5IGV4dGVybmFsOwogIG5fZGV2IC0tPnwibWVyZ2UgUFIifCBuX2dpdAogIG5fY3RsIC0uLT58IndhdGNoIGRlc2lyZWQifCBuX2dpdAogIG5fY3RsIC0uLT58IndhdGNoIGFjdHVhbCJ8IG5fY2x1c3RlcgogIG5fY3RsIC0tPnwiYXBwbHkgLyBoZWFsInwgbl9jbHVzdGVyCiAgbl9yZWdpc3RyeSAtLi0-fCJidW1wIHRhZyAoQ0kpInwgbl9naXQ%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "BigQuery Data Transfer Service: A Practical Decision Guide",
-   "link": "https://dev.to/tran_tienvan_e45fc26d655/bigquery-data-transfer-service-a-practical-decision-guide-1cgm",
-   "date": "2026-08-08T11:16:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A remote MCP Server can make BigQuery Data Transfer Service agent-callable. That does not make create, change, backfill, or delete safe defaults. The useful engineering question is where managed ingestion fits, how to co",
+   "summary": "How a single folder of config spins up a VPC, two subnets, a gateway, a firewall, and a running server — and the two small things that tripped me up. The AWS console and I have a complicated relationship. Every time I bu",
    "image": null
   },
   {
-   "title": "Master Copado Training | Salesforce AI DevOps Course",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-training-salesforce-ai-devops-course-3jfb",
-   "date": "2026-08-08T11:13:33.000Z",
+   "title": "How I Rescued My Broken Local Kubernetes Development Environment in One Afternoon (Docker + k3d + Tilt)",
+   "link": "https://dev.to/mnvasil/how-i-rescued-my-broken-local-kubernetes-development-environment-in-one-afternoon-docker-k3d--h50",
+   "date": "2026-08-08T17:16:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🚀 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗬𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗼𝗽𝗮𝗱𝗼 𝗔𝗜! ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂’𝗹𝗹 𝗟𝗲𝗮𝗿𝗻: 🎓 𝗪𝗵𝗼 𝗖𝗮𝗻 𝗝𝗼𝗶𝗻? 🎁 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼! https:/",
+   "summary": "There's a specific flavor of shame in a local Kubernetes development environment that only you can't get working. Everyone else on the team runs kubectl get pods and gets an answer. You run it and get connection refused,",
    "image": null
   },
   {
-   "title": "LuMarcas: Simplifying Healthcare With Reliable Medical and Personal Care Solutions",
-   "link": "https://dev.to/lumarcus_ca_2fe9adf6252c4/lumarcas-simplifying-healthcare-with-reliable-medical-and-personal-care-solutions-2n7j",
-   "date": "2026-08-08T10:37:46.000Z",
+   "title": "A GitOps Adoption Roadmap: The Principle of Walking the Arc Instead of Leaping It",
+   "link": "https://dev.to/mikhail_dorokhovich_0c532/a-gitops-adoption-roadmap-the-principle-of-walking-the-arc-instead-of-leaping-it-2408",
+   "date": "2026-08-08T17:16:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Healthcare is becoming more personal, accessible, and home-focused. Today, many people manage their daily healthcare needs outside traditional medical settings, relying on dependable products for personal care, mobility,",
+   "summary": "The problem in context Anyone in the industry long enough remembers the sleepless release night: the coffee, the collective prayer that a deploy would go smoothly, the one guru who alone understood the process, no docume",
    "image": null
   },
   {
-   "title": "I thought AI agent task completion in email meant better drafts, but this excavation company’s 5% inbox proved me wrong",
-   "link": "https://dev.to/lars_winstand/i-thought-ai-agent-task-completion-in-email-meant-better-drafts-but-this-excavation-companys-5-4hd",
-   "date": "2026-08-08T10:35:59.000Z",
+   "title": "DNS Explained: The Complete Guide for Founders, Developers, and Modern Businesses",
+   "link": "https://dev.to/anik_sikder_313/dns-explained-the-complete-guide-for-founders-developers-and-modern-businesses-93l",
+   "date": "2026-08-08T17:02:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I went into a Reddit thread expecting the usual email automation story: Gmail gets a new message GPT-5 writes a decent reply everyone calls it “AI automation” the human still owns the real work Instead, I found something",
+   "summary": "Most people don’t think about DNS until something breaks. A founder launches a new website and suddenly email stops working. A developer migrates infrastructure and traffic starts disappearing. A marketing team changes a",
    "image": null
   },
   {
-   "title": "The Golden Rule of API Design: Understanding Idempotency",
-   "link": "https://dev.to/saurav_tb_pandey/the-golden-rule-of-api-design-understanding-idempotency-2pic",
-   "date": "2026-08-08T10:31:22.000Z",
+   "title": "Beginners Don’t Need More Cloud Jargon. They Need a Map.",
+   "link": "https://dev.to/chisom_ejiba/beginners-dont-need-more-cloud-jargon-they-need-a-map-56o3",
+   "date": "2026-08-08T16:56:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Have you ever clicked a \"Submit\" button on a website, experienced a sudden freeze, and wondered if clicking it again would charge your credit card twice? In the world of software development, engineers prevent this exact",
+   "summary": "This is why I’m building ChiCloud Academy to teach cloud engineering through stories, diagrams, and real project lessons. Most beginners don’t struggle with cloud engineering because they are not smart. They struggle bec",
    "image": null
   },
   {
-   "title": "Everything Was Working. AWS Wanted $1,665/Month More.",
-   "link": "https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h",
-   "date": "2026-08-08T10:24:18.000Z",
+   "title": "BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. https://omnistrate.com/b",
+   "link": "https://dev.to/atheerium/byoc-is-not-just-deploy-into-their-cloud-learn-about-the-spectrum-of-bring-your-own-cloud-5cfk",
+   "date": "2026-08-08T16:48:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Nothing was down. No alerts were firing. No customers were complaining. CPU looked normal. Memory looked normal. The applications were serving traffic. AWS just started charging more. The first cost anomaly pointed to EK",
+   "summary": "BYOC is not just deploy into their cloud. Learn about the spectrum of Bring Your Own Cloud deployments. https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments",
+   "image": null
+  },
+  {
+   "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly Start in 2026",
+   "link": "https://dev.to/kirbycardenaskahgv/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-2026-4bid",
+   "date": "2026-08-08T16:32:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gmail.",
+   "image": null
+  },
+  {
+   "title": "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice",
+   "link": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+   "date": "2026-08-08T15:13:31.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A film-led website for Chems Studio, bringing years of creative direction and moving image together through a quiet, flexible digital framework.",
+   "image": null
+  },
+  {
+   "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+   "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+   "date": "2026-08-08T14:06:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News. I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: Op",
    "image": null
   },
   {
@@ -542,16 +562,6 @@
    "image": null
   },
   {
-   "title": "An AI model from Meta also hacked another company during testing",
-   "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-   "date": "2026-08-06T00:25:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybers",
-   "image": null
-  },
-  {
    "title": "Baseten on Hugging Face Inference Providers 🔥",
    "link": "https://huggingface.co/blog/baseten",
    "date": "2026-08-06T00:00:00.000Z",
@@ -919,16 +929,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not",
-   "image": null
-  },
-  {
-   "title": "Between Print and Digital: The Making of MERSI’s Website",
-   "link": "https://tympanus.net/codrops/2026/07/27/between-print-and-digital-the-making-of-mersis-website/",
-   "date": "2026-07-27T13:18:10.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "FLOT NOIR reimagines MERSI’s digital presence as a quiet, immersive space between architectural print and interactive web, combining a tailored Webflow build with precise motion and editorial storytelling.",
    "image": null
   },
   {
