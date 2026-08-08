@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-08-08T05:53:39.813Z",
+ "generatedAt": "2026-08-08T11:39:41.760Z",
  "articles": [
   {
-   "title": "Your AI Agent Has a Backup. Prove You Can Restore It.",
-   "link": "https://dev.to/zira125/your-ai-agent-has-a-backup-prove-you-can-restore-it-4co2",
-   "date": "2026-08-08T05:50:52.000Z",
+   "title": "What AWS VPC Actually Does Under the Hood (I Rebuilt It on Linux to Find Out)",
+   "link": "https://dev.to/gerald_izuchukwu/what-aws-vpc-actually-does-under-the-hood-i-rebuilt-it-on-linux-to-find-out-3iif",
+   "date": "2026-08-08T11:29:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A backup is not a recovery plan until a fresh worker can restore it and continue without guessing. For OpenClaw, coding agents, and browser automations, the dangerous failure is often not data loss. It is partial recover",
+   "summary": "If you've worked with AWS for more than a few weeks, you've created a VPC. You've drawn subnets, attached route tables, written security group rules, maybe even set up peering between two VPCs. It works. You move on. But",
    "image": null
   },
   {
-   "title": "What Are Autonomous AI Agents? A Practical Guide for Developers",
-   "link": "https://dev.to/synfinity-dynamics-pvt-ltd/what-are-autonomous-ai-agents-a-practical-guide-for-developers-4iki",
-   "date": "2026-08-08T05:48:05.000Z",
+   "title": "GitOps: Declarative Delivery with ArgoCD & Flux",
+   "link": "https://dev.to/sri2614/gitops-declarative-delivery-with-argocd-flux-3121",
+   "date": "2026-08-08T11:21:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most AI applications wait for a user to ask a question and then return an answer. Autonomous AI agents go further: they can interpret a goal, decide what steps are required, use external tools, evaluate the results, and ",
+   "summary": "⚡ TL;DR: GitOps makes Git the single source of truth and lets a controller reconcile reality to match it, so rollback is a git revert, every change is audited, and drift heals itself. Includes ArgoCD vs Flux and the trad",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fZGV2KCJEZXZlbG9wZXJzPGJyLz5PcGVuIGEgUFIiKQogIGNsYXNzIG5fZGV2IGNsaWVudDsKICBuX2dpdCgiQ29uZmlnIFJlcG88YnIvPkRlc2lyZWQgc3RhdGUgKEdpdCkiKQogIGNsYXNzIG5fZ2l0IGV4dGVybmFsOwogIG5fY3RsKCJHaXRPcHMgQ29udHJvbGxlcjxici8-QXJnb0NEIC8gRmx1eCIpCiAgY2xhc3Mgbl9jdGwgY29tcHV0ZTsKICBuX2NsdXN0ZXIoIkt1YmVybmV0ZXM8YnIvPkFjdHVhbCBzdGF0ZSIpCiAgY2xhc3Mgbl9jbHVzdGVyIGRhdGE7CiAgbl9yZWdpc3RyeSgiSW1hZ2UgUmVnaXN0cnk8YnIvPk5ldyBpbWFnZSB0YWdzIikKICBjbGFzcyBuX3JlZ2lzdHJ5IGV4dGVybmFsOwogIG5fZGV2IC0tPnwibWVyZ2UgUFIifCBuX2dpdAogIG5fY3RsIC0uLT58IndhdGNoIGRlc2lyZWQifCBuX2dpdAogIG5fY3RsIC0uLT58IndhdGNoIGFjdHVhbCJ8IG5fY2x1c3RlcgogIG5fY3RsIC0tPnwiYXBwbHkgLyBoZWFsInwgbl9jbHVzdGVyCiAgbl9yZWdpc3RyeSAtLi0-fCJidW1wIHRhZyAoQ0kpInwgbl9naXQ%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "BigQuery Data Transfer Service: A Practical Decision Guide",
+   "link": "https://dev.to/tran_tienvan_e45fc26d655/bigquery-data-transfer-service-a-practical-decision-guide-1cgm",
+   "date": "2026-08-08T11:16:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A remote MCP Server can make BigQuery Data Transfer Service agent-callable. That does not make create, change, backfill, or delete safe defaults. The useful engineering question is where managed ingestion fits, how to co",
    "image": null
   },
   {
-   "title": "Best Facebook Groups for SysAdmins and Developers",
-   "link": "https://dev.to/serveravatar/best-facebook-groups-for-sysadmins-and-developers-hlf",
-   "date": "2026-08-08T05:20:59.000Z",
+   "title": "Master Copado Training | Salesforce AI DevOps Course",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-copado-training-salesforce-ai-devops-course-3jfb",
+   "date": "2026-08-08T11:13:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here’s what no one tells you when you first start running servers or building production software: the toughest problems rarely come with documentation. You run into a networking rule that nobody warns you about, your da",
+   "summary": "🚀 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗬𝗼𝘂𝗿 𝗖𝗮𝗿𝗲𝗲𝗿 𝘄𝗶𝘁𝗵 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗼𝗽𝗮𝗱𝗼 𝗔𝗜! ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂’𝗹𝗹 𝗟𝗲𝗮𝗿𝗻: 🎓 𝗪𝗵𝗼 𝗖𝗮𝗻 𝗝𝗼𝗶𝗻? 🎁 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼! https:/",
    "image": null
   },
   {
-   "title": "Our Ollama /LLM Production Setup",
-   "link": "https://dev.to/suresh_devops_ffa0728a190/our-ollama-llm-production-setup-3anf",
-   "date": "2026-08-08T05:16:35.000Z",
+   "title": "LuMarcas: Simplifying Healthcare With Reliable Medical and Personal Care Solutions",
+   "link": "https://dev.to/lumarcus_ca_2fe9adf6252c4/lumarcas-simplifying-healthcare-with-reliable-medical-and-personal-care-solutions-2n7j",
+   "date": "2026-08-08T10:37:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Response to Ollama Production Queries to the previous post Excellent questions — you've clearly been in the trenches with Ollama at scale! Let me address your specific concerns about our production setup, now updated wit",
+   "summary": "Healthcare is becoming more personal, accessible, and home-focused. Today, many people manage their daily healthcare needs outside traditional medical settings, relying on dependable products for personal care, mobility,",
    "image": null
   },
   {
-   "title": "How I Update Applications in an AWS Auto Scaling Group Using Golden AMIs",
-   "link": "https://dev.to/nitish_pandey_c5361afcae9/how-i-update-applications-in-an-aws-auto-scaling-group-using-golden-amis-72g",
-   "date": "2026-08-08T05:08:05.000Z",
+   "title": "I thought AI agent task completion in email meant better drafts, but this excavation company’s 5% inbox proved me wrong",
+   "link": "https://dev.to/lars_winstand/i-thought-ai-agent-task-completion-in-email-meant-better-drafts-but-this-excavation-companys-5-4hd",
+   "date": "2026-08-08T10:35:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction If you've ever managed applications running in an Amazon EC2 Auto Scaling Group, you've probably wondered what's the safest way to deploy updates without manually logging into every instance. Over the last f",
+   "summary": "I went into a Reddit thread expecting the usual email automation story: Gmail gets a new message GPT-5 writes a decent reply everyone calls it “AI automation” the human still owns the real work Instead, I found something",
    "image": null
   },
   {
-   "title": "Stop Single-NIC Outages: Practical Network Bonding with systemd-networkd on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-single-nic-outages-practical-network-bonding-with-systemd-networkd-on-linux-3548",
-   "date": "2026-08-08T05:02:52.000Z",
+   "title": "The Golden Rule of API Design: Understanding Idempotency",
+   "link": "https://dev.to/saurav_tb_pandey/the-golden-rule-of-api-design-understanding-idempotency-2pic",
+   "date": "2026-08-08T10:31:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stop Single-NIC Outages: Practical Network Bonding with systemd-networkd on Linux One unplugged cable should not take a server offline. If a host has two NICs into the same switch (or two uplinks into a redundant pair), ",
+   "summary": "Have you ever clicked a \"Submit\" button on a website, experienced a sudden freeze, and wondered if clicking it again would charge your credit card twice? In the world of software development, engineers prevent this exact",
    "image": null
   },
   {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4m1a",
-   "date": "2026-08-08T04:33:46.000Z",
+   "title": "Everything Was Working. AWS Wanted $1,665/Month More.",
+   "link": "https://dev.to/aws-builders/everything-was-working-aws-wanted-1665month-more-45h",
+   "date": "2026-08-08T10:24:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours manually converting a complex Word document to Markdown, only to realize I had to do it all over again due to a formatting issue. Then, I discovered anydoc, a powerful tool built i",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+   "summary": "Nothing was down. No alerts were firing. No customers were complaining. CPU looked normal. Memory looked normal. The applications were serving traffic. AWS just started charging more. The first cost anomaly pointed to EK",
+   "image": null
   },
   {
-   "title": "The UDP Buffer Nobody Tunes: How a 256KB Kernel Default Cost Us 30% of Our Packets",
-   "link": "https://dev.to/speed_engineer/the-udp-buffer-nobody-tunes-how-a-256kb-kernel-default-cost-us-30-of-our-packets-map",
-   "date": "2026-08-08T03:46:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The problem A video platform I worked on wasn't crashing — it was worse than that. Calls stayed \"up\" but froze every few seconds, audio turned robotic, and it only happened between 5 and 7 PM. WebRTC sessions were loggin",
+   "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+   "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+   "date": "2026-08-08T08:54:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independent",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFYjJTxVoOMkR9DDRPZ5PkeR_EWAqmBScR3TPw3mlweipGlnQKq0OdfVqR2f26QIV3kBJWQIM65f8XwMSFq3zT6Bl4fsTvkPHxJiU2LilhK9s0tcreXt2gotEpE8sKoDrLQJ3SSVY9B-RS0FsS2dC480op8OV-caeaZvNyTiIipQbeNFJGMnAcjWEVq7g/s1600/rovo.jpg"
+  },
+  {
+   "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+   "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+   "date": "2026-08-08T08:03:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the tech",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUnWbFb6UGu3ML1MqcuVXYwk0yoD6WzgXIQmi8ijkZQjS6M3g1F3kgV-RanNgyP1bdpNxDOOqMJzJnutZGh4MUVyYCbbu98sNXtAp-GWxueyKH9fDo3z9HmBl4tL-rj91kb11bhdhRvWGAYe56YGYMEzJgGIZeUqj9eGH10Bynj0YE6WMLl0J7O-HhLc/s1600/css-bomb.jpg"
+  },
+  {
+   "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+   "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+   "date": "2026-08-08T06:58:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), wh",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv2q8ukeawl9ALLfPnkrRkD2a9umOrSxPHUJdclgLcKj5zM8k19y-NWuTGLrV1yIU4u0F2-QbAsD4zO-NkeEuWPwDqdUYbVFDG69EgOl0v55K0Brjp7lfIb6hExJGyVj9rj5KjeZPtoU97DwoaHAi_umLzQVqpedMMt08eas1akWBhNXUZ2WHOqVXczAf4/s1600/metabase.jpg"
+  },
+  {
+   "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+   "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+   "date": "2026-08-08T06:57:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg"
+  },
+  {
+   "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+   "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+   "date": "2026-08-08T06:52:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following report",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_DF22WirQj4KZe5A4NxYmG3UhC2o4BRQ4AybyFlmr80n5Wkf15sbtMn11P0msoMyAe65WBqMpL2XBsqTiHdDNNH1i6qz11ydD9X4AIOoiaSfCYb1MCe7dfJD0n4TEIc5_83tsMq5zJ5zVpGbpCq7b8rACen1oMvW8XGBbz3T4hy_9J6igpOk0oCDp6vkA/s1600/progress.jpg"
+  },
+  {
+   "title": "PreviousNext: Why PreviousNext signed Drupal's Manifesto for an Open Future",
+   "link": "https://www.previousnext.com.au/blog/why-previousnext-signed-drupals-manifesto-open-future",
+   "date": "2026-08-08T06:12:50.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We recently added PreviousNext's name to \"A Manifesto for an Open Future,\" joining 15 other Drupal agency founders and leaders in a public declaration that open source, not closed platforms, is the foundation for the fut",
    "image": null
   },
   {
@@ -148,7 +208,7 @@
    "theme": "securite",
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
-   "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to t",
+   "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
   },
   {
@@ -242,16 +302,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Saga-Lara-Flow-LN.png"
   },
   {
-   "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-   "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-   "date": "2026-08-07T12:56:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg"
-  },
-  {
    "title": "The Drop Times: Display Builder Beta 6 Brings UX Refresh and Drupal 11.4 Fixes",
    "link": "https://www.thedroptimes.com/71549/display-builder-beta6-ux-drupal-11-4?utm_source=Drupal Planet",
    "date": "2026-08-07T12:26:30.000Z",
@@ -272,36 +322,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/chart-storage_fix.png"
   },
   {
-   "title": "Growing Up The Hard Way",
-   "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-   "date": "2026-08-07T11:55:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand tha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz974dYXx9klEa_qhJoTHKqb5QNoQwTpxsMKoZeqsvQtvWZPgPKobw1QySvcNGgnFocbYaFaaBGsB4COPaw-fqqgOHERJEVc8sgRSjto5VCrQeIWr5Nz21r3PjMTIXmwUmvakUlP4sB3iYqF2qXiabCvrqKFyFBq3GzOUwqM7LGRV68q_Ib9zt1ilCBJo/s1600/open-source.jpg"
-  },
-  {
-   "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-   "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-   "date": "2026-08-07T11:10:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 200",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTGemKyDLZPr_sBbt2AdOQMEBEcRFzic8_Ddtkx92vtPOfFdoiwxJ60b00usecTjHuIGUJuUIR2aB8MU2P7-GLc0NOuWsa3ctofrA2-wD38wgI4Fke3moSskWjiRJEXT8Yxl7Ye56NgGl9DZKr8zf974rHRsc1PtHie_iIPVyD18HMx49S02tGZ2EeDY/s1600/linux-sctp.jpg"
-  },
-  {
-   "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-   "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-   "date": "2026-08-07T10:58:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped port",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8dmEkj0rsX2NREBfPOczKn7zadWRaVVOyVPVeaCPzCDdBAPhocCwP1CVbX_p1pj4Q7DVYsdusvWc9u9G7lO4BGYihT6BXnXY099zIs1B1PBefH71cXCHZucxaG2gEzqKdf9B3FVr9MJ34SntVezm4gNXWSxIMF05DpYUNF6qmfhb0hMiyNpsWDOtuRE/s1600/NatJack.jpg"
-  },
-  {
    "title": "Shaun Thomas: Looking Forward to Postgres 19: Syntax Potpourri",
    "link": "https://postgr.es/p/9rN",
    "date": "2026-08-07T10:41:27.000Z",
@@ -310,16 +330,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Before diving into this final post covering new Postgres 19 features, I just want to say it's been a wild ride. Postgres 19 has been a veritable treasure trove of enhancements, perhaps more than any previous release; or ",
    "image": null
-  },
-  {
-   "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-   "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-   "date": "2026-08-07T10:38:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH78NjDW1Q_sIk9dwQ1scYlCkNCMutfjGx_9flqrKbE42fEXqvHT8s5EeHTnWjbBGvzCuHPEWStR5r6wjwtIuuHF1hyphenhyphenot22E_Q98xedC1zXVhIhwglw6hLWQs45oSrPKPflK6Tt1BlHTj9iokMPpVaTehuemHGHDLL02cn2sqZJ5iIVstxiVf5IZ5Khodp/s1600/ms-phish.jpg"
   },
   {
    "title": "Cornelia Biacsics: Contributions for week 29 & 30",
@@ -529,16 +539,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "The European Commission wants public bodies to become stronger users and contributors to open source, supported by fairer procurement, maintenance funding, security measures and long-term stewardship.",
-   "image": null
-  },
-  {
-   "title": "Morpht: Customising the Drupal AI Chatbot: Settings, buttons and the Deep Chat widget",
-   "link": "https://www.morpht.com/blog/customising-drupal-ai-chatbot-settings-buttons-and-deep-chat-widget",
-   "date": "2026-08-06T04:40:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Explore the inner workings of the AI Chatbot module to customise the chat experience via hooks.",
    "image": null
   },
   {
