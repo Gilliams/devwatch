@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-08-09T17:45:07.287Z",
+ "generatedAt": "2026-08-09T23:44:28.323Z",
  "articles": [
   {
-   "title": "IPv4 Market Report — July 2026: Prices Fall to $20.62/IP as 380K IP Addresses Traded",
-   "link": "https://dev.to/menesakdeniz/ipv4-market-report-july-2026-prices-fall-to-2062ip-as-380k-ip-addresses-traded-42jg",
-   "date": "2026-08-09T17:07:37.000Z",
+   "title": "Instrument a Node.js App with OpenTelemetry in an Afternoon",
+   "link": "https://dev.to/libme/instrument-a-nodejs-app-with-opentelemetry-in-an-afternoon-dll",
+   "date": "2026-08-09T23:36:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "IPv4 Market Report — July 2026: Prices Fall to $20.62/IP as 380K Addresses Trade IPv4 may be a decades-old protocol, but the market for IPv4 address space continues to change rapidly. In July 2026, we tracked 96 complete",
+   "summary": "You can get real distributed traces out of a Node.js service in an afternoon, and you should start with the zero-code auto-instrumentation before you write a single span by hand. The fast path is: install @opentelemetry/",
    "image": null
   },
   {
-   "title": "LLM Observability Cost Starts With a Trace Budget",
-   "link": "https://dev.to/dmytronasyrov/llm-observability-cost-starts-with-a-trace-budget-401l",
-   "date": "2026-08-09T17:01:44.000Z",
+   "title": "[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning",
+   "link": "https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a",
+   "date": "2026-08-09T23:34:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "LLM observability cost is not a single price per trace. It is the sum of several workload multipliers: requests become traces, traces contain spans, selected spans become evaluation jobs, judges consume tokens, payloads ",
+   "summary": "In the Infrastructure Lifecycle Management we can identify the functions of: Provisioning and Decommissioning. Both are orchestrated through the application of Infrastructure as Code (IaC) principles, ensuring that the e",
    "image": null
   },
   {
-   "title": "Your coding agent's summary of its own work is not evidence",
-   "link": "https://dev.to/jk27101/your-coding-agents-summary-of-its-own-work-is-not-evidence-46i5",
-   "date": "2026-08-09T16:53:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent three days last week doing real work on a production codebase with an agentic coding tool. Small site, live customers, money moving through it. The kind of place where a bad commit costs something. The work went ",
+   "title": "Quoting Claude Opus 5 system prompt",
+   "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+   "date": "2026-08-09T23:31:39.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those ",
    "image": null
   },
   {
-   "title": "I Brought rsync to kubectl",
-   "link": "https://dev.to/major1201/i-brought-rsync-to-kubectl-2984",
-   "date": "2026-08-09T16:34:52.000Z",
+   "title": "Your AI Agent Works in Dev. It Will Fail in Production. Here's the Math.",
+   "link": "https://dev.to/sasajib/your-ai-agent-works-in-dev-it-will-fail-in-production-heres-the-math-4iic",
+   "date": "2026-08-09T23:12:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Over the last few months, I've been working with Kubernetes pods in my development environment. One thing I frequently need to do is transfer files from my local machine into a development pod. The usual choice is kubect",
+   "summary": "Your AI agent passes every test. It handles edge cases. You demo it to your team and everyone nods. Then you deploy it. And it breaks. Not a little. Catastrophically. The kind of break where you stare at logs for three h",
    "image": null
   },
   {
-   "title": "Purple Teaming: Closing the Loop Between Attack and Detection",
-   "link": "https://dev.to/sakramen/purple-teaming-closing-the-loop-between-attack-and-detection-1207",
-   "date": "2026-08-09T16:25:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Problem With Traditional Red Team Reports A standard red team engagement works like this: the offensive team operates covertly, tries to achieve objectives without being caught, and delivers a report at the end summa",
+   "title": "GitHub Models is now retired",
+   "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+   "date": "2026-08-09T22:48:05.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled r",
    "image": null
   },
   {
-   "title": "How Uber's SubmitQueue Keeps Their Monorepo Green at Scale — and Why It's Open Source",
-   "link": "https://dev.to/trismegistus/how-ubers-submitqueue-keeps-their-monorepo-green-at-scale-and-why-its-open-source-43a9",
-   "date": "2026-08-09T16:19:58.000Z",
+   "title": "Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable",
+   "link": "https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n",
+   "date": "2026-08-09T22:24:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you've ever worked in a large engineering team, you know the pain: pull requests stack up, CI takes forever, and by the time your PR passes all tests, someone else has merged a conflicting change. Now imagine doing th",
+   "summary": "Moving scheduled tasks off a cron box and onto serverless functions solves the \"one server, one crontab, one single point of failure\" problem. It also introduces a quieter one: a job that used to fail loudly in a log you",
    "image": null
   },
   {
-   "title": "Build a Custom Log Parser and Analyzer",
-   "link": "https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-47i4",
-   "date": "2026-08-09T16:00:06.000Z",
+   "title": "SQLite compressed text-history prototypes",
+   "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+   "date": "2026-08-09T22:05:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text o",
+   "image": null
+  },
+  {
+   "title": "Junior DevOps/Security Pro Seeks Feedback on Project Idea and Recruiter Expectations for Skill Set.",
+   "link": "https://dev.to/alitron/junior-devopssecurity-pro-seeks-feedback-on-project-idea-and-recruiter-expectations-for-skill-set-3c67",
+   "date": "2026-08-09T22:01:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a Custom Log Parser and Analyzer tags: python, devops, tools, tutorial tags: python, architecture, oop, tutorial tags: python, architecture, oop, tutorial tags: python, architecture, oop, tutorial tags: python, doc",
-   "image": null
+   "summary": "Junior DevOps and security professionals often face a critical challenge: translating theoretical knowledge into demonstrable skills. While certifications and online courses provide a foundation, recruiters prioritize ta",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foz8pmji5rv9xq7cjfbrp.jpeg"
   },
   {
    "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4c4b",
-   "date": "2026-08-09T15:57:19.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-5fk4",
+   "date": "2026-08-09T21:55:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 87% of developers struggle to integrate AI-generated documentation into their workflows, leading to wasted time and potential security breaches? Last week, I spent hours navigating the comp",
+   "summary": "Introduction Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize I could have automated it in 20 lines of Python using anydoc. This experience made me realize the importance ",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Your AI Agent Changed Its Config. Can You Roll It Back Safely?",
+   "link": "https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk",
+   "date": "2026-08-09T21:54:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A configuration change can be more dangerous than a code deploy when an AI agent can send messages, edit repositories, spend money, or operate a browser. The usual rollback advice is simple: keep the old file and copy it",
+   "image": null
+  },
+  {
+   "title": "Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines",
+   "link": "https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag",
+   "date": "2026-08-09T21:16:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Infrastructure: Setting Up Jenkins on AWS The foundation of this project began by provisioning an Ubuntu EC2 instance on AWS. Setting up the environment meant defining strict networking rules (opening Port 22 for SSH",
+   "image": null
   },
   {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
@@ -322,16 +352,6 @@
    "image": null
   },
   {
-   "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-   "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-   "date": "2026-08-07T16:18:51.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re se",
-   "image": null
-  },
-  {
    "title": "The open way of Percona Search for MongoDB",
    "link": "https://www.percona.com/blog/the-open-way-of-percona-search-for-mongodb/",
    "date": "2026-08-07T14:55:06.000Z",
@@ -440,26 +460,6 @@
    "source": "PortSwigger Research",
    "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
-   "title": "datasette 1.0a38",
-   "link": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
-   "date": "2026-08-06T18:24:34.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette 1.0a38 This release fixes a SQL injection security issue that affects Datasette instances that serve a mixture of public and private tables in the same database, with access configured using the Datase",
-   "image": null
-  },
-  {
-   "title": "datasette 0.65.3",
-   "link": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
-   "date": "2026-08-06T18:22:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette 0.65.3 Back-ported the SQL Injection security fix from 1.0a38 . Tags: datasette",
-   "image": null
   },
   {
    "title": "Talking Drupal: Talking Drupal #564 - Approachable Open Source",
