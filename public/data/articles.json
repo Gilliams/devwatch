@@ -1,85 +1,85 @@
 {
- "generatedAt": "2026-08-09T11:41:04.411Z",
+ "generatedAt": "2026-08-09T17:45:07.287Z",
  "articles": [
   {
-   "title": "Kubernetes in Production: Beyond the Tutorial",
-   "link": "https://dev.to/sri2614/kubernetes-in-production-beyond-the-tutorial-3edd",
-   "date": "2026-08-09T11:22:11.000Z",
+   "title": "IPv4 Market Report — July 2026: Prices Fall to $20.62/IP as 380K IP Addresses Traded",
+   "link": "https://dev.to/menesakdeniz/ipv4-market-report-july-2026-prices-fall-to-2062ip-as-380k-ip-addresses-traded-42jg",
+   "date": "2026-08-09T17:07:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Production Kubernetes is everything the tutorial skipped: resource requests and limits, liveness and readiness probes, autoscaling, disruption budgets, and namespaces with RBAC. Learn the guardrails that keep cl",
+   "summary": "IPv4 Market Report — July 2026: Prices Fall to $20.62/IP as 380K Addresses Trade IPv4 may be a decades-old protocol, but the market for IPv4 address space continues to change rapidly. In July 2026, we tracked 96 complete",
    "image": null
   },
   {
-   "title": "Choosing the Red Pill: CI/CD Pipelines that Actually Work",
-   "link": "https://dev.to/timevolt/choosing-the-red-pill-cicd-pipelines-that-actually-work-11a1",
-   "date": "2026-08-09T11:13:42.000Z",
+   "title": "LLM Observability Cost Starts With a Trace Budget",
+   "link": "https://dev.to/dmytronasyrov/llm-observability-cost-starts-with-a-trace-budget-401l",
+   "date": "2026-08-09T17:01:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think CI/CD was just a fancy way to say “run tests on every push”. I’d slap a few yaml lines together, push a commit, and then stare at the red cross for hours while the p",
+   "summary": "LLM observability cost is not a single price per trace. It is the sum of several workload multipliers: requests become traces, traces contain spans, selected spans become evaluation jobs, judges consume tokens, payloads ",
    "image": null
   },
   {
-   "title": "How I Keep Coding Agents Running When My Laptop Closes",
-   "link": "https://dev.to/elie222/how-i-keep-coding-agents-running-when-my-laptop-closes-1a13",
-   "date": "2026-08-09T11:03:38.000Z",
+   "title": "Your coding agent's summary of its own work is not evidence",
+   "link": "https://dev.to/jk27101/your-coding-agents-summary-of-its-own-work-is-not-evidence-46i5",
+   "date": "2026-08-09T16:53:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "My laptop is no longer where most of my coding work runs. I use remote Linux servers to keep agents working when I close the lid, lose internet, or get on a plane. The laptop is an interface. The long-running process liv",
+   "summary": "I spent three days last week doing real work on a production codebase with an agentic coding tool. Small site, live customers, money moving through it. The kind of place where a bad commit costs something. The work went ",
    "image": null
   },
   {
-   "title": "The ASN Pivot Playbook: Routes, Upstreams, Downstreams",
-   "link": "https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk",
-   "date": "2026-08-09T10:53:38.000Z",
+   "title": "I Brought rsync to kubectl",
+   "link": "https://dev.to/major1201/i-brought-rsync-to-kubectl-2984",
+   "date": "2026-08-09T16:34:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An ASN pivot is the cheapest move in an IP investigation and the easiest one to over-read. One call turns a single address into a network, a list of announced prefixes, a transit chain, and a set of customer networks. No",
+   "summary": "Over the last few months, I've been working with Kubernetes pods in my development environment. One thing I frequently need to do is transfer files from my local machine into a development pod. The usual choice is kubect",
    "image": null
   },
   {
-   "title": "I thought running OpenClaw from my phone was the goal, then I realized the phone should only say yes or no",
-   "link": "https://dev.to/lars_winstand/i-thought-running-openclaw-from-my-phone-was-the-goal-then-i-realized-the-phone-should-only-say-3o61",
-   "date": "2026-08-09T10:33:16.000Z",
+   "title": "Purple Teaming: Closing the Loop Between Attack and Detection",
+   "link": "https://dev.to/sakramen/purple-teaming-closing-the-loop-between-attack-and-detection-1207",
+   "date": "2026-08-09T16:25:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The first time I saw OpenClaw running through Open WebUI on a phone, my reaction was the same as everyone else's: this is cool as hell. It hits the same part of the brain as SSH-ing into a Raspberry Pi from an airport ga",
+   "summary": "The Problem With Traditional Red Team Reports A standard red team engagement works like this: the offensive team operates covertly, tries to achieve objectives without being caught, and delivers a report at the end summa",
+   "image": null
+  },
+  {
+   "title": "How Uber's SubmitQueue Keeps Their Monorepo Green at Scale — and Why It's Open Source",
+   "link": "https://dev.to/trismegistus/how-ubers-submitqueue-keeps-their-monorepo-green-at-scale-and-why-its-open-source-43a9",
+   "date": "2026-08-09T16:19:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you've ever worked in a large engineering team, you know the pain: pull requests stack up, CI takes forever, and by the time your PR passes all tests, someone else has merged a conflicting change. Now imagine doing th",
+   "image": null
+  },
+  {
+   "title": "Build a Custom Log Parser and Analyzer",
+   "link": "https://dev.to/qingluan/build-a-custom-log-parser-and-analyzer-47i4",
+   "date": "2026-08-09T16:00:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build a Custom Log Parser and Analyzer tags: python, devops, tools, tutorial tags: python, architecture, oop, tutorial tags: python, architecture, oop, tutorial tags: python, architecture, oop, tutorial tags: python, doc",
    "image": null
   },
   {
    "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4a9h",
-   "date": "2026-08-09T10:01:54.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4c4b",
+   "date": "2026-08-09T15:57:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 87% of developers struggle to effectively utilize anydoc in their workflow, resulting in wasted time and reduced productivity? Last week, I spent 3 hours manually converting Word documents ",
+   "summary": "Introduction Did you know that 87% of developers struggle to integrate AI-generated documentation into their workflows, leading to wasted time and potential security breaches? Last week, I spent hours navigating the comp",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Monitoring and Logging: The Force Awakens Your Alerts",
-   "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-alerts-346j",
-   "date": "2026-08-09T09:56:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Look, the reality is that I once got paged at 3 a.m. because a user complained that the checkout page felt “sluggish.” I rolled out of bed, opened the dashboard, and saw… nothing. No spikes i",
-   "image": null
-  },
-  {
-   "title": "Your AI Agent Has a Budget. Can You Explain Every Token and Tool Call?",
-   "link": "https://dev.to/zira125/your-ai-agent-has-a-budget-can-you-explain-every-token-and-tool-call-1paf",
-   "date": "2026-08-09T09:52:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An agent can be “within budget” while still being impossible to operate: the dashboard shows aggregate tokens, but nobody can answer which retry, tool call, browser session, or tenant consumed them. The fix is to treat c",
-   "image": null
   },
   {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
@@ -110,6 +110,16 @@
    "source": "Laravel News",
    "summary": "Laravel Boost project rules store your app's conventions in .ai/rules, scoped by file globs, so an agent only reads the instructions that apply. The post Laravel Boost Project Rules: Teach Agents Your Conventions appeare",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/boost.avif"
+  },
+  {
+   "title": "Zhang Chen: Why I Dare to Call Myself a “PostgreSQL Database Recovery Expert”",
+   "link": "https://postgr.es/p/9rS",
+   "date": "2026-08-09T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "After becoming a PostgreSQL ACE, Zhang Chen explains why he uses the title “PostgreSQL Database Recovery Expert” and how PDU evolved from offline extraction and WAL mining to fragment scanning and recovery without a data",
+   "image": null
   },
   {
    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -530,16 +540,6 @@
    "source": "Symfony Blog",
    "summary": "SymfonyCon Warsaw 2026 is officially set for November 26 and 27, 2026, in Warsaw (Poland)! Join developers from across the globe for our flagship international event. 🎤 Speaker announcements We are happy to host Timo Ba",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
-  },
-  {
-   "title": "Vibhor Kumar: ORBIT: An Execution Framework for Reliable Enterprise AI",
-   "link": "https://postgr.es/p/9rB",
-   "date": "2026-08-06T12:35:28.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Why AI Reliability Is an Execution Problem, Not a Model Problem The most dangerous AI decision isn’t the wrong one. It’s the one nobody can explain afterward. Most conversations about AI reliability start in the wrong pl",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image.png?w=1024"
   },
   {
    "title": "New in Twig 4.0: A New Macro System",
