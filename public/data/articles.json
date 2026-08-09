@@ -1,25 +1,105 @@
 {
- "generatedAt": "2026-08-08T23:41:26.673Z",
+ "generatedAt": "2026-08-09T05:55:59.588Z",
  "articles": [
   {
-   "title": "Load Balancer Tuning: Lessons from Production",
-   "link": "https://dev.to/samson_tanimawo/load-balancer-tuning-lessons-from-production-1k21",
-   "date": "2026-08-08T23:34:11.000Z",
+   "title": "Your Browser Agent Has State. Make It Prove Which State It Used",
+   "link": "https://dev.to/zira125/your-browser-agent-has-state-make-it-prove-which-state-it-used-4jno",
+   "date": "2026-08-09T05:51:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Load balancers are the silent infrastructure. You don't think about them until they start dropping connections at 2 AM. Here are the settings that have bitten me in production. Default connection idle timeout on AWS ALB ",
+   "summary": "Browser automation failures are often blamed on the model, the selector, or the website. In long-running agents, a quieter failure is more dangerous: the browser profile is stateful, but the agent treats it as disposable",
    "image": null
   },
   {
-   "title": "5 Best Site To Buy Aged OnlyFans Accounts In,,,",
-   "link": "https://dev.to/florribarry0j0zk/5-best-site-to-buy-aged-onlyfans-accounts-in-o5a",
-   "date": "2026-08-08T23:09:56.000Z",
+   "title": "Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew",
+   "link": "https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a",
+   "date": "2026-08-09T05:50:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gmail.",
+   "summary": "For three weeks I wrote content aimed squarely at answer engines. An llms.txt, loviam.com, Symfony and PostgreSQL on a single Referrals stayed at zero. The only external referrer my analytics table had ever chatgpt.com: ",
    "image": null
+  },
+  {
+   "title": "Learn DevOps in 90 Days: the free, incident-first path from developer to DevOps engineer",
+   "link": "https://dev.to/opscanopy/learn-devops-in-90-days-the-free-incident-first-path-from-developer-to-devops-engineer-oc7",
+   "date": "2026-08-09T05:50:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is a moment every new ops engineer remembers: the first time something real breaks. The tutorial ended weeks ago, the happy path is nowhere in sight, and a pod is stuck in CrashLoopBackOff — or a cron job silently ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fopscanopy.com%2Fblog%2Flearn-devops-in-90-days-hero.svg"
+  },
+  {
+   "title": "Vibhor Kumar: The Enterprise AI Trust Stack: How OWNS, CALM, and ORBIT Fit Together",
+   "link": "https://postgr.es/p/9rR",
+   "date": "2026-08-09T05:07:16.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Enterprise AI doesn’t fail because strategy was wrong. Or because the platform wasn’t ready. Or because the execution layer broke. It fails because organizations treat those as three different conversations — run by thre",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-11.png?w=1024"
+  },
+  {
+   "title": "Stop Single-Host Gateway Outages: Practical keepalived VRRP Floating IPs on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-single-host-gateway-outages-practical-keepalived-vrrp-floating-ips-on-linux-3k6k",
+   "date": "2026-08-09T05:02:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Stop Single-Host Gateway Outages: Practical keepalived VRRP Floating IPs on Linux A service IP that lives on only one box is a single point of failure. When that host reboots, freezes, or loses its uplink, every client t",
+   "image": null
+  },
+  {
+   "title": "When a Deploy Breaks Production: The Beginner's Rollback Playbook",
+   "link": "https://dev.to/dineshstack/when-a-deploy-breaks-production-the-beginners-rollback-playbook-55kp",
+   "date": "2026-08-09T04:52:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "It Happens to Everyone You pushed. The pipeline went green. You opened the site to admire your work — and it's a white screen. Or a 500. Or the checkout button silently does nothing. Your heart rate doubles, because this",
+   "image": null
+  },
+  {
+   "title": "Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern",
+   "link": "https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp",
+   "date": "2026-08-09T04:50:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The circuit breaker pattern is a modern software design strategy used to detect failures and prevent an application from repeatedly executing an operation that is highly likely to fail. It acts as a protective wrapper ar",
+   "image": null
+  },
+  {
+   "title": "Exploring DeepSeek V4 Flash 0731: A New Frontier in AI Infrastructure",
+   "link": "https://dev.to/naveenmalothu/exploring-deepseek-v4-flash-0731-a-new-frontier-in-ai-infrastructure-1h28",
+   "date": "2026-08-09T04:48:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What was released / announced DeepSeek V4 Flash 0731 is a recently released AI model that has garnered significant attention in the tech community, with 768 upvotes on Hacker News. According to the official announcement ",
+   "image": null
+  },
+  {
+   "title": "Master anydoc in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4jjg",
+   "date": "2026-08-09T04:43:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize that I could have automated the entire process in just a few lines of code using anydoc. This experience spar",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Laravel Boost Project Rules: Teach Agents Your Conventions",
+   "link": "https://laravel-news.com/laravel-boost-project-rules?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-09T03:10:48.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Boost project rules store your app's conventions in .ai/rules, scoped by file globs, so an agent only reads the instructions that apply. The post Laravel Boost Project Rules: Teach Agents Your Conventions appeare",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/boost.avif"
   },
   {
    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
@@ -29,66 +109,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claud",
-   "image": null
-  },
-  {
-   "title": "GitHub Agentic Workflows: Your Octopus Students for Controlled Automation",
-   "link": "https://dev.to/mburakunuvar/github-agentic-workflows-your-octopus-students-for-controlled-automation-3ma8",
-   "date": "2026-08-08T22:27:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "❓ Have you found your self orchestrating multiple coding agents across different harnesses, screens, surfaces? How many at most can you track and monitor simultaneously? 😫 ❓ Did you ever give up on approving permission ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fun2er2c5ilmnpippmjnn.jpg"
-  },
-  {
-   "title": "Trusted 5 Marketplaces for Buying Old Instagram Accounts |...",
-   "link": "https://dev.to/florribarry0j0zk/trusted-5-marketplaces-for-buying-old-instagram-accounts--44p2",
-   "date": "2026-08-08T22:11:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gmail.",
-   "image": null
-  },
-  {
-   "title": "Como Implantar Docker em VPS Linux: Tutorial Pratico e Requisitos",
-   "link": "https://dev.to/gabriel_kemmer_6f1f38b7a3/como-implantar-docker-em-vps-linux-tutorial-pratico-e-requisitos-46oa",
-   "date": "2026-08-08T21:52:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Como Implantar Docker em VPS Linux: Tutorial Prático e Requisitos de Servidor Se você chegou até aqui, provavelmente já entende o potencial do Docker para transformar a maneira como você desenvolve, empacota e implanta s",
-   "image": null
-  },
-  {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-335k",
-   "date": "2026-08-08T21:51:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Did you know that 87% of developers struggle to integrate AI-generated code into their workflows, resulting in wasted time and frustration? Last week, I spent 3 hours trying to automate a task using Rust too",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Your AI Agent Restarted. Did Its Credentials Survive Too?",
-   "link": "https://dev.to/zira125/your-ai-agent-restarted-did-its-credentials-survive-too-4mop",
-   "date": "2026-08-08T21:51:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A restart test that checks only whether the process comes back is incomplete. For an AI agent, the more dangerous question is whether credentials, browser profiles, cached tokens, and queued work come back with the same ",
-   "image": null
-  },
-  {
-   "title": "The Kernel Underneath Kubernetes: nftables, netfilter, and Why svclb-traefik Kept Crash-Looping",
-   "link": "https://dev.to/audu97/the-kernel-underneath-kubernetes-nftables-netfilter-and-why-svclb-traefik-kept-crash-looping-5cgi",
-   "date": "2026-08-08T21:32:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A few weeks ago, I hit a bug that sent me further down the Linux networking stack than I'd gone in years: an NVIDIA Jetson device, running k3s at the edge, with svclb-traefik stuck in a CrashLoopBackOff that made no sens",
    "image": null
   },
   {
@@ -312,6 +332,16 @@
    "image": null
   },
   {
+   "title": "Using and Styling the Dialog Element",
+   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+   "date": "2026-08-07T14:06:43.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
    "title": "Saga Lara Flow: Durable Workflows and Compensating Transactions on Laravel Queues",
    "link": "https://laravel-news.com/saga-lara-flow?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-07T12:58:48.000Z",
@@ -442,6 +472,16 @@
    "image": null
   },
   {
+   "title": "2026 State of CSS, Devs Surveys",
+   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+   "date": "2026-08-06T15:54:52.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
+   "image": null
+  },
+  {
    "title": "Pavel Stehule: initial integration lua language to psql",
    "link": "https://postgr.es/p/9rC",
    "date": "2026-08-06T15:48:38.000Z",
@@ -490,16 +530,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Why AI Reliability Is an Execution Problem, Not a Model Problem The most dangerous AI decision isn’t the wrong one. It’s the one nobody can explain afterward. Most conversations about AI reliability start in the wrong pl",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image.png?w=1024"
-  },
-  {
-   "title": "Antony Pegg: Postgres for Agentic AI: Your Database Is a Compute Layer, Not a Parking Lot",
-   "link": "https://postgr.es/p/9rD",
-   "date": "2026-08-06T12:20:29.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL is already the default database for agentic AI. That question is settled. But the more agentic your workloads get, the more your database needs to do. Models and workflows flood it with signals, state, memory,",
-   "image": "https://a.storyblok.com/f/187930/1400x880/096d5b8168/what_agents_do_to_your_database.png"
   },
   {
    "title": "New in Twig 4.0: A New Macro System",
@@ -592,16 +622,6 @@
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
-   "title": "Laravel Boost Project Rules: Teach Agents Your Conventions",
-   "link": "https://laravel-news.com/laravel-boost-project-rules?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-05T15:24:34.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Boost project rules store your app's conventions in .ai/rules, scoped by file globs, so an agent only reads the instructions that apply. The post Laravel Boost Project Rules: Teach Agents Your Conventions appeare",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/boost.avif"
-  },
-  {
    "title": "New in Twig 4.0: A First-Class Sandbox",
    "link": "https://symfony.com/blog/new-in-twig-4-0-a-first-class-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-05T12:09:00.000Z",
@@ -692,6 +712,16 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
+  },
+  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -709,6 +739,26 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -962,6 +1012,16 @@
    "image": null
   },
   {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
    "title": "Grabette: an open system to record robot-manipulation data",
    "link": "https://huggingface.co/blog/grabette",
    "date": "2026-07-21T00:00:00.000Z",
@@ -992,6 +1052,16 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "Does the frontend still need build tools?",
    "link": "https://frontendfoc.us/issues/750",
    "date": "2026-07-15T00:00:00.000Z",
@@ -1009,6 +1079,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-14T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
