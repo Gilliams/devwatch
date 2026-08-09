@@ -1,35 +1,95 @@
 {
- "generatedAt": "2026-08-09T05:55:59.588Z",
+ "generatedAt": "2026-08-09T11:41:04.411Z",
  "articles": [
   {
-   "title": "Your Browser Agent Has State. Make It Prove Which State It Used",
-   "link": "https://dev.to/zira125/your-browser-agent-has-state-make-it-prove-which-state-it-used-4jno",
-   "date": "2026-08-09T05:51:50.000Z",
+   "title": "Kubernetes in Production: Beyond the Tutorial",
+   "link": "https://dev.to/sri2614/kubernetes-in-production-beyond-the-tutorial-3edd",
+   "date": "2026-08-09T11:22:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Browser automation failures are often blamed on the model, the selector, or the website. In long-running agents, a quieter failure is more dangerous: the browser profile is stateful, but the agent treats it as disposable",
+   "summary": "⚡ TL;DR: Production Kubernetes is everything the tutorial skipped: resource requests and limits, liveness and readiness probes, autoscaling, disruption budgets, and namespaces with RBAC. Learn the guardrails that keep cl",
    "image": null
   },
   {
-   "title": "Cloudflare was 403-ing ChatGPT, Perplexity and Claude on my site, and my logs never knew",
-   "link": "https://dev.to/mollenthiel/cloudflare-was-403-ing-chatgpt-perplexity-and-claude-on-my-site-and-my-logs-never-knew-5g8a",
-   "date": "2026-08-09T05:50:43.000Z",
+   "title": "Choosing the Red Pill: CI/CD Pipelines that Actually Work",
+   "link": "https://dev.to/timevolt/choosing-the-red-pill-cicd-pipelines-that-actually-work-11a1",
+   "date": "2026-08-09T11:13:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For three weeks I wrote content aimed squarely at answer engines. An llms.txt, loviam.com, Symfony and PostgreSQL on a single Referrals stayed at zero. The only external referrer my analytics table had ever chatgpt.com: ",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think CI/CD was just a fancy way to say “run tests on every push”. I’d slap a few yaml lines together, push a commit, and then stare at the red cross for hours while the p",
    "image": null
   },
   {
-   "title": "Learn DevOps in 90 Days: the free, incident-first path from developer to DevOps engineer",
-   "link": "https://dev.to/opscanopy/learn-devops-in-90-days-the-free-incident-first-path-from-developer-to-devops-engineer-oc7",
-   "date": "2026-08-09T05:50:10.000Z",
+   "title": "How I Keep Coding Agents Running When My Laptop Closes",
+   "link": "https://dev.to/elie222/how-i-keep-coding-agents-running-when-my-laptop-closes-1a13",
+   "date": "2026-08-09T11:03:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is a moment every new ops engineer remembers: the first time something real breaks. The tutorial ended weeks ago, the happy path is nowhere in sight, and a pod is stuck in CrashLoopBackOff — or a cron job silently ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fopscanopy.com%2Fblog%2Flearn-devops-in-90-days-hero.svg"
+   "summary": "My laptop is no longer where most of my coding work runs. I use remote Linux servers to keep agents working when I close the lid, lose internet, or get on a plane. The laptop is an interface. The long-running process liv",
+   "image": null
+  },
+  {
+   "title": "The ASN Pivot Playbook: Routes, Upstreams, Downstreams",
+   "link": "https://dev.to/abdullah_afzal/the-asn-pivot-playbook-routes-upstreams-downstreams-3ppk",
+   "date": "2026-08-09T10:53:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An ASN pivot is the cheapest move in an IP investigation and the easiest one to over-read. One call turns a single address into a network, a list of announced prefixes, a transit chain, and a set of customer networks. No",
+   "image": null
+  },
+  {
+   "title": "I thought running OpenClaw from my phone was the goal, then I realized the phone should only say yes or no",
+   "link": "https://dev.to/lars_winstand/i-thought-running-openclaw-from-my-phone-was-the-goal-then-i-realized-the-phone-should-only-say-3o61",
+   "date": "2026-08-09T10:33:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The first time I saw OpenClaw running through Open WebUI on a phone, my reaction was the same as everyone else's: this is cool as hell. It hits the same part of the brain as SSH-ing into a Raspberry Pi from an airport ga",
+   "image": null
+  },
+  {
+   "title": "Master anydoc in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4a9h",
+   "date": "2026-08-09T10:01:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Did you know that 87% of developers struggle to effectively utilize anydoc in their workflow, resulting in wasted time and reduced productivity? Last week, I spent 3 hours manually converting Word documents ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Monitoring and Logging: The Force Awakens Your Alerts",
+   "link": "https://dev.to/timevolt/monitoring-and-logging-the-force-awakens-your-alerts-346j",
+   "date": "2026-08-09T09:56:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Look, the reality is that I once got paged at 3 a.m. because a user complained that the checkout page felt “sluggish.” I rolled out of bed, opened the dashboard, and saw… nothing. No spikes i",
+   "image": null
+  },
+  {
+   "title": "Your AI Agent Has a Budget. Can You Explain Every Token and Tool Call?",
+   "link": "https://dev.to/zira125/your-ai-agent-has-a-budget-can-you-explain-every-token-and-tool-call-1paf",
+   "date": "2026-08-09T09:52:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent can be “within budget” while still being impossible to operate: the dashboard shows aggregate tokens, but nobody can answer which retry, tool call, browser session, or tenant consumed them. The fix is to treat c",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1023 (August 3–9, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1023-august-3-9-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-09T07:46:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony 7.4.16 and 8.1.4 maintenance versions were released, alongside Symfony UX 3.4.0 and Symfony Polyfill 1.41.0. In addition, we highlighted Twig 4.0's new macro system and first-class sandbox. Finally, we",
+   "image": null
   },
   {
    "title": "Vibhor Kumar: The Enterprise AI Trust Stack: How OWNS, CALM, and ORBIT Fit Together",
@@ -40,56 +100,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Enterprise AI doesn’t fail because strategy was wrong. Or because the platform wasn’t ready. Or because the execution layer broke. It fails because organizations treat those as three different conversations — run by thre",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-11.png?w=1024"
-  },
-  {
-   "title": "Stop Single-Host Gateway Outages: Practical keepalived VRRP Floating IPs on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-single-host-gateway-outages-practical-keepalived-vrrp-floating-ips-on-linux-3k6k",
-   "date": "2026-08-09T05:02:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Stop Single-Host Gateway Outages: Practical keepalived VRRP Floating IPs on Linux A service IP that lives on only one box is a single point of failure. When that host reboots, freezes, or loses its uplink, every client t",
-   "image": null
-  },
-  {
-   "title": "When a Deploy Breaks Production: The Beginner's Rollback Playbook",
-   "link": "https://dev.to/dineshstack/when-a-deploy-breaks-production-the-beginners-rollback-playbook-55kp",
-   "date": "2026-08-09T04:52:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "It Happens to Everyone You pushed. The pipeline went green. You opened the site to admire your work — and it's a white screen. Or a 500. Or the checkout button silently does nothing. Your heart rate doubles, because this",
-   "image": null
-  },
-  {
-   "title": "Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern",
-   "link": "https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp",
-   "date": "2026-08-09T04:50:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The circuit breaker pattern is a modern software design strategy used to detect failures and prevent an application from repeatedly executing an operation that is highly likely to fail. It acts as a protective wrapper ar",
-   "image": null
-  },
-  {
-   "title": "Exploring DeepSeek V4 Flash 0731: A New Frontier in AI Infrastructure",
-   "link": "https://dev.to/naveenmalothu/exploring-deepseek-v4-flash-0731-a-new-frontier-in-ai-infrastructure-1h28",
-   "date": "2026-08-09T04:48:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What was released / announced DeepSeek V4 Flash 0731 is a recently released AI model that has garnered significant attention in the tech community, with 768 upvotes on Hacker News. According to the official announcement ",
-   "image": null
-  },
-  {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-4jjg",
-   "date": "2026-08-09T04:43:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize that I could have automated the entire process in just a few lines of code using anydoc. This experience spar",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
    "title": "Laravel Boost Project Rules: Teach Agents Your Conventions",
