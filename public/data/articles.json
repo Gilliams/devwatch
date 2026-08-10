@@ -1,6 +1,86 @@
 {
- "generatedAt": "2026-08-10T17:59:57.258Z",
+ "generatedAt": "2026-08-10T23:48:01.500Z",
  "articles": [
+  {
+   "title": "Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs",
+   "link": "https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch",
+   "date": "2026-08-10T23:30:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The VMware Exodus With Broadcom's acquisition of VMware causing massive licensing fee hikes, enterprise companies are scrambling for alternatives. The default reaction is often a lift-and-shift to AWS or Azure. However, ",
+   "image": null
+  },
+  {
+   "title": "Building a Zero-Trust Kubernetes Cluster from Scratch",
+   "link": "https://dev.to/mealiclay01/building-a-zero-trust-kubernetes-cluster-from-scratch-2l74",
+   "date": "2026-08-10T23:30:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Illusion of Internal Security Many organizations treat their Kubernetes cluster like a medieval castle: heavy defenses at the perimeter (ingress/WAF), but completely unprotected on the inside. If an attacker compromi",
+   "image": null
+  },
+  {
+   "title": "Automating Enterprise Workflows with n8n and Local LLMs (Ollama)",
+   "link": "https://dev.to/mealiclay01/automating-enterprise-workflows-with-n8n-and-local-llms-ollama-4l11",
+   "date": "2026-08-10T23:30:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Privacy Dilemma in AI Automation Companies want the power of AI to automate document parsing, lead scoring, and internal workflows. However, sending sensitive financial data, legal contracts, or customer PII to OpenA",
+   "image": null
+  },
+  {
+   "title": "Kubernetes: alertas de rollback con contexto real",
+   "link": "https://dev.to/alexcarteruk/kubernetes-alertas-de-rollback-con-contexto-real-2em2",
+   "date": "2026-08-10T23:25:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cuando un rollout falla en Kubernetes, casi siempre sobra ruido y falta contexto. Llega una alerta, alguien mira el canal, y en menos de cinco minutos ya hay tres hipotesis distintas. Ese momento decide si el rollback se",
+   "image": null
+  },
+  {
+   "title": "SSHBool: An Open-Source Desktop Workspace for SSH, SFTP and Remote Servers",
+   "link": "https://dev.to/omar_senusi/sshbool-an-open-source-desktop-workspace-for-ssh-sftp-and-remote-servers-4dpg",
+   "date": "2026-08-10T23:04:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "SSHBool: An Open-Source Desktop Workspace for SSH, SFTP and Remote Servers If you work with Linux servers regularly, you probably have your own combination of tools for SSH, terminals, file transfers, and server manageme",
+   "image": null
+  },
+  {
+   "title": "Stop switching tabs to fix your deployments: Giving LLMs hands on Netlify",
+   "link": "https://dev.to/renato_marinho/stop-switching-tabs-to-fix-your-deployments-giving-llms-hands-on-netlify-14ha",
+   "date": "2026-08-10T22:19:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I’ve spent enough time in terminal windows and dashboard tabs to know that the most expensive part of modern development isn't the compute—it's the context switch. You're mid-flow, debugging a logic error in Cursor or Cl",
+   "image": null
+  },
+  {
+   "title": "Master anydoc in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-10il",
+   "date": "2026-08-10T22:03:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week I spent 3 hours debugging a Rust project, only to realize I was using outdated tools. Then I discovered anydoc, a powerful documentation generator that simplified my workflow in just 5 minutes. In ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Monorepo or Polyrepo for a Three-Person Startup? A Decision Framework",
+   "link": "https://dev.to/libme/monorepo-or-polyrepo-for-a-three-person-startup-a-decision-framework-51nd",
+   "date": "2026-08-10T21:58:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For most three-person startups, a single monorepo wins by default — not because monorepos are architecturally superior, but because at three people the expensive problem is coordination overhead, and one repo with atomic",
+   "image": null
+  },
   {
    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
@@ -10,36 +90,6 @@
    "source": "The Hacker News",
    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg"
-  },
-  {
-   "title": "GRR Rapid Response: Free, Open-Source Remote Forensics (CISA-Listed)",
-   "link": "https://dev.to/xpert4cyber/grr-rapid-response-free-open-source-remote-forensics-cisa-listed-11oc",
-   "date": "2026-08-10T17:18:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚨 2 a.m. Your SOC gets an alert — a laptop halfway across the world is beaconing to a malicious IP. No physical access, no local IT for hours. This is the exact problem that pushed Google's security team to build GRR Ra",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xurjfvkxa6tsdwuqqf9.png"
-  },
-  {
-   "title": "8 Docker Web UIs Compared in 2026: Portainer is No Longer the Only Answer",
-   "link": "https://dev.to/vasilipascal/8-docker-web-uis-compared-in-2026-portainer-is-no-longer-the-only-answer-3a2m",
-   "date": "2026-08-10T16:57:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For years the answer to \"what web UI should I use for Docker?\" was Portainer, full stop. In 2026 that answer is more nuanced. A new generation of tools has emerged - full self-hosted PaaS platforms (Dokploy, Coolify), cl",
-   "image": null
-  },
-  {
-   "title": "The Alert Tells You Something Is Wrong. FixBugs Tells You, “I’ll Fix It.",
-   "link": "https://dev.to/robin_thedude_4ce28b7b54/the-alert-tells-you-something-is-wrong-fixbugs-tells-you-ill-fix-it-31fj",
-   "date": "2026-08-10T16:50:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A production alert fires. You know something is wrong. But the alert rarely tells you why. So the debugging process begins. Check the logs. Look at traces. Review recent deployments. Search the codebase. Try to reproduce",
-   "image": null
   },
   {
    "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
@@ -52,26 +102,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg"
   },
   {
-   "title": "How I run 15 projects with Claude Code without losing the thread",
-   "link": "https://dev.to/martinschenk/how-i-run-15-projects-with-claude-code-without-losing-the-thread-23lb",
-   "date": "2026-08-10T16:32:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Fifteen projects, one person. The obvious failure mode is that you spend your day switching between them, and by evening you have touched six and finished none. So I do not switch. I open a terminal in whichever project ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frwsldfhqxko58a0ohanm.png"
-  },
-  {
-   "title": "Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees)",
-   "link": "https://dev.to/lakshanmuruganandam/local-ai-agents-how-to-build-a-100-free-autonomous-coding-assistant-on-your-laptop-zero-api-fees-39fc",
-   "date": "2026-08-10T16:25:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Local AI Agents: How to Build a 100% Free Autonomous Coding Assistant on Your Laptop (Zero API Fees) Developers and software engineers spend hundreds of dollars annually on API subscriptions for cloud LLMs like OpenAI an",
-   "image": null
-  },
-  {
    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
    "date": "2026-08-10T16:25:36.000Z",
@@ -80,36 +110,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1iof",
-   "date": "2026-08-10T16:22:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours struggling to integrate anydoc with my Rust project, only to realize I was doing it all wrong. You'll build a fully functional anydoc setup in just 5 minutes, and learn how to harn",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "AIoT Isn't About Connecting Everything—It's About Understanding It",
-   "link": "https://dev.to/akihsay_cdd733b1e9c4c5bc3/aiot-isnt-about-connecting-everything-its-about-understanding-it-38ae",
-   "date": "2026-08-10T16:22:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "We've spent years making machines, equipment, assets, and workplaces more connected. But there's a catch: More connectivity doesn't automatically create more intelligence. IoT is excellent at collecting information from ",
-   "image": null
-  },
-  {
-   "title": "unissh – a modern and secure, fully open-source SSH client with a built-in sync server",
-   "link": "https://dev.to/goduni/unissh-a-modern-and-secure-fully-open-source-ssh-client-with-a-built-in-sync-server-14nh",
-   "date": "2026-08-10T16:20:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hi everyone! I'd like to show you unissh – a modern, simple, open source SSH client with a self-hosted zero-knowledge server for syncing your data between devices. Fair warning up front: the project is pure vibecode – Ru",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frpdbb12l5pf2lvszt5pv.png"
   },
   {
    "title": "Animating CSS border-image",
@@ -240,6 +240,16 @@
    "source": "The Hacker News",
    "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
+  },
+  {
+   "title": "The Drop Times: Who Pays for Drupal’s Shared Work?",
+   "link": "https://www.thedroptimes.com/newsletter/drupal-shared-work-funding?utm_source=Drupal Planet",
+   "date": "2026-08-10T05:12:56.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Recent audited figures give Drupal’s sustainability debate a concrete baseline. The Drupal Association says unrestricted reserves are about $960,000, equal to 2.3 months of operating expenses and below the board’s three-",
+   "image": null
   },
   {
    "title": "Quoting OpenClaw",
@@ -629,16 +639,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Open-source code may remain available while the services, organisations, licences, and support arrangements around it change. Drupal delivery teams need accurate dependency records and workable continuity plans throughou",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: EU Open Source Strategy Backs Public Code With Procurement and Maintenance Measures",
-   "link": "https://www.thedroptimes.com/71489/eu-open-source-procurement-security-maintenance?utm_source=Drupal Planet",
-   "date": "2026-08-06T07:59:31.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The European Commission wants public bodies to become stronger users and contributors to open source, supported by fairer procurement, maintenance funding, security measures and long-term stewardship.",
    "image": null
   },
   {
@@ -1179,16 +1179,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
-   "image": null
-  },
-  {
-   "title": "Open source maintainership in the age of AI",
-   "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/",
-   "date": "2026-06-26T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "AI has really changed the game around software development. More people are leveraging AI than ever to contribute patches to projects they use. To me, this is a good thing as more folks will contribute patches rather tha",
    "image": null
   }
  ]
