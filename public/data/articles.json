@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-08-10T06:20:28.400Z",
+ "generatedAt": "2026-08-10T11:56:46.459Z",
  "articles": [
   {
-   "title": "What Is the Best Blockchain Certification for Beginners and Working Professionals?",
-   "link": "https://dev.to/georgiaweston/what-is-the-best-blockchain-certification-for-beginners-and-working-professionals-42dl",
-   "date": "2026-08-10T06:09:16.000Z",
+   "title": "Securing the Software Supply Chain (SLSA, SBOM, Signing)",
+   "link": "https://dev.to/sri2614/securing-the-software-supply-chain-slsa-sbom-signing-499e",
+   "date": "2026-08-10T11:42:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Blockchain technology is creating opportunities across finance, technology, cybersecurity, digital assets, and Web3. As more organizations adopt blockchain-based solutions, both beginners and working professionals are lo",
+   "summary": "⚡ TL;DR: Most of your production code is dependencies you didn't write, so the supply chain is the attack surface. Shift security left with SBOMs, signing and provenance via Sigstore, the SLSA levels, and least-privilege",
    "image": null
   },
   {
-   "title": "Make fail2ban report its bans to a community blacklist",
-   "link": "https://dev.to/fcalculator/make-fail2ban-report-its-bans-to-a-community-blacklist-288g",
-   "date": "2026-08-10T06:05:32.000Z",
+   "title": "Three Copies of the Key, None of the Passphrase",
+   "link": "https://dev.to/jeremy_longshore/three-copies-of-the-key-none-of-the-passphrase-4a5g",
+   "date": "2026-08-10T11:30:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Check the auth log on any server with port 22 open and it's always the same story: endless login attempts from IPs that have clearly done this before. fail2ban bans them, the bantime runs out, and that's it. Nothing lear",
+   "summary": "A new lead is taking over Buzz management. That is the whole reason this work happened, and it is worth being precise about why, because it is not an audit finding. You do not hand someone a production system whose maste",
    "image": null
   },
   {
-   "title": "How AI Agent Architecture Powers Autonomous AI Systems",
-   "link": "https://dev.to/deepikarajawat/how-ai-agent-architecture-powers-autonomous-ai-systems-1kcl",
-   "date": "2026-08-10T06:03:47.000Z",
+   "title": "Run all your self-hosted services behind one IP with a reverse proxy",
+   "link": "https://dev.to/eqvps/run-all-your-self-hosted-services-behind-one-ip-with-a-reverse-proxy-m3c",
+   "date": "2026-08-10T11:26:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Over the past few years, we've witnessed an incredible leap in artificial intelligence. Large Language Models (LLMs) can write code, summarize documents, answer questions, and generate content in seconds. But generating ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F96ls6iqtya3atvewjzal.png"
-  },
-  {
-   "title": "Your AI Agent Has Access. That Doesn’t Mean It Has Approval.",
-   "link": "https://dev.to/ye_allen_/your-ai-agent-has-access-that-doesnt-mean-it-has-approval-5c51",
-   "date": "2026-08-10T06:01:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An AI agent can have valid credentials, a healthy model route, and permission to invoke a tool. It can still need a human to say: not this action, not now. That distinction matters. Many AI products treat tool access as ",
+   "summary": "There's a point in every self-hosting habit where you stop wanting a server per thing. You've got an app, its database, maybe n8n for automations, a status dashboard, a small API — and running each on its own tiny VPS me",
    "image": null
   },
   {
-   "title": "Your AI Agent Needs a Tenant Fence at Every Hop",
-   "link": "https://dev.to/zira125/your-ai-agent-needs-a-tenant-fence-at-every-hop-59l1",
-   "date": "2026-08-10T05:54:13.000Z",
+   "title": "Self-hosting email: the two things that actually decide deliverability",
+   "link": "https://dev.to/eqvps/self-hosting-email-the-two-things-that-actually-decide-deliverability-5ghp",
+   "date": "2026-08-10T11:23:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An agent can start inside the right tenant and still cross a tenant boundary later. The dangerous part is usually not the model. It is context loss between the planner, queue, worker, browser session, and tool adapter. A",
+   "summary": "Most guides about self-hosting email skip the part that actually decides whether it works, and it isn't the software. You can set up Postfix in an afternoon. Whether your mail lands in inboxes or vanishes into spam folde",
    "image": null
   },
   {
-   "title": "Multi-Cluster ArgoCD Architecture: Hub-and-Spoke vs. Per-Cluster, Done Right",
-   "link": "https://dev.to/aloknecessary/multi-cluster-argocd-architecture-hub-and-spoke-vs-per-cluster-done-right-p17",
-   "date": "2026-08-10T05:48:33.000Z",
+   "title": "Your Side Project Doesn't Need a Public IP. Here's the Proof.",
+   "link": "https://dev.to/dhruv_malaviya_cdcc71e595/your-side-project-doesnt-need-a-public-ip-heres-the-proof-2mem",
+   "date": "2026-08-10T11:08:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every ArgoCD tutorial ends with one cluster, one ArgoCD instance, and kubectl config current-context pointing at the same place ArgoCD is installed. That works fine — until you have two clusters. By the time you're at 10",
+   "summary": "I used to think every server needed a public IP. It's just... how servers work, right? Then I moved my side project , a small Node.js API with a Postgres database , to Krova Cloud. Cubes don't get public IPs by default. ",
    "image": null
   },
   {
-   "title": "AWS CloudFormation — Infrastructure as Code, Templates, Stacks & Change Sets",
-   "link": "https://dev.to/tejas_shinkar/aws-cloudformation-infrastructure-as-code-templates-stacks-change-sets-50k0",
-   "date": "2026-08-10T05:46:29.000Z",
+   "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
+   "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-n77",
+   "date": "2026-08-10T11:00:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps. CloudFormation is the foundation of infrastructure automation on AWS — the point where \"clicking in the console\" becomes \"code that c",
+   "summary": "We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us. Everyone designs for the happy path. But in multi-agent systems, the failure modes multiply: Agent A succ",
    "image": null
   },
   {
-   "title": "Moving a SaaS from Node.js 22 to Node.js 24: What Can Actually Break?",
-   "link": "https://dev.to/ascentinnovate/moving-a-saas-from-nodejs-22-to-nodejs-24-what-can-actually-break-3b5b",
-   "date": "2026-08-10T05:41:23.000Z",
+   "title": "The Tech Skill Isn't Enough: 5 Learning Ethics Every Developer Should Build.",
+   "link": "https://dev.to/tech_ng/the-tech-skill-isnt-enough-5-learning-ethics-every-developer-should-build-3nfh",
+   "date": "2026-08-10T10:52:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Changing Node.js from 22 to 24 can be one line in package.json. That is not the upgrade. The upgrade is everything that line causes the product to run differently against. Node.js 22 is still supported, so an existing Sa",
+   "summary": "You can learn JavaScript. You can learn Python. You can learn React, cybersecurity, data science, AI or cloud computing. But there is a question worth asking: What happens after you learn the skill? Because knowing how t",
    "image": null
+  },
+  {
+   "title": "Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems",
+   "link": "https://dev.to/trismegistus/docker-sandboxes-for-ai-agents-why-isolation-is-the-missing-piece-in-autonomous-systems-57kn",
+   "date": "2026-08-10T10:51:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Docker Sandboxes for AI Agents: Why Isolation Is the Missing Piece in Autonomous Systems AI agents are getting more powerful every month. They can browse the web, write code, execute commands, and interact with APIs. But",
+   "image": null
+  },
+  {
+   "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+   "date": "2026-08-10T10:05:36.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Umair Shahid: Choosing the Right PostgreSQL Partition Key",
+   "link": "https://postgr.es/p/9rV",
+   "date": "2026-08-10T10:01:35.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Partitioning gets sold as a performance switch. You flip it on a big table, and the slow queries get fast. Most of the time, that is exactly what happens. But there is a version of this where you do all the work, split a",
+   "image": null
+  },
+  {
+   "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+   "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+   "date": "2026-08-10T07:38:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg"
+  },
+  {
+   "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+   "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+   "date": "2026-08-10T05:50:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
   },
   {
    "title": "Quoting OpenClaw",
@@ -99,6 +139,26 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Every PostgreSQL connection since 8.0 has heard the server announce `integer_datetimes`—a parameter that's had only one possible value since PostgreSQL 10.",
+   "image": null
+  },
+  {
+   "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+   "link": "https://huggingface.co/blog/muse-glimmer",
+   "date": "2026-08-10T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS 3.7.0beta2",
+   "link": "https://postgr.es/p/9rU",
+   "date": "2026-08-10T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0beta2! Best Served with PostgreSQL 19 Beta2 and GEOS 3.15.0beta2. This version requires PostgreSQL 14 - 19beta2, GEOS 3.10 or higher, and Proj 6.1+. To take advantage o",
    "image": null
   },
   {
@@ -302,26 +362,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
   },
   {
-   "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-   "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-   "date": "2026-08-07T18:29:08.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
-  },
-  {
-   "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-   "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-   "date": "2026-08-07T18:16:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
-  },
-  {
    "title": "Symfony 8.1.4 released",
    "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-07T18:08:16.000Z",
@@ -339,6 +379,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 7.4.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+   "link": "https://huggingface.co/blog/allenai/tutormoments",
+   "date": "2026-08-07T17:53:32.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -369,6 +419,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "How a design subscription studio built its website around a single governing idea: an old, always-on machine, running underneath a modern Nuxt and Three.js stack.",
+   "image": null
+  },
+  {
+   "title": "Using and Styling the Dialog Element",
+   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+   "date": "2026-08-07T14:06:43.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
    "image": null
   },
   {
@@ -422,24 +482,14 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: ignore_invalid_pages",
-   "link": "https://postgr.es/p/9rF",
-   "date": "2026-08-07T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "When a standby refuses to replay WAL that references pages that don't exist, `ignore_invalid_pages` converts the PANIC into a WARNING—but only as a last resort…",
-   "image": null
-  },
-  {
-   "title": "Andrei Mironov: PostgreSQL Row-Level Security for AI Agents: A Testable Setup",
-   "link": "https://postgr.es/p/9rL",
-   "date": "2026-08-07T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Build and verify PostgreSQL row-level security for AI agents with non-owner roles, FORCE RLS, explicit policies, controlled writes, and denial tests.",
-   "image": null
+   "title": "CSS:the bomb inside your inbox",
+   "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+   "date": "2026-08-06T22:00:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
+   "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
   },
   {
    "title": "Talking Drupal: Talking Drupal #564 - Approachable Open Source",
@@ -469,6 +519,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A tiny WebGPU and TSL experiment, tinkering with physics, deformations, and procedural audio, all tied together inside a sphere to play with.",
+   "image": null
+  },
+  {
+   "title": "2026 State of CSS, Devs Surveys",
+   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+   "date": "2026-08-06T15:54:52.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
    "image": null
   },
   {
@@ -542,6 +602,26 @@
    "image": null
   },
   {
+   "title": "Baseten on Hugging Face Inference Providers 🔥",
+   "link": "https://huggingface.co/blog/baseten",
+   "date": "2026-08-06T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
+   "date": "2026-08-05T23:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
+   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
+  },
+  {
    "title": "Reject Unexpected Array Keys with Laravel Validation",
    "link": "https://laravel-news.com/laravel-array-keys-validation-rule?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-05T22:20:05.000Z",
@@ -560,6 +640,16 @@
    "source": "Laravel News",
    "summary": "Laravel 13.24 accepts HEIC and AVIF uploads in the image API and validation rules. Here's how to take iPhone photos and serve them as WebP or AVIF. The post Validate and Convert HEIC Images in Laravel appeared first on L",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-image-heic-featured.png"
+  },
+  {
+   "title": "Can AI do novel security research? Meet the HTTP Terminator",
+   "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
+   "date": "2026-08-05T19:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
+   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
    "title": "New in Twig 4.0: A First-Class Sandbox",
@@ -602,6 +692,16 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
   },
   {
+   "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+   "date": "2026-08-04T13:58:29.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Symfony UX 3.4.0 released",
    "link": "https://symfony.com/blog/symfony-ux-3-4-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-04T13:53:00.000Z",
@@ -642,6 +742,16 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
+  },
+  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -659,6 +769,26 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -690,6 +820,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MongoDB 8.3 is available today as a Technical Preview. It is not for production. It is for your lab, your staging cluster, and your benchmark harness – and for sharing with us what works and what does ",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/psmdb-83-highlights-1024x576.png"
+  },
+  {
+   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+   "date": "2026-07-30T15:09:09.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
   },
   {
    "title": "PHP 8.4.24 Released!",
@@ -822,6 +962,26 @@
    "image": null
   },
   {
+   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+   "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+   "date": "2026-07-27T09:32:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+   "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+   "date": "2026-07-27T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Alert on CVEs in Your Percona Tools for MongoDB on Day One",
    "link": "https://www.percona.com/blog/alert-on-cves-in-your-percona-tools-for-mongodb-on-day-one/",
    "date": "2026-07-24T13:15:49.000Z",
@@ -872,6 +1032,16 @@
    "image": null
   },
   {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
+   "image": null
+  },
+  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -892,6 +1062,16 @@
    "image": null
   },
   {
+   "title": "pointer-events",
+   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+   "date": "2026-07-15T19:57:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+   "image": null
+  },
+  {
    "title": "Does the frontend still need build tools?",
    "link": "https://frontendfoc.us/issues/750",
    "date": "2026-07-15T00:00:00.000Z",
@@ -909,6 +1089,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
+   "image": null
+  },
+  {
+   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+   "link": "https://css-tricks.com/whats-important-15/",
+   "date": "2026-07-14T14:36:18.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
