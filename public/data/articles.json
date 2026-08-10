@@ -1,24 +1,104 @@
 {
- "generatedAt": "2026-08-09T23:44:28.323Z",
+ "generatedAt": "2026-08-10T06:20:28.400Z",
  "articles": [
   {
-   "title": "Instrument a Node.js App with OpenTelemetry in an Afternoon",
-   "link": "https://dev.to/libme/instrument-a-nodejs-app-with-opentelemetry-in-an-afternoon-dll",
-   "date": "2026-08-09T23:36:06.000Z",
+   "title": "What Is the Best Blockchain Certification for Beginners and Working Professionals?",
+   "link": "https://dev.to/georgiaweston/what-is-the-best-blockchain-certification-for-beginners-and-working-professionals-42dl",
+   "date": "2026-08-10T06:09:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You can get real distributed traces out of a Node.js service in an afternoon, and you should start with the zero-code auto-instrumentation before you write a single span by hand. The fast path is: install @opentelemetry/",
+   "summary": "Blockchain technology is creating opportunities across finance, technology, cybersecurity, digital assets, and Web3. As more organizations adopt blockchain-based solutions, both beginners and working professionals are lo",
    "image": null
   },
   {
-   "title": "[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning",
-   "link": "https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a",
-   "date": "2026-08-09T23:34:36.000Z",
+   "title": "Make fail2ban report its bans to a community blacklist",
+   "link": "https://dev.to/fcalculator/make-fail2ban-report-its-bans-to-a-community-blacklist-288g",
+   "date": "2026-08-10T06:05:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In the Infrastructure Lifecycle Management we can identify the functions of: Provisioning and Decommissioning. Both are orchestrated through the application of Infrastructure as Code (IaC) principles, ensuring that the e",
+   "summary": "Check the auth log on any server with port 22 open and it's always the same story: endless login attempts from IPs that have clearly done this before. fail2ban bans them, the bantime runs out, and that's it. Nothing lear",
+   "image": null
+  },
+  {
+   "title": "How AI Agent Architecture Powers Autonomous AI Systems",
+   "link": "https://dev.to/deepikarajawat/how-ai-agent-architecture-powers-autonomous-ai-systems-1kcl",
+   "date": "2026-08-10T06:03:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Over the past few years, we've witnessed an incredible leap in artificial intelligence. Large Language Models (LLMs) can write code, summarize documents, answer questions, and generate content in seconds. But generating ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F96ls6iqtya3atvewjzal.png"
+  },
+  {
+   "title": "Your AI Agent Has Access. That Doesn’t Mean It Has Approval.",
+   "link": "https://dev.to/ye_allen_/your-ai-agent-has-access-that-doesnt-mean-it-has-approval-5c51",
+   "date": "2026-08-10T06:01:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An AI agent can have valid credentials, a healthy model route, and permission to invoke a tool. It can still need a human to say: not this action, not now. That distinction matters. Many AI products treat tool access as ",
+   "image": null
+  },
+  {
+   "title": "Your AI Agent Needs a Tenant Fence at Every Hop",
+   "link": "https://dev.to/zira125/your-ai-agent-needs-a-tenant-fence-at-every-hop-59l1",
+   "date": "2026-08-10T05:54:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent can start inside the right tenant and still cross a tenant boundary later. The dangerous part is usually not the model. It is context loss between the planner, queue, worker, browser session, and tool adapter. A",
+   "image": null
+  },
+  {
+   "title": "Multi-Cluster ArgoCD Architecture: Hub-and-Spoke vs. Per-Cluster, Done Right",
+   "link": "https://dev.to/aloknecessary/multi-cluster-argocd-architecture-hub-and-spoke-vs-per-cluster-done-right-p17",
+   "date": "2026-08-10T05:48:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every ArgoCD tutorial ends with one cluster, one ArgoCD instance, and kubectl config current-context pointing at the same place ArgoCD is installed. That works fine — until you have two clusters. By the time you're at 10",
+   "image": null
+  },
+  {
+   "title": "AWS CloudFormation — Infrastructure as Code, Templates, Stacks & Change Sets",
+   "link": "https://dev.to/tejas_shinkar/aws-cloudformation-infrastructure-as-code-templates-stacks-change-sets-50k0",
+   "date": "2026-08-10T05:46:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps. CloudFormation is the foundation of infrastructure automation on AWS — the point where \"clicking in the console\" becomes \"code that c",
+   "image": null
+  },
+  {
+   "title": "Moving a SaaS from Node.js 22 to Node.js 24: What Can Actually Break?",
+   "link": "https://dev.to/ascentinnovate/moving-a-saas-from-nodejs-22-to-nodejs-24-what-can-actually-break-3b5b",
+   "date": "2026-08-10T05:41:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Changing Node.js from 22 to 24 can be one line in package.json. That is not the upgrade. The upgrade is everything that line causes the product to run differently against. Node.js 22 is still supported, so an existing Sa",
+   "image": null
+  },
+  {
+   "title": "Quoting OpenClaw",
+   "link": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+   "date": "2026-08-10T02:05:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. &mdash; Open",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: integer_datetimes",
+   "link": "https://postgr.es/p/9rT",
+   "date": "2026-08-10T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Every PostgreSQL connection since 8.0 has heard the server announce `integer_datetimes`—a parameter that's had only one possible value since PostgreSQL 10.",
    "image": null
   },
   {
@@ -32,16 +112,6 @@
    "image": null
   },
   {
-   "title": "Your AI Agent Works in Dev. It Will Fail in Production. Here's the Math.",
-   "link": "https://dev.to/sasajib/your-ai-agent-works-in-dev-it-will-fail-in-production-heres-the-math-4iic",
-   "date": "2026-08-09T23:12:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your AI agent passes every test. It handles edge cases. You demo it to your team and everyone nods. Then you deploy it. And it breaks. Not a little. Catastrophically. The kind of break where you stare at logs for three h",
-   "image": null
-  },
-  {
    "title": "GitHub Models is now retired",
    "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
    "date": "2026-08-09T22:48:05.000Z",
@@ -52,16 +122,6 @@
    "image": null
   },
   {
-   "title": "Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable",
-   "link": "https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n",
-   "date": "2026-08-09T22:24:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Moving scheduled tasks off a cron box and onto serverless functions solves the \"one server, one crontab, one single point of failure\" problem. It also introduces a quieter one: a job that used to fail loudly in a log you",
-   "image": null
-  },
-  {
    "title": "SQLite compressed text-history prototypes",
    "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
    "date": "2026-08-09T22:05:00.000Z",
@@ -69,46 +129,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text o",
-   "image": null
-  },
-  {
-   "title": "Junior DevOps/Security Pro Seeks Feedback on Project Idea and Recruiter Expectations for Skill Set.",
-   "link": "https://dev.to/alitron/junior-devopssecurity-pro-seeks-feedback-on-project-idea-and-recruiter-expectations-for-skill-set-3c67",
-   "date": "2026-08-09T22:01:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Junior DevOps and security professionals often face a critical challenge: translating theoretical knowledge into demonstrable skills. While certifications and online courses provide a foundation, recruiters prioritize ta",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foz8pmji5rv9xq7cjfbrp.jpeg"
-  },
-  {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-5fk4",
-   "date": "2026-08-09T21:55:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours manually converting a large Word document to Markdown, only to realize I could have automated it in 20 lines of Python using anydoc. This experience made me realize the importance ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Your AI Agent Changed Its Config. Can You Roll It Back Safely?",
-   "link": "https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk",
-   "date": "2026-08-09T21:54:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A configuration change can be more dangerous than a code deploy when an AI agent can send messages, edit repositories, spend money, or operate a browser. The usual rollback advice is simple: keep the old file and copy it",
-   "image": null
-  },
-  {
-   "title": "Automating the Workflow: My Journey from Jenkins Freestyle Jobs to Declarative Pipelines",
-   "link": "https://dev.to/alafiz/automating-the-workflow-my-journey-from-jenkins-freestyle-jobs-to-declarative-pipelines-4pag",
-   "date": "2026-08-09T21:16:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Infrastructure: Setting Up Jenkins on AWS The foundation of this project began by provisioning an Ubuntu EC2 instance on AWS. Setting up the environment meant defining strict networking rules (opening Port 22 for SSH",
    "image": null
   },
   {
@@ -272,16 +292,6 @@
    "image": null
   },
   {
-   "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-   "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
-   "date": "2026-08-07T19:18:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise ",
-   "image": null
-  },
-  {
    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
    "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
    "date": "2026-08-07T18:48:17.000Z",
@@ -332,16 +342,6 @@
    "image": null
   },
   {
-   "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-   "link": "https://huggingface.co/blog/allenai/tutormoments",
-   "date": "2026-08-07T17:53:32.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Gábor Hojtsy: Introducing Language Audit and Configuration Language Lock for Drupal and asking for your feedback",
    "link": "https://www.hojtsy.hu/blog/2026-aug-07/introducing-language-audit-and-configuration-language-lock-drupal-and-asking-your",
    "date": "2026-08-07T16:22:20.000Z",
@@ -369,16 +369,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "How a design subscription studio built its website around a single governing idea: an old, always-on machine, running underneath a modern Nuxt and Three.js stack.",
-   "image": null
-  },
-  {
-   "title": "Using and Styling the Dialog Element",
-   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-   "date": "2026-08-07T14:06:43.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
    "image": null
   },
   {
@@ -452,16 +442,6 @@
    "image": null
   },
   {
-   "title": "CSS:the bomb inside your inbox",
-   "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-   "date": "2026-08-06T22:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
-   "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
    "title": "Talking Drupal: Talking Drupal #564 - Approachable Open Source",
    "link": "https://sacstudio.libsyn.com/talking-drupal-564-approachable-open-source",
    "date": "2026-08-06T18:00:00.000Z",
@@ -489,26 +469,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A tiny WebGPU and TSL experiment, tinkering with physics, deformations, and procedural audio, all tied together inside a sphere to play with.",
-   "image": null
-  },
-  {
-   "title": "2026 State of CSS, Devs Surveys",
-   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-   "date": "2026-08-06T15:54:52.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
-   "image": null
-  },
-  {
-   "title": "Pavel Stehule: initial integration lua language to psql",
-   "link": "https://postgr.es/p/9rC",
-   "date": "2026-08-06T15:48:38.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "It can looks like (2026-08-06 17:44:32) postgres=# \\luacode Enter code to be copied followed by a newline. End with a backslash and a period on a line by itself, or an EOF signal. >> function x(n) >> return n + 10 >> end",
    "image": null
   },
   {
@@ -582,26 +542,6 @@
    "image": null
   },
   {
-   "title": "Baseten on Hugging Face Inference Providers 🔥",
-   "link": "https://huggingface.co/blog/baseten",
-   "date": "2026-08-06T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
-   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
-   "date": "2026-08-05T23:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
-   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
-  },
-  {
    "title": "Reject Unexpected Array Keys with Laravel Validation",
    "link": "https://laravel-news.com/laravel-array-keys-validation-rule?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-05T22:20:05.000Z",
@@ -620,16 +560,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.24 accepts HEIC and AVIF uploads in the image API and validation rules. Here's how to take iPhone photos and serve them as WebP or AVIF. The post Validate and Convert HEIC Images in Laravel appeared first on L",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-image-heic-featured.png"
-  },
-  {
-   "title": "Can AI do novel security research? Meet the HTTP Terminator",
-   "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-   "date": "2026-08-05T19:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
-   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
    "title": "New in Twig 4.0: A First-Class Sandbox",
@@ -672,16 +602,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
   },
   {
-   "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-   "date": "2026-08-04T13:58:29.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Symfony UX 3.4.0 released",
    "link": "https://symfony.com/blog/symfony-ux-3-4-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-04T13:53:00.000Z",
@@ -722,16 +642,6 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
    "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
    "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
    "date": "2026-08-03T11:10:44.000Z",
@@ -749,26 +659,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
-  },
-  {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-31T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -800,16 +690,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MongoDB 8.3 is available today as a Technical Preview. It is not for production. It is for your lab, your staging cluster, and your benchmark harness – and for sharing with us what works and what does ",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/psmdb-83-highlights-1024x576.png"
-  },
-  {
-   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-   "date": "2026-07-30T15:09:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "PHP 8.4.24 Released!",
@@ -942,26 +822,6 @@
    "image": null
   },
   {
-   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-   "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-   "date": "2026-07-27T09:32:20.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-   "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-   "date": "2026-07-27T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Alert on CVEs in Your Percona Tools for MongoDB on Day One",
    "link": "https://www.percona.com/blog/alert-on-cves-in-your-percona-tools-for-mongodb-on-day-one/",
    "date": "2026-07-24T13:15:49.000Z",
@@ -980,16 +840,6 @@
    "source": "Percona Blog",
    "summary": "Percona Operator for MongoDB 1.23.0 makes the operator a place you move to, not just a place you start. A new ClusterSync component clones a live source and follows its change streams, so leaving a hosted service is a sh",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
-  },
-  {
-   "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-   "link": "https://huggingface.co/blog/nunchaku-diffusers",
-   "date": "2026-07-23T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
@@ -1022,26 +872,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
-   "title": "Grabette: an open system to record robot-manipulation data",
-   "link": "https://huggingface.co/blog/grabette",
-   "date": "2026-07-21T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -1062,16 +892,6 @@
    "image": null
   },
   {
-   "title": "pointer-events",
-   "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-   "date": "2026-07-15T19:57:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-   "image": null
-  },
-  {
    "title": "Does the frontend still need build tools?",
    "link": "https://frontendfoc.us/issues/750",
    "date": "2026-07-15T00:00:00.000Z",
@@ -1089,16 +909,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-   "link": "https://css-tricks.com/whats-important-15/",
-   "date": "2026-07-14T14:36:18.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features. What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed ",
    "image": null
   },
   {
