@@ -1,6 +1,226 @@
 {
- "generatedAt": "2026-08-11T11:54:21.332Z",
+ "generatedAt": "2026-08-11T18:04:15.355Z",
  "articles": [
+  {
+   "title": "DevCloudOps1 Journey Begins...",
+   "link": "https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58",
+   "date": "2026-08-11T17:58:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I am currently working as devops intern. Working on linux, networking, terraform, gitlab ci/cd pipeline, AWS, docker, kubernetes, application. I will be sharing my experience, projects, tech related stuffs, learning topi",
+   "image": null
+  },
+  {
+   "title": "Your Agent Queue Needs Backpressure, Not Just More Workers",
+   "link": "https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i",
+   "date": "2026-08-11T17:57:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Long-running agents rarely fail because a single request is too large. They fail when work arrives faster than the runtime can safely execute it. A webhook burst, a retry storm, or a slow model provider can turn an appar",
+   "image": null
+  },
+  {
+   "title": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING",
+   "link": "https://dev.to/adeniran_adebayoadekunle/the-ai-boom-is-here-and-its-rewriting-everything-b1c",
+   "date": "2026-08-11T17:55:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING https://pressearn.it.com/blog/2026/05/27/the-ai-boom-is-here-and-its-rewriting-everything/",
+   "image": null
+  },
+  {
+   "title": "Building an AI Agent Analytics Pipeline Across Machines: 5 Patterns When a Shared InfluxDB Isn't the Answer",
+   "link": "https://dev.to/pstayet/building-an-ai-agent-analytics-pipeline-across-machines-5-patterns-when-a-shared-influxdb-isnt-24go",
+   "date": "2026-08-11T17:36:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your agents are everywhere. A handful on cloud VMs, a few on on-prem boxes, one or two on laptops that appear and disappear. You need an AI agent analytics pipeline across machines: every agent reports metrics — tokens c",
+   "image": null
+  },
+  {
+   "title": "eBPF for Cloud-Native Security and Observability",
+   "link": "https://dev.to/mealiclay01/ebpf-for-cloud-native-security-and-observability-70d",
+   "date": "2026-08-11T17:14:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Problem with Traditional Cloud Security Securing a Kubernetes cluster has historically meant injecting sidecar containers (like Envoy) into every single pod, or loading risky kernel modules to intercept network traff",
+   "image": null
+  },
+  {
+   "title": "The Death of Traditional DevOps: Platform Engineering & IDPs",
+   "link": "https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf",
+   "date": "2026-08-11T17:14:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Failure of \"You Build It, You Run It\" The original promise of DevOps was to break down the silos between developers and operations. The idea was simple: \"You build it, you run it.\" Developers would write the code, wr",
+   "image": null
+  },
+  {
+   "title": "Data Sovereignty in 2026: Production-Grade Local LLMs",
+   "link": "https://dev.to/mealiclay01/data-sovereignty-in-2026-production-grade-local-llms-3g30",
+   "date": "2026-08-11T17:13:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The API Trap Over the last few years, thousands of startups have built their entire business logic around API calls to closed models like OpenAI's GPT-4 or Anthropic's Claude. While convenient, this architecture has crit",
+   "image": null
+  },
+  {
+   "title": "WebAssembly (WASM) in Kubernetes: The Micro-Edge Revolution",
+   "link": "https://dev.to/mealiclay01/webassembly-wasm-in-kubernetes-the-micro-edge-revolution-2mlp",
+   "date": "2026-08-11T17:13:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Containers are Heavy. Meet WebAssembly. Docker revolutionized software delivery by packaging applications with their dependencies. But containers, at their core, still require an entire Linux OS filesystem, resulting in ",
+   "image": null
+  },
+  {
+   "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+   "date": "2026-08-11T16:47:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg"
+  },
+  {
+   "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+   "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+   "date": "2026-08-11T16:35:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg"
+  },
+  {
+   "title": "Laravel monitoring that doesn't bill you by your traffic",
+   "link": "https://laravel-news.com/nightowl?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-11T14:42:31.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Self-hosted Laravel monitoring powered by laravel/nightwatch telemetry. Keep months of history in your own PostgreSQL with flat pricing from $5/month. The post Laravel monitoring that doesn't bill you by your traffic app",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/nightowl-featured.png"
+  },
+  {
+   "title": "Exploring Procedural Geometry with Three.js and WebGPU",
+   "link": "https://tympanus.net/codrops/2026/08/11/exploring-procedural-geometry-with-three-js-and-webgpu/",
+   "date": "2026-08-11T14:29:11.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A deep dive into building a flexible Three.js Geometry Painter with WebGPU and TSL, from surface picking and procedural geometry to live controls, custom shaders, lighting, and post-processing.",
+   "image": null
+  },
+  {
+   "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+   "date": "2026-08-11T13:37:10.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "BloomIdea: Rendering Mermaid diagrams in Drupal, and the highlight.js trap along the way",
+   "link": "https://bloomidea.com/en/blog/rendering-mermaid-diagrams-drupal-and-highlightjs-trap-along-way",
+   "date": "2026-08-11T13:18:52.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This started with an agent writing a comment into our Drupal intranet. It had traced an authentication flow, decided a sequence diagram was the clearest way to say it, and wrote one. What landed on the page was a grey bo",
+   "image": null
+  },
+  {
+   "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
+   "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+   "date": "2026-08-11T13:11:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to impr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg"
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026:  Why AI Output Is the New XSS",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-11T13:00:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "We are counting down to SymfonyCon Warsaw 2026, taking place on November 26-27, 2026, in Warsaw (Poland)! Get ready for a week full of workshops, sessions, and community magic. 🎤 Speaker announcements Make sure not to m",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
+  },
+  {
+   "title": "Dimitri Fontaine: Introducing sqlfmt: an SQL gofmt-style formatter",
+   "link": "https://postgr.es/p/9s3",
+   "date": "2026-08-11T12:30:37.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Formatting SQL tends to bring some of the same questions again and again: should we uppercase clause keywords? should we put the separating comma at the start of a line to ease refactoring? how to align the SQL clauses w",
+   "image": null
+  },
+  {
+   "title": "Percona for MongoDB: RHEL 10, Its Derivatives, and Debian 13 – On Both x86_64 and ARM",
+   "link": "https://www.percona.com/blog/percona-for-mongodb-rhel-10-its-derivatives-and-debian-13-on-both-x86_64-and-arm/",
+   "date": "2026-08-11T12:15:41.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "We’re happy to announce that Percona Server for MongoDB (PSMDB) 8.0.28-12 extends platform support to RHEL 10 and its derivatives (Oracle Linux 10, Rocky Linux 10, AlmaLinux 10, and other RHEL-compatible distributions) f",
+   "image": "https://www.percona.com/wp-content/uploads/2026/08/pmm-adoption-arm-2048x673.png"
+  },
+  {
+   "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+   "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+   "date": "2026-08-11T12:05:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg"
+  },
+  {
+   "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+   "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+   "date": "2026-08-11T12:04:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is ho",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg"
+  },
+  {
+   "title": "Mock PHP Classes in Tests With the Double Library",
+   "link": "https://laravel-news.com/double-php-testing-library?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-11T12:03:13.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Double is a PHP mocking library from Jason McCreary with one API for mocks, spies, and partials, plus failure messages that show the actual call log. The post Mock PHP Classes in Tests With the Double Library appeared fi",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/double-phptesting-featured.png"
+  },
+  {
+   "title": "Tudor Golubenco: Multi-tenant BYOK encryption in PostgreSQL with pgcrypto",
+   "link": "https://postgr.es/p/9s2",
+   "date": "2026-08-11T12:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Implement multi-tenant BYOK column encryption in PostgreSQL with pgcrypto using customer-managed encryption keys.",
+   "image": null
+  },
   {
    "title": "TDD inside the agent loop - theater or actual value?",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
@@ -12,83 +232,23 @@
    "image": null
   },
   {
-   "title": "Platform Engineering & Internal Developer Platforms",
-   "link": "https://dev.to/sri2614/platform-engineering-internal-developer-platforms-cah",
-   "date": "2026-08-11T11:38:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Platform engineering corrects DevOps overload by building paved roads developers self-serve safely. Learn the platform-as-product mindset, what an IDP provides, and the DevEx metrics that prove it's working. Why",
-   "image": null
+   "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+   "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+   "date": "2026-08-11T11:35:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg"
   },
   {
-   "title": "Configuring NVIDIA MIG: Technical Walkthrough for Bare-Metal GPU Partitioning published: true",
-   "link": "https://dev.to/ethan_vance/configuring-nvidia-mig-technical-walkthrough-for-bare-metal-gpu-partitioningpublished-true-2oc1",
-   "date": "2026-08-11T11:36:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "High-capacity GPUs (like the A100, H100, or Blackwell) often sit underutilized in bare-metal environments. Software-based time slicing lacks hardware-level resource guarantees. NVIDIA Multi-Instance GPU (MIG) solves this",
-   "image": null
-  },
-  {
-   "title": "Automate IP Abuse Reports Into Your Ticket Queue",
-   "link": "https://dev.to/abdullah_afzal/automate-ip-abuse-reports-into-your-ticket-queue-4807",
-   "date": "2026-08-11T11:35:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Automating abuse reports for attacking IPs starts with a step most incident-response scripts skip: finding the network operator responsible for the address. Blocking the IP stops traffic from that address, but a well-evi",
-   "image": null
-  },
-  {
-   "title": "Deploying to Cloudflare Pages from pure Python — no Node, no wrangler",
-   "link": "https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1",
-   "date": "2026-08-11T11:15:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I run a Python-only content pipeline. It generates a static site, and it needs to put that site on Cloudflare Pages, unattended, on a schedule. The official way to do that is wrangler. Wrangler is Node. Adding a Node too",
-   "image": null
-  },
-  {
-   "title": "The shadow compute bill 28k month nobody approved",
-   "link": "https://dev.to/zop_8abedcc7e12/the-shadow-compute-bill-28k-month-nobody-approved-21n6",
-   "date": "2026-08-11T11:01:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Cloud bills do not lie, but they do surprise. The $28,000 per month in shadow compute charges that accumulated without a single approval signature is not an anomaly. Cloud bills do not lie, but they do surprise. Th",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxwmmojkl77seh55jpep1.png"
-  },
-  {
-   "title": "Cluster Autoscaler vs Karpenter at 10 000 nodes: what the benchmarks miss",
-   "link": "https://dev.to/zop_8abedcc7e12/cluster-autoscaler-vs-karpenter-at-10-000-nodes-what-the-benchmarks-miss-1ld7",
-   "date": "2026-08-11T11:01:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR The autoscaler decision you made at 50 nodes becomes a structural liability at 10,000. By the time the cluster grows to enterprise scale, the choice is load-bearing infrastructure. The autoscaler decision you made ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iejwg65dyxxve546uga.png"
-  },
-  {
-   "title": "Policy as code at 10 teams: what breaks after month 3",
-   "link": "https://dev.to/zop_8abedcc7e12/policy-as-code-at-10-teams-what-breaks-after-month-3-2e0l",
-   "date": "2026-08-11T11:00:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The 3-Month Cliff: When Policy as Code Stops Working Policy as Code works cleanly until it meets ten teams, and then it breaks in ways the pilot never predicted. The first three months feel like a governance win. Policie",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftnpsvuikm2r63ipkftw3.png"
-  },
-  {
-   "title": "A Data Pipeline Gets Expensive When Every Source Becomes Its Own Little System",
-   "link": "https://dev.to/ascentinnovate/a-data-pipeline-gets-expensive-when-every-source-becomes-its-own-little-system-6mo",
-   "date": "2026-08-11T11:00:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A multi-source data project can look surprisingly simple at the beginning. Connect one publisher. Add another. Write some source-specific logic. Keep going. Then the system reaches ten or more sources, and the work start",
+   "title": "Specbee: How to build accessible Drupal Themes with Twig and BEM",
+   "link": "https://www.specbee.com/blogs/accessible-drupal-themes-with-twig-bem",
+   "date": "2026-08-11T11:09:25.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Accessibility in a Drupal theme starts in your .html.twig files. Here's a practical guide to learning how to structure templates with semantic HTML5 and BEM class naming.",
    "image": null
   },
   {
@@ -112,36 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg"
   },
   {
-   "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-   "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-   "date": "2026-08-11T09:16:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include heal",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg"
-  },
-  {
-   "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-   "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-   "date": "2026-08-11T06:55:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg"
-  },
-  {
-   "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-   "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-   "date": "2026-08-11T05:48:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg"
-  },
-  {
    "title": "Wellingtone Luvonga: Multi-Region PostgreSQL Disaster Recovery and Failback with Crunchy PGO",
    "link": "https://postgr.es/p/9rZ",
    "date": "2026-08-11T05:00:00.000Z",
@@ -150,6 +280,16 @@
    "source": "Planet PostgreSQL",
    "summary": "You have probably read a dozen tutorials on setting up PostgreSQL High Availability (HA). On paper, it looks simple: spin up a primary instance, spin up a standby, and let them replicate. But what happens when you move t",
    "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/07/CYBERTEC-Infographic-for-Document-Multi-Region_1.png"
+  },
+  {
+   "title": "Cheppers: ExperienceKit: AI Landing Page Generation for Drupal - How It Actually Works",
+   "link": "https://cheppers.com/post/experiencekit-how-it-works",
+   "date": "2026-08-11T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Describe the landing page you need in plain language. A few minutes later, it exists in your Drupal site: production-ready, on brand, and waiting for your review. That is the promise of an AI landing page generator for D",
+   "image": null
   },
   {
    "title": "Introducing Muse Glimmer",
@@ -162,26 +302,6 @@
    "image": null
   },
   {
-   "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-   "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-   "date": "2026-08-10T17:29:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy3fcUJacnxspYO1ssk2-ESCQ9QYb5BBCB0-3Jk8UyWQFmKZxt8RCeYemwUlJ08y_hnkyVm4LaAq6a_oyz5BPmpuwkmephJ0K7iy6cFvPjAe-b3pQ4Q28jh3KzNqLhZ6qtecuG9jenDpeVsjpUrG9ZBEwe2WStxgh6RiOwhI_rlsxYelFv2BD31o9rhd8/s1600/chain-webinar.jpg"
-  },
-  {
-   "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-   "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-   "date": "2026-08-10T16:38:37.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNv5C82jT_6YlarerdXnoAR_tT3E8xP65ZWuJfpvOKU9baBT5UACUTb88XvDQgQA6RrYuqPK3FstaqwacR9gDjD0qwk3HUYl0wK848phyphenhyphenFuqRrOA1AqdISQaA6tpEqg0n2XJIA22NeNNbhei1bAgcyghnc2qaVfSvh4fd9J1oD4xVi-DQcNSOYWQovyUst/s1600/strom-ransomware.jpg"
-  },
-  {
    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
    "date": "2026-08-10T16:25:36.000Z",
@@ -189,6 +309,26 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Animating CSS border-image",
+   "link": "https://css-tricks.com/animating-css-border-image/",
+   "date": "2026-08-10T15:58:47.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
+   "image": null
+  },
+  {
+   "title": "SmashingConf Freiburg 2026, September 7-10",
+   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+   "date": "2026-08-10T15:57:39.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
    "image": null
   },
   {
@@ -202,14 +342,14 @@
    "image": null
   },
   {
-   "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-   "date": "2026-08-10T15:00:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg"
+   "title": "From Brand Systems to Cultural Worlds: Inside Antinomy and 27b",
+   "link": "https://tympanus.net/codrops/2026/08/10/from-brand-systems-to-cultural-worlds-inside-antinomy-and-27b/",
+   "date": "2026-08-10T13:14:08.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look inside two connected studios building brands across strategy, design, and experience, with the same instinct for clarity, culture, and edge.",
+   "image": null
   },
   {
    "title": "Laravel artisan dev: Run Server, Queue, Logs, and Vite",
@@ -252,7 +392,7 @@
    "image": null
   },
   {
-   "title": "Quoting OpenClaw",
+   "title": "Quoting OpenClaw (running Opus 4.6)",
    "link": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
    "date": "2026-08-10T02:05:16.000Z",
    "theme": "ia",
@@ -290,6 +430,16 @@
    "source": "Planet PostgreSQL",
    "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0beta2! Best Served with PostgreSQL 19 Beta2 and GEOS 3.15.0beta2. This version requires PostgreSQL 14 - 19beta2, GEOS 3.10 or higher, and Proj 6.1+. To take advantage o",
    "image": null
+  },
+  {
+   "title": "Laravel Discount: Coupon Codes, Usage Limits, and Stacking",
+   "link": "https://laravel-news.com/laravel-discount?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-09T23:32:51.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Discount adds percentage and fixed coupons, expiry windows, per-user usage limits, and stacking rules to Laravel apps, with Laravel Cart support. The post Laravel Discount: Coupon Codes, Usage Limits, and Stackin",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Discount-LN.png"
   },
   {
    "title": "Quoting Claude Opus 5 system prompt",
@@ -352,16 +502,6 @@
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-11.png?w=1024"
   },
   {
-   "title": "Zhang Chen: Why I Dare to Call Myself a “PostgreSQL Database Recovery Expert”",
-   "link": "https://postgr.es/p/9rS",
-   "date": "2026-08-09T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "After becoming a PostgreSQL ACE, Zhang Chen explains why he uses the title “PostgreSQL Database Recovery Expert” and how PDU evolved from offline extraction and WAL mining to fragment scanning and recovery without a data",
-   "image": null
-  },
-  {
    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
    "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
    "date": "2026-08-08T22:36:03.000Z",
@@ -369,6 +509,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claud",
+   "image": null
+  },
+  {
+   "title": "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice",
+   "link": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+   "date": "2026-08-08T15:13:31.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A film-led website for Chems Studio, bringing years of creative direction and moving image together through a quiet, flexible digital framework.",
    "image": null
   },
   {
@@ -389,16 +539,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "We recently added PreviousNext's name to \"A Manifesto for an Open Future,\" joining 15 other Drupal agency founders and leaders in a public declaration that open source, not closed platforms, is the foundation for the fut",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: ignore_system_indexes",
-   "link": "https://postgr.es/p/9rP",
-   "date": "2026-08-08T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Recover from catalog index corruption by sequentially scanning system tables instead of using indexes.",
    "image": null
   },
   {
@@ -462,14 +602,24 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
   },
   {
-   "title": "Saga Lara Flow: Durable Workflows and Compensating Transactions on Laravel Queues",
-   "link": "https://laravel-news.com/saga-lara-flow?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-07T12:58:48.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Saga Lara Flow is a Laravel package by Andriy Karpishyn that runs long-lived business processes as replayable PHP methods, with automatic rollback when a step fails. The post Saga Lara Flow: Durable Workflows and Compens",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Saga-Lara-Flow-LN.png"
+   "title": "The Department Is Open: Building the PX PUSH Website",
+   "link": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
+   "date": "2026-08-07T14:38:08.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "How a design subscription studio built its website around a single governing idea: an old, always-on machine, running underneath a modern Nuxt and Three.js stack.",
+   "image": null
+  },
+  {
+   "title": "Using and Styling the Dialog Element",
+   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+   "date": "2026-08-07T14:06:43.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
+   "image": null
   },
   {
    "title": "The Drop Times: Display Builder Beta 6 Brings UX Refresh and Drupal 11.4 Fixes",
@@ -512,13 +662,23 @@
    "image": null
   },
   {
-   "title": "The Drop Times: James Abrahams Makes Sustainable Funding a Focus of Board Candidacy",
-   "link": "https://www.thedroptimes.com/interview/71553/james-abrahams-sustainable-drupal-funding?utm_source=Drupal Planet",
-   "date": "2026-08-06T14:50:14.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "How the Drupal Association raises money can shape who influences the project and which work gets sustained. James Abrahams makes that tension central to his board candidacy.",
+   "title": "Garden Anomaly: A Tiny WebGPU and TSL Experiment",
+   "link": "https://tympanus.net/codrops/2026/08/06/garden-anomaly-a-tiny-webgpu-and-tsl-experiment/",
+   "date": "2026-08-06T16:30:42.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A tiny WebGPU and TSL experiment, tinkering with physics, deformations, and procedural audio, all tied together inside a sphere to play with.",
+   "image": null
+  },
+  {
+   "title": "2026 State of CSS, Devs Surveys",
+   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+   "date": "2026-08-06T15:54:52.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
    "image": null
   },
   {
@@ -552,26 +712,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "joshics.in: A backend engineer guide to Single Directory Components in Drupal",
-   "link": "https://joshics.in/blog-post/backend-engineer-guide-single-directory-components-drupal",
-   "date": "2026-08-06T12:06:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A backend engineer guide to Single Directory Components in Drupal bhavinhjoshi Thu, 08/06/2026 - 17:36 Bridging the gap between custom modules and strictly typed components Single Directory Components completely changed ",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Open-Source Dependency Stewardship Continues After Adoption",
-   "link": "https://www.thedroptimes.com/71161/open-source-stewardship-after-adoption?utm_source=Drupal Planet",
-   "date": "2026-08-06T11:17:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Open-source code may remain available while the services, organisations, licences, and support arrangements around it change. Drupal delivery teams need accurate dependency records and workable continuity plans throughou",
-   "image": null
-  },
-  {
    "title": "Baseten on Hugging Face Inference Providers 🔥",
    "link": "https://huggingface.co/blog/baseten",
    "date": "2026-08-06T00:00:00.000Z",
@@ -592,26 +732,6 @@
    "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
   },
   {
-   "title": "Reject Unexpected Array Keys with Laravel Validation",
-   "link": "https://laravel-news.com/laravel-array-keys-validation-rule?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-05T22:20:05.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.24 adds an array_keys validation rule that rejects arrays containing keys you did not allow, with a message naming the offending keys. The post Reject Unexpected Array Keys with Laravel Validation appeared fir",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/array-keys-validation-rule-featured.png"
-  },
-  {
-   "title": "Validate and Convert HEIC Images in Laravel",
-   "link": "https://laravel-news.com/laravel-heic-image-uploads?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-05T22:11:46.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.24 accepts HEIC and AVIF uploads in the image API and validation rules. Here's how to take iPhone photos and serve them as WebP or AVIF. The post Validate and Convert HEIC Images in Laravel appeared first on L",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-image-heic-featured.png"
-  },
-  {
    "title": "Can AI do novel security research? Meet the HTTP Terminator",
    "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
    "date": "2026-08-05T19:30:00.000Z",
@@ -630,6 +750,16 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
    "image": "https://github.com/fabpot.png"
+  },
+  {
+   "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
+   "link": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
+   "date": "2026-08-05T10:22:14.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A selection of websites that show why individuality, not trends, creates the most memorable experiences on the web.",
+   "image": null
   },
   {
    "title": "SymfonyLive Germany 2027 heads to Cologne",
@@ -662,16 +792,6 @@
    "image": null
   },
   {
-   "title": "Symfony UX 3.4.0 released",
-   "link": "https://symfony.com/blog/symfony-ux-3-4-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-04T13:53:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony UX 3.4 expands Toolkit with a Bootstrap 5.3 kit, reusable design-system-agnostic behaviors and richer documentation for kit authors. The release also adds dynamic Twig component names, safer on-demand icons, mode",
-   "image": "https://github.com/smnandre.png"
-  },
-  {
    "title": "Fragments: August  4",
    "link": "https://martinfowler.com/fragments/2026-08-04.html",
    "date": "2026-08-04T12:08:00.000Z",
@@ -679,6 +799,16 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incide",
+   "image": null
+  },
+  {
+   "title": "Building an Endless Interactive Glass Xylophone with Three.js",
+   "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
+   "date": "2026-08-04T10:58:37.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A scrolling helix of frosted glass bars that ring as you sweep across them, built in Three.js with instancing, a fluid simulation, and glass faked entirely in the shader.",
    "image": null
   },
   {
@@ -692,6 +822,26 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
+   "title": "Gap Decorations Are Now Available, Here’s What’s New",
+   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+   "date": "2026-08-03T15:53:20.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
+   "image": null
+  },
+  {
+   "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
+   "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
+   "date": "2026-08-03T11:10:44.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
+   "image": null
+  },
+  {
    "title": "Kubernetes v1.37 Sneak Peek",
    "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
    "date": "2026-07-31T16:00:00.000Z",
@@ -699,6 +849,26 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
+   "image": null
+  },
+  {
+   "title": "Get Ready For the Powerful CSS border-shape Property!",
+   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+   "date": "2026-07-31T15:14:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
+   "image": null
+  },
+  {
+   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+   "link": "https://css-tricks.com/whats-important-16/",
+   "date": "2026-07-31T14:06:21.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -852,16 +1022,6 @@
    "image": null
   },
   {
-   "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-   "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-   "date": "2026-07-27T09:32:20.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Alert on CVEs in Your Percona Tools for MongoDB on Day One",
    "link": "https://www.percona.com/blog/alert-on-cves-in-your-percona-tools-for-mongodb-on-day-one/",
    "date": "2026-07-24T13:15:49.000Z",
@@ -882,16 +1042,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
   },
   {
-   "title": "How to Migrate from MySQL Galera Cluster to Percona XtraDB Cluster",
-   "link": "https://www.percona.com/blog/migrate-mysql-galera-cluster-to-percona-xtradb-cluster/",
-   "date": "2026-07-22T09:56:28.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "On December 1, 2025, MariaDB announced that MySQL Galera Cluster will reach end of life on September 30, 2026. After that date, the MySQL build of Galera stops receiving maintenance and binary releases, and all new clust",
-   "image": null
-  },
-  {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
    "link": "https://frontendfoc.us/issues/751",
    "date": "2026-07-22T00:00:00.000Z",
@@ -909,6 +1059,16 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline find",
+   "image": null
+  },
+  {
+   "title": "writing-mode",
+   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+   "date": "2026-07-21T09:39:10.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
    "image": null
   },
   {
