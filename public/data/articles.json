@@ -1,85 +1,145 @@
 {
- "generatedAt": "2026-08-11T18:04:15.355Z",
+ "generatedAt": "2026-08-11T23:55:56.006Z",
  "articles": [
   {
-   "title": "DevCloudOps1 Journey Begins...",
-   "link": "https://dev.to/devcloudops1/devcloudops1-journey-begins-1d58",
-   "date": "2026-08-11T17:58:27.000Z",
+   "title": "The 10 Sites Guide to Buying Old Yahoo Accounts With 2FA",
+   "link": "https://dev.to/frankyfischeryh05j/the-10-sites-guide-to-buying-old-yahoo-accounts-with-2fa-30il",
+   "date": "2026-08-11T23:28:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I am currently working as devops intern. Working on linux, networking, terraform, gitlab ci/cd pipeline, AWS, docker, kubernetes, application. I will be sharing my experience, projects, tech related stuffs, learning topi",
+   "summary": "Meta Description ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gm",
    "image": null
   },
   {
-   "title": "Your Agent Queue Needs Backpressure, Not Just More Workers",
-   "link": "https://dev.to/zira125/your-agent-queue-needs-backpressure-not-just-more-workers-276i",
-   "date": "2026-08-11T17:57:59.000Z",
+   "title": "Generating your agent rules from one file does not stop them drifting",
+   "link": "https://dev.to/untactit/generating-your-agent-rules-from-one-file-does-not-stop-them-drifting-3gpb",
+   "date": "2026-08-11T22:51:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Long-running agents rarely fail because a single request is too large. They fail when work arrives faster than the runtime can safely execute it. A webhook burst, a retry storm, or a slow model provider can turn an appar",
+   "summary": "The obvious fix for \"our agent instruction files keep diverging\" is to stop maintaining copies. Write AGENTS.md, generate CLAUDE.md and .cursor/rules/*.mdc and .github/copilot-instructions.md from it, done. I built that.",
    "image": null
   },
   {
-   "title": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING",
-   "link": "https://dev.to/adeniran_adebayoadekunle/the-ai-boom-is-here-and-its-rewriting-everything-b1c",
-   "date": "2026-08-11T17:55:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "THE AI BOOM IS HERE - AND IT'S REWRITING EVERYTHING https://pressearn.it.com/blog/2026/05/27/the-ai-boom-is-here-and-its-rewriting-everything/",
+   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+   "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+   "date": "2026-08-11T22:40:45.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name ( stolen-thoughts.com ) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed a",
    "image": null
   },
   {
-   "title": "Building an AI Agent Analytics Pipeline Across Machines: 5 Patterns When a Shared InfluxDB Isn't the Answer",
-   "link": "https://dev.to/pstayet/building-an-ai-agent-analytics-pipeline-across-machines-5-patterns-when-a-shared-influxdb-isnt-24go",
-   "date": "2026-08-11T17:36:14.000Z",
+   "title": "Master anydoc in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1hd3",
+   "date": "2026-08-11T22:09:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your agents are everywhere. A handful on cloud VMs, a few on on-prem boxes, one or two on laptops that appear and disappear. You need an AI agent analytics pipeline across machines: every agent reports metrics — tokens c",
+   "summary": "Introduction Last week I spent 3 hours struggling to integrate AI-generated code into my Rust project, only to realize I was using the wrong tools. Then I discovered anydoc, a game-changing tool that simplifies the proce",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Important Things to Consider Before You Buy a Verified Binance Account",
+   "link": "https://dev.to/binanceacc24/important-things-to-consider-before-you-buy-a-verified-binance-account-4876",
+   "date": "2026-08-11T21:26:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Important Things to Consider Before You Buy a Verified Binance Account 📧 Email: usamarketit@gmail.com Is Buying a Verified Binance Account Safe? These risks become especially important when substantial cryptocurrency ba",
    "image": null
   },
   {
-   "title": "eBPF for Cloud-Native Security and Observability",
-   "link": "https://dev.to/mealiclay01/ebpf-for-cloud-native-security-and-observability-70d",
-   "date": "2026-08-11T17:14:09.000Z",
+   "title": "Madden NFL 27’s News Feed: Built on Cloud AI and DevOps",
+   "link": "https://dev.to/thomas_woodfin_3a4efcd491/madden-nfl-27s-news-feed-built-on-cloud-ai-and-devops-2km0",
+   "date": "2026-08-11T21:00:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem with Traditional Cloud Security Securing a Kubernetes cluster has historically meant injecting sidecar containers (like Envoy) into every single pod, or loading risky kernel modules to intercept network traff",
+   "summary": "Behind every generated headline and beat report in Madden NFL 27's franchise mode sits a Kubernetes-orchestrated, AI-driven content factory-welcome to the era where gaming journalism meets cloud-native DevOps. The new in",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages%2C%2520and%2520unsplashcom%2Fphoto-1558494949-ef010cbdcc31%3F%2520w%3D800"
+  },
+  {
+   "title": "Your homelab behind CGNAT is now reachable for free",
+   "link": "https://dev.to/javimosch/your-homelab-behind-cgnat-is-now-reachable-for-free-54lg",
+   "date": "2026-08-11T20:31:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I built rcmd — a relay-based remote execution tool. Your server connects out to a relay; you connect to the same relay from your laptop; the relay routes commands between you. No SSH keys, no open ports, no VPN. It works",
    "image": null
   },
   {
-   "title": "The Death of Traditional DevOps: Platform Engineering & IDPs",
-   "link": "https://dev.to/mealiclay01/the-death-of-traditional-devops-platform-engineering-idps-18pf",
-   "date": "2026-08-11T17:14:03.000Z",
+   "title": "I gave an AI agent my infrastructure instead of my codebase. Every bug was the same bug.",
+   "link": "https://dev.to/vladonemo/i-gave-an-ai-agent-my-infrastructure-instead-of-my-codebase-every-bug-was-the-same-bug-1in",
+   "date": "2026-08-11T20:30:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Failure of \"You Build It, You Run It\" The original promise of DevOps was to break down the silos between developers and operations. The idea was simple: \"You build it, you run it.\" Developers would write the code, wr",
+   "summary": "A while back I wrote about making a fleet of Claude Code agents talk to each other over Discord. Four agents, one per project, hub-and-spoke so they can't wake each other into a loop. That design has held. What's changed",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy33y13bw5n2bouxxc167.png"
+  },
+  {
+   "title": "The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.",
+   "link": "https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm",
+   "date": "2026-08-11T20:17:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Article 50 of the EU AI Act applies as from 2 August 2026. Providers of systems that generate synthetic text, audio, image or video have to mark outputs in a machine-readable format so they are detectable as artificially",
    "image": null
   },
   {
-   "title": "Data Sovereignty in 2026: Production-Grade Local LLMs",
-   "link": "https://dev.to/mealiclay01/data-sovereignty-in-2026-production-grade-local-llms-3g30",
-   "date": "2026-08-11T17:13:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The API Trap Over the last few years, thousands of startups have built their entire business logic around API calls to closed models like OpenAI's GPT-4 or Anthropic's Claude. While convenient, this architecture has crit",
+   "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+   "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+   "date": "2026-08-11T20:10:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg"
+  },
+  {
+   "title": "Drupal Association blog: Responding to Drupal Enquiries with a Community-First Mindset",
+   "link": "https://www.drupal.org/association/blog/responding-to-drupal-enquiries-with-a-community-first-mindset",
+   "date": "2026-08-11T20:00:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This is a guest post from the team at Zoocha, a Gold Drupal Certified Partner with offices in the United Kingdom, Spain, Brazil, and the United States. As Drupal agencies, we're fortunate to benefit from a vibrant ecosys",
    "image": null
   },
   {
-   "title": "WebAssembly (WASM) in Kubernetes: The Micro-Edge Revolution",
-   "link": "https://dev.to/mealiclay01/webassembly-wasm-in-kubernetes-the-micro-edge-revolution-2mlp",
-   "date": "2026-08-11T17:13:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Containers are Heavy. Meet WebAssembly. Docker revolutionized software delivery by packaging applications with their dependencies. But containers, at their core, still require an entire Linux OS filesystem, resulting in ",
-   "image": null
+   "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+   "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+   "date": "2026-08-11T19:36:37.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg"
+  },
+  {
+   "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+   "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+   "date": "2026-08-11T19:08:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg"
+  },
+  {
+   "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+   "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+   "date": "2026-08-11T18:36:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg"
   },
   {
    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
@@ -192,16 +252,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg"
   },
   {
-   "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-   "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-   "date": "2026-08-11T12:04:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is ho",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg"
-  },
-  {
    "title": "Mock PHP Classes in Tests With the Double Library",
    "link": "https://laravel-news.com/double-php-testing-library?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-11T12:03:13.000Z",
@@ -232,16 +282,6 @@
    "image": null
   },
   {
-   "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-   "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-   "date": "2026-08-11T11:35:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg"
-  },
-  {
    "title": "Specbee: How to build accessible Drupal Themes with Twig and BEM",
    "link": "https://www.specbee.com/blogs/accessible-drupal-themes-with-twig-bem",
    "date": "2026-08-11T11:09:25.000Z",
@@ -252,24 +292,14 @@
    "image": null
   },
   {
-   "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-   "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-   "date": "2026-08-11T10:48:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif"
-  },
-  {
-   "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-   "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-   "date": "2026-08-11T10:24:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg"
+   "title": "The Drop Times: Drupal GovCon 2026 Speakers Preview AI Governance, Migrations, Performance, and Delivery",
+   "link": "https://www.thedroptimes.com/71648/drupal-govcon-2026-speaker-preview?utm_source=Drupal Planet",
+   "date": "2026-08-11T05:09:04.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Several Drupal GovCon speakers are looking past demos and idealised workflows to the harder questions of what government teams can govern, maintain, afford, migrate, and trust in real projects.",
+   "image": null
   },
   {
    "title": "Wellingtone Luvonga: Multi-Region PostgreSQL Disaster Recovery and Failback with Crunchy PGO",
@@ -280,6 +310,16 @@
    "source": "Planet PostgreSQL",
    "summary": "You have probably read a dozen tutorials on setting up PostgreSQL High Availability (HA). On paper, it looks simple: spin up a primary instance, spin up a standby, and let them replicate. But what happens when you move t",
    "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/07/CYBERTEC-Infographic-for-Document-Multi-Region_1.png"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: IntervalStyle",
+   "link": "https://postgr.es/p/9s4",
+   "date": "2026-08-11T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "IntervalStyle changes how PostgreSQL parses interval input, not just formats output—and in one case, it silently flips the sign of your data.",
+   "image": null
   },
   {
    "title": "Cheppers: ExperienceKit: AI Landing Page Generation for Drupal - How It Actually Works",
@@ -492,16 +532,6 @@
    "image": null
   },
   {
-   "title": "Vibhor Kumar: The Enterprise AI Trust Stack: How OWNS, CALM, and ORBIT Fit Together",
-   "link": "https://postgr.es/p/9rR",
-   "date": "2026-08-09T05:07:16.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Enterprise AI doesn’t fail because strategy was wrong. Or because the platform wasn’t ready. Or because the execution layer broke. It fails because organizations treat those as three different conversations — run by thre",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-11.png?w=1024"
-  },
-  {
    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
    "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
    "date": "2026-08-08T22:36:03.000Z",
@@ -539,16 +569,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "We recently added PreviousNext's name to \"A Manifesto for an Open Future,\" joining 15 other Drupal agency founders and leaders in a public declaration that open source, not closed platforms, is the foundation for the fut",
-   "image": null
-  },
-  {
-   "title": "Quoting John Gruber",
-   "link": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
-   "date": "2026-08-08T00:10:40.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I trie",
    "image": null
   },
   {
@@ -622,16 +642,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Display Builder Beta 6 Brings UX Refresh and Drupal 11.4 Fixes",
-   "link": "https://www.thedroptimes.com/71549/display-builder-beta6-ux-drupal-11-4?utm_source=Drupal Planet",
-   "date": "2026-08-07T12:26:30.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Display Builder Beta 6 carries the UX refresh previewed in July, adds Drupal 11.4 compatibility fixes, and replaces a Beta 5 affected by a fresh-install failure. Translation and accessibility work remain before a release",
-   "image": null
-  },
-  {
    "title": "The DuckDB MySQL engine at 500 GB",
    "link": "https://www.percona.com/blog/the-duckdb-mysql-engine-at-500-gb/",
    "date": "2026-08-07T12:09:29.000Z",
@@ -650,16 +660,6 @@
    "source": "PortSwigger Research",
    "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #564 - Approachable Open Source",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-564-approachable-open-source",
-   "date": "2026-08-06T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Maintaining NodeJS, Patternlab, Writing Books, and Open Source with guest Brian Muenzenmeyer. We'll also cover AI Webform Generator as our module of the week. For show notes visit: https://www.",
-   "image": null
   },
   {
    "title": "Garden Anomaly: A Tiny WebGPU and TSL Experiment",
