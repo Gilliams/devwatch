@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-08-11T06:01:40.127Z",
+ "generatedAt": "2026-08-11T11:54:21.332Z",
  "articles": [
   {
-   "title": "What happens when you launch an AI Operating System to a global audience? The servers get busy. 🚀",
-   "link": "https://dev.to/sakeekhan/what-happens-when-you-launch-an-ai-operating-system-to-a-global-audience-the-servers-get-busy-2hig",
-   "date": "2026-08-11T05:54:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Just crossed 4.5k+ visits and 11.8k+ requests in 7 days! 🤯 The global response to SME Smart Suite has been absolutely insane. Building a SaaS for SMEs means architecture is everything. Here is what happened behind the s",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa2x0filxuhkd1wt11gmg.png"
-  },
-  {
-   "title": "I changed my security CLI's final question from want another report? to want to know when this changes?",
-   "link": "https://dev.to/thisissecurl/i-changed-my-security-clis-final-question-from-want-another-report-to-want-to-know-when-this-3hdf",
-   "date": "2026-08-11T05:52:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A one-off security scan has an obvious weakness: it starts ageing as soon as it finishes. I have been building SecURL, a passive outside-in posture scanner for public websites. It checks the evidence available without cr",
+   "title": "TDD inside the agent loop - theater or actual value?",
+   "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+   "date": "2026-08-11T11:39:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
    "image": null
   },
   {
-   "title": "Exploring FinOps Foundation Certification and the Future of Cloud Cost Optimization",
-   "link": "https://dev.to/manshi2026/exploring-finops-foundation-certification-and-the-future-of-cloud-cost-optimization-2jfo",
-   "date": "2026-08-11T05:52:06.000Z",
+   "title": "Platform Engineering & Internal Developer Platforms",
+   "link": "https://dev.to/sri2614/platform-engineering-internal-developer-platforms-cah",
+   "date": "2026-08-11T11:38:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cloud computing makes it easier to launch products, scale infrastructure, and experiment with new ideas. However, its usage-based pricing can also make spending difficult to understand. A small configuration decision, un",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcod4rmio3lg6bjjty6m9.png"
-  },
-  {
-   "title": "Build a Route Readiness Scorecard for Chinese AI APIs",
-   "link": "https://dev.to/aiwave/build-a-route-readiness-scorecard-for-chinese-ai-apis-496p",
-   "date": "2026-08-11T05:51:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Changing an OpenAI SDK base URL is easy. Deciding that a new model route is ready for production is harder. That distinction matters for teams in the United States, the United Kingdom, Germany, the Netherlands, Japan, Si",
+   "summary": "⚡ TL;DR: Platform engineering corrects DevOps overload by building paved roads developers self-serve safely. Learn the platform-as-product mindset, what an IDP provides, and the DevEx metrics that prove it's working. Why",
    "image": null
   },
   {
-   "title": "A Symlink in a Git Repo Can Hijack Claude Code, Gemini CLI, Cursor, Copilot CLI, Grok Build, and Codex",
-   "link": "https://dev.to/ramdai_bista/a-symlink-in-a-git-repo-can-hijack-claude-code-gemini-cli-cursor-copilot-cli-grok-build-and-5hgn",
-   "date": "2026-08-11T05:40:49.000Z",
+   "title": "Configuring NVIDIA MIG: Technical Walkthrough for Bare-Metal GPU Partitioning published: true",
+   "link": "https://dev.to/ethan_vance/configuring-nvidia-mig-technical-walkthrough-for-bare-metal-gpu-partitioningpublished-true-2oc1",
+   "date": "2026-08-11T11:36:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security researchers at Adversa AI published a technique called \"SymJack\" that hijacks an AI coding agent's own configuration file — without a single malicious prompt. The attack lives entirely in the filesystem, and it ",
+   "summary": "High-capacity GPUs (like the A100, H100, or Blackwell) often sit underutilized in bare-metal environments. Software-based time slicing lacks hardware-level resource guarantees. NVIDIA Multi-Instance GPU (MIG) solves this",
    "image": null
   },
   {
-   "title": "Replit's AI Agent Deleted a Production Database During a Code Freeze, Then Lied About the Rollback",
-   "link": "https://dev.to/ramdai_bista/replits-ai-agent-deleted-a-production-database-during-a-code-freeze-then-lied-about-the-rollback-59m1",
-   "date": "2026-08-11T05:29:58.000Z",
+   "title": "Automate IP Abuse Reports Into Your Ticket Queue",
+   "link": "https://dev.to/abdullah_afzal/automate-ip-abuse-reports-into-your-ticket-queue-4807",
+   "date": "2026-08-11T11:35:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In July 2025, SaaStr founder Jason Lemkin was testing Replit's AI coding agent against a live project. He'd put the project under an explicit \"code and action freeze\" — no changes to production, no action without human a",
+   "summary": "Automating abuse reports for attacking IPs starts with a step most incident-response scripts skip: finding the network operator responsible for the address. Blocking the IP stops traffic from that address, but a well-evi",
    "image": null
   },
   {
-   "title": "Your AI agent grades its own homework",
-   "link": "https://dev.to/salmanahsan/your-ai-agent-grades-its-own-homework-2ekm",
-   "date": "2026-08-11T05:29:07.000Z",
+   "title": "Deploying to Cloudflare Pages from pure Python — no Node, no wrangler",
+   "link": "https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1",
+   "date": "2026-08-11T11:15:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here's a failure mode I keep running into, and I don't think it gets enough attention relative to how expensive it is. An AI coding agent finishes a task. It tells you what it did. \"Ran the test suite, all passing. Updat",
+   "summary": "I run a Python-only content pipeline. It generates a static site, and it needs to put that site on Cloudflare Pages, unattended, on a schedule. The official way to do that is wrangler. Wrangler is Node. Adding a Node too",
    "image": null
   },
   {
-   "title": "Stop Mixing Tenant Routes: Practical Linux VRF with systemd-networkd",
-   "link": "https://dev.to/lyraalishaikh/stop-mixing-tenant-routes-practical-linux-vrf-with-systemd-networkd-5643",
-   "date": "2026-08-11T05:02:56.000Z",
+   "title": "The shadow compute bill 28k month nobody approved",
+   "link": "https://dev.to/zop_8abedcc7e12/the-shadow-compute-bill-28k-month-nobody-approved-21n6",
+   "date": "2026-08-11T11:01:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stop Mixing Tenant Routes: Practical Linux VRF with systemd-networkd You already know the failure mode: one Linux box has a management NIC, a lab VLAN, and a production uplink. Someone adds a second default route \"just f",
+   "summary": "TL;DR Cloud bills do not lie, but they do surprise. The $28,000 per month in shadow compute charges that accumulated without a single approval signature is not an anomaly. Cloud bills do not lie, but they do surprise. Th",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxwmmojkl77seh55jpep1.png"
+  },
+  {
+   "title": "Cluster Autoscaler vs Karpenter at 10 000 nodes: what the benchmarks miss",
+   "link": "https://dev.to/zop_8abedcc7e12/cluster-autoscaler-vs-karpenter-at-10-000-nodes-what-the-benchmarks-miss-1ld7",
+   "date": "2026-08-11T11:01:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR The autoscaler decision you made at 50 nodes becomes a structural liability at 10,000. By the time the cluster grows to enterprise scale, the choice is load-bearing infrastructure. The autoscaler decision you made ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1iejwg65dyxxve546uga.png"
+  },
+  {
+   "title": "Policy as code at 10 teams: what breaks after month 3",
+   "link": "https://dev.to/zop_8abedcc7e12/policy-as-code-at-10-teams-what-breaks-after-month-3-2e0l",
+   "date": "2026-08-11T11:00:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The 3-Month Cliff: When Policy as Code Stops Working Policy as Code works cleanly until it meets ten teams, and then it breaks in ways the pilot never predicted. The first three months feel like a governance win. Policie",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftnpsvuikm2r63ipkftw3.png"
+  },
+  {
+   "title": "A Data Pipeline Gets Expensive When Every Source Becomes Its Own Little System",
+   "link": "https://dev.to/ascentinnovate/a-data-pipeline-gets-expensive-when-every-source-becomes-its-own-little-system-6mo",
+   "date": "2026-08-11T11:00:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A multi-source data project can look surprisingly simple at the beginning. Connect one publisher. Add another. Write some source-specific logic. Keep going. Then the system reaches ten or more sources, and the work start",
    "image": null
+  },
+  {
+   "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+   "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+   "date": "2026-08-11T10:48:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif"
+  },
+  {
+   "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+   "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+   "date": "2026-08-11T10:24:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg"
+  },
+  {
+   "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+   "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+   "date": "2026-08-11T09:16:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include heal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg"
+  },
+  {
+   "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+   "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+   "date": "2026-08-11T06:55:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg"
+  },
+  {
+   "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+   "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+   "date": "2026-08-11T05:48:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg"
+  },
+  {
+   "title": "Wellingtone Luvonga: Multi-Region PostgreSQL Disaster Recovery and Failback with Crunchy PGO",
+   "link": "https://postgr.es/p/9rZ",
+   "date": "2026-08-11T05:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "You have probably read a dozen tutorials on setting up PostgreSQL High Availability (HA). On paper, it looks simple: spin up a primary instance, spin up a standby, and let them replicate. But what happens when you move t",
+   "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/07/CYBERTEC-Infographic-for-Document-Multi-Region_1.png"
   },
   {
    "title": "Introducing Muse Glimmer",
@@ -122,26 +192,6 @@
    "image": null
   },
   {
-   "title": "Animating CSS border-image",
-   "link": "https://css-tricks.com/animating-css-border-image/",
-   "date": "2026-08-10T15:58:47.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
-   "image": null
-  },
-  {
-   "title": "SmashingConf Freiburg 2026, September 7-10",
-   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-   "date": "2026-08-10T15:57:39.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
-   "image": null
-  },
-  {
    "title": "Floor Drees: EDB is ready for Valencia: Meet the Team at PGConf EU 2026",
    "link": "https://postgr.es/p/9rX",
    "date": "2026-08-10T15:19:36.000Z",
@@ -162,26 +212,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1600/recaps.jpg"
   },
   {
-   "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-   "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-   "date": "2026-08-10T13:19:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg"
-  },
-  {
-   "title": "From Brand Systems to Cultural Worlds: Inside Antinomy and 27b",
-   "link": "https://tympanus.net/codrops/2026/08/10/from-brand-systems-to-cultural-worlds-inside-antinomy-and-27b/",
-   "date": "2026-08-10T13:14:08.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A look inside two connected studios building brands across strategy, design, and experience, with the same instinct for clarity, culture, and edge.",
-   "image": null
-  },
-  {
    "title": "Laravel artisan dev: Run Server, Queue, Logs, and Vite",
    "link": "https://laravel-news.com/artisan-dev-command?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-10T12:55:03.000Z",
@@ -190,26 +220,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.16 added php artisan dev to run your server, queue worker, logs, and Vite together, with the process list configured in PHP instead of composer.json. The post Laravel artisan dev: Run Server, Queue, Logs, and ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-artisan-dev-command-featured.png"
-  },
-  {
-   "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-   "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-   "date": "2026-08-10T12:25:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s1600/passkeys.jpg"
-  },
-  {
-   "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-   "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-   "date": "2026-08-10T11:33:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, I",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg"
   },
   {
    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
@@ -230,26 +240,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Partitioning gets sold as a performance switch. You flip it on a big table, and the slow queries get fast. Most of the time, that is exactly what happens. But there is a version of this where you do all the work, split a",
    "image": null
-  },
-  {
-   "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-   "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-   "date": "2026-08-10T07:38:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg"
-  },
-  {
-   "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-   "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-   "date": "2026-08-10T05:50:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
   },
   {
    "title": "The Drop Times: Who Pays for Drupal’s Shared Work?",
@@ -382,16 +372,6 @@
    "image": null
   },
   {
-   "title": "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice",
-   "link": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
-   "date": "2026-08-08T15:13:31.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A film-led website for Chems Studio, bringing years of creative direction and moving image together through a quiet, flexible digital framework.",
-   "image": null
-  },
-  {
    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
    "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
    "date": "2026-08-08T14:06:41.000Z",
@@ -482,26 +462,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
   },
   {
-   "title": "The Department Is Open: Building the PX PUSH Website",
-   "link": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
-   "date": "2026-08-07T14:38:08.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How a design subscription studio built its website around a single governing idea: an old, always-on machine, running underneath a modern Nuxt and Three.js stack.",
-   "image": null
-  },
-  {
-   "title": "Using and Styling the Dialog Element",
-   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-   "date": "2026-08-07T14:06:43.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
    "title": "Saga Lara Flow: Durable Workflows and Compensating Transactions on Laravel Queues",
    "link": "https://laravel-news.com/saga-lara-flow?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-07T12:58:48.000Z",
@@ -532,16 +492,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/chart-storage_fix.png"
   },
   {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: Syntax Potpourri",
-   "link": "https://postgr.es/p/9rN",
-   "date": "2026-08-07T10:41:27.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Before diving into this final post covering new Postgres 19 features, I just want to say it's been a wild ride. Postgres 19 has been a veritable treasure trove of enhancements, perhaps more than any previous release; or ",
-   "image": null
-  },
-  {
    "title": "CSS:the bomb inside your inbox",
    "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
    "date": "2026-08-06T22:00:00.000Z",
@@ -559,26 +509,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Today we are talking about Maintaining NodeJS, Patternlab, Writing Books, and Open Source with guest Brian Muenzenmeyer. We'll also cover AI Webform Generator as our module of the week. For show notes visit: https://www.",
-   "image": null
-  },
-  {
-   "title": "Garden Anomaly: A Tiny WebGPU and TSL Experiment",
-   "link": "https://tympanus.net/codrops/2026/08/06/garden-anomaly-a-tiny-webgpu-and-tsl-experiment/",
-   "date": "2026-08-06T16:30:42.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A tiny WebGPU and TSL experiment, tinkering with physics, deformations, and procedural audio, all tied together inside a sphere to play with.",
-   "image": null
-  },
-  {
-   "title": "2026 State of CSS, Devs Surveys",
-   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-   "date": "2026-08-06T15:54:52.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
    "image": null
   },
   {
@@ -702,16 +632,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
-   "link": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
-   "date": "2026-08-05T10:22:14.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A selection of websites that show why individuality, not trends, creates the most memorable experiences on the web.",
-   "image": null
-  },
-  {
    "title": "SymfonyLive Germany 2027 heads to Cologne",
    "link": "https://symfony.com/blog/symfonylive-germany-2027-heads-to-cologne?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-05T07:00:00.000Z",
@@ -762,16 +682,6 @@
    "image": null
   },
   {
-   "title": "Building an Endless Interactive Glass Xylophone with Three.js",
-   "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
-   "date": "2026-08-04T10:58:37.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A scrolling helix of frosted glass bars that ring as you sweep across them, built in Three.js with instancing, a fluid simulation, and glass faked entirely in the shader.",
-   "image": null
-  },
-  {
    "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
    "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
    "date": "2026-08-03T16:00:00.000Z",
@@ -782,26 +692,6 @@
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
-   "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
-   "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
-   "date": "2026-08-03T11:10:44.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37 Sneak Peek",
    "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
    "date": "2026-07-31T16:00:00.000Z",
@@ -809,26 +699,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
-  },
-  {
-   "title": "Get Ready For the Powerful CSS border-shape Property!",
-   "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-   "date": "2026-07-31T15:14:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
@@ -889,16 +759,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "Building an Infinite GSAP Scroll Gallery with Parallax and Flip Transitions",
-   "link": "https://tympanus.net/codrops/2026/07/30/building-an-infinite-gsap-scroll-gallery-with-parallax-and-flip-transitions/",
-   "date": "2026-07-30T14:16:27.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Learn how to build an infinite GSAP gallery with parallax scrolling, reveal animations, and Flip-powered fullscreen transitions.",
    "image": null
   },
   {
@@ -1052,16 +912,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -1099,16 +949,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "DSLs Enable Reliable Use of LLMs",
-   "link": "https://martinfowler.com/articles/llm-and-dsls.html",
-   "date": "2026-07-14T12:51:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "LLMs generate code incredibly fast, but to ensure they generate exactly what is intended, they need clear boundaries. Abstractions and Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs right from",
    "image": null
   },
   {
