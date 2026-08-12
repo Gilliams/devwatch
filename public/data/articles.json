@@ -1,24 +1,104 @@
 {
- "generatedAt": "2026-08-11T23:55:56.006Z",
+ "generatedAt": "2026-08-12T06:39:31.779Z",
  "articles": [
   {
-   "title": "The 10 Sites Guide to Buying Old Yahoo Accounts With 2FA",
-   "link": "https://dev.to/frankyfischeryh05j/the-10-sites-guide-to-buying-old-yahoo-accounts-with-2fa-30il",
-   "date": "2026-08-11T23:28:26.000Z",
+   "title": "10 Essential Coding Skills Every Beginner Developer Should Learn in 2026",
+   "link": "https://dev.to/mdidminfoway_56565/10-essential-coding-skills-every-beginner-developer-should-learn-in-2026-4k4i",
+   "date": "2026-08-12T06:35:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Meta Description ✨ 24/7 Customer Support — Fast, Reliable & Always Ready 📲✨💎🌐🚀⭐ WhatsApp: +1 (506) 541-7768 ✈️✨💎🌐🚀⭐ Telegram: @usadigitalhub 🎮✨💎🌐🚀⭐ Discord: usadigitalhub 📧✨💎🌐🚀⭐ Email: usadigitalhubsell@gm",
+   "summary": "Learning to code can open the door to many career opportunities in technology. However, beginners often feel confused about which programming languages, tools, and skills they should learn first. With web development, ar",
    "image": null
   },
   {
-   "title": "Generating your agent rules from one file does not stop them drifting",
-   "link": "https://dev.to/untactit/generating-your-agent-rules-from-one-file-does-not-stop-them-drifting-3gpb",
-   "date": "2026-08-11T22:51:21.000Z",
+   "title": "DevOps Consulting Services: A Practical Guide to Cloud, Automation, DevSecOps, Kubernetes, and SRE",
+   "link": "https://dev.to/zainab_1201/devops-consulting-services-a-practical-guide-to-cloud-automation-devsecops-kubernetes-and-sre-6dl",
+   "date": "2026-08-12T06:28:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The obvious fix for \"our agent instruction files keep diverging\" is to stop maintaining copies. Write AGENTS.md, generate CLAUDE.md and .cursor/rules/*.mdc and .github/copilot-instructions.md from it, done. I built that.",
+   "summary": "Introduction Engineering teams rarely wake up one morning and decide they want to overhaul their entire delivery model. More often, operational friction builds up slowly over time. It starts with subtle pain points: a de",
+   "image": null
+  },
+  {
+   "title": "DevOps Consulting Company India: Automation, Security, Cloud, Reliability Expertise",
+   "link": "https://dev.to/manshi2026/devops-consulting-company-india-automation-security-cloud-reliability-expertise-5f81",
+   "date": "2026-08-12T06:27:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Software teams often begin with simple deployment processes, a small infrastructure footprint, and a limited number of services. As applications grow, those early processes can become a source of friction. Deployments ta",
+   "image": null
+  },
+  {
+   "title": "I migrated 200 tables with an AI agent. Here's what I learned about context windows",
+   "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/i-migrated-200-tables-with-an-ai-agent-heres-what-i-learned-about-context-windows-2ap7",
+   "date": "2026-08-12T06:18:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Two hundred-something tables, old schema to new. Field names, types, foreign keys — all had to be checked. I estimated two days. It took four. About one of those was spent waiting on my usage limit to reset. I dumped the",
+   "image": null
+  },
+  {
+   "title": "Your Agent Finished the Job. Did the Email Actually Leave?",
+   "link": "https://dev.to/zira125/your-agent-finished-the-job-did-the-email-actually-leave-5cm1",
+   "date": "2026-08-12T05:59:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent run can be complete while its outbound side effect is still unknown. That distinction matters for email, GitHub comments, payments, ticket updates, browser actions, and every other operation where a remote syste",
+   "image": null
+  },
+  {
+   "title": "Copilot CLI 'Backed Up' Its Own Log With a Hardlink, Then Destroyed Both Copies",
+   "link": "https://dev.to/ramdai_bista/copilot-cli-backed-up-its-own-log-with-a-hardlink-then-destroyed-both-copies-b5e",
+   "date": "2026-08-12T05:47:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "ln events.jsonl events.jsonl.bak-20260624 : > events.jsonl",
+   "image": null
+  },
+  {
+   "title": "5 Signs Your Business Has Outgrown Its Current Software",
+   "link": "https://dev.to/nativeclusters_b695bf2918/5-signs-your-business-has-outgrown-its-current-software-3n3l",
+   "date": "2026-08-12T05:37:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Business software often starts as a simple solution to an immediate problem. A spreadsheet may be enough for a small inventory, a basic CRM may handle a few customers, or an off-the-shelf accounting tool may support a gr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pgudlq4ftkzxk2o91h0.png"
+  },
+  {
+   "title": "Accelerating Software Delivery and Cloud Modernization with Expert DevOps Solutions",
+   "link": "https://dev.to/komal-kumari/accelerating-software-delivery-and-cloud-modernization-with-expert-devops-solutions-3fp0",
+   "date": "2026-08-12T05:29:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction DevOpsConsulting.in is a specialized technology partner that helps organizations streamline their software delivery lifecycles and optimize infrastructure management. By providing expert guidance on cloud au",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1g1rxv35wzhdi22ssrl7.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: io_combine_limit and io_max_combine_limit",
+   "link": "https://postgr.es/p/9s5",
+   "date": "2026-08-12T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 17 introduced read streams that combine adjacent disk blocks into larger I/O requests.",
+   "image": null
+  },
+  {
+   "title": "There are no lossless transformations of natural-language text",
+   "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+   "date": "2026-08-11T23:48:35.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really go",
    "image": null
   },
   {
@@ -32,63 +112,13 @@
    "image": null
   },
   {
-   "title": "Master anydoc in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-anydoc-in-5-mins-1hd3",
-   "date": "2026-08-11T22:09:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours struggling to integrate AI-generated code into my Rust project, only to realize I was using the wrong tools. Then I discovered anydoc, a game-changing tool that simplifies the proce",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Important Things to Consider Before You Buy a Verified Binance Account",
-   "link": "https://dev.to/binanceacc24/important-things-to-consider-before-you-buy-a-verified-binance-account-4876",
-   "date": "2026-08-11T21:26:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Important Things to Consider Before You Buy a Verified Binance Account 📧 Email: usamarketit@gmail.com Is Buying a Verified Binance Account Safe? These risks become especially important when substantial cryptocurrency ba",
-   "image": null
-  },
-  {
-   "title": "Madden NFL 27’s News Feed: Built on Cloud AI and DevOps",
-   "link": "https://dev.to/thomas_woodfin_3a4efcd491/madden-nfl-27s-news-feed-built-on-cloud-ai-and-devops-2km0",
-   "date": "2026-08-11T21:00:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Behind every generated headline and beat report in Madden NFL 27's franchise mode sits a Kubernetes-orchestrated, AI-driven content factory-welcome to the era where gaming journalism meets cloud-native DevOps. The new in",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages%2C%2520and%2520unsplashcom%2Fphoto-1558494949-ef010cbdcc31%3F%2520w%3D800"
-  },
-  {
-   "title": "Your homelab behind CGNAT is now reachable for free",
-   "link": "https://dev.to/javimosch/your-homelab-behind-cgnat-is-now-reachable-for-free-54lg",
-   "date": "2026-08-11T20:31:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I built rcmd — a relay-based remote execution tool. Your server connects out to a relay; you connect to the same relay from your laptop; the relay routes commands between you. No SSH keys, no open ports, no VPN. It works",
-   "image": null
-  },
-  {
-   "title": "I gave an AI agent my infrastructure instead of my codebase. Every bug was the same bug.",
-   "link": "https://dev.to/vladonemo/i-gave-an-ai-agent-my-infrastructure-instead-of-my-codebase-every-bug-was-the-same-bug-1in",
-   "date": "2026-08-11T20:30:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A while back I wrote about making a fleet of Claude Code agents talk to each other over Discord. Four agents, one per project, hub-and-spoke so they can't wake each other into a loop. That design has held. What's changed",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy33y13bw5n2bouxxc167.png"
-  },
-  {
-   "title": "The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.",
-   "link": "https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm",
-   "date": "2026-08-11T20:17:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Article 50 of the EU AI Act applies as from 2 August 2026. Providers of systems that generate synthetic text, audio, image or video have to mark outputs in a machine-readable format so they are detectable as artificially",
+   "title": "datasette-upload-dbs 0.5a0",
+   "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+   "date": "2026-08-11T20:35:13.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that ",
    "image": null
   },
   {
@@ -140,6 +170,16 @@
    "source": "The Hacker News",
    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg"
+  },
+  {
+   "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+   "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
+   "date": "2026-08-11T18:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives ",
+   "image": null
   },
   {
    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
@@ -462,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Regina Obe: PostGIS 3.7.0beta2",
-   "link": "https://postgr.es/p/9rU",
-   "date": "2026-08-10T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0beta2! Best Served with PostgreSQL 19 Beta2 and GEOS 3.15.0beta2. This version requires PostgreSQL 14 - 19beta2, GEOS 3.10 or higher, and Proj 6.1+. To take advantage o",
-   "image": null
-  },
-  {
    "title": "Laravel Discount: Coupon Codes, Usage Limits, and Stacking",
    "link": "https://laravel-news.com/laravel-discount?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-09T23:32:51.000Z",
@@ -532,16 +562,6 @@
    "image": null
   },
   {
-   "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-   "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
-   "date": "2026-08-08T22:36:03.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claud",
-   "image": null
-  },
-  {
    "title": "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice",
    "link": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
    "date": "2026-08-08T15:13:31.000Z",
@@ -549,16 +569,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A film-led website for Chems Studio, bringing years of creative direction and moving image together through a quiet, flexible digital framework.",
-   "image": null
-  },
-  {
-   "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-   "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-   "date": "2026-08-08T14:06:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News. I think one of the most interesting details here might be tucked away in that first bulletin point: May 7: Op",
    "image": null
   },
   {
