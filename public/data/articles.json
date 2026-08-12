@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-08-12T06:39:31.779Z",
+ "generatedAt": "2026-08-12T11:56:12.103Z",
  "articles": [
   {
-   "title": "10 Essential Coding Skills Every Beginner Developer Should Learn in 2026",
-   "link": "https://dev.to/mdidminfoway_56565/10-essential-coding-skills-every-beginner-developer-should-learn-in-2026-4k4i",
-   "date": "2026-08-12T06:35:58.000Z",
+   "title": "Observability: Metrics, Logs & Traces (The Three Pillars)",
+   "link": "https://dev.to/sri2614/observability-metrics-logs-traces-the-three-pillars-2gh3",
+   "date": "2026-08-12T11:40:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learning to code can open the door to many career opportunities in technology. However, beginners often feel confused about which programming languages, tools, and skills they should learn first. With web development, ar",
+   "summary": "⚡ TL;DR: Walk away able to instrument a service the right way: wire up metrics, logs, and traces, watch the four golden signals, and set SLIs and SLOs so you can answer not just whether a system broke but why. The 3am qu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fYXBwKCJZb3VyIEFwcDxici8-aW5zdHJ1bWVudGVkIikKICBjbGFzcyBuX2FwcCBjb21wdXRlOwogIG5fY29sbGVjdG9yKCJDb2xsZWN0b3I8YnIvPk9UZWwgLyBhZ2VudCIpCiAgY2xhc3Mgbl9jb2xsZWN0b3IgcXVldWU7CiAgbl9tZXRyaWNzKCJNZXRyaWNzIFN0b3JlPGJyLz5Qcm9tZXRoZXVzIikKICBjbGFzcyBuX21ldHJpY3Mgb2JzZXJ2YWJpbGl0eTsKICBuX2xvZ3MoIkxvZyBTdG9yZTxici8-TG9raSAvIEVMSyIpCiAgY2xhc3Mgbl9sb2dzIG9ic2VydmFiaWxpdHk7CiAgbl90cmFjZXMoIlRyYWNlIFN0b3JlPGJyLz5UZW1wbyAvIEphZWdlciIpCiAgY2xhc3Mgbl90cmFjZXMgb2JzZXJ2YWJpbGl0eTsKICBuX2Rhc2goIkRhc2hib2FyZHM8YnIvPkdyYWZhbmEiKQogIGNsYXNzIG5fZGFzaCBvYnNlcnZhYmlsaXR5OwogIG5fYWxlcnQoIkFsZXJ0aW5nPGJyLz5wYWdlcyBhIGh1bWFuIikKICBjbGFzcyBuX2FsZXJ0IGV4dGVybmFsOwogIG5fYXBwIC0tPnwiZW1pdCJ8IG5fY29sbGVjdG9yCiAgbl9jb2xsZWN0b3IgLS0-fCJtZXRyaWNzInwgbl9tZXRyaWNzCiAgbl9jb2xsZWN0b3IgLS0-fCJsb2dzInwgbl9sb2dzCiAgbl9jb2xsZWN0b3IgLS0-fCJ0cmFjZXMifCBuX3RyYWNlcwogIG5fbWV0cmljcyAtLT4gbl9kYXNoCiAgbl9sb2dzIC0uLT4gbl9kYXNoCiAgbl90cmFjZXMgLS4tPiBuX2Rhc2gKICBuX21ldHJpY3MgLS0-fCJ0aHJlc2hvbGRzInwgbl9hbGVydA%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "How to Think Like a System Administrator: The Practical Interview Playbook",
+   "link": "https://dev.to/yashvikothari/how-to-think-like-a-system-administrator-the-practical-interview-playbook-2ppc",
+   "date": "2026-08-12T11:33:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At 11:00 PM, the phone rings. A client says: “The website is down.” This is where a junior administrator starts guessing. A strong system administrator starts asking questions. Is the server reachable? Is the web server ",
    "image": null
   },
   {
-   "title": "DevOps Consulting Services: A Practical Guide to Cloud, Automation, DevSecOps, Kubernetes, and SRE",
-   "link": "https://dev.to/zainab_1201/devops-consulting-services-a-practical-guide-to-cloud-automation-devsecops-kubernetes-and-sre-6dl",
-   "date": "2026-08-12T06:28:14.000Z",
+   "title": "Docker Commands Every DevOps Engineer Should Know",
+   "link": "https://dev.to/themdmohiuddin/docker-commands-every-devops-engineer-should-know-55bp",
+   "date": "2026-08-12T11:29:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Engineering teams rarely wake up one morning and decide they want to overhaul their entire delivery model. More often, operational friction builds up slowly over time. It starts with subtle pain points: a de",
+   "summary": "Learning Docker isn't just about running containers—it's about becoming fluent in the commands you'll use every day in real-world DevOps environments. These are the Docker commands you'll use repeatedly throughout your D",
    "image": null
   },
   {
-   "title": "DevOps Consulting Company India: Automation, Security, Cloud, Reliability Expertise",
-   "link": "https://dev.to/manshi2026/devops-consulting-company-india-automation-security-cloud-reliability-expertise-5f81",
-   "date": "2026-08-12T06:27:40.000Z",
+   "title": "The workflow you turned off is still a load-bearing part of your system",
+   "link": "https://dev.to/jk27101/the-workflow-you-turned-off-is-still-a-load-bearing-part-of-your-system-1i9b",
+   "date": "2026-08-12T11:20:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Software teams often begin with simple deployment processes, a small infrastructure footprint, and a limited number of services. As applications grow, those early processes can become a source of friction. Deployments ta",
+   "summary": "A month ago I disabled a GitHub Actions workflow. It was the right call and I made it in about ninety seconds. The workflow pre-rendered static HTML for a site I run — read the JSON sources, generate the pages, commit th",
    "image": null
   },
   {
-   "title": "I migrated 200 tables with an AI agent. Here's what I learned about context windows",
-   "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/i-migrated-200-tables-with-an-ai-agent-heres-what-i-learned-about-context-windows-2ap7",
-   "date": "2026-08-12T06:18:36.000Z",
+   "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+   "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+   "date": "2026-08-12T11:13:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
+  },
+  {
+   "title": "Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Component",
+   "link": "https://dev.to/uaslimcreate/tailwind-css-just-in-time-compilation-in-monorepos-why-your-build-times-explode-with-shared-1fh0",
+   "date": "2026-08-12T10:52:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Two hundred-something tables, old schema to new. Field names, types, foreign keys — all had to be checked. I estimated two days. It took four. About one of those was spent waiting on my usage limit to reset. I dumped the",
+   "summary": "Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Components I built CitizenApp as a monorepo with 6 internal packages—a core UI library, feature modules, and admin dashboards. ",
    "image": null
   },
   {
-   "title": "Your Agent Finished the Job. Did the Email Actually Leave?",
-   "link": "https://dev.to/zira125/your-agent-finished-the-job-did-the-email-actually-leave-5cm1",
-   "date": "2026-08-12T05:59:13.000Z",
+   "title": "What Developers Really Want From the Hiring Experience |Placemeright",
+   "link": "https://dev.to/placemeright/what-developers-really-want-from-the-hiring-experience-placemeright-71d",
+   "date": "2026-08-12T10:45:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An agent run can be complete while its outbound side effect is still unknown. That distinction matters for email, GitHub comments, payments, ticket updates, browser actions, and every other operation where a remote syste",
+   "summary": "What Developers Really Want From the Hiring Experience Hiring developers has changed. A good salary and a fancy job title are no longer enough to convince strong technical talent to join a company. Developers are looking",
    "image": null
   },
   {
-   "title": "Copilot CLI 'Backed Up' Its Own Log With a Hardlink, Then Destroyed Both Copies",
-   "link": "https://dev.to/ramdai_bista/copilot-cli-backed-up-its-own-log-with-a-hardlink-then-destroyed-both-copies-b5e",
-   "date": "2026-08-12T05:47:35.000Z",
+   "title": "Apache vs Nginx: Linux Web Server Administration Guide",
+   "link": "https://dev.to/yashvikothari/apache-vs-nginx-linux-web-server-administration-guide-2k36",
+   "date": "2026-08-12T10:35:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ln events.jsonl events.jsonl.bak-20260624 : > events.jsonl",
+   "summary": "Apache vs Nginx: Which Web Server Should a DevOps Engineer Learn? Most people learning DevOps jump straight into Docker, Kubernetes, Terraform, and CI/CD. But there is a layer underneath all of them that is easy to overl",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx1po1ymyreledmfu8jlv.png"
+  },
+  {
+   "title": "AI agents are shadow AI's more dangerous sequel",
+   "link": "https://dev.to/nodevguy/ai-agents-are-shadow-ais-more-dangerous-sequel-32j6",
+   "date": "2026-08-12T10:33:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The last two years of shadow AI were mostly about employees pasting things into chatbots. Risky, but bounded. A person can only copy so much, and a chatbot on its own just reads what you give it and hands text back. The ",
    "image": null
   },
   {
-   "title": "5 Signs Your Business Has Outgrown Its Current Software",
-   "link": "https://dev.to/nativeclusters_b695bf2918/5-signs-your-business-has-outgrown-its-current-software-3n3l",
-   "date": "2026-08-12T05:37:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Business software often starts as a simple solution to an immediate problem. A spreadsheet may be enough for a small inventory, a basic CRM may handle a few customers, or an off-the-shelf accounting tool may support a gr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6pgudlq4ftkzxk2o91h0.png"
+   "title": "Hans-Juergen Schoenig: Introducing the CYBERTEC PG Operator",
+   "link": "https://postgr.es/p/9s7",
+   "date": "2026-08-12T09:05:41.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "There is no shortage of PostgreSQL operators for Kubernetes. Projects such as CloudNativePG, the Zalando postgres-operator, Crunchy PGO, and StackGres have all helped shape the ecosystem. So why did we build another one?",
+   "image": null
   },
   {
-   "title": "Accelerating Software Delivery and Cloud Modernization with Expert DevOps Solutions",
-   "link": "https://dev.to/komal-kumari/accelerating-software-delivery-and-cloud-modernization-with-expert-devops-solutions-3fp0",
-   "date": "2026-08-12T05:29:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction DevOpsConsulting.in is a specialized technology partner that helps organizations streamline their software delivery lifecycles and optimize infrastructure management. By providing expert guidance on cloud au",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1g1rxv35wzhdi22ssrl7.jpg"
+   "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+   "date": "2026-08-12T09:01:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8),",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
+  },
+  {
+   "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+   "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+   "date": "2026-08-12T08:04:52.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
+  },
+  {
+   "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+   "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+   "date": "2026-08-12T07:31:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5823",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
+  },
+  {
+   "title": "Stuart Clark (Deciphered): JSON:API Views 8.x-1.2",
+   "link": "https://stuar.tc/writing/jsonapi-views-120-20260812",
+   "date": "2026-08-12T06:50:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "JSON:API on its own gets you decoupled entities: fetch a node, fetch a set of IDs, done. It doesn't get you the filtering, sorting and pagination that most real content listings actually need - a list of articles by tag,",
+   "image": null
+  },
+  {
+   "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+   "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+   "date": "2026-08-12T06:41:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerabil",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
+  },
+  {
+   "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+   "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+   "date": "2026-08-12T06:15:58.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tra",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: io_combine_limit and io_max_combine_limit",
@@ -152,26 +232,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg"
   },
   {
-   "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-   "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-   "date": "2026-08-11T19:08:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg"
-  },
-  {
-   "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-   "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-   "date": "2026-08-11T18:36:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg"
-  },
-  {
    "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
    "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
    "date": "2026-08-11T18:00:00.000Z",
@@ -182,24 +242,14 @@
    "image": null
   },
   {
-   "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-   "date": "2026-08-11T16:47:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg"
-  },
-  {
-   "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-   "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-   "date": "2026-08-11T16:35:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg"
+   "title": "Aten Design Group: Choosing a Multisite Approach in Drupal",
+   "link": "https://atendesigngroup.com/articles/choosing-multisite-approach-drupal",
+   "date": "2026-08-11T15:56:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Choosing a Multisite Approach in Drupal Joel Steidl Tue, 08/11/2026 - 09:56 Drupal Organizations usually begin considering a multisite approach (the ability to manage multiple distinct websites from one single Drupal ins",
+   "image": null
   },
   {
    "title": "Laravel monitoring that doesn't bill you by your traffic",
@@ -242,16 +292,6 @@
    "image": null
   },
   {
-   "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-   "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-   "date": "2026-08-11T13:11:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to impr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026:  Why AI Output Is the New XSS",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-11T13:00:00.000Z",
@@ -280,16 +320,6 @@
    "source": "Percona Blog",
    "summary": "We’re happy to announce that Percona Server for MongoDB (PSMDB) 8.0.28-12 extends platform support to RHEL 10 and its derivatives (Oracle Linux 10, Rocky Linux 10, AlmaLinux 10, and other RHEL-compatible distributions) f",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/pmm-adoption-arm-2048x673.png"
-  },
-  {
-   "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-   "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-   "date": "2026-08-11T12:05:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg"
   },
   {
    "title": "Mock PHP Classes in Tests With the Double Library",
@@ -482,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: integer_datetimes",
-   "link": "https://postgr.es/p/9rT",
-   "date": "2026-08-10T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Every PostgreSQL connection since 8.0 has heard the server announce `integer_datetimes`—a parameter that's had only one possible value since PostgreSQL 10.",
-   "image": null
-  },
-  {
    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
    "link": "https://huggingface.co/blog/muse-glimmer",
    "date": "2026-08-10T00:00:00.000Z",
@@ -572,16 +592,6 @@
    "image": null
   },
   {
-   "title": "PreviousNext: Why PreviousNext signed Drupal's Manifesto for an Open Future",
-   "link": "https://www.previousnext.com.au/blog/why-previousnext-signed-drupals-manifesto-open-future",
-   "date": "2026-08-08T06:12:50.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We recently added PreviousNext's name to \"A Manifesto for an Open Future,\" joining 15 other Drupal agency founders and leaders in a public declaration that open source, not closed platforms, is the foundation for the fut",
-   "image": null
-  },
-  {
    "title": "Symfony 8.1.4 released",
    "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-07T18:08:16.000Z",
@@ -609,16 +619,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Gábor Hojtsy: Introducing Language Audit and Configuration Language Lock for Drupal and asking for your feedback",
-   "link": "https://www.hojtsy.hu/blog/2026-aug-07/introducing-language-audit-and-configuration-language-lock-drupal-and-asking-your",
-   "date": "2026-08-07T16:22:20.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Introducing Language Audit and Configuration Language Lock for Drupal and asking for your feedback I am neck deep in Drupal configuration language recently as I was diagnosing problems with how recipes are installed on f",
    "image": null
   },
   {
