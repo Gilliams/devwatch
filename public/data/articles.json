@@ -1,45 +1,165 @@
 {
- "generatedAt": "2026-08-12T11:56:12.103Z",
+ "generatedAt": "2026-08-12T18:04:18.657Z",
  "articles": [
   {
-   "title": "Observability: Metrics, Logs & Traces (The Three Pillars)",
-   "link": "https://dev.to/sri2614/observability-metrics-logs-traces-the-three-pillars-2gh3",
-   "date": "2026-08-12T11:40:47.000Z",
+   "title": "Time to First Token vs Tokens per Second",
+   "link": "https://dev.to/multigrid/time-to-first-token-vs-tokens-per-second-ko1",
+   "date": "2026-08-12T18:02:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Walk away able to instrument a service the right way: wire up metrics, logs, and traces, watch the four golden signals, and set SLIs and SLOs so you can answer not just whether a system broke but why. The 3am qu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fYXBwKCJZb3VyIEFwcDxici8-aW5zdHJ1bWVudGVkIikKICBjbGFzcyBuX2FwcCBjb21wdXRlOwogIG5fY29sbGVjdG9yKCJDb2xsZWN0b3I8YnIvPk9UZWwgLyBhZ2VudCIpCiAgY2xhc3Mgbl9jb2xsZWN0b3IgcXVldWU7CiAgbl9tZXRyaWNzKCJNZXRyaWNzIFN0b3JlPGJyLz5Qcm9tZXRoZXVzIikKICBjbGFzcyBuX21ldHJpY3Mgb2JzZXJ2YWJpbGl0eTsKICBuX2xvZ3MoIkxvZyBTdG9yZTxici8-TG9raSAvIEVMSyIpCiAgY2xhc3Mgbl9sb2dzIG9ic2VydmFiaWxpdHk7CiAgbl90cmFjZXMoIlRyYWNlIFN0b3JlPGJyLz5UZW1wbyAvIEphZWdlciIpCiAgY2xhc3Mgbl90cmFjZXMgb2JzZXJ2YWJpbGl0eTsKICBuX2Rhc2goIkRhc2hib2FyZHM8YnIvPkdyYWZhbmEiKQogIGNsYXNzIG5fZGFzaCBvYnNlcnZhYmlsaXR5OwogIG5fYWxlcnQoIkFsZXJ0aW5nPGJyLz5wYWdlcyBhIGh1bWFuIikKICBjbGFzcyBuX2FsZXJ0IGV4dGVybmFsOwogIG5fYXBwIC0tPnwiZW1pdCJ8IG5fY29sbGVjdG9yCiAgbl9jb2xsZWN0b3IgLS0-fCJtZXRyaWNzInwgbl9tZXRyaWNzCiAgbl9jb2xsZWN0b3IgLS0-fCJsb2dzInwgbl9sb2dzCiAgbl9jb2xsZWN0b3IgLS0-fCJ0cmFjZXMifCBuX3RyYWNlcwogIG5fbWV0cmljcyAtLT4gbl9kYXNoCiAgbl9sb2dzIC0uLT4gbl9kYXNoCiAgbl90cmFjZXMgLS4tPiBuX2Rhc2gKICBuX21ldHJpY3MgLS0-fCJ0aHJlc2hvbGRzInwgbl9hbGVydA%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "How to Think Like a System Administrator: The Practical Interview Playbook",
-   "link": "https://dev.to/yashvikothari/how-to-think-like-a-system-administrator-the-practical-interview-playbook-2ppc",
-   "date": "2026-08-12T11:33:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At 11:00 PM, the phone rings. A client says: “The website is down.” This is where a junior administrator starts guessing. A strong system administrator starts asking questions. Is the server reachable? Is the web server ",
+   "summary": "A single “latency” figure for a streaming model is an average of two things that move independently and are fixed by unrelated means. Which of the two you should be optimising is not a matter of taste — it is determined ",
    "image": null
   },
   {
-   "title": "Docker Commands Every DevOps Engineer Should Know",
-   "link": "https://dev.to/themdmohiuddin/docker-commands-every-devops-engineer-should-know-55bp",
-   "date": "2026-08-12T11:29:29.000Z",
+   "title": "Kubernetes for Beginners: Deploy Your First App",
+   "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-1a3d",
+   "date": "2026-08-12T18:00:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learning Docker isn't just about running containers—it's about becoming fluent in the commands you'll use every day in real-world DevOps environments. These are the Docker commands you'll use repeatedly throughout your D",
+   "summary": "Kubernetes for Beginners: Deploy Your First App tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial Imagine being able to deploy and manage you",
    "image": null
   },
   {
-   "title": "The workflow you turned off is still a load-bearing part of your system",
-   "link": "https://dev.to/jk27101/the-workflow-you-turned-off-is-still-a-load-bearing-part-of-your-system-1i9b",
-   "date": "2026-08-12T11:20:27.000Z",
+   "title": "Training Compute vs Inference Compute: Where the Crossover Is",
+   "link": "https://dev.to/multigrid/training-compute-vs-inference-compute-where-the-crossover-is-759",
+   "date": "2026-08-12T17:59:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A month ago I disabled a GitHub Actions workflow. It was the right call and I made it in about ninety seconds. The workflow pre-rendered static HTML for a site I run — read the JSON sources, generate the pages, commit th",
+   "summary": "Training a frontier model is the expenditure that gets reported. Serving it is the expenditure that never stops. The point at which the second passes the first is a short calculation, and the answer is smaller than most ",
    "image": null
+  },
+  {
+   "title": "Replaying Production Traffic Against a New Model",
+   "link": "https://dev.to/multigrid/replaying-production-traffic-against-a-new-model-e5o",
+   "date": "2026-08-12T17:57:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Replay differs from shadowing in one useful way: it is offline. You are not racing production, so you can run the same corpus against four candidates, re-run it after a prompt edit, and diff any pair. The corpus is the a",
+   "image": null
+  },
+  {
+   "title": "How OpsMemory AI Turns Production Incidents into Persistent Engineering Experience",
+   "link": "https://dev.to/jaswanth7373/how-opsmemory-ai-turns-production-incidents-into-persistent-engineering-experience-5530",
+   "date": "2026-08-12T17:57:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "# How OpsMemory AI Turns Production Incidents into Persistent Engineering Experience Every engineering team that runs something in production accumulates hard-won operational knowledge. Almost none of it is stored anywhe",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fab6is39x0xuiwep9zw7m.png"
+  },
+  {
+   "title": "Sampling: How Much Traffic Do You Need to Log?",
+   "link": "https://dev.to/multigrid/sampling-how-much-traffic-do-you-need-to-log-l63",
+   "date": "2026-08-12T17:56:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Sampling is usually framed as a cost decision, which makes it sound like a slider between “expensive” and “blind”. It is really a design decision about which questions you intend to be able to answer, and those questions",
+   "image": null
+  },
+  {
+   "title": "I Turned One Next.js Buying Guide Into 12 Sites. Here Is What Broke.",
+   "link": "https://dev.to/ac0ai/i-turned-one-nextjs-buying-guide-into-12-sites-here-is-what-broke-7ni",
+   "date": "2026-08-12T17:55:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A few months ago I wrote here about building a 209-page sauna site without knowing how to code. That experiment did not stay one site. It became 12 independent buying guides for saunas, cold plunges, hot tubs, heat pumps",
+   "image": null
+  },
+  {
+   "title": "Tailscale Traced Database Corruption to a 16-Year-Old SQLite Bug — and the Story Is Remarkable",
+   "link": "https://dev.to/trismegistus/tailscale-traced-database-corruption-to-a-16-year-old-sqlite-bug-and-the-story-is-remarkable-2510",
+   "date": "2026-08-12T17:53:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Tailscale, the company behind the popular mesh VPN built on WireGuard, just published a forensic deep dive into a database corruption bug that haunted them for months. The culprit? A 16-year-old bug in SQLite's WAL (Writ",
+   "image": null
+  },
+  {
+   "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+   "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+   "date": "2026-08-12T16:14:36.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Quoting Florian Herrengt",
+   "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+   "date": "2026-08-12T15:08:47.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go talk to the person w",
+   "image": null
+  },
+  {
+   "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+   "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+   "date": "2026-08-12T14:09:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
+  },
+  {
+   "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+   "date": "2026-08-12T14:00:51.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+   "date": "2026-08-12T13:43:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
+   "image": null
+  },
+  {
+   "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
+   "link": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
+   "date": "2026-08-12T13:10:49.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A step-by-step tutorial on turning a simple icosahedron into a dynamic, interactive 3D cluster using Three.js, TSL, WebGPU, noise, interaction, and post-processing.",
+   "image": null
+  },
+  {
+   "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+   "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+   "date": "2026-08-12T11:47:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
+  },
+  {
+   "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+   "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+   "date": "2026-08-12T11:41:34.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
   },
   {
    "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
@@ -50,46 +170,6 @@
    "source": "The Hacker News",
    "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
-  },
-  {
-   "title": "Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Component",
-   "link": "https://dev.to/uaslimcreate/tailwind-css-just-in-time-compilation-in-monorepos-why-your-build-times-explode-with-shared-1fh0",
-   "date": "2026-08-12T10:52:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Tailwind CSS Just-In-Time Compilation in Monorepos: Why Your Build Times Explode With Shared Components I built CitizenApp as a monorepo with 6 internal packages—a core UI library, feature modules, and admin dashboards. ",
-   "image": null
-  },
-  {
-   "title": "What Developers Really Want From the Hiring Experience |Placemeright",
-   "link": "https://dev.to/placemeright/what-developers-really-want-from-the-hiring-experience-placemeright-71d",
-   "date": "2026-08-12T10:45:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What Developers Really Want From the Hiring Experience Hiring developers has changed. A good salary and a fancy job title are no longer enough to convince strong technical talent to join a company. Developers are looking",
-   "image": null
-  },
-  {
-   "title": "Apache vs Nginx: Linux Web Server Administration Guide",
-   "link": "https://dev.to/yashvikothari/apache-vs-nginx-linux-web-server-administration-guide-2k36",
-   "date": "2026-08-12T10:35:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Apache vs Nginx: Which Web Server Should a DevOps Engineer Learn? Most people learning DevOps jump straight into Docker, Kubernetes, Terraform, and CI/CD. But there is a layer underneath all of them that is easy to overl",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx1po1ymyreledmfu8jlv.png"
-  },
-  {
-   "title": "AI agents are shadow AI's more dangerous sequel",
-   "link": "https://dev.to/nodevguy/ai-agents-are-shadow-ais-more-dangerous-sequel-32j6",
-   "date": "2026-08-12T10:33:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The last two years of shadow AI were mostly about employees pasting things into chatbots. Risky, but bounded. A person can only copy so much, and a chatbot on its own just reads what you give it and hands text back. The ",
-   "image": null
   },
   {
    "title": "Hans-Juergen Schoenig: Introducing the CYBERTEC PG Operator",
@@ -152,14 +232,24 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
   },
   {
-   "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-   "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-   "date": "2026-08-12T06:15:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tra",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg"
+   "title": "Webpro Company blog: Managing Drupal content with ChatGPT and MCP",
+   "link": "https://webpro.company/blog/managing-drupal-content-with-chatgpt-and-mcp",
+   "date": "2026-08-12T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal content can be managed by machines without giving up human control. The key is not to hand ChatGPT the full admin interface, but to expose narrow MCP tools: find an article, open a draft, propose a change, validat",
+   "image": null
+  },
+  {
+   "title": "Webpro Company blog: How to evaluate a Drupal developer's competence",
+   "link": "https://webpro.company/blog/evaluating-drupal-development-partner",
+   "date": "2026-08-12T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "When you hire a Drupal developer or change maintenance partner, do not ask only for a portfolio. Ask how they keep the system upgradable, testable and understandable for the next developer. In 2026, it is no longer enoug",
+   "image": null
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: io_combine_limit and io_max_combine_limit",
@@ -172,6 +262,16 @@
    "image": null
   },
   {
+   "title": "Five CSS properties for eye-catching text designs",
+   "link": "https://frontendfoc.us/issues/754",
+   "date": "2026-08-12T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
+  },
+  {
    "title": "There are no lossless transformations of natural-language text",
    "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
    "date": "2026-08-11T23:48:35.000Z",
@@ -180,6 +280,26 @@
    "source": "Simon Willison",
    "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really go",
    "image": null
+  },
+  {
+   "title": "Pause All Queues and a New artisan dev UI in Laravel 13.25",
+   "link": "https://laravel-news.com/laravel-13-25-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-11T22:49:40.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.25 adds queue:pause --all across every connection, runs artisan dev in a tabbed terminal UI, and returns images straight from routes. The post Pause All Queues and a New artisan dev UI in Laravel 13.25 appeare",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Laravel Terminal UI for the artisan dev Command",
+   "link": "https://laravel-news.com/artisan-dev-terminal-ui?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-11T22:47:42.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.25 runs artisan dev through @laravel/multiplex, putting each process in its own tab with search, per-process restart, and timestamps. The post Laravel Terminal UI for the artisan dev Command appeared first on ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-tui-featured.png"
   },
   {
    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -202,16 +322,6 @@
    "image": null
   },
   {
-   "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-   "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-   "date": "2026-08-11T20:10:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg"
-  },
-  {
    "title": "Drupal Association blog: Responding to Drupal Enquiries with a Community-First Mindset",
    "link": "https://www.drupal.org/association/blog/responding-to-drupal-enquiries-with-a-community-first-mindset",
    "date": "2026-08-11T20:00:02.000Z",
@@ -220,16 +330,6 @@
    "source": "Drupal Planet",
    "summary": "This is a guest post from the team at Zoocha, a Gold Drupal Certified Partner with offices in the United Kingdom, Spain, Brazil, and the United States. As Drupal agencies, we're fortunate to benefit from a vibrant ecosys",
    "image": null
-  },
-  {
-   "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-   "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-   "date": "2026-08-11T19:36:37.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg"
   },
   {
    "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
@@ -392,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Cheppers: ExperienceKit: AI Landing Page Generation for Drupal - How It Actually Works",
-   "link": "https://cheppers.com/post/experiencekit-how-it-works",
-   "date": "2026-08-11T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Describe the landing page you need in plain language. A few minutes later, it exists in your Drupal site: production-ready, on brand, and waiting for your review. That is the promise of an AI landing page generator for D",
-   "image": null
-  },
-  {
    "title": "Introducing Muse Glimmer",
    "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
    "date": "2026-08-10T23:56:03.000Z",
@@ -462,16 +552,6 @@
    "image": null
   },
   {
-   "title": "Laravel artisan dev: Run Server, Queue, Logs, and Vite",
-   "link": "https://laravel-news.com/artisan-dev-command?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-10T12:55:03.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.16 added php artisan dev to run your server, queue worker, logs, and Vite together, with the process list configured in PHP instead of composer.json. The post Laravel artisan dev: Run Server, Queue, Logs, and ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-artisan-dev-command-featured.png"
-  },
-  {
    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
    "date": "2026-08-10T10:05:36.000Z",
@@ -489,16 +569,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Partitioning gets sold as a performance switch. You flip it on a big table, and the slow queries get fast. Most of the time, that is exactly what happens. But there is a version of this where you do all the work, split a",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Who Pays for Drupal’s Shared Work?",
-   "link": "https://www.thedroptimes.com/newsletter/drupal-shared-work-funding?utm_source=Drupal Planet",
-   "date": "2026-08-10T05:12:56.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Recent audited figures give Drupal’s sustainability debate a concrete baseline. The Drupal Association says unrestricted reserves are about $960,000, equal to 2.3 months of operating expenses and below the board’s three-",
    "image": null
   },
   {
@@ -542,16 +612,6 @@
    "image": null
   },
   {
-   "title": "Laravel Truss: Live Interactive Database ER Diagrams",
-   "link": "https://laravel-news.com/laravel-truss-database-er-diagrams?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-09T23:26:08.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Truss renders your database schema as a live, zoomable ER diagram inside your application. The post Laravel Truss: Live Interactive Database ER Diagrams appeared first on Laravel News. Join the Laravel Newsletter",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Truss-LN.png"
-  },
-  {
    "title": "GitHub Models is now retired",
    "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
    "date": "2026-08-09T22:48:05.000Z",
@@ -559,16 +619,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled r",
-   "image": null
-  },
-  {
-   "title": "SQLite compressed text-history prototypes",
-   "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
-   "date": "2026-08-09T22:05:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text o",
    "image": null
   },
   {
@@ -609,16 +659,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 7.4.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-   "link": "https://huggingface.co/blog/allenai/tutormoments",
-   "date": "2026-08-07T17:53:32.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -792,16 +832,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
   },
   {
-   "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-   "date": "2026-08-04T13:58:29.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Fragments: August  4",
    "link": "https://martinfowler.com/fragments/2026-08-04.html",
    "date": "2026-08-04T12:08:00.000Z",
@@ -839,16 +869,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
-  },
-  {
-   "title": "The Story Is in the Interaction: Bonhomme’s Digital Experiences for Luxury Brands",
-   "link": "https://tympanus.net/codrops/2026/08/03/the-story-is-in-the-interaction-bonhommes-digital-experiences-for-luxury-brands/",
-   "date": "2026-08-03T11:10:44.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Bonhomme explores how brands come alive through digital, turning design and technology into immersive stories.",
    "image": null
   },
   {
@@ -1072,16 +1092,6 @@
    "image": null
   },
   {
-   "title": "writing-mode",
-   "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-   "date": "2026-07-21T09:39:10.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress. .element { writing-mode: vertical-rl; } This is most useful in langu",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
    "link": "https://www.php.net/index.php#2026-07-16-1",
    "date": "2026-07-16T13:28:29.000Z",
@@ -1100,16 +1110,6 @@
    "source": "Martin Fowler",
    "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. ",
    "image": null
-  },
-  {
-   "title": "Does the frontend still need build tools?",
-   "link": "https://frontendfoc.us/issues/750",
-   "date": "2026-07-15T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​750 — July 15, 2026 | Read on the web Do We Still Need Build Tools for Frontend Dev? — A feature-by-feature audit of what build tools still do for us in 2026. Vendor prefixing and ES5 transpiling are ",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xakvproho361uhrwln0e.jpg"
   },
   {
    "title": "Building a Custom Metrics Exporter for Kubernetes",
