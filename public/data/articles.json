@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-08-12T18:04:18.657Z",
+ "generatedAt": "2026-08-12T23:55:00.444Z",
  "articles": [
   {
-   "title": "Time to First Token vs Tokens per Second",
-   "link": "https://dev.to/multigrid/time-to-first-token-vs-tokens-per-second-ko1",
-   "date": "2026-08-12T18:02:41.000Z",
+   "title": "From Source Code to Production: Building a Secure Docker Platform on AWS",
+   "link": "https://dev.to/keneojiteli/from-source-code-to-production-building-a-secure-docker-platform-on-aws-23kl",
+   "date": "2026-08-12T23:47:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A single “latency” figure for a streaming model is an average of two things that move independently and are fixed by unrelated means. Which of the two you should be optimising is not a matter of taste — it is determined ",
+   "summary": "Introduction There is a common idea in cloud-native engineering that Docker Compose is only a temporary step: Use Docker Compose for development. Use Kubernetes for production. That advice is reasonable in many situation",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp9u023fsjsspe8v48z1m.png"
+  },
+  {
+   "title": "AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement",
+   "link": "https://dev.to/kenwalger/ai-access-control-for-enterprise-ai-turning-policy-into-runtime-enforcement-5bkk",
+   "date": "2026-08-12T23:46:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "API keys authenticate software. Policy objects decide what that software is allowed to do. The previous post in this series ended on a question asked in a meeting room: who actually decided we're allowed to do this? The ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4gd9987ldlbxfuv2agr7.png"
+  },
+  {
+   "title": "Blue-Green Deployments for Teams Without a Platform Engineer",
+   "link": "https://dev.to/pickuma/blue-green-deployments-for-teams-without-a-platform-engineer-4ign",
+   "date": "2026-08-12T23:42:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The phrase \"blue-green deployment\" conjures images of Kubernetes Ingress controllers, weighted traffic splitting in Istio, and a platform engineer who owns the rollout pipeline. That version exists, and it works well at ",
    "image": null
   },
   {
-   "title": "Kubernetes for Beginners: Deploy Your First App",
-   "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-1a3d",
-   "date": "2026-08-12T18:00:07.000Z",
+   "title": "CDN Edge Caching Explained for Application Developers",
+   "link": "https://dev.to/pickuma/cdn-edge-caching-explained-for-application-developers-20ac",
+   "date": "2026-08-12T23:38:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Kubernetes for Beginners: Deploy Your First App tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial Imagine being able to deploy and manage you",
+   "summary": "Most developers interact with a CDN the way they interact with DNS: set it up once, verify it works, and forget it exists. The domain gets a CNAME record pointing at Cloudflare or Fastly or Bunny.net, static assets start",
    "image": null
   },
   {
-   "title": "Training Compute vs Inference Compute: Where the Crossover Is",
-   "link": "https://dev.to/multigrid/training-compute-vs-inference-compute-where-the-crossover-is-759",
-   "date": "2026-08-12T17:59:32.000Z",
+   "title": "What Is Multi-Agent SRE? A Practical Introduction",
+   "link": "https://dev.to/samson_tanimawo/what-is-multi-agent-sre-a-practical-introduction-4m6c",
+   "date": "2026-08-12T23:35:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Training a frontier model is the expenditure that gets reported. Serving it is the expenditure that never stops. The point at which the second passes the first is a short calculation, and the answer is smaller than most ",
+   "summary": "Every SRE team I've talked to this year is running the same experiment in different corners: \"Can we have AI do some of this?\" The honest answer is yes, but only if you stop thinking of it as a single AI and start thinki",
    "image": null
   },
   {
-   "title": "Replaying Production Traffic Against a New Model",
-   "link": "https://dev.to/multigrid/replaying-production-traffic-against-a-new-model-e5o",
-   "date": "2026-08-12T17:57:25.000Z",
+   "title": "Not Found is the wrong answer to a permission problem",
+   "link": "https://dev.to/nasrulhazim/not-found-is-the-wrong-answer-to-a-permission-problem-25cm",
+   "date": "2026-08-12T23:35:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Replay differs from shadowing in one useful way: it is offline. You are not racing production, so you can run the same corpus against four candidates, re-run it after a prompt edit, and diff any pair. The corpus is the a",
+   "summary": "I spent today putting an MCP surface on a multi-tenant Laravel control plane — the kind of app where a wrong answer doesn't just render badly, it tears down infrastructure. Sixty-odd tools across four servers, and honest",
    "image": null
   },
   {
-   "title": "How OpsMemory AI Turns Production Incidents into Persistent Engineering Experience",
-   "link": "https://dev.to/jaswanth7373/how-opsmemory-ai-turns-production-incidents-into-persistent-engineering-experience-5530",
-   "date": "2026-08-12T17:57:22.000Z",
+   "title": "The deploy script that always said it worked",
+   "link": "https://dev.to/nasrulhazim/the-deploy-script-that-always-said-it-worked-3l4o",
+   "date": "2026-08-12T23:34:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "# How OpsMemory AI Turns Production Incidents into Persistent Engineering Experience Every engineering team that runs something in production accumulates hard-won operational knowledge. Almost none of it is stored anywhe",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fab6is39x0xuiwep9zw7m.png"
-  },
-  {
-   "title": "Sampling: How Much Traffic Do You Need to Log?",
-   "link": "https://dev.to/multigrid/sampling-how-much-traffic-do-you-need-to-log-l63",
-   "date": "2026-08-12T17:56:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Sampling is usually framed as a cost decision, which makes it sound like a slider between “expensive” and “blind”. It is really a design decision about which questions you intend to be able to answer, and those questions",
+   "summary": "TL;DR I stood a Laravel control plane up on a bare Ubuntu host today. The provisioning script was the easy part. The deploy script was the one that had been lying to me. git pull had been failing on every deploy since th",
    "image": null
   },
   {
-   "title": "I Turned One Next.js Buying Guide Into 12 Sites. Here Is What Broke.",
-   "link": "https://dev.to/ac0ai/i-turned-one-nextjs-buying-guide-into-12-sites-here-is-what-broke-7ni",
-   "date": "2026-08-12T17:55:49.000Z",
+   "title": "Microsoft's 100 Trillion Token Milestone: What 5x YoY AI Token Growth Reveals About the Real Unit Economics of Enterprise AI at Scale",
+   "link": "https://dev.to/starykingtbl/microsofts-100-trillion-token-milestone-what-5x-yoy-ai-token-growth-reveals-about-the-real-unit-15hj",
+   "date": "2026-08-12T22:56:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A few months ago I wrote here about building a 209-page sauna site without knowing how to code. That experiment did not stay one site. It became 12 independent buying guides for saunas, cold plunges, hot tubs, heat pumps",
+   "summary": "Processing 100 trillion tokens in a quarter requires elite infrastructure execution Microsoft recently demonstrated 1.1 million tokens/sec on a single Azure ND GB300 v6 rack running Llama 2 70B under MLPerf Inference v5.",
    "image": null
   },
   {
-   "title": "Tailscale Traced Database Corruption to a 16-Year-Old SQLite Bug — and the Story Is Remarkable",
-   "link": "https://dev.to/trismegistus/tailscale-traced-database-corruption-to-a-16-year-old-sqlite-bug-and-the-story-is-remarkable-2510",
-   "date": "2026-08-12T17:53:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Tailscale, the company behind the popular mesh VPN built on WireGuard, just published a forensic deep dive into a database corruption bug that haunted them for months. The culprit? A 16-year-old bug in SQLite's WAL (Writ",
+   "title": "Jeremy Schneider: Postgres Checkpoint Followup and Collation Visualization and Codex Luna",
+   "link": "https://postgr.es/p/9s8",
+   "date": "2026-08-12T21:05:30.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "My previous article talked about the checkpoint happiness hint: You probably should not change the checkpoint_timeout setting from its default of 5 minutes. Checkpoint Followup Questions A good follow-up question was rai",
+   "image": "https://ardentperf.com/wp-content/uploads/2026/08/image.png?w=919"
+  },
+  {
+   "title": "Omega8.cc: Dev Sites and Sandboxes",
+   "link": "https://omega8.cc/blog/dev-sites-and-sandboxes",
+   "date": "2026-08-12T19:20:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every Drupal or Backdrop site sooner or later needs a safe copy to experiment on – plenty of us still build one by hand and live with the quiet fear that the copy touches production, and plenty more click a dev-environme",
+   "image": null
+  },
+  {
+   "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+   "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+   "date": "2026-08-12T17:39:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
+  },
+  {
+   "title": "The Drop Times: Drupal GovCon 2026 Speakers Examine Bots, AI Trade-Offs, Accessibility, Search, and Migration",
+   "link": "https://www.thedroptimes.com/71668/drupal-govcon-2026-speaker-preview-part-two?utm_source=Drupal Planet",
+   "date": "2026-08-12T16:53:22.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Eight additional Drupal GovCon respondents focus on the controls, human decisions, and content structures that keep digital systems usable when automation and changing discovery meet production reality.",
    "image": null
   },
   {
@@ -93,7 +133,7 @@
   },
   {
    "title": "Quoting Florian Herrengt",
-   "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
    "date": "2026-08-12T15:08:47.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -222,16 +262,6 @@
    "image": null
   },
   {
-   "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-   "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-   "date": "2026-08-12T06:41:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerabil",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg"
-  },
-  {
    "title": "Webpro Company blog: Managing Drupal content with ChatGPT and MCP",
    "link": "https://webpro.company/blog/managing-drupal-content-with-chatgpt-and-mcp",
    "date": "2026-08-12T06:00:00.000Z",
@@ -273,7 +303,7 @@
   },
   {
    "title": "There are no lossless transformations of natural-language text",
-   "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
    "date": "2026-08-11T23:48:35.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -303,7 +333,7 @@
   },
   {
    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-   "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
    "date": "2026-08-11T22:40:45.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -313,7 +343,7 @@
   },
   {
    "title": "datasette-upload-dbs 0.5a0",
-   "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
    "date": "2026-08-11T20:35:13.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -452,26 +482,6 @@
    "image": null
   },
   {
-   "title": "Specbee: How to build accessible Drupal Themes with Twig and BEM",
-   "link": "https://www.specbee.com/blogs/accessible-drupal-themes-with-twig-bem",
-   "date": "2026-08-11T11:09:25.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Accessibility in a Drupal theme starts in your .html.twig files. Here's a practical guide to learning how to structure templates with semantic HTML5 and BEM class naming.",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Drupal GovCon 2026 Speakers Preview AI Governance, Migrations, Performance, and Delivery",
-   "link": "https://www.thedroptimes.com/71648/drupal-govcon-2026-speaker-preview?utm_source=Drupal Planet",
-   "date": "2026-08-11T05:09:04.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Several Drupal GovCon speakers are looking past demos and idealised workflows to the harder questions of what government teams can govern, maintain, afford, migrate, and trust in real projects.",
-   "image": null
-  },
-  {
    "title": "Wellingtone Luvonga: Multi-Region PostgreSQL Disaster Recovery and Failback with Crunchy PGO",
    "link": "https://postgr.es/p/9rZ",
    "date": "2026-08-11T05:00:00.000Z",
@@ -493,7 +503,7 @@
   },
   {
    "title": "Introducing Muse Glimmer",
-   "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
    "date": "2026-08-10T23:56:03.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -562,18 +572,8 @@
    "image": null
   },
   {
-   "title": "Umair Shahid: Choosing the Right PostgreSQL Partition Key",
-   "link": "https://postgr.es/p/9rV",
-   "date": "2026-08-10T10:01:35.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Partitioning gets sold as a performance switch. You flip it on a big table, and the slow queries get fast. Most of the time, that is exactly what happens. But there is a version of this where you do all the work, split a",
-   "image": null
-  },
-  {
    "title": "Quoting OpenClaw (running Opus 4.6)",
-   "link": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/10/openclaw/",
    "date": "2026-08-10T02:05:16.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -603,7 +603,7 @@
   },
   {
    "title": "Quoting Claude Opus 5 system prompt",
-   "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
    "date": "2026-08-09T23:31:39.000Z",
    "theme": "ia",
    "themeName": "IA",
@@ -613,7 +613,7 @@
   },
   {
    "title": "GitHub Models is now retired",
-   "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+   "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
    "date": "2026-08-09T22:48:05.000Z",
    "theme": "ia",
    "themeName": "IA",
