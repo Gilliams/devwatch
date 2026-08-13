@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-08-12T23:55:00.444Z",
+ "generatedAt": "2026-08-13T06:41:36.116Z",
  "articles": [
   {
-   "title": "From Source Code to Production: Building a Secure Docker Platform on AWS",
-   "link": "https://dev.to/keneojiteli/from-source-code-to-production-building-a-secure-docker-platform-on-aws-23kl",
-   "date": "2026-08-12T23:47:28.000Z",
+   "title": "Why your AI agent instruction files drift across machines",
+   "link": "https://dev.to/untactit/why-your-ai-agent-instruction-files-drift-across-machines-23kb",
+   "date": "2026-08-13T06:35:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction There is a common idea in cloud-native engineering that Docker Compose is only a temporary step: Use Docker Compose for development. Use Kubernetes for production. That advice is reasonable in many situation",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp9u023fsjsspe8v48z1m.png"
-  },
-  {
-   "title": "AI Access Control for Enterprise AI: Turning Policy Into Runtime Enforcement",
-   "link": "https://dev.to/kenwalger/ai-access-control-for-enterprise-ai-turning-policy-into-runtime-enforcement-5bkk",
-   "date": "2026-08-12T23:46:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "API keys authenticate software. Policy objects decide what that software is allowed to do. The previous post in this series ended on a question asked in a meeting room: who actually decided we're allowed to do this? The ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4gd9987ldlbxfuv2agr7.png"
-  },
-  {
-   "title": "Blue-Green Deployments for Teams Without a Platform Engineer",
-   "link": "https://dev.to/pickuma/blue-green-deployments-for-teams-without-a-platform-engineer-4ign",
-   "date": "2026-08-12T23:42:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The phrase \"blue-green deployment\" conjures images of Kubernetes Ingress controllers, weighted traffic splitting in Istio, and a platform engineer who owns the rollout pipeline. That version exists, and it works well at ",
+   "summary": "You write CLAUDE.md once. Six months later there are eighteen of them on your laptop and you cannot say which one is right. This is not a hypothetical. I scanned my own machine and found exactly that. What follows is why",
    "image": null
   },
   {
-   "title": "CDN Edge Caching Explained for Application Developers",
-   "link": "https://dev.to/pickuma/cdn-edge-caching-explained-for-application-developers-20ac",
-   "date": "2026-08-12T23:38:50.000Z",
+   "title": "Top 10 Best PlatformOS to WordPress Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-platformos-to-wordpress-migration-companies-273h",
+   "date": "2026-08-13T06:22:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most developers interact with a CDN the way they interact with DNS: set it up once, verify it works, and forget it exists. The domain gets a CNAME record pointing at Cloudflare or Fastly or Bunny.net, static assets start",
+   "summary": "You've got a PlatformOS site but you're stuck with vendor lock-in and platform constraints. Time to migrate to WordPress. Let's talk about which companies actually understand the technical side and won't corrupt your dat",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6e7uk9brlro02915xxtf.png"
+  },
+  {
+   "title": "Cache Races in a Publish Pipeline: Why Your IndexNow Ping Misses the Pages You Just Shipped",
+   "link": "https://dev.to/pickuma/cache-races-in-a-publish-pipeline-why-your-indexnow-ping-misses-the-pages-you-just-shipped-4ldi",
+   "date": "2026-08-13T06:18:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "We publish from a scheduled agent: build, deploy, ping IndexNow, cross-post. For months the ping step returned HTTP 200 on every run and we filed that under done. Then we diffed the list of URLs we had submitted against ",
    "image": null
   },
   {
-   "title": "What Is Multi-Agent SRE? A Practical Introduction",
-   "link": "https://dev.to/samson_tanimawo/what-is-multi-agent-sre-a-practical-introduction-4m6c",
-   "date": "2026-08-12T23:35:39.000Z",
+   "title": "Build Wide, Ship Narrow: How AI Changed the Economics of Code Review",
+   "link": "https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2",
+   "date": "2026-08-13T06:15:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every SRE team I've talked to this year is running the same experiment in different corners: \"Can we have AI do some of this?\" The honest answer is yes, but only if you stop thinking of it as a single AI and start thinki",
+   "summary": "The Old Way: Decide Boundaries Before You Build Good engineers plan before they build. The traditional workflow goes: write an RFC describing the feature, split it into smaller issues, then build them sequentially — each",
    "image": null
   },
   {
-   "title": "Not Found is the wrong answer to a permission problem",
-   "link": "https://dev.to/nasrulhazim/not-found-is-the-wrong-answer-to-a-permission-problem-25cm",
-   "date": "2026-08-12T23:35:04.000Z",
+   "title": "When There Is No API: Driving Chrome With the DevTools Protocol, and When Not To",
+   "link": "https://dev.to/pickuma/when-there-is-no-api-driving-chrome-with-the-devtools-protocol-and-when-not-to-1mob",
+   "date": "2026-08-13T06:13:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I spent today putting an MCP surface on a multi-tenant Laravel control plane — the kind of app where a wrong answer doesn't just render badly, it tears down infrastructure. Sixty-odd tools across four servers, and honest",
+   "summary": "Every scheduled agent we run has eventually hit the same wall: the data is on a page, and there is no API behind the page. A freelance marketplace renders filtered listings only after a JS filter panel settles. A public ",
    "image": null
   },
   {
-   "title": "The deploy script that always said it worked",
-   "link": "https://dev.to/nasrulhazim/the-deploy-script-that-always-said-it-worked-3l4o",
-   "date": "2026-08-12T23:34:47.000Z",
+   "title": "Securing AI agents: the part the tutorials skip",
+   "link": "https://dev.to/nodevguy/securing-ai-agents-the-part-the-tutorials-skip-f9g",
+   "date": "2026-08-13T06:11:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR I stood a Laravel control plane up on a bare Ubuntu host today. The provisioning script was the easy part. The deploy script was the one that had been lying to me. git pull had been failing on every deploy since th",
+   "summary": "Every agent tutorial ends in the same place. You wire up a model, give it a couple of tools, watch it query a database or book a meeting, and it feels like magic. Then you ship it. What almost none of those tutorials men",
    "image": null
   },
   {
-   "title": "Microsoft's 100 Trillion Token Milestone: What 5x YoY AI Token Growth Reveals About the Real Unit Economics of Enterprise AI at Scale",
-   "link": "https://dev.to/starykingtbl/microsofts-100-trillion-token-milestone-what-5x-yoy-ai-token-growth-reveals-about-the-real-unit-15hj",
-   "date": "2026-08-12T22:56:43.000Z",
+   "title": "DevOps Support Services in Production: Architecture, Incident Workflows, and Operational Best Practices",
+   "link": "https://dev.to/zainab_1201/devops-support-services-in-production-architecture-incident-workflows-and-operational-best-26k1",
+   "date": "2026-08-13T06:08:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Processing 100 trillion tokens in a quarter requires elite infrastructure execution Microsoft recently demonstrated 1.1 million tokens/sec on a single Azure ND GB300 v6 rack running Llama 2 70B under MLPerf Inference v5.",
+   "summary": "Introduction A critical production alert fires in PagerDuty: HTTP 502 Bad Gateway across your primary API endpoints. Your ingress controller is dropping packets, pod auto-scalers are pegged at maximum CPU capacity, and a",
+   "image": null
+  },
+  {
+   "title": "Legacy Systems Are Becoming the Biggest Bottleneck for Real-Time AI",
+   "link": "https://dev.to/hraj_07/legacy-systems-are-becoming-the-biggest-bottleneck-for-real-time-ai-183",
+   "date": "2026-08-13T06:05:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AI models are getting faster. Cloud infrastructure is getting cheaper. Event-driven architectures are becoming easier to build. Yet many enterprises still can't make an AI decision quickly enough to matter. The problem o",
+   "image": null
+  },
+  {
+   "title": "Ryan Booz: Postgres in Production Special Series: Diagnosing High Cardinality Workloads in pg_stat_statements (Part 6)",
+   "link": "https://postgr.es/p/9sa",
+   "date": "2026-08-13T02:00:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "In Part 6 of this special Postgres in Production deep dive series, Ryan Booz asks a question that determines how useful pg_stat_statements can be for you at all: do you have a high cardinality workload? This episode cove",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: io_max_concurrency",
+   "link": "https://postgr.es/p/9s9",
+   "date": "2026-08-13T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 18's new io_max_concurrency caps per-process I/O operations in flight.",
+   "image": null
+  },
+  {
+   "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+   "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+   "date": "2026-08-12T23:59:23.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been",
    "image": null
   },
   {
@@ -90,6 +120,16 @@
    "source": "Planet PostgreSQL",
    "summary": "My previous article talked about the checkpoint happiness hint: You probably should not change the checkpoint_timeout setting from its default of 5 minutes. Checkpoint Followup Questions A good follow-up question was rai",
    "image": "https://ardentperf.com/wp-content/uploads/2026/08/image.png?w=919"
+  },
+  {
+   "title": "alchemy-utils 0.1a0",
+   "link": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+   "date": "2026-08-12T19:51:30.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol",
+   "image": null
   },
   {
    "title": "Omega8.cc: Dev Sites and Sandboxes",
@@ -492,16 +532,6 @@
    "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/07/CYBERTEC-Infographic-for-Document-Multi-Region_1.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: IntervalStyle",
-   "link": "https://postgr.es/p/9s4",
-   "date": "2026-08-11T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "IntervalStyle changes how PostgreSQL parses interval input, not just formats output—and in one case, it silently flips the sign of your data.",
-   "image": null
-  },
-  {
    "title": "Introducing Muse Glimmer",
    "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
    "date": "2026-08-10T23:56:03.000Z",
@@ -539,16 +569,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
-   "image": null
-  },
-  {
-   "title": "Floor Drees: EDB is ready for Valencia: Meet the Team at PGConf EU 2026",
-   "link": "https://postgr.es/p/9rX",
-   "date": "2026-08-10T15:19:36.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "From October 20-23, the global Postgres community will descend upon the beautiful Palacio de Congresos in Valencia, Spain, for PGConf EU. I compiled an overview of the sessions and community events EDB colleagues are run",
    "image": null
   },
   {
@@ -600,26 +620,6 @@
    "source": "Laravel News",
    "summary": "Laravel Discount adds percentage and fixed coupons, expiry windows, per-user usage limits, and stacking rules to Laravel apps, with Laravel Cart support. The post Laravel Discount: Coupon Codes, Usage Limits, and Stackin",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Discount-LN.png"
-  },
-  {
-   "title": "Quoting Claude Opus 5 system prompt",
-   "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/",
-   "date": "2026-08-09T23:31:39.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those ",
-   "image": null
-  },
-  {
-   "title": "GitHub Models is now retired",
-   "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/",
-   "date": "2026-08-09T22:48:05.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled r",
-   "image": null
   },
   {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
