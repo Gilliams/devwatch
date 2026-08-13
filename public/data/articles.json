@@ -1,24 +1,104 @@
 {
- "generatedAt": "2026-08-13T18:04:41.669Z",
+ "generatedAt": "2026-08-13T23:54:38.043Z",
  "articles": [
   {
-   "title": "Your AI Agent Is Restarting in a Loop. Stop Treating It Like a Health Check",
-   "link": "https://dev.to/zira125/your-ai-agent-is-restarting-in-a-loop-stop-treating-it-like-a-health-check-18h6",
-   "date": "2026-08-13T18:03:21.000Z",
+   "title": "Freeze CLI Inputs Before Cron Runs",
+   "link": "https://dev.to/mrdapperx/freeze-cli-inputs-before-cron-runs-33m2",
+   "date": "2026-08-13T23:24:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A process that is alive is not necessarily an agent that is healthy. A supervisor can report “running” while the worker is crashing before it registers, restoring a corrupt state file, losing its credential lease, or rep",
+   "summary": "Cron-driven CLI jobs often look stable right until they get one retry, one stale config read, or one helper script that quietly changes the payload mid-run. After that, the hard part is not fixing the bug. It is explaini",
    "image": null
   },
   {
-   "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
-   "link": "https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph",
-   "date": "2026-08-13T18:02:23.000Z",
+   "title": "5 Terraform Infrastructure Risks That Can Survive `terraform plan`",
+   "link": "https://dev.to/guilhermemarochio/5-terraform-infrastructure-risks-that-can-survive-terraform-plan-2m6p",
+   "date": "2026-08-13T22:48:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR I set up a real Ubuntu Server VM on an Apple Silicon Mac using UTM, as step one toward platform engineering. The setup is short. The confusing part is a few messages that look like errors but are normal. This post ",
+   "summary": "Terraform makes infrastructure reproducible. But a successful terraform plan does not necessarily mean that an infrastructure configuration is secure, resilient, or cost-efficient. Terraform can tell you what is going to",
+   "image": null
+  },
+  {
+   "title": "Pause All Queues and a New artisan dev UI in Laravel 13.25",
+   "link": "https://laravel-news.com/laravel-13-25-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-13T22:38:40.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.25 adds queue:pause --all across every connection, runs artisan dev in a tabbed terminal UI, and returns images straight from routes. The post Pause All Queues and a New artisan dev UI in Laravel 13.25 appeare",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Master deepseek-harness in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-356m",
+   "date": "2026-08-13T22:08:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week, I spent 3 hours integrating an AI-generated code into my project, only to realize I was using the wrong tools. This experience made me wonder: what if I could harness the power of AI to write bett",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Optimizing LLM Fine-Tuning Costs: Infrastructure & Engineering Guidelines",
+   "link": "https://dev.to/abdulrahman_maslmany/optimizing-llm-fine-tuning-costs-infrastructure-engineering-guidelines-43ai",
+   "date": "2026-08-13T22:00:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When moving LLM fine-tuning from prototype notebooks to production pipelines, compute cost is rarely the only financial hurdle. Engineering setup, data preparation, evaluation cycles, and inference infrastructure often a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1c45w2zz1qny3uc9vtn.jpg"
+  },
+  {
+   "title": "I thought this OpenClaw outage story was hype until I read how it actually worked",
+   "link": "https://dev.to/lars_winstand/i-thought-this-openclaw-outage-story-was-hype-until-i-read-how-it-actually-worked-8jf",
+   "date": "2026-08-13T21:53:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A thread on r/openclaw with 134 upvotes and 62 comments got my attention because the agent didn’t just summarize an outage email. It read the utility notice, changed a Tesla Powerwall strategy from a normal 20% reserve t",
+   "image": null
+  },
+  {
+   "title": "Nmap for Authorized Infrastructure Validation (Not Hacking)",
+   "link": "https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6",
+   "date": "2026-08-13T21:39:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every deploy makes a promise about the network: \"this box only exposes SSH and HTTPS,\" \"the database is never reachable from outside the app tier.\" Nmap is how you turn that promise into a test that either passes or fail",
+   "image": null
+  },
+  {
+   "title": "End-to-End Containerised Deployment: AWS EC2 Docker Docker Hub Kubernetes",
+   "link": "https://dev.to/amankhan/end-to-end-containerised-deployment-aws-ec2-docker-docker-hub-kubernetes-j90",
+   "date": "2026-08-13T21:26:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🚀 My First End-to-End Containerised Deployment: AWS EC2 → Docker → Docker Hub → Kubernetes I recently completed a hands-on DevOps project where I8 deployed a simple web application through the complete container workflo",
+   "image": null
+  },
+  {
+   "title": "The Kubernetes Checklist for Teams Without a Platform Team",
+   "link": "https://dev.to/kestrion/the-kubernetes-checklist-for-teams-without-a-platform-team-1ian",
+   "date": "2026-08-13T21:24:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most Kubernetes advice assumes you have a platform team: specialists who own upgrades, ingress, security policies, and the 2 a.m. pages. The teams I am writing for usually have three to ten engineers, one of whom “knows ",
+   "image": null
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #565 - That Geerling Guy",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-565-that-geerling-guy",
+   "date": "2026-08-13T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Open Source sustainability, becoming your own content creation machine, and how drupal influenced some of that with guest Jeff Geerling. We'll also cover AI Metering as our module of the week. ",
    "image": null
   },
   {
@@ -32,53 +112,13 @@
    "image": null
   },
   {
-   "title": "The Backup Awakens: A Star Wars Story",
-   "link": "https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616",
-   "date": "2026-08-13T17:45:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think backups were the boring chores you did after a long day of coding—like wiping your desk before you left the office. I’d fire off a pg_dump whenever I remembered, zip",
-   "image": null
-  },
-  {
-   "title": "Trustworthy Vendor To Buy Verified CashApp Account Online",
-   "link": "https://dev.to/bestcashapp85/trustworthy-vendor-to-buy-verified-cashapp-account-online-5cjp",
-   "date": "2026-08-13T17:36:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Trustworthy Vendor To Buy Verified CashApp Account Online 📧 Email: usamarketit@gmail.com Many online listings promise ready-to-use Cash App accounts, instant delivery, completed verification, aged accounts, business acc",
-   "image": null
-  },
-  {
-   "title": "Microsoft Now Rejects Unauthenticated Email. Here Is the DNS That Fixes It.",
-   "link": "https://dev.to/moksh/microsoft-now-rejects-unauthenticated-email-here-is-the-dns-that-fixes-it-233o",
-   "date": "2026-08-13T17:32:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Since May 5, 2025, Microsoft has been refusing mail that cannot prove where it came from. Outlook.com, Hotmail and Live.com, somewhere around half a billion active mailboxes, now bounce unauthenticated messages from high",
-   "image": null
-  },
-  {
-   "title": "Votre inventaire API est probablement faux et le CRA du 11 septembre 2026 va l'exposer",
-   "link": "https://dev.to/lhoren972971/votre-inventaire-api-est-probablement-faux-et-le-cra-du-11-septembre-2026-va-lexposer-2o4l",
-   "date": "2026-08-13T17:31:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Posez cette question à votre équipe : \"Combien d'APIs avez-vous exactement Dans 9 cas sur 10, la réponse ressemble à Ce n'est pas de la négligence. C'est structurel. Cloudflare a mesuré l'écart sur des milli",
-   "image": null
-  },
-  {
-   "title": "EKS: alertas de cambios con contexto real",
-   "link": "https://dev.to/alexcarteruk/eks-alertas-de-cambios-con-contexto-real-2iji",
-   "date": "2026-08-13T17:24:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "En muchos equipos, una alerta de cambio en EKS llega demasiado tecnica para quien esta de guardia y demasiado vaga para quien necesita decidir rapido. El detector ve el evento, pero el correo o la notificacion no explica",
+   "title": "Replicating from InnoDB into a DuckDB storage engine",
+   "link": "https://www.percona.com/blog/replicating-from-innodb-into-a-duckdb-storage-engine/",
+   "date": "2026-08-13T17:23:27.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Our first post showed MySQL 9.7 with one change: mark a table ENGINE=DuckDB and its analytical queries run in DuckDB instead of InnoDB. The question we kept getting after that was about replication. Can you keep a normal",
    "image": null
   },
   {
@@ -92,16 +132,6 @@
    "image": null
   },
   {
-   "title": "Top 14 Recommended Platforms to Buy Twitter Followers in World",
-   "link": "https://dev.to/norrievictordmbxz/top-14-recommended-platforms-to-buy-twitter-followers-in-world-50hi",
-   "date": "2026-08-13T17:15:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Twitter Accounts ◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀 ◈{{🎯🎯}}◈➤Telegram: @progmbofficial ◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737 ◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial ◈{{🎯🎯}}◈➤Email: progmb.conta",
-   "image": null
-  },
-  {
    "title": "The Drop Times: Tiffany Farriss Says Public-Sector Budgets Should Fund Open Source Maintenance",
    "link": "https://www.thedroptimes.com/71704/farriss-open-source-procurement-funding?utm_source=Drupal Planet",
    "date": "2026-08-13T15:13:05.000Z",
@@ -109,16 +139,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Open-source software still depends on infrastructure and human maintenance that carry real costs. Farriss argues that institutions should plan for those costs before contracts are awarded.",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -172,6 +192,16 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pause-all-laravel-queues-featured.png"
   },
   {
+   "title": "alchemy-utils 0.1a1",
+   "link": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
+   "date": "2026-08-13T03:03:17.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: alchemy-utils 0.1a1 Performance boost for DuckDB exports and CSV imports, see here .",
+   "image": null
+  },
+  {
    "title": "Ryan Booz: Postgres in Production Special Series: Diagnosing High Cardinality Workloads in pg_stat_statements (Part 6)",
    "link": "https://postgr.es/p/9sa",
    "date": "2026-08-13T02:00:31.000Z",
@@ -209,6 +239,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Tag1 Insights: Drupal Workspaces FAQ",
+   "link": "https://www.tag1.com/white-paper/drupal-workspaces-faq/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
+   "date": "2026-08-13T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Traditional content staging servers have had their day. At DrupalCon Chicago 2026, Tag1's Peta Hoyes and Ray Stuart (presenting for Fabian Franz) made that case and showed exactly what replaces them. Their session, Works",
    "image": null
   },
   {
@@ -412,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Webpro Company blog: How to evaluate a Drupal developer's competence",
-   "link": "https://webpro.company/blog/evaluating-drupal-development-partner",
-   "date": "2026-08-12T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "When you hire a Drupal developer or change maintenance partner, do not ask only for a portfolio. Ask how they keep the system upgradable, testable and understandable for the next developer. In 2026, it is no longer enoug",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: io_combine_limit and io_max_combine_limit",
    "link": "https://postgr.es/p/9s5",
    "date": "2026-08-12T01:00:00.000Z",
@@ -452,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Pause All Queues and a New artisan dev UI in Laravel 13.25",
-   "link": "https://laravel-news.com/laravel-13-25-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-11T22:49:40.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.25 adds queue:pause --all across every connection, runs artisan dev in a tabbed terminal UI, and returns images straight from routes. The post Pause All Queues and a New artisan dev UI in Laravel 13.25 appeare",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "Laravel Terminal UI for the artisan dev Command",
    "link": "https://laravel-news.com/artisan-dev-terminal-ui?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-11T22:47:42.000Z",
@@ -489,16 +509,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that ",
-   "image": null
-  },
-  {
-   "title": "Drupal Association blog: Responding to Drupal Enquiries with a Community-First Mindset",
-   "link": "https://www.drupal.org/association/blog/responding-to-drupal-enquiries-with-a-community-first-mindset",
-   "date": "2026-08-11T20:00:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This is a guest post from the team at Zoocha, a Gold Drupal Certified Partner with offices in the United Kingdom, Spain, Brazil, and the United States. As Drupal agencies, we're fortunate to benefit from a vibrant ecosys",
    "image": null
   },
   {
@@ -649,16 +659,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Quoting OpenClaw (running Opus 4.6)",
-   "link": "https://simonwillison.net/2026/Aug/10/openclaw/",
-   "date": "2026-08-10T02:05:16.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. &mdash; Open",
    "image": null
   },
   {
@@ -1072,16 +1072,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/07/sbom-pipeline_6-scaled.png"
   },
   {
-   "title": "Percona Operator for MongoDB 1.23.0: ClusterSync Migration, Vector Search, and PVC Snapshot Backups",
-   "link": "https://www.percona.com/blog/percona-operator-for-mongodb-1-23-0-clustersync-vector-search-pvc-snapshot-backups/",
-   "date": "2026-07-23T19:55:51.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Percona Operator for MongoDB 1.23.0 makes the operator a place you move to, not just a place you start. A new ClusterSync component clones a live source and follows its change streams, so leaving a hosted service is a sh",
-   "image": "https://www.percona.com/wp-content/uploads/2026/07/Cover-1000-x-420.png"
-  },
-  {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
    "link": "https://frontendfoc.us/issues/751",
    "date": "2026-07-22T00:00:00.000Z",
@@ -1179,6 +1169,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
+   "image": null
+  },
+  {
+   "title": "PHP Tek 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
+   "date": "2026-07-07T16:47:27.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
    "image": null
   },
   {
