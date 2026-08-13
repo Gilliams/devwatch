@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-08-13T06:41:36.116Z",
+ "generatedAt": "2026-08-13T11:56:44.054Z",
  "articles": [
   {
-   "title": "Why your AI agent instruction files drift across machines",
-   "link": "https://dev.to/untactit/why-your-ai-agent-instruction-files-drift-across-machines-23kb",
-   "date": "2026-08-13T06:35:16.000Z",
+   "title": "7 delivery model gaps that are quietly breaking your deployments 🛠️",
+   "link": "https://dev.to/upsun/7-delivery-model-gaps-that-are-quietly-breaking-your-deployments-49jn",
+   "date": "2026-08-13T11:44:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You write CLAUDE.md once. Six months later there are eighteen of them on your laptop and you cannot say which one is right. This is not a hypothetical. I scanned my own machine and found exactly that. What follows is why",
+   "summary": "Security audits love to review your application code but completely miss the delivery layer. That is where manual steps, environment drift, and over scoped permissions turn normal deployments into high stress incidents. ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D935%26type%3Dblog-posts%26size%3Dsocial"
+  },
+  {
+   "title": "Reliability & Resilience: Designing for Failure",
+   "link": "https://dev.to/sri2614/reliability-resilience-designing-for-failure-38h7",
+   "date": "2026-08-13T11:41:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "⚡ TL;DR: Stop trying to prevent failure and start containing it. You get the senior engineer's toolkit: timeouts, retries with backoff and jitter, circuit breakers, bulkheads, and chaos engineering, plus when each one ac",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fY2xvc2VkKCJDTE9TRUQ8YnIvPmNhbGxzIGZsb3ciKQogIGNsYXNzIG5fY2xvc2VkIGNvbXB1dGU7CiAgbl9vcGVuKCJPUEVOPGJyLz5mYWlsIGZhc3QiKQogIGNsYXNzIG5fb3BlbiBleHRlcm5hbDsKICBuX2hhbGYoIkhBTEYtT1BFTjxici8-b25lIHRyaWFsIGNhbGwiKQogIGNsYXNzIG5faGFsZiBxdWV1ZTsKICBuX2Nsb3NlZCAtLT58ImZhaWx1cmUgdGhyZXNob2xkIGhpdCJ8IG5fb3BlbgogIG5fb3BlbiAtLT58ImNvb2xkb3duIGVsYXBzZWQifCBuX2hhbGYKICBuX2hhbGYgLS0-fCJ0cmlhbCBzdWNjZWVkcyJ8IG5fY2xvc2VkCiAgbl9oYWxmIC0uLT58InRyaWFsIGZhaWxzInwgbl9vcGVu%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "Vibe Coding Is Everywhere. But Is It Actually Good Software Engineering?",
+   "link": "https://dev.to/kilowott_dx/vibe-coding-is-everywhere-but-is-it-actually-good-software-engineering-163i",
+   "date": "2026-08-13T11:40:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Vibe coding, writing software by prompting an AI and accepting what it gives you, with little to no manual review is not good software engineering by itself. It's a prototyping technique that's being mistaken for a devel",
    "image": null
   },
   {
-   "title": "Top 10 Best PlatformOS to WordPress Migration Companies",
-   "link": "https://dev.to/oliverpitts/top-10-best-platformos-to-wordpress-migration-companies-273h",
-   "date": "2026-08-13T06:22:26.000Z",
+   "title": "Connect marketing data to AI agents: a guide for dev teams",
+   "link": "https://dev.to/shio_c0be3f51f0f/connect-marketing-data-to-ai-agents-a-guide-for-dev-teams-3fpd",
+   "date": "2026-08-13T11:35:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've got a PlatformOS site but you're stuck with vendor lock-in and platform constraints. Time to migrate to WordPress. Let's talk about which companies actually understand the technical side and won't corrupt your dat",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6e7uk9brlro02915xxtf.png"
-  },
-  {
-   "title": "Cache Races in a Publish Pipeline: Why Your IndexNow Ping Misses the Pages You Just Shipped",
-   "link": "https://dev.to/pickuma/cache-races-in-a-publish-pipeline-why-your-indexnow-ping-misses-the-pages-you-just-shipped-4ldi",
-   "date": "2026-08-13T06:18:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "We publish from a scheduled agent: build, deploy, ping IndexNow, cross-post. For months the ping step returned HTTP 200 on every run and we filed that under done. Then we diffed the list of URLs we had submitted against ",
+   "summary": "Connecting marketing data to AI agents solves a growing pain for engineering, product, and finance teams that need up-to-date insights without building custom pipelines. The problem is that disparate data sources, shifti",
    "image": null
   },
   {
-   "title": "Build Wide, Ship Narrow: How AI Changed the Economics of Code Review",
-   "link": "https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2",
-   "date": "2026-08-13T06:15:43.000Z",
+   "title": "MCP Went Stateless. Your Recovery Logic Didn't.",
+   "link": "https://dev.to/dmytronasyrov/mcp-went-stateless-your-recovery-logic-didnt-3l79",
+   "date": "2026-08-13T11:35:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Old Way: Decide Boundaries Before You Build Good engineers plan before they build. The traditional workflow goes: write an RFC describing the feature, split it into smaller issues, then build them sequentially — each",
+   "summary": "The 2026-07-28 MCP revision removed the initialization handshake and protocol-level sessions. That makes a remote server easier to route and scale, but it does not make tool execution stateless. If a call can charge a ca",
    "image": null
   },
   {
-   "title": "When There Is No API: Driving Chrome With the DevTools Protocol, and When Not To",
-   "link": "https://dev.to/pickuma/when-there-is-no-api-driving-chrome-with-the-devtools-protocol-and-when-not-to-1mob",
-   "date": "2026-08-13T06:13:34.000Z",
+   "title": "Every Fix Failed in the Shape of the Bug It Fixed",
+   "link": "https://dev.to/jeremy_longshore/every-fix-failed-in-the-shape-of-the-bug-it-fixed-28d6",
+   "date": "2026-08-13T11:30:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every scheduled agent we run has eventually hit the same wall: the data is on a page, and there is no API behind the page. A freelance marketplace renders filtered listings only after a JS filter panel settles. A public ",
+   "summary": "The restore drill was right to fail and wrong about why. It was newly added by decision-log/050, and the first snapshot it touched came back bad. It aborted with the loudest explanation it had: the seal has locked us out",
    "image": null
   },
   {
-   "title": "Securing AI agents: the part the tutorials skip",
-   "link": "https://dev.to/nodevguy/securing-ai-agents-the-part-the-tutorials-skip-f9g",
-   "date": "2026-08-13T06:11:11.000Z",
+   "title": "Prompt Caching in LLMs, Measured on Our Own Bill",
+   "link": "https://dev.to/jula-markova/prompt-caching-in-llms-measured-on-our-own-bill-o85",
+   "date": "2026-08-13T11:29:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every agent tutorial ends in the same place. You wire up a model, give it a couple of tools, watch it query a database or book a meeting, and it feels like magic. Then you ship it. What almost none of those tutorials men",
+   "summary": "The token report for one pipeline run landed in front of me and the first number I saw was 7,300,000. One topic. Seven pieces of content. Seven point three million tokens. That is the kind of number you see right before ",
    "image": null
   },
   {
-   "title": "DevOps Support Services in Production: Architecture, Incident Workflows, and Operational Best Practices",
-   "link": "https://dev.to/zainab_1201/devops-support-services-in-production-architecture-incident-workflows-and-operational-best-26k1",
-   "date": "2026-08-13T06:08:57.000Z",
+   "title": "Best 25 Places Buy Verified PNC Bank Accounts with Full ...",
+   "link": "https://dev.to/jolenehopkinsujgdp/best-25-places-buy-verified-pnc-bank-accounts-with-full--2l56",
+   "date": "2026-08-13T11:16:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction A critical production alert fires in PagerDuty: HTTP 502 Bad Gateway across your primary API endpoints. Your ingress controller is dropping packets, pod auto-scalers are pegged at maximum CPU capacity, and a",
+   "summary": "Buy Verified PNC Bank Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-pnc-bank-accounts/ Buy Verified PNC Bank Accounts. At PROGMB.com, you can get PNC Bank accounts that have already passed",
    "image": null
   },
   {
-   "title": "Legacy Systems Are Becoming the Biggest Bottleneck for Real-Time AI",
-   "link": "https://dev.to/hraj_07/legacy-systems-are-becoming-the-biggest-bottleneck-for-real-time-ai-183",
-   "date": "2026-08-13T06:05:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI models are getting faster. Cloud infrastructure is getting cheaper. Event-driven architectures are becoming easier to build. Yet many enterprises still can't make an AI decision quickly enough to matter. The problem o",
+   "title": "Announcing the Symfony AI Core Team",
+   "link": "https://symfony.com/blog/announcing-the-symfony-ai-core-team?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-13T07:04:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "When we announced the Symfony AI initiative in July 2025, the goal was to bring powerful, well-integrated AI capabilities to PHP applications and to build them in the open with the community. A little over a year later, ",
    "image": null
+  },
+  {
+   "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+   "date": "2026-08-13T06:09:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
   },
   {
    "title": "Ryan Booz: Postgres in Production Special Series: Diagnosing High Cardinality Workloads in pg_stat_statements (Part 6)",
@@ -280,16 +300,6 @@
    "source": "The Hacker News",
    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
-  },
-  {
-   "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-   "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-   "date": "2026-08-12T07:31:40.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5823",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg"
   },
   {
    "title": "Stuart Clark (Deciphered): JSON:API Views 8.x-1.2",
@@ -809,16 +819,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A selection of websites that show why individuality, not trends, creates the most memorable experiences on the web.",
-   "image": null
-  },
-  {
-   "title": "SymfonyLive Germany 2027 heads to Cologne",
-   "link": "https://symfony.com/blog/symfonylive-germany-2027-heads-to-cologne?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-05T07:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Exciting news for the German Symfony community! After years of memorable editions in Berlin, our annual conference in Germany is starting a fresh chapter: SymfonyLive Germany is going on tour across the country! For this",
    "image": null
   },
   {
