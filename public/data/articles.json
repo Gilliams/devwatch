@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-08-13T11:56:44.054Z",
+ "generatedAt": "2026-08-13T18:04:41.669Z",
  "articles": [
   {
-   "title": "7 delivery model gaps that are quietly breaking your deployments 🛠️",
-   "link": "https://dev.to/upsun/7-delivery-model-gaps-that-are-quietly-breaking-your-deployments-49jn",
-   "date": "2026-08-13T11:44:36.000Z",
+   "title": "Your AI Agent Is Restarting in a Loop. Stop Treating It Like a Health Check",
+   "link": "https://dev.to/zira125/your-ai-agent-is-restarting-in-a-loop-stop-treating-it-like-a-health-check-18h6",
+   "date": "2026-08-13T18:03:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security audits love to review your application code but completely miss the delivery layer. That is where manual steps, environment drift, and over scoped permissions turn normal deployments into high stress incidents. ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D935%26type%3Dblog-posts%26size%3Dsocial"
-  },
-  {
-   "title": "Reliability & Resilience: Designing for Failure",
-   "link": "https://dev.to/sri2614/reliability-resilience-designing-for-failure-38h7",
-   "date": "2026-08-13T11:41:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Stop trying to prevent failure and start containing it. You get the senior engineer's toolkit: timeouts, retries with backoff and jitter, circuit breakers, bulkheads, and chaos engineering, plus when each one ac",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fY2xvc2VkKCJDTE9TRUQ8YnIvPmNhbGxzIGZsb3ciKQogIGNsYXNzIG5fY2xvc2VkIGNvbXB1dGU7CiAgbl9vcGVuKCJPUEVOPGJyLz5mYWlsIGZhc3QiKQogIGNsYXNzIG5fb3BlbiBleHRlcm5hbDsKICBuX2hhbGYoIkhBTEYtT1BFTjxici8-b25lIHRyaWFsIGNhbGwiKQogIGNsYXNzIG5faGFsZiBxdWV1ZTsKICBuX2Nsb3NlZCAtLT58ImZhaWx1cmUgdGhyZXNob2xkIGhpdCJ8IG5fb3BlbgogIG5fb3BlbiAtLT58ImNvb2xkb3duIGVsYXBzZWQifCBuX2hhbGYKICBuX2hhbGYgLS0-fCJ0cmlhbCBzdWNjZWVkcyJ8IG5fY2xvc2VkCiAgbl9oYWxmIC0uLT58InRyaWFsIGZhaWxzInwgbl9vcGVu%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "Vibe Coding Is Everywhere. But Is It Actually Good Software Engineering?",
-   "link": "https://dev.to/kilowott_dx/vibe-coding-is-everywhere-but-is-it-actually-good-software-engineering-163i",
-   "date": "2026-08-13T11:40:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Vibe coding, writing software by prompting an AI and accepting what it gives you, with little to no manual review is not good software engineering by itself. It's a prototyping technique that's being mistaken for a devel",
+   "summary": "A process that is alive is not necessarily an agent that is healthy. A supervisor can report “running” while the worker is crashing before it registers, restoring a corrupt state file, losing its credential lease, or rep",
    "image": null
   },
   {
-   "title": "Connect marketing data to AI agents: a guide for dev teams",
-   "link": "https://dev.to/shio_c0be3f51f0f/connect-marketing-data-to-ai-agents-a-guide-for-dev-teams-3fpd",
-   "date": "2026-08-13T11:35:34.000Z",
+   "title": "1.Setting up my first Linux server on a Mac, and the scary messages that are actually fine",
+   "link": "https://dev.to/anvaysingh/1setting-up-my-first-linux-server-on-a-mac-and-the-scary-messages-that-are-actually-fine-3lph",
+   "date": "2026-08-13T18:02:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Connecting marketing data to AI agents solves a growing pain for engineering, product, and finance teams that need up-to-date insights without building custom pipelines. The problem is that disparate data sources, shifti",
+   "summary": "TL;DR I set up a real Ubuntu Server VM on an Apple Silicon Mac using UTM, as step one toward platform engineering. The setup is short. The confusing part is a few messages that look like errors but are normal. This post ",
    "image": null
   },
   {
-   "title": "MCP Went Stateless. Your Recovery Logic Didn't.",
-   "link": "https://dev.to/dmytronasyrov/mcp-went-stateless-your-recovery-logic-didnt-3l79",
-   "date": "2026-08-13T11:35:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The 2026-07-28 MCP revision removed the initialization handshake and protocol-level sessions. That makes a remote server easier to route and scale, but it does not make tool execution stateless. If a call can charge a ca",
+   "title": "Mark Wong: PDXPUG Septemter 8, 2026, MeetUp: Migrating to a Temporal Schema",
+   "link": "https://postgr.es/p/9sd",
+   "date": "2026-08-13T17:54:04.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Please note different time and location this month at UpStart Collective at the U.S. Bancorp Tower (a.k.a. Big Pink). Please RSVP on MeetUp. Tuesday September 8, 2026 from 6:30pm to 8:30pm. Coinciding with devopsdays Por",
    "image": null
   },
   {
-   "title": "Every Fix Failed in the Shape of the Bug It Fixed",
-   "link": "https://dev.to/jeremy_longshore/every-fix-failed-in-the-shape-of-the-bug-it-fixed-28d6",
-   "date": "2026-08-13T11:30:14.000Z",
+   "title": "The Backup Awakens: A Star Wars Story",
+   "link": "https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616",
+   "date": "2026-08-13T17:45:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The restore drill was right to fail and wrong about why. It was newly added by decision-log/050, and the first snapshot it touched came back bad. It aborted with the loudest explanation it had: the seal has locked us out",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think backups were the boring chores you did after a long day of coding—like wiping your desk before you left the office. I’d fire off a pg_dump whenever I remembered, zip",
    "image": null
   },
   {
-   "title": "Prompt Caching in LLMs, Measured on Our Own Bill",
-   "link": "https://dev.to/jula-markova/prompt-caching-in-llms-measured-on-our-own-bill-o85",
-   "date": "2026-08-13T11:29:57.000Z",
+   "title": "Trustworthy Vendor To Buy Verified CashApp Account Online",
+   "link": "https://dev.to/bestcashapp85/trustworthy-vendor-to-buy-verified-cashapp-account-online-5cjp",
+   "date": "2026-08-13T17:36:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The token report for one pipeline run landed in front of me and the first number I saw was 7,300,000. One topic. Seven pieces of content. Seven point three million tokens. That is the kind of number you see right before ",
+   "summary": "Trustworthy Vendor To Buy Verified CashApp Account Online 📧 Email: usamarketit@gmail.com Many online listings promise ready-to-use Cash App accounts, instant delivery, completed verification, aged accounts, business acc",
    "image": null
   },
   {
-   "title": "Best 25 Places Buy Verified PNC Bank Accounts with Full ...",
-   "link": "https://dev.to/jolenehopkinsujgdp/best-25-places-buy-verified-pnc-bank-accounts-with-full--2l56",
-   "date": "2026-08-13T11:16:35.000Z",
+   "title": "Microsoft Now Rejects Unauthenticated Email. Here Is the DNS That Fixes It.",
+   "link": "https://dev.to/moksh/microsoft-now-rejects-unauthenticated-email-here-is-the-dns-that-fixes-it-233o",
+   "date": "2026-08-13T17:32:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Verified PNC Bank Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-pnc-bank-accounts/ Buy Verified PNC Bank Accounts. At PROGMB.com, you can get PNC Bank accounts that have already passed",
+   "summary": "Since May 5, 2025, Microsoft has been refusing mail that cannot prove where it came from. Outlook.com, Hotmail and Live.com, somewhere around half a billion active mailboxes, now bounce unauthenticated messages from high",
+   "image": null
+  },
+  {
+   "title": "Votre inventaire API est probablement faux et le CRA du 11 septembre 2026 va l'exposer",
+   "link": "https://dev.to/lhoren972971/votre-inventaire-api-est-probablement-faux-et-le-cra-du-11-septembre-2026-va-lexposer-2o4l",
+   "date": "2026-08-13T17:31:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Posez cette question à votre équipe : \"Combien d'APIs avez-vous exactement Dans 9 cas sur 10, la réponse ressemble à Ce n'est pas de la négligence. C'est structurel. Cloudflare a mesuré l'écart sur des milli",
+   "image": null
+  },
+  {
+   "title": "EKS: alertas de cambios con contexto real",
+   "link": "https://dev.to/alexcarteruk/eks-alertas-de-cambios-con-contexto-real-2iji",
+   "date": "2026-08-13T17:24:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "En muchos equipos, una alerta de cambio en EKS llega demasiado tecnica para quien esta de guardia y demasiado vaga para quien necesita decidir rapido. El detector ve el evento, pero el correo o la notificacion no explica",
+   "image": null
+  },
+  {
+   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+   "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+   "date": "2026-08-13T17:16:04.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Top 14 Recommended Platforms to Buy Twitter Followers in World",
+   "link": "https://dev.to/norrievictordmbxz/top-14-recommended-platforms-to-buy-twitter-followers-in-world-50hi",
+   "date": "2026-08-13T17:15:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Twitter Accounts ◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀 ◈{{🎯🎯}}◈➤Telegram: @progmbofficial ◈{{🎯🎯}}◈➤WhatsApp: +1 (920) 212-9737 ◈{{🎯🎯}}◈➤Telegram Channel: @progmbofficial ◈{{🎯🎯}}◈➤Email: progmb.conta",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Tiffany Farriss Says Public-Sector Budgets Should Fund Open Source Maintenance",
+   "link": "https://www.thedroptimes.com/71704/farriss-open-source-procurement-funding?utm_source=Drupal Planet",
+   "date": "2026-08-13T15:13:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Open-source software still depends on infrastructure and human maintenance that carry real costs. Farriss argues that institutions should plan for those costs before contracts are awarded.",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
+   "title": "Replatform Radar: Drupal to Headless: Taxonomy and Media Reference Traps",
+   "link": "https://replatformradar.com/blog/drupal-to-headless-taxonomy-media-reference-traps?utm_source=planet-drupal&utm_medium=feed",
+   "date": "2026-08-13T14:00:21.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The most dangerous moment in a Drupal-to-headless migration is the one where everything looks fine. The content exported. The article titles are all there. Then an editor opens a launch-ready page and half the images are",
+   "image": null
+  },
+  {
+   "title": "From Motion to Meaning: Denis Avramenko’s Approach to Interactive Design",
+   "link": "https://tympanus.net/codrops/2026/08/13/from-motion-to-meaning-denis-avramenkos-approach-to-interactive-design/",
+   "date": "2026-08-13T12:46:05.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A behind-the-scenes look at Denis Avramenko’s creative process, exploring his approach to motion, typography, interaction, and technology through a selection of digital projects.",
    "image": null
   },
   {
@@ -102,6 +162,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
   },
   {
+   "title": "Pause All Laravel Queues During a Deploy",
+   "link": "https://laravel-news.com/laravel-pause-all-queues?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-13T03:56:00.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.25 adds queue:pause --all and Queue::pauseAll() to stop job processing on every connection without putting the app in maintenance mode. The post Pause All Laravel Queues During a Deploy appeared first on Larav",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pause-all-laravel-queues-featured.png"
+  },
+  {
    "title": "Ryan Booz: Postgres in Production Special Series: Diagnosing High Cardinality Workloads in pg_stat_statements (Part 6)",
    "link": "https://postgr.es/p/9sa",
    "date": "2026-08-13T02:00:31.000Z",
@@ -112,6 +182,16 @@
    "image": null
   },
   {
+   "title": "Bertrand Drouvot: Welcome to pg_walviz: PostgreSQL WAL segment visualizer",
+   "link": "https://postgr.es/p/9sc",
+   "date": "2026-08-13T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Introduction The purpose of this blog post is to introduce pg_walviz, a new tool to visualize PostgreSQL WAL segment files. pg_waldump is very useful to display a human-readable rendering of the WAL. However, sometimes w",
+   "image": "https://bdrouvot.github.io/assets/images/pg_walviz-overview.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: io_max_concurrency",
    "link": "https://postgr.es/p/9s9",
    "date": "2026-08-13T01:00:00.000Z",
@@ -119,6 +199,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 18's new io_max_concurrency caps per-process I/O operations in flight.",
+   "image": null
+  },
+  {
+   "title": "What We Learned by Reproducing 2,200 papers from ICML",
+   "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+   "date": "2026-08-13T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -422,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Aten Design Group: Choosing a Multisite Approach in Drupal",
-   "link": "https://atendesigngroup.com/articles/choosing-multisite-approach-drupal",
-   "date": "2026-08-11T15:56:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Choosing a Multisite Approach in Drupal Joel Steidl Tue, 08/11/2026 - 09:56 Drupal Organizations usually begin considering a multisite approach (the ability to manage multiple distinct websites from one single Drupal ins",
-   "image": null
-  },
-  {
    "title": "Laravel monitoring that doesn't bill you by your traffic",
    "link": "https://laravel-news.com/nightowl?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-11T14:42:31.000Z",
@@ -459,16 +539,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "BloomIdea: Rendering Mermaid diagrams in Drupal, and the highlight.js trap along the way",
-   "link": "https://bloomidea.com/en/blog/rendering-mermaid-diagrams-drupal-and-highlightjs-trap-along-way",
-   "date": "2026-08-11T13:18:52.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This started with an agent writing a comment into our Drupal intranet. It had traced an authentication flow, decided a sequence diagram was the clearest way to say it, and wrote one. What landed on the page was a grey bo",
    "image": null
   },
   {
@@ -512,16 +582,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/double-phptesting-featured.png"
   },
   {
-   "title": "Tudor Golubenco: Multi-tenant BYOK encryption in PostgreSQL with pgcrypto",
-   "link": "https://postgr.es/p/9s2",
-   "date": "2026-08-11T12:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Implement multi-tenant BYOK column encryption in PostgreSQL with pgcrypto using customer-managed encryption keys.",
-   "image": null
-  },
-  {
    "title": "TDD inside the agent loop - theater or actual value?",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
    "date": "2026-08-11T11:39:00.000Z",
@@ -530,16 +590,6 @@
    "source": "Martin Fowler",
    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
    "image": null
-  },
-  {
-   "title": "Wellingtone Luvonga: Multi-Region PostgreSQL Disaster Recovery and Failback with Crunchy PGO",
-   "link": "https://postgr.es/p/9rZ",
-   "date": "2026-08-11T05:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "You have probably read a dozen tutorials on setting up PostgreSQL High Availability (HA). On paper, it looks simple: spin up a primary instance, spin up a standby, and let them replicate. But what happens when you move t",
-   "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/07/CYBERTEC-Infographic-for-Document-Multi-Region_1.png"
   },
   {
    "title": "Introducing Muse Glimmer",
@@ -620,16 +670,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Laravel Discount: Coupon Codes, Usage Limits, and Stacking",
-   "link": "https://laravel-news.com/laravel-discount?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-09T23:32:51.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Discount adds percentage and fixed coupons, expiry windows, per-user usage limits, and stacking rules to Laravel apps, with Laravel Cart support. The post Laravel Discount: Coupon Codes, Usage Limits, and Stackin",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Discount-LN.png"
   },
   {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
@@ -772,16 +812,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "Baseten on Hugging Face Inference Providers 🔥",
-   "link": "https://huggingface.co/blog/baseten",
-   "date": "2026-08-06T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
    "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
    "date": "2026-08-05T23:30:00.000Z",
@@ -839,16 +869,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incide",
-   "image": null
-  },
-  {
-   "title": "Building an Endless Interactive Glass Xylophone with Three.js",
-   "link": "https://tympanus.net/codrops/2026/08/04/building-an-endless-interactive-glass-xylophone-with-three-js/",
-   "date": "2026-08-04T10:58:37.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A scrolling helix of frosted glass bars that ring as you sweep across them, built in Three.js with instancing, a fluid simulation, and glass faked entirely in the shader.",
    "image": null
   },
   {
@@ -930,16 +950,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MongoDB 8.3 is available today as a Technical Preview. It is not for production. It is for your lab, your staging cluster, and your benchmark harness – and for sharing with us what works and what does ",
    "image": "https://www.percona.com/wp-content/uploads/2026/07/psmdb-83-highlights-1024x576.png"
-  },
-  {
-   "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-   "date": "2026-07-30T15:09:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "PHP 8.4.24 Released!",
@@ -1169,16 +1179,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
-   "image": null
-  },
-  {
-   "title": "PHP Tek 2027",
-   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
-   "date": "2026-07-07T16:47:27.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
    "image": null
   },
   {
