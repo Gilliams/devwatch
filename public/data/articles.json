@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-14T06:39:30.349Z",
+ "generatedAt": "2026-08-14T11:54:00.031Z",
  "articles": [
   {
-   "title": "Top 10 Best Graffiti To WordPress Migration Companies",
-   "link": "https://dev.to/oliverpitts/top-10-best-graffiti-to-wordpress-migration-companies-1hek",
-   "date": "2026-08-14T06:32:12.000Z",
+   "title": "Stop doing 40 manual deployments 🛠️",
+   "link": "https://dev.to/upsun/stop-doing-40-manual-deployments-2p1d",
+   "date": "2026-08-14T11:47:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've got a Graffiti store but you're stuck with aging technology and expensive development overhead. Time to migrate to WordPress. Let's talk about which companies actually understand the technical side and won't corru",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8621br04nlct7ditd01u.png"
+   "summary": "We have all been there. A critical security release drops on a Friday afternoon and suddenly you are facing a race against time to manually update dozens of different sites. Manual updates scale linearly with labor while",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D1046%26type%3Dblog-posts%26size%3Dsocial"
   },
   {
-   "title": "Every Default Is a Decision",
-   "link": "https://dev.to/sergueyasaelshinder/every-default-is-a-decision-4e62",
-   "date": "2026-08-14T06:28:43.000Z",
+   "title": "AI Agents for DevOps Engineers – FREE Live Demo | Visualpath",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/ai-agents-for-devops-engineers-free-live-demo-visualpath-go2",
+   "date": "2026-08-14T11:41:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Nobody chose to leave the port open. Most breaches aren't clever. The public bucket. A default is a decision Read them. All of them. Convenience is the attacker's favorite feature. – Serguey Asael Shinder",
+   "summary": "🚀 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 – 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼! ✨ 𝗗𝗲𝗺𝗼 𝗗𝗲𝘁𝗮𝗶𝗹𝘀: 🔗 𝗝𝗼𝗶𝗻 𝗟𝗶𝗻𝗸: 𝗵𝘁𝘁𝗽𝘀://𝗯𝗶𝘁.𝗹𝘆/𝟰𝘅𝟭𝗚𝗔𝗢𝗙 ✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗧𝗵𝗶𝘀 𝗙𝗥𝗘𝗘 𝗟𝗶\ud835",
    "image": null
   },
   {
-   "title": "A failed deployment is invisible from the web",
-   "link": "https://dev.to/ricco020/a-failed-deployment-is-invisible-from-the-web-3kc9",
-   "date": "2026-08-14T06:27:43.000Z",
+   "title": "AI Shell Scripts Fail in the Environment, Not the Syntax: A Pre-Merge Gate That Shows You Why",
+   "link": "https://dev.to/codepy_1473/ai-shell-scripts-fail-in-the-environment-not-the-syntax-a-pre-merge-gate-that-shows-you-why-5387",
+   "date": "2026-08-14T11:40:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last night a deployment of mine failed for 21 hours and every monitoring check stayed green. The site answered 200 the whole time. Here is why that happens, and the two-line check that catches it. When a build fails on V",
+   "summary": "The most dangerous AI-generated change is often a shell script that looks completely ordinary. It passes shellcheck, it has exit codes, and it reads like a competent engineer wrote it. The failure usually appears later, ",
    "image": null
   },
   {
-   "title": "Incident Response Management with Google Workspace & PagerDuty Integration",
-   "link": "https://dev.to/unmeshed/incident-response-management-with-google-workspace-pagerduty-integration-j94",
-   "date": "2026-08-14T06:26:46.000Z",
+   "title": "Scalability Principles: Stateless, Horizontal & Decoupled",
+   "link": "https://dev.to/sri2614/scalability-principles-stateless-horizontal-decoupled-319m",
+   "date": "2026-08-14T11:38:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Incident response works better when the steps are clear When an incident starts, the team usually needs the same few things every time: a place to record what happened, a doc for notes, a page to the on-call person, and ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwhjgh1bxnxwvwtebxfj.png"
-  },
-  {
-   "title": "Building Safer Software: A Guide to Secure Engineering and Automation",
-   "link": "https://dev.to/komal-kumari/building-safer-software-a-guide-to-secure-engineering-and-automation-2aof",
-   "date": "2026-08-14T06:21:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction DevSecOpsNow.com provides specialized support to help organizations build stronger application security from the ground up. The platform guides engineering teams through the process of catching risks early r",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmh66rub8pxf4k9bc7w0p.jpg"
-  },
-  {
-   "title": "Website Load Testing Guide: Test Performance at Scale",
-   "link": "https://dev.to/serveravatar/website-load-testing-guide-test-performance-at-scale-3a0j",
-   "date": "2026-08-14T06:15:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you’ve managed web servers or applications for any length of time, you’ve probably seen this happen: a new feature or campaign goes live, traffic suddenly spikes, and Website Load Testing becomes critical when your we",
+   "summary": "⚡ TL;DR: The lever that lets you add servers instead of buying bigger ones is statelessness. Learn why state is the enemy, how queues decouple, where caching fits, and how to hunt the real bottleneck. The day one server ",
    "image": null
   },
   {
-   "title": "Your AI Agent Needs a Run Lease, Not Just a Timeout",
-   "link": "https://dev.to/zira125/your-ai-agent-needs-a-run-lease-not-just-a-timeout-26jg",
-   "date": "2026-08-14T06:04:14.000Z",
+   "title": "The Free-Model Agreement Test for AI Code Generation",
+   "link": "https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op",
+   "date": "2026-08-14T11:36:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An agent worker can be alive, connected, and still be the wrong process to execute a run. That happens when a worker pauses during a model call, loses its network connection, or gets frozen by a host restart. The schedul",
+   "summary": "Liquid syntax error: Unknown tag 'endraw'",
    "image": null
   },
   {
-   "title": "What Are the Best Blockchain Certifications for Practical Industry Use Cases?",
-   "link": "https://dev.to/georgiaweston/what-are-the-best-blockchain-certifications-for-practical-industry-use-cases-3imo",
-   "date": "2026-08-14T06:00:08.000Z",
+   "title": "A Free-Server Regression Job for LLM-Generated SQL",
+   "link": "https://dev.to/dataio_4921/a-free-server-regression-job-for-llm-generated-sql-4g55",
+   "date": "2026-08-14T11:29:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Blockchain has evolved far beyond cryptocurrencies. Today, organizations are exploring blockchain for fintech, supply chain management, digital identity, tokenization, cybersecurity, healthcare, and enterprise applicatio",
+   "summary": "LLM-generated SQL breaks in ways that ordinary unit tests miss. A model can return a syntactically valid query against a schema it has never seen, then a week later return the same-sounding query with an extra join, a wr",
+   "image": null
+  },
+  {
+   "title": "Your linter has been spreading the bug it was built to catch.",
+   "link": "https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7",
+   "date": "2026-08-14T11:28:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Single source of truth One number described your product. It appeared in five places with five different values. The tool built to prevent exactly this had spent months making it worse. The number was how many tools our ",
+   "image": null
+  },
+  {
+   "title": "Best French Universities for International Students in 2026: What You Should Know Before Applying",
+   "link": "https://dev.to/simplyfrench/best-french-universities-for-international-students-in-2026-what-you-should-know-before-applying-3kmh",
+   "date": "2026-08-14T11:26:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "France offers international students far more than the opportunity to study in Paris. From world-renowned research universities and engineering institutions to leading Grande École business schools, students can choose f",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz5i8uda9uj4frzmp3xbn.jpg"
+  },
+  {
+   "title": "The Drop Times: Drupal Association Board Election Voting Closes 14 August",
+   "link": "https://www.thedroptimes.com/71726/drupal-board-election-voting-closes?utm_source=Drupal Planet",
+   "date": "2026-08-14T07:29:17.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Members still weighing their choice can read The DropTimes' interviews with seven candidates to compare their priorities before casting a ballot.",
    "image": null
   },
   {
@@ -179,6 +189,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Open-source software still depends on infrastructure and human maintenance that carry real costs. Farriss argues that institutions should plan for those costs before contracts are awarded.",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -479,16 +499,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "JSON:API on its own gets you decoupled entities: fetch a node, fetch a set of IDs, done. It doesn't get you the filtering, sorting and pagination that most real content listings actually need - a list of articles by tag,",
-   "image": null
-  },
-  {
-   "title": "Webpro Company blog: Managing Drupal content with ChatGPT and MCP",
-   "link": "https://webpro.company/blog/managing-drupal-content-with-chatgpt-and-mcp",
-   "date": "2026-08-12T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal content can be managed by machines without giving up human control. The key is not to hand ChatGPT the full admin interface, but to expose narrow MCP tools: find an article, open a draft, propose a change, validat",
    "image": null
   },
   {
@@ -1169,16 +1179,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
-   "image": null
-  },
-  {
-   "title": "PHP Tek 2027",
-   "link": "https://www.php.net/conferences/index.php#2026-07-07-1",
-   "date": "2026-07-07T16:47:27.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join us for the 19th Annual Web Developer Conference, PHP Tek 2027, April 27-29 2026. PHP Tek combines leadership, expertise, and networking in one event. A relaxing atmosphere for tech leaders and developers to share, l",
    "image": null
   },
   {
