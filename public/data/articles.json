@@ -1,24 +1,104 @@
 {
- "generatedAt": "2026-08-13T23:54:38.043Z",
+ "generatedAt": "2026-08-14T06:39:30.349Z",
  "articles": [
   {
-   "title": "Freeze CLI Inputs Before Cron Runs",
-   "link": "https://dev.to/mrdapperx/freeze-cli-inputs-before-cron-runs-33m2",
-   "date": "2026-08-13T23:24:10.000Z",
+   "title": "Top 10 Best Graffiti To WordPress Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-graffiti-to-wordpress-migration-companies-1hek",
+   "date": "2026-08-14T06:32:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cron-driven CLI jobs often look stable right until they get one retry, one stale config read, or one helper script that quietly changes the payload mid-run. After that, the hard part is not fixing the bug. It is explaini",
+   "summary": "You've got a Graffiti store but you're stuck with aging technology and expensive development overhead. Time to migrate to WordPress. Let's talk about which companies actually understand the technical side and won't corru",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8621br04nlct7ditd01u.png"
+  },
+  {
+   "title": "Every Default Is a Decision",
+   "link": "https://dev.to/sergueyasaelshinder/every-default-is-a-decision-4e62",
+   "date": "2026-08-14T06:28:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Nobody chose to leave the port open. Most breaches aren't clever. The public bucket. A default is a decision Read them. All of them. Convenience is the attacker's favorite feature. – Serguey Asael Shinder",
    "image": null
   },
   {
-   "title": "5 Terraform Infrastructure Risks That Can Survive `terraform plan`",
-   "link": "https://dev.to/guilhermemarochio/5-terraform-infrastructure-risks-that-can-survive-terraform-plan-2m6p",
-   "date": "2026-08-13T22:48:35.000Z",
+   "title": "A failed deployment is invisible from the web",
+   "link": "https://dev.to/ricco020/a-failed-deployment-is-invisible-from-the-web-3kc9",
+   "date": "2026-08-14T06:27:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Terraform makes infrastructure reproducible. But a successful terraform plan does not necessarily mean that an infrastructure configuration is secure, resilient, or cost-efficient. Terraform can tell you what is going to",
+   "summary": "Last night a deployment of mine failed for 21 hours and every monitoring check stayed green. The site answered 200 the whole time. Here is why that happens, and the two-line check that catches it. When a build fails on V",
+   "image": null
+  },
+  {
+   "title": "Incident Response Management with Google Workspace & PagerDuty Integration",
+   "link": "https://dev.to/unmeshed/incident-response-management-with-google-workspace-pagerduty-integration-j94",
+   "date": "2026-08-14T06:26:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Incident response works better when the steps are clear When an incident starts, the team usually needs the same few things every time: a place to record what happened, a doc for notes, a page to the on-call person, and ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuwhjgh1bxnxwvwtebxfj.png"
+  },
+  {
+   "title": "Building Safer Software: A Guide to Secure Engineering and Automation",
+   "link": "https://dev.to/komal-kumari/building-safer-software-a-guide-to-secure-engineering-and-automation-2aof",
+   "date": "2026-08-14T06:21:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction DevSecOpsNow.com provides specialized support to help organizations build stronger application security from the ground up. The platform guides engineering teams through the process of catching risks early r",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmh66rub8pxf4k9bc7w0p.jpg"
+  },
+  {
+   "title": "Website Load Testing Guide: Test Performance at Scale",
+   "link": "https://dev.to/serveravatar/website-load-testing-guide-test-performance-at-scale-3a0j",
+   "date": "2026-08-14T06:15:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you’ve managed web servers or applications for any length of time, you’ve probably seen this happen: a new feature or campaign goes live, traffic suddenly spikes, and Website Load Testing becomes critical when your we",
+   "image": null
+  },
+  {
+   "title": "Your AI Agent Needs a Run Lease, Not Just a Timeout",
+   "link": "https://dev.to/zira125/your-ai-agent-needs-a-run-lease-not-just-a-timeout-26jg",
+   "date": "2026-08-14T06:04:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent worker can be alive, connected, and still be the wrong process to execute a run. That happens when a worker pauses during a model call, loses its network connection, or gets frozen by a host restart. The schedul",
+   "image": null
+  },
+  {
+   "title": "What Are the Best Blockchain Certifications for Practical Industry Use Cases?",
+   "link": "https://dev.to/georgiaweston/what-are-the-best-blockchain-certifications-for-practical-industry-use-cases-3imo",
+   "date": "2026-08-14T06:00:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Blockchain has evolved far beyond cryptocurrencies. Today, organizations are exploring blockchain for fintech, supply chain management, digital identity, tokenization, cybersecurity, healthcare, and enterprise applicatio",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: io_method and io_workers",
+   "link": "https://postgr.es/p/9se",
+   "date": "2026-08-14T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Choose your I/O execution engine with `io_method` and size the worker pool with `io_workers`—and yes, you can resize workers without restarting.",
+   "image": null
+  },
+  {
+   "title": "sqlite-utils 4.2.1",
+   "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+   "date": "2026-08-13T23:53:47.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2 . I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependen",
    "image": null
   },
   {
@@ -32,63 +112,23 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
-   "title": "Master deepseek-harness in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-356m",
-   "date": "2026-08-13T22:08:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours integrating an AI-generated code into my project, only to realize I was using the wrong tools. This experience made me wonder: what if I could harness the power of AI to write bett",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
-  },
-  {
-   "title": "Optimizing LLM Fine-Tuning Costs: Infrastructure & Engineering Guidelines",
-   "link": "https://dev.to/abdulrahman_maslmany/optimizing-llm-fine-tuning-costs-infrastructure-engineering-guidelines-43ai",
-   "date": "2026-08-13T22:00:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When moving LLM fine-tuning from prototype notebooks to production pipelines, compute cost is rarely the only financial hurdle. Engineering setup, data preparation, evaluation cycles, and inference infrastructure often a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1c45w2zz1qny3uc9vtn.jpg"
-  },
-  {
-   "title": "I thought this OpenClaw outage story was hype until I read how it actually worked",
-   "link": "https://dev.to/lars_winstand/i-thought-this-openclaw-outage-story-was-hype-until-i-read-how-it-actually-worked-8jf",
-   "date": "2026-08-13T21:53:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A thread on r/openclaw with 134 upvotes and 62 comments got my attention because the agent didn’t just summarize an outage email. It read the utility notice, changed a Tesla Powerwall strategy from a normal 20% reserve t",
+   "title": "sqlite-utils 4.2",
+   "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+   "date": "2026-08-13T20:11:29.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dro",
    "image": null
   },
   {
-   "title": "Nmap for Authorized Infrastructure Validation (Not Hacking)",
-   "link": "https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6",
-   "date": "2026-08-13T21:39:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every deploy makes a promise about the network: \"this box only exposes SSH and HTTPS,\" \"the database is never reachable from outside the app tier.\" Nmap is how you turn that promise into a test that either passes or fail",
-   "image": null
-  },
-  {
-   "title": "End-to-End Containerised Deployment: AWS EC2 Docker Docker Hub Kubernetes",
-   "link": "https://dev.to/amankhan/end-to-end-containerised-deployment-aws-ec2-docker-docker-hub-kubernetes-j90",
-   "date": "2026-08-13T21:26:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚀 My First End-to-End Containerised Deployment: AWS EC2 → Docker → Docker Hub → Kubernetes I recently completed a hands-on DevOps project where I8 deployed a simple web application through the complete container workflo",
-   "image": null
-  },
-  {
-   "title": "The Kubernetes Checklist for Teams Without a Platform Team",
-   "link": "https://dev.to/kestrion/the-kubernetes-checklist-for-teams-without-a-platform-team-1ian",
-   "date": "2026-08-13T21:24:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most Kubernetes advice assumes you have a platform team: specialists who own upgrades, ingress, security policies, and the 2 a.m. pages. The teams I am writing for usually have three to ten engineers, one of whom “knows ",
+   "title": "llm-gemini 0.33",
+   "link": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+   "date": "2026-08-13T19:37:34.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding ",
    "image": null
   },
   {
@@ -492,26 +532,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-tui-featured.png"
   },
   {
-   "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-   "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-   "date": "2026-08-11T22:40:45.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name ( stolen-thoughts.com ) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed a",
-   "image": null
-  },
-  {
-   "title": "datasette-upload-dbs 0.5a0",
-   "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-   "date": "2026-08-11T20:35:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that ",
-   "image": null
-  },
-  {
    "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
    "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
    "date": "2026-08-11T18:00:00.000Z",
@@ -562,16 +582,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
-   "title": "Dimitri Fontaine: Introducing sqlfmt: an SQL gofmt-style formatter",
-   "link": "https://postgr.es/p/9s3",
-   "date": "2026-08-11T12:30:37.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Formatting SQL tends to bring some of the same questions again and again: should we uppercase clause keywords? should we put the separating comma at the start of a line to ease refactoring? how to align the SQL clauses w",
-   "image": null
-  },
-  {
    "title": "Percona for MongoDB: RHEL 10, Its Derivatives, and Debian 13 – On Both x86_64 and ARM",
    "link": "https://www.percona.com/blog/percona-for-mongodb-rhel-10-its-derivatives-and-debian-13-on-both-x86_64-and-arm/",
    "date": "2026-08-11T12:15:41.000Z",
@@ -599,16 +609,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
-   "image": null
-  },
-  {
-   "title": "Introducing Muse Glimmer",
-   "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
-   "date": "2026-08-10T23:56:03.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it fo",
    "image": null
   },
   {
