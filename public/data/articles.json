@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-08-14T11:54:00.031Z",
+ "generatedAt": "2026-08-14T18:03:05.585Z",
  "articles": [
   {
-   "title": "Stop doing 40 manual deployments 🛠️",
-   "link": "https://dev.to/upsun/stop-doing-40-manual-deployments-2p1d",
-   "date": "2026-08-14T11:47:37.000Z",
+   "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
+   "link": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
+   "date": "2026-08-14T17:28:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We have all been there. A critical security release drops on a Friday afternoon and suddenly you are facing a race against time to manually update dozens of different sites. Manual updates scale linearly with labor while",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D1046%26type%3Dblog-posts%26size%3Dsocial"
-  },
-  {
-   "title": "AI Agents for DevOps Engineers – FREE Live Demo | Visualpath",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/ai-agents-for-devops-engineers-free-live-demo-visualpath-go2",
-   "date": "2026-08-14T11:41:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚀 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝗳𝗼𝗿 𝗗𝗲𝘃𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 – 𝗙𝗥𝗘𝗘 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼! ✨ 𝗗𝗲𝗺𝗼 𝗗𝗲𝘁𝗮𝗶𝗹𝘀: 🔗 𝗝𝗼𝗶𝗻 𝗟𝗶𝗻𝗸: 𝗵𝘁𝘁𝗽𝘀://𝗯𝗶𝘁.𝗹𝘆/𝟰𝘅𝟭𝗚𝗔𝗢𝗙 ✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗧𝗵𝗶𝘀 𝗙𝗥𝗘𝗘 𝗟𝗶\ud835",
+   "summary": "Never run model-generated SQL against real data first. Use a throwaway database on free compute to catch syntax errors, wrong shapes, and dangerous table access before the query touches anything that matters. Free model ",
    "image": null
   },
   {
-   "title": "AI Shell Scripts Fail in the Environment, Not the Syntax: A Pre-Merge Gate That Shows You Why",
-   "link": "https://dev.to/codepy_1473/ai-shell-scripts-fail-in-the-environment-not-the-syntax-a-pre-merge-gate-that-shows-you-why-5387",
-   "date": "2026-08-14T11:40:51.000Z",
+   "title": "AI-Generated Shell Commands: Test in a Throwaway Container",
+   "link": "https://dev.to/codepy_1473/ai-generated-shell-commands-test-in-a-throwaway-container-1fmc",
+   "date": "2026-08-14T17:19:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The most dangerous AI-generated change is often a shell script that looks completely ordinary. It passes shellcheck, it has exit codes, and it reads like a competent engineer wrote it. The failure usually appears later, ",
+   "summary": "A disposable container will not make an AI-generated shell command safe, but it gives you a cheap, repeatable early warning before that command reaches your laptop, your dotfiles, or a shared server. The point is not to ",
    "image": null
   },
   {
-   "title": "Scalability Principles: Stateless, Horizontal & Decoupled",
-   "link": "https://dev.to/sri2614/scalability-principles-stateless-horizontal-decoupled-319m",
-   "date": "2026-08-14T11:38:07.000Z",
+   "title": "Two npm worms shipped with valid provenance this year",
+   "link": "https://dev.to/booyaka101/two-npm-worms-shipped-with-valid-provenance-this-year-22io",
+   "date": "2026-08-14T17:16:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: The lever that lets you add servers instead of buying bigger ones is statelessness. Learn why state is the enemy, how queues decouple, where caching fits, and how to hunt the real bottleneck. The day one server ",
+   "summary": "I spent most of this year believing a green provenance check on npm meant something stronger than it does. Two incidents fixed that, and the second one changed what I build. If you haven't used it: when a package is publ",
    "image": null
   },
   {
-   "title": "The Free-Model Agreement Test for AI Code Generation",
-   "link": "https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op",
-   "date": "2026-08-14T11:36:36.000Z",
+   "title": "Free Model Explanations Are Just Another Build Input. So I Gave Them a Replay Cache.",
+   "link": "https://dev.to/datacpp_8185/free-model-explanations-are-just-another-build-input-so-i-gave-them-a-replay-cache-2ae4",
+   "date": "2026-08-14T17:11:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Liquid syntax error: Unknown tag 'endraw'",
+   "summary": "Finley stared at the same C++ build failure for the third time. The template error had not changed. The free model summary above it had. The first run called it a recursive concept constraint. The third run called it an ",
    "image": null
   },
   {
-   "title": "A Free-Server Regression Job for LLM-Generated SQL",
-   "link": "https://dev.to/dataio_4921/a-free-server-regression-job-for-llm-generated-sql-4g55",
-   "date": "2026-08-14T11:29:00.000Z",
+   "title": "An email from your own address: spoof or hack? How to actually tell",
+   "link": "https://dev.to/milkyway008/an-email-from-your-own-address-spoof-or-hack-how-to-actually-tell-2p9",
+   "date": "2026-08-14T17:07:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "LLM-generated SQL breaks in ways that ordinary unit tests miss. A model can return a syntactically valid query against a schema it has never seen, then a week later return the same-sounding query with an extra join, a wr",
+   "summary": "The call every MSP dreads. A customer forwards you an email that shows their own address in the From line, and they're sure the account is compromised. You pull up message trace in the Exchange admin center, and there it",
    "image": null
   },
   {
-   "title": "Your linter has been spreading the bug it was built to catch.",
-   "link": "https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7",
-   "date": "2026-08-14T11:28:16.000Z",
+   "title": "14 Simple Guide For Buy LinkedIn Account: First-Time Buyers",
+   "link": "https://dev.to/onaccshop44/14-simple-guide-for-buy-linkedin-account-first-time-buyers-62e",
+   "date": "2026-08-14T17:07:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Single source of truth One number described your product. It appeared in five places with five different values. The tool built to prevent exactly this had spent months making it worse. The number was how many tools our ",
+   "summary": "14 Simple Guide For Buy LinkedIn Account: First-Time Buyers Buy LinkedIn Account: Start With Your Real Goal Buy LinkedIn Account: Understand the Main Marketplace Terms Buy LinkedIn Account: Check Who the Profile Represen",
    "image": null
   },
   {
-   "title": "Best French Universities for International Students in 2026: What You Should Know Before Applying",
-   "link": "https://dev.to/simplyfrench/best-french-universities-for-international-students-in-2026-what-you-should-know-before-applying-3kmh",
-   "date": "2026-08-14T11:26:39.000Z",
+   "title": "One-Command VPS Reinstall: Two Things Worth Knowing",
+   "link": "https://dev.to/schiff_heimlich/one-command-vps-reinstall-two-things-worth-knowing-2f8j",
+   "date": "2026-08-14T17:04:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "France offers international students far more than the opportunity to study in Paris. From world-renowned research universities and engineering institutions to leading Grande École business schools, students can choose f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz5i8uda9uj4frzmp3xbn.jpg"
+   "summary": "One-Command VPS Reinstall: Two Things Worth Knowing There's a tool called restage that reinstalls a Linux VPS over the network with one command. Saw it mentioned last week and finally tried it. Two things I found actuall",
+   "image": null
+  },
+  {
+   "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
+   "link": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
+   "date": "2026-08-14T16:36:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The open-source ecosystem is full of architectural masterpieces that—due to corporate pivots, lack of maintainers, or shifting market focus—eventually get frozen in time. One of the most prominent examples is Weave Scope",
+   "image": null
+  },
+  {
+   "title": "Joshua Drake: Parquet and Iceberg: An Overview",
+   "link": "https://postgr.es/p/9sh",
+   "date": "2026-08-14T15:06:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A pile of containers is not a shipment. A shipment is containers plus a manifest.Apache Iceberg is the manifest. It is not a file format, it is a table format: a metadata layer that records exactly which Parquet files ma",
+   "image": null
+  },
+  {
+   "title": "Jacob Rockowitz: Vibing Drupal: Losing my skills",
+   "link": "https://www.jrockowitz.com/blog/vibing-drupal-losing-my-skills",
+   "date": "2026-08-14T14:41:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I know this blog post's title implies losing my (programming) skills, and I will gladly address my feelings about how agentic coding has caused my problem-solving and coding to atrophy from lack of use. The main focus of",
+   "image": null
+  },
+  {
+   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+   "link": "https://css-tricks.com/whats-important-17/",
+   "date": "2026-08-14T14:01:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: TDT August Open Townhall Scheduled for 19 August 2026",
+   "link": "https://www.thedroptimes.com/71728/tdt-august-open-townhall-2026?utm_source=Drupal Planet",
+   "date": "2026-08-14T09:39:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Questions, story leads, and feedback on future Drupal coverage are on the agenda for contributors and community members joining the monthly meeting.",
+   "image": null
   },
   {
    "title": "The Drop Times: Drupal Association Board Election Voting Closes 14 August",
@@ -99,6 +139,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Choose your I/O execution engine with `io_method` and size the worker pool with `io_workers`—and yes, you can resize workers without restarting.",
+   "image": null
+  },
+  {
+   "title": "State of Open Models: Summer 2026 Observations",
+   "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+   "date": "2026-08-14T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -292,6 +342,16 @@
    "image": null
   },
   {
+   "title": "Laravel Image Responses: Serve Resized Images From Routes",
+   "link": "https://laravel-news.com/laravel-image-responses?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-13T00:38:56.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.25 lets you return an Image straight from a route. Build on-the-fly resize endpoints with fromStream, toFormat, and cache headers. The post Laravel Image Responses: Serve Resized Images From Routes appeared fi",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-image-responses-featured.png"
+  },
+  {
    "title": "What We Learned by Reproducing 2,200 papers from ICML",
    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
    "date": "2026-08-13T00:00:00.000Z",
@@ -360,16 +420,6 @@
    "source": "The Hacker News",
    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
-  },
-  {
-   "title": "The Drop Times: Drupal GovCon 2026 Speakers Examine Bots, AI Trade-Offs, Accessibility, Search, and Migration",
-   "link": "https://www.thedroptimes.com/71668/drupal-govcon-2026-speaker-preview-part-two?utm_source=Drupal Planet",
-   "date": "2026-08-12T16:53:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Eight additional Drupal GovCon respondents focus on the controls, human decisions, and content structures that keep digital systems usable when automation and changing discovery meet production reality.",
-   "image": null
   },
   {
    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
@@ -492,26 +542,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
   },
   {
-   "title": "Stuart Clark (Deciphered): JSON:API Views 8.x-1.2",
-   "link": "https://stuar.tc/writing/jsonapi-views-120-20260812",
-   "date": "2026-08-12T06:50:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "JSON:API on its own gets you decoupled entities: fetch a node, fetch a set of IDs, done. It doesn't get you the filtering, sorting and pagination that most real content listings actually need - a list of articles by tag,",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: io_combine_limit and io_max_combine_limit",
-   "link": "https://postgr.es/p/9s5",
-   "date": "2026-08-12T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 17 introduced read streams that combine adjacent disk blocks into larger I/O requests.",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -602,16 +632,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/pmm-adoption-arm-2048x673.png"
   },
   {
-   "title": "Mock PHP Classes in Tests With the Double Library",
-   "link": "https://laravel-news.com/double-php-testing-library?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-11T12:03:13.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Double is a PHP mocking library from Jason McCreary with one API for mocks, spies, and partials, plus failure messages that show the actual call log. The post Mock PHP Classes in Tests With the Double Library appeared fi",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/double-phptesting-featured.png"
-  },
-  {
    "title": "TDD inside the agent loop - theater or actual value?",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
    "date": "2026-08-11T11:39:00.000Z",
@@ -665,16 +685,6 @@
    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
    "date": "2026-08-10T10:05:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-   "link": "https://huggingface.co/blog/muse-glimmer",
-   "date": "2026-08-10T00:00:00.000Z",
    "theme": "ia",
    "themeName": "IA",
    "source": "Hugging Face",
@@ -919,16 +929,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property! Get Ready For the Powerful CSS border-shape Pro",
-   "image": null
-  },
-  {
-   "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-   "link": "https://css-tricks.com/whats-important-16/",
-   "date": "2026-07-31T14:06:21.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more. What’s !important #16: sibling-index() Animations, Use ",
    "image": null
   },
   {
