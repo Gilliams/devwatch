@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-08-14T18:03:05.585Z",
+ "generatedAt": "2026-08-14T23:33:40.239Z",
  "articles": [
   {
-   "title": "A Read-Only Gate for Model-Generated SQL on Free Compute",
-   "link": "https://dev.to/hackrs_6393/a-read-only-gate-for-model-generated-sql-on-free-compute-3iaj",
-   "date": "2026-08-14T17:28:49.000Z",
+   "title": "Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid",
+   "link": "https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e",
+   "date": "2026-08-14T22:57:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Never run model-generated SQL against real data first. Use a throwaway database on free compute to catch syntax errors, wrong shapes, and dangerous table access before the query touches anything that matters. Free model ",
+   "summary": "A free tier is a marketing budget with a shutoff valve, and the valve is placed on whatever metric grows when your project starts working. The trap is rarely the price you eventually pay — it's that the flip arrives on t",
    "image": null
   },
   {
-   "title": "AI-Generated Shell Commands: Test in a Throwaway Container",
-   "link": "https://dev.to/codepy_1473/ai-generated-shell-commands-test-in-a-throwaway-container-1fmc",
-   "date": "2026-08-14T17:19:06.000Z",
+   "title": "How I Built 172 Guards After My AI Agent Tried to Delete Production Data",
+   "link": "https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664",
+   "date": "2026-08-14T22:45:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A disposable container will not make an AI-generated shell command safe, but it gives you a cheap, repeatable early warning before that command reaches your laptop, your dotfiles, or a shared server. The point is not to ",
+   "summary": "2:47 AM, one DELETE, 23 databases My AI coding agent was debugging a slow query. It found the table, decided the data looked stale, and ran: DELETE FROM profiles No WHERE clause. That table exists in 23 separate customer",
    "image": null
   },
   {
-   "title": "Two npm worms shipped with valid provenance this year",
-   "link": "https://dev.to/booyaka101/two-npm-worms-shipped-with-valid-provenance-this-year-22io",
-   "date": "2026-08-14T17:16:36.000Z",
+   "title": "Synthetic Data for CI/CD: Seed Fresh, Valid Rows on Every Run",
+   "link": "https://dev.to/mikh-shytsko/synthetic-data-for-cicd-seed-fresh-valid-rows-on-every-run-2fe8",
+   "date": "2026-08-14T22:35:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I spent most of this year believing a green provenance check on npm meant something stronger than it does. Two incidents fixed that, and the second one changed what I build. If you haven't used it: when a package is publ",
+   "summary": "Every CI pipeline that touches a database needs rows to run against, and there are only three ways to get them: restore a copy of production, replay a checked-in seed.sql, or generate the data inside the run. Synthetic d",
    "image": null
   },
   {
-   "title": "Free Model Explanations Are Just Another Build Input. So I Gave Them a Replay Cache.",
-   "link": "https://dev.to/datacpp_8185/free-model-explanations-are-just-another-build-input-so-i-gave-them-a-replay-cache-2ae4",
-   "date": "2026-08-14T17:11:28.000Z",
+   "title": "ALTER TABLE, 5 Million Rows, and the Deploy That Took Down the Site",
+   "link": "https://dev.to/mikh-shytsko/alter-table-5-million-rows-and-the-deploy-that-took-down-the-site-1fk5",
+   "date": "2026-08-14T22:34:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Finley stared at the same C++ build failure for the third time. The template error had not changed. The free model summary above it had. The first run called it a recursive concept constraint. The third run called it an ",
+   "summary": "A migration that takes 50ms on your dev database can lock a production table for 20 minutes, and running it against production-scale volume first is how you catch that before your users do. The Thursday-afternoon deploy ",
    "image": null
   },
   {
-   "title": "An email from your own address: spoof or hack? How to actually tell",
-   "link": "https://dev.to/milkyway008/an-email-from-your-own-address-spoof-or-hack-how-to-actually-tell-2p9",
-   "date": "2026-08-14T17:07:14.000Z",
+   "title": "One docker compose up, One Seeded Postgres",
+   "link": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
+   "date": "2026-08-14T22:31:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The call every MSP dreads. A customer forwards you an email that shows their own address in the From line, and they're sure the account is compromised. You pull up message trace in the Exchange admin center, and there it",
+   "summary": "Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the whole team, down to the version and extensions, and the schema it hands you arrives perfect and empty. That emptiness ",
    "image": null
   },
   {
-   "title": "14 Simple Guide For Buy LinkedIn Account: First-Time Buyers",
-   "link": "https://dev.to/onaccshop44/14-simple-guide-for-buy-linkedin-account-first-time-buyers-62e",
-   "date": "2026-08-14T17:07:07.000Z",
+   "title": "The Reality of Working as a DevOps Engineer in Cameroon",
+   "link": "https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l",
+   "date": "2026-08-14T22:04:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "14 Simple Guide For Buy LinkedIn Account: First-Time Buyers Buy LinkedIn Account: Start With Your Real Goal Buy LinkedIn Account: Understand the Main Marketplace Terms Buy LinkedIn Account: Check Who the Profile Represen",
+   "summary": "Most \"how to become a DevOps engineer\" posts are written from places where electricity and internet Here's the honest version: what's hard, what I do about it, and why it's still worth it. Electricity is the first real c",
    "image": null
   },
   {
-   "title": "One-Command VPS Reinstall: Two Things Worth Knowing",
-   "link": "https://dev.to/schiff_heimlich/one-command-vps-reinstall-two-things-worth-knowing-2f8j",
-   "date": "2026-08-14T17:04:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "One-Command VPS Reinstall: Two Things Worth Knowing There's a tool called restage that reinstalls a Linux VPS over the network with one command. Saw it mentioned last week and finally tried it. Two things I found actuall",
+   "title": "Don't classify. Hallucinate!",
+   "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+   "date": "2026-08-14T21:54:35.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags ",
    "image": null
   },
   {
-   "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity",
-   "link": "https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo",
-   "date": "2026-08-14T16:36:10.000Z",
+   "title": "I thought OpenClaw was slow, but the real problem was the 5 seconds before the model ever ran",
+   "link": "https://dev.to/lars_winstand/i-thought-openclaw-was-slow-but-the-real-problem-was-the-5-seconds-before-the-model-ever-ran-5o0",
+   "date": "2026-08-14T21:53:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The open-source ecosystem is full of architectural masterpieces that—due to corporate pivots, lack of maintainers, or shifting market focus—eventually get frozen in time. One of the most prominent examples is Weave Scope",
+   "summary": "I went looking for model-latency advice and found a much more useful debugging lesson. While digging through OpenClaw discussions, I found a thread on r/openclaw about initialization time. At first it looked like the usu",
+   "image": null
+  },
+  {
+   "title": "Master deepseek-harness in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1jin",
+   "date": "2026-08-14T21:45:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Last week, I spent 3 hours struggling to integrate AI-generated code into my project, only to realize that I was using the wrong tools. This experience made me wonder: how many developers are still manually ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Palantir: Thirty Years of Palantir",
+   "link": "https://www.palantir.net/blog/thirty-years-palantir",
+   "date": "2026-08-14T16:42:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Thirty Years of Palantir demet Fri, 08/14/2026 - 11:42 What three decades has taught us about what lasts Thirty years ago last month, between my sophomore and junior years of college, I started a company called Palantir ",
+   "image": "https://www.palantir.net/files/styles/hero/public/hero/2026-08/30_years_blog_0.png?h=c74750f6&amp;itok=idZ0Vm2W"
+  },
+  {
+   "title": "Shaun Thomas: Let's Build a Postgres Extension for Estimating Memory Usage!",
+   "link": "https://postgr.es/p/9sj",
+   "date": "2026-08-14T16:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Do you like building Postgres extensions? Of course you do! My \"Let's Build a Postgres Extension\" presentation garnered rave reviews at Postgres Conference 2026 in San Jose and PG Data 2026 in Chicago. But what if you di",
    "image": null
   },
   {
@@ -402,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Omega8.cc: Dev Sites and Sandboxes",
-   "link": "https://omega8.cc/blog/dev-sites-and-sandboxes",
-   "date": "2026-08-12T19:20:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Every Drupal or Backdrop site sooner or later needs a safe copy to experiment on – plenty of us still build one by hand and live with the quiet fear that the copy touches production, and plenty more click a dev-environme",
-   "image": null
-  },
-  {
    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
    "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
    "date": "2026-08-12T17:39:27.000Z",
@@ -512,16 +532,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
   },
   {
-   "title": "Hans-Juergen Schoenig: Introducing the CYBERTEC PG Operator",
-   "link": "https://postgr.es/p/9s7",
-   "date": "2026-08-12T09:05:41.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "There is no shortage of PostgreSQL operators for Kubernetes. Projects such as CloudNativePG, the Zalando postgres-operator, Crunchy PGO, and StackGres have all helped shape the ecosystem. So why did we build another one?",
-   "image": null
-  },
-  {
    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
    "date": "2026-08-12T09:01:54.000Z",
@@ -550,16 +560,6 @@
    "source": "Frontend Focus",
    "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
-  },
-  {
-   "title": "There are no lossless transformations of natural-language text",
-   "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-   "date": "2026-08-11T23:48:35.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really go",
-   "image": null
   },
   {
    "title": "Laravel Terminal UI for the artisan dev Command",
