@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-08-15T11:32:09.976Z",
+ "generatedAt": "2026-08-15T17:32:29.466Z",
  "articles": [
   {
-   "title": "83 Security Solutions per Organization. What if Verification Required Zero?",
-   "link": "https://dev.to/bala_paranj_059d338e44e7e/83-security-solutions-per-organization-what-if-verification-required-zero-4id0",
-   "date": "2026-08-15T11:17:08.000Z",
+   "title": "Comprehensive Guide to Buying and Using Old Gmail Accounts",
+   "link": "https://dev.to/smmusapva187/comprehensive-guide-to-buying-and-using-old-gmail-accounts-5045",
+   "date": "2026-08-15T17:18:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "✓ Human-authored analysis; AI used for formatting and proofreading. Alan Shimel has been walking the Black Hat show floor for more than twenty years. His Techstrong Special Report from Black Hat USA 2026 asks a question ",
+   "summary": "Comprehensive Guide to Buying and Smmusapva@gmail.com What Does \"Buy Old Gmail Accounts\" Mean? \"Buying old Gmail accounts\" primarily refers to acquiring ownership of Gmail accounts created months or years ago. It is gene",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs9w41b22aqw9jixbuu26.jpg"
+  },
+  {
+   "title": "L4 vs L7 Stress Testing: What Actually Breaks First",
+   "link": "https://dev.to/zerodawnipstress/l4-vs-l7-stress-testing-what-actually-breaks-first-3k7p",
+   "date": "2026-08-15T17:17:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Stress testing a network service is not one discipline — it's two. Layer 4 and Layer 7 tests break things in fundamentally different ways, and confusing them is the single most common mistake I see in infrastructure test",
    "image": null
   },
   {
-   "title": "Security as a Non-Functional Requirement",
-   "link": "https://dev.to/sri2614/security-as-a-non-functional-requirement-45jp",
-   "date": "2026-08-15T11:12:46.000Z",
+   "title": "Neon vs Supabase: The Real Math Behind Scale-to-Zero Postgres in 2026",
+   "link": "https://dev.to/moksh/neon-vs-supabase-the-real-math-behind-scale-to-zero-postgres-in-2026-3a92",
+   "date": "2026-08-15T17:13:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Treat security as a property of the whole system, not a final feature. You leave with the engineer's defaults: defense in depth, least privilege, encryption everywhere, real secrets management, and shifting left",
+   "summary": "Provisioned Postgres charges you by the hour whether anyone is querying it or not, which is a bad deal the moment your traffic is spiky, or you want a fresh database per pull request. That is the whole pitch for serverle",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyp480tp0bivbemb44wj4.webp"
+  },
+  {
+   "title": "The silent zero: the worst bug your monitoring system can have",
+   "link": "https://dev.to/tbalcewicz/the-silent-zero-the-worst-bug-your-monitoring-system-can-have-4e6k",
+   "date": "2026-08-15T17:12:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A crash is a good outcome. Somebody gets paged, somebody fixes it, everyone moves on. The bad outcome is the one where your system finishes cleanly, reports nothing, and is wrong. No exception. No alert. A perfectly norm",
    "image": null
   },
   {
-   "title": "Serverless DevOps: When It Wins, When It Doesn't, and How to Run It",
-   "link": "https://dev.to/sherdilcloud/serverless-devops-when-it-wins-when-it-doesnt-and-how-to-run-it-4mck",
-   "date": "2026-08-15T11:12:44.000Z",
+   "title": "Open WebUI Memory Broke After Switching Embedding Models: The Chroma Dimension Fix",
+   "link": "https://dev.to/milkyway008/open-webui-memory-broke-after-switching-embedding-models-the-chroma-dimension-fix-54bk",
+   "date": "2026-08-15T17:11:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR: Serverless DevOps = running code on services that manage the servers for you, wired into CI/CD. It shines for bursty, event-driven, unpredictable traffic (pay-per-execution, auto-scaling, single-function rollbacks",
+   "summary": "Open WebUI Memory Broke After Switching Embedding Models: The Chroma Dimension Fix If you self-host Open WebUI and you've ever swapped the embedding model in the settings, this one's for you. There's a footgun hiding in ",
    "image": null
   },
   {
-   "title": "Open-Source Multi-Agent Orchestration: Lessons from AgentForge",
-   "link": "https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-2khh",
-   "date": "2026-08-15T11:00:49.000Z",
+   "title": "Why logrotate silently does nothing and how to actually debug it",
+   "link": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
+   "date": "2026-08-15T17:04:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We built AgentForge to solve our own problem. Here's what 6 months of production multi-agent deployment taught us. Everyone designs for the happy path. But in multi-agent systems, the failure modes multiply: Agent A succ",
+   "summary": "A config that doesn't error is not a config that works. logrotate misconfigurations don't fail loudly. They fail silently. You only find out when /var/log is 100% full and something crashed. The copytruncate directive ex",
    "image": null
   },
   {
-   "title": "My checker scored one component compliant and another deviant. Neither had a rule behind it.",
-   "link": "https://dev.to/lizhuojunx86/my-checker-scored-one-component-compliant-and-another-deviant-neither-had-a-rule-behind-it-299a",
-   "date": "2026-08-15T10:59:00.000Z",
+   "title": "10 AI Skills You Need Before 2027 — Or You’ll Fall Behind",
+   "link": "https://dev.to/naveed_khan/10-ai-skills-you-need-before-2027-or-youll-fall-behind-4ejl",
+   "date": "2026-08-15T16:38:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This is a follow-up to part four, not a new part. Part four measured my stated routing policy against what actually ran: 425 decisions, 96 deviations, $1,248.13, none of them on the main thread. Then a reader asked what ",
+   "summary": "Artificial intelligence is no longer a futuristic idea. It is already changing how people work, learn, create content, build businesses, and compete for jobs. By 2027, knowing how to use AI could become as important as k",
    "image": null
   },
   {
-   "title": "The refactor that made every validation build pass without validating anything",
-   "link": "https://dev.to/vedaforge_eng/the-refactor-that-made-every-validation-build-pass-without-validating-anything-50gd",
-   "date": "2026-08-15T10:45:19.000Z",
+   "title": "AI Coding Agent Guardrails Beat Smarter Models",
+   "link": "https://dev.to/matbanik/ai-coding-agent-guardrails-beat-smarter-models-47c2",
+   "date": "2026-08-15T16:28:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short one. A bug I introduced, caught by reading the diff rather than by any A deployment script with a validation mode. On the develop branch it runs with VALIDATE_ONLY=true and is supposed to check everything without w",
-   "image": null
+   "summary": "Published August 06, 2026 on matbanik.info A reviewer looked at my code and found a bug. One route returned a 500 error when it should have returned a 404. It reported the finding, clearly, with the file and the line. My",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmatbanik.info%2Fimages%2Fblog%2Fsystems%2Fai-coding-agent-guardrails%2Fguardrails-hero.webp"
   },
   {
-   "title": "Your Fabric deployment failed and it is probably not your code",
-   "link": "https://dev.to/vedaforge_eng/your-fabric-deployment-failed-and-it-is-probably-not-your-code-1hi2",
-   "date": "2026-08-15T10:42:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I wrote a deployment script for Microsoft Fabric. It is a thin wrapper around fabric-cicd library. Maybe 150 lines with the comments. Then I wrote down everything that has to be true before it works. That list came That ",
-   "image": null
+   "title": "Radim Marek: The curious case of Google's AlloyDB",
+   "link": "https://postgr.es/p/9sl",
+   "date": "2026-08-15T15:45:42.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Google launched AlloyDB in 2022. They claimed it is fully compatible with PostgreSQL. Can be up to 100 times faster for analytical queries than vanilla Postgres. Four years later, I haven't personally seen it gain signif",
+   "image": "https://boringsql.com/images/posts/alloydb-breakeven-light.svg"
   },
   {
-   "title": "Flexible PCB Assembly and Reliability: A Complete Guide to Component Integration, Testing, Failure Analysis, and Long-Term Performance",
-   "link": "https://dev.to/pcb_manufacturer/flexible-pcb-assembly-and-reliability-a-complete-guide-to-component-integration-testing-failure-37jh",
-   "date": "2026-08-15T10:40:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Flexible printed circuit boards have become an essential technology in modern electronics. Their ability to bend, fold, and adapt to compact spaces allows manufacturers to create products that are smaller, l",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fltme918w8nbe63a5sh9g.jpg"
+   "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
+   "link": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
+   "date": "2026-08-15T13:28:53.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
+   "image": null
   },
   {
    "title": "Northern Gannet",
@@ -380,16 +400,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Introduction The purpose of this blog post is to introduce pg_walviz, a new tool to visualize PostgreSQL WAL segment files. pg_waldump is very useful to display a human-readable rendering of the WAL. However, sometimes w",
    "image": "https://bdrouvot.github.io/assets/images/pg_walviz-overview.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: io_max_concurrency",
-   "link": "https://postgr.es/p/9s9",
-   "date": "2026-08-13T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 18's new io_max_concurrency caps per-process I/O operations in flight.",
-   "image": null
   },
   {
    "title": "Laravel Image Responses: Serve Resized Images From Routes",
@@ -860,16 +870,6 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
    "image": "https://github.com/fabpot.png"
-  },
-  {
-   "title": "A Canvas for Individuality: Creating Websites That Feel Unmistakably Human with Readymag",
-   "link": "https://tympanus.net/codrops/2026/08/05/a-canvas-for-individuality-creating-websites-that-feel-unmistakably-human-with-readymag/",
-   "date": "2026-08-05T10:22:14.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A selection of websites that show why individuality, not trends, creates the most memorable experiences on the web.",
-   "image": null
   },
   {
    "title": "The new CSS feature devs love most but can't rely on yet",
