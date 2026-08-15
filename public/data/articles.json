@@ -1,64 +1,104 @@
 {
- "generatedAt": "2026-08-14T23:33:40.239Z",
+ "generatedAt": "2026-08-15T05:37:02.095Z",
  "articles": [
   {
-   "title": "Free Tier Traps: How Hobby Plans Are Designed and When They Flip to Paid",
-   "link": "https://dev.to/libme/free-tier-traps-how-hobby-plans-are-designed-and-when-they-flip-to-paid-450e",
-   "date": "2026-08-14T22:57:07.000Z",
+   "title": "Stop Saturating One CPU Core: Practical RSS, RPS, RFS, and XPS Packet Steering on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-saturating-one-cpu-core-practical-rss-rps-rfs-and-xps-packet-steering-on-linux-mij",
+   "date": "2026-08-15T05:02:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A free tier is a marketing budget with a shutoff valve, and the valve is placed on whatever metric grows when your project starts working. The trap is rarely the price you eventually pay — it's that the flip arrives on t",
+   "summary": "Stop Saturating One CPU Core: Practical RSS, RPS, RFS, and XPS Packet Steering on Linux You upgraded the NIC. Throughput still plateaus. top shows one core stuck near 100% in softirq, while the rest of the machine looks ",
    "image": null
   },
   {
-   "title": "How I Built 172 Guards After My AI Agent Tried to Delete Production Data",
-   "link": "https://dev.to/frederikvonderheyden/how-i-built-172-guards-after-my-ai-agent-tried-to-delete-production-data-3664",
-   "date": "2026-08-14T22:45:01.000Z",
+   "title": "AI Agent Architecture Patterns That Actually Survive Production",
+   "link": "https://dev.to/numb_code_07/ai-agent-architecture-patterns-that-actually-survive-production-15a5",
+   "date": "2026-08-15T04:57:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "2:47 AM, one DELETE, 23 databases My AI coding agent was debugging a slow query. It found the table, decided the data looked stale, and ran: DELETE FROM profiles No WHERE clause. That table exists in 23 separate customer",
+   "summary": "TL;DR: Production agents work because their autonomy is contained, not because it is unlimited. Put agentic decisions inside a predictable workflow, cap every loop, restrict tools by consequence, checkpoint state, valida",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxurlc08kz72z825d9kfr.png"
+  },
+  {
+   "title": "Still stuck choosing the right AI program?",
+   "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-the-right-ai-program-fa3",
+   "date": "2026-08-15T04:30:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you are trying to level up into AI Ops but feel torn between cost, time, and real job outcomes, you are not alone. Many learners start strong, then get slowed down by long semesters, rigid schedules, and theory-heavy ",
    "image": null
   },
   {
-   "title": "Synthetic Data for CI/CD: Seed Fresh, Valid Rows on Every Run",
-   "link": "https://dev.to/mikh-shytsko/synthetic-data-for-cicd-seed-fresh-valid-rows-on-every-run-2fe8",
-   "date": "2026-08-14T22:35:34.000Z",
+   "title": "Still stuck choosing the right AI program?",
+   "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-the-right-ai-program-e23",
+   "date": "2026-08-15T04:23:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every CI pipeline that touches a database needs rows to run against, and there are only three ways to get them: restore a copy of production, replay a checked-in seed.sql, or generate the data inside the run. Synthetic d",
+   "summary": "If you are trying to level up into AI Ops but feel torn between cost, time, and real job outcomes, you are not alone. Many learners start strong, then get slowed down by long semesters, rigid schedules, and theory-heavy ",
    "image": null
   },
   {
-   "title": "ALTER TABLE, 5 Million Rows, and the Deploy That Took Down the Site",
-   "link": "https://dev.to/mikh-shytsko/alter-table-5-million-rows-and-the-deploy-that-took-down-the-site-1fk5",
-   "date": "2026-08-14T22:34:58.000Z",
+   "title": "Day 14: AWS Compute — Managed & Serverless",
+   "link": "https://dev.to/sr-palatasingh/day-14-aws-compute-managed-serverless-4foi",
+   "date": "2026-08-15T04:20:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A migration that takes 50ms on your dev database can lock a production table for 20 minutes, and running it against production-scale volume first is how you catch that before your users do. The Thursday-afternoon deploy ",
+   "summary": "We started the compute layer on Day 13 with EC2, ELB, and Auto Scaling — where you launch and manage everything yourself. Today we move one level up the abstraction ladder: services where AWS takes over more of the opera",
    "image": null
   },
   {
-   "title": "One docker compose up, One Seeded Postgres",
-   "link": "https://dev.to/mikh-shytsko/one-docker-compose-up-one-seeded-postgres-14jh",
-   "date": "2026-08-14T22:31:58.000Z",
+   "title": "Master deepseek-harness in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-2708",
+   "date": "2026-08-15T04:01:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Docker Compose made your dev database reproducible, one command bringing up the same Postgres for the whole team, down to the version and extensions, and the schema it hands you arrives perfect and empty. That emptiness ",
+   "summary": "Introduction Last week, I spent 3 hours manually integrating AI-generated code into my workflow, only to realize that I could have automated it in just 5 minutes using deepseek-harness. You will build a fully functional ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Build a System Monitor Dashboard with Python",
+   "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-221l",
+   "date": "2026-08-15T04:00:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build a System Monitor Dashboard with Python tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial Imagine staring at a blinking server alert at ",
    "image": null
   },
   {
-   "title": "The Reality of Working as a DevOps Engineer in Cameroon",
-   "link": "https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l",
-   "date": "2026-08-14T22:04:43.000Z",
+   "title": "Container Image Signing & SLSA Provenance Verification with Sigstore Cosign",
+   "link": "https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce",
+   "date": "2026-08-15T03:40:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most \"how to become a DevOps engineer\" posts are written from places where electricity and internet Here's the honest version: what's hard, what I do about it, and why it's still worth it. Electricity is the first real c",
+   "summary": "Container Image Signing & SLSA Provenance Verification with Sigstore Cosign Supply chain security guide on signing OCI container images keylessly and verifying SLSA build provenance using Sigstore Cosign and Rekor. Keyle",
+   "image": null
+  },
+  {
+   "title": "Northern Gannet",
+   "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+   "date": "2026-08-15T03:22:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coa",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: jit and jit_provider",
+   "link": "https://postgr.es/p/9sk",
+   "date": "2026-08-15T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's JIT compiler trades upfront compilation time for faster query execution—but it silently does nothing if the LLVM library isn't installed.",
    "image": null
   },
   {
@@ -70,26 +110,6 @@
    "source": "Simon Willison",
    "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags ",
    "image": null
-  },
-  {
-   "title": "I thought OpenClaw was slow, but the real problem was the 5 seconds before the model ever ran",
-   "link": "https://dev.to/lars_winstand/i-thought-openclaw-was-slow-but-the-real-problem-was-the-5-seconds-before-the-model-ever-ran-5o0",
-   "date": "2026-08-14T21:53:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I went looking for model-latency advice and found a much more useful debugging lesson. While digging through OpenClaw discussions, I found a thread on r/openclaw about initialization time. At first it looked like the usu",
-   "image": null
-  },
-  {
-   "title": "Master deepseek-harness in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1jin",
-   "date": "2026-08-14T21:45:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours struggling to integrate AI-generated code into my project, only to realize that I was using the wrong tools. This experience made me wonder: how many developers are still manually ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
   },
   {
    "title": "Palantir: Thirty Years of Palantir",
@@ -412,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Jeremy Schneider: Postgres Checkpoint Followup and Collation Visualization and Codex Luna",
-   "link": "https://postgr.es/p/9s8",
-   "date": "2026-08-12T21:05:30.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "My previous article talked about the checkpoint happiness hint: You probably should not change the checkpoint_timeout setting from its default of 5 minutes. Checkpoint Followup Questions A good follow-up question was rai",
-   "image": "https://ardentperf.com/wp-content/uploads/2026/08/image.png?w=919"
-  },
-  {
    "title": "alchemy-utils 0.1a0",
    "link": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
    "date": "2026-08-12T19:51:30.000Z",
@@ -449,16 +459,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Quoting Florian Herrengt",
-   "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
-   "date": "2026-08-12T15:08:47.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "But then users start to report a weird bug. It's the 4th time your team has been trying to fix it. I mean... asking AI to fix it. Unfortunately, it seems like not even Fable can figure it out. You go talk to the person w",
    "image": null
   },
   {
