@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-08-15T17:32:29.466Z",
+ "generatedAt": "2026-08-15T23:31:59.174Z",
  "articles": [
   {
-   "title": "Comprehensive Guide to Buying and Using Old Gmail Accounts",
-   "link": "https://dev.to/smmusapva187/comprehensive-guide-to-buying-and-using-old-gmail-accounts-5045",
-   "date": "2026-08-15T17:18:16.000Z",
+   "title": "I let my servers fix themselves. The hard part was teaching them to say no",
+   "link": "https://dev.to/tyxak/i-let-my-servers-fix-themselves-the-hard-part-was-teaching-them-to-say-no-5g01",
+   "date": "2026-08-15T23:01:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Comprehensive Guide to Buying and Smmusapva@gmail.com What Does \"Buy Old Gmail Accounts\" Mean? \"Buying old Gmail accounts\" primarily refers to acquiring ownership of Gmail accounts created months or years ago. It is gene",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs9w41b22aqw9jixbuu26.jpg"
+   "summary": "RemotePower is a free, MIT licensed, self-hosted fleet manager: monitoring, alerting, a CMDB, CVE scanning, patching and remote management in one web UI. It exists because I got tired of running six dashboards for one ra",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foudwfgu148vr0lhm0h2v.png"
   },
   {
-   "title": "L4 vs L7 Stress Testing: What Actually Breaks First",
-   "link": "https://dev.to/zerodawnipstress/l4-vs-l7-stress-testing-what-actually-breaks-first-3k7p",
-   "date": "2026-08-15T17:17:24.000Z",
+   "title": "Frontend DevOps: mi mapa de recursos",
+   "link": "https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7",
+   "date": "2026-08-15T22:53:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stress testing a network service is not one discipline — it's two. Layer 4 and Layer 7 tests break things in fundamentally different ways, and confusing them is the single most common mistake I see in infrastructure test",
+   "summary": "Pasar de Frontend Engineer a DevOps Engineer implica aprender un montón de cosas nuevas: infraestructura, redes, contenedores, CI/CD, y una forma distinta de pensar los sistemas. En este post recopilo los links, cursos y",
    "image": null
   },
   {
-   "title": "Neon vs Supabase: The Real Math Behind Scale-to-Zero Postgres in 2026",
-   "link": "https://dev.to/moksh/neon-vs-supabase-the-real-math-behind-scale-to-zero-postgres-in-2026-3a92",
-   "date": "2026-08-15T17:13:40.000Z",
+   "title": "DevOps services company: 3 cloud fees that decide your 2026 budget",
+   "link": "https://dev.to/mr_manushukla/devops-services-company-3-cloud-fees-that-decide-your-2026-budget-31ka",
+   "date": "2026-08-15T22:51:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Provisioned Postgres charges you by the hour whether anyone is querying it or not, which is a bad deal the moment your traffic is spiky, or you want a fresh database per pull request. That is the whole pitch for serverle",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyp480tp0bivbemb44wj4.webp"
-  },
-  {
-   "title": "The silent zero: the worst bug your monitoring system can have",
-   "link": "https://dev.to/tbalcewicz/the-silent-zero-the-worst-bug-your-monitoring-system-can-have-4e6k",
-   "date": "2026-08-15T17:12:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A crash is a good outcome. Somebody gets paged, somebody fixes it, everyone moves on. The bad outcome is the one where your system finishes cleanly, reports nothing, and is wrong. No exception. No alert. A perfectly norm",
+   "summary": "DevOps services company: 3 cloud fees that decide your 2026 budget Summary. Amazon EKS charges $0.10 per cluster per hour on a supported Kubernetes version and $0.60 once that version falls into extended support, a 6x ju",
    "image": null
   },
   {
-   "title": "Open WebUI Memory Broke After Switching Embedding Models: The Chroma Dimension Fix",
-   "link": "https://dev.to/milkyway008/open-webui-memory-broke-after-switching-embedding-models-the-chroma-dimension-fix-54bk",
-   "date": "2026-08-15T17:11:36.000Z",
+   "title": "A Default-Deny Shell Is Not a Default-Deny Network: Probe What a Free Model Server Can Reach",
+   "link": "https://dev.to/hackrs_6393/a-default-deny-shell-is-not-a-default-deny-network-probe-what-a-free-model-server-can-reach-12g0",
+   "date": "2026-08-15T22:49:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Open WebUI Memory Broke After Switching Embedding Models: The Chroma Dimension Fix If you self-host Open WebUI and you've ever swapped the embedding model in the settings, this one's for you. There's a footgun hiding in ",
+   "summary": "A default-deny shell policy is not a default-deny network. Before you let a model-generated process run on a free server, know what the host can actually reach. Most free-server sandboxing advice covers commands, files, ",
    "image": null
   },
   {
-   "title": "Why logrotate silently does nothing and how to actually debug it",
-   "link": "https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd",
-   "date": "2026-08-15T17:04:58.000Z",
+   "title": "Kubernetes for Beginners: Deploy Your First App",
+   "link": "https://dev.to/qingluan/kubernetes-for-beginners-deploy-your-first-app-2p70",
+   "date": "2026-08-15T22:00:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A config that doesn't error is not a config that works. logrotate misconfigurations don't fail loudly. They fail silently. You only find out when /var/log is 100% full and something crashed. The copytruncate directive ex",
+   "summary": "Kubernetes for Beginners: Deploy Your First App tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial tags: kubernetes, docker, devops, tutorial ",
    "image": null
   },
   {
-   "title": "10 AI Skills You Need Before 2027 — Or You’ll Fall Behind",
-   "link": "https://dev.to/naveed_khan/10-ai-skills-you-need-before-2027-or-youll-fall-behind-4ejl",
-   "date": "2026-08-15T16:38:35.000Z",
+   "title": "Master deepseek-harness in 5 Mins",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-1j8b",
+   "date": "2026-08-15T21:41:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Artificial intelligence is no longer a futuristic idea. It is already changing how people work, learn, create content, build businesses, and compete for jobs. By 2027, knowing how to use AI could become as important as k",
+   "summary": "Introduction Did you know that 93% of developers struggle to effectively harness AI-powered tools, resulting in wasted time and decreased productivity? Last week, I spent 3 hours trying to integrate deepseek-harness into",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Leveling Up CI/CD: Automated Versioning and the Leap to AWS",
+   "link": "https://dev.to/alafiz/leveling-up-cicd-automated-versioning-and-the-leap-to-aws-4oc8",
+   "date": "2026-08-15T21:28:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This week has been all about refining the continuous integration and continuous deployment (CI/CD) pipeline. After successfully containerizing a Node.js application and pushing it to Docker Hub, it was time to tackle a c",
    "image": null
   },
   {
-   "title": "AI Coding Agent Guardrails Beat Smarter Models",
-   "link": "https://dev.to/matbanik/ai-coding-agent-guardrails-beat-smarter-models-47c2",
-   "date": "2026-08-15T16:28:43.000Z",
+   "title": "How to Back Up and Restore Self-Hosted n8n",
+   "link": "https://dev.to/floxolab/how-to-back-up-and-restore-self-hosted-n8n-1co0",
+   "date": "2026-08-15T21:21:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Published August 06, 2026 on matbanik.info A reviewer looked at my code and found a bug. One route returned a 500 error when it should have returned a 404. It reported the finding, clearly, with the file and the line. My",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmatbanik.info%2Fimages%2Fblog%2Fsystems%2Fai-coding-agent-guardrails%2Fguardrails-hero.webp"
+   "summary": "A workflow export is not a full instance backup. Protect the database, encryption key, deployment configuration, and binary storage, then prove that they work together on an isolated restore. A recoverable self-hosted n8",
+   "image": null
+  },
+  {
+   "title": "Payal Singh: The agent is not the system. Postgres is.",
+   "link": "https://postgr.es/p/9sm",
+   "date": "2026-08-15T21:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The numbers here come from my own audit and design records as of 2026-08-15. Everything described as a redesign is a plan I have started building and have not proven yet. Since June I have been building Looper, an experi",
+   "image": null
   },
   {
    "title": "Radim Marek: The curious case of Google's AlloyDB",
@@ -108,7 +118,7 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. He showed up in the Farallon Islands off the coa",
+   "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the c",
    "image": null
   },
   {
@@ -390,16 +400,6 @@
    "source": "Planet PostgreSQL",
    "summary": "In Part 6 of this special Postgres in Production deep dive series, Ryan Booz asks a question that determines how useful pg_stat_statements can be for you at all: do you have a high cardinality workload? This episode cove",
    "image": null
-  },
-  {
-   "title": "Bertrand Drouvot: Welcome to pg_walviz: PostgreSQL WAL segment visualizer",
-   "link": "https://postgr.es/p/9sc",
-   "date": "2026-08-13T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Introduction The purpose of this blog post is to introduce pg_walviz, a new tool to visualize PostgreSQL WAL segment files. pg_waldump is very useful to display a human-readable rendering of the WAL. However, sometimes w",
-   "image": "https://bdrouvot.github.io/assets/images/pg_walviz-overview.png"
   },
   {
    "title": "Laravel Image Responses: Serve Resized Images From Routes",
