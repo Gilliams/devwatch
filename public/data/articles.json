@@ -1,85 +1,95 @@
 {
- "generatedAt": "2026-08-16T05:39:04.735Z",
+ "generatedAt": "2026-08-16T11:31:47.871Z",
  "articles": [
   {
-   "title": "Claritrix — Weighted Decision Scorecards for B2B Teams | 50% Software",
-   "link": "https://dev.to/sonia_malik_571/claritrix-weighted-decision-scorecards-for-b2b-teams-50software-42hg",
-   "date": "2026-08-16T05:30:45.000Z",
+   "title": "Cloud Cost & FinOps: Engineering for Spend",
+   "link": "https://dev.to/sri2614/cloud-cost-finops-engineering-for-spend-46p",
+   "date": "2026-08-16T11:13:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A weighted decision scorecard, ready in your browser. You list your options, set the criteria that matter, and give each criterion a weight. Claritrix does the math and ranks your options instantly. No formulas, no setup",
+   "summary": "⚡ TL;DR: Every architecture choice is a spending choice. Learn how cloud billing really works, the few levers that actually move the bill (right-sizing, storage tiering, killing idle resources), and the tagging and FinOp",
    "image": null
   },
   {
-   "title": "He Let a Free Model Propose C++ Patches. A Three-Way Build Held the Veto.",
-   "link": "https://dev.to/datacpp_8185/he-let-a-free-model-propose-c-patches-a-three-way-build-held-the-veto-alh",
-   "date": "2026-08-16T05:29:08.000Z",
+   "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
+   "link": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
+   "date": "2026-08-16T11:00:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The service had compiled clean for eight months. Then a routine dependency bump surfaced a new warning in a template-heavy translation unit. Finley Zhou, the engineer on call, sent the compiler diagnostic to a free model",
+   "summary": "Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon discovering that half the automation propping up my side income had quietly stopped running — and nobody, including me, had noti",
    "image": null
   },
   {
-   "title": "The 10 Sites Guide to Buying Old Instagram Accounts In.. ...",
-   "link": "https://dev.to/carlafarleyjy57g/the-10-sites-guide-to-buying-old-instagram-accounts-in--334g",
-   "date": "2026-08-16T05:28:00.000Z",
+   "title": "How To Update and Maintain Azure Resources",
+   "link": "https://dev.to/enoghasejeremiah/how-to-update-and-maintain-azure-resources-3lbj",
+   "date": "2026-08-16T11:00:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction 🌟💬 24/7 Premium Support — Always Here for You! 🤝✨ usadigitalhubsell@gmail.com https://usadigitalhub.com/ An older account may contain valuable memories, posts, followers, messages, and connections. Howeve",
+   "summary": "In this article, we will learn about the process of updating and managing Azure Resources, which includes Networks, Virtual Machines, and Storage blobs. Log in to the Azure portal and search for Resource Group and click ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0oyqpyaj72al91css07o.png"
+  },
+  {
+   "title": "K8s: The Affinity Club",
+   "link": "https://dev.to/thegm26/k8s-the-affinity-club-4c2",
+   "date": "2026-08-16T10:26:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction If you have fiddled with Kubernetes long enough to worry about which node your Pods are actually running on, you can probably relate. First: what does affinity even mean? Affinity: a strong feeling that you ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fap7g99un2wouabo5li9e.gif"
+  },
+  {
+   "title": "Building UniFi Reactor: state-driven network automation for my Kubernetes homelab",
+   "link": "https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50",
+   "date": "2026-08-16T10:17:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A few weeks ago I added a UPS and backup internet to my homelab. That solved one class of problem, but it made another one more obvious. My UniFi gear knew when the WAN failed over. It knew when the UPS switched to batte",
    "image": null
   },
   {
-   "title": "I moved StoryKept from a $0 host to a $19/month one on purpose",
-   "link": "https://dev.to/pgardunoc/i-moved-storykept-from-a-0-host-to-a-19month-one-on-purpose-1n10",
-   "date": "2026-08-16T05:25:51.000Z",
+   "title": "Still paying 4 years for a tech career?",
+   "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-paying-4-years-for-a-tech-career-2a7h",
+   "date": "2026-08-16T10:13:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vercel is the easiest way to ship a Next.js app. I moved StoryKept off it anyway from a bill of exactly $0 to $19 a month. That sounds backwards. Free is cheaper than $19. But \"free\" was only free for the This is the sto",
-   "image": null
-  },
-  {
-   "title": "5 Best Site To Buy Aged OnlyFans Accounts In 2026",
-   "link": "https://dev.to/carlafarleyjy57g/5-best-site-to-buy-aged-onlyfans-accounts-in-2026-3oja",
-   "date": "2026-08-16T04:51:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction An OnlyFans account can be used either as a creator account or as a subscriber account. Creators may use the platform to publish content and communicate with their audience, while subscribers can follow crea",
-   "image": null
-  },
-  {
-   "title": "\"Cron 'every 2 weeks' doesn't exist. Here's the expression that actually works.\"",
-   "link": "https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5",
-   "date": "2026-08-16T04:35:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You just Googled \"cron every 2 weeks\" because your clean-up job keeps running weekly, and the cron docs are silent on the whole idea. That's not your fault — the 5-field format has no concept of week parity. There's no *",
-   "image": null
-  },
-  {
-   "title": "Demystifying 'Cold Starts' in Serverless: Why Your App Sometimes Shivers",
-   "link": "https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8",
-   "date": "2026-08-16T04:19:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Have you ever clicked a button on a website, only to wait several agonizing seconds for the page to respond, even though it usually loads instantly? This annoying delay is often caused by a backend phenomenon known as a ",
+   "summary": "If you are juggling tuition, a full-time job, and the pressure to \"pick the right degree,\" you are not alone. Most people want a faster, clearer path into real roles like AIOps, DevOps, and Cloud Security without drownin",
    "image": null
   },
   {
    "title": "Master deepseek-harness in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-3b7o",
-   "date": "2026-08-16T04:06:45.000Z",
+   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-4405",
+   "date": "2026-08-16T09:48:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week I spent 3 hours manually integrating AI tools into my workflow, only to realize I was using them inefficiently. You will build a fully functional deepseek-harness setup in just 5 minutes, and learn",
+   "summary": "Introduction Last week, I spent 3 hours debugging AI-generated code, only to realize that I was missing a crucial step in harnessing deepseek. Then, I discovered a simple 5-minute solution that changed everything. You wi",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+  },
+  {
+   "title": "Docker Compose - orquestrando múltiplos containers",
+   "link": "https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd",
+   "date": "2026-08-16T09:30:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. Retomando: do docker run repetido a um arquivo único No artigo anterior, subir uma API e um Postgres conectados exigiu dois comandos docker run longos, com flags de rede, volume e variáveis de ambiente para lembrar (e",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1024 (August 10–16, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1024-august-10-16-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-16T07:01:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, development activity for the upcoming Symfony 8.2 release was very intense: PropertyInfo made accessors and mutators configurable with attributes, HttpFoundation added targeted Cache-Control support conforming",
+   "image": null
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: jit_expressions and jit_tuple_deforming",
@@ -860,16 +870,6 @@
    "source": "PortSwigger Research",
    "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
-  },
-  {
-   "title": "New in Twig 4.0: A First-Class Sandbox",
-   "link": "https://symfony.com/blog/new-in-twig-4-0-a-first-class-sandbox?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-05T12:09:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Contributed by Fabien Potencier The sandbox has been part of Twig since 2009. If your users write newsletters, CMS blocks…",
-   "image": "https://github.com/fabpot.png"
   },
   {
    "title": "The new CSS feature devs love most but can't rely on yet",
