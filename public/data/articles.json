@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-16T11:31:47.871Z",
+ "generatedAt": "2026-08-16T17:31:40.164Z",
  "articles": [
   {
-   "title": "Cloud Cost & FinOps: Engineering for Spend",
-   "link": "https://dev.to/sri2614/cloud-cost-finops-engineering-for-spend-46p",
-   "date": "2026-08-16T11:13:12.000Z",
+   "title": "Dockerfiles: Build Your Own Images",
+   "link": "https://dev.to/themdmohiuddin/dockerfiles-build-your-own-images-2l6m",
+   "date": "2026-08-16T17:29:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Every architecture choice is a spending choice. Learn how cloud billing really works, the few levers that actually move the bill (right-sizing, storage tiering, killing idle resources), and the tagging and FinOp",
+   "summary": "Running Docker images is useful. Building your own images is where you start becoming a real Docker practitioner. How do you package your own application into a Docker image? That's what Dockerfiles are for. A Dockerfile",
    "image": null
   },
   {
-   "title": "Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs",
-   "link": "https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02",
-   "date": "2026-08-16T11:00:06.000Z",
+   "title": "Kubernetes: correos utiles en cambios de red",
+   "link": "https://dev.to/alexcarteruk/kubernetes-correos-utiles-en-cambios-de-red-36c8",
+   "date": "2026-08-16T17:24:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Losing your job costs you a paycheck. What I didn't expect was to spend that same afternoon discovering that half the automation propping up my side income had quietly stopped running — and nobody, including me, had noti",
+   "summary": "Cuando un cambio de NetworkPolicy sale bien en el cluster pero el correo de aviso deja dudas, el riesgo no desaparece. Solo se mueve. En guardias SRE he visto incidentes pequeños crecer porque el equipo recibió una alert",
    "image": null
   },
   {
-   "title": "How To Update and Maintain Azure Resources",
-   "link": "https://dev.to/enoghasejeremiah/how-to-update-and-maintain-azure-resources-3lbj",
-   "date": "2026-08-16T11:00:01.000Z",
+   "title": "☁️ Day 2 of Learning Cloud Computing: Cloud Deployment Models - Public, Private, Hybrid & Cross Cloud",
+   "link": "https://dev.to/poushmita_paul_fddcbe1a2f/day-2-of-learning-cloud-computing-cloud-deployment-models-public-private-hybrid-cross-493b",
+   "date": "2026-08-16T17:22:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In this article, we will learn about the process of updating and managing Azure Resources, which includes Networks, Virtual Machines, and Storage blobs. Log in to the Azure portal and search for Resource Group and click ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0oyqpyaj72al91css07o.png"
-  },
-  {
-   "title": "K8s: The Affinity Club",
-   "link": "https://dev.to/thegm26/k8s-the-affinity-club-4c2",
-   "date": "2026-08-16T10:26:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction If you have fiddled with Kubernetes long enough to worry about which node your Pods are actually running on, you can probably relate. First: what does affinity even mean? Affinity: a strong feeling that you ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fap7g99un2wouabo5li9e.gif"
-  },
-  {
-   "title": "Building UniFi Reactor: state-driven network automation for my Kubernetes homelab",
-   "link": "https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50",
-   "date": "2026-08-16T10:17:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A few weeks ago I added a UPS and backup internet to my homelab. That solved one class of problem, but it made another one more obvious. My UniFi gear knew when the WAN failed over. It knew when the UPS switched to batte",
+   "summary": "In my previous article, I explained what cloud computing is, along with concepts such as AWS, virtual machines, containers, IaaS, PaaS, and SaaS. When I started learning cloud computing, I understood what cloud computing",
    "image": null
   },
   {
-   "title": "Still paying 4 years for a tech career?",
-   "link": "https://dev.to/bilal_sagheer_adc8e50d233/still-paying-4-years-for-a-tech-career-2a7h",
-   "date": "2026-08-16T10:13:18.000Z",
+   "title": "Building a Secure Enterprise AI Assistant: A Complete Architecture & Usage Guide",
+   "link": "https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3",
+   "date": "2026-08-16T17:13:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you are juggling tuition, a full-time job, and the pressure to \"pick the right degree,\" you are not alone. Most people want a faster, clearer path into real roles like AIOps, DevOps, and Cloud Security without drownin",
+   "summary": "Integrating generative AI into internal workflows requires a strict balance between user accessibility and enterprise data privacy. Below is a blueprint for designing, deploying, and governing an internal AI assistant (S",
    "image": null
   },
   {
-   "title": "Master deepseek-harness in 5 Mins",
-   "link": "https://dev.to/sudhirt_bahadure_c17efb6/master-deepseek-harness-in-5-mins-4405",
-   "date": "2026-08-16T09:48:09.000Z",
+   "title": "A Detector That Only Ever Says \"Clean\" Proves Nothing",
+   "link": "https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii",
+   "date": "2026-08-16T17:09:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Last week, I spent 3 hours debugging AI-generated code, only to realize that I was missing a crucial step in harnessing deepseek. Then, I discovered a simple 5-minute solution that changed everything. You wi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fko-fi.com%2Fimg%2Fgithubbutton_sm.svg"
+   "summary": "A few days ago I asked my agent to count how many of my tooling scripts carry a self-test. It grepped and answered: 12 of 13. The number was wrong. One script labels its control НЕГАТИВНИЙ КОНТРОЛЬ — uppercase — and the ",
+   "image": null
   },
   {
-   "title": "Docker Compose - orquestrando múltiplos containers",
-   "link": "https://dev.to/apsis-cc/docker-compose-orquestrando-multiplos-containers-27hd",
-   "date": "2026-08-16T09:30:13.000Z",
+   "title": "5 Things I Check First When a Linux Server Goes Down",
+   "link": "https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i",
+   "date": "2026-08-16T17:00:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Retomando: do docker run repetido a um arquivo único No artigo anterior, subir uma API e um Postgres conectados exigiu dois comandos docker run longos, com flags de rede, volume e variáveis de ambiente para lembrar (e",
+   "summary": "When a production machine drops offline or stops responding, guessing wastes precious minutes. Here is the exact five-step triage sequence I run to find the root cause and bring systems back online. It was 3:15 AM on a S",
+   "image": null
+  },
+  {
+   "title": "Goodbye YAML? My First Month with Pkl (Apple's Configuration Language)",
+   "link": "https://dev.to/actocodes/goodbye-yaml-my-first-month-with-pkl-apples-configuration-language-m7l",
+   "date": "2026-08-16T17:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "YAML has been the configuration language of the cloud-native era by default, not by design. It is whitespace-sensitive in ways that cause real production incidents. It has no type system. It provides no mechanism for reu",
+   "image": null
+  },
+  {
+   "title": "Residential proxies aren't the top tier: what 4 marketplace scrapers taught us",
+   "link": "https://dev.to/devil_scrapes/residential-proxies-arent-the-top-tier-what-4-marketplace-scrapers-taught-us-4di9",
+   "date": "2026-08-16T16:45:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Short version: the proxy tier that gets you into one marketplace will get you thrown out of the next one. We shipped four listing scrapers in the same week — Craigslist, OfferUp, BBB, and Booking.com — and each one neede",
+   "image": null
+  },
+  {
+   "title": "Quoting Dario Amodei",
+   "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+   "date": "2026-08-16T15:05:36.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis ",
    "image": null
   },
   {
@@ -99,6 +109,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's JIT compiler has two jobs: compiling expressions and deforming tuples. Here's how to isolate JIT bugs with two simple boolean toggles.",
+   "image": null
+  },
+  {
+   "title": "Dinesh Kumar: pgsonify: Hearing PostgreSQL Health as Elephant Sounds",
+   "link": "https://postgr.es/p/9so",
+   "date": "2026-08-16T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "pgsonify is an experimental MIT-licensed tool that sonifies PostgreSQL health metrics as real elephant recordings. How it maps stats views to sound.",
    "image": null
   },
   {
@@ -312,16 +332,6 @@
    "image": null
   },
   {
-   "title": "Mark Wong: PDXPUG Septemter 8, 2026, MeetUp: Migrating to a Temporal Schema",
-   "link": "https://postgr.es/p/9sd",
-   "date": "2026-08-13T17:54:04.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Please note different time and location this month at UpStart Collective at the U.S. Bancorp Tower (a.k.a. Big Pink). Please RSVP on MeetUp. Tuesday September 8, 2026 from 6:30pm to 8:30pm. Coinciding with devopsdays Por",
-   "image": null
-  },
-  {
    "title": "Replicating from InnoDB into a DuckDB storage engine",
    "link": "https://www.percona.com/blog/replicating-from-innodb-into-a-duckdb-storage-engine/",
    "date": "2026-08-13T17:23:27.000Z",
@@ -449,16 +459,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Traditional content staging servers have had their day. At DrupalCon Chicago 2026, Tag1's Peta Hoyes and Ray Stuart (presenting for Fabian Franz) made that case and showed exactly what replaces them. Their session, Works",
-   "image": null
-  },
-  {
-   "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-   "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-   "date": "2026-08-12T23:59:23.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been",
    "image": null
   },
   {
