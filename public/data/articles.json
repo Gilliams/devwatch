@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-08-17T17:41:04.307Z",
+ "generatedAt": "2026-08-17T23:33:54.069Z",
  "articles": [
   {
-   "title": "The 05 Sites Guide to Buying Old Yahoo Accounts In ...",
-   "link": "https://dev.to/karylinodomlb113/the-05-sites-guide-to-buying-old-yahoo-accounts-in--17n7",
-   "date": "2026-08-17T17:34:52.000Z",
+   "title": "Horizontal vs Vertical Scaling: A Jedi's Guide",
+   "link": "https://dev.to/timevolt/horizontal-vs-vertical-scaling-a-jedis-guide-1nkj",
+   "date": "2026-08-17T23:22:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🌟💬 24/7 Premium Support — Always Here for You! 🤝✨ usadigitalhubsell@gmail.com https://usadigitalhub.com/product/buy-old-yahoo-accounts/ Introduction An email account is more than just a place to send and receive messa",
+   "summary": "The Quest Begins (The \"Why\") Ever felt like your app is a tiny hobbit trying to carry the One Ring up Mount Doom while the traffic keeps growing like a horde of orcs? I’ve been there. A few months ago I was maintaining a",
    "image": null
   },
   {
-   "title": "Behind the $43k Low-Ball: A Technical Audit of Mobile App Development Proposals Published",
-   "link": "https://dev.to/kajol_shah/behind-the-43k-low-ball-a-technical-audit-of-mobile-app-development-proposalspublished-52la",
-   "date": "2026-08-17T17:30:00.000Z",
+   "title": "Self-Healing Software Development: Automating Code Generation, Testing, and Fixing with Solon AI Loop Engine",
+   "link": "https://dev.to/solonjava/self-healing-software-development-automating-code-generation-testing-and-fixing-with-solon-ai-856",
+   "date": "2026-08-17T22:44:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every engineering lead and technical founder has watched this scenario play out. A startup pulls together an early-stage product brief—something standard like a two-sided marketplace with user accounts, search parameters",
+   "summary": "Software agents are transitioning from stateless assistants to autonomous, loop-driven operators. While generating boilerplate code is easy, the real challenge in software engineering is maintaining correctness: resolvin",
    "image": null
   },
   {
-   "title": "Shadow Traffic Is the Only Honest Free Model Evaluation",
-   "link": "https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja",
-   "date": "2026-08-17T17:12:28.000Z",
+   "title": "Static Review Is Not a Runtime Guarantee: Diff the Shape of an AI-Managed Server Before You Accept It",
+   "link": "https://dev.to/github_7727/static-review-is-not-a-runtime-guarantee-diff-the-shape-of-an-ai-managed-server-before-you-accept-m2j",
+   "date": "2026-08-17T22:02:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The demo replay played in the dim glow of a conference room, and everyone agreed the free model sounded good. The same four prompts produced crisp summaries, polite error handling, and no obvious hallucination, so the co",
+   "summary": "The position I want to argue is unambiguous: when an AI model writes or edits a systemd service on a Linux server, reviewing the generated diff before merge is not enough. A unit file is a set of promises about runtime b",
    "image": null
   },
   {
-   "title": "The 10 Sites Guide to Buying Old Yahoo Accounts ...",
-   "link": "https://dev.to/karylinodomlb113/the-10-sites-guide-to-buying-old-yahoo-accounts--2ppp",
-   "date": "2026-08-17T17:09:21.000Z",
+   "title": "Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.",
+   "link": "https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7",
+   "date": "2026-08-17T21:54:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Meta Description: Learn how to manage Yahoo accounts safely with security protection, privacy settings, recovery options, email organization, and best practices for long-term account management. 🌟💬 24/7 Premium Support",
+   "summary": "Twenty-three minutes before the measurement below, we published a piece arguing that a human approval gate is usually not judgment. It is a lookup somebody never automated. Our example was the gate in front of publishing",
    "image": null
   },
   {
-   "title": "Guerrilla DevOps: How We Escaped to GitHub Actions",
-   "link": "https://dev.to/flude_team/guerrilla-devops-how-we-escaped-to-github-actions-19k5",
-   "date": "2026-08-17T17:05:56.000Z",
+   "title": "5 Top 8 Sites to Buy old Gmail Accounts (Aged or New) in ...",
+   "link": "https://dev.to/lexiebrandtys83m/5-top-8-sites-to-buy-old-gmail-accounts-aged-or-new-in--2824",
+   "date": "2026-08-17T21:39:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In large companies, processes eventually take on a life of their own and start calling the shots. For us, the stumbling block was documentation publishing. Previously, technical writers would spend the entire month agoni",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcjxf687v6ftcp6wtnnwt.jpg"
-  },
-  {
-   "title": "The Dangerous Docker Firewall Bypass (And How to Fix It Using UFW)",
-   "link": "https://dev.to/sadaf_botanist/the-dangerous-docker-firewall-bypass-and-how-to-fix-it-using-ufw-59h1",
-   "date": "2026-08-17T16:53:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every backend engineer and systems administrator knows the importance of running a solid firewall. You boot up a clean Ubuntu server instance, configure your UFW (Uncomplicated Firewall) rules to allow only port 80 and 4",
+   "summary": "Buy Old Naver Accounts: Complete Security, Privacy & Account Management Guide usadigitalhubsell@gmail.com https://usadigitalhub.com/product/buy-old-gmail-accounts/ Meta Description: Discover important information about o",
    "image": null
   },
   {
-   "title": "100 Days of DevOps and Cloud (AWS), Day 28: Cherry-Pick Takes One Commit, and the Tag Is the Address",
-   "link": "https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-28-cherry-pick-takes-one-commit-and-the-tag-is-the-address-k33",
-   "date": "2026-08-17T16:51:42.000Z",
+   "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+   "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+   "date": "2026-08-17T21:03:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
+  },
+  {
+   "title": "Velocity Micro Raptor Z55i (2026): Compact Dev Rig Review",
+   "link": "https://dev.to/thomas_woodfin_3a4efcd491/velocity-micro-raptor-z55i-2026-compact-dev-rig-review-1cp9",
+   "date": "2026-08-17T21:00:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Both of today's tasks came down to being precise about exactly what you are moving and exactly where it is going. In one, the answer is a single commit out of a branch full of them. In the other, it is an image whose des",
+   "summary": "*The Velocity Micro Raptor Z55i proves that a small form factor desktop doesn't have to sacrifice thermal headroom for compile-heavy developer workloads. * For years, engineering teams treated SFF PCs as second-class cit",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.%2520unsplash%2C.%2520And%2520com%2Fphoto-placeholderw%3D800"
+  },
+  {
+   "title": "Deploy Your Angular App with AWS S3 & CloudFront: A Fast, Cost-Effective Guide",
+   "link": "https://dev.to/juhisri02/deploy-your-angular-app-with-aws-s3-cloudfront-a-fast-cost-effective-guide-35if",
+   "date": "2026-08-17T20:42:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Deploying your Angular application to the cloud is a crucial step in sharing your work with the world. AWS offers a reliable and scalable way to host your app with minimal cost and effort — especially using ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgmh34er4eo52de7dgm1.png"
+  },
+  {
+   "title": "How I Trained a 193K-Pair MoE Model on a 4-Core Laptop Without a GPU (Introducing QNME-Omega)",
+   "link": "https://dev.to/susantabanik/how-i-trained-a-193k-pair-moe-model-on-a-4-core-laptop-without-a-gpu-introducing-qnme-omega-1ipp",
+   "date": "2026-08-17T20:32:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The AI Hardware Bottleneck Deep learning development often feels gated by expensive hardware. Training modern Transformer or Mixture-of-Experts (MoE) architectures typically requires dedicated high-VRAM GPUs. Attempting ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pz9hqv8a81zm41i7pkd.png"
+  },
+  {
+   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+   "date": "2026-08-17T19:46:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
-   "title": "Stop Opening Port 5432: Master SSH Port Forwarding Like a DevOps Pro",
-   "link": "https://dev.to/sadaf_botanist/stop-opening-port-5432-master-ssh-port-forwarding-like-a-devops-pro-4nae",
-   "date": "2026-08-17T16:49:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every junior backend developer has done this at least once. You deploy a PostgreSQL or MySQL database inside a remote production server. Then, you want to connect to it from your local laptop using a GUI client like DBea",
+   "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+   "date": "2026-08-17T18:44:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
+  },
+  {
+   "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+   "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+   "date": "2026-08-17T18:22:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulne",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
+  },
+  {
+   "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+   "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+   "date": "2026-08-17T17:41:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecur",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
+  },
+  {
+   "title": "Percona University Comes to Uruguay",
+   "link": "https://www.percona.com/blog/percona-university-comes-to-uruguay/",
+   "date": "2026-08-17T16:34:42.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
    "image": null
   },
   {
@@ -132,6 +192,16 @@
    "image": null
   },
   {
+   "title": "The Vardot Team: Is Your Drupal Platform AI-Ready? Here's How to Know",
+   "link": "https://www.vardot.com/en/ideas/blog/your-drupal-platform-ai-ready-heres-how-know",
+   "date": "2026-08-17T13:07:24.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI is changing how people find your content. Score your Drupal platform's AI readiness across five areas in five minutes.",
+   "image": null
+  },
+  {
    "title": "Announcing Symfony Language Tools, the Official Symfony LSP Server",
    "link": "https://symfony.com/blog/announcing-symfony-language-tools-the-official-symfony-lsp-server?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-17T12:05:00.000Z",
@@ -160,6 +230,16 @@
    "source": "The Hacker News",
    "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
+  },
+  {
+   "title": "The Drop Times: Open-Weight AI Is Reopening an Old Web Question",
+   "link": "https://www.thedroptimes.com/newsletter/open-weight-ai-open-web-control?utm_source=Drupal Planet",
+   "date": "2026-08-17T10:16:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Last week’s AI releases put a familiar question back into view: who controls the technology that digital systems depend on? On 10 August 2026, Meta released Muse Glimmer, a 30-billion-parameter model optimised for local ",
+   "image": null
   },
   {
    "title": "Dries Buytaert: The software business after code scarcity",
@@ -192,16 +272,6 @@
    "image": null
   },
   {
-   "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-   "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-   "date": "2026-08-17T07:36:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
-  },
-  {
    "title": "NativePHP v4: Build Native iOS and Android UI in Blade",
    "link": "https://laravel-news.com/nativephp-v4-supernative?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-17T03:33:05.000Z",
@@ -229,6 +299,46 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's JIT compiler fires based on estimated query cost, but that estimate measures data volume, not expression complexity.",
+   "image": null
+  },
+  {
+   "title": "Alexander Ioffe: Why Does PostgreSQL Skip My Index?",
+   "link": "https://postgr.es/p/9sw",
+   "date": "2026-08-17T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "...because your vendor's Cost Model Is from 2002. Since random_page_cost = 4.0 is for spinning disks and hasn't changed in 25 years, setting it to 1.1 cuts this query from 125.98ms to 68.69ms.",
+   "image": null
+  },
+  {
+   "title": "Alexander Ioffe: How Fast Are Postgres 19 Graph Queries? Part 1: What Are They Actually Doing?",
+   "link": "https://postgr.es/p/9sv",
+   "date": "2026-08-17T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Postgres 19 adds SQL/PGQ graph queries. Measured against a PostgreSQL 19beta1 build, the fixed-depth graph query compiles to the exact same plan as a hand-written join, and the variable-depth traversal that graph databas",
+   "image": null
+  },
+  {
+   "title": "Alexander Ioffe: JSONB Paths or GIN or Columns?",
+   "link": "https://postgr.es/p/9su",
+   "date": "2026-08-17T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Columns beat JSONB+GIN at everything except multi-key containment on PostgreSQL 17",
+   "image": null
+  },
+  {
+   "title": "Alexander Ioffe: What Does a Covering Index Cost You?",
+   "link": "https://postgr.es/p/9st",
+   "date": "2026-08-17T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "'Covering indexes hurt your writes' is an architectural maxim with no number attached. Here is the number: +28% on INSERTs, +25% on UPDATEs, 1.26x faster reads, and covering wins below ~4,300 writes per analytical read. ",
    "image": null
   },
   {
@@ -302,16 +412,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: jit_expressions and jit_tuple_deforming",
-   "link": "https://postgr.es/p/9sn",
-   "date": "2026-08-16T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's JIT compiler has two jobs: compiling expressions and deforming tuples. Here's how to isolate JIT bugs with two simple boolean toggles.",
-   "image": null
-  },
-  {
    "title": "A Drupal Couple: Watching someone not need a developer",
    "link": "https://www.adrupalcouple.us/watching-someone-not-need-developer",
    "date": "2026-08-16T00:48:04.000Z",
@@ -320,36 +420,6 @@
    "source": "Drupal Planet",
    "summary": "Watching someone not need a developer Imagen A man who runs an insurance agency showed me software he built himself, after paying a development company for months and getting nothing. I sat there listing everything that ",
    "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/toolbox-a.png.webp?itok=__iO-Xoy"
-  },
-  {
-   "title": "Dinesh Kumar: pgsonify: Hearing PostgreSQL Health as Elephant Sounds",
-   "link": "https://postgr.es/p/9so",
-   "date": "2026-08-16T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "pgsonify is an experimental MIT-licensed tool that sonifies PostgreSQL health metrics as real elephant recordings. How it maps stats views to sound.",
-   "image": null
-  },
-  {
-   "title": "Payal Singh: The agent is not the system. Postgres is.",
-   "link": "https://postgr.es/p/9sm",
-   "date": "2026-08-15T21:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The numbers here come from my own audit and design records as of 2026-08-15. Everything described as a redesign is a plan I have started building and have not proven yet. Since June I have been building Looper, an experi",
-   "image": null
-  },
-  {
-   "title": "Radim Marek: The curious case of Google's AlloyDB",
-   "link": "https://postgr.es/p/9sl",
-   "date": "2026-08-15T15:45:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Google launched AlloyDB in 2022. They claimed it is fully compatible with PostgreSQL. Can be up to 100 times faster for analytical queries than vanilla Postgres. Four years later, I haven't personally seen it gain signif",
-   "image": "https://boringsql.com/images/posts/alloydb-breakeven-light.svg"
   },
   {
    "title": "CORS Chat",
@@ -372,26 +442,6 @@
    "image": null
   },
   {
-   "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-   "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-   "date": "2026-08-15T08:38:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s1600/sap-flaw.jpg"
-  },
-  {
-   "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-   "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-   "date": "2026-08-15T07:24:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in q",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg"
-  },
-  {
    "title": "Northern Gannet",
    "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
    "date": "2026-08-15T03:22:00.000Z",
@@ -410,16 +460,6 @@
    "source": "Simon Willison",
    "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags ",
    "image": null
-  },
-  {
-   "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-   "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-   "date": "2026-08-14T18:48:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmsCR51S8-S9Y9cCidbhsmyNlysPzNGZkLuFNY8GHiq3mwnVKOcB1hUq_Q7Oz2j6nH61si-eaqq4xouwv2_JsEzEU6eYS2-bL3-dXBwweGAK-3QnhfKZi8MANcdtpg9VTsqaCrB3Jog3FVUQFV9wtkiQkB6sSVyMclXHwxBXPFjHput_haLnTmH03kq6E/s1600/domains.jpg"
   },
   {
    "title": "Palantir: Thirty Years of Palantir",
@@ -449,26 +489,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: TDT August Open Townhall Scheduled for 19 August 2026",
-   "link": "https://www.thedroptimes.com/71728/tdt-august-open-townhall-2026?utm_source=Drupal Planet",
-   "date": "2026-08-14T09:39:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Questions, story leads, and feedback on future Drupal coverage are on the agenda for contributors and community members joining the monthly meeting.",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Drupal Association Board Election Voting Closes 14 August",
-   "link": "https://www.thedroptimes.com/71726/drupal-board-election-voting-closes?utm_source=Drupal Planet",
-   "date": "2026-08-14T07:29:17.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Members still weighing their choice can read The DropTimes' interviews with seven candidates to compare their priorities before casting a ballot.",
    "image": null
   },
   {
@@ -729,16 +749,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A look inside two connected studios building brands across strategy, design, and experience, with the same instinct for clarity, culture, and edge.",
-   "image": null
-  },
-  {
-   "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-   "date": "2026-08-10T10:05:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -1070,16 +1080,6 @@
    "source": "Martin Fowler",
    "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not",
    "image": null
-  },
-  {
-   "title": "Alert on CVEs in Your Percona Tools for MongoDB on Day One",
-   "link": "https://www.percona.com/blog/alert-on-cves-in-your-percona-tools-for-mongodb-on-day-one/",
-   "date": "2026-07-24T13:15:49.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "TL;DR: Starting with PBM 2.15.0 and PCSM 0.9.0, every release artifact – binary tarballs, RPM and DEB packages, and Docker images – ships a CycloneDX 1.6 Software Bill of Materials in JSON. Scan it with Trivy, Grype, or ",
-   "image": "https://www.percona.com/wp-content/uploads/2026/07/sbom-pipeline_6-scaled.png"
   },
   {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
