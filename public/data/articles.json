@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-08-17T05:47:23.369Z",
+ "generatedAt": "2026-08-17T11:36:27.857Z",
  "articles": [
   {
-   "title": "We Audited 156,808 Failed CI Runs Across Eight Open Source Repos",
-   "link": "https://dev.to/kaveh_alemi_c77274166c2e6/we-audited-156808-failed-ci-runs-across-eight-open-source-repos-2fde",
-   "date": "2026-08-17T05:17:44.000Z",
+   "title": "Read-Only by Default: Exactly What Access a Cloud Cost Tool Needs, and What It Can Never Change",
+   "link": "https://dev.to/zop_8abedcc7e12/read-only-by-default-exactly-what-access-a-cloud-cost-tool-needs-and-what-it-can-never-change-20bf",
+   "date": "2026-08-17T11:19:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I'm Kay, CTO and co-founder at Latchkey. We build managed GitHub Actions runners that repair failures while the job is still running. Before we shipped any of that, we wanted to know what actually breaks CI. Not what peo",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3wdtat3vloksh2shxjq0.png"
-  },
-  {
-   "title": "Your agent's \"not done\" lies as often as its \"done\"",
-   "link": "https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2",
-   "date": "2026-08-17T05:16:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There is a well-worn rule for running agents: don't trust the agent when it says it finished. Go look at the artifact. Good rule. We follow it. It did not save us, because the failure we actually hit ran the other direct",
+   "summary": "The product demo took twenty minutes. The security review has taken five weeks, and it's stuck on one sentence in the onboarding doc: \"connect your AWS account with read-only access.\" That sentence stalls reviews because",
    "image": null
   },
   {
-   "title": "A Receipt-First Preflight for AI-Written Config Changes on a Free Server",
-   "link": "https://dev.to/github_7727/a-receipt-first-preflight-for-ai-written-config-changes-on-a-free-server-4e36",
-   "date": "2026-08-17T05:08:09.000Z",
+   "title": "Incident Management & On-Call That Doesn't Burn People Out",
+   "link": "https://dev.to/sri2614/incident-management-on-call-that-doesnt-burn-people-out-4jhn",
+   "date": "2026-08-17T11:18:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why this is worth reading: a free model can generate a configuration change that applies cleanly but still deletes a directory, weakens a permission, or adds an outbound call. If you deploy it to a free server, you may n",
+   "summary": "⚡ TL;DR: Outages are inevitable, the chaos around them is not. You get the playbook mature teams run: severity tiers, a single incident commander, runbooks, blameless postmortems, and on-call rotations with alert hygiene",
    "image": null
   },
   {
-   "title": "Free Model Endpoints Will Normalize C++ Paths. A Canonical Manifest Vetoes the Summary.",
-   "link": "https://dev.to/datacpp_8185/free-model-endpoints-will-normalize-c-paths-a-canonical-manifest-vetoes-the-summary-49bg",
-   "date": "2026-08-17T05:03:57.000Z",
+   "title": "AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails?",
+   "link": "https://dev.to/cloudnestle/ai-is-writing-more-of-our-code-every-day-but-are-we-paying-close-attention-to-what-happens-when-185f",
+   "date": "2026-08-17T11:10:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 02:14 the nightly monorepo build stopped in 412 targets. The failure tail was 9.3 MB. A maintainer piped the tail into a free model endpoint and asked for triage JSON. The model returned a clean list. Every path looke",
+   "summary": "AI is writing more of our code every day. But are we paying close attention to what happens when that code quietly fails? → Silent failures are the hardest bugs to catch — no crash, no alert, just wrong results running i",
    "image": null
   },
   {
-   "title": "Stop One Noisy Tenant Starving the Rest: Practical Hierarchical Traffic Shaping with tc HTB on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-one-noisy-tenant-starving-the-rest-practical-hierarchical-traffic-shaping-with-tc-htb-on-linux-3ggo",
-   "date": "2026-08-17T05:02:53.000Z",
+   "title": "What Is beacon.min.js? Cloudflare's Auto-Injected Analytics, and How to Turn It Off (2026)",
+   "link": "https://dev.to/pavel-hostim/what-is-beaconminjs-cloudflares-auto-injected-analytics-and-how-to-turn-it-off-2026-10g2",
+   "date": "2026-08-17T11:07:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stop One Noisy Tenant Starving the Rest: Practical Hierarchical Traffic Shaping with tc HTB on Linux CAKE and fq_codel are excellent at fighting bufferbloat — they keep latency low when a link is saturated. TCP BBR helps",
+   "summary": "Short answer: beacon.min.js is Cloudflare's Real User Measurement script. If your domain is on a free Cloudflare plan and proxied through them (the orange cloud), Cloudflare has been injecting it into your HTML by defaul",
    "image": null
   },
   {
-   "title": "Which Certification Should I Choose for a Career in Enterprise Blockchain?",
-   "link": "https://dev.to/georgiaweston/which-certification-should-i-choose-for-a-career-in-enterprise-blockchain-5d45",
-   "date": "2026-08-17T05:01:19.000Z",
+   "title": "How to find who created a resource in AWS CloudTrail: resource owners and orphan accountability",
+   "link": "https://dev.to/zop_8abedcc7e12/how-to-find-who-created-a-resource-in-aws-cloudtrail-resource-owners-and-orphan-accountability-57gk",
+   "date": "2026-08-17T11:06:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Enterprise blockchain is becoming an important technology for organizations exploring digital assets, supply chain management, tokenization, payments, identity, and secure data exchange. As adoption grows, professionals ",
+   "summary": "The Orphan Problem: Why AWS Resource Ownership Disappears Orphaned AWS resources accumulate silently because ownership is a social contract, not a technical constraint. When an engineer provisions an EC2 instance or EBS ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgfnrvmknad6a8d789kcu.png"
+  },
+  {
+   "title": "AWS Resource Explorer vs Azure Resource Graph vs GCP Cloud Asset Inventory: what each one finds and why none of them show cost",
+   "link": "https://dev.to/zop_8abedcc7e12/aws-resource-explorer-vs-azure-resource-graph-vs-gcp-cloud-asset-inventory-what-each-one-finds-and-3b1a",
+   "date": "2026-08-17T11:06:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Inventory Illusion: What Cloud Discovery Tools Actually Show You AWS Resource Explorer, Azure Resource Graph, and GCP Cloud Asset Inventory are the authoritative resource discovery tools for their respective clouds, ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F71spikpkj6pxhhhcf8cm.png"
+  },
+  {
+   "title": "AWS Cost Anomaly Detection vs Budgets: The Exact Thresholds a Cloud Cost Anomaly Detector Should Use",
+   "link": "https://dev.to/zop_8abedcc7e12/aws-cost-anomaly-detection-vs-budgets-the-exact-thresholds-a-cloud-cost-anomaly-detector-should-use-43h8",
+   "date": "2026-08-17T11:05:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Here's a postmortem that gets written every month somewhere: a misconfigured NAT gateway (or a recursive Lambda, or a debug-level log group) starts adding $400 a day to the bill. Nobody notices for three weeks. The invoi",
    "image": null
   },
   {
-   "title": "Model-Generated GitHub Actions Need a Permission Gate",
-   "link": "https://dev.to/hackrs_6393/model-generated-github-actions-need-a-permission-gate-5570",
-   "date": "2026-08-17T05:00:47.000Z",
+   "title": "Blood in Vomit: Causes, Warning Signs & When It Could Be Esophageal Cancer",
+   "link": "https://dev.to/dr_harshvardhanatreya_18/blood-in-vomit-causes-warning-signs-when-it-could-be-esophageal-cancer-2a38",
+   "date": "2026-08-17T11:03:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A model can write a valid GitHub Actions workflow that still leaks a secret. Lint the syntax, then gate the permissions. Most checks on model-generated YAML stop at syntax. A workflow can parse cleanly, pass actionlint, ",
+   "summary": "Blood in vomit can be frightening, but it does not always mean cancer. There are several possible causes, including stomach ulcers, gastritis, severe or repeated vomiting, esophageal tears, acid-related irritation, esoph",
    "image": null
   },
   {
-   "title": "Your Cron Job Exits 0 and Does Nothing: Reading Chrome's Cookie SQLite to Know If a Session Is Actually Alive",
-   "link": "https://dev.to/bokuwalily/your-cron-job-exits-0-and-does-nothing-reading-chromes-cookie-sqlite-to-know-if-a-session-is-3c55",
-   "date": "2026-08-17T05:00:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An automation job can fail for days without making a single sound. Mine did: one Instagram lane ran twelve times a day, logged \"done\" every time, raised zero errors — and liked exactly nothing. This post is about that fa",
+   "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+   "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+   "date": "2026-08-17T09:29:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
+  },
+  {
+   "title": "Gabriele Bartolini: CNPG Recipe 27 - Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+   "link": "https://postgr.es/p/9sq",
+   "date": "2026-08-17T08:48:42.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A walkthrough of running OpenBao on Kubernetes with CloudNativePG as its PostgreSQL storage backend. Every layer of this stack is open source, with no vendor lock-in: Kubernetes and CloudNativePG are both CNCF projects, ",
    "image": null
+  },
+  {
+   "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+   "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+   "date": "2026-08-17T07:36:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: jit_above_cost, jit_inline_above_cost, and jit_optimize_above_cost",
@@ -212,6 +242,26 @@
    "image": null
   },
   {
+   "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+   "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+   "date": "2026-08-15T08:38:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s1600/sap-flaw.jpg"
+  },
+  {
+   "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+   "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+   "date": "2026-08-15T07:24:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in ques",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg"
+  },
+  {
    "title": "Northern Gannet",
    "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
    "date": "2026-08-15T03:22:00.000Z",
@@ -242,6 +292,26 @@
    "image": null
   },
   {
+   "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+   "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+   "date": "2026-08-14T18:48:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmsCR51S8-S9Y9cCidbhsmyNlysPzNGZkLuFNY8GHiq3mwnVKOcB1hUq_Q7Oz2j6nH61si-eaqq4xouwv2_JsEzEU6eYS2-bL3-dXBwweGAK-3QnhfKZi8MANcdtpg9VTsqaCrB3Jog3FVUQFV9wtkiQkB6sSVyMclXHwxBXPFjHput_haLnTmH03kq6E/s1600/domains.jpg"
+  },
+  {
+   "title": "IAM Compliance Requirements and Best Practices",
+   "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+   "date": "2026-08-14T17:19:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains wh",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtCfpJQBf2uorUk8jQiK_Cpzh2QLElku5-T5DS6dLc9iV3XA5w1fsd7F9aiCv1gMYri3jEogBTuyYaiSzgdBhvDxWSN_1X1Q-AZkr3u5QBBvzzvZ_F7mpQdqxy-mXsXC_YuPpikK6nHTLhRy8cwpccEKb3ScMiQ8bGLYw5-NMf8kOcEVCYefsCUgu8LEU/s1600/ORCHID.jpg"
+  },
+  {
    "title": "Palantir: Thirty Years of Palantir",
    "link": "https://www.palantir.net/blog/thirty-years-palantir",
    "date": "2026-08-14T16:42:32.000Z",
@@ -259,16 +329,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Do you like building Postgres extensions? Of course you do! My \"Let's Build a Postgres Extension\" presentation garnered rave reviews at Postgres Conference 2026 in San Jose and PG Data 2026 in Chicago. But what if you di",
-   "image": null
-  },
-  {
-   "title": "Joshua Drake: Parquet and Iceberg: An Overview",
-   "link": "https://postgr.es/p/9sh",
-   "date": "2026-08-14T15:06:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A pile of containers is not a shipment. A shipment is containers plus a manifest.Apache Iceberg is the manifest. It is not a file format, it is a table format: a metadata layer that records exactly which Parquet files ma",
    "image": null
   },
   {
@@ -290,6 +350,26 @@
    "source": "CSS-Tricks",
    "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
    "image": null
+  },
+  {
+   "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+   "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+   "date": "2026-08-14T13:08:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, f",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHhYwJerhs2kJO7Sh0FJfEt7_JpkOEbB1ccWjSpSyfvWWDf7waLVr1TMU9Cj-_jdAQ7bDAX0gV2Bt4Sqv1Zx4K8PJgObOX3nt1bVT5YClAvKbvyBovpcIFwpQ66fhzEqi69CJj9er_L5Z4YGDzGAPkUaWiOm6gway77Fkn5sf_-vJucFzQAZRmNiCqlzU/s1600/windows-rootkit.jpg"
+  },
+  {
+   "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+   "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+   "date": "2026-08-14T11:07:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access co",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg"
   },
   {
    "title": "The Drop Times: TDT August Open Townhall Scheduled for 19 August 2026",
@@ -422,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-   "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-   "date": "2026-08-13T06:09:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg"
-  },
-  {
    "title": "Pause All Laravel Queues During a Deploy",
    "link": "https://laravel-news.com/laravel-pause-all-queues?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-13T03:56:00.000Z",
@@ -462,16 +532,6 @@
    "image": null
   },
   {
-   "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-   "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-   "date": "2026-08-12T17:39:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
-  },
-  {
    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
    "date": "2026-08-12T16:14:36.000Z",
@@ -480,16 +540,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-   "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-   "date": "2026-08-12T14:09:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg"
   },
   {
    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
@@ -520,56 +570,6 @@
    "source": "Codrops",
    "summary": "A step-by-step tutorial on turning a simple icosahedron into a dynamic, interactive 3D cluster using Three.js, TSL, WebGPU, noise, interaction, and post-processing.",
    "image": null
-  },
-  {
-   "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-   "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-   "date": "2026-08-12T11:47:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg"
-  },
-  {
-   "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-   "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-   "date": "2026-08-12T11:41:34.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
-  },
-  {
-   "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-   "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-   "date": "2026-08-12T11:13:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
-  },
-  {
-   "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-   "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-   "date": "2026-08-12T09:01:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8),",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
-  },
-  {
-   "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-   "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-   "date": "2026-08-12T08:04:52.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg"
   },
   {
    "title": "Five CSS properties for eye-catching text designs",
