@@ -1,55 +1,125 @@
 {
- "generatedAt": "2026-08-17T23:33:54.069Z",
+ "generatedAt": "2026-08-18T05:41:53.620Z",
  "articles": [
   {
-   "title": "Horizontal vs Vertical Scaling: A Jedi's Guide",
-   "link": "https://dev.to/timevolt/horizontal-vs-vertical-scaling-a-jedis-guide-1nkj",
-   "date": "2026-08-17T23:22:04.000Z",
+   "title": "AI Robots.txt vs Standard Robots.txt: What Modern Webmasters Must Know in 2026",
+   "link": "https://dev.to/willsun/ai-robotstxt-vs-standard-robotstxt-what-modern-webmasters-must-know-in-2026-351o",
+   "date": "2026-08-18T05:14:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Ever felt like your app is a tiny hobbit trying to carry the One Ring up Mount Doom while the traffic keeps growing like a horde of orcs? I’ve been there. A few months ago I was maintaining a",
+   "summary": "For nearly 30 years, the Robots Exclusion Protocol (robots.txt) was simple: you allowed Googlebot and Bingbot to crawl your public pages, blocked your private staging environments, and called it a day. In 2026, the rise ",
    "image": null
   },
   {
-   "title": "Self-Healing Software Development: Automating Code Generation, Testing, and Fixing with Solon AI Loop Engine",
-   "link": "https://dev.to/solonjava/self-healing-software-development-automating-code-generation-testing-and-fixing-with-solon-ai-856",
-   "date": "2026-08-17T22:44:39.000Z",
+   "title": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-betting-on-one-path-practical-multipath-tcp-mptcp-on-linux-133j",
+   "date": "2026-08-18T05:03:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Software agents are transitioning from stateless assistants to autonomous, loop-driven operators. While generating boilerplate code is easy, the real challenge in software engineering is maintaining correctness: resolvin",
+   "summary": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux Most Linux TCP sessions still die with the path they started on. Cable unplugged, LTE handoff, or a flaky ISP hop later, the socket is gone — even if ano",
    "image": null
   },
   {
-   "title": "Static Review Is Not a Runtime Guarantee: Diff the Shape of an AI-Managed Server Before You Accept It",
-   "link": "https://dev.to/github_7727/static-review-is-not-a-runtime-guarantee-diff-the-shape-of-an-ai-managed-server-before-you-accept-m2j",
-   "date": "2026-08-17T22:02:49.000Z",
+   "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
+   "link": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
+   "date": "2026-08-18T05:00:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The position I want to argue is unambiguous: when an AI model writes or edits a systemd service on a Linux server, reviewing the generated diff before merge is not enough. A unit file is a set of promises about runtime b",
+   "summary": "Every morning I used to open my logs and ask the same question: did it actually run last night? The scripts always reported success. The articles were sometimes 186 bytes of an error message. This is how I replaced that ",
    "image": null
   },
   {
-   "title": "Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.",
-   "link": "https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7",
-   "date": "2026-08-17T21:54:27.000Z",
+   "title": "Opinion: Free Model Access Should Make systemd Drafts Disposable",
+   "link": "https://dev.to/github_7727/opinion-free-model-access-should-make-systemd-drafts-disposable-4474",
+   "date": "2026-08-18T04:58:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Twenty-three minutes before the measurement below, we published a piece arguing that a human approval gate is usually not judgment. It is a lookup somebody never automated. Our example was the gate in front of publishing",
+   "summary": "Free model access and a free server change the economics of infrastructure automation in one specific way: the cost of producing a draft drops close to zero, so the sensible workflow shifts from crafting a single careful",
    "image": null
   },
   {
-   "title": "5 Top 8 Sites to Buy old Gmail Accounts (Aged or New) in ...",
-   "link": "https://dev.to/lexiebrandtys83m/5-top-8-sites-to-buy-old-gmail-accounts-aged-or-new-in--2824",
-   "date": "2026-08-17T21:39:05.000Z",
+   "title": "Which Blockchain Certification Is Best for Beginners Without a Programming Background?",
+   "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-beginners-without-a-programming-background-1lmg",
+   "date": "2026-08-18T04:47:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Naver Accounts: Complete Security, Privacy & Account Management Guide usadigitalhubsell@gmail.com https://usadigitalhub.com/product/buy-old-gmail-accounts/ Meta Description: Discover important information about o",
+   "summary": "Blockchain technology has expanded far beyond cryptocurrency. Today, professionals in finance, business, consulting, compliance, project management, and technology are exploring blockchain and Web3 opportunities. However",
    "image": null
+  },
+  {
+   "title": "\"Your cron job isn't broken. It never even started.\"",
+   "link": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
+   "date": "2026-08-18T04:40:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You've spent 40 minutes staring at a crontab line that looks perfect. The command works when you paste it into the terminal. But cron never fires it. Before you blame the scheduler, hear the sentence every sysadmin event",
+   "image": null
+  },
+  {
+   "title": "Your proxy returned 200 OK and the wrong country's data",
+   "link": "https://dev.to/devil_scrapes/your-proxy-returned-200-ok-and-the-wrong-countrys-data-n4g",
+   "date": "2026-08-18T04:32:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The worst scraping bug we have shipped did not throw an exception. It returned HTTP 200, a full page of well-formed listings, every field populated, every assertion green — and the data was from the wrong country. A rota",
+   "image": null
+  },
+  {
+   "title": "decentralized universal computer: every machine is a folder under /",
+   "link": "https://dev.to/rishabh_kharyal_5d4e2610b/decentralized-universal-computer-every-machine-is-a-folder-under--3bco",
+   "date": "2026-08-18T04:30:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every folder is a computer. cd into a folder is the same as cd into a / → contains all computers cd /sanjeev → the moment you are inside someone else's namespace, { echo 'cmd=python3 train.py'; cat } team/run/new Pool me",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: jit_debugging_support, jit_dump_bitcode, and jit_profiling_support",
+   "link": "https://postgr.es/p/9sy",
+   "date": "2026-08-18T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Inspect the LLVM bitcode PostgreSQL generates with `jit_dump_bitcode`, or wire JIT-compiled functions into GDB and perf with `jit_debugging_support` and…",
+   "image": null
+  },
+  {
+   "title": "Ajin Cherian: Failover slot synchronization in PostgreSQL",
+   "link": "https://postgr.es/p/9sx",
+   "date": "2026-08-18T00:43:04.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "High availability is essential for logical replication environments, but until recently, failover could still leave subscribers disconnected from the replication slots they depend on. PostgreSQL 17 addressed this by intr",
+   "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-failover-slot-synchronization-in-postgresql.jpg"
+  },
+  {
+   "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+   "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+   "date": "2026-08-17T23:58:14.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSee",
+   "image": null
+  },
+  {
+   "title": "Laravel Lock: Distributed Locks for Models and Routes",
+   "link": "https://laravel-news.com/laravel-lock?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-17T22:45:56.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Lock scopes distributed locks to Eloquent models and routes in Laravel apps, with a fluent builder, middleware, and cache or database storage. The post Laravel Lock: Distributed Locks for Models and Routes appear",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Lock-LN.png"
   },
   {
    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -62,34 +132,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
   },
   {
-   "title": "Velocity Micro Raptor Z55i (2026): Compact Dev Rig Review",
-   "link": "https://dev.to/thomas_woodfin_3a4efcd491/velocity-micro-raptor-z55i-2026-compact-dev-rig-review-1cp9",
-   "date": "2026-08-17T21:00:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "*The Velocity Micro Raptor Z55i proves that a small form factor desktop doesn't have to sacrifice thermal headroom for compile-heavy developer workloads. * For years, engineering teams treated SFF PCs as second-class cit",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.%2520unsplash%2C.%2520And%2520com%2Fphoto-placeholderw%3D800"
-  },
-  {
-   "title": "Deploy Your Angular App with AWS S3 & CloudFront: A Fast, Cost-Effective Guide",
-   "link": "https://dev.to/juhisri02/deploy-your-angular-app-with-aws-s3-cloudfront-a-fast-cost-effective-guide-35if",
-   "date": "2026-08-17T20:42:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Deploying your Angular application to the cloud is a crucial step in sharing your work with the world. AWS offers a reliable and scalable way to host your app with minimal cost and effort — especially using ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flgmh34er4eo52de7dgm1.png"
-  },
-  {
-   "title": "How I Trained a 193K-Pair MoE Model on a 4-Core Laptop Without a GPU (Introducing QNME-Omega)",
-   "link": "https://dev.to/susantabanik/how-i-trained-a-193k-pair-moe-model-on-a-4-core-laptop-without-a-gpu-introducing-qnme-omega-1ipp",
-   "date": "2026-08-17T20:32:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The AI Hardware Bottleneck Deep learning development often feels gated by expensive hardware. Training modern Transformer or Mixture-of-Experts (MoE) architectures typically requires dedicated high-VRAM GPUs. Attempting ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pz9hqv8a81zm41i7pkd.png"
+   "title": "uzair aslam: How to Prevent Duplicate Form Submissions in Next.js with Idempotency Keys",
+   "link": "https://postgr.es/p/9sz",
+   "date": "2026-08-17T20:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A production-ready approach to preventing duplicate leads and side effects with stable idempotency keys, PostgreSQL constraints, transactional outbox events, safe retries, and reconciliation. A visitor fills out a form, ",
+   "image": "https://cdn.sanity.io/images/dis8yhkz/production/065da1afe5ded86b83d3a9b314048c4657a55a3f-1536x1024.png"
   },
   {
    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -130,6 +180,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecur",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
+  },
+  {
+   "title": "Joachim's blog: Making Entity Pager module API-first",
+   "link": "http://www.noreiko.com/blog/making-entity-pager-module-api-first",
+   "date": "2026-08-17T16:45:12.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Making Entity Pager module API-first It's funny how big ideas start. I am doing some maintenance work on the Entity Pager module, which has been fixing bugs, improving the tests, and so on. And because Computed Field is ",
+   "image": null
   },
   {
    "title": "Percona University Comes to Uruguay",
@@ -282,16 +342,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/NativePHP-v4-SuperNative-LN.png"
   },
   {
-   "title": "Laravel Lock: Distributed Locks for Models and Routes",
-   "link": "https://laravel-news.com/laravel-lock?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-17T03:31:56.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Lock scopes distributed locks to Eloquent models and routes in Laravel apps, with a fluent builder, middleware, and cache or database storage. The post Laravel Lock: Distributed Locks for Models and Routes appear",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Lock-LN.png"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: jit_above_cost, jit_inline_above_cost, and jit_optimize_above_cost",
    "link": "https://postgr.es/p/9sp",
    "date": "2026-08-17T01:00:00.000Z",
@@ -319,36 +369,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Postgres 19 adds SQL/PGQ graph queries. Measured against a PostgreSQL 19beta1 build, the fixed-depth graph query compiles to the exact same plan as a hand-written join, and the variable-depth traversal that graph databas",
-   "image": null
-  },
-  {
-   "title": "Alexander Ioffe: JSONB Paths or GIN or Columns?",
-   "link": "https://postgr.es/p/9su",
-   "date": "2026-08-17T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Columns beat JSONB+GIN at everything except multi-key containment on PostgreSQL 17",
-   "image": null
-  },
-  {
-   "title": "Alexander Ioffe: What Does a Covering Index Cost You?",
-   "link": "https://postgr.es/p/9st",
-   "date": "2026-08-17T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "'Covering indexes hurt your writes' is an architectural maxim with no number attached. Here is the number: +28% on INSERTs, +25% on UPDATEs, 1.26x faster reads, and covering wins below ~4,300 writes per analytical read. ",
-   "image": null
-  },
-  {
-   "title": "Maki Majima: What Flyway validate actually checks",
-   "link": "https://postgr.es/p/9sr",
-   "date": "2026-08-17T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Tool capabilities and edition boundaries described here are accurate as of publication. Both vendors move these lines; check current documentation before making decisions based on this post. There’s a specific moment thi",
    "image": null
   },
   {
@@ -472,16 +492,6 @@
    "image": "https://www.palantir.net/files/styles/hero/public/hero/2026-08/30_years_blog_0.png?h=c74750f6&amp;itok=idZ0Vm2W"
   },
   {
-   "title": "Jacob Rockowitz: Vibing Drupal: Losing my skills",
-   "link": "https://www.jrockowitz.com/blog/vibing-drupal-losing-my-skills",
-   "date": "2026-08-14T14:41:27.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "I know this blog post's title implies losing my (programming) skills, and I will gladly address my feelings about how agentic coding has caused my problem-solving and coding to atrophy from lack of use. The main focus of",
-   "image": null
-  },
-  {
    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
    "link": "https://css-tricks.com/whats-important-17/",
    "date": "2026-08-14T14:01:51.000Z",
@@ -499,16 +509,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "sqlite-utils 4.2.1",
-   "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
-   "date": "2026-08-13T23:53:47.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2 . I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependen",
    "image": null
   },
   {
