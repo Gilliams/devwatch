@@ -1,84 +1,174 @@
 {
- "generatedAt": "2026-08-18T11:36:35.698Z",
+ "generatedAt": "2026-08-18T17:38:51.006Z",
  "articles": [
   {
-   "title": "Cloud Security Misconfigurations: Common Problems and How to Prevent Them",
-   "link": "https://dev.to/ronak_sharma_913570f6e215/cloud-security-misconfigurations-common-problems-and-how-to-prevent-them-2fln",
-   "date": "2026-08-18T11:30:09.000Z",
+   "title": "I Am Toolkit. I Put the Full Node on Your Server, Not a Badge on an Empty Ledger.",
+   "link": "https://dev.to/rpcnode/i-am-toolkit-i-put-the-full-node-on-your-server-not-a-badge-on-an-empty-ledger-2i80",
+   "date": "2026-08-18T17:34:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Nearly every major cloud breach in the last several years traces back to a misconfiguration, not a novel exploit. That's not really news at this point — it's been true consistently for long enough that it should have sto",
+   "summary": "I am RpcNode Toolkit. I am not a hosted RPC URL and I am not a light wallet. I am a control plane you install on machines you already own. You give me an Ubuntu 24.04 LTS server. I give you a full-history node you can op",
    "image": null
   },
   {
-   "title": "Three Ways to Monitor Prepaid API Balances (Excel, Python + Cron, Power Automate)",
-   "link": "https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja",
-   "date": "2026-08-18T11:14:57.000Z",
+   "title": "tcpdump for DevOps: Read a TCP Handshake and Stop Guessing",
+   "link": "https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f",
+   "date": "2026-08-18T17:07:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you run a platform that depends on prepaid APIs, SMS gateways, identity verification, and airtime, you already know the failure mode. The wallet runs dry at 2am, verifications start failing, and nobody notices until a",
+   "summary": "When a service \"can't connect,\" the app logs and the network rarely tell the same story. tcpdump settles the argument: it shows what actually went over the wire, not what the client library claims happened. Learning to r",
    "image": null
   },
   {
-   "title": "The 6 security headers your launch is probably missing — and the one-line fix for each",
-   "link": "https://dev.to/amitfeldman/the-6-security-headers-your-launch-is-probably-missing-and-the-one-line-fix-for-each-3lkc",
-   "date": "2026-08-18T11:03:58.000Z",
+   "title": "strace in production: when your process won't start and logs say nothing",
+   "link": "https://dev.to/schiff_heimlich/strace-in-production-when-your-process-wont-start-and-logs-say-nothing-4gpb",
+   "date": "2026-08-18T17:03:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I run a passive launch-readiness scan on freshly launched products every day. Public response headers and homepage HTML only — exactly what any visitor's browser sees on first load. Across the last two scan roundups I pu",
+   "summary": "You know the situation. A service starts, sits there, and produces exactly zero log lines before eventually timing out. You've checked the config, the permissions, the env vars. Nothing. This is where strace earns its pl",
    "image": null
   },
   {
-   "title": "5 Pitfalls in a Morning Repo Audit: launchd, bash 3.2, and Silent Failures on macOS",
-   "link": "https://dev.to/bokuwalily/5-pitfalls-in-a-morning-repo-audit-launchd-bash-32-and-silent-failures-on-macos-1l2e",
-   "date": "2026-08-18T11:00:11.000Z",
+   "title": "Buy BBB Reviews - 100% Safe, BBB Customer Rating",
+   "link": "https://dev.to/lorneburnsidez0e51/buy-bbb-reviews-100-safe-bbb-customer-rating-1l5c",
+   "date": "2026-08-18T16:49:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I got laid off, and my monthly revenue went to zero overnight. All I had left was a handful of personal repositories. Six months later that number was back up to ¥1.2M/month — and not because I started writing more code.",
+   "summary": "Buy BBB Reviews progmb.contact@gmail.com https://www.progmb.com/product/buy-bbb-reviews/ Buy BBB Reviews. BBB reviews can provide valuable insight into a business’s reputation and customer service. However, it’s importan",
    "image": null
   },
   {
-   "title": "One repo, one day: 4 CI guards that were green and blind",
-   "link": "https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge",
-   "date": "2026-08-18T10:26:28.000Z",
+   "title": "46 Best Sites to Buy Negative Google Reviews 2026",
+   "link": "https://dev.to/lorneburnsidez0e51/46-best-sites-to-buy-negative-google-reviews-2026-3j1e",
+   "date": "2026-08-18T16:43:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Guards that stopped guarding Your test suite proves your code works. Nothing in your repository proves your checks still work. We had a bad day. Not a dramatic one — nothing went down, no customer noticed. Just a day whe",
+   "summary": "Buy Negative Google Reviews: A Strategic Approach to Increase Business Credibility progmb.contact@gmail.com https://www.progmb.com/product/buy-negative-google-reviews/ Buy negative Google reviews may sound bad, but if us",
    "image": null
   },
   {
-   "title": "Evaluate the Exit, Not the Entry: Auditing Hosting Platforms by What It Costs to Leave",
-   "link": "https://dev.to/suewang/evaluate-the-exit-not-the-entry-auditing-hosting-platforms-by-what-it-costs-to-leave-4g1i",
-   "date": "2026-08-18T10:26:06.000Z",
+   "title": "RBAC for AI: Governing the AI Control Plane",
+   "link": "https://dev.to/kenwalger/rbac-for-ai-governing-the-ai-control-plane-e59",
+   "date": "2026-08-18T16:43:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every hosting comparison I've ever read — including ones I've written — is organized around the cost of arriving. Monthly price, included features, what the entry tier gets you. That's the number the vendor chose to publ",
+   "summary": "Giving someone access to the AI control plane is not the same as deciding which parts of it they are allowed to control. The previous post described virtual keys as the runtime representation of a governance decision. A ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyndb35hejdtxecomitmm.png"
+  },
+  {
+   "title": "Top 25 Sites to Buy Yelp Reviews (Elite) for Experts ...",
+   "link": "https://dev.to/lorneburnsidez0e51/top-25-sites-to-buy-yelp-reviews-elite-for-experts--3j0f",
+   "date": "2026-08-18T16:37:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Elite Yelp Reviews progmb.contact@gmail.com https://www.progmb.com/product/buy-elite-yelp-reviews/ Buy Elite Yelp Reviews. Yelp is a popular review platform where customers can share their experiences with businesses",
    "image": null
   },
   {
-   "title": "Why Network Detection and Response (NDR) Matters in Modern Security Operations",
-   "link": "https://dev.to/eternal_3301/why-network-detection-and-response-ndr-matters-in-modern-security-operations-4c5d",
-   "date": "2026-08-18T10:15:11.000Z",
+   "title": "Buy Google Reviews Online that Stick - 5 Star Ratings",
+   "link": "https://dev.to/lorneburnsidez0e51/buy-google-reviews-online-that-stick-5-star-ratings-48k6",
+   "date": "2026-08-18T16:31:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Modern attacks don't always look like attacks. An attacker can use valid credentials, legitimate administrative tools, normal network protocols, and compromised infrastructure without immediately triggering a traditional",
+   "summary": "Buy Google 5-Star Reviews—Boost Your Business Reputation Today progmb.contact@gmail.com https://www.progmb.com/product/buy-google-5-star-reviews/ In today’s highly competitive online marketplace, establishing a strong an",
    "image": null
   },
   {
-   "title": "PRO Services in UAE",
-   "link": "https://dev.to/digital_project_c4b09c007/pro-services-in-uae-29jd",
-   "date": "2026-08-18T10:05:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Looking for reliable support with government documentation, business licensing, visa assistance and corporate administrative processes? FlexBiz Advisory provides professional PRO services designed to simplify your busine",
+   "title": "Joshua Drake: PgColumnar 1.0Alpha2 released",
+   "link": "https://postgr.es/p/9sC",
+   "date": "2026-08-18T16:08:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Release date: 2026-08-18Previous release: 1.0-alpha (2026-08-04)GithubChangelogpgColumnar is a columnar table access method for PostgreSQL. This is the second alpha. It adds read-only Apache Iceberg support, reads and wr",
+   "image": null
+  },
+  {
+   "title": "Fragments: August 18",
+   "link": "https://martinfowler.com/fragments/2026-08-18.html",
+   "date": "2026-08-18T15:04:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little apti",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Kristen Pol Explains How Drupal’s Context Control Center Governs AI Context",
+   "link": "https://www.thedroptimes.com/interview/71806/kristen-pol-drupal-context-control-center?utm_source=Drupal Planet",
+   "date": "2026-08-18T14:24:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal teams can govern the context supplied to AI agents, but they cannot make model behaviour deterministic. Kristen Pol explains why that distinction matters when evaluating CCC for policy-sensitive and production-fac",
+   "image": null
+  },
+  {
+   "title": "Building an Animated Testimonial Hero Using the GSAP Timeline and Dynamic CMS Data",
+   "link": "https://tympanus.net/codrops/2026/08/18/building-an-animated-testimonial-hero-using-the-gsap-timeline-and-dynamic-cms-data/",
+   "date": "2026-08-18T13:39:35.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Learn how to build a dynamic testimonial hero in Webflow using CMS data, a custom JavaScript counter, and GSAP’s visual timeline.",
+   "image": null
+  },
+  {
+   "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+   "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+   "date": "2026-08-18T12:38:36.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
+  },
+  {
+   "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+   "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+   "date": "2026-08-18T12:38:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg"
+  },
+  {
+   "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+   "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+   "date": "2026-08-18T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
+  },
+  {
+   "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+   "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+   "date": "2026-08-18T11:20:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
+  },
+  {
+   "title": "Specbee: How to use AI for Drupal SEO: Internal Linking explained",
+   "link": "https://www.specbee.com/blogs/ai-for-drupal-seo-internal-linking",
+   "date": "2026-08-18T10:39:14.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI-powered internal linking in Drupal uses vector search and LLMs to surface relevant links as you write. Read this blog to learn how it works and which modules to use.",
    "image": null
   },
   {
@@ -90,6 +180,16 @@
    "source": "The Hacker News",
    "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wa",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
+  },
+  {
+   "title": "The Drop Times: Agent Skills Share a Format but Not a Distribution Model",
+   "link": "https://www.thedroptimes.com/71574/agent-skills-distribution-conventions?utm_source=Drupal Planet",
+   "date": "2026-08-18T08:11:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A portable SKILL.md file does not guarantee portable installation. Drupal now has Composer-aware skill aggregation, while its maintainers are debating how much distribution logic belongs in Drupal rather than the wider A",
+   "image": null
   },
   {
    "title": "Dimitri Fontaine: Introducing YeSQL: Practical PostgreSQL, One Concept at a Time",
@@ -142,6 +242,36 @@
    "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-failover-slot-synchronization-in-postgresql.jpg"
   },
   {
+   "title": "Laravel Chores: Resumable Data Operations and Cleanups",
+   "link": "https://laravel-news.com/laravel-chores?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-18T00:37:09.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Chores runs backfills, cleanups, and purges in checkpointed batches that survive deploys and crashes, then resumes where it left off. The post Laravel Chores: Resumable Data Operations and Cleanups appeared first",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-chores-featured.png"
+  },
+  {
+   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+   "link": "https://huggingface.co/blog/multi-vector-encoder",
+   "date": "2026-08-18T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Cheppers: ExperienceKit: Drupal Single Directory Components - What Your Pages Are Actually Made Of",
+   "link": "https://cheppers.com/post/experiencekit-drupal-single-directory-components",
+   "date": "2026-08-18T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Single Directory Components (SDC) are the biggest change to Drupal theming in a decade, and one of the quietest. There was no page-builder launch, no new screen to learn, just a simple answer to a question Drupal front-e",
+   "image": null
+  },
+  {
    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
    "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
    "date": "2026-08-17T23:58:14.000Z",
@@ -160,6 +290,16 @@
    "source": "Laravel News",
    "summary": "Laravel Lock scopes distributed locks to Eloquent models and routes in Laravel apps, with a fluent builder, middleware, and cache or database storage. The post Laravel Lock: Distributed Locks for Models and Routes appear",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Lock-LN.png"
+  },
+  {
+   "title": "Lerd: A Free, Open Source Herd Alternative for Linux and macOS",
+   "link": "https://laravel-news.com/lerd?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-17T22:44:10.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Lerd is a free, MIT-licensed local development environment for Linux and macOS: automatic .test domains, per-project PHP isolation, a built-in dashboard, and an MCP server for AI assistants. No Docker Desktop required. T",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/lerd-featured.png"
   },
   {
    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -200,26 +340,6 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
-  },
-  {
-   "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-   "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-   "date": "2026-08-17T18:22:09.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulne",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
-  },
-  {
-   "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-   "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-   "date": "2026-08-17T17:41:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecur",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
   },
   {
    "title": "Joachim's blog: Making Entity Pager module API-first",
@@ -272,16 +392,6 @@
    "image": null
   },
   {
-   "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-   "date": "2026-08-17T13:23:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading fart",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
-  },
-  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -322,16 +432,6 @@
    "image": null
   },
   {
-   "title": "How MCP Servers Can Expose Enterprise Secrets",
-   "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-   "date": "2026-08-17T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
-  },
-  {
    "title": "The Drop Times: Open-Weight AI Is Reopening an Old Web Question",
    "link": "https://www.thedroptimes.com/newsletter/open-weight-ai-open-web-control?utm_source=Drupal Planet",
    "date": "2026-08-17T10:16:32.000Z",
@@ -339,16 +439,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Last week’s AI releases put a familiar question back into view: who controls the technology that digital systems depend on? On 10 August 2026, Meta released Muse Glimmer, a 30-billion-parameter model optimised for local ",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: The software business after code scarcity",
-   "link": "https://dri.es/the-software-business-after-code-scarcity",
-   "date": "2026-08-17T09:35:44.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "If AI can generate an application from a description, is software still worth anything? I have lived with a version of that question longer than most. I released Drupal for free more than twenty-five years ago, and later",
    "image": null
   },
   {
@@ -362,6 +452,16 @@
    "image": null
   },
   {
+   "title": "Let's Encrypt HTTPS on an IP Address With FrankenPHP",
+   "link": "https://laravel-news.com/frankenphp-https-ip-address?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-17T03:34:12.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "serversideup/php v4.6.0-beta1 adds CADDY_ACME_PROFILE, so a FrankenPHP container can get a Let's Encrypt certificate for a raw IP address. The post Let's Encrypt HTTPS on an IP Address With FrankenPHP appeared first on L",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/HTTPS-on-an-IP-Address-With FrankenPHP-LN.png"
+  },
+  {
    "title": "NativePHP v4: Build Native iOS and Android UI in Blade",
    "link": "https://laravel-news.com/nativephp-v4-supernative?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-17T03:33:05.000Z",
@@ -370,16 +470,6 @@
    "source": "Laravel News",
    "summary": "NativePHP v4 renders Blade components as real SwiftUI and Jetpack Compose views with no web view. Here is what SuperNative changes, plus how to upgrade. The post NativePHP v4: Build Native iOS and Android UI in Blade app",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/NativePHP-v4-SuperNative-LN.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: jit_above_cost, jit_inline_above_cost, and jit_optimize_above_cost",
-   "link": "https://postgr.es/p/9sp",
-   "date": "2026-08-17T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's JIT compiler fires based on estimated query cost, but that estimate measures data volume, not expression complexity.",
-   "image": null
   },
   {
    "title": "Markdown SVG upgrades",
@@ -402,16 +492,6 @@
    "image": null
   },
   {
-   "title": "#! code: Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 2",
-   "link": "https://www.hashbangcode.com/article/drupal-11-migrating-jadu-localgov-drupal-part-2",
-   "date": "2026-08-16T18:06:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 2 This is the second article in a series of articles looking at migrating from Jadu into a LocalGov Drupal (LGD) site for Central Bedfordshire. In the first artic",
-   "image": null
-  },
-  {
    "title": "Quoting Dario Amodei",
    "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
    "date": "2026-08-16T15:05:36.000Z",
@@ -419,16 +499,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis ",
-   "image": null
-  },
-  {
-   "title": "Web Wash: Using Webform in Drupal CMS",
-   "link": "https://www.webwash.net/using-webform-in-drupal-cms/",
-   "date": "2026-08-16T14:59:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Webform is the most popular module for building forms in Drupal. You can use it for a simple contact form or for a long form with conditional logic, file uploads, and email alerts. Either way, you build the whole thing f",
    "image": null
   },
   {
@@ -440,16 +510,6 @@
    "source": "Symfony Blog",
    "summary": "This week, development activity for the upcoming Symfony 8.2 release was very intense: PropertyInfo made accessors and mutators configurable with attributes, HttpFoundation added targeted Cache-Control support conforming",
    "image": null
-  },
-  {
-   "title": "A Drupal Couple: Watching someone not need a developer",
-   "link": "https://www.adrupalcouple.us/watching-someone-not-need-developer",
-   "date": "2026-08-16T00:48:04.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Watching someone not need a developer Imagen A man who runs an insurance agency showed me software he built himself, after paying a development company for months and getting nothing. I sat there listing everything that ",
-   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/toolbox-a.png.webp?itok=__iO-Xoy"
   },
   {
    "title": "CORS Chat",
@@ -562,26 +622,6 @@
    "image": null
   },
   {
-   "title": "Pause All Laravel Queues During a Deploy",
-   "link": "https://laravel-news.com/laravel-pause-all-queues?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-13T03:56:00.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.25 adds queue:pause --all and Queue::pauseAll() to stop job processing on every connection without putting the app in maintenance mode. The post Pause All Laravel Queues During a Deploy appeared first on Larav",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pause-all-laravel-queues-featured.png"
-  },
-  {
-   "title": "Laravel Image Responses: Serve Resized Images From Routes",
-   "link": "https://laravel-news.com/laravel-image-responses?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-13T00:38:56.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.25 lets you return an Image straight from a route. Build on-the-fly resize endpoints with fromStream, toFormat, and cache headers. The post Laravel Image Responses: Serve Resized Images From Routes appeared fi",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-image-responses-featured.png"
-  },
-  {
    "title": "What We Learned by Reproducing 2,200 papers from ICML",
    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
    "date": "2026-08-13T00:00:00.000Z",
@@ -642,16 +682,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
   },
   {
-   "title": "Laravel Terminal UI for the artisan dev Command",
-   "link": "https://laravel-news.com/artisan-dev-terminal-ui?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-11T22:47:42.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.25 runs artisan dev through @laravel/multiplex, putting each process in its own tab with search, per-process restart, and timestamps. The post Laravel Terminal UI for the artisan dev Command appeared first on ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-tui-featured.png"
-  },
-  {
    "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
    "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
    "date": "2026-08-11T18:00:00.000Z",
@@ -709,16 +739,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
-   "image": null
-  },
-  {
-   "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-   "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-   "date": "2026-08-10T16:25:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -800,16 +820,6 @@
    "source": "Percona Blog",
    "summary": "Percona Search for MongoDB is Percona’s downstream distribution of mongot, the search engine that provides MongoDB’s full-text and vector search capabilities. With this addition, you can power your applications with AI a",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
-  },
-  {
-   "title": "The Department Is Open: Building the PX PUSH Website",
-   "link": "https://tympanus.net/codrops/2026/08/07/the-department-is-open-building-the-px-push-website/",
-   "date": "2026-08-07T14:38:08.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "How a design subscription studio built its website around a single governing idea: an old, always-on machine, running underneath a modern Nuxt and Three.js stack.",
-   "image": null
   },
   {
    "title": "Using and Styling the Dialog Element",
@@ -1109,16 +1119,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
-   "image": null
-  },
-  {
-   "title": "The Archaeologist’s Copilot",
-   "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
-   "date": "2026-07-16T13:25:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "When people think of legacy modernization, most folks aren't imagining the target environment will be Java 8. But this was the challenge facing Nik Malykhin when he needed to run a Java 1.5 codebase on today's hardware. ",
    "image": null
   },
   {
