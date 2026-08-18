@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-08-18T05:41:53.620Z",
+ "generatedAt": "2026-08-18T11:36:35.698Z",
  "articles": [
   {
-   "title": "AI Robots.txt vs Standard Robots.txt: What Modern Webmasters Must Know in 2026",
-   "link": "https://dev.to/willsun/ai-robotstxt-vs-standard-robotstxt-what-modern-webmasters-must-know-in-2026-351o",
-   "date": "2026-08-18T05:14:49.000Z",
+   "title": "Cloud Security Misconfigurations: Common Problems and How to Prevent Them",
+   "link": "https://dev.to/ronak_sharma_913570f6e215/cloud-security-misconfigurations-common-problems-and-how-to-prevent-them-2fln",
+   "date": "2026-08-18T11:30:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For nearly 30 years, the Robots Exclusion Protocol (robots.txt) was simple: you allowed Googlebot and Bingbot to crawl your public pages, blocked your private staging environments, and called it a day. In 2026, the rise ",
+   "summary": "Nearly every major cloud breach in the last several years traces back to a misconfiguration, not a novel exploit. That's not really news at this point — it's been true consistently for long enough that it should have sto",
    "image": null
   },
   {
-   "title": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-betting-on-one-path-practical-multipath-tcp-mptcp-on-linux-133j",
-   "date": "2026-08-18T05:03:02.000Z",
+   "title": "Three Ways to Monitor Prepaid API Balances (Excel, Python + Cron, Power Automate)",
+   "link": "https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja",
+   "date": "2026-08-18T11:14:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stop Betting on One Path: Practical Multipath TCP (MPTCP) on Linux Most Linux TCP sessions still die with the path they started on. Cable unplugged, LTE handoff, or a flaky ISP hop later, the socket is gone — even if ano",
+   "summary": "If you run a platform that depends on prepaid APIs, SMS gateways, identity verification, and airtime, you already know the failure mode. The wallet runs dry at 2am, verifications start failing, and nobody notices until a",
    "image": null
   },
   {
-   "title": "5 Content Lanes, One Watchdog: How I Stopped Wondering If My Automation Still Runs",
-   "link": "https://dev.to/bokuwalily/5-content-lanes-one-watchdog-how-i-stopped-wondering-if-my-automation-still-runs-3fh1",
-   "date": "2026-08-18T05:00:07.000Z",
+   "title": "The 6 security headers your launch is probably missing — and the one-line fix for each",
+   "link": "https://dev.to/amitfeldman/the-6-security-headers-your-launch-is-probably-missing-and-the-one-line-fix-for-each-3lkc",
+   "date": "2026-08-18T11:03:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every morning I used to open my logs and ask the same question: did it actually run last night? The scripts always reported success. The articles were sometimes 186 bytes of an error message. This is how I replaced that ",
+   "summary": "I run a passive launch-readiness scan on freshly launched products every day. Public response headers and homepage HTML only — exactly what any visitor's browser sees on first load. Across the last two scan roundups I pu",
    "image": null
   },
   {
-   "title": "Opinion: Free Model Access Should Make systemd Drafts Disposable",
-   "link": "https://dev.to/github_7727/opinion-free-model-access-should-make-systemd-drafts-disposable-4474",
-   "date": "2026-08-18T04:58:44.000Z",
+   "title": "5 Pitfalls in a Morning Repo Audit: launchd, bash 3.2, and Silent Failures on macOS",
+   "link": "https://dev.to/bokuwalily/5-pitfalls-in-a-morning-repo-audit-launchd-bash-32-and-silent-failures-on-macos-1l2e",
+   "date": "2026-08-18T11:00:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Free model access and a free server change the economics of infrastructure automation in one specific way: the cost of producing a draft drops close to zero, so the sensible workflow shifts from crafting a single careful",
+   "summary": "I got laid off, and my monthly revenue went to zero overnight. All I had left was a handful of personal repositories. Six months later that number was back up to ¥1.2M/month — and not because I started writing more code.",
    "image": null
   },
   {
-   "title": "Which Blockchain Certification Is Best for Beginners Without a Programming Background?",
-   "link": "https://dev.to/georgiaweston/which-blockchain-certification-is-best-for-beginners-without-a-programming-background-1lmg",
-   "date": "2026-08-18T04:47:56.000Z",
+   "title": "One repo, one day: 4 CI guards that were green and blind",
+   "link": "https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge",
+   "date": "2026-08-18T10:26:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Blockchain technology has expanded far beyond cryptocurrency. Today, professionals in finance, business, consulting, compliance, project management, and technology are exploring blockchain and Web3 opportunities. However",
+   "summary": "Guards that stopped guarding Your test suite proves your code works. Nothing in your repository proves your checks still work. We had a bad day. Not a dramatic one — nothing went down, no customer noticed. Just a day whe",
    "image": null
   },
   {
-   "title": "\"Your cron job isn't broken. It never even started.\"",
-   "link": "https://dev.to/developer_tech/your-cron-job-isnt-broken-it-never-even-started-4ag9",
-   "date": "2026-08-18T04:40:43.000Z",
+   "title": "Evaluate the Exit, Not the Entry: Auditing Hosting Platforms by What It Costs to Leave",
+   "link": "https://dev.to/suewang/evaluate-the-exit-not-the-entry-auditing-hosting-platforms-by-what-it-costs-to-leave-4g1i",
+   "date": "2026-08-18T10:26:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've spent 40 minutes staring at a crontab line that looks perfect. The command works when you paste it into the terminal. But cron never fires it. Before you blame the scheduler, hear the sentence every sysadmin event",
+   "summary": "Every hosting comparison I've ever read — including ones I've written — is organized around the cost of arriving. Monthly price, included features, what the entry tier gets you. That's the number the vendor chose to publ",
    "image": null
   },
   {
-   "title": "Your proxy returned 200 OK and the wrong country's data",
-   "link": "https://dev.to/devil_scrapes/your-proxy-returned-200-ok-and-the-wrong-countrys-data-n4g",
-   "date": "2026-08-18T04:32:20.000Z",
+   "title": "Why Network Detection and Response (NDR) Matters in Modern Security Operations",
+   "link": "https://dev.to/eternal_3301/why-network-detection-and-response-ndr-matters-in-modern-security-operations-4c5d",
+   "date": "2026-08-18T10:15:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The worst scraping bug we have shipped did not throw an exception. It returned HTTP 200, a full page of well-formed listings, every field populated, every assertion green — and the data was from the wrong country. A rota",
+   "summary": "Modern attacks don't always look like attacks. An attacker can use valid credentials, legitimate administrative tools, normal network protocols, and compromised infrastructure without immediately triggering a traditional",
    "image": null
   },
   {
-   "title": "decentralized universal computer: every machine is a folder under /",
-   "link": "https://dev.to/rishabh_kharyal_5d4e2610b/decentralized-universal-computer-every-machine-is-a-folder-under--3bco",
-   "date": "2026-08-18T04:30:07.000Z",
+   "title": "PRO Services in UAE",
+   "link": "https://dev.to/digital_project_c4b09c007/pro-services-in-uae-29jd",
+   "date": "2026-08-18T10:05:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every folder is a computer. cd into a folder is the same as cd into a / → contains all computers cd /sanjeev → the moment you are inside someone else's namespace, { echo 'cmd=python3 train.py'; cat } team/run/new Pool me",
+   "summary": "Looking for reliable support with government documentation, business licensing, visa assistance and corporate administrative processes? FlexBiz Advisory provides professional PRO services designed to simplify your busine",
+   "image": null
+  },
+  {
+   "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+   "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+   "date": "2026-08-18T09:10:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wa",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
+  },
+  {
+   "title": "Dimitri Fontaine: Introducing YeSQL: Practical PostgreSQL, One Concept at a Time",
+   "link": "https://postgr.es/p/9sB",
+   "date": "2026-08-18T08:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I’m happy to share something new: YeSQL is live, a free set of 24 short PostgreSQL lessons — one concept, one runnable query, real data, no signup. It’s free to use today, and it’s also a prototype for something I’ve wan",
+   "image": null
+  },
+  {
+   "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+   "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+   "date": "2026-08-18T06:34:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg"
+  },
+  {
+   "title": "Hans-Juergen Schoenig: Highly Available PostgreSQL on Kubernetes in 10 Minutes",
+   "link": "https://postgr.es/p/9sA",
+   "date": "2026-08-18T05:07:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "\"Highly available PostgreSQL\" usually means leader election, streaming replicas, automatic failover, health checks, and a lot of careful wiring. With the CYBERTEC PG Operator (CPO) it means a 14-line YAML file. Here's th",
    "image": null
   },
   {
@@ -272,6 +312,16 @@
    "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/guide/tour.gif"
   },
   {
+   "title": "Salsa Digital: Drupal AI Context — beta 4 released",
+   "link": "/insights/drupal-ai-context-beta-4-released?utm_source=drupalplanet",
+   "date": "2026-08-17T12:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Beta 4 release of Drupal AI Context Beta 4 of Drupal AI Context , also known as Context Control Center (CCC), is now available. CCC helps Drupal sites provide governed, reusable context for AI workflows and agents, from ",
+   "image": null
+  },
+  {
    "title": "How MCP Servers Can Expose Enterprise Secrets",
    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
    "date": "2026-08-17T11:58:00.000Z",
@@ -280,16 +330,6 @@
    "source": "The Hacker News",
    "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
-  },
-  {
-   "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-   "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-   "date": "2026-08-17T10:52:34.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
   },
   {
    "title": "The Drop Times: Open-Weight AI Is Reopening an Old Web Question",
@@ -310,16 +350,6 @@
    "source": "Drupal Planet",
    "summary": "If AI can generate an application from a description, is software still worth anything? I have lived with a version of that question longer than most. I released Drupal for free more than twenty-five years ago, and later",
    "image": null
-  },
-  {
-   "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-   "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-   "date": "2026-08-17T09:29:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
   },
   {
    "title": "Gabriele Bartolini: CNPG Recipe 27 - Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
@@ -349,26 +379,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's JIT compiler fires based on estimated query cost, but that estimate measures data volume, not expression complexity.",
-   "image": null
-  },
-  {
-   "title": "Alexander Ioffe: Why Does PostgreSQL Skip My Index?",
-   "link": "https://postgr.es/p/9sw",
-   "date": "2026-08-17T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "...because your vendor's Cost Model Is from 2002. Since random_page_cost = 4.0 is for spinning disks and hasn't changed in 25 years, setting it to 1.1 cuts this query from 125.98ms to 68.69ms.",
-   "image": null
-  },
-  {
-   "title": "Alexander Ioffe: How Fast Are Postgres 19 Graph Queries? Part 1: What Are They Actually Doing?",
-   "link": "https://postgr.es/p/9sv",
-   "date": "2026-08-17T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres 19 adds SQL/PGQ graph queries. Measured against a PostgreSQL 19beta1 build, the fixed-depth graph query compiles to the exact same plan as a hand-written join, and the variable-depth traversal that graph databas",
    "image": null
   },
   {
@@ -480,16 +490,6 @@
    "source": "Simon Willison",
    "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags ",
    "image": null
-  },
-  {
-   "title": "Palantir: Thirty Years of Palantir",
-   "link": "https://www.palantir.net/blog/thirty-years-palantir",
-   "date": "2026-08-14T16:42:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Thirty Years of Palantir demet Fri, 08/14/2026 - 11:42 What three decades has taught us about what lasts Thirty years ago last month, between my sophomore and junior years of college, I started a company called Palantir ",
-   "image": "https://www.palantir.net/files/styles/hero/public/hero/2026-08/30_years_blog_0.png?h=c74750f6&amp;itok=idZ0Vm2W"
   },
   {
    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
