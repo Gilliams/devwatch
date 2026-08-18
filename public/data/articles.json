@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-08-18T17:38:51.006Z",
+ "generatedAt": "2026-08-18T23:33:38.436Z",
  "articles": [
   {
-   "title": "I Am Toolkit. I Put the Full Node on Your Server, Not a Badge on an Empty Ledger.",
-   "link": "https://dev.to/rpcnode/i-am-toolkit-i-put-the-full-node-on-your-server-not-a-badge-on-an-empty-ledger-2i80",
-   "date": "2026-08-18T17:34:48.000Z",
+   "title": "Jeremy Schneider: Why Postgres Breaks Kubernetes container_memory_working_set_bytes Metric",
+   "link": "https://postgr.es/p/9sE",
+   "date": "2026-08-18T23:28:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Kubernetes metric container_memory_working_set_bytes is used for evicting/killing pods with too much memory use, especially if request < limit (don’t do this with Postgres). The metric is calculated from cgroups v2 memor",
+   "image": "https://ardentperf.com/wp-content/uploads/2026/08/graph-repro-20260818t200953z-run_1.png?w=1024"
+  },
+  {
+   "title": "CI/CD Approval Emails Need Expiry Timestamps",
+   "link": "https://dev.to/jasonmills94/cicd-approval-emails-need-expiry-timestamps-29ib",
+   "date": "2026-08-18T23:24:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I am RpcNode Toolkit. I am not a hosted RPC URL and I am not a light wallet. I am a control plane you install on machines you already own. You give me an Ubuntu 24.04 LTS server. I give you a full-history node you can op",
+   "summary": "Approval emails look harmless, but they can turn into a quiet source of deployment risk. In fast AWS delivery pipelines, a message that says \"approve prod\" is not enough. If the email does not clearly expire, operators c",
    "image": null
   },
   {
-   "title": "tcpdump for DevOps: Read a TCP Handshake and Stop Guessing",
-   "link": "https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f",
-   "date": "2026-08-18T17:07:07.000Z",
+   "title": "Top 9 Reputable and Established Cryptocurrency Recovery Companies: Consult, ZEUS CRYPTO RECOVERY SERVICES",
+   "link": "https://dev.to/freddie_oscar_3229aa22574/top-9-reputable-and-established-cryptocurrency-recovery-companies-consult-zeus-crypto-recovery-1pp9",
+   "date": "2026-08-18T23:22:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When a service \"can't connect,\" the app logs and the network rarely tell the same story. tcpdump settles the argument: it shows what actually went over the wire, not what the client library claims happened. Learning to r",
+   "summary": "Zeus Crypto Recovery Services specializes in recovering lost or stolen cryptocurrency using advanced blockchain analysis and wallet restoration techniques. Zeus Crypto Recovery Services is recognized as a trusted leader ",
    "image": null
   },
   {
-   "title": "strace in production: when your process won't start and logs say nothing",
-   "link": "https://dev.to/schiff_heimlich/strace-in-production-when-your-process-wont-start-and-logs-say-nothing-4gpb",
-   "date": "2026-08-18T17:03:44.000Z",
+   "title": "Backups and the Force Awakens: Mastering Database Disaster Recovery",
+   "link": "https://dev.to/timevolt/backups-and-the-force-awakens-mastering-database-disaster-recovery-293d",
+   "date": "2026-08-18T23:21:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You know the situation. A service starts, sits there, and produces exactly zero log lines before eventually timing out. You've checked the config, the permissions, the env vars. Nothing. This is where strace earns its pl",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think backups were just a checkbox on a DevOps checklist. “Run a nightly dump, store it somewhere, and you’re good.” That mindset lasted until the day our staging PostgreS",
    "image": null
   },
   {
-   "title": "Buy BBB Reviews - 100% Safe, BBB Customer Rating",
-   "link": "https://dev.to/lorneburnsidez0e51/buy-bbb-reviews-100-safe-bbb-customer-rating-1l5c",
-   "date": "2026-08-18T16:49:18.000Z",
+   "title": "Part 6: Orchestrating with Docker Compose",
+   "link": "https://dev.to/celsonery/part-6-orchestrating-with-docker-compose-4c5o",
+   "date": "2026-08-18T23:16:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy BBB Reviews progmb.contact@gmail.com https://www.progmb.com/product/buy-bbb-reviews/ Buy BBB Reviews. BBB reviews can provide valuable insight into a business’s reputation and customer service. However, it’s importan",
+   "summary": "🇧🇷 Artigo em português aqui Throughout this series, we've covered containers, volumes, networks, and image management — always using individual commands like docker run, docker network create, docker volume create, etc",
    "image": null
   },
   {
-   "title": "46 Best Sites to Buy Negative Google Reviews 2026",
-   "link": "https://dev.to/lorneburnsidez0e51/46-best-sites-to-buy-negative-google-reviews-2026-3j1e",
-   "date": "2026-08-18T16:43:50.000Z",
+   "title": "Part 5: Managing Images",
+   "link": "https://dev.to/celsonery/part-5-managing-images-5137",
+   "date": "2026-08-18T23:15:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Negative Google Reviews: A Strategic Approach to Increase Business Credibility progmb.contact@gmail.com https://www.progmb.com/product/buy-negative-google-reviews/ Buy negative Google reviews may sound bad, but if us",
+   "summary": "🇧🇷 Artigo em português aqui In Part 4 of this series, we covered how containers communicate through networks. Now let's tackle the lifecycle of Docker images: how to build your own, list the ones already available loca",
    "image": null
   },
   {
-   "title": "RBAC for AI: Governing the AI Control Plane",
-   "link": "https://dev.to/kenwalger/rbac-for-ai-governing-the-ai-control-plane-e59",
-   "date": "2026-08-18T16:43:00.000Z",
+   "title": "Part 4: Working with Networks",
+   "link": "https://dev.to/celsonery/part-4-working-with-networks-32po",
+   "date": "2026-08-18T23:13:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Giving someone access to the AI control plane is not the same as deciding which parts of it they are allowed to control. The previous post described virtual keys as the runtime representation of a governance decision. A ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyndb35hejdtxecomitmm.png"
-  },
-  {
-   "title": "Top 25 Sites to Buy Yelp Reviews (Elite) for Experts ...",
-   "link": "https://dev.to/lorneburnsidez0e51/top-25-sites-to-buy-yelp-reviews-elite-for-experts--3j0f",
-   "date": "2026-08-18T16:37:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Elite Yelp Reviews progmb.contact@gmail.com https://www.progmb.com/product/buy-elite-yelp-reviews/ Buy Elite Yelp Reviews. Yelp is a popular review platform where customers can share their experiences with businesses",
+   "summary": "🇧🇷 Artigo em português aqui In Part 3 of this series, we covered persisting data with volumes. Now let's tackle another fundamental pillar of multi-container applications: networking. When an application depends on sev",
    "image": null
   },
   {
-   "title": "Buy Google Reviews Online that Stick - 5 Star Ratings",
-   "link": "https://dev.to/lorneburnsidez0e51/buy-google-reviews-online-that-stick-5-star-ratings-48k6",
-   "date": "2026-08-18T16:31:39.000Z",
+   "title": "Part 3: Persisting Data with Volumes",
+   "link": "https://dev.to/celsonery/part-3-persisting-data-with-volumes-1ig3",
+   "date": "2026-08-18T23:12:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Google 5-Star Reviews—Boost Your Business Reputation Today progmb.contact@gmail.com https://www.progmb.com/product/buy-google-5-star-reviews/ In today’s highly competitive online marketplace, establishing a strong an",
+   "summary": "🇧🇷 Artigo em português aqui In Part 2 of this series, we covered the essential commands for operating containers day to day. But there's an important detail: by default, data written inside a container is ephemeral — i",
    "image": null
+  },
+  {
+   "title": "Part 2: Essential CLI Commands",
+   "link": "https://dev.to/celsonery/part-2-essential-cli-commands-41c1",
+   "date": "2026-08-18T23:10:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🇧🇷 Artigo em português aqui In Part 1 of this series, we installed Docker on Debian and ran our first container. Now let's cover the commands you'll use day to day to manage containers: running, listing, entering, stop",
+   "image": null
+  },
+  {
+   "title": "Mojo🔥 is now open source",
+   "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+   "date": "2026-08-18T21:39:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that o",
+   "image": null
+  },
+  {
+   "title": "Christopher Winslett: Postgres 19: How Our Advice Has Changed Since We Wrote It",
+   "link": "https://postgr.es/p/9sD",
+   "date": "2026-08-18T19:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Over the years we have written a lot about how data gets into Postgres, how it sits on disk, and how indexes help you find it again. Some of that advice was written against Postgres 10 or 11. A surprising amount of it is",
+   "image": null
+  },
+  {
+   "title": "How Much Memory Does Your Agent Actually Need?",
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+   "date": "2026-08-18T18:09:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+   "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+   "date": "2026-08-18T17:47:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
+  },
+  {
+   "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+   "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+   "date": "2026-08-18T17:44:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
+  },
+  {
+   "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+   "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+   "date": "2026-08-18T16:58:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
   },
   {
    "title": "Joshua Drake: PgColumnar 1.0Alpha2 released",
@@ -202,16 +272,6 @@
    "image": null
   },
   {
-   "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-   "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-   "date": "2026-08-18T06:34:20.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg"
-  },
-  {
    "title": "Hans-Juergen Schoenig: Highly Available PostgreSQL on Kubernetes in 10 Minutes",
    "link": "https://postgr.es/p/9sA",
    "date": "2026-08-18T05:07:31.000Z",
@@ -302,16 +362,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/lerd-featured.png"
   },
   {
-   "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-   "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-   "date": "2026-08-17T21:03:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
-  },
-  {
    "title": "uzair aslam: How to Prevent Duplicate Form Submissions in Next.js with Idempotency Keys",
    "link": "https://postgr.es/p/9sz",
    "date": "2026-08-17T20:00:00.000Z",
@@ -332,16 +382,6 @@
    "image": null
   },
   {
-   "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-   "date": "2026-08-17T18:44:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
-  },
-  {
    "title": "Joachim's blog: Making Entity Pager module API-first",
    "link": "http://www.noreiko.com/blog/making-entity-pager-module-api-first",
    "date": "2026-08-17T16:45:12.000Z",
@@ -359,16 +399,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: Sixteen Locks Ought to Be Enough for Anybody",
-   "link": "https://postgr.es/p/9ss",
-   "date": "2026-08-17T16:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Every query locks every index on a table, even ones it doesn't use.",
    "image": null
   },
   {
@@ -439,16 +469,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Last week’s AI releases put a familiar question back into view: who controls the technology that digital systems depend on? On 10 August 2026, Meta released Muse Glimmer, a 30-billion-parameter model optimised for local ",
-   "image": null
-  },
-  {
-   "title": "Gabriele Bartolini: CNPG Recipe 27 - Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
-   "link": "https://postgr.es/p/9sq",
-   "date": "2026-08-17T08:48:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A walkthrough of running OpenBao on Kubernetes with CloudNativePG as its PostgreSQL storage backend. Every layer of this stack is open source, with no vendor lock-in: Kubernetes and CloudNativePG are both CNCF projects, ",
    "image": null
   },
   {
@@ -539,16 +559,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the c",
-   "image": null
-  },
-  {
-   "title": "Don't classify. Hallucinate!",
-   "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-   "date": "2026-08-14T21:54:35.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags ",
    "image": null
   },
   {
@@ -699,16 +709,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A deep dive into building a flexible Three.js Geometry Painter with WebGPU and TSL, from surface picking and procedural geometry to live controls, custom shaders, lighting, and post-processing.",
-   "image": null
-  },
-  {
-   "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-   "date": "2026-08-11T13:37:10.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
