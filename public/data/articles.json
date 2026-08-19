@@ -1,25 +1,175 @@
 {
- "generatedAt": "2026-08-19T11:36:13.166Z",
+ "generatedAt": "2026-08-19T17:37:25.206Z",
  "articles": [
   {
-   "title": "## Multi‑Agent AI for Radiology Report Structuring",
-   "link": "https://dev.to/atheerium/-multi-agent-ai-for-radiology-report-structuring-48f9",
-   "date": "2026-08-19T11:35:35.000Z",
+   "title": "Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%",
+   "link": "https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7",
+   "date": "2026-08-19T17:27:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Multi‑Agent AI for Radiology Report Structuring A new AI system was built to structure radiology reports and check their quality. The system runs locally and uses several agents that talk to each other. One agent reads t",
+   "summary": "Short version: AWS gp3 EBS volumes cost about ~20% less per GB than gp2 ($0.08 vs $0.10 per GB-month in us-east-1) and includes 3,000 IOPS and 125 MB/s of baseline performance for free. You can convert a volume from gp2 ",
    "image": null
   },
   {
-   "title": "What Metrics Indicate Pipeline Security Health?",
-   "link": "https://dev.to/varunvarde/what-metrics-indicate-pipeline-security-health-2379",
-   "date": "2026-08-19T11:34:42.000Z",
+   "title": "Cybersecurity Doesn’t Need More Tools. It Needs Better Unity.",
+   "link": "https://dev.to/anuragseceon/cybersecurity-doesnt-need-more-tools-it-needs-better-unity-3nfd",
+   "date": "2026-08-19T17:20:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "CI/CD pipelines are increasingly responsible for building software, provisioning infrastructure, publishing artifacts, and deploying production workloads. That makes the pipeline itself a significant part of the organiza",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdrfg3igjknq5f79d733l.png"
+   "summary": "More security tools don’t always mean more security. Sometimes, they just mean more screens. Think about a modern SOC. One platform for SIEM. And then a growing stream of alerts that someone still has to investigate. The",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvnsz8j9e4flocw4ugdfv.png"
+  },
+  {
+   "title": "Building AgriSentinel: a Gemini agent fleet for the farms AI can't see",
+   "link": "https://dev.to/arpan_ghosh_6f79cf0ea38ed/building-agrisentinel-a-gemini-agent-fleet-for-the-farms-ai-cant-see-36ke",
+   "date": "2026-08-19T17:06:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most agricultural AI is trained on massive, single-crop industrial fields — think Midwest corn. Point that same AI at the farms that actually feed most of the world — a half-acre plot in Kenya growing maize, beans, and c",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2eequ4m50ngflghqmwbb.png"
+  },
+  {
+   "title": "How to Set Up and Secure an Ubuntu VPS from Scratch: A Beginner’s Blueprint",
+   "link": "https://dev.to/arthur_luca/how-to-set-up-and-secure-an-ubuntu-vps-from-scratch-a-beginners-blueprint-2h38",
+   "date": "2026-08-19T16:57:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Setting up a Virtual Private Server (VPS) for the first time can feel overwhelming. Many developers simply spin up a fresh cloud instance, dump their application files onto it, and leave the default configurations active",
+   "image": null
+  },
+  {
+   "title": "Building a Deployment Checklist That Actually Prevents Production Incidents",
+   "link": "https://dev.to/manishmshiva/building-a-deployment-checklist-that-actually-prevents-production-incidents-33dl",
+   "date": "2026-08-19T16:22:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Count the items on your deployment checklist. If there are more than a handful, the list is not telling you that your team is careful. It is telling you how much infrastructure your product team still owns. That is the a",
+   "image": null
+  },
+  {
+   "title": "Introducing pystack-core v0.1.0: Production-Ready Python Application Infrastructure",
+   "link": "https://dev.to/trixsec/introducing-pystack-core-v010-production-ready-python-application-infrastructure-48cm",
+   "date": "2026-08-19T16:17:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Author: Trix Cyrus(Vicky) Every Python application needs the same foundation: configuration management, logging, dependency injection, and lifecycle management. Yet developers often spend hours setting up these basic inf",
+   "image": null
+  },
+  {
+   "title": "Get emailed if a cron job never ran",
+   "link": "https://dev.to/makgabri/get-emailed-if-a-cron-job-never-ran-boo",
+   "date": "2026-08-19T15:54:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A cron that never starts cannot email you. I found that out the hard way with a nightly database backup. I ended up hardcoding a ping that only fired after the dump finished. If the ping never showed up, the backup did n",
+   "image": null
+  },
+  {
+   "title": "Creating a Windows Service for RLM Server",
+   "link": "https://dev.to/reprise_software/creating-a-windows-service-for-rlm-server-26ee",
+   "date": "2026-08-19T15:48:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Here’s a step by step guide on how to configure your process to run as a native Windows Service, which ensures your launching automatically, running persistently in the background, and logging outputs cleanly. Steps Down",
+   "image": null
+  },
+  {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
+   "image": null
+  },
+  {
+   "title": "Relighting Images with Depth Maps and Three.js",
+   "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
+   "date": "2026-08-19T14:42:19.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Explore how depth maps, TSL, and WebGPU can be combined to turn flat 2D images into dynamic surfaces with realistic lighting, surface detail, and self-shadowing.",
+   "image": null
+  },
+  {
+   "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+   "link": "https://huggingface.co/blog/LiquidAI/qad",
+   "date": "2026-08-19T13:48:49.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Omega8.cc: Artificial Stupidity, Revisited",
+   "link": "https://omega8.cc/blog/artificial-stupidity-revisited",
+   "date": "2026-08-19T13:35:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "For 30 years we write all our code by hand in BBEdit, the BOA Drupal hosting stack included, and until recently the smartest chatbot money could buy couldn't produce three bash scripts aware of each other, so our verdict",
+   "image": "https://omega8.cc/images/a/4/4/5/4/a44543a9f19a9beee43f73aa28250f5f3d5eb25f-ai-in-boa-dev-why-and-how.jpg"
+  },
+  {
+   "title": "Symfony Reprise 0.8.0 released",
+   "link": "https://symfony.com/blog/symfony-reprise-0-8-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-19T13:34:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Reprise 0.8.0 is out, a few weeks after the project was introduced on this blog. This release brings back an Encore behavior that some codebases depend on: copied files that keep a stable path on disk. It also fixes a ma",
+   "image": "https://github.com/pyrech.png"
+  },
+  {
+   "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+   "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+   "date": "2026-08-19T13:12:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg"
+  },
+  {
+   "title": "Experimenting with Issue-First Open Source Contributions",
+   "link": "https://symfony.com/blog/experimenting-with-issue-first-open-source-contributions?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-19T11:36:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
+   "image": null
+  },
+  {
+   "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+   "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+   "date": "2026-08-19T11:34:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg"
+  },
+  {
+   "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+   "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+   "date": "2026-08-19T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when t",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg"
   },
   {
    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
@@ -32,36 +182,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
   },
   {
-   "title": "Docker vs Kubernetes: When to Use Each (and When You Don't Need Both)",
-   "link": "https://dev.to/sri2614/docker-vs-kubernetes-when-to-use-each-and-when-you-dont-need-both-52p4",
-   "date": "2026-08-19T11:17:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Docker packages your app; Kubernetes orchestrates many copies of it. They are different layers, not rivals. Walk away with a clear rule for when Docker alone is enough and when Kubernetes complexity actually ear",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fZG9ja2VyZmlsZSgiRG9ja2VyZmlsZTxici8-QnVpbGQgcmVjaXBlIikKICBjbGFzcyBuX2RvY2tlcmZpbGUgZXh0ZXJuYWw7CiAgbl9pbWFnZSgiSW1hZ2U8YnIvPkltbXV0YWJsZSBhcnRpZmFjdCIpCiAgY2xhc3Mgbl9pbWFnZSBkYXRhOwogIG5fY29udGFpbmVyKCJDb250YWluZXI8YnIvPlJ1bm5pbmcgcHJvY2VzcyIpCiAgY2xhc3Mgbl9jb250YWluZXIgY29tcHV0ZTsKICBuX2luZ3Jlc3MoIkluZ3Jlc3M8YnIvPkV4dGVybmFsIHRyYWZmaWMiKQogIGNsYXNzIG5faW5ncmVzcyBlZGdlOwogIG5fc2VydmljZSgiU2VydmljZTxici8-U3RhYmxlIHZpcnR1YWwgSVAiKQogIGNsYXNzIG5fc2VydmljZSBlZGdlOwogIG5fY29udHJvbHBsYW5lKCJDb250cm9sIFBsYW5lPGJyLz5TY2hlZHVsZXIgKyBBUEkgc2VydmVyIikKICBjbGFzcyBuX2NvbnRyb2xwbGFuZSBvYnNlcnZhYmlsaXR5OwogIG5fcG9kMSgiUG9kPGJyLz5Ob2RlIEEiKQogIGNsYXNzIG5fcG9kMSBjb21wdXRlOwogIG5fcG9kMigiUG9kPGJyLz5Ob2RlIEIiKQogIGNsYXNzIG5fcG9kMiBjb21wdXRlOwogIG5fZG9ja2VyZmlsZSAtLT58ImRvY2tlciBidWlsZCJ8IG5faW1hZ2UKICBuX2ltYWdlIC0tPnwiZG9ja2VyIHJ1biJ8IG5fY29udGFpbmVyCiAgbl9pbWFnZSAtLi0-fCJkZXBsb3kifCBuX2NvbnRyb2xwbGFuZQogIG5fY29udHJvbHBsYW5lIC0tPnwic2NoZWR1bGVzInwgbl9wb2QxCiAgbl9jb250cm9scGxhbmUgLS0-fCJzY2hlZHVsZXMifCBuX3BvZDIKICBuX2luZ3Jlc3MgLS0-fCJyb3V0ZXMifCBuX3NlcnZpY2UKICBuX3NlcnZpY2UgLS0-IG5fcG9kMQogIG5fc2VydmljZSAtLT4gbl9wb2Qy%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "Shipping a Gumroad Clone to Production",
-   "link": "https://dev.to/goose2585/shipping-a-gumroad-clone-to-production-58b1",
-   "date": "2026-08-19T11:03:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This is a walkthrough of the deployment setup behind my Gumroad clone: an EC2 box, Docker Compose, Nginx as the front door, and a GitHub Actions pipeline that does the boring parts so I don't have to SSH in and pray ever",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd3ei06r7d09w214r164r.png"
-  },
-  {
-   "title": "Pass, Fail, and the Third State Your QA Tool Is Missing",
-   "link": "https://dev.to/shipguarde/pass-fail-and-the-third-state-your-qa-tool-is-missing-221c",
-   "date": "2026-08-19T11:03:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our release gate told us to ship a build it had never successfully looked at. Every one of the six checks had crashed. The report underneath the verdict said, in bold, Decision: BLOCK. The field the API actually returns ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpsmprm8ly52f7vnfo7wh.png"
-  },
-  {
    "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
    "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
    "date": "2026-08-19T11:01:48.000Z",
@@ -70,36 +190,6 @@
    "source": "The Hacker News",
    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shor",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
-  },
-  {
-   "title": "Why Unified Billing Matters When Upstream Pricing Is Volatile",
-   "link": "https://dev.to/aiwave/why-unified-billing-matters-when-upstream-pricing-is-volatile-5cfp",
-   "date": "2026-08-19T11:01:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why Unified Billing Matters When Upstream Pricing Is Volatile Show how a single all-day rate changes forecasting, while acknowledging that a gateway can differ from the benchmark list rate. Add a budget calculator and au",
-   "image": null
-  },
-  {
-   "title": "Multi-Model Routing with an OpenAI-Compatible API",
-   "link": "https://dev.to/aiwave/multi-model-routing-with-an-openai-compatible-api-3i38",
-   "date": "2026-08-19T11:01:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Multi-Model Routing with an OpenAI-Compatible API Build a small policy router that selects DeepSeek, Kimi, GLM, or Qwen from a task class and budget. Include timeout, retry, acceptance tests, and a safe environment-varia",
-   "image": null
-  },
-  {
-   "title": "DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing",
-   "link": "https://dev.to/aiwave/deepseek-v4-cache-economics-after-peak-and-off-peak-pricing-149f",
-   "date": "2026-08-19T11:01:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "DeepSeek V4 Cache Economics After Peak and Off-Peak Pricing Explain how peak windows and cache-hit accounting affect a production ledger. Use the dated project baseline and a formula, then show a Python usage aggregator.",
-   "image": null
   },
   {
    "title": "DrupalCon News & Updates: Migrating to Drupal CMS: From Classic Drupal & Other Platforms",
@@ -182,13 +272,33 @@
    "image": "https://ardentperf.com/wp-content/uploads/2026/08/graph-repro-20260818t200953z-run_1.png?w=1024"
   },
   {
+   "title": "Read-Through Disks and Debounced Listeners in Laravel 13.26",
+   "link": "https://laravel-news.com/laravel-13-26-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-18T22:53:28.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.26 adds a read-through filesystem driver, debounced queued event listeners, Queue::forward() routing, and new process testing helpers. The post Read-Through Disks and Debounced Listeners in Laravel 13.26 appea",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Laravel Read-Through Filesystem: Lazy Storage Migration",
+   "link": "https://laravel-news.com/laravel-read-through-filesystem?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-18T22:44:29.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel's read-through filesystem driver layers a primary disk over a fallback and copies files on first read, so you can switch storage without a bulk sync. The post Laravel Read-Through Filesystem: Lazy Storage Migrati",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-read-through-filesystem-featured.png"
+  },
+  {
    "title": "Mojo🔥 is now open source",
    "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
    "date": "2026-08-18T21:39:20.000Z",
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that o",
+   "summary": "Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing",
    "image": null
   },
   {
@@ -220,26 +330,6 @@
    "source": "The Hacker News",
    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
-  },
-  {
-   "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-   "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-   "date": "2026-08-18T17:44:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
-  },
-  {
-   "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-   "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-   "date": "2026-08-18T16:58:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
   },
   {
    "title": "Joshua Drake: PgColumnar 1.0Alpha2 released",
@@ -280,16 +370,6 @@
    "source": "Codrops",
    "summary": "Learn how to build a dynamic testimonial hero in Webflow using CMS data, a custom JavaScript counter, and GSAP’s visual timeline.",
    "image": null
-  },
-  {
-   "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-   "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-   "date": "2026-08-18T12:38:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
   },
   {
    "title": "Specbee: How to use AI for Drupal SEO: Internal Linking explained",
@@ -382,16 +462,6 @@
    "image": null
   },
   {
-   "title": "Laravel Lock: Distributed Locks for Models and Routes",
-   "link": "https://laravel-news.com/laravel-lock?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-17T22:45:56.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Lock scopes distributed locks to Eloquent models and routes in Laravel apps, with a fluent builder, middleware, and cache or database storage. The post Laravel Lock: Distributed Locks for Models and Routes appear",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Lock-LN.png"
-  },
-  {
    "title": "Lerd: A Free, Open Source Herd Alternative for Linux and macOS",
    "link": "https://laravel-news.com/lerd?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-17T22:44:10.000Z",
@@ -462,16 +532,6 @@
    "image": null
   },
   {
-   "title": "The Vardot Team: Is Your Drupal Platform AI-Ready? Here's How to Know",
-   "link": "https://www.vardot.com/en/ideas/blog/your-drupal-platform-ai-ready-heres-how-know",
-   "date": "2026-08-17T13:07:24.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "AI is changing how people find your content. Score your Drupal platform's AI readiness across five areas in five minutes.",
-   "image": null
-  },
-  {
    "title": "Announcing Symfony Language Tools, the Official Symfony LSP Server",
    "link": "https://symfony.com/blog/announcing-symfony-language-tools-the-official-symfony-lsp-server?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-17T12:05:00.000Z",
@@ -490,16 +550,6 @@
    "source": "Laravel News",
    "summary": "serversideup/php v4.6.0-beta1 adds CADDY_ACME_PROFILE, so a FrankenPHP container can get a Let's Encrypt certificate for a raw IP address. The post Let's Encrypt HTTPS on an IP Address With FrankenPHP appeared first on L",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/HTTPS-on-an-IP-Address-With FrankenPHP-LN.png"
-  },
-  {
-   "title": "NativePHP v4: Build Native iOS and Android UI in Blade",
-   "link": "https://laravel-news.com/nativephp-v4-supernative?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-17T03:33:05.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "NativePHP v4 renders Blade components as real SwiftUI and Jetpack Compose views with no web view. Here is what SuperNative changes, plus how to upgrade. The post NativePHP v4: Build Native iOS and Android UI in Blade app",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/NativePHP-v4-SuperNative-LN.png"
   },
   {
    "title": "Markdown SVG upgrades",
@@ -662,16 +712,6 @@
    "image": null
   },
   {
-   "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-   "date": "2026-08-12T14:00:51.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
    "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
    "date": "2026-08-12T13:43:56.000Z",
@@ -792,16 +832,6 @@
    "image": null
   },
   {
-   "title": "Designing a Flexible Digital Archive for Chems.Studio’s Creative Practice",
-   "link": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
-   "date": "2026-08-08T15:13:31.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A film-led website for Chems Studio, bringing years of creative direction and moving image together through a quiet, flexible digital framework.",
-   "image": null
-  },
-  {
    "title": "Symfony 8.1.4 released",
    "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-07T18:08:16.000Z",
@@ -809,16 +839,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.1.4 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 7.4.16 released",
-   "link": "https://symfony.com/blog/symfony-7-4-16-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-07T18:03:31.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 7.4.16 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
   },
   {
@@ -882,16 +902,6 @@
    "image": null
   },
   {
-   "title": "SymfonyCon Warsaw 2026: Developing the developer: Journaling with AI",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-developing-the-developer-journaling-with-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-06T14:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "SymfonyCon Warsaw 2026 is officially set for November 26 and 27, 2026, in Warsaw (Poland)! Join developers from across the globe for our flagship international event. 🎤 Speaker announcements We are happy to host Timo Ba",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
-  },
-  {
    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
    "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
    "date": "2026-08-05T23:30:00.000Z",
@@ -940,16 +950,6 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-  },
-  {
-   "title": "Gap Decorations Are Now Available, Here’s What’s New",
-   "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-   "date": "2026-08-03T15:53:20.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control. Gap Decorations Are Now Available, Here’s What’s New originall",
-   "image": null
   },
   {
    "title": "Kubernetes v1.37 Sneak Peek",
