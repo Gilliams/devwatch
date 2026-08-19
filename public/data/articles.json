@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-08-18T23:33:38.436Z",
+ "generatedAt": "2026-08-19T05:43:38.908Z",
  "articles": [
+  {
+   "title": "Should You Buy a Verified LinkedIn Account?",
+   "link": "https://dev.to/linkedinacc34/should-you-buy-a-verified-linkedin-account-325l",
+   "date": "2026-08-19T05:33:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Should You Buy a Verified LinkedIn Account? 📧 Email: usamarketit@gmail.com If you search for “Buy Verified LinkedIn Account,” you will find sellers offering profiles described as aged, phone-verified, ID-verified, estab",
+   "image": null
+  },
+  {
+   "title": "The Truth About Buying Verified LinkedIn Accounts",
+   "link": "https://dev.to/linkedinacc34/the-truth-about-buying-verified-linkedin-accounts-58ph",
+   "date": "2026-08-19T05:27:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Truth About Buying Verified LinkedIn Accounts 📧 Email: usamarketit@gmail.com The search for “Buy Verified LinkedIn Account” often starts with a simple promise: get an established profile, inherit a large network, di",
+   "image": null
+  },
+  {
+   "title": "What Buyers Should Know About Buying Verified LinkedIn Account?",
+   "link": "https://dev.to/linkedinacc34/what-buyers-should-know-about-buying-verified-linkedin-account-375o",
+   "date": "2026-08-19T05:24:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What Buyers Should Know About Buying a Verified LinkedIn Account? 📧 Email: usamarketit@gmail.com If you are researching “Buy Verified LinkedIn Account,” you will quickly encounter offers for profiles described as verifi",
+   "image": null
+  },
+  {
+   "title": "Why I Run My Postgres on a microVM Now",
+   "link": "https://dev.to/dhruv_malaviya_cdcc71e595/why-i-run-my-postgres-on-a-microvm-now-19f4",
+   "date": "2026-08-19T05:21:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I used to be the person who told everyone to use a managed database. \"Don't self-host Postgres,\" I'd say. \"You're not a DBA. Let AWS handle backups and replication.\" Then my managed bill started climbing. And I realized ",
+   "image": null
+  },
+  {
+   "title": "The Easiest Way to Buying Old Gmail Accounts In US",
+   "link": "https://dev.to/melanthabaumh2ypa/the-easiest-way-to-buying-old-gmail-accounts-in-us-298n",
+   "date": "2026-08-19T05:21:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Old Gmail Accounts: Complete Guide to Security, Privacy, Organization & Safe Account Management usadigitalhubsell@gmail.com https://usadigitalhub.com/product/buy-old-gmail-accounts/ Introduction An account that has been ",
+   "image": null
+  },
+  {
+   "title": "Private Network Monitoring: Why Inside-Out Monitoring Is Becoming More Important",
+   "link": "https://dev.to/frankzhang/private-network-monitoring-why-inside-out-monitoring-is-becoming-more-important-3io2",
+   "date": "2026-08-19T05:20:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "External monitoring was the only practical option for a long time. Now it is not. And the difference matters more than most people realize. The traditional approach to uptime monitoring goes like this: sign up for a clou",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwn0cldpxm9imq7x4imfg.webp"
+  },
+  {
+   "title": "Multi-Model AI Routing in Production: How We Cut Costs 70% Without Losing Quality",
+   "link": "https://dev.to/modelhub_dev/multi-model-ai-routing-in-production-how-we-cut-costs-70-without-losing-quality-43pe",
+   "date": "2026-08-19T05:16:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Multi-Model AI Routing in Production: How We Cut Costs 70% Without Losing Quality One of the biggest mistakes I see in AI apps: hard-coding a single model. You pick GPT-5.5 at the start, and six months later your bill is",
+   "image": null
+  },
+  {
+   "title": "Stop Updating Your README Manually: Automate It with GitHub Actions",
+   "link": "https://dev.to/sahil_khurana_486f374ecf2/stop-updating-your-readme-manually-automate-it-with-github-actions-157m",
+   "date": "2026-08-19T05:15:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your README was accurate on the day you wrote it. That was six months and forty commits ago. Someone opened an issue this week saying the install steps don't work. You already know why. GitHub Actions can keep your READM",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftm89dfk3r0arrwq6dhsw.png"
+  },
+  {
+   "title": "Vibhor Kumar: Every AI Agent May Need PostgreSQL. Not Every Agent Should Own the Truth.",
+   "link": "https://postgr.es/p/9sG",
+   "date": "2026-08-19T05:06:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Databricks’ acquisition of Electric is noteworthy for several reasons. Electric developed PGlite, a WebAssembly build of PostgreSQL that can run inside a browser, application, serverless environment, or AI agent sandbox.",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-15.png?w=1024"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: join_collapse_limit",
+   "link": "https://postgr.es/p/9sF",
+   "date": "2026-08-19T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL famously does not implement query hints. This is about 95% true, and join_collapse_limit is the other 5%: set it to 1, and the planner joins your tables in exactly the order you wrote them. This is not an expl",
+   "image": null
+  },
   {
    "title": "Jeremy Schneider: Why Postgres Breaks Kubernetes container_memory_working_set_bytes Metric",
    "link": "https://postgr.es/p/9sE",
@@ -10,86 +110,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Kubernetes metric container_memory_working_set_bytes is used for evicting/killing pods with too much memory use, especially if request < limit (don’t do this with Postgres). The metric is calculated from cgroups v2 memor",
    "image": "https://ardentperf.com/wp-content/uploads/2026/08/graph-repro-20260818t200953z-run_1.png?w=1024"
-  },
-  {
-   "title": "CI/CD Approval Emails Need Expiry Timestamps",
-   "link": "https://dev.to/jasonmills94/cicd-approval-emails-need-expiry-timestamps-29ib",
-   "date": "2026-08-18T23:24:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Approval emails look harmless, but they can turn into a quiet source of deployment risk. In fast AWS delivery pipelines, a message that says \"approve prod\" is not enough. If the email does not clearly expire, operators c",
-   "image": null
-  },
-  {
-   "title": "Top 9 Reputable and Established Cryptocurrency Recovery Companies: Consult, ZEUS CRYPTO RECOVERY SERVICES",
-   "link": "https://dev.to/freddie_oscar_3229aa22574/top-9-reputable-and-established-cryptocurrency-recovery-companies-consult-zeus-crypto-recovery-1pp9",
-   "date": "2026-08-18T23:22:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Zeus Crypto Recovery Services specializes in recovering lost or stolen cryptocurrency using advanced blockchain analysis and wallet restoration techniques. Zeus Crypto Recovery Services is recognized as a trusted leader ",
-   "image": null
-  },
-  {
-   "title": "Backups and the Force Awakens: Mastering Database Disaster Recovery",
-   "link": "https://dev.to/timevolt/backups-and-the-force-awakens-mastering-database-disaster-recovery-293d",
-   "date": "2026-08-18T23:21:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think backups were just a checkbox on a DevOps checklist. “Run a nightly dump, store it somewhere, and you’re good.” That mindset lasted until the day our staging PostgreS",
-   "image": null
-  },
-  {
-   "title": "Part 6: Orchestrating with Docker Compose",
-   "link": "https://dev.to/celsonery/part-6-orchestrating-with-docker-compose-4c5o",
-   "date": "2026-08-18T23:16:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Artigo em português aqui Throughout this series, we've covered containers, volumes, networks, and image management — always using individual commands like docker run, docker network create, docker volume create, etc",
-   "image": null
-  },
-  {
-   "title": "Part 5: Managing Images",
-   "link": "https://dev.to/celsonery/part-5-managing-images-5137",
-   "date": "2026-08-18T23:15:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Artigo em português aqui In Part 4 of this series, we covered how containers communicate through networks. Now let's tackle the lifecycle of Docker images: how to build your own, list the ones already available loca",
-   "image": null
-  },
-  {
-   "title": "Part 4: Working with Networks",
-   "link": "https://dev.to/celsonery/part-4-working-with-networks-32po",
-   "date": "2026-08-18T23:13:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Artigo em português aqui In Part 3 of this series, we covered persisting data with volumes. Now let's tackle another fundamental pillar of multi-container applications: networking. When an application depends on sev",
-   "image": null
-  },
-  {
-   "title": "Part 3: Persisting Data with Volumes",
-   "link": "https://dev.to/celsonery/part-3-persisting-data-with-volumes-1ig3",
-   "date": "2026-08-18T23:12:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Artigo em português aqui In Part 2 of this series, we covered the essential commands for operating containers day to day. But there's an important detail: by default, data written inside a container is ephemeral — i",
-   "image": null
-  },
-  {
-   "title": "Part 2: Essential CLI Commands",
-   "link": "https://dev.to/celsonery/part-2-essential-cli-commands-41c1",
-   "date": "2026-08-18T23:10:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🇧🇷 Artigo em português aqui In Part 1 of this series, we installed Docker on Debian and ran our first container. Now let's cover the commands you'll use day to day to manage containers: running, listing, entering, stop",
-   "image": null
   },
   {
    "title": "Mojo🔥 is now open source",
@@ -292,16 +312,6 @@
    "image": null
   },
   {
-   "title": "Ajin Cherian: Failover slot synchronization in PostgreSQL",
-   "link": "https://postgr.es/p/9sx",
-   "date": "2026-08-18T00:43:04.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "High availability is essential for logical replication environments, but until recently, failover could still leave subscribers disconnected from the replication slots they depend on. PostgreSQL 17 addressed this by intr",
-   "image": "https://www.postgresql.fastware.com/hubfs/Images/Featured/Blog/img-featured-blog-failover-slot-synchronization-in-postgresql.jpg"
-  },
-  {
    "title": "Laravel Chores: Resumable Data Operations and Cleanups",
    "link": "https://laravel-news.com/laravel-chores?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-18T00:37:09.000Z",
@@ -360,16 +370,6 @@
    "source": "Laravel News",
    "summary": "Lerd is a free, MIT-licensed local development environment for Linux and macOS: automatic .test domains, per-project PHP isolation, a built-in dashboard, and an MCP server for AI assistants. No Docker Desktop required. T",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/lerd-featured.png"
-  },
-  {
-   "title": "uzair aslam: How to Prevent Duplicate Form Submissions in Next.js with Idempotency Keys",
-   "link": "https://postgr.es/p/9sz",
-   "date": "2026-08-17T20:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A production-ready approach to preventing duplicate leads and side effects with stable idempotency keys, PostgreSQL constraints, transactional outbox events, safe retries, and reconciliation. A visitor fills out a form, ",
-   "image": "https://cdn.sanity.io/images/dis8yhkz/production/065da1afe5ded86b83d3a9b314048c4657a55a3f-1536x1024.png"
   },
   {
    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
