@@ -1,85 +1,175 @@
 {
- "generatedAt": "2026-08-19T17:37:25.206Z",
+ "generatedAt": "2026-08-19T23:33:48.226Z",
  "articles": [
   {
-   "title": "Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%",
-   "link": "https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7",
-   "date": "2026-08-19T17:27:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Short version: AWS gp3 EBS volumes cost about ~20% less per GB than gp2 ($0.08 vs $0.10 per GB-month in us-east-1) and includes 3,000 IOPS and 125 MB/s of baseline performance for free. You can convert a volume from gp2 ",
+   "title": "Très Bien Blog: Drupal code query MCP Server",
+   "link": "https://tresbien.tech/blog/drupal-code-query-mcp-server/",
+   "date": "2026-08-19T23:25:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal code query MCP Server A few months ago I put an api online to search and query the whole Drupal code ecosystem. With the release of some more capable local AI models I thought it could be good to release a MCP ser",
    "image": null
   },
   {
-   "title": "Cybersecurity Doesn’t Need More Tools. It Needs Better Unity.",
-   "link": "https://dev.to/anuragseceon/cybersecurity-doesnt-need-more-tools-it-needs-better-unity-3nfd",
-   "date": "2026-08-19T17:20:21.000Z",
+   "title": "5 Best Platforms to Buy Old & New TikTok Account in the ...",
+   "link": "https://dev.to/juleebradshawngzgz/5-best-platforms-to-buy-old-new-tiktok-account-in-the--4cda",
+   "date": "2026-08-19T23:19:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "More security tools don’t always mean more security. Sometimes, they just mean more screens. Think about a modern SOC. One platform for SIEM. And then a growing stream of alerts that someone still has to investigate. The",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvnsz8j9e4flocw4ugdfv.png"
-  },
-  {
-   "title": "Building AgriSentinel: a Gemini agent fleet for the farms AI can't see",
-   "link": "https://dev.to/arpan_ghosh_6f79cf0ea38ed/building-agrisentinel-a-gemini-agent-fleet-for-the-farms-ai-cant-see-36ke",
-   "date": "2026-08-19T17:06:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most agricultural AI is trained on massive, single-crop industrial fields — think Midwest corn. Point that same AI at the farms that actually feed most of the world — a half-acre plot in Kenya growing maize, beans, and c",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2eequ4m50ngflghqmwbb.png"
-  },
-  {
-   "title": "How to Set Up and Secure an Ubuntu VPS from Scratch: A Beginner’s Blueprint",
-   "link": "https://dev.to/arthur_luca/how-to-set-up-and-secure-an-ubuntu-vps-from-scratch-a-beginners-blueprint-2h38",
-   "date": "2026-08-19T16:57:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Setting up a Virtual Private Server (VPS) for the first time can feel overwhelming. Many developers simply spin up a fresh cloud instance, dump their application files onto it, and leave the default configurations active",
+   "summary": "TikTok Accounts: Complete Guide to Security, Privacy, Content Management usadigitalhubsell@gmail.com https://usadigitalhub.com/ Meta Description: Learn how to manage TikTok accounts responsibly with practical guidance on",
    "image": null
   },
   {
-   "title": "Building a Deployment Checklist That Actually Prevents Production Incidents",
-   "link": "https://dev.to/manishmshiva/building-a-deployment-checklist-that-actually-prevents-production-incidents-33dl",
-   "date": "2026-08-19T16:22:53.000Z",
+   "title": "10 Best Sites to Buy Hotmail Accounts (PVA, Bulk & Aged)",
+   "link": "https://dev.to/juleebradshawngzgz/10-best-sites-to-buy-hotmail-accounts-pva-bulk-aged-2gj0",
+   "date": "2026-08-19T23:03:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Count the items on your deployment checklist. If there are more than a handful, the list is not telling you that your team is careful. It is telling you how much infrastructure your product team still owns. That is the a",
+   "summary": "Buy Old Hotmail Accounts – Complete Guide to Security, Privacy, 2FA & Email Management usadigitalhubsell@gmail.com https://usadigitalhub.com/ Meta Description: Learn about Buy Old Hotmail Accounts, Microsoft account secu",
    "image": null
   },
   {
-   "title": "Introducing pystack-core v0.1.0: Production-Ready Python Application Infrastructure",
-   "link": "https://dev.to/trixsec/introducing-pystack-core-v010-production-ready-python-application-infrastructure-48cm",
-   "date": "2026-08-19T16:17:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Author: Trix Cyrus(Vicky) Every Python application needs the same foundation: configuration management, logging, dependency injection, and lifecycle management. Yet developers often spend hours setting up these basic inf",
+   "title": "Quoting Jeremy Morrell",
+   "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+   "date": "2026-08-19T22:56:31.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good securi",
    "image": null
   },
   {
-   "title": "Get emailed if a cron job never ran",
-   "link": "https://dev.to/makgabri/get-emailed-if-a-cron-job-never-ran-boo",
-   "date": "2026-08-19T15:54:55.000Z",
+   "title": "When t.me Stops Opening: A Practical Debugging Checklist for Devs and Ops Teams",
+   "link": "https://dev.to/digitalincomelab/when-tme-stops-opening-a-practical-debugging-checklist-for-devs-and-ops-teams-488o",
+   "date": "2026-08-19T22:52:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A cron that never starts cannot email you. I found that out the hard way with a nightly database backup. I ended up hardcoding a ping that only fired after the dump finished. If the ping never showed up, the backup did n",
+   "summary": "If a t.me link refuses to load, the most common mistake is treating it like a single kind of outage. People jump straight to “Telegram is down” and stop there. In practice, the failure can come from very different layers",
    "image": null
   },
   {
-   "title": "Creating a Windows Service for RLM Server",
-   "link": "https://dev.to/reprise_software/creating-a-windows-service-for-rlm-server-26ee",
-   "date": "2026-08-19T15:48:31.000Z",
+   "title": "Conceptual integrity and counting lines of code",
+   "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+   "date": "2026-08-19T22:46:07.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights fro",
+   "image": null
+  },
+  {
+   "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly Start in",
+   "link": "https://dev.to/juleebradshawngzgz/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-5fa4",
+   "date": "2026-08-19T22:42:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here’s a step by step guide on how to configure your process to run as a native Windows Service, which ensures your launching automatically, running persistently in the background, and logging outputs cleanly. Steps Down",
+   "summary": "Meta Description: Learn how to manage Gmail accounts responsibly with practical guidance on security, privacy, 2FA, recovery, inbox organization, phishing protection, and long-term account care. 🌟💬 24/7 Premium Support",
    "image": null
+  },
+  {
+   "title": "Beyond the Video Call: Architecting the Next Generation of Programmable Real-Time Engagement",
+   "link": "https://dev.to/puspendra_yadav_abbd0222a/beyond-the-video-call-architecting-the-next-generation-of-programmable-real-time-engagement-egb",
+   "date": "2026-08-19T22:23:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "uzair aslam: Reliable HubSpot Sync with a Transactional Outbox and QStash",
+   "link": "https://postgr.es/p/9sH",
+   "date": "2026-08-19T22:07:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Build a retry-safe HubSpot synchronization pipeline with atomic outbox events, signed QStash workers, call-level rate control, reconciliation, and Sentry. A reliable HubSpot integration has to survive the worst possible ",
+   "image": "https://cdn.sanity.io/images/dis8yhkz/production/92879fcbbcb521ac781c1227ea809d7eb425551f-1536x1024.png"
+  },
+  {
+   "title": "uzair aslam: Modeling Multi-Brand Subscription Routing in HubSpot",
+   "link": "https://postgr.es/p/9sI",
+   "date": "2026-08-19T22:07:27.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A data-driven model for mapping websites and brands to HubSpot subscription types, Brands IDs, segments, contact properties, and analytics destinations. When brand A means six HubSpot segments, one communication subscrip",
+   "image": "https://cdn.sanity.io/images/dis8yhkz/production/86e74a1b6e9b9596f73a38b65090aa443ff8fc3b-1536x1024.png"
+  },
+  {
+   "title": "Good Test Automation Is Really a Feedback System",
+   "link": "https://dev.to/sleepyfalcon247/good-test-automation-is-really-a-feedback-system-4mk5",
+   "date": "2026-08-19T22:07:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A lot of teams talk about test automation as if the goal is to automate more tests. I think that's backwards. The goal is to get useful feedback faster. Automation is just one way to do that. You can have 5,000 automated",
+   "image": null
+  },
+  {
+   "title": "Build a Shared 429 Backoff Gate for Proxy Workers",
+   "link": "https://dev.to/98ip/build-a-shared-429-backoff-gate-for-proxy-workers-2la7",
+   "date": "2026-08-19T22:05:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When many workers share a proxy route or destination, handling 429 Too Many Requests inside each worker is not enough. They all discover the same limit separately, sleep separately, and often wake together. A safer desig",
+   "image": null
+  },
+  {
+   "title": "My agent missed a 15 minute reminder and that’s when I finally understood agent failure recovery",
+   "link": "https://dev.to/lars_winstand/my-agent-missed-a-15-minute-reminder-and-thats-when-i-finally-understood-agent-failure-recovery-316g",
+   "date": "2026-08-19T21:58:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A 15-minute reminder feels like the easiest possible AI task. Not research. remind me in 15 minutes. And yet this is exactly where a lot of agents break. I was reading a thread on r/openclaw where someone posted, very re",
+   "image": null
+  },
+  {
+   "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+   "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+   "date": "2026-08-19T19:02:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg"
+  },
+  {
+   "title": "Citizens Build, Agents Execute, Experts Govern",
+   "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+   "date": "2026-08-19T18:30:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what diffe",
+   "image": null
+  },
+  {
+   "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
+   "link": "https://martinfowler.com/articles/practitioner-voice.html",
+   "date": "2026-08-19T18:15:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it",
+   "image": null
+  },
+  {
+   "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+   "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+   "date": "2026-08-19T18:06:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg"
   },
   {
    "title": "CSS Navigation Matching, Early Days",
@@ -202,6 +292,16 @@
    "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/Screenshot%202026-08-19%20110847_0.png?itok=j0oaZtTs"
   },
   {
+   "title": "WordPress.com Student Plan",
+   "link": "https://css-tricks.com/wordpress-student-plan/",
+   "date": "2026-08-19T08:50:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
+   "image": null
+  },
+  {
    "title": "Stop guessing at gcache: inspect Galera/PXC write sets with gcache-inspector",
    "link": "https://www.percona.com/blog/stop-guessing-at-gcache-inspect-galera-pxc-write-sets-with-gcache-inspector/",
    "date": "2026-08-19T08:23:50.000Z",
@@ -230,16 +330,6 @@
    "source": "The Hacker News",
    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
-  },
-  {
-   "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-   "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-   "date": "2026-08-19T05:39:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
   },
   {
    "title": "Vibhor Kumar: Every AI Agent May Need PostgreSQL. Not Every Agent Should Own the Truth.",
@@ -322,16 +412,6 @@
    "image": null
   },
   {
-   "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-   "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-   "date": "2026-08-18T17:47:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
-  },
-  {
    "title": "Joshua Drake: PgColumnar 1.0Alpha2 released",
    "link": "https://postgr.es/p/9sC",
    "date": "2026-08-18T16:08:00.000Z",
@@ -402,26 +482,6 @@
    "image": null
   },
   {
-   "title": "Hans-Juergen Schoenig: Highly Available PostgreSQL on Kubernetes in 10 Minutes",
-   "link": "https://postgr.es/p/9sA",
-   "date": "2026-08-18T05:07:31.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "\"Highly available PostgreSQL\" usually means leader election, streaming replicas, automatic failover, health checks, and a lot of careful wiring. With the CYBERTEC PG Operator (CPO) it means a 14-line YAML file. Here's th",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: jit_debugging_support, jit_dump_bitcode, and jit_profiling_support",
-   "link": "https://postgr.es/p/9sy",
-   "date": "2026-08-18T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Inspect the LLVM bitcode PostgreSQL generates with `jit_dump_bitcode`, or wire JIT-compiled functions into GDB and perf with `jit_debugging_support` and…",
-   "image": null
-  },
-  {
    "title": "Laravel Chores: Resumable Data Operations and Cleanups",
    "link": "https://laravel-news.com/laravel-chores?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-18T00:37:09.000Z",
@@ -479,16 +539,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Joachim's blog: Making Entity Pager module API-first",
-   "link": "http://www.noreiko.com/blog/making-entity-pager-module-api-first",
-   "date": "2026-08-17T16:45:12.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Making Entity Pager module API-first It's funny how big ideas start. I am doing some maintenance work on the Entity Pager module, which has been fixing bugs, improving the tests, and so on. And because Computed Field is ",
    "image": null
   },
   {
@@ -592,16 +642,6 @@
    "image": null
   },
   {
-   "title": "CORS Chat",
-   "link": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-   "date": "2026-08-15T14:49:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: CORS Chat I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. It provides a web UI for exercising an OpenAI-Responses-comp",
-   "image": null
-  },
-  {
    "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
    "link": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
    "date": "2026-08-15T13:28:53.000Z",
@@ -609,16 +649,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
-   "image": null
-  },
-  {
-   "title": "Northern Gannet",
-   "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
-   "date": "2026-08-15T03:22:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the c",
    "image": null
   },
   {
@@ -882,16 +912,6 @@
    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
   },
   {
-   "title": "2026 State of CSS, Devs Surveys",
-   "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-   "date": "2026-08-06T15:54:52.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo! 2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get ",
-   "image": null
-  },
-  {
    "title": "The diagnostic data MongoDB Atlas doesn’t hand you",
    "link": "https://www.percona.com/blog/the-diagnostic-data-mongodb-atlas-doesnt-hand-you/",
    "date": "2026-08-06T14:46:43.000Z",
@@ -1082,16 +1102,6 @@
    "image": null
   },
   {
-   "title": "Why I’m Writing Rachel’s Ramblings",
-   "link": "https://martinfowler.com/rachels-ramblings/intro.html",
-   "date": "2026-07-28T12:32:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "TL;DR I have ideas. I haven’t been writing them. That’s about to change. I promise… myself. I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not",
-   "image": null
-  },
-  {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
    "link": "https://frontendfoc.us/issues/751",
    "date": "2026-07-22T00:00:00.000Z",
@@ -1100,16 +1110,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​751 — July 22, 2026 | Read on the web ⚽️ Rebuilding FIFA's Standings Layout with CSS Subgrid — The World Cup is over now, but this is an interesting design problem worth unpicking and understanding. A",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w7lmj3n3wkn15p1x2tot.jpg"
-  },
-  {
-   "title": "Fragments: July 21",
-   "link": "https://martinfowler.com/fragments/2026-07-21.html",
-   "date": "2026-07-21T13:13:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "With this post, I’ll wrap up my notes from the second Future of Software Development Retreat. But before I do, I should note that the full Thoughtworks report on the retreat is now available. They have five headline find",
-   "image": null
   },
   {
    "title": "PHP 8.6.0 Alpha 2 available for testing",
