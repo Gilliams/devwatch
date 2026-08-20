@@ -1,65 +1,165 @@
 {
- "generatedAt": "2026-08-20T17:42:12.031Z",
+ "generatedAt": "2026-08-20T23:36:31.388Z",
  "articles": [
   {
-   "title": "Every release makes the harness harder to fool: LLMKube 0.9.19",
-   "link": "https://dev.to/defilan/every-release-makes-the-harness-harder-to-fool-llmkube-0919-354k",
-   "date": "2026-08-20T17:34:16.000Z",
+   "title": "Kubernetes: rota secretos sin reinicios ciegos",
+   "link": "https://dev.to/alexcarteruk/kubernetes-rota-secretos-sin-reinicios-ciegos-1a7c",
+   "date": "2026-08-20T23:24:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "LLMKube 0.9.19 shipped this morning, and it is the strangest release we have cut. About half of it exists because we caught our own agent pipeline lying to us, in four different ways at once. The other half was written b",
+   "summary": "La rotacion de secretos en Kubernetes casi nunca falla de forma elegante. Lo normal es algo mas incomodo: un token vence, un pod sigue vivo con credenciales viejas, o una app reinicia bien en staging pero raro en prod. C",
    "image": null
   },
   {
-   "title": "Identity Infrastructure: Why Credentials Are the Layer Directories Don't Secure",
-   "link": "https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm",
-   "date": "2026-08-20T17:23:17.000Z",
+   "title": "I blamed the URL. The variable was which seat asked.",
+   "link": "https://dev.to/unmannedops/i-blamed-the-url-the-variable-was-which-seat-asked-f92",
+   "date": "2026-08-20T21:55:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "👉 TL;DR: Identity infrastructure is the foundation of enterprise security: the directories, identity providers, access management systems, credential stores, and governance workflows that control who and what can reach ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fixmzn8y9zlf6g83ov1my.png"
-  },
-  {
-   "title": "AWS EC2 Hands-On Practicals",
-   "link": "https://dev.to/tejas_shinkar/aws-ec2-hands-on-practicals-1jh",
-   "date": "2026-08-20T17:08:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "☁️ AWS EC2 Hands-On Practicals EC2, IAM Roles, EBS, AMIs, Snapshots, CLI and Boto3 Part of my AWS hands-on practical journey. This post documents the EC2 labs and practical tasks I completed, including what I built, how ",
+   "summary": "Three days ago I published a rule I had measured myself. It was wrong in a way that only showed up when I ran it from a different chair. I run an organization of agents on a schedule. Six slots a day, each a fresh sessio",
    "image": null
   },
   {
-   "title": "I Built an Interactive 365-Day Linux & SOC Analyst Master Platform (with Live In-Browser Labs & Threat Intel) 🚀",
-   "link": "https://dev.to/dwivedula_samrudh_e8cad8d/i-built-an-interactive-365-day-linux-soc-analyst-master-platform-with-live-in-browser-labs--4fm3",
-   "date": "2026-08-20T17:06:02.000Z",
+   "title": "Seven days of HTTP 200 while the page rendered blank",
+   "link": "https://dev.to/vouch/seven-days-of-http-200-while-the-page-rendered-blank-10jc",
+   "date": "2026-08-20T21:44:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Learning Linux and transitioning into defensive cybersecurity (Blue Team / SOC Analyst) can be overwhelming. Most tutorials stop at basic commands like ls, cd, and grep, while real-world SOC workflows (analyzing auth log",
+   "summary": "I shipped a landing page on August 13. For the next seven days every request to it HTTP 200. Analytics showed zero events. The form showed zero submissions. It was not \"nobody came.\" It was \"nothing was measured, and not",
    "image": null
   },
   {
-   "title": "How Enterprise Informatica Support Services Maintain Zero-Downtime Data Pipelines",
-   "link": "https://dev.to/jhon_smith/how-enterprise-informatica-support-services-maintain-zero-downtime-data-pipelines-15mo",
-   "date": "2026-08-20T17:06:00.000Z",
+   "title": "Two thirds of VPN vendors ship no Content-Security-Policy. Including, sort of, us.",
+   "link": "https://dev.to/ricco020/two-thirds-of-vpn-vendors-ship-no-content-security-policy-including-sort-of-us-i8",
+   "date": "2026-08-20T21:38:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Operating enterprise data integration architectures requires balancing continuous pipeline availability with routine software maintenance. When unexpected batch job crashes, driver connection drops, or memory leaks occur",
+   "summary": "I scanned the public homepages of thirty commercial VPN vendors for the six HTTP response headers mean score 3.66 / 6 Strict-Transport-Security 26/29 90% X-Content-Type-Options 25/29 86% X-Frame-Options 23/29 79% Referre",
    "image": null
   },
   {
-   "title": "A Matching Checksum Doesn't Prove What You Think: Integrity vs Authenticity",
-   "link": "https://dev.to/orthogonalinfo/a-matching-checksum-doesnt-prove-what-you-think-integrity-vs-authenticity-502b",
-   "date": "2026-08-20T17:03:34.000Z",
+   "title": "Exit Code 137 Was the Only Clue: My Free Server Had a Memory Ceiling I Never Measured",
+   "link": "https://dev.to/codepy_1473/exit-code-137-was-the-only-clue-my-free-server-had-a-memory-ceiling-i-never-measured-4856",
+   "date": "2026-08-20T21:29:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last week I downloaded a CLI release and saw the familiar pair of links: a binary and its SHA256SUMS file. I hashed the binary, the digest matched, and I felt safe for about five seconds. Then I noticed the binary and it",
+   "summary": "Last week my batch processor died three times in one night, and every death looked identical: no traceback, no error log, no restart message. The process just vanished while the API kept answering, so my first instinct w",
    "image": null
+  },
+  {
+   "title": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage",
+   "link": "https://dev.to/github_7727/opinion-a-free-server-is-a-failure-rehearsal-room-not-a-demo-stage-5h72",
+   "date": "2026-08-20T21:24:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage Your free server is the most underused environment in your infrastructure, and the reason is cultural rather than technical. Most teams deploy a featur",
+   "image": null
+  },
+  {
+   "title": "Serverless Containers Across AWS, Azure, GCP — Weekly Benchmarks for Aug 13 – Aug 19, 2026",
+   "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-13-aug-19-2026-j0p",
+   "date": "2026-08-20T20:45:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🐳 Serverless Containers — Weekly Provisioning Benchmarks Window: Aug 13 – Aug 19, 2026 | Total runs: 189 GCP us-east1 led serverless containers provisioning this week at p50 9.8s. Cloud p50 p95 Reliability Runs AWS 20.4",
+   "image": null
+  },
+  {
+   "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+   "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+   "date": "2026-08-20T20:22:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
+  },
+  {
+   "title": "The Strategic Importance of Geographic Location in Mobile App Development: A Market Analysis",
+   "link": "https://dev.to/bisma_ali_4/the-strategic-importance-of-geographic-location-in-mobile-app-development-a-market-analysis-237",
+   "date": "2026-08-20T20:13:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction The geographic location of your mobile app development partner has become increasingly significant in today's distributed digital economy. While remote work has eliminated many geographical constraints, choo",
+   "image": null
+  },
+  {
+   "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+   "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+   "date": "2026-08-20T19:59:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg"
+  },
+  {
+   "title": "Statamic Mailables Viewer Previews Laravel Emails in the Control Panel",
+   "link": "https://laravel-news.com/statamic-mailables-viewer?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-20T19:09:40.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Statamic Mailables Viewer discovers Laravel mailables and adds live previews, editable sample data, responsive views, and test sending to the Control Panel. The post Statamic Mailables Viewer Previews Laravel Emails in t",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/mailables-viewer-hero.png"
+  },
+  {
+   "title": "Read-Through Disks and Debounced Listeners in Laravel 13.26",
+   "link": "https://laravel-news.com/laravel-13-26-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-20T19:06:31.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.26 adds a read-through filesystem driver, debounced queued event listeners, Queue::forward() routing, and new process testing helpers. The post Read-Through Disks and Debounced Listeners in Laravel 13.26 appea",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Jimmy Angelakos: pg_statviz 1.2 released with PostgreSQL 19 support and new features",
+   "link": "https://postgr.es/p/9sQ",
+   "date": "2026-08-20T18:00:22.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Just in time for the PostgreSQL 19 betas, I'm excited to announce release 1.2 of pg_statviz, the minimalist extension and utility pair for time series analysis and visualization of PostgreSQL internal statistics. This re",
+   "image": "https://vyruss.org/blog/feeds/images/pg_statviz_1.2_preview.png"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #566 - DrupalEasy: Responsible Drupal AI",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-566-drupaleasy-responsible-drupal-ai",
+   "date": "2026-08-20T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Drupal, AI, and learning to use it responsibly with guest Mike Anello. We'll also cover Entity Mesh as our module of the week. For show notes visit: https://www.talkingDrupal.com/566 Topics Cou",
+   "image": null
+  },
+  {
+   "title": "Andrei Lepikhov: Do Global Hash Tables Strike Back in PostgreSQL?",
+   "link": "https://postgr.es/p/9sR",
+   "date": "2026-08-20T17:50:37.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "In this article written for experienced PostgreSQL engineers and core developers, I want to describe how we tested one hypothesis — whether a shared hash table can be used to speed up parallel aggregation by hashing. A r",
+   "image": "https://a.storyblok.com/f/187930/936x520/2c2532eaf4/figure-1-hash-tables.png"
+  },
+  {
+   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+   "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+   "date": "2026-08-20T17:23:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png"
   },
   {
    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -72,26 +172,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
   },
   {
-   "title": "How Does Software Testing Differ From Software Quality Assurance?",
-   "link": "https://dev.to/allenrichard12/how-does-software-testing-differ-from-software-quality-assurance-pa4",
-   "date": "2026-08-20T16:54:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When it comes to building reliable software, software testing and software quality assurance (QA) are often treated as if they mean the same thing. While both focus on improving software quality, they are actually differ",
-   "image": null
-  },
-  {
-   "title": "The Modern PWA Blueprint [Part 3]: Developer Velocity, Architecture & CI/CD",
-   "link": "https://dev.to/albertoboffi/the-modern-pwa-blueprint-part-3-developer-velocity-architecture-cicd-4bnd",
-   "date": "2026-08-20T16:53:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Developer Velocity: Why PWAs Ship Significantly Faster Rapid Iteration: Modern Tooling, HMR & Unified Codebases Progressive Web App evolution draws its foundations from simplicity and speed, mainly because it also draws ",
-   "image": null
-  },
-  {
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
    "date": "2026-08-20T16:52:57.000Z",
@@ -99,6 +179,26 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+   "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+   "date": "2026-08-20T15:37:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Research: A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rus",
+   "image": null
+  },
+  {
+   "title": "Mike Herchel's Blog: I’m Joining Acquia!",
+   "link": "https://herchel.com/articles/im-joining-acquia",
+   "date": "2026-08-20T15:10:08.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I’m Joining Acquia! mherchel Thu, 08/20/2026 - 11:10",
    "image": null
   },
   {
@@ -150,36 +250,6 @@
    "source": "The Hacker News",
    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CV",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
-  },
-  {
-   "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-   "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-   "date": "2026-08-20T12:01:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ter",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg"
-  },
-  {
-   "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-   "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-   "date": "2026-08-20T11:45:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg"
-  },
-  {
-   "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-   "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-   "date": "2026-08-20T11:39:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg"
   },
   {
    "title": "Kai Wagner: Hackorum Update: What's New Since February",
@@ -432,16 +502,6 @@
    "image": null
   },
   {
-   "title": "DrupalCon News & Updates: Migrating to Drupal CMS: From Classic Drupal & Other Platforms",
-   "link": "https://events.drupal.org/rotterdam2026/news/migrating-drupal-cms-classic-drupal-other-platforms",
-   "date": "2026-08-19T09:02:26.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Technical Blog Series Introduction The conversation at DrupalCon Rotterdam 2026 won't just be about what Drupal CMS 2.x can do — it will be about how teams are actually getting there. Migration is the real-world bridge b",
-   "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/Screenshot%202026-08-19%20110847_0.png?itok=j0oaZtTs"
-  },
-  {
    "title": "WordPress.com Student Plan",
    "link": "https://css-tricks.com/wordpress-student-plan/",
    "date": "2026-08-19T08:50:00.000Z",
@@ -460,46 +520,6 @@
    "source": "Percona Blog",
    "summary": "The common practice is to size the Galera Cache based on write volume measured during peak load, but often it is more of a guesswork. The writeset cache capacity planning is crucial to shorten the maintenance time and av",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/fig1.png"
-  },
-  {
-   "title": "Drupal Association blog: A First Look at the DrupalCon Orlando Venue",
-   "link": "https://www.drupal.org/association/blog/a-first-look-at-the-drupalcon-orlando-venue",
-   "date": "2026-08-19T06:05:41.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This is cross-posted from Mike Herchel's blog A few weeks ago, I met up with some of the DrupalCon Orlando local planning committee at the Hyatt Regency Grand Cypress Resort to check out the venue and finalize a bunch of",
-   "image": null
-  },
-  {
-   "title": "Vibhor Kumar: Every AI Agent May Need PostgreSQL. Not Every Agent Should Own the Truth.",
-   "link": "https://postgr.es/p/9sG",
-   "date": "2026-08-19T05:06:31.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Databricks’ acquisition of Electric is noteworthy for several reasons. Electric developed PGlite, a WebAssembly build of PostgreSQL that can run inside a browser, application, serverless environment, or AI agent sandbox.",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-15.png?w=1024"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: join_collapse_limit",
-   "link": "https://postgr.es/p/9sF",
-   "date": "2026-08-19T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL famously does not implement query hints. This is about 95% true, and join_collapse_limit is the other 5%: set it to 1, and the planner joins your tables in exactly the order you wrote them. This is not an expl",
-   "image": null
-  },
-  {
-   "title": "Read-Through Disks and Debounced Listeners in Laravel 13.26",
-   "link": "https://laravel-news.com/laravel-13-26-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-18T22:53:28.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.26 adds a read-through filesystem driver, debounced queued event listeners, Queue::forward() routing, and new process testing helpers. The post Read-Through Disks and Debounced Listeners in Laravel 13.26 appea",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "Laravel Read-Through Filesystem: Lazy Storage Migration",
@@ -582,16 +602,6 @@
    "image": null
   },
   {
-   "title": "Lerd: A Free, Open Source Herd Alternative for Linux and macOS",
-   "link": "https://laravel-news.com/lerd?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-17T22:44:10.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Lerd is a free, MIT-licensed local development environment for Linux and macOS: automatic .test domains, per-project PHP isolation, a built-in dashboard, and an MCP server for AI assistants. No Docker Desktop required. T",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/lerd-featured.png"
-  },
-  {
    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
    "date": "2026-08-17T19:46:21.000Z",
@@ -659,16 +669,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include",
-   "image": null
-  },
-  {
-   "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-   "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-   "date": "2026-08-16T22:00:39.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a rea",
    "image": null
   },
   {
