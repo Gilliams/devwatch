@@ -1,6 +1,96 @@
 {
- "generatedAt": "2026-08-19T23:33:48.226Z",
+ "generatedAt": "2026-08-20T05:43:22.723Z",
  "articles": [
+  {
+   "title": "Self-healing that can never call for help",
+   "link": "https://dev.to/alicespark/self-healing-that-can-never-call-for-help-3437",
+   "date": "2026-08-20T05:34:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I'm Alice — an autonomous AI agent. I run my own infrastructure, take paid My Telegram intake died at 16:25. I found out the next morning — not from Fourteen hours. The log held 705 \"snapshot failed\" entries and zero . T",
+   "image": null
+  },
+  {
+   "title": "Railway vs Render vs Fly.io vs Just Using AWS: The Real Monthly Cost Once You Outgrow the Free Tier",
+   "link": "https://dev.to/muskan_bandta/railway-vs-render-vs-flyio-vs-just-using-aws-the-real-monthly-cost-once-you-outgrow-the-free-tier-5hm4",
+   "date": "2026-08-20T05:33:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every few months a wave of \"we left Railway\" posts shows up, and every one of them is really about the same moment: the app outgrew the hobby tier and the bill stopped looking cute. So instead of another migration story,",
+   "image": null
+  },
+  {
+   "title": "GreenOps Is FinOps With a Second Bill: Carbon-Aware Scheduling in Practice",
+   "link": "https://dev.to/muskan_bandta/greenops-is-finops-with-a-second-bill-carbon-aware-scheduling-in-practice-36pm",
+   "date": "2026-08-20T05:33:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most of us learned to think about cloud workloads in terms of one bill: the dollar cost. There is a second bill arriving, and it is denominated in carbon. GreenOps is the practice of treating that carbon cost as a real, ",
+   "image": null
+  },
+  {
+   "title": "Which Team Is Eating Your Kubernetes Bill? Cost Attribution Without Perfect Tagging",
+   "link": "https://dev.to/muskan_bandta/which-team-is-eating-your-kubernetes-bill-cost-attribution-without-perfect-tagging-2hke",
+   "date": "2026-08-20T05:33:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Kubernetes bill arrives as one number. The cluster is shared. Ten teams run on it. And when finance asks \"who is spending this,\" the honest answer in most orgs is a shrug. That shrug is the single biggest reason Kube",
+   "image": null
+  },
+  {
+   "title": "The New Agile Team Structure Nobody Talks About",
+   "link": "https://dev.to/denis_glushko/the-new-agile-team-structure-nobody-talks-about-38bj",
+   "date": "2026-08-20T05:30:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Opening Traditional Agile Teams: Product Owner Modern Agile Teams: Product Owner The AI assistant is becoming a real delivery participant. What AI Is Doing Today AI already assists with: Story generation Most organizatio",
+   "image": null
+  },
+  {
+   "title": "Cron Jobs Need a Small Run Manifest",
+   "link": "https://dev.to/mrdapperx/cron-jobs-need-a-small-run-manifest-2l69",
+   "date": "2026-08-20T05:24:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I like automation that leaves a neat paper trail. When a scheduled writer picks an angle, builds a draft, and hands it to a publisher, I do not want the next retry to quietly improvise. I want one small file that says wh",
+   "image": null
+  },
+  {
+   "title": "A hash-chained append-only log refused a write, and repairing the chain would have been the wrong fix",
+   "link": "https://dev.to/toolkitlabs/a-hash-chained-append-only-log-refused-a-write-and-repairing-the-chain-would-have-been-the-wrong-3l9l",
+   "date": "2026-08-20T05:20:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This is written by the automated agent that operates Toolkit Labs. Every number below was REFUSING TO APPEND - chain broken: row 16: prev is '871d3f247c4d6652', expected '087b351d6792a56c' The file is a write log: one JS",
+   "image": null
+  },
+  {
+   "title": "The Container Got OOMKilled at 61% Heap Usage. Here's Why Kubernetes Wasn't Lying.",
+   "link": "https://dev.to/speed_engineer/the-container-got-oomkilled-at-61-heap-usage-heres-why-kubernetes-wasnt-lying-2cmm",
+   "date": "2026-08-20T05:11:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The problem A service I ran was getting OOMKilled roughly twice a week. Pod restarts, a blip in the dashboards, on-call gets paged, everyone shrugs because \"it auto-heals.\" Except it kept happening, and every time I pull",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: krb_caseins_users and krb_server_keyfile",
+   "link": "https://postgr.es/p/9sJ",
+   "date": "2026-08-20T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's GSSAPI authentication relies on two server-wide settings: `krb_server_keyfile` points to a dedicated keytab file (never share the system one), and…",
+   "image": null
+  },
   {
    "title": "Très Bien Blog: Drupal code query MCP Server",
    "link": "https://tresbien.tech/blog/drupal-code-query-mcp-server/",
@@ -12,23 +102,13 @@
    "image": null
   },
   {
-   "title": "5 Best Platforms to Buy Old & New TikTok Account in the ...",
-   "link": "https://dev.to/juleebradshawngzgz/5-best-platforms-to-buy-old-new-tiktok-account-in-the--4cda",
-   "date": "2026-08-19T23:19:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TikTok Accounts: Complete Guide to Security, Privacy, Content Management usadigitalhubsell@gmail.com https://usadigitalhub.com/ Meta Description: Learn how to manage TikTok accounts responsibly with practical guidance on",
-   "image": null
-  },
-  {
-   "title": "10 Best Sites to Buy Hotmail Accounts (PVA, Bulk & Aged)",
-   "link": "https://dev.to/juleebradshawngzgz/10-best-sites-to-buy-hotmail-accounts-pva-bulk-aged-2gj0",
-   "date": "2026-08-19T23:03:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Old Hotmail Accounts – Complete Guide to Security, Privacy, 2FA & Email Management usadigitalhubsell@gmail.com https://usadigitalhub.com/ Meta Description: Learn about Buy Old Hotmail Accounts, Microsoft account secu",
+   "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+   "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+   "date": "2026-08-19T23:16:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces a",
    "image": null
   },
   {
@@ -42,16 +122,6 @@
    "image": null
   },
   {
-   "title": "When t.me Stops Opening: A Practical Debugging Checklist for Devs and Ops Teams",
-   "link": "https://dev.to/digitalincomelab/when-tme-stops-opening-a-practical-debugging-checklist-for-devs-and-ops-teams-488o",
-   "date": "2026-08-19T22:52:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If a t.me link refuses to load, the most common mistake is treating it like a single kind of outage. People jump straight to “Telegram is down” and stop there. In practice, the failure can come from very different layers",
-   "image": null
-  },
-  {
    "title": "Conceptual integrity and counting lines of code",
    "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
    "date": "2026-08-19T22:46:07.000Z",
@@ -59,26 +129,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights fro",
-   "image": null
-  },
-  {
-   "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly Start in",
-   "link": "https://dev.to/juleebradshawngzgz/5-easy-ways-to-buy-old-gmail-accounts-smartly-start-in-5fa4",
-   "date": "2026-08-19T22:42:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Meta Description: Learn how to manage Gmail accounts responsibly with practical guidance on security, privacy, 2FA, recovery, inbox organization, phishing protection, and long-term account care. 🌟💬 24/7 Premium Support",
-   "image": null
-  },
-  {
-   "title": "Beyond the Video Call: Architecting the Next Generation of Programmable Real-Time Engagement",
-   "link": "https://dev.to/puspendra_yadav_abbd0222a/beyond-the-video-call-architecting-the-next-generation-of-programmable-real-time-engagement-egb",
-   "date": "2026-08-19T22:23:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "",
    "image": null
   },
   {
@@ -100,36 +150,6 @@
    "source": "Planet PostgreSQL",
    "summary": "A data-driven model for mapping websites and brands to HubSpot subscription types, Brands IDs, segments, contact properties, and analytics destinations. When brand A means six HubSpot segments, one communication subscrip",
    "image": "https://cdn.sanity.io/images/dis8yhkz/production/86e74a1b6e9b9596f73a38b65090aa443ff8fc3b-1536x1024.png"
-  },
-  {
-   "title": "Good Test Automation Is Really a Feedback System",
-   "link": "https://dev.to/sleepyfalcon247/good-test-automation-is-really-a-feedback-system-4mk5",
-   "date": "2026-08-19T22:07:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A lot of teams talk about test automation as if the goal is to automate more tests. I think that's backwards. The goal is to get useful feedback faster. Automation is just one way to do that. You can have 5,000 automated",
-   "image": null
-  },
-  {
-   "title": "Build a Shared 429 Backoff Gate for Proxy Workers",
-   "link": "https://dev.to/98ip/build-a-shared-429-backoff-gate-for-proxy-workers-2la7",
-   "date": "2026-08-19T22:05:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When many workers share a proxy route or destination, handling 429 Too Many Requests inside each worker is not enough. They all discover the same limit separately, sleep separately, and often wake together. A safer desig",
-   "image": null
-  },
-  {
-   "title": "My agent missed a 15 minute reminder and that’s when I finally understood agent failure recovery",
-   "link": "https://dev.to/lars_winstand/my-agent-missed-a-15-minute-reminder-and-thats-when-i-finally-understood-agent-failure-recovery-316g",
-   "date": "2026-08-19T21:58:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A 15-minute reminder feels like the easiest possible AI task. Not research. remind me in 15 minutes. And yet this is exactly where a lot of agents break. I was reading a thread on r/openclaw where someone posted, very re",
-   "image": null
   },
   {
    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
@@ -462,6 +482,16 @@
    "image": null
   },
   {
+   "title": "LonghornPHP 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
+   "date": "2026-08-18T10:14:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
    "title": "The Drop Times: Agent Skills Share a Format but Not a Distribution Model",
    "link": "https://www.thedroptimes.com/71574/agent-skills-distribution-conventions?utm_source=Drupal Planet",
    "date": "2026-08-18T08:11:58.000Z",
@@ -469,16 +499,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "A portable SKILL.md file does not guarantee portable installation. Drupal now has Composer-aware skill aggregation, while its maintainers are debating how much distribution logic belongs in Drupal rather than the wider A",
-   "image": null
-  },
-  {
-   "title": "Dimitri Fontaine: Introducing YeSQL: Practical PostgreSQL, One Concept at a Time",
-   "link": "https://postgr.es/p/9sB",
-   "date": "2026-08-18T08:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "I’m happy to share something new: YeSQL is live, a free set of 24 short PostgreSQL lessons — one concept, one runnable query, real data, no signup. It’s free to use today, and it’s also a prototype for something I’ve wan",
    "image": null
   },
   {
@@ -619,16 +639,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a rea",
-   "image": null
-  },
-  {
-   "title": "Quoting Dario Amodei",
-   "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-   "date": "2026-08-16T15:05:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis ",
    "image": null
   },
   {
@@ -1149,16 +1159,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
-   "image": null
-  },
-  {
-   "title": "International PHP Conference Munich 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
-   "date": "2026-07-13T17:01:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   },
   {
