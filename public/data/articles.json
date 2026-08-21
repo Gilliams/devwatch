@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-08-21T11:37:24.805Z",
+ "generatedAt": "2026-08-21T17:41:30.101Z",
  "articles": [
   {
-   "title": "Master Oracle Cloud Infrastructure – Free Demo on August 25!",
-   "link": "https://dev.to/subahan_fb0145a922ec7b750/master-oracle-cloud-infrastructure-free-demo-on-august-25-2lg0",
-   "date": "2026-08-21T11:33:45.000Z",
+   "title": "MCP servers won't start on Windows: the 'C:\\Program' space-in-path fix",
+   "link": "https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa",
+   "date": "2026-08-21T17:22:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🎓 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄 – 𝗢𝗿𝗮𝗰𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (𝗢𝗖𝗜) 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 📅 𝗗𝗲𝗺𝗼 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 🔗 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗟𝗶𝘃𝗲 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 https://acesse.one/2etk26z 📞 𝗥𝗲𝘀𝗲𝗿𝘃𝗲 \ud835",
+   "summary": "You follow all the setup steps. Node is installed the normal way, on the default path. You drop an MCP server into your Claude Desktop config, pointing command at npx. You save, restart, and wait. Nothing starts. The ser",
    "image": null
   },
   {
-   "title": "What actually breaks when you run LLM agents unattended for 58 days",
-   "link": "https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i",
-   "date": "2026-08-21T11:26:01.000Z",
+   "title": "Distributed Job Schedulers: Running the Right Work at the Right Time",
+   "link": "https://dev.to/r4hul/distributed-job-schedulers-running-the-right-work-at-the-right-time-448f",
+   "date": "2026-08-21T17:18:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We run an organization made of agents. Not a demo — a company's back office. Bookkeeping, For 58 days we recorded every failure. Not \"the run errored\" — what was wrong with the . 6768 records, published as a dataset. Thi",
+   "summary": "Distributed Job Schedulers: Running the Right Work at the Right Time Scheduling one function on one server is easy: add a cron entry and move on. But what happens when your application runs across multiple instances, job",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6qrb32f2qn8ckm55zljc.png"
+  },
+  {
+   "title": "Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge",
+   "link": "https://dev.to/milkyway008/smart-mcp-proxy-hot-swap-mcp-aggregation-ai-concierge-59fj",
+   "date": "2026-08-21T17:08:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Smart MCP Proxy — Hot-Swap MCP Aggregation + AI Concierge I got tired of restarting my agent every time I added an MCP server. Edit a config, restart the gateway, hope the desktop app picks it up... away from your desk, ",
    "image": null
   },
   {
-   "title": "SSL Certificate Monitoring in Python: Get Alerted Before Certs Expire",
-   "link": "https://dev.to/whoisfreaks/ssl-certificate-monitoring-in-python-get-alerted-before-certs-expire-4dn4",
-   "date": "2026-08-21T11:24:04.000Z",
+   "title": "Kubernetes for Beginners: From Local to Production – A Quest Worth the Ring (Lord of the Rings)",
+   "link": "https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-a-quest-worth-the-ring-lord-of-the-rings-18hi",
+   "date": "2026-08-21T17:08:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Certbot had been renewing that certificate for two years without anyone touching it. Then someone moved the webroot during a Nginx cleanup, the HTTP-01 challenge started failing, and the renewal cron kept exiting quietly",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7lqb9yojix59avlq6pml.png"
-  },
-  {
-   "title": "The 12-Factor App, The Rulebook Behind Every Cloud-Native Deploy",
-   "link": "https://dev.to/sri2614/the-12-factor-app-the-rulebook-behind-every-cloud-native-deploy-51k9",
-   "date": "2026-08-21T11:18:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Understand the twelve factors behind every cloud-native deploy, why Kubernetes was built around them, and the three that bite people most. Walk away able to apply them to a real Deployment manifest, plus the 15-",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fcmVwbygiQ29kZWJhc2U8YnIvPk9uZSBHaXQgcmVwbyAoRmFjdG9yIEkpIikKICBjbGFzcyBuX3JlcG8gY2xpZW50OwogIG5fY2koIkNJIEJ1aWxkPGJyLz5CdWlsZCBzdGFnZSAoRmFjdG9yIFYpIikKICBjbGFzcyBuX2NpIGVkZ2U7CiAgbl9pbWFnZSgiSW1tdXRhYmxlIEltYWdlPGJyLz5PbmUgYXJ0aWZhY3QsIGFsbCBlbnZzIikKICBjbGFzcyBuX2ltYWdlIGRhdGE7CiAgbl9wbGF0Zm9ybSgiUGxhdGZvcm0gUnVudGltZTxici8-S3ViZXJuZXRlcyAvIFBhYVMiKQogIGNsYXNzIG5fcGxhdGZvcm0gY29tcHV0ZTsKICBuX3Byb2NzKCJTdGF0ZWxlc3MgUHJvY2Vzc2VzPGJyLz5OIGlkZW50aWNhbCByZXBsaWNhcyAoVkksIFZJSUkpIikKICBjbGFzcyBuX3Byb2NzIGNvbXB1dGU7CiAgbl9jb25maWcoIkNvbmZpZyArIFNlY3JldHM8YnIvPkluamVjdGVkIGFzIGVudiB2YXJzIChGYWN0b3IgSUlJKSIpCiAgY2xhc3Mgbl9jb25maWcgcXVldWU7CiAgbl9sb2dzKCJMb2cgU3RyZWFtPGJyLz5zdGRvdXQgY29sbGVjdGVkIChGYWN0b3IgWEkpIikKICBjbGFzcyBuX2xvZ3Mgb2JzZXJ2YWJpbGl0eTsKICBuX2RiKCJCYWNraW5nIFNlcnZpY2VzPGJyLz5EQiwgY2FjaGUsIGF0dGFjaGVkIChGYWN0b3IgSVYpIikKICBjbGFzcyBuX2RiIGRhdGE7CiAgbl9yZXBvIC0tPnwiZ2l0IHB1c2gifCBuX2NpCiAgbl9jaSAtLT58ImJ1aWxkIG9uY2UifCBuX2ltYWdlCiAgbl9pbWFnZSAtLT58ImRlcGxveSJ8IG5fcGxhdGZvcm0KICBuX3BsYXRmb3JtIC0tPnwicnVuIE4gY29waWVzInwgbl9wcm9jcwogIG5fY29uZmlnIC0uLT58ImluamVjdCBlbnYifCBuX3Byb2NzCiAgbl9kYiAtLi0-fCJjb25uZWN0IHZpYSBVUkwifCBuX3Byb2NzCiAgbl9wcm9jcyAtLi0-fCJzdGRvdXQifCBuX2xvZ3M%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "Master the AI Skills Shaping the Future of Careers with Visualpath",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-the-ai-skills-shaping-the-future-of-careers-with-visualpath-2f26",
-   "date": "2026-08-21T11:16:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚀 𝗔𝗜 𝗜𝘀 𝗥𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗪𝗼𝗿𝗸 — 𝗔𝗿𝗲 𝗬𝗼𝘂 𝗥𝗲𝗮𝗱𝘆 𝘁𝗼 𝗟𝗲𝗮𝗱 𝘁𝗵𝗲 𝗖𝗵𝗮𝗻𝗴𝗲? 🌟 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝘁𝗵𝗲 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹𝘀 𝗦𝗵𝗮𝗽𝗶𝗻𝗴 𝟮𝟬𝟮𝟲: ✨ 𝗪𝗵𝘆 𝗟𝗲𝗮𝗿𝗻 𝘄",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I tried to ship a tiny Node.js API to a cloud VM and ended up wrestling with SSH keys, manual service restarts, and a config file that seemed to have",
    "image": null
   },
   {
-   "title": "Day 20: AWS Database — NoSQL, Warehouse & Cache (DynamoDB, Redshift, ElastiCache)",
-   "link": "https://dev.to/sr-palatasingh/day-20-aws-database-nosql-warehouse-cache-dynamodb-redshift-elasticache-3i6b",
-   "date": "2026-08-21T10:52:00.000Z",
+   "title": "Self-Hosted Security Stack: Hardening Docker with CrowdSec, Traefik & Authentik",
+   "link": "https://dev.to/enfernandes/self-hosted-security-stack-hardening-docker-with-crowdsec-traefik-authentik-1d6b",
+   "date": "2026-08-21T16:49:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Day 19 covered RDS and DMS — the relational side of AWS databases. Today we cover three services that each solve a problem relational databases weren't built for: flexible, high-speed data access at massive scale (Dynamo",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm30q5yogceeke0edmbu8.png"
-  },
-  {
-   "title": "⚙️ Designing a Data Bus for Uneven Logistics Workloads",
-   "link": "https://dev.to/evrone/designing-a-data-bus-for-uneven-logistics-workloads-24ki",
-   "date": "2026-08-21T10:48:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Logistics systems rarely receive data at a perfectly steady rate. Evrone encountered this challenge while working with a logistics company whose B2B integrations relied on Apache NiFi. The database received very differen",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frk9nptwm06louelcm9yb.jpg"
-  },
-  {
-   "title": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape",
-   "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-future-awaits-how-devops-training-in-btm-prepares-you-for-tomorrows-tech-landscape-375g",
-   "date": "2026-08-21T10:46:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape In today's fast-paced technology environment, the term DevOps Training in BTM has emerged as a beacon of transformation for softwar",
+   "summary": "Exposing self-hosted applications to the public internet can be daunting. Bot scanners, credential stuffers, and automated zero-day exploits probe open ports continuously. Rather than relying on proprietary cloud proxies",
    "image": null
+  },
+  {
+   "title": "Self-Hosted Email in 2026: Ditch Mailchimp & SendGrid with Listmonk + Stalwart",
+   "link": "https://dev.to/enfernandes/self-hosted-email-in-2026-ditch-mailchimp-sendgrid-with-listmonk-stalwart-2ef4",
+   "date": "2026-08-21T16:48:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you run a SaaS, newsletter, or growing e-commerce project, you already know the SaaS email tax: Mailchimp: Jumps from $20/mo to $350+/mo once your subscriber list crosses 50,000 contacts—even if you only send one mont",
+   "image": null
+  },
+  {
+   "title": "Why Visitors Leave Your Website Without Taking Action",
+   "link": "https://dev.to/chesea_dev/why-visitors-leave-your-website-without-taking-action-43lk",
+   "date": "2026-08-21T16:47:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your Website Isn't Confusing Because It Looks Bad. It's Confusing Because It Makes People Think. A website can look beautiful, load fast, and still lose visitors. Not because of the design. Because of the decision it's s",
+   "image": null
+  },
+  {
+   "title": "AWS Backups for Everyone",
+   "link": "https://dev.to/rosesecurity/aws-backups-for-everyone-1ngg",
+   "date": "2026-08-21T16:45:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A few days ago, I was poking around AWS Organizations and came across backup policies. I've written plenty of backup plans and schedules over the years, but I didn't realize I could roll them out across an entire organiz",
+   "image": null
+  },
+  {
+   "title": "Stop Making TUIs",
+   "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+   "date": "2026-08-21T16:07:32.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almo",
+   "image": null
+  },
+  {
+   "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+   "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+   "date": "2026-08-21T15:52:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+  },
+  {
+   "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+   "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+   "date": "2026-08-21T15:41:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
+   "image": null
+  },
+  {
+   "title": "Quoting Matt Webb",
+   "link": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+   "date": "2026-08-21T15:06:26.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able",
+   "image": null
+  },
+  {
+   "title": "Replatform Radar: Drupal to Headless: The Node IDs That Break the Move",
+   "link": "https://replatformradar.com/blog/drupal-to-headless-node-ids-that-break-the-move?utm_source=planet-drupal&utm_medium=feed",
+   "date": "2026-08-21T14:00:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "When you move a Drupal site to a headless CMS, the thing most likely to break silently is not your content. It is the invisible wiring between pieces of it. Drupal stores relationships as numeric IDs (node 4127, term 88,",
+   "image": null
+  },
+  {
+   "title": "New in Twig 3.29: Documentation Comments",
+   "link": "https://symfony.com/blog/new-in-twig-3-29-documentation-comments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-21T13:34:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Contributed by Fabien Potencier in #4871…",
+   "image": "https://github.com/fabpot.png"
+  },
+  {
+   "title": "Wazuh and AI For Enhanced SOC Workflows",
+   "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+   "date": "2026-08-21T11:21:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
   },
   {
    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
@@ -112,6 +192,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
   },
   {
+   "title": "Debounced Queued Event Listeners in Laravel",
+   "link": "https://laravel-news.com/laravel-debounced-queued-listeners?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-21T02:56:03.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel's DebounceFor attribute now works on queued event listeners, collapsing bursts of the same event into one handler run with debounceId and maxWait. The post Debounced Queued Event Listeners in Laravel appeared fir",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/debounced-queue-featured.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: lock_timeout",
    "link": "https://postgr.es/p/9sS",
    "date": "2026-08-21T01:00:00.000Z",
@@ -132,6 +222,36 @@
    "image": null
   },
   {
+   "title": "Measuring benchmark optimization in speech recognition",
+   "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Alexey Evlampiev: The Request Becomes a Transaction",
+   "link": "https://postgr.es/p/9sW",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The Request Becomes a Transaction# A transactional API has two halves: a network edge and a transactional operation. Keep the first at that edge; give the second to PostgreSQL, where its authority already lives — and eve",
+   "image": null
+  },
+  {
+   "title": "Mikhail Shytsko: The Postgres Insert That Fails Right After a Successful Load",
+   "link": "https://postgr.es/p/9sV",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The load finished without complaint, with row counts matching the fixture file and every foreign key resolving, but then the application inserts a row of its own, and Postgres refuses it: ERROR: duplicate key value viola",
+   "image": "https://seedfa.st/blog/postgres-sequence-out-of-sync-2.svg"
+  },
+  {
    "title": "ChatGPT search now uses the site:operator at scale",
    "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
    "date": "2026-08-20T23:57:32.000Z",
@@ -140,6 +260,16 @@
    "source": "Simon Willison",
    "summary": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your",
    "image": null
+  },
+  {
+   "title": "Agent Run Observability in Laravel AI SDK 0.11",
+   "link": "https://laravel-news.com/laravel-ai-sdk-0-11?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-20T23:05:54.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel AI SDK 0.11 adds run-level events for agent steps and tool calls, hosted tool search for OpenAI and Anthropic, and wider provider failover. The post Agent Run Observability in Laravel AI SDK 0.11 appeared first o",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
   },
   {
    "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
@@ -172,16 +302,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/mailables-viewer-hero.png"
   },
   {
-   "title": "Read-Through Disks and Debounced Listeners in Laravel 13.26",
-   "link": "https://laravel-news.com/laravel-13-26-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-20T19:06:31.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.26 adds a read-through filesystem driver, debounced queued event listeners, Queue::forward() routing, and new process testing helpers. The post Read-Through Disks and Debounced Listeners in Laravel 13.26 appea",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "Jimmy Angelakos: pg_statviz 1.2 released with PostgreSQL 19 support and new features",
    "link": "https://postgr.es/p/9sQ",
    "date": "2026-08-20T18:00:22.000Z",
@@ -210,26 +330,6 @@
    "source": "Planet PostgreSQL",
    "summary": "In this article written for experienced PostgreSQL engineers and core developers, I want to describe how we tested one hypothesis — whether a shared hash table can be used to speed up parallel aggregation by hashing. A r",
    "image": "https://a.storyblok.com/f/187930/936x520/2c2532eaf4/figure-1-hash-tables.png"
-  },
-  {
-   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-   "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-   "date": "2026-08-20T17:23:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png"
-  },
-  {
-   "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-   "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-   "date": "2026-08-20T16:59:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
   },
   {
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -262,14 +362,14 @@
    "image": null
   },
   {
-   "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-   "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-   "date": "2026-08-20T14:36:27.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
+   "title": "A Drupal Couple: A conversation in Cartagena",
+   "link": "https://www.adrupalcouple.us/the-ai-does-not-know-your-company",
+   "date": "2026-08-20T14:59:45.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A conversation in Cartagena Imagen I spent part of a trip talking with an architect and a facade specialist about how buildings behave, and then about when to service them. The systems hold the facts. A person holds the ",
+   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/hero-selected-torre-del-reloj.jpg.webp?itok=o-OSmgpl"
   },
   {
    "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
@@ -352,16 +452,6 @@
    "image": "https://bdrouvot.github.io/assets/images/pg_shmemviz-overview.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: krb_caseins_users and krb_server_keyfile",
-   "link": "https://postgr.es/p/9sJ",
-   "date": "2026-08-20T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's GSSAPI authentication relies on two server-wide settings: `krb_server_keyfile` points to a dedicated keytab file (never share the system one), and…",
-   "image": null
-  },
-  {
    "title": "Summer chaos",
    "link": "https://stitcher.io/blog/summer-chaos",
    "date": "2026-08-20T00:00:00.000Z",
@@ -369,16 +459,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
-   "image": null
-  },
-  {
-   "title": "Très Bien Blog: Drupal code query MCP Server",
-   "link": "https://tresbien.tech/blog/drupal-code-query-mcp-server/",
-   "date": "2026-08-19T23:25:05.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal code query MCP Server A few months ago I put an api online to search and query the whole Drupal code ecosystem. With the release of some more capable local AI models I thought it could be good to release a MCP ser",
    "image": null
   },
   {
@@ -432,16 +512,6 @@
    "image": null
   },
   {
-   "title": "uzair aslam: Reliable HubSpot Sync with a Transactional Outbox and QStash",
-   "link": "https://postgr.es/p/9sH",
-   "date": "2026-08-19T22:07:31.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Build a retry-safe HubSpot synchronization pipeline with atomic outbox events, signed QStash workers, call-level rate control, reconciliation, and Sentry. A reliable HubSpot integration has to survive the worst possible ",
-   "image": "https://cdn.sanity.io/images/dis8yhkz/production/92879fcbbcb521ac781c1227ea809d7eb425551f-1536x1024.png"
-  },
-  {
    "title": "Citizens Build, Agents Execute, Experts Govern",
    "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
    "date": "2026-08-19T18:30:00.000Z",
@@ -459,16 +529,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it",
-   "image": null
-  },
-  {
-   "title": "DrupalEasy: New functionality and an updated look for academy.drupaleasy.com",
-   "link": "https://www.drupaleasy.com/blogs/ultimike/2026/08/new-functionality-and-updated-look-academydrupaleasycom",
-   "date": "2026-08-19T15:16:44.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We recently spent some quality time with Claude Code to (finally!) update academy.drupaleasy.com, the training home for DrupalEasy's workshops and courses. We had several goals for the update, all of which we have achiev",
    "image": null
   },
   {
@@ -542,16 +602,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/fig1.png"
   },
   {
-   "title": "Laravel Read-Through Filesystem: Lazy Storage Migration",
-   "link": "https://laravel-news.com/laravel-read-through-filesystem?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-18T22:44:29.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel's read-through filesystem driver layers a primary disk over a fallback and copies files on first read, so you can switch storage without a bulk sync. The post Laravel Read-Through Filesystem: Lazy Storage Migrati",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-read-through-filesystem-featured.png"
-  },
-  {
    "title": "Mojo🔥 is now open source",
    "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
    "date": "2026-08-18T21:39:20.000Z",
@@ -612,16 +662,6 @@
    "image": null
   },
   {
-   "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-   "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-   "date": "2026-08-17T23:58:14.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSee",
-   "image": null
-  },
-  {
    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
    "date": "2026-08-17T19:46:21.000Z",
@@ -639,16 +679,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
-   "image": null
-  },
-  {
-   "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-   "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-   "date": "2026-08-17T15:21:29.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of b",
    "image": null
   },
   {
@@ -782,16 +812,6 @@
    "image": null
   },
   {
-   "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-   "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-   "date": "2026-08-12T16:14:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
    "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
    "date": "2026-08-12T13:43:56.000Z",
@@ -892,26 +912,6 @@
    "image": null
   },
   {
-   "title": "A Week of Symfony #1023 (August 3–9, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1023-august-3-9-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-09T07:46:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony 7.4.16 and 8.1.4 maintenance versions were released, alongside Symfony UX 3.4.0 and Symfony Polyfill 1.41.0. In addition, we highlighted Twig 4.0's new macro system and first-class sandbox. Finally, we",
-   "image": null
-  },
-  {
-   "title": "Symfony 8.1.4 released",
-   "link": "https://symfony.com/blog/symfony-8-1-4-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-07T18:08:16.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.4 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "The open way of Percona Search for MongoDB",
    "link": "https://www.percona.com/blog/the-open-way-of-percona-search-for-mongodb/",
    "date": "2026-08-07T14:55:06.000Z",
@@ -920,16 +920,6 @@
    "source": "Percona Blog",
    "summary": "Percona Search for MongoDB is Percona’s downstream distribution of mongot, the search engine that provides MongoDB’s full-text and vector search capabilities. With this addition, you can power your applications with AI a",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
-  },
-  {
-   "title": "Using and Styling the Dialog Element",
-   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-   "date": "2026-08-07T14:06:43.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
-   "image": null
   },
   {
    "title": "The DuckDB MySQL engine at 500 GB",
