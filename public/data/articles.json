@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-08-21T05:46:09.795Z",
+ "generatedAt": "2026-08-21T11:37:24.805Z",
  "articles": [
   {
-   "title": "AI Can Build an MVP in Hours. Can It Survive Production? A Look at the Companies and Engineering Practices That Matter",
-   "link": "https://dev.to/phil_07/ai-can-build-an-mvp-in-hours-can-it-survive-production-a-look-at-the-companies-and-engineering-bja",
-   "date": "2026-08-21T05:34:20.000Z",
+   "title": "Master Oracle Cloud Infrastructure – Free Demo on August 25!",
+   "link": "https://dev.to/subahan_fb0145a922ec7b750/master-oracle-cloud-infrastructure-free-demo-on-august-25-2lg0",
+   "date": "2026-08-21T11:33:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI coding tools have changed the economics of building software. A founder with limited technical experience can now describe an idea in natural language, generate an interface, connect a few services, and have a working",
+   "summary": "🎓 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄 – 𝗢𝗿𝗮𝗰𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 (𝗢𝗖𝗜) 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 📅 𝗗𝗲𝗺𝗼 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 🔗 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗟𝗶𝘃𝗲 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 https://acesse.one/2etk26z 📞 𝗥𝗲𝘀𝗲𝗿𝘃𝗲 \ud835",
    "image": null
   },
   {
-   "title": "aws trusted advisor vs compute optimizer vs cost explorer how much recoverable",
-   "link": "https://dev.to/zop_8abedcc7e12/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-how-much-recoverable-27jd",
-   "date": "2026-08-21T05:28:15.000Z",
+   "title": "What actually breaks when you run LLM agents unattended for 58 days",
+   "link": "https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i",
+   "date": "2026-08-21T11:26:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Teams stop trusting AWS cost recommendations the moment the console tells them they are \"already optimised\" while their invoice keeps climbing. That contradiction is not a percepti Teams stop trusting AWS cost reco",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuztkkewjt9u1oeekrtg6.png"
-  },
-  {
-   "title": "I benchmarked 5 graph databases. The first four hours measured the Indian Ocean.",
-   "link": "https://dev.to/burz4m_13b009bb9f0a92a88c/i-benchmarked-5-graph-databases-the-first-four-hours-measured-the-indian-ocean-1ea0",
-   "date": "2026-08-21T05:06:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A reproducible comparison of CognoDB Cloud, Neo4j AuraDB, Memgraph, FalkorDB and ArangoDB, and the two things that nearly made it lie. I was asked to benchmark CognoDB Cloud against four other managed graph databases. Sa",
+   "summary": "We run an organization made of agents. Not a demo — a company's back office. Bookkeeping, For 58 days we recorded every failure. Not \"the run errored\" — what was wrong with the . 6768 records, published as a dataset. Thi",
    "image": null
   },
   {
-   "title": "Magento Ecommerce Development Services in UAE",
-   "link": "https://dev.to/akshay_das_e899d71e1a7dd7/magento-ecommerce-development-services-in-uae-44k5",
-   "date": "2026-08-21T05:06:11.000Z",
+   "title": "SSL Certificate Monitoring in Python: Get Alerted Before Certs Expire",
+   "link": "https://dev.to/whoisfreaks/ssl-certificate-monitoring-in-python-get-alerted-before-certs-expire-4dn4",
+   "date": "2026-08-21T11:24:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The UAE’s growing ecommerce market requires online stores that are fast, secure, scalable, and easy to manage. Magento ecommerce development services in UAE help businesses build powerful ecommerce websites tailored to t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1j5nceorp0d6om38e910.png"
+   "summary": "Certbot had been renewing that certificate for two years without anyone touching it. Then someone moved the webroot during a Nginx cleanup, the HTTP-01 challenge started failing, and the renewal cron kept exiting quietly",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7lqb9yojix59avlq6pml.png"
   },
   {
-   "title": "Stop Spoofed Packets at the Edge: Practical nftables FIB Reverse Path Filtering on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-spoofed-packets-at-the-edge-practical-nftables-fib-reverse-path-filtering-on-linux-3jd0",
-   "date": "2026-08-21T05:02:25.000Z",
+   "title": "The 12-Factor App, The Rulebook Behind Every Cloud-Native Deploy",
+   "link": "https://dev.to/sri2614/the-12-factor-app-the-rulebook-behind-every-cloud-native-deploy-51k9",
+   "date": "2026-08-21T11:18:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Spoofed source addresses are still one of the cheapest ways to waste firewall CPU, poison logs, and bounce abuse complaints onto the wrong network. Linux already has a classic defense: rp_filter in the IPv4 sysctl tree. ",
+   "summary": "⚡ TL;DR: Understand the twelve factors behind every cloud-native deploy, why Kubernetes was built around them, and the three that bite people most. Walk away able to apply them to a real Deployment manifest, plus the 15-",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fcmVwbygiQ29kZWJhc2U8YnIvPk9uZSBHaXQgcmVwbyAoRmFjdG9yIEkpIikKICBjbGFzcyBuX3JlcG8gY2xpZW50OwogIG5fY2koIkNJIEJ1aWxkPGJyLz5CdWlsZCBzdGFnZSAoRmFjdG9yIFYpIikKICBjbGFzcyBuX2NpIGVkZ2U7CiAgbl9pbWFnZSgiSW1tdXRhYmxlIEltYWdlPGJyLz5PbmUgYXJ0aWZhY3QsIGFsbCBlbnZzIikKICBjbGFzcyBuX2ltYWdlIGRhdGE7CiAgbl9wbGF0Zm9ybSgiUGxhdGZvcm0gUnVudGltZTxici8-S3ViZXJuZXRlcyAvIFBhYVMiKQogIGNsYXNzIG5fcGxhdGZvcm0gY29tcHV0ZTsKICBuX3Byb2NzKCJTdGF0ZWxlc3MgUHJvY2Vzc2VzPGJyLz5OIGlkZW50aWNhbCByZXBsaWNhcyAoVkksIFZJSUkpIikKICBjbGFzcyBuX3Byb2NzIGNvbXB1dGU7CiAgbl9jb25maWcoIkNvbmZpZyArIFNlY3JldHM8YnIvPkluamVjdGVkIGFzIGVudiB2YXJzIChGYWN0b3IgSUlJKSIpCiAgY2xhc3Mgbl9jb25maWcgcXVldWU7CiAgbl9sb2dzKCJMb2cgU3RyZWFtPGJyLz5zdGRvdXQgY29sbGVjdGVkIChGYWN0b3IgWEkpIikKICBjbGFzcyBuX2xvZ3Mgb2JzZXJ2YWJpbGl0eTsKICBuX2RiKCJCYWNraW5nIFNlcnZpY2VzPGJyLz5EQiwgY2FjaGUsIGF0dGFjaGVkIChGYWN0b3IgSVYpIikKICBjbGFzcyBuX2RiIGRhdGE7CiAgbl9yZXBvIC0tPnwiZ2l0IHB1c2gifCBuX2NpCiAgbl9jaSAtLT58ImJ1aWxkIG9uY2UifCBuX2ltYWdlCiAgbl9pbWFnZSAtLT58ImRlcGxveSJ8IG5fcGxhdGZvcm0KICBuX3BsYXRmb3JtIC0tPnwicnVuIE4gY29waWVzInwgbl9wcm9jcwogIG5fY29uZmlnIC0uLT58ImluamVjdCBlbnYifCBuX3Byb2NzCiAgbl9kYiAtLi0-fCJjb25uZWN0IHZpYSBVUkwifCBuX3Byb2NzCiAgbl9wcm9jcyAtLi0-fCJzdGRvdXQifCBuX2xvZ3M%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "Master the AI Skills Shaping the Future of Careers with Visualpath",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-the-ai-skills-shaping-the-future-of-careers-with-visualpath-2f26",
+   "date": "2026-08-21T11:16:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "🚀 𝗔𝗜 𝗜𝘀 𝗥𝗲𝗱𝗲𝗳𝗶𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗪𝗼𝗿𝗸 — 𝗔𝗿𝗲 𝗬𝗼𝘂 𝗥𝗲𝗮𝗱𝘆 𝘁𝗼 𝗟𝗲𝗮𝗱 𝘁𝗵𝗲 𝗖𝗵𝗮𝗻𝗴𝗲? 🌟 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝘁𝗵𝗲 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹𝘀 𝗦𝗵𝗮𝗽𝗶𝗻𝗴 𝟮𝟬𝟮𝟲: ✨ 𝗪𝗵𝘆 𝗟𝗲𝗮𝗿𝗻 𝘄",
    "image": null
   },
   {
-   "title": "🌐 What is Cyberspace?",
-   "link": "https://dev.to/yash-infra/what-is-cyberspace-39d9",
-   "date": "2026-08-21T05:02:05.000Z",
+   "title": "Day 20: AWS Database — NoSQL, Warehouse & Cache (DynamoDB, Redshift, ElastiCache)",
+   "link": "https://dev.to/sr-palatasingh/day-20-aws-database-nosql-warehouse-cache-dynamodb-redshift-elasticache-3i6b",
+   "date": "2026-08-21T10:52:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🌐 What is Cyberspace? Most people confuse Cyberspace with the Internet, but they aren't the same. 💡 Bottom Line: The Internet is the road; Cyberspace is the entire digital city built on it! Are you securing the network",
+   "summary": "Day 19 covered RDS and DMS — the relational side of AWS databases. Today we cover three services that each solve a problem relational databases weren't built for: flexible, high-speed data access at massive scale (Dynamo",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm30q5yogceeke0edmbu8.png"
+  },
+  {
+   "title": "⚙️ Designing a Data Bus for Uneven Logistics Workloads",
+   "link": "https://dev.to/evrone/designing-a-data-bus-for-uneven-logistics-workloads-24ki",
+   "date": "2026-08-21T10:48:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Logistics systems rarely receive data at a perfectly steady rate. Evrone encountered this challenge while working with a logistics company whose B2B integrations relied on Apache NiFi. The database received very differen",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frk9nptwm06louelcm9yb.jpg"
+  },
+  {
+   "title": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape",
+   "link": "https://dev.to/lm_pg_ae695f1a4c717f/the-future-awaits-how-devops-training-in-btm-prepares-you-for-tomorrows-tech-landscape-375g",
+   "date": "2026-08-21T10:46:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Future Awaits: How DevOps Training in BTM Prepares You for Tomorrow's Tech Landscape In today's fast-paced technology environment, the term DevOps Training in BTM has emerged as a beacon of transformation for softwar",
    "image": null
   },
   {
-   "title": "How to Detect a DDoS Attack on a Linux Server via CLI",
-   "link": "https://dev.to/ethan_vance/how-to-detect-a-ddos-attack-on-a-linux-server-via-cli-39g",
-   "date": "2026-08-21T05:00:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When your Linux server load suddenly spikes, guessing the cause is not an option. In these critical moments, you need to know immediately whether you are dealing with a legitimate traffic surge, a misbehaving application",
-   "image": null
+   "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+   "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+   "date": "2026-08-21T10:03:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crossw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
   },
   {
-   "title": "Building a Production-Style AWS Infrastructure with Terraform Modules",
-   "link": "https://dev.to/shawmeer22/building-a-production-style-aws-infrastructure-with-terraform-modules-bhl",
-   "date": "2026-08-21T04:38:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I recently built a small production-style AWS environment using Terraform modules to understand better how networking, private EC2 instances, a NAT Gateway, security groups, and an Application Load Balancer work together",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zjz2lvsh5dhtbxplkgb.png"
+   "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+   "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+   "date": "2026-08-21T07:04:25.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
+  },
+  {
+   "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+   "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+   "date": "2026-08-21T06:06:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: lock_timeout",
@@ -89,6 +119,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Prevent your migration from starving behind long-running queries.",
+   "image": null
+  },
+  {
+   "title": "\"A\" for \"Apathy\"",
+   "link": "https://stitcher.io/blog/a-for-apathy",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/a-for-apathy",
    "image": null
   },
   {
@@ -232,16 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
   },
   {
-   "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-   "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-   "date": "2026-08-20T13:48:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
-  },
-  {
    "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
    "link": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
    "date": "2026-08-20T13:35:23.000Z",
@@ -250,26 +280,6 @@
    "source": "Codrops",
    "summary": "Exploring the techniques behind an audio-reactive 3D scene, from custom geometry deformation and music analysis to scroll-driven morphing, damping, and performance optimization.",
    "image": null
-  },
-  {
-   "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-   "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-   "date": "2026-08-20T13:35:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg"
-  },
-  {
-   "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-   "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-   "date": "2026-08-20T13:24:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CV",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
   },
   {
    "title": "Kai Wagner: Hackorum Update: What's New Since February",
@@ -363,16 +373,6 @@
   },
   {
    "title": "Très Bien Blog: Drupal code query MCP Server",
-   "link": "http://default/blog/drupal-code-query-mcp-server/",
-   "date": "2026-08-19T23:27:46.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal code query MCP Server A few months ago I put an api online to search and query the whole Drupal code ecosystem. With the release of some more capable local AI models I thought it could be good to release a MCP ser",
-   "image": null
-  },
-  {
-   "title": "Très Bien Blog: Drupal code query MCP Server",
    "link": "https://tresbien.tech/blog/drupal-code-query-mcp-server/",
    "date": "2026-08-19T23:25:05.000Z",
    "theme": "drupal",
@@ -462,6 +462,26 @@
    "image": null
   },
   {
+   "title": "DrupalEasy: New functionality and an updated look for academy.drupaleasy.com",
+   "link": "https://www.drupaleasy.com/blogs/ultimike/2026/08/new-functionality-and-updated-look-academydrupaleasycom",
+   "date": "2026-08-19T15:16:44.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We recently spent some quality time with Claude Code to (finally!) update academy.drupaleasy.com, the training home for DrupalEasy's workshops and courses. We had several goals for the update, all of which we have achiev",
+   "image": null
+  },
+  {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
+   "image": null
+  },
+  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -499,6 +519,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
+   "image": null
+  },
+  {
+   "title": "WordPress.com Student Plan",
+   "link": "https://css-tricks.com/wordpress-student-plan/",
+   "date": "2026-08-19T08:50:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -562,6 +592,16 @@
    "image": null
   },
   {
+   "title": "LonghornPHP 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
+   "date": "2026-08-18T10:14:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
    "link": "https://huggingface.co/blog/multi-vector-encoder",
    "date": "2026-08-18T00:00:00.000Z",
@@ -612,6 +652,16 @@
    "image": null
   },
   {
+   "title": "Dark mode toggles: two states are enough",
+   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+   "date": "2026-08-17T14:15:50.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
+   "image": null
+  },
+  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -649,6 +699,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
+   "image": null
+  },
+  {
+   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+   "link": "https://css-tricks.com/whats-important-17/",
+   "date": "2026-08-14T14:01:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
    "image": null
   },
   {
@@ -732,6 +792,16 @@
    "image": null
   },
   {
+   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+   "date": "2026-08-12T13:43:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
+   "image": null
+  },
+  {
    "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
    "link": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
    "date": "2026-08-12T13:10:49.000Z",
@@ -802,6 +872,26 @@
    "image": null
   },
   {
+   "title": "Animating CSS border-image",
+   "link": "https://css-tricks.com/animating-css-border-image/",
+   "date": "2026-08-10T15:58:47.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
+   "image": null
+  },
+  {
+   "title": "SmashingConf Freiburg 2026, September 7-10",
+   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+   "date": "2026-08-10T15:57:39.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
+   "image": null
+  },
+  {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1023-august-3-9-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-09T07:46:00.000Z",
@@ -830,6 +920,16 @@
    "source": "Percona Blog",
    "summary": "Percona Search for MongoDB is Percona’s downstream distribution of mongot, the search engine that provides MongoDB’s full-text and vector search capabilities. With this addition, you can power your applications with AI a",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
+  },
+  {
+   "title": "Using and Styling the Dialog Element",
+   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+   "date": "2026-08-07T14:06:43.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
+   "image": null
   },
   {
    "title": "The DuckDB MySQL engine at 500 GB",
@@ -1079,16 +1179,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
-   "image": null
-  },
-  {
-   "title": "International PHP Conference Munich 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
-   "date": "2026-07-13T17:01:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   },
   {
