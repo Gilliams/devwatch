@@ -1,74 +1,104 @@
 {
- "generatedAt": "2026-08-20T23:36:31.388Z",
+ "generatedAt": "2026-08-21T05:46:09.795Z",
  "articles": [
   {
-   "title": "Kubernetes: rota secretos sin reinicios ciegos",
-   "link": "https://dev.to/alexcarteruk/kubernetes-rota-secretos-sin-reinicios-ciegos-1a7c",
-   "date": "2026-08-20T23:24:36.000Z",
+   "title": "AI Can Build an MVP in Hours. Can It Survive Production? A Look at the Companies and Engineering Practices That Matter",
+   "link": "https://dev.to/phil_07/ai-can-build-an-mvp-in-hours-can-it-survive-production-a-look-at-the-companies-and-engineering-bja",
+   "date": "2026-08-21T05:34:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "La rotacion de secretos en Kubernetes casi nunca falla de forma elegante. Lo normal es algo mas incomodo: un token vence, un pod sigue vivo con credenciales viejas, o una app reinicia bien en staging pero raro en prod. C",
+   "summary": "AI coding tools have changed the economics of building software. A founder with limited technical experience can now describe an idea in natural language, generate an interface, connect a few services, and have a working",
    "image": null
   },
   {
-   "title": "I blamed the URL. The variable was which seat asked.",
-   "link": "https://dev.to/unmannedops/i-blamed-the-url-the-variable-was-which-seat-asked-f92",
-   "date": "2026-08-20T21:55:21.000Z",
+   "title": "aws trusted advisor vs compute optimizer vs cost explorer how much recoverable",
+   "link": "https://dev.to/zop_8abedcc7e12/aws-trusted-advisor-vs-compute-optimizer-vs-cost-explorer-how-much-recoverable-27jd",
+   "date": "2026-08-21T05:28:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Three days ago I published a rule I had measured myself. It was wrong in a way that only showed up when I ran it from a different chair. I run an organization of agents on a schedule. Six slots a day, each a fresh sessio",
+   "summary": "TL;DR Teams stop trusting AWS cost recommendations the moment the console tells them they are \"already optimised\" while their invoice keeps climbing. That contradiction is not a percepti Teams stop trusting AWS cost reco",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuztkkewjt9u1oeekrtg6.png"
+  },
+  {
+   "title": "I benchmarked 5 graph databases. The first four hours measured the Indian Ocean.",
+   "link": "https://dev.to/burz4m_13b009bb9f0a92a88c/i-benchmarked-5-graph-databases-the-first-four-hours-measured-the-indian-ocean-1ea0",
+   "date": "2026-08-21T05:06:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A reproducible comparison of CognoDB Cloud, Neo4j AuraDB, Memgraph, FalkorDB and ArangoDB, and the two things that nearly made it lie. I was asked to benchmark CognoDB Cloud against four other managed graph databases. Sa",
    "image": null
   },
   {
-   "title": "Seven days of HTTP 200 while the page rendered blank",
-   "link": "https://dev.to/vouch/seven-days-of-http-200-while-the-page-rendered-blank-10jc",
-   "date": "2026-08-20T21:44:29.000Z",
+   "title": "Magento Ecommerce Development Services in UAE",
+   "link": "https://dev.to/akshay_das_e899d71e1a7dd7/magento-ecommerce-development-services-in-uae-44k5",
+   "date": "2026-08-21T05:06:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I shipped a landing page on August 13. For the next seven days every request to it HTTP 200. Analytics showed zero events. The form showed zero submissions. It was not \"nobody came.\" It was \"nothing was measured, and not",
+   "summary": "The UAE’s growing ecommerce market requires online stores that are fast, secure, scalable, and easy to manage. Magento ecommerce development services in UAE help businesses build powerful ecommerce websites tailored to t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1j5nceorp0d6om38e910.png"
+  },
+  {
+   "title": "Stop Spoofed Packets at the Edge: Practical nftables FIB Reverse Path Filtering on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-spoofed-packets-at-the-edge-practical-nftables-fib-reverse-path-filtering-on-linux-3jd0",
+   "date": "2026-08-21T05:02:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Spoofed source addresses are still one of the cheapest ways to waste firewall CPU, poison logs, and bounce abuse complaints onto the wrong network. Linux already has a classic defense: rp_filter in the IPv4 sysctl tree. ",
    "image": null
   },
   {
-   "title": "Two thirds of VPN vendors ship no Content-Security-Policy. Including, sort of, us.",
-   "link": "https://dev.to/ricco020/two-thirds-of-vpn-vendors-ship-no-content-security-policy-including-sort-of-us-i8",
-   "date": "2026-08-20T21:38:33.000Z",
+   "title": "🌐 What is Cyberspace?",
+   "link": "https://dev.to/yash-infra/what-is-cyberspace-39d9",
+   "date": "2026-08-21T05:02:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I scanned the public homepages of thirty commercial VPN vendors for the six HTTP response headers mean score 3.66 / 6 Strict-Transport-Security 26/29 90% X-Content-Type-Options 25/29 86% X-Frame-Options 23/29 79% Referre",
+   "summary": "🌐 What is Cyberspace? Most people confuse Cyberspace with the Internet, but they aren't the same. 💡 Bottom Line: The Internet is the road; Cyberspace is the entire digital city built on it! Are you securing the network",
    "image": null
   },
   {
-   "title": "Exit Code 137 Was the Only Clue: My Free Server Had a Memory Ceiling I Never Measured",
-   "link": "https://dev.to/codepy_1473/exit-code-137-was-the-only-clue-my-free-server-had-a-memory-ceiling-i-never-measured-4856",
-   "date": "2026-08-20T21:29:28.000Z",
+   "title": "How to Detect a DDoS Attack on a Linux Server via CLI",
+   "link": "https://dev.to/ethan_vance/how-to-detect-a-ddos-attack-on-a-linux-server-via-cli-39g",
+   "date": "2026-08-21T05:00:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last week my batch processor died three times in one night, and every death looked identical: no traceback, no error log, no restart message. The process just vanished while the API kept answering, so my first instinct w",
+   "summary": "When your Linux server load suddenly spikes, guessing the cause is not an option. In these critical moments, you need to know immediately whether you are dealing with a legitimate traffic surge, a misbehaving application",
    "image": null
   },
   {
-   "title": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage",
-   "link": "https://dev.to/github_7727/opinion-a-free-server-is-a-failure-rehearsal-room-not-a-demo-stage-5h72",
-   "date": "2026-08-20T21:24:37.000Z",
+   "title": "Building a Production-Style AWS Infrastructure with Terraform Modules",
+   "link": "https://dev.to/shawmeer22/building-a-production-style-aws-infrastructure-with-terraform-modules-bhl",
+   "date": "2026-08-21T04:38:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Opinion: A Free Server Is a Failure Rehearsal Room, Not a Demo Stage Your free server is the most underused environment in your infrastructure, and the reason is cultural rather than technical. Most teams deploy a featur",
+   "summary": "I recently built a small production-style AWS environment using Terraform modules to understand better how networking, private EC2 instances, a NAT Gateway, security groups, and an Application Load Balancer work together",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6zjz2lvsh5dhtbxplkgb.png"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: lock_timeout",
+   "link": "https://postgr.es/p/9sS",
+   "date": "2026-08-21T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Prevent your migration from starving behind long-running queries.",
    "image": null
   },
   {
-   "title": "Serverless Containers Across AWS, Azure, GCP — Weekly Benchmarks for Aug 13 – Aug 19, 2026",
-   "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/serverless-containers-across-aws-azure-gcp-weekly-benchmarks-for-aug-13-aug-19-2026-j0p",
-   "date": "2026-08-20T20:45:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🐳 Serverless Containers — Weekly Provisioning Benchmarks Window: Aug 13 – Aug 19, 2026 | Total runs: 189 GCP us-east1 led serverless containers provisioning this week at p50 9.8s. Cloud p50 p95 Reliability Runs AWS 20.4",
+   "title": "ChatGPT search now uses the site:operator at scale",
+   "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+   "date": "2026-08-20T23:57:32.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your",
    "image": null
   },
   {
@@ -80,16 +110,6 @@
    "source": "The Hacker News",
    "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
-  },
-  {
-   "title": "The Strategic Importance of Geographic Location in Mobile App Development: A Market Analysis",
-   "link": "https://dev.to/bisma_ali_4/the-strategic-importance-of-geographic-location-in-mobile-app-development-a-market-analysis-237",
-   "date": "2026-08-20T20:13:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction The geographic location of your mobile app development partner has become increasingly significant in today's distributed digital economy. While remote work has eliminated many geographical constraints, choo",
-   "image": null
   },
   {
    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
@@ -152,7 +172,7 @@
    "image": "https://a.storyblok.com/f/187930/936x520/2c2532eaf4/figure-1-hash-tables.png"
   },
   {
-   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+   "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
    "date": "2026-08-20T17:23:48.000Z",
    "theme": "securite",
@@ -343,6 +363,16 @@
   },
   {
    "title": "Très Bien Blog: Drupal code query MCP Server",
+   "link": "http://default/blog/drupal-code-query-mcp-server/",
+   "date": "2026-08-19T23:27:46.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal code query MCP Server A few months ago I put an api online to search and query the whole Drupal code ecosystem. With the release of some more capable local AI models I thought it could be good to release a MCP ser",
+   "image": null
+  },
+  {
+   "title": "Très Bien Blog: Drupal code query MCP Server",
    "link": "https://tresbien.tech/blog/drupal-code-query-mcp-server/",
    "date": "2026-08-19T23:25:05.000Z",
    "theme": "drupal",
@@ -412,16 +442,6 @@
    "image": "https://cdn.sanity.io/images/dis8yhkz/production/92879fcbbcb521ac781c1227ea809d7eb425551f-1536x1024.png"
   },
   {
-   "title": "uzair aslam: Modeling Multi-Brand Subscription Routing in HubSpot",
-   "link": "https://postgr.es/p/9sI",
-   "date": "2026-08-19T22:07:27.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A data-driven model for mapping websites and brands to HubSpot subscription types, Brands IDs, segments, contact properties, and analytics destinations. When brand A means six HubSpot segments, one communication subscrip",
-   "image": "https://cdn.sanity.io/images/dis8yhkz/production/86e74a1b6e9b9596f73a38b65090aa443ff8fc3b-1536x1024.png"
-  },
-  {
    "title": "Citizens Build, Agents Execute, Experts Govern",
    "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
    "date": "2026-08-19T18:30:00.000Z",
@@ -442,16 +462,6 @@
    "image": null
   },
   {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
-   "image": null
-  },
-  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -460,16 +470,6 @@
    "source": "Codrops",
    "summary": "Explore how depth maps, TSL, and WebGPU can be combined to turn flat 2D images into dynamic surfaces with realistic lighting, surface detail, and self-shadowing.",
    "image": null
-  },
-  {
-   "title": "Omega8.cc: Artificial Stupidity, Revisited",
-   "link": "https://omega8.cc/blog/artificial-stupidity-revisited",
-   "date": "2026-08-19T13:35:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "For 30 years we write all our code by hand in BBEdit, the BOA Drupal hosting stack included, and until recently the smartest chatbot money could buy couldn't produce three bash scripts aware of each other, so our verdict",
-   "image": "https://omega8.cc/images/a/4/4/5/4/a44543a9f19a9beee43f73aa28250f5f3d5eb25f-ai-in-boa-dev-why-and-how.jpg"
   },
   {
    "title": "Symfony Reprise 0.8.0 released",
@@ -499,16 +499,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
-   "image": null
-  },
-  {
-   "title": "WordPress.com Student Plan",
-   "link": "https://css-tricks.com/wordpress-student-plan/",
-   "date": "2026-08-19T08:50:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -572,16 +562,6 @@
    "image": null
   },
   {
-   "title": "LonghornPHP 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
-   "date": "2026-08-18T10:14:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
    "link": "https://huggingface.co/blog/multi-vector-encoder",
    "date": "2026-08-18T00:00:00.000Z",
@@ -632,16 +612,6 @@
    "image": null
   },
   {
-   "title": "Dark mode toggles: two states are enough",
-   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-   "date": "2026-08-17T14:15:50.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
-   "image": null
-  },
-  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -662,16 +632,6 @@
    "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/guide/tour.gif"
   },
   {
-   "title": "Markdown SVG upgrades",
-   "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-   "date": "2026-08-16T23:59:37.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1024 (August 10–16, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1024-august-10-16-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-16T07:01:00.000Z",
@@ -689,16 +649,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
-   "image": null
-  },
-  {
-   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-   "link": "https://css-tricks.com/whats-important-17/",
-   "date": "2026-08-14T14:01:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
    "image": null
   },
   {
@@ -782,16 +732,6 @@
    "image": null
   },
   {
-   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-   "date": "2026-08-12T13:43:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
-   "image": null
-  },
-  {
    "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
    "link": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
    "date": "2026-08-12T13:10:49.000Z",
@@ -862,26 +802,6 @@
    "image": null
   },
   {
-   "title": "Animating CSS border-image",
-   "link": "https://css-tricks.com/animating-css-border-image/",
-   "date": "2026-08-10T15:58:47.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
-   "image": null
-  },
-  {
-   "title": "SmashingConf Freiburg 2026, September 7-10",
-   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-   "date": "2026-08-10T15:57:39.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1023 (August 3–9, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1023-august-3-9-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-09T07:46:00.000Z",
@@ -910,16 +830,6 @@
    "source": "Percona Blog",
    "summary": "Percona Search for MongoDB is Percona’s downstream distribution of mongot, the search engine that provides MongoDB’s full-text and vector search capabilities. With this addition, you can power your applications with AI a",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
-  },
-  {
-   "title": "Using and Styling the Dialog Element",
-   "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-   "date": "2026-08-07T14:06:43.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "There's a lot of nuance to the element, a seemingly little piece of web architecture. I've got some notes from digging into it. Using and Styling the Dialog Element originally handwritten and published with love on CSS-T",
-   "image": null
   },
   {
    "title": "The DuckDB MySQL engine at 500 GB",
@@ -1172,6 +1082,16 @@
    "image": null
   },
   {
+   "title": "International PHP Conference Munich 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
+   "date": "2026-07-13T17:01:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
+   "image": null
+  },
+  {
    "title": "PHP version stats: July, 2026",
    "link": "https://stitcher.io/blog/php-version-stats-july-2026",
    "date": "2026-07-09T00:00:00.000Z",
@@ -1189,16 +1109,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
-   "image": null
-  },
-  {
-   "title": "Getting started with PHP",
-   "link": "https://stitcher.io/blog/getting-started-with-php",
-   "date": "2026-07-07T00:00:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "stitcher.io",
-   "summary": "Read the full post on https://stitcher.io/blog/getting-started-with-php",
    "image": null
   }
  ]
