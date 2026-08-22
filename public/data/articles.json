@@ -1,24 +1,94 @@
 {
- "generatedAt": "2026-08-21T23:35:18.493Z",
+ "generatedAt": "2026-08-22T05:38:40.511Z",
  "articles": [
   {
-   "title": "Terraform: alertas de drift con contexto",
-   "link": "https://dev.to/alexcarteruk/terraform-alertas-de-drift-con-contexto-514k",
-   "date": "2026-08-21T23:24:38.000Z",
+   "title": "55 Best Sites For Buying Aged Gmail Accounts Safely",
+   "link": "https://dev.to/tommikemp9af1r/55-best-sites-for-buying-aged-gmail-accounts-safely-3ajc",
+   "date": "2026-08-22T05:22:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Las alertas de drift en Terraform suelen fallar de una forma muy discreta. El detector corre, encuentra diferencia entre el estado y la realidad, manda un correo, y en teoria ya esta. En la practica, muchas veces el mens",
+   "summary": "Buy Old Gmail Accounts – What You Should Know getpvatop@gmail.com https://getpvatop.com/product/buy-old-gmail-accounts/ Gmail is one of the most widely used email platforms for personal communication, business correspond",
    "image": null
   },
   {
-   "title": "Opinion: An AI Patch That Can't Undo Itself Isn't Done",
-   "link": "https://dev.to/github_7727/opinion-an-ai-patch-that-cant-undo-itself-isnt-done-48bl",
-   "date": "2026-08-21T23:18:25.000Z",
+   "title": "Production-Ready PostgreSQL on a VPS: Automated Backups with pgBackRest, Patroni HA, and Docker",
+   "link": "https://dev.to/enfernandes/production-ready-postgresql-on-a-vps-automated-backups-with-pgbackrest-patroni-ha-and-docker-2d13",
+   "date": "2026-08-22T05:12:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every AI patch is tested for the path it takes, never for the path it leaves behind. CI pipelines apply the patch, run the probes, and call it done, while the undo path stays untested until the moment it is needed. That ",
+   "summary": "Production-Ready PostgreSQL on a VPS: Automated Backups with pgBackRest, Patroni HA, and Docker Managed database cloud services (AWS RDS, Google Cloud SQL, Supabase Cloud) charge eye-watering markups on RAM, storage IOPS",
+   "image": null
+  },
+  {
+   "title": "Top 5 Real-Time AI Usage Tracking and Cost Metering Tools published",
+   "link": "https://dev.to/flexprice_8116ed925/top-5-real-time-ai-usage-tracking-and-cost-metering-tools-published-1g01",
+   "date": "2026-08-22T05:11:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most AI startups do not lose money because the product is bad. They lose it because they cannot see their costs while the costs are happening. Inference-heavy workloads and third-party model APIs can double overnight, an",
+   "image": null
+  },
+  {
+   "title": "Self-Hosted Git & Code Collaboration in 2026: Forgejo vs Gitea vs GitLab CE vs OneDev",
+   "link": "https://dev.to/enfernandes/self-hosted-git-code-collaboration-in-2026-forgejo-vs-gitea-vs-gitlab-ce-vs-onedev-ina",
+   "date": "2026-08-22T05:11:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Self-Hosted Git & Code Collaboration in 2026: Forgejo vs Gitea vs GitLab CE vs OneDev As GitHub Actions runner minutes multiply, private repository caps tighten, and proprietary AI scanners ingest your private codebase, ",
+   "image": null
+  },
+  {
+   "title": "Building a Factory Time Synchronization System with NTP and Industrial LED Clocks",
+   "link": "https://dev.to/phuc_bach_22e/building-a-factory-time-synchronization-system-with-ntp-and-industrial-led-clocks-51n1",
+   "date": "2026-08-22T05:10:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In industrial environments, time synchronization is often treated as a simple display problem. In reality, it can affect production coordination, event logging, shift management, and communication between different opera",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F98rb21l1ahytcehwo3k7.png"
+  },
+  {
+   "title": "Stop Spinning Up Full VMs for Every Test Lab: Practical systemd-nspawn Containers on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-spinning-up-full-vms-for-every-test-lab-practical-systemd-nspawn-containers-on-linux-pgn",
+   "date": "2026-08-22T05:02:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Stop Spinning Up Full VMs for Every Test Lab: Practical systemd-nspawn Containers on Linux You need a throwaway Debian box to try a package upgrade. Or a clean Fedora root to reproduce a packaging bug. Or a second \"machi",
+   "image": null
+  },
+  {
+   "title": "My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.",
+   "link": "https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j",
+   "date": "2026-08-22T05:00:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A monitoring script that dies quietly is worse than no monitoring at all. Mine proved it twice: first it reported a 7-day spend of $234 when ccusage daily said the real number was $48 (a 4–6x overcount from double-summin",
+   "image": null
+  },
+  {
+   "title": "Why our liveness probe timed out even though /healthCheck never touched Redis",
+   "link": "https://dev.to/mridul_it_is/why-our-liveness-probe-timed-out-even-though-healthcheck-never-touched-redis-404j",
+   "date": "2026-08-22T04:42:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The alert looked like a dependency outage. Readiness and liveness on our Java service were failing in bursts — context deadline exceeded (Client.Timeout exceeded while awaiting headers) — and around the same window, appl",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxi257w1lmt49ccwh9owz.png"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: local_preload_libraries",
+   "link": "https://postgr.es/p/9sY",
+   "date": "2026-08-22T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Load shared libraries per-session from a single curated directory, no superuser needed.",
    "image": null
   },
   {
@@ -29,66 +99,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "The definitive configuration guide to Drupal's SEO module stack: Pathauto, Redirect, Metatag, Simple XML Sitemap vs XML Sitemap, Schema.org Metatag, and five more — with the exact settings I use on every build and the mi",
-   "image": null
-  },
-  {
-   "title": "Self-Hosted Team Wikis & Docs in 2026: Outline vs Docmost vs Wiki.js vs BookStack",
-   "link": "https://dev.to/enfernandes/self-hosted-team-wikis-docs-in-2026-outline-vs-docmost-vs-wikijs-vs-bookstack-4he",
-   "date": "2026-08-21T22:53:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Self-Hosted Team Wikis & Docs in 2026: Outline vs Docmost vs Wiki.js vs BookStack Cloud workspace tools like Notion, Confluence, and Slite start affordable but quickly skyrocket as your team expands ($10–$25 per user/mon",
-   "image": null
-  },
-  {
-   "title": "Self-Hosted Vector Databases in 2026: Qdrant vs pgvector vs Milvus vs Chroma for Production AI",
-   "link": "https://dev.to/enfernandes/self-hosted-vector-databases-in-2026-qdrant-vs-pgvector-vs-milvus-vs-chroma-for-production-ai-1j32",
-   "date": "2026-08-21T22:53:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Self-Hosted Vector Databases in 2026: Qdrant vs pgvector vs Milvus vs Chroma for Production AI Managed vector databases like Pinecone and Weaviate Cloud charge eye-watering sums once your embedding collections grow into ",
-   "image": null
-  },
-  {
-   "title": "Supercharging Dev VMs with Vagrant and Ansible (2014)",
-   "link": "https://dev.to/hamdi_laadhari/supercharging-dev-vms-with-vagrant-and-ansible-2014-4c58",
-   "date": "2026-08-21T22:31:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Archival repost — originally published on my old blog on April 30, 2014. Already in English, lightly cleaned up for dev.to (fixed a few typos and reworded one sentence about Ansible's learning curve that read backwards i",
-   "image": null
-  },
-  {
-   "title": "Critical Outage SMS Alerts in 2026 — Polling, Retry, Cancellation, and Template Ownership",
-   "link": "https://dev.to/thalion51/critical-outage-sms-alerts-in-2026-polling-retry-cancellation-and-template-ownership-92e",
-   "date": "2026-08-21T22:14:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Short answer: an SMS API is a workable choice for critical US and EU app outage alerts when the backend can poll delivery status and owns the retry, escalation, cancellation, and timing policy. For a customer-support con",
-   "image": null
-  },
-  {
-   "title": "Chrome Can Now Measure Your SPA's Core Web Vitals. Google's Ranking Data Still Can't See Them.",
-   "link": "https://dev.to/jameshammer/chrome-can-now-measure-your-spas-core-web-vitals-googles-ranking-data-still-cant-see-them-4c3f",
-   "date": "2026-08-21T21:38:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Chrome 151 went stable on July 28. Three weeks later, most of the coverage of that release has already moved on, but one change in it deserves more attention than it's getting: real, unflagged support for measuring Core ",
-   "image": null
-  },
-  {
-   "title": "Microsoft PowerToys v0.101 Preview — Command Palette System Actions and AI Release Agent",
-   "link": "https://dev.to/tekmag/microsoft-powertoys-v0101-preview-command-palette-system-actions-and-ai-release-agent-179f",
-   "date": "2026-08-21T21:34:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published at https://tekmag.thsite.top/microsoft-powertoys-v0-101-preview-command-palette-system-actions-and-ai-release-agent/ Microsoft PowerToys v0.101 Preview brings two headline features for Windows power ",
    "image": null
   },
   {
@@ -128,7 +138,7 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter's im",
+   "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter'",
    "image": null
   },
   {
@@ -462,16 +472,6 @@
    "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/54860886953_689fb25c49_c_0.jpg?itok=2Xfm107_"
   },
   {
-   "title": "Cornelia Biacsics: Contributions for week 31 & 32",
-   "link": "https://postgr.es/p/9sK",
-   "date": "2026-08-20T07:51:13.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 6 August, the Postgres Summit US 2026 Program Committee met to finalize the schedule: Chelsea Dole Jonathan Hinds Jonathan Katz On 11 August, the San Francisco Bay Area PostgreSQL Meetup Group, organized by Katharine ",
-   "image": null
-  },
-  {
    "title": "Summer chaos",
    "link": "https://stitcher.io/blog/summer-chaos",
    "date": "2026-08-20T00:00:00.000Z",
@@ -639,16 +639,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "Learn how to build a dynamic testimonial hero in Webflow using CMS data, a custom JavaScript counter, and GSAP’s visual timeline.",
-   "image": null
-  },
-  {
-   "title": "LonghornPHP 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
-   "date": "2026-08-18T10:14:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
    "image": null
   },
   {
@@ -1169,6 +1159,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
+   "image": null
+  },
+  {
+   "title": "International PHP Conference Munich 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
+   "date": "2026-07-13T17:01:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   },
   {
