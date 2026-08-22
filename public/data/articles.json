@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-08-22T11:32:15.791Z",
+ "generatedAt": "2026-08-22T17:33:18.315Z",
  "articles": [
   {
-   "title": "Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise (Full Production Docker Guide)",
-   "link": "https://dev.to/enfernandes/self-hosted-ai-workflows-automation-in-2026-n8n-vs-activepieces-vs-dify-vs-flowise-full-39og",
-   "date": "2026-08-22T11:15:29.000Z",
+   "title": "EKS Rollbacks Need Signal Routing",
+   "link": "https://dev.to/jasonmills94/eks-rollbacks-need-signal-routing-3ccg",
+   "date": "2026-08-22T17:24:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Self-Hosted AI Workflows & Automation in 2026: n8n vs Activepieces vs Dify vs Flowise Cloud automation platforms like Zapier, Make.com, and Retool can quickly become budget killers. Once you exceed basic tier quotas or t",
+   "summary": "Rollback automation is usually treated like a deployment concern, but the alert path matters just as much. In one EKS environment I worked on, the cluster rolled back correctly after a bad release, yet the on-call respon",
    "image": null
   },
   {
-   "title": "Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability",
-   "link": "https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732",
-   "date": "2026-08-22T11:00:00.000Z",
+   "title": "Ditching Airtable: Complete Guide to Self-Hosted No-Code Databases (NocoDB vs Baserow vs Grist)",
+   "link": "https://dev.to/enfernandes/ditching-airtable-complete-guide-to-self-hosted-no-code-databases-nocodb-vs-baserow-vs-grist-3ibj",
+   "date": "2026-08-22T17:20:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Thanks for taking the time to read. If you’ve worked on AI platforms, cloud infrastructure, or platform engineering, I’d love to hear how your architecture differs in the comments. In Part 4 of AI Infrastructure for Clou",
+   "summary": "Airtable's enterprise pricing ($20–$45/user/month) and strict 50k–100k record limits per base make scaling internal operations painfully expensive. Furthermore, storing sensitive customer lists, ERP records, and operatio",
    "image": null
   },
   {
-   "title": "Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim",
-   "link": "https://dev.to/mr_manushukla/console-to-code-reached-32-aws-services-on-17-august-2026-and-the-guide-contradicts-the-cross-tab-2g0o",
-   "date": "2026-08-22T10:50:18.000Z",
+   "title": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate",
+   "link": "https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac",
+   "date": "2026-08-22T17:20:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Console-to-Code reached 32 AWS services on 17 August 2026, and the guide contradicts the cross-tab claim Summary. On 17 August 2026 AWS expanded Console-to-Code from 6 to 32 services and said it had added \"cross-region a",
+   "summary": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate Most teams start with a direct OpenAI (or Anthropic) SDK call. That works until you have three apps, two providers, and a security review asking who can ca",
    "image": null
   },
   {
-   "title": "From a Local Docker App to AWS EKS: My DevOps Project",
-   "link": "https://dev.to/amira_abidi/from-a-local-docker-app-to-aws-eks-my-devops-project-3om5",
-   "date": "2026-08-22T10:36:43.000Z",
+   "title": "Self-Hosted Cloud Storage in 2026: Nextcloud vs OwnCloud Infinite Scale vs Seafile vs FileBrowser",
+   "link": "https://dev.to/enfernandes/self-hosted-cloud-storage-in-2026-nextcloud-vs-owncloud-infinite-scale-vs-seafile-vs-filebrowser-175n",
+   "date": "2026-08-22T17:20:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I recently worked on a DevOps project with a simple starting point: an application that worked perfectly fine on my local machine. The application, LibraryCorner, consists of a frontend, a FastAPI backend, and a PostgreS",
+   "summary": "Public cloud storage pricing keeps creeping up, accompanied by aggressive AI training clauses and telemetry scanning. For engineering teams, homelabs, and privacy-conscious agencies, hosting your own sync & share cloud s",
    "image": null
   },
   {
-   "title": "The DevOps Roadmap I Wish Someone Had Handed Me on Day One",
-   "link": "https://dev.to/dehemi_fabio/the-devops-roadmap-i-wish-someone-had-handed-me-on-day-one-332m",
-   "date": "2026-08-22T10:30:09.000Z",
+   "title": "Your Developer Toolchain Is a Supply Chain Attack Surface — Here's How I Hardened Mine",
+   "link": "https://dev.to/prasannavarshan/your-developer-toolchain-is-a-supply-chain-attack-surface-heres-how-i-hardened-mine-4ghm",
+   "date": "2026-08-22T17:14:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I'm a software engineering student, about 16 months out from graduation, and somewhere in the last year \"learn DevOps\" quietly turned from a side interest into the actual plan — cloud, Kubernetes, Terraform, the whole st",
+   "summary": "A practical guide to applying SLSA, Sigstore, and SBOM-based verification to the tools on your local machine. We obsess over dependency scanning in CI/CD. We pin versions in package-lock.json. We run Dependabot. But what",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiocvviu2qkcdw6dbdw6z.png"
+  },
+  {
+   "title": "\"Decide Later\" Is Not an Architecture Strategy",
+   "link": "https://dev.to/ntctech/decide-later-is-not-an-architecture-strategy-5d19",
+   "date": "2026-08-22T17:14:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Azure VMware Solution is putting a useful architectural lesson on display: postponing a platform decision can feel like preserving optionality, right up until someone else puts an expiration date on it. Microsoft confirm",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdfr4id65ub0s2c3n1dte.jpg"
+  },
+  {
+   "title": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels",
+   "link": "https://dev.to/milkyway008/why-ollama-runs-on-cpu-after-an-update-the-missing-sm86-cuda-kernels-39bn",
+   "date": "2026-08-22T17:05:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels You update Ollama, pull the model you use every day, and everything gets slower. Not broken, not erroring. Just slow. ollama ps says something like 1",
    "image": null
   },
   {
-   "title": "I Was Called “Aspiring” — Then I Realized I Had Already Started Becoming",
-   "link": "https://dev.to/off_limit001/i-was-called-aspiring-then-i-realized-i-had-already-started-becoming-2nah",
-   "date": "2026-08-22T10:22:07.000Z",
+   "title": "3 Tier Application On EKS",
+   "link": "https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7",
+   "date": "2026-08-22T16:45:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I Was Called “Aspiring” — Then I Realized I Had Already Started Becoming",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fytenqmhdktszrf1urva7.jpg"
-  },
-  {
-   "title": "From Red to Green: Building a Jenkins Pipeline That Actually Ships Code",
-   "link": "https://dev.to/awter12/from-red-to-green-building-a-jenkins-pipeline-that-actually-ships-code-5748",
-   "date": "2026-08-22T10:17:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There is a particular kind of satisfaction that comes from watching a pipeline go fully green after an entire day of failures. This is the story of building a Jenkins CI/CD pipeline that pulls code from a private reposit",
+   "summary": "I built a 3-tier application running on Amazon EKS, deployed by a GitHub Actions pipeline that runs on every merge to main. The first version of that pipeline had two secrets sitting in the repo settings: AWS_ACCESS_KEY_",
    "image": null
   },
   {
-   "title": "The integrity check you already have skips your paid extensions",
-   "link": "https://dev.to/cifi/the-integrity-check-you-already-have-skips-your-paid-extensions-21ff",
-   "date": "2026-08-22T10:06:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "WP-CLI ships a real integrity check. It compares installed plugin files against the checksums published by wordpress.org: wp plugin verify-checksums --all On a blog, that is a decent baseline. On a store, run it and read",
+   "title": "More than just code review",
+   "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+   "date": "2026-08-22T15:56:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Someti",
+   "image": null
+  },
+  {
+   "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+   "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+   "date": "2026-08-22T14:32:41.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg"
+  },
+  {
+   "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
+   "link": "https://tympanus.net/codrops/2026/08/22/sixty-frames-for-the-record-a-three-js-game-seven-fly-throughs-and-a-wall-of-crts/",
+   "date": "2026-08-22T14:00:14.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "What building a Three.js lab around my own music taught me about the renderer.",
+   "image": null
+  },
+  {
+   "title": "Symfony 8.1.5 released",
+   "link": "https://symfony.com/blog/symfony-8-1-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-22T13:47:38.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.1.5 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 7.4.17 released",
+   "link": "https://symfony.com/blog/symfony-7-4-17-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-22T13:44:16.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 7.4.17 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 6.4.44 released",
+   "link": "https://symfony.com/blog/symfony-6-4-44-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-22T13:40:41.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 6.4.44 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
   },
   {
@@ -342,16 +402,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
   },
   {
-   "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-   "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-   "date": "2026-08-20T20:22:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
-  },
-  {
    "title": "Statamic Mailables Viewer Previews Laravel Emails in the Control Panel",
    "link": "https://laravel-news.com/statamic-mailables-viewer?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-20T19:09:40.000Z",
@@ -489,16 +539,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces a",
-   "image": null
-  },
-  {
-   "title": "Quoting Jeremy Morrell",
-   "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-   "date": "2026-08-19T22:56:31.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good securi",
    "image": null
   },
   {
@@ -642,6 +682,16 @@
    "image": null
   },
   {
+   "title": "LonghornPHP 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
+   "date": "2026-08-18T10:14:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
    "link": "https://huggingface.co/blog/multi-vector-encoder",
    "date": "2026-08-18T00:00:00.000Z",
@@ -782,16 +832,6 @@
    "image": null
   },
   {
-   "title": "Announcing the Symfony AI Core Team",
-   "link": "https://symfony.com/blog/announcing-the-symfony-ai-core-team?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-13T07:04:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "When we announced the Symfony AI initiative in July 2025, the goal was to bring powerful, well-integrated AI capabilities to PHP applications and to build them in the open with the community. A little over a year later, ",
-   "image": null
-  },
-  {
    "title": "What We Learned by Reproducing 2,200 papers from ICML",
    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
    "date": "2026-08-13T00:00:00.000Z",
@@ -840,26 +880,6 @@
    "source": "Kubernetes Blog",
    "summary": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives ",
    "image": null
-  },
-  {
-   "title": "Exploring Procedural Geometry with Three.js and WebGPU",
-   "link": "https://tympanus.net/codrops/2026/08/11/exploring-procedural-geometry-with-three-js-and-webgpu/",
-   "date": "2026-08-11T14:29:11.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A deep dive into building a flexible Three.js Geometry Painter with WebGPU and TSL, from surface picking and procedural geometry to live controls, custom shaders, lighting, and post-processing.",
-   "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026:  Why AI Output Is the New XSS",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-11T13:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "We are counting down to SymfonyCon Warsaw 2026, taking place on November 26-27, 2026, in Warsaw (Poland)! Get ready for a week full of workshops, sessions, and community magic. 🎤 Speaker announcements Make sure not to m",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-38.png"
   },
   {
    "title": "Percona for MongoDB: RHEL 10, Its Derivatives, and Debian 13 – On Both x86_64 and ARM",
@@ -1162,16 +1182,6 @@
    "image": null
   },
   {
-   "title": "International PHP Conference Munich 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
-   "date": "2026-07-13T17:01:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
-   "image": null
-  },
-  {
    "title": "PHP version stats: July, 2026",
    "link": "https://stitcher.io/blog/php-version-stats-july-2026",
    "date": "2026-07-09T00:00:00.000Z",
@@ -1179,16 +1189,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/php-version-stats-july-2026",
-   "image": null
-  },
-  {
-   "title": "Announcing etcd v3.7.0",
-   "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/",
-   "date": "2026-07-08T12:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0, the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-reque",
    "image": null
   }
  ]
