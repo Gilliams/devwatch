@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-08-22T17:33:18.315Z",
+ "generatedAt": "2026-08-22T23:33:09.056Z",
  "articles": [
   {
-   "title": "EKS Rollbacks Need Signal Routing",
-   "link": "https://dev.to/jasonmills94/eks-rollbacks-need-signal-routing-3ccg",
-   "date": "2026-08-22T17:24:16.000Z",
+   "title": "Self-Hosted Reverse Proxy & API Gateway Guide: Traefik vs Caddy vs Nginx Proxy Manager vs Kong",
+   "link": "https://dev.to/enfernandes/self-hosted-reverse-proxy-api-gateway-guide-traefik-vs-caddy-vs-nginx-proxy-manager-vs-kong-47p2",
+   "date": "2026-08-22T23:24:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Rollback automation is usually treated like a deployment concern, but the alert path matters just as much. In one EKS environment I worked on, the cluster rolled back correctly after a bad release, yet the on-call respon",
+   "summary": "When deploying self-hosted services, exposing them securely to the public internet or private VPN is your first architectural decision. An ingress layer must handle: Automatic SSL/TLS certificate issuance and renewals vi",
    "image": null
   },
   {
-   "title": "Ditching Airtable: Complete Guide to Self-Hosted No-Code Databases (NocoDB vs Baserow vs Grist)",
-   "link": "https://dev.to/enfernandes/ditching-airtable-complete-guide-to-self-hosted-no-code-databases-nocodb-vs-baserow-vs-grist-3ibj",
-   "date": "2026-08-22T17:20:44.000Z",
+   "title": "Self-Hosted Project Management in 2026: Plane vs Leantime vs Focalboard vs Taiga",
+   "link": "https://dev.to/enfernandes/self-hosted-project-management-in-2026-plane-vs-leantime-vs-focalboard-vs-taiga-4166",
+   "date": "2026-08-22T23:24:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Airtable's enterprise pricing ($20–$45/user/month) and strict 50k–100k record limits per base make scaling internal operations painfully expensive. Furthermore, storing sensitive customer lists, ERP records, and operatio",
+   "summary": "SaaS project management tools like Jira ($8.15+/user/mo), Linear ($10–$14/user/mo), and Asana ($13.49+/user/mo) quickly become significant monthly line items for growing engineering teams. Beyond cost, centralizing produ",
    "image": null
   },
   {
-   "title": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate",
-   "link": "https://dev.to/victor_garca_a9d07ddc486/agent-gateway-in-60-seconds-governed-llm-traffic-with-trustgate-2dac",
-   "date": "2026-08-22T17:20:35.000Z",
+   "title": "I deleted a queue and my own CLI told me a resource had been added",
+   "link": "https://dev.to/hitoshi1964/i-deleted-a-queue-and-my-own-cli-told-me-a-resource-had-been-added-38h",
+   "date": "2026-08-22T23:00:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Agent Gateway in 60 Seconds: Governed LLM Traffic with TrustGate Most teams start with a direct OpenAI (or Anthropic) SDK call. That works until you have three apps, two providers, and a security review asking who can ca",
+   "summary": "Last week I finally did something I'd been putting off for months: I pointed my AWS drift detector at a fake AWS. Not a mock in a unit test — a real emulator listening on a real port, speaking the real API. I created a h",
    "image": null
   },
   {
-   "title": "Self-Hosted Cloud Storage in 2026: Nextcloud vs OwnCloud Infinite Scale vs Seafile vs FileBrowser",
-   "link": "https://dev.to/enfernandes/self-hosted-cloud-storage-in-2026-nextcloud-vs-owncloud-infinite-scale-vs-seafile-vs-filebrowser-175n",
-   "date": "2026-08-22T17:20:11.000Z",
+   "title": "Self-Hosted AI Coding Agent: Sandboxed Prompt-to-Deploy for $25/mo",
+   "link": "https://dev.to/umesh_malik/self-hosted-ai-coding-agent-sandboxed-prompt-to-deploy-for-25mo-3oj7",
+   "date": "2026-08-22T22:29:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Public cloud storage pricing keeps creeping up, accompanied by aggressive AI training clauses and telemetry scanning. For engineering teams, homelabs, and privacy-conscious agencies, hosting your own sync & share cloud s",
+   "summary": "A self-hosted AI coding agent is an autonomous code-generation stack running on your own hardware with structural isolation — the LLM can create repos, write code, run CI, and deploy apps, but it can't touch your main ma",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02hg66rle7p2i0ch8aob.png"
+  },
+  {
+   "title": "npm trust github Fails with 400 Bad Request: The Missing Permission Flag",
+   "link": "https://dev.to/koraykoylu/npm-trust-github-fails-with-400-bad-request-the-missing-permission-flag-4j5f",
+   "date": "2026-08-22T21:46:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "We published a JavaScript client to npm this week, and wiring up trusted publishing cost three failed attempts and two wasted two-factor approvals before the real cause turned up. The command failed with a bare 400 Bad R",
    "image": null
   },
   {
-   "title": "Your Developer Toolchain Is a Supply Chain Attack Surface — Here's How I Hardened Mine",
-   "link": "https://dev.to/prasannavarshan/your-developer-toolchain-is-a-supply-chain-attack-surface-heres-how-i-hardened-mine-4ghm",
-   "date": "2026-08-22T17:14:58.000Z",
+   "title": "Kubernetes Shared Volumes: A Comprehensive Guide",
+   "link": "https://dev.to/bansikah/kubernetes-shared-volumes-a-comprehensive-guide-1e05",
+   "date": "2026-08-22T21:45:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A practical guide to applying SLSA, Sigstore, and SBOM-based verification to the tools on your local machine. We obsess over dependency scanning in CI/CD. We pin versions in package-lock.json. We run Dependabot. But what",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiocvviu2qkcdw6dbdw6z.png"
+   "summary": "Kubernetes Shared Volumes: A Comprehensive Guide Table of Contents Prerequisites Introduction Core Concepts Volume Types Access Modes Explained Hands-On Examples Best Practices Troubleshooting Summary and Next Steps Shar",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fys8i10n6ki0qv837sunl.png"
   },
   {
-   "title": "\"Decide Later\" Is Not an Architecture Strategy",
-   "link": "https://dev.to/ntctech/decide-later-is-not-an-architecture-strategy-5d19",
-   "date": "2026-08-22T17:14:22.000Z",
+   "title": "Two AI Agents Read One Row. How to Stop the Lost Update",
+   "link": "https://dev.to/zira125/two-ai-agents-read-one-row-how-to-stop-the-lost-update-1025",
+   "date": "2026-08-22T21:36:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Azure VMware Solution is putting a useful architectural lesson on display: postponing a platform decision can feel like preserving optionality, right up until someone else puts an expiration date on it. Microsoft confirm",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdfr4id65ub0s2c3n1dte.jpg"
-  },
-  {
-   "title": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels",
-   "link": "https://dev.to/milkyway008/why-ollama-runs-on-cpu-after-an-update-the-missing-sm86-cuda-kernels-39bn",
-   "date": "2026-08-22T17:05:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why Ollama runs on CPU after an update: the missing sm_86 CUDA kernels You update Ollama, pull the model you use every day, and everything gets slower. Not broken, not erroring. Just slow. ollama ps says something like 1",
+   "summary": "A version check is not automatically optimistic concurrency control. If an agent reads a row, reasons for a few seconds, and then writes a decision, another worker can change that row in the read-to-write gap. The final ",
    "image": null
   },
   {
-   "title": "3 Tier Application On EKS",
-   "link": "https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7",
-   "date": "2026-08-22T16:45:45.000Z",
+   "title": "A C++ Config Validator for a Server That May Skip Your Job",
+   "link": "https://dev.to/datacpp_8185/a-c-config-validator-for-a-server-that-may-skip-your-job-29kj",
+   "date": "2026-08-22T21:31:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I built a 3-tier application running on Amazon EKS, deployed by a GitHub Actions pipeline that runs on every merge to main. The first version of that pipeline had two secrets sitting in the repo settings: AWS_ACCESS_KEY_",
+   "summary": "A free server will not tell you when it skips your job. It will simply not run it. That is not a bug in the platform; it is the contract of the tier. The only sane response is to design the job so a skipped run costs not",
+   "image": null
+  },
+  {
+   "title": "Quoting Linus Torvalds",
+   "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+   "date": "2026-08-22T21:04:26.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable an",
+   "image": null
+  },
+  {
+   "title": "llm 0.33",
+   "link": "https://simonwillison.net/2026/Aug/22/llm/",
+   "date": "2026-08-22T17:01:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, b",
    "image": null
   },
   {
@@ -452,16 +472,6 @@
    "image": null
   },
   {
-   "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-   "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-   "date": "2026-08-20T15:37:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Research: A shot-scraper-style JSON API on Bun 1.4&#x27;s new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rus",
-   "image": null
-  },
-  {
    "title": "Mike Herchel's Blog: I’m Joining Acquia!",
    "link": "https://herchel.com/articles/im-joining-acquia",
    "date": "2026-08-20T15:10:08.000Z",
@@ -529,16 +539,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
-   "image": null
-  },
-  {
-   "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-   "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-   "date": "2026-08-19T23:16:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces a",
    "image": null
   },
   {
