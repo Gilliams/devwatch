@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-08-22T23:33:09.056Z",
+ "generatedAt": "2026-08-23T05:41:42.517Z",
  "articles": [
   {
-   "title": "Self-Hosted Reverse Proxy & API Gateway Guide: Traefik vs Caddy vs Nginx Proxy Manager vs Kong",
-   "link": "https://dev.to/enfernandes/self-hosted-reverse-proxy-api-gateway-guide-traefik-vs-caddy-vs-nginx-proxy-manager-vs-kong-47p2",
-   "date": "2026-08-22T23:24:27.000Z",
+   "title": "Top 23 Sites to Buy old Gmail Accounts PVA Bulk in 2026",
+   "link": "https://dev.to/shirleyspd3f5/top-23-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026-1c2m",
+   "date": "2026-08-23T05:27:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When deploying self-hosted services, exposing them securely to the public internet or private VPN is your first architectural decision. An ingress layer must handle: Automatic SSL/TLS certificate issuance and renewals vi",
+   "summary": "Buy Old Gmail Accounts? A Complete Guide to Gmail Security, Privacy & Digital Identity Protection (2026) getpvatop@gmail.com https://getpvatop.com/product/buy-old-telegram-accounts/ Meta Description URL Slug Introduction",
    "image": null
   },
   {
-   "title": "Self-Hosted Project Management in 2026: Plane vs Leantime vs Focalboard vs Taiga",
-   "link": "https://dev.to/enfernandes/self-hosted-project-management-in-2026-plane-vs-leantime-vs-focalboard-vs-taiga-4166",
-   "date": "2026-08-22T23:24:26.000Z",
+   "title": "Self-Hosted LLM Inference & Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI (+ Open WebUI)",
+   "link": "https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd",
+   "date": "2026-08-23T05:27:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "SaaS project management tools like Jira ($8.15+/user/mo), Linear ($10–$14/user/mo), and Asana ($13.49+/user/mo) quickly become significant monthly line items for growing engineering teams. Beyond cost, centralizing produ",
+   "summary": "Sending confidential company data, source code, and customer records to commercial LLM APIs exposes organizations to privacy breaches, unexpected rate limits, and runaway monthly bills. With open-weight models like DeepS",
    "image": null
   },
   {
-   "title": "I deleted a queue and my own CLI told me a resource had been added",
-   "link": "https://dev.to/hitoshi1964/i-deleted-a-queue-and-my-own-cli-told-me-a-resource-had-been-added-38h",
-   "date": "2026-08-22T23:00:39.000Z",
+   "title": "Self-Hosted Container Management UIs: Portainer vs Dockge vs Yacht vs Komodo (2026 Comparison)",
+   "link": "https://dev.to/enfernandes/self-hosted-container-management-uis-portainer-vs-dockge-vs-yacht-vs-komodo-2026-comparison-19je",
+   "date": "2026-08-23T05:27:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last week I finally did something I'd been putting off for months: I pointed my AWS drift detector at a fake AWS. Not a mock in a unit test — a real emulator listening on a real port, speaking the real API. I created a h",
+   "summary": "Managing Docker containers purely from the command line is great for CI/CD pipelines, but visual management dashboards provide immediate visibility into container resource utilization, logs, environment variables, networ",
    "image": null
   },
   {
-   "title": "Self-Hosted AI Coding Agent: Sandboxed Prompt-to-Deploy for $25/mo",
-   "link": "https://dev.to/umesh_malik/self-hosted-ai-coding-agent-sandboxed-prompt-to-deploy-for-25mo-3oj7",
-   "date": "2026-08-22T22:29:01.000Z",
+   "title": "Import Error Tracking — Scheduled API Checks Send Critical Slack and Email Alerts",
+   "link": "https://dev.to/apexz69/import-error-tracking-scheduled-api-checks-send-critical-slack-and-email-alerts-3ifp",
+   "date": "2026-08-23T05:06:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A self-hosted AI coding agent is an autonomous code-generation stack running on your own hardware with structural isolation — the LLM can create repos, write code, run CI, and deploy apps, but it can't touch your main ma",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F02hg66rle7p2i0ch8aob.png"
-  },
-  {
-   "title": "npm trust github Fails with 400 Bad Request: The Missing Permission Flag",
-   "link": "https://dev.to/koraykoylu/npm-trust-github-fails-with-400-bad-request-the-missing-permission-flag-4j5f",
-   "date": "2026-08-22T21:46:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "We published a JavaScript client to npm this week, and wiring up trusted publishing cost three failed attempts and two wasted two-factor approvals before the real cause turned up. The command failed with a bare 400 Bad R",
+   "summary": "Short answer: run a cron poll for recent unresolved critical errors, keep a durable watermark, and let your application send Slack, email, or webhook notifications; for an e-commerce import that produces no error because",
    "image": null
   },
   {
-   "title": "Kubernetes Shared Volumes: A Comprehensive Guide",
-   "link": "https://dev.to/bansikah/kubernetes-shared-volumes-a-comprehensive-guide-1e05",
-   "date": "2026-08-22T21:45:49.000Z",
+   "title": "Stop Confusing Snapshots with Backups: Practical btrfs send/receive on Linux",
+   "link": "https://dev.to/lyraalishaikh/stop-confusing-snapshots-with-backups-practical-btrfs-sendreceive-on-linux-43io",
+   "date": "2026-08-23T05:01:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Kubernetes Shared Volumes: A Comprehensive Guide Table of Contents Prerequisites Introduction Core Concepts Volume Types Access Modes Explained Hands-On Examples Best Practices Troubleshooting Summary and Next Steps Shar",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fys8i10n6ki0qv837sunl.png"
-  },
-  {
-   "title": "Two AI Agents Read One Row. How to Stop the Lost Update",
-   "link": "https://dev.to/zira125/two-ai-agents-read-one-row-how-to-stop-the-lost-update-1025",
-   "date": "2026-08-22T21:36:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A version check is not automatically optimistic concurrency control. If an agent reads a row, reasons for a few seconds, and then writes a decision, another worker can change that row in the read-to-write gap. The final ",
+   "summary": "Local Btrfs snapshots feel like backups until the disk dies. They are fast, space-efficient, and perfect for “undo that upgrade.” They are not a second copy of your data. Official Btrfs documentation is blunt about this:",
    "image": null
   },
   {
-   "title": "A C++ Config Validator for a Server That May Skip Your Job",
-   "link": "https://dev.to/datacpp_8185/a-c-config-validator-for-a-server-that-may-skip-your-job-29kj",
-   "date": "2026-08-22T21:31:43.000Z",
+   "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
+   "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
+   "date": "2026-08-23T04:21:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A free server will not tell you when it skips your job. It will simply not run it. That is not a bug in the platform; it is the contract of the tier. The only sane response is to design the job so a skipped run costs not",
+   "summary": "No More Midnight Deploys: The Magic of Blue-Green Deployments Imagine trying to upgrade the engine of a commercial airplane while it is mid-flight with passengers on board. In the software world, engineering teams face a",
+   "image": null
+  },
+  {
+   "title": "Build a Self-Healing System with Python",
+   "link": "https://dev.to/qingluan/build-a-self-healing-system-with-python-4ghf",
+   "date": "2026-08-23T04:00:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build a Self-Healing System with Python tags: python, devops, automation, tutorial tags: python, devops, automation, tutorial tags: python, devops, automation, tutorial tags: python, redis, architecture, tutorial tags: p",
+   "image": null
+  },
+  {
+   "title": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth",
+   "link": "https://dev.to/loopio24/bridging-the-gap-between-devops-reliability-and-digital-marketing-growth-2j36",
+   "date": "2026-08-23T03:56:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth When early-stage startups try to scale, they usually hit two major roadblocks: Their infrastructure breaks or their cloud bills skyrocket just as u",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: lo_compat_privileges",
+   "link": "https://postgr.es/p/9sZ",
+   "date": "2026-08-23T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "lo_compat_privileges sets large-object security back to PostgreSQL 8.4, the last release in which a large object belonged to nobody in particular and any role that could connect to the database could read it, overwrite i",
+   "image": null
+  },
+  {
+   "title": "Gspikes: State of Drupal 7 in 2026: How Many Sites Are Still Running It?",
+   "link": "https://gspikes.com/drupal-7-statistics/",
+   "date": "2026-08-23T00:55:12.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Nineteen months after Drupal 7's final end of life, 29.7% of all Drupal websites still run it — and half the Drupal web runs a version with no security support. The numbers, the methodology, and the four ways out. Update",
    "image": null
   },
   {
@@ -502,16 +522,6 @@
    "image": null
   },
   {
-   "title": "Kai Wagner: Hackorum Update: What's New Since February",
-   "link": "https://postgr.es/p/9sL",
-   "date": "2026-08-20T10:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Back in February, I wrote about Hackorum, a forum style web view of the pg-hackers mailing list. If you missed that post, you can read it here first. It turns the mailing list into something that reads and navigates a bi",
-   "image": "https://percona.community/blog/2026/08/hackorum-update-topic-index_hu_8413875a6b00bf8f.webp"
-  },
-  {
    "title": "Specbee: Why and how to migrate your DotNetNuke (DNN) site to Drupal",
    "link": "https://www.specbee.com/blogs/why-and-how-to-migrate-dotnetnuke-dnn-site-to-drupal",
    "date": "2026-08-20T09:31:45.000Z",
@@ -520,16 +530,6 @@
    "source": "Drupal Planet",
    "summary": "Running on DotNetNuke (DNN)? We highly recommend a CMS migration to the latest release of Drupal. It is packed with all the features you have been wishing for! Learn why you should make that move and how you can do it.",
    "image": null
-  },
-  {
-   "title": "DrupalCon News & Updates: Submissions are closed. Nominations coming soon!",
-   "link": "https://events.drupal.org/rotterdam2026/news/submissions-are-closed-nominations-coming-soon",
-   "date": "2026-08-20T09:30:59.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The International Splash Awards 2026 have reached a new milestone, with 40% more submissions compared to last year. Image A huge thank you to everyone who submitted a project and helped make this year’s edition even bigg",
-   "image": "https://events.drupal.org/files/styles/extra_large_no_crop/public/media/image/54860886953_689fb25c49_c_0.jpg?itok=2Xfm107_"
   },
   {
    "title": "Summer chaos",
@@ -679,16 +679,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "Learn how to build a dynamic testimonial hero in Webflow using CMS data, a custom JavaScript counter, and GSAP’s visual timeline.",
-   "image": null
-  },
-  {
-   "title": "LonghornPHP 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
-   "date": "2026-08-18T10:14:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
    "image": null
   },
   {
@@ -1182,13 +1172,13 @@
    "image": null
   },
   {
-   "title": "PHP version stats: July, 2026",
-   "link": "https://stitcher.io/blog/php-version-stats-july-2026",
-   "date": "2026-07-09T00:00:00.000Z",
+   "title": "International PHP Conference Munich 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
+   "date": "2026-07-13T17:01:37.000Z",
    "theme": "php",
    "themeName": "PHP",
-   "source": "stitcher.io",
-   "summary": "Read the full post on https://stitcher.io/blog/php-version-stats-july-2026",
+   "source": "PHP.net",
+   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   }
  ]
