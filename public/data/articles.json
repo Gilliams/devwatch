@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-08-23T17:31:53.047Z",
+ "generatedAt": "2026-08-23T23:33:16.050Z",
  "articles": [
   {
-   "title": "Your internet is capped at ~95 Mbps on a gigabit plan — the 100Mbps negotiation trap",
-   "link": "https://dev.to/milkyway008/your-internet-is-capped-at-95-mbps-on-a-gigabit-plan-the-100mbps-negotiation-trap-4pim",
-   "date": "2026-08-23T17:10:51.000Z",
+   "title": "I let AI manage my network — but it has to ask permission first",
+   "link": "https://dev.to/larry_roberts_17ab1ab42cf/i-let-ai-manage-my-network-but-it-has-to-ask-permission-first-1h0e",
+   "date": "2026-08-23T23:23:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've seen this exact post a hundred times: \"I pay for 500 Mbps fiber and I only get 80.\" Usually the ISP gets blamed, sometimes the router. Most of the time it's neither. It's one stupid link in the chain quietly running",
+   "summary": "A note on how this was made, up front: I had the idea. AI helped me build it. A second AI reviewed it adversarially. I was the human gate on every decision that mattered. More on that — and the three bugs that process ca",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ngsndq5iyqdkl6cqcbc.gif"
+  },
+  {
+   "title": "Hiring SREs: What I Look For After Interviewing 100+ Candidates",
+   "link": "https://dev.to/samson_tanimawo/hiring-sres-what-i-look-for-after-interviewing-100-candidates-2h91",
+   "date": "2026-08-23T23:22:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The SRE Hiring Problem SRE roles are notoriously hard to fill. The intersection of software engineering, systems administration, and operational wisdom is narrow. After interviewing over 100 candidates across three compa",
    "image": null
   },
   {
-   "title": "The sudoers.d Trap That'll Waste an Hour of Your Life",
-   "link": "https://dev.to/schiff_heimlich/the-sudoersd-trap-thatll-waste-an-hour-of-your-life-42ck",
-   "date": "2026-08-23T17:03:51.000Z",
+   "title": "Running the AWS CLI Against Your Own Hardware",
+   "link": "https://dev.to/toddyholiday/running-the-aws-cli-against-your-own-hardware-11i2",
+   "date": "2026-08-23T23:16:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Sudoers.d Trap That'll Waste an Hour of Your Life If you've ever dropped a file into /etc/sudoers.d/ and watched your sudo rule quietly do nothing, you're not alone. This one trips up almost every Linux admin at leas",
+   "summary": "The AWS CLI is on almost every developer's machine. Once you've built habits around commands like aws ec2 describe-instances, aws s3 cp, and eksctl create cluster, the idea of switching to different tooling for on-prem o",
    "image": null
   },
   {
-   "title": "Silence Is a Feature",
-   "link": "https://dev.to/aradar46/silence-is-a-feature-2om5",
-   "date": "2026-08-23T17:03:40.000Z",
+   "title": "The Matrix of CI/CD: Neo's Journey with GitHub Actions, GitLab, and Jenkins",
+   "link": "https://dev.to/timevolt/the-matrix-of-cicd-neos-journey-with-github-actions-gitlab-and-jenkins-3kna",
+   "date": "2026-08-23T22:58:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published at aradar.top. The server room is too loud. You picture blue LEDs blinking in the dark. It’s actually a wall of sound - thousands of small fans screaming in slightly different keys, a noise that gets",
+   "summary": "The Quest Begins (The \"Why\") Look, the reality is that setting up CI/CD used to feel like trying to solve a Rubik's cube blindfolded. I remember a project where every push to main triggered a flurry of manual steps: SSH ",
    "image": null
   },
   {
-   "title": "Free AI Infrastructure Isn't a Compromise. It's a Constraint Class.",
-   "link": "https://dev.to/hackjs_7468/free-ai-infrastructure-isnt-a-compromise-its-a-constraint-class-15md",
-   "date": "2026-08-23T16:57:03.000Z",
+   "title": "Automating Attack Surface Assessment for fintechs: 10+ vectors, zero manual effort",
+   "link": "https://dev.to/mediavox/automating-attack-surface-assessment-for-fintechs-10-vectors-zero-manual-effort-125n",
+   "date": "2026-08-23T22:39:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Free AI Infrastructure Isn't a Compromise. It's a Constraint Class. Here's the conclusion up front: free AI infrastructure fails when you treat it as paid infrastructure with the price tag removed. It succeeds when you t",
+   "summary": "Your last pentest was 6 months ago. Since then, your team has deployed 47 times, spun up 3 new subdomains, and someone left a .env file exposed on a staging server that nobody remembers creating. Sound familiar? Traditio",
    "image": null
   },
   {
-   "title": "Build a Token-Budgeted LLM Service on a Free Server: A Step-by-Step Tutorial",
-   "link": "https://dev.to/apprs_6334/build-a-token-budgeted-llm-service-on-a-free-server-a-step-by-step-tutorial-1oo9",
-   "date": "2026-08-23T16:46:32.000Z",
+   "title": "Your 'Deleted' Private Key Is Still in Your Git History",
+   "link": "https://dev.to/ezequiellich/your-deleted-private-key-is-still-in-your-git-history-3cg4",
+   "date": "2026-08-23T22:28:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last month, a side project died at the API checkout. The code worked. The credit card did not. The fix is not a bigger budget. The fix is a smaller one. This tutorial builds a working LLM endpoint from zero. Every step e",
+   "summary": "You removed the secret from your code. You pushed the fix. You're safe. You're not. The key still lives in your git history — commit a3f92e1, six months back — and public scrapers and sweeper bots read that history every",
    "image": null
   },
   {
-   "title": "I built a watchdog for AI agents. It spent two weeks catching its own bugs.",
-   "link": "https://dev.to/minjong212121/i-built-a-watchdog-for-ai-agents-it-spent-two-weeks-catching-its-own-bugs-3kgg",
-   "date": "2026-08-23T16:32:21.000Z",
+   "title": "A session that closes has to prove it cleaned up",
+   "link": "https://dev.to/alkisyuv/a-session-that-closes-has-to-prove-it-cleaned-up-cij",
+   "date": "2026-08-23T21:58:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "My coding agents kept failing in ways nothing reported. Not crashes — crashes announce themselves. The expensive failures were silent: a session looping on the same three tool calls, convinced it was busy. A process OOM-",
+   "summary": "The process monitor said the audio daemon was at 340% CPU. That was the whole symptom, hours after the session that caused it had closed, on a machine that was otherwise fine. Underneath: 326 audio capture streams runnin",
    "image": null
   },
   {
-   "title": "8 safe-by-default MCP servers for infra — and the governance model behind them",
-   "link": "https://dev.to/dockndevai/8-safe-by-default-mcp-servers-formcp-ai-devops-opensource-infra-and-the-governance-model-4gi8",
-   "date": "2026-08-23T16:26:47.000Z",
+   "title": "The runner deleted what it told me to rescue",
+   "link": "https://dev.to/alkisyuv/the-runner-deleted-what-it-told-me-to-rescue-5g96",
+   "date": "2026-08-23T21:58:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Giving an AI agent access to production infrastructure is a great way to move fast — and a great way to have it drop a database because a prompt was ambiguous. I wanted the upside without the footguns, so I built a famil",
+   "summary": "One morning my night report said the same thing about two projects, six times over: - work is committed but the push failed, manual push needed I went looking for the work. There wasn't any. The children had died in the ",
    "image": null
   },
   {
-   "title": "Why Most ML Firewalls Fail (And How We Fixed It with a Honeypot Feedback Loop)",
-   "link": "https://dev.to/mrvenom17/why-most-ml-firewalls-fail-and-how-we-fixed-it-with-a-honeypot-feedback-loop-7p6",
-   "date": "2026-08-23T16:13:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Deploying Machine Learning directly inline to block malicious network traffic sounds great on paper until you run into the Base Rate Fallacy[cite: 1]. In high-throughput enterprise networks processing millions of flows p",
+   "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+   "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+   "date": "2026-08-23T20:24:52.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up",
+   "image": null
+  },
+  {
+   "title": "Quoting Drew Breunig",
+   "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+   "date": "2026-08-23T19:55:30.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable land",
    "image": null
   },
   {
@@ -292,26 +312,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
   },
   {
-   "title": "Resolved: CSS Class Prefix Selector",
-   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-   "date": "2026-08-21T15:13:03.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
-   "image": null
-  },
-  {
-   "title": "Quoting Matt Webb",
-   "link": "https://simonwillison.net/2026/Aug/21/matt-webb/",
-   "date": "2026-08-21T15:06:26.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able",
-   "image": null
-  },
-  {
    "title": "Replatform Radar: Drupal to Headless: The Node IDs That Break the Move",
    "link": "https://replatformradar.com/blog/drupal-to-headless-node-ids-that-break-the-move?utm_source=planet-drupal&utm_medium=feed",
    "date": "2026-08-21T14:00:27.000Z",
@@ -440,16 +440,6 @@
    "source": "Planet PostgreSQL",
    "summary": "The load finished without complaint, with row counts matching the fixture file and every foreign key resolving, but then the application inserts a row of its own, and Postgres refuses it: ERROR: duplicate key value viola",
    "image": "https://seedfa.st/blog/postgres-sequence-out-of-sync-2.svg"
-  },
-  {
-   "title": "ChatGPT search now uses the site:operator at scale",
-   "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-   "date": "2026-08-20T23:57:32.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your",
-   "image": null
   },
   {
    "title": "Agent Run Observability in Laravel AI SDK 0.11",
@@ -592,16 +582,6 @@
    "image": null
   },
   {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
-   "image": null
-  },
-  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -639,16 +619,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
-   "image": null
-  },
-  {
-   "title": "WordPress.com Student Plan",
-   "link": "https://css-tricks.com/wordpress-student-plan/",
-   "date": "2026-08-19T08:50:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -692,16 +662,6 @@
    "image": null
   },
   {
-   "title": "LonghornPHP 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
-   "date": "2026-08-18T10:14:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
    "link": "https://huggingface.co/blog/multi-vector-encoder",
    "date": "2026-08-18T00:00:00.000Z",
@@ -732,16 +692,6 @@
    "image": null
   },
   {
-   "title": "Dark mode toggles: two states are enough",
-   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-   "date": "2026-08-17T14:15:50.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
-   "image": null
-  },
-  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -769,16 +719,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
-   "image": null
-  },
-  {
-   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-   "link": "https://css-tricks.com/whats-important-17/",
-   "date": "2026-08-14T14:01:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
    "image": null
   },
   {
@@ -842,16 +782,6 @@
    "image": null
   },
   {
-   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-   "date": "2026-08-12T13:43:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
-   "image": null
-  },
-  {
    "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
    "link": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
    "date": "2026-08-12T13:10:49.000Z",
@@ -899,26 +829,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
-   "image": null
-  },
-  {
-   "title": "Animating CSS border-image",
-   "link": "https://css-tricks.com/animating-css-border-image/",
-   "date": "2026-08-10T15:58:47.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
-   "image": null
-  },
-  {
-   "title": "SmashingConf Freiburg 2026, September 7-10",
-   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-   "date": "2026-08-10T15:57:39.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
    "image": null
   },
   {
@@ -1179,6 +1089,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
+   "image": null
+  },
+  {
+   "title": "International PHP Conference Munich 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
+   "date": "2026-07-13T17:01:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   }
  ]
