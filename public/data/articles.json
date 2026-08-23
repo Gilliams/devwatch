@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-23T05:41:42.517Z",
+ "generatedAt": "2026-08-23T11:32:30.720Z",
  "articles": [
   {
-   "title": "Top 23 Sites to Buy old Gmail Accounts PVA Bulk in 2026",
-   "link": "https://dev.to/shirleyspd3f5/top-23-sites-to-buy-old-gmail-accounts-pva-bulk-in-2026-1c2m",
-   "date": "2026-08-23T05:27:46.000Z",
+   "title": "Git Workflows That Actually Work at Scale",
+   "link": "https://dev.to/sri2614/git-workflows-that-actually-work-at-scale-4hpn",
+   "date": "2026-08-23T11:14:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Gmail Accounts? A Complete Guide to Gmail Security, Privacy & Digital Identity Protection (2026) getpvatop@gmail.com https://getpvatop.com/product/buy-old-telegram-accounts/ Meta Description URL Slug Introduction",
+   "summary": "⚡ TL;DR: GitFlow, GitHub Flow, or trunk-based? The real enemy is long-lived branches. Learn which workflow scales, which quietly slows you down, and how to pick the branching strategy that fits your team's velocity. The ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fdG1haW4oIm1haW4gKHRydW5rKTxici8-YWx3YXlzIGRlcGxveWFibGUiKQogIGNsYXNzIG5fdG1haW4gY29tcHV0ZTsKICBuX3RmMSgiZmVhdC9hPGJyLz48IDEgZGF5IikKICBjbGFzcyBuX3RmMSBlZGdlOwogIG5fdGYyKCJmZWF0L2I8YnIvPjwgMSBkYXkiKQogIGNsYXNzIG5fdGYyIGVkZ2U7CiAgbl90ZGVwbG95KCJEZXBsb3k8YnIvPmV2ZXJ5IG1lcmdlIikKICBjbGFzcyBuX3RkZXBsb3kgZXh0ZXJuYWw7CiAgbl9nbWFpbigibWFpbjxici8-dGFnZ2VkIHJlbGVhc2VzIikKICBjbGFzcyBuX2dtYWluIGNvbXB1dGU7CiAgbl9nZGV2KCJkZXZlbG9wPGJyLz5pbnRlZ3JhdGlvbiBsaW5lIikKICBjbGFzcyBuX2dkZXYgZGF0YTsKICBuX2dyZWwoInJlbGVhc2UvMS40PGJyLz5zdGFiaWxpemUiKQogIGNsYXNzIG5fZ3JlbCBxdWV1ZTsKICBuX2dob3QoImhvdGZpeC8xLjMuMTxici8-dXJnZW50IGZpeCIpCiAgY2xhc3Mgbl9naG90IHF1ZXVlOwogIG5fdG1haW4gLS0-fCJicmFuY2gifCBuX3RmMQogIG5fdGYxIC0uLT58Im1lcmdlIGZhc3QifCBuX3RtYWluCiAgbl90bWFpbiAtLT58ImJyYW5jaCJ8IG5fdGYyCiAgbl90ZjIgLS4tPnwibWVyZ2UgZmFzdCJ8IG5fdG1haW4KICBuX3RtYWluIC0tPnwiQ0kgZ3JlZW4ifCBuX3RkZXBsb3kKICBuX2dtYWluIC0tPnwiYnJhbmNoIG9uY2UifCBuX2dkZXYKICBuX2dkZXYgLS0-fCJjdXQgcmVsZWFzZSJ8IG5fZ3JlbAogIG5fZ3JlbCAtLT58InRhZyArIHNoaXAifCBuX2dtYWluCiAgbl9nbWFpbiAtLi0-fCJwYXRjaCBwcm9kInwgbl9naG90CiAgbl9naG90IC0uLT58ImJhY2stbWVyZ2UifCBuX2dkZXY%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "The Return of the Jedi: Leveling Up Your Database Backup & Disaster Recovery Game",
+   "link": "https://dev.to/timevolt/the-return-of-the-jedi-leveling-up-your-database-backup-disaster-recovery-game-5532",
+   "date": "2026-08-23T10:50:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think backups were that boring checkbox you tick at the end of a sprint. “We’ll just run pg_dump every night and call it a day.” I’d set up a cron job, forget about it, an",
    "image": null
   },
   {
-   "title": "Self-Hosted LLM Inference & Serving in 2026: vLLM vs Ollama vs LocalAI vs TGI (+ Open WebUI)",
-   "link": "https://dev.to/enfernandes/self-hosted-llm-inference-serving-in-2026-vllm-vs-ollama-vs-localai-vs-tgi-open-webui-mpd",
-   "date": "2026-08-23T05:27:42.000Z",
+   "title": "Top AWS Services Every DevOps Engineer Should Know",
+   "link": "https://dev.to/xcl1br/top-aws-services-every-devops-engineer-should-know-3hg9",
+   "date": "2026-08-23T10:30:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Sending confidential company data, source code, and customer records to commercial LLM APIs exposes organizations to privacy breaches, unexpected rate limits, and runaway monthly bills. With open-weight models like DeepS",
+   "summary": "Today I learnt about the AWS services that come up again and again in DevOps work — and also in DevOps interviews.One thing the video I watched said, which I really liked: you don't need to know every AWS service deeply.",
    "image": null
   },
   {
-   "title": "Self-Hosted Container Management UIs: Portainer vs Dockge vs Yacht vs Komodo (2026 Comparison)",
-   "link": "https://dev.to/enfernandes/self-hosted-container-management-uis-portainer-vs-dockge-vs-yacht-vs-komodo-2026-comparison-19je",
-   "date": "2026-08-23T05:27:09.000Z",
+   "title": "Buy Old Gmail Accounts | Verified Aged & PVA ...",
+   "link": "https://dev.to/smmusapva197/buy-old-gmail-accounts-verified-aged-pva--58ij",
+   "date": "2026-08-23T10:27:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Managing Docker containers purely from the command line is great for CI/CD pipelines, but visual management dashboards provide immediate visibility into container resource utilization, logs, environment variables, networ",
+   "summary": "Top 3 Sites to Buy Old Gmail Accounts In Smmusapva@gmail.com Problems With Actual Ownership Just because someone gives you an account does not guarantee that it has become completely yours. If the original creator of the",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."
+  },
+  {
+   "title": "Automating DevOps/SRE Tasks with AI Agents: Real-World Use Cases and Free Open-Source Tools",
+   "link": "https://dev.to/maricode/automating-devopssre-tasks-with-ai-agents-real-world-use-cases-and-free-open-source-tools-2eg1",
+   "date": "2026-08-23T10:20:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction: Unleashing AI Agents in DevOps/SRE Workflows In the trenches of DevOps and Site Reliability Engineering (SRE), the battle against repetitive, time-consuming tasks is relentless. As systems grow in complexit",
    "image": null
   },
   {
-   "title": "Import Error Tracking — Scheduled API Checks Send Critical Slack and Email Alerts",
-   "link": "https://dev.to/apexz69/import-error-tracking-scheduled-api-checks-send-critical-slack-and-email-alerts-3ifp",
-   "date": "2026-08-23T05:06:03.000Z",
+   "title": "Dockerizing Your First App: A Hero's Journey Like in The Matrix",
+   "link": "https://dev.to/timevolt/dockerizing-your-first-app-a-heros-journey-like-in-the-matrix-20f6",
+   "date": "2026-08-23T09:27:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: run a cron poll for recent unresolved critical errors, keep a durable watermark, and let your application send Slack, email, or webhook notifications; for an e-commerce import that produces no error because",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I tried to share a Node.js API with a teammate. I zipped up the folder, sent it over Slack, and watched them stare at a terminal full of “module not ",
    "image": null
   },
   {
-   "title": "Stop Confusing Snapshots with Backups: Practical btrfs send/receive on Linux",
-   "link": "https://dev.to/lyraalishaikh/stop-confusing-snapshots-with-backups-practical-btrfs-sendreceive-on-linux-43io",
-   "date": "2026-08-23T05:01:54.000Z",
+   "title": "Magento 2 Linux Server Tuning: Kernel, Filesystem & I/O Settings That Actually Matter",
+   "link": "https://dev.to/magevanta/magento-2-linux-server-tuning-kernel-filesystem-io-settings-that-actually-matter-481c",
+   "date": "2026-08-23T09:01:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Local Btrfs snapshots feel like backups until the disk dies. They are fast, space-efficient, and perfect for “undo that upgrade.” They are not a second copy of your data. Official Btrfs documentation is blunt about this:",
+   "summary": "Most Magento 2 performance work stops at the application layer: PHP-FPM pools, Nginx config, MySQL buffers, Redis, Varnish. That's where the visible wins are. But underneath all of it sits the operating system, and on a ",
    "image": null
   },
   {
-   "title": "No More Midnight Deploys: The Magic of Blue-Green Deployments",
-   "link": "https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29",
-   "date": "2026-08-23T04:21:13.000Z",
+   "title": "🚀 DG Develops Code Challenge: Get Exciting Rewards",
+   "link": "https://dev.to/daivik_dagar_f88cb5415125/dg-ai-code-challenge-become-senior-dev-unlock-exclusive-perks-56gc",
+   "date": "2026-08-23T08:50:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "No More Midnight Deploys: The Magic of Blue-Green Deployments Imagine trying to upgrade the engine of a commercial airplane while it is mid-flight with passengers on board. In the software world, engineering teams face a",
+   "summary": "🔥 Why These Challenges? DG AI and DG Encoder were built to break barriers and empower devs. Now it’s time to push that spirit further — by inviting you to flex your creativity, prove your skills, and earn a spot at the ",
    "image": null
   },
   {
-   "title": "Build a Self-Healing System with Python",
-   "link": "https://dev.to/qingluan/build-a-self-healing-system-with-python-4ghf",
-   "date": "2026-08-23T04:00:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Build a Self-Healing System with Python tags: python, devops, automation, tutorial tags: python, devops, automation, tutorial tags: python, devops, automation, tutorial tags: python, redis, architecture, tutorial tags: p",
-   "image": null
-  },
-  {
-   "title": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth",
-   "link": "https://dev.to/loopio24/bridging-the-gap-between-devops-reliability-and-digital-marketing-growth-2j36",
-   "date": "2026-08-23T03:56:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Bridging the Gap Between DevOps Reliability and Digital Marketing Growth When early-stage startups try to scale, they usually hit two major roadblocks: Their infrastructure breaks or their cloud bills skyrocket just as u",
+   "title": "A Week of Symfony #1025 (August 17–23, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1025-august-17-23-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-23T07:54:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony 6.4.44, Symfony 7.4.17 and Symfony 8.1.5 maintenance versions were released. In addition, we introduced Symfony Language Tools, the official Symfony LSP server. Finally, we started experimenting with i",
    "image": null
   },
   {
@@ -99,6 +109,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Nineteen months after Drupal 7's final end of life, 29.7% of all Drupal websites still run it — and half the Drupal web runs a version with no security support. The numbers, the methodology, and the four ways out. Update",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS Tiger Geocoder 2025.2",
+   "link": "https://postgr.es/p/9s-",
+   "date": "2026-08-23T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS development team is pleased to provide postgis_tiger_geocoder extension. This is the very second release since the break from the PostGIS core. This version requires PostgreSQL 16 and above and should work wi",
    "image": null
   },
   {
@@ -472,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Andrei Lepikhov: Do Global Hash Tables Strike Back in PostgreSQL?",
-   "link": "https://postgr.es/p/9sR",
-   "date": "2026-08-20T17:50:37.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "In this article written for experienced PostgreSQL engineers and core developers, I want to describe how we tested one hypothesis — whether a shared hash table can be used to speed up parallel aggregation by hashing. A r",
-   "image": "https://a.storyblok.com/f/187930/936x520/2c2532eaf4/figure-1-hash-tables.png"
-  },
-  {
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
    "date": "2026-08-20T16:52:57.000Z",
@@ -682,6 +692,16 @@
    "image": null
   },
   {
+   "title": "LonghornPHP 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
+   "date": "2026-08-18T10:14:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
    "link": "https://huggingface.co/blog/multi-vector-encoder",
    "date": "2026-08-18T00:00:00.000Z",
@@ -740,16 +760,6 @@
    "source": "Symfony Blog",
    "summary": "A Symfony application is full of strings that mean something: route names, service ids, template paths, translation keys, environment variables. But to most editors, they mean nothing. Write redirectToRoute('order_confir",
    "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/guide/tour.gif"
-  },
-  {
-   "title": "A Week of Symfony #1024 (August 10–16, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1024-august-10-16-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-16T07:01:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, development activity for the upcoming Symfony 8.2 release was very intense: PropertyInfo made accessors and mutators configurable with attributes, HttpFoundation added targeted Cache-Control support conforming",
-   "image": null
   },
   {
    "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
@@ -1169,16 +1179,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
-   "image": null
-  },
-  {
-   "title": "International PHP Conference Munich 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-07-13-1",
-   "date": "2026-07-13T17:01:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "is the world's first PHP conference and has stood for more than two decades for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with P",
    "image": null
   }
  ]
