@@ -1,85 +1,115 @@
 {
- "generatedAt": "2026-08-24T05:50:33.061Z",
+ "generatedAt": "2026-08-24T11:40:42.859Z",
  "articles": [
   {
-   "title": "I Audited 50,669 n8n Runs. 85% of Failures Alerted Nobody.",
-   "link": "https://dev.to/achiya-automation/i-audited-50669-n8n-runs-85-of-failures-alerted-nobody-47pm",
-   "date": "2026-08-24T05:40:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "One of my own workflows — the gate that decides whether a new WhatsApp contact gets the bot or gets me — failed 24 times between Thursday and Sunday. Seventy-one hours. I found out on Monday morning, by opening the execu",
+   "title": "Your executable is a SQLite database",
+   "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+   "date": "2026-08-24T11:38:15.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte appl",
    "image": null
   },
   {
-   "title": "Complete Microsoft Certified DevOps Engineer Expert Certification and Career Guide",
-   "link": "https://dev.to/manshi2026/complete-microsoft-certified-devops-engineer-expert-certification-and-career-guide-1f48",
-   "date": "2026-08-24T05:38:45.000Z",
+   "title": "I Built an AWS DevOps AI Agent Using Kiro Crew + MCP",
+   "link": "https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0",
+   "date": "2026-08-24T11:30:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DevOps has become an important part of modern software delivery. Organizations need teams that can develop applications, automate infrastructure, manage deployments, monitor systems, and improve reliability continuously.",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs9qqq02l4al5lazrbmrd.png"
-  },
-  {
-   "title": "OpenAI Just Paused Its Own Model for Being Too Good at Finding Zero-Days. Read That Again.",
-   "link": "https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp",
-   "date": "2026-08-24T05:20:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The AI story this week that should stop you mid-scroll is not another benchmark or price cut. It is that OpenAI reportedly paused internal development of its Astra model after evaluations found it might be capable of dev",
+   "summary": "At 3:17 AM last Tuesday, my payment-api ECS service entered a terminal failure loop. 7,279 failed tasks since August 13th. The health check expected /api/health but the container only served static content. Every 60 seco",
    "image": null
   },
   {
-   "title": "ChatGPT and Gemini Both Crossed a Billion Users. The Infrastructure Story Is the One Nobody's Telling",
-   "link": "https://dev.to/muskan_bandta/chatgpt-and-gemini-both-crossed-a-billion-users-the-infrastructure-story-is-the-one-nobodys-25k7",
-   "date": "2026-08-24T05:20:34.000Z",
+   "title": "Every Check Should Report What It Did Not Look At",
+   "link": "https://dev.to/jeremy_longshore/every-check-should-report-what-it-did-not-look-at-2nn3",
+   "date": "2026-08-24T11:30:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The headline this week is the round number: ChatGPT reportedly crossed a billion weekly users, Gemini is in the same territory within weeks of it, and ChatGPT got there faster than any consumer product in history, under ",
+   "summary": "Yesterday I wrote about the gate runner that counted SKIP as PASS, and the rig proof receipt that closed it. That is the setup, not today's subject. Today's subject is what happened next. The same defect shape surfaced t",
    "image": null
   },
   {
-   "title": "How to Reduce Mean Time to Resolution (MTTR) with AI Without Losing Control",
-   "link": "https://dev.to/shahrozkhan/how-to-reduce-mean-time-to-resolution-mttr-with-ai-without-losing-control-30m6",
-   "date": "2026-08-24T05:15:56.000Z",
+   "title": "How DevOps Engineers Troubleshoot Production Issues: From Symptoms to Root Cause",
+   "link": "https://dev.to/addwebsolutionpvtltd/how-devops-engineers-troubleshoot-production-issues-from-symptoms-to-root-cause-am4",
+   "date": "2026-08-24T11:29:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An incident comes in. Someone in sales, ops, or finance notices something is broken and writes a message: 'the invoice export is wrong again.' Then the clock starts running, but not on the fix — on figuring out who owns ",
+   "summary": "\"The first step in solving a problem is recognizing that it does exist.\" Introduction Understanding Production Issues The Troubleshooting Mindset From Symptoms to Root Cause A Step-by-Step Production Troubleshooting Proc",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2zq1r1k6nstoq6ox0ws3.png"
+  },
+  {
+   "title": "Opinion: The Most Dangerous Regression Is the One Inside Your Review Tool",
+   "link": "https://dev.to/github_7727/opinion-the-most-dangerous-regression-is-the-one-inside-your-review-tool-g7b",
+   "date": "2026-08-24T11:16:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You track regressions in your application, your dependencies, and your CI pipeline, but the AI reviewer that gates your pull requests is probably unmonitored. A model update, a prompt tweak, or a sampling change can sile",
    "image": null
   },
   {
-   "title": "Publicly Accessible RDS and Unrestricted Security Groups: The Cost Side of Risky Cloud Config",
-   "link": "https://dev.to/zop_8abedcc7e12/publicly-accessible-rds-and-unrestricted-security-groups-the-cost-side-of-risky-cloud-config-4379",
-   "date": "2026-08-24T05:13:27.000Z",
+   "title": "Challenges of Implementing AI in Healthcare",
+   "link": "https://dev.to/alex_sebastian/challenges-of-implementing-ai-in-healthcare-39kp",
+   "date": "2026-08-24T11:16:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security findings and cost findings are usually filed by different teams into different tools, and treated as different kinds of problem. But a specific set of configurations sits squarely in both piles: a database open ",
+   "summary": "Challenges of Implementing AI in Healthcare Artificial intelligence is changing how healthcare organizations manage data and deliver services. AI can support medical imaging. It can help with patient monitoring and admin",
    "image": null
   },
   {
-   "title": "2026 DevOps Maturity Survey: Platform Engineering Emerges as New Focus",
-   "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/2026-devops-maturity-survey-platform-engineering-emerges-as-new-focus-3lci",
-   "date": "2026-08-24T04:51:19.000Z",
+   "title": "Corporate Training for DevOps, Cloud & AI Engineering Skills",
+   "link": "https://dev.to/kalyan_visualpath_42cb693/corporate-training-for-devops-cloud-ai-engineering-skills-3h4g",
+   "date": "2026-08-24T11:10:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Survey Overview The survey covered DevOps practices across 5,000 global enterprises. Key findings: 78% have implemented CI/CD pipelines (up 15% from 2024), but only 23% achieve \"elite\" DevOps maturity (deployment frequen",
+   "summary": "🚀 Build the Future with Next-Gen DevOps, Cloud & AI Engineering! ☁️🤖 https://visualpath.in/corporate-training.html",
    "image": null
   },
   {
-   "title": "Template Ownership for Node.js Welcome Emails: Evaluating Resend and Postmark",
-   "link": "https://dev.to/mitchellcross2134/template-ownership-for-nodejs-welcome-emails-evaluating-resend-and-postmark-5a22",
-   "date": "2026-08-24T04:33:19.000Z",
+   "title": "Kubernetes Quest: From Localhost to Production (A Lord of the Rings Tale)",
+   "link": "https://dev.to/timevolt/kubernetes-quest-from-localhost-to-production-a-lord-of-the-rings-tale-20j5",
+   "date": "2026-08-24T10:53:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: for the easiest Node.js setup, choose the provider whose template ownership matches your deployment model; keep templates in code when review and rollback matter most, or use a provider-managed template flo",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think “just run docker run and call it a day.” I’d spin up a container locally, test my API with curl, and feel like a wizard. Then the moment came when I needed to show t",
    "image": null
+  },
+  {
+   "title": "Modern World and Technology",
+   "link": "https://dev.to/isurusahanjaya18/modern-world-and-technology-55h9",
+   "date": "2026-08-24T10:11:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Drupal AI Initiative: From Headless CMS to AI Harness: What I Took to Decoupled Days",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/from-headless-cms-to-ai-harness-what-i-took-to-decoupled-days",
+   "date": "2026-08-24T09:50:38.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Article by: Martin Anderson-Clutz. Originally posted on the Acquia blog. Drupal turns decoupled architecture into a governed AI harness, combining live visual editing with agent-ready content schemas. Back in March, at E",
+   "image": null
+  },
+  {
+   "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+   "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+   "date": "2026-08-24T08:08:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: listen_addresses",
@@ -292,16 +322,6 @@
    "image": null
   },
   {
-   "title": "Stop Making TUIs",
-   "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-   "date": "2026-08-21T16:07:32.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almo",
-   "image": null
-  },
-  {
    "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
    "date": "2026-08-21T15:52:10.000Z",
@@ -380,16 +400,6 @@
    "source": "The Hacker News",
    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
-  },
-  {
-   "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-   "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-   "date": "2026-08-21T06:06:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
   },
   {
    "title": "Acquia.com - Drupal Blog: From Headless CMS to AI Harness: What I Took to Decoupled Days",
@@ -529,16 +539,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "Exploring the techniques behind an audio-reactive 3D scene, from custom geometry deformation and music analysis to scroll-driven morphing, damping, and performance optimization.",
-   "image": null
-  },
-  {
-   "title": "Specbee: Why and how to migrate your DotNetNuke (DNN) site to Drupal",
-   "link": "https://www.specbee.com/blogs/why-and-how-to-migrate-dotnetnuke-dnn-site-to-drupal",
-   "date": "2026-08-20T09:31:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Running on DotNetNuke (DNN)? We highly recommend a CMS migration to the latest release of Drupal. It is packed with all the features you have been wishing for! Learn why you should make that move and how you can do it.",
    "image": null
   },
   {
