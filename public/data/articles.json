@@ -1,6 +1,196 @@
 {
- "generatedAt": "2026-08-24T11:40:42.859Z",
+ "generatedAt": "2026-08-24T17:42:57.155Z",
  "articles": [
+  {
+   "title": "\"A\" for \"Average\"",
+   "link": "https://stitcher.io/blog/a-for-average",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/a-for-average",
+   "image": null
+  },
+  {
+   "title": "Opinion: Pin Your AI Review Configuration Like a Dependency",
+   "link": "https://dev.to/github_7727/opinion-pin-your-ai-review-configuration-like-a-dependency-1o5b",
+   "date": "2026-08-24T17:34:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Opinion: Pin Your AI Review Configuration Like a Dependency AI-assisted code review only earns trust when the exact model, prompt, and diff can be replayed from a stored configuration. If your review tool hides those inp",
+   "image": null
+  },
+  {
+   "title": "Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives",
+   "link": "https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62",
+   "date": "2026-08-24T17:33:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction & Industry Context As organizations increasingly embrace cloud-native architectures, Kubernetes has become the de facto operating system for the modern data center — both on-premises and in the public cloud.",
+   "image": null
+  },
+  {
+   "title": "CI/CD Pipelines That Actually Work: A Journey Through the Matrix",
+   "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd",
+   "date": "2026-08-24T17:30:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I used to stare at my CI/CD yaml files and feel like Neo stuck in the loading screen—except the only thing loading was my frustration. Every push triggered a cascade of jobs that du",
+   "image": null
+  },
+  {
+   "title": "Building ML Gatekeeper: Automated Pipeline Governance with Multi-Agent Systems and GitLab CI/CD",
+   "link": "https://dev.to/nikhil_ramank_152ca48266/building-ml-gatekeeper-automated-pipeline-governance-with-multi-agent-systems-and-gitlab-cicd-al9",
+   "date": "2026-08-24T17:23:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. Architectural Overview Traditional CI/CD pipelines rely on static assertion scripts that fail silently on dynamic edge cases. ml-gatekeeper-multiagent replaces static checks with autonomous, specialized agents that ev",
+   "image": null
+  },
+  {
+   "title": "Building Multi-Region Consensus Checks with Cloudflare Durable Objects",
+   "link": "https://dev.to/alex_gutscher_2ab0d3cf4c3/building-multi-region-consensus-checks-with-cloudflare-durable-objects-3381",
+   "date": "2026-08-24T17:22:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every uptime monitor I've used has woken me up for an outage that never happened. The mechanism is always the same, and it isn't a bug. A monitor checks your endpoint from one location. Somewhere between that prober and ",
+   "image": null
+  },
+  {
+   "title": "Turn a missed cron into a GitHub or Linear ticket",
+   "link": "https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7",
+   "date": "2026-08-24T17:14:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Email is a bad place for “the backup never ran.” You get the Down ping, maybe a Slack message, then it scrolls off. The job that failed is sitting next to a GitHub repo or a Linear team. That is where someone actually cl",
+   "image": null
+  },
+  {
+   "title": "I Built Hybrid DNS Between AWS and My On-Prem Linux Server -- Here's What Finally Made Route 53 Resolver Click",
+   "link": "https://dev.to/ashish_nair_d9b10ba4f8126/i-built-hybrid-dns-between-aws-and-my-on-prem-linux-server-heres-what-finally-made-route-53-i7l",
+   "date": "2026-08-24T17:13:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Why I built this? I wanted to actually build a hybrid DNS environment and see the DNS queries travel between an on-premises environment and AWS. My lab ended up having two separate DNS requirements: A public DNS name for",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fthqqpvel2sjx300iu95o.png"
+  },
+  {
+   "title": "DevOps for Series A Startups: What to Build First",
+   "link": "https://dev.to/instadevops/devops-for-series-a-startups-what-to-build-first-5efl",
+   "date": "2026-08-24T17:11:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "DevOps for Series A Startups: What to Build First A Series A changes the shape of your engineering problems before it changes the size of your team. The product still works. The same three people still know how everythin",
+   "image": null
+  },
+  {
+   "title": "Fragments: August 24",
+   "link": "https://martinfowler.com/fragments/2026-08-24.html",
+   "date": "2026-08-24T15:29:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of th",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+   "date": "2026-08-24T14:32:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg"
+  },
+  {
+   "title": "Drupal AI Initiative: Your next website visitor might not be human",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/your-next-website-visitor-might-not-be-human",
+   "date": "2026-08-24T14:30:14.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "For most of the web’s history, we have designed digital experiences around a simple assumption: a person will visit our website. That person might arrive through a search engine, follow a campaign link, scan a QR code, o",
+   "image": null
+  },
+  {
+   "title": "A Drupal Couple: The closest thing I have to an answer",
+   "link": "https://www.adrupalcouple.us/ai-agents-and-your-operating-knowledge",
+   "date": "2026-08-24T14:02:32.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The closest thing I have to an answer Imagen Connecting systems isn't hard anymore, so what matters is what you put in the middle. I think that separates into knowledge, decisions, and the terrain those decisions run on,",
+   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/replaced-stone-a.jpg.webp?itok=yucPiBrZ"
+  },
+  {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
+  },
+  {
+   "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
+   "link": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
+   "date": "2026-08-24T13:53:35.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A practical collection of tips for combining AI, Blender, and Blender MCP to streamline your Three.js workflow.",
+   "image": null
+  },
+  {
+   "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+   "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+   "date": "2026-08-24T12:35:36.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg"
+  },
+  {
+   "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+   "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+   "date": "2026-08-24T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
+  },
+  {
+   "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+   "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+   "date": "2026-08-24T11:56:34.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
+  },
+  {
+   "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+   "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+   "date": "2026-08-24T11:51:36.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg"
+  },
   {
    "title": "Your executable is a SQLite database",
    "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
@@ -12,84 +202,14 @@
    "image": null
   },
   {
-   "title": "I Built an AWS DevOps AI Agent Using Kiro Crew + MCP",
-   "link": "https://dev.to/aws-builders/i-built-an-aws-devops-ai-agent-using-kiro-crew-mcp-fk0",
-   "date": "2026-08-24T11:30:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At 3:17 AM last Tuesday, my payment-api ECS service entered a terminal failure loop. 7,279 failed tasks since August 13th. The health check expected /api/health but the container only served static content. Every 60 seco",
-   "image": null
-  },
-  {
-   "title": "Every Check Should Report What It Did Not Look At",
-   "link": "https://dev.to/jeremy_longshore/every-check-should-report-what-it-did-not-look-at-2nn3",
-   "date": "2026-08-24T11:30:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Yesterday I wrote about the gate runner that counted SKIP as PASS, and the rig proof receipt that closed it. That is the setup, not today's subject. Today's subject is what happened next. The same defect shape surfaced t",
-   "image": null
-  },
-  {
-   "title": "How DevOps Engineers Troubleshoot Production Issues: From Symptoms to Root Cause",
-   "link": "https://dev.to/addwebsolutionpvtltd/how-devops-engineers-troubleshoot-production-issues-from-symptoms-to-root-cause-am4",
-   "date": "2026-08-24T11:29:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"The first step in solving a problem is recognizing that it does exist.\" Introduction Understanding Production Issues The Troubleshooting Mindset From Symptoms to Root Cause A Step-by-Step Production Troubleshooting Proc",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2zq1r1k6nstoq6ox0ws3.png"
-  },
-  {
-   "title": "Opinion: The Most Dangerous Regression Is the One Inside Your Review Tool",
-   "link": "https://dev.to/github_7727/opinion-the-most-dangerous-regression-is-the-one-inside-your-review-tool-g7b",
-   "date": "2026-08-24T11:16:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You track regressions in your application, your dependencies, and your CI pipeline, but the AI reviewer that gates your pull requests is probably unmonitored. A model update, a prompt tweak, or a sampling change can sile",
-   "image": null
-  },
-  {
-   "title": "Challenges of Implementing AI in Healthcare",
-   "link": "https://dev.to/alex_sebastian/challenges-of-implementing-ai-in-healthcare-39kp",
-   "date": "2026-08-24T11:16:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Challenges of Implementing AI in Healthcare Artificial intelligence is changing how healthcare organizations manage data and deliver services. AI can support medical imaging. It can help with patient monitoring and admin",
-   "image": null
-  },
-  {
-   "title": "Corporate Training for DevOps, Cloud & AI Engineering Skills",
-   "link": "https://dev.to/kalyan_visualpath_42cb693/corporate-training-for-devops-cloud-ai-engineering-skills-3h4g",
-   "date": "2026-08-24T11:10:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "🚀 Build the Future with Next-Gen DevOps, Cloud & AI Engineering! ☁️🤖 https://visualpath.in/corporate-training.html",
-   "image": null
-  },
-  {
-   "title": "Kubernetes Quest: From Localhost to Production (A Lord of the Rings Tale)",
-   "link": "https://dev.to/timevolt/kubernetes-quest-from-localhost-to-production-a-lord-of-the-rings-tale-20j5",
-   "date": "2026-08-24T10:53:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to think “just run docker run and call it a day.” I’d spin up a container locally, test my API with curl, and feel like a wizard. Then the moment came when I needed to show t",
-   "image": null
-  },
-  {
-   "title": "Modern World and Technology",
-   "link": "https://dev.to/isurusahanjaya18/modern-world-and-technology-55h9",
-   "date": "2026-08-24T10:11:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "",
-   "image": null
+   "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+   "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+   "date": "2026-08-24T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg"
   },
   {
    "title": "Drupal AI Initiative: From Headless CMS to AI Harness: What I Took to Decoupled Days",
@@ -119,6 +239,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Listen_addresses decides which TCP sockets exist on your server—but it says nothing about who can use them.",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS 3.7.0rc1",
+   "link": "https://postgr.es/p/9t2",
+   "date": "2026-08-24T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0rc1! Best Served with PostgreSQL 19 Beta 3 , GEOS 3.15.0rc1 , postgis_tiger_geocoder 2025.2 , and address_standardizer. This version requires PostgreSQL 14 - 19rc1, GEO",
    "image": null
   },
   {
@@ -292,14 +422,34 @@
    "image": null
   },
   {
-   "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-   "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-   "date": "2026-08-21T18:53:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux i",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
+   "title": "Laravel AI: Trace Agent Runs With Lifecycle Events",
+   "link": "https://laravel-news.com/laravel-ai-agent-run-events?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-21T18:56:17.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel AI 0.11 gives every agent run one invocation ID plus step and tool events with wall timings, so you can trace, log, and time a run end to end. The post Laravel AI: Trace Agent Runs With Lifecycle Events appeared ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Trace-Agent-Runs-LN.png"
+  },
+  {
+   "title": "Laravel AI: Get Raw HTTP Responses and Rate Limits",
+   "link": "https://laravel-news.com/laravel-ai-raw-http-response?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-21T18:56:05.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "The Laravel AI SDK exposes the provider's underlying HTTP response on $response->raw, so you can read rate limit headers, request ids, and payload fields. The post Laravel AI: Get Raw HTTP Responses and Rate Limits appea",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-SDK-Raw-HTTP-Responses-LN.png"
+  },
+  {
+   "title": "A simple form builder that stays out of your way",
+   "link": "https://laravel-news.com/deftform?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-21T17:26:14.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Deftform is a no-bloat Typeform and Jotform alternative built on Laravel. Generate forms with AI, wire them into your stack with a REST API and webhooks, and pay from $5 per form — no mandatory subscription. The post A s",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/deftform_laravel-news.png"
   },
   {
    "title": "llm 0.32.1",
@@ -320,26 +470,6 @@
    "source": "Simon Willison",
    "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter'",
    "image": null
-  },
-  {
-   "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-   "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-   "date": "2026-08-21T15:52:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
-  },
-  {
-   "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-   "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-   "date": "2026-08-21T15:41:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
   },
   {
    "title": "Resolved: CSS Class Prefix Selector",
@@ -370,36 +500,6 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Fabien Potencier in #4871…",
    "image": "https://github.com/fabpot.png"
-  },
-  {
-   "title": "Wazuh and AI For Enhanced SOC Workflows",
-   "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-   "date": "2026-08-21T11:21:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
-  },
-  {
-   "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-   "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-   "date": "2026-08-21T10:03:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crossw",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
-  },
-  {
-   "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-   "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-   "date": "2026-08-21T07:04:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
   },
   {
    "title": "Acquia.com - Drupal Blog: From Headless CMS to AI Harness: What I Took to Decoupled Days",
@@ -462,16 +562,6 @@
    "image": null
   },
   {
-   "title": "Mikhail Shytsko: The Postgres Insert That Fails Right After a Successful Load",
-   "link": "https://postgr.es/p/9sV",
-   "date": "2026-08-21T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The load finished without complaint, with row counts matching the fixture file and every foreign key resolving, but then the application inserts a row of its own, and Postgres refuses it: ERROR: duplicate key value viola",
-   "image": "https://seedfa.st/blog/postgres-sequence-out-of-sync-2.svg"
-  },
-  {
    "title": "Agent Run Observability in Laravel AI SDK 0.11",
    "link": "https://laravel-news.com/laravel-ai-sdk-0-11?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-20T23:05:54.000Z",
@@ -480,16 +570,6 @@
    "source": "Laravel News",
    "summary": "Laravel AI SDK 0.11 adds run-level events for agent steps and tool calls, hosted tool search for OpenAI and Anthropic, and wider provider failover. The post Agent Run Observability in Laravel AI SDK 0.11 appeared first o",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
-  },
-  {
-   "title": "Statamic Mailables Viewer Previews Laravel Emails in the Control Panel",
-   "link": "https://laravel-news.com/statamic-mailables-viewer?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-20T19:09:40.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Statamic Mailables Viewer discovers Laravel mailables and adds live previews, editable sample data, responsive views, and test sending to the Control Panel. The post Statamic Mailables Viewer Previews Laravel Emails in t",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/mailables-viewer-hero.png"
   },
   {
    "title": "Talking Drupal: Talking Drupal #566 - DrupalEasy: Responsible Drupal AI",
@@ -512,26 +592,6 @@
    "image": null
   },
   {
-   "title": "Mike Herchel's Blog: I’m Joining Acquia!",
-   "link": "https://herchel.com/articles/im-joining-acquia",
-   "date": "2026-08-20T15:10:08.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "I’m Joining Acquia! mherchel Thu, 08/20/2026 - 11:10",
-   "image": null
-  },
-  {
-   "title": "A Drupal Couple: A conversation in Cartagena",
-   "link": "https://www.adrupalcouple.us/the-ai-does-not-know-your-company",
-   "date": "2026-08-20T14:59:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A conversation in Cartagena Imagen I spent part of a trip talking with an architect and a facade specialist about how buildings behave, and then about when to service them. The systems hold the facts. A person holds the ",
-   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/hero-selected-torre-del-reloj.jpg.webp?itok=o-OSmgpl"
-  },
-  {
    "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
    "link": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
    "date": "2026-08-20T13:35:23.000Z",
@@ -550,26 +610,6 @@
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
    "image": null
-  },
-  {
-   "title": "Queue::forward(): Reroute Laravel Queues in One Place",
-   "link": "https://laravel-news.com/laravel-queue-forward?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-19T22:48:56.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Queue::forward() in Laravel 13.26 reroutes queued jobs to another queue or connection from a service provider, with no changes to job classes. The post Queue::forward(): Reroute Laravel Queues in One Place appeared first",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-queue-forward-featured.png"
-  },
-  {
-   "title": "Laravel Tackle: Run an AI Coding Agent in Your Laravel App",
-   "link": "https://laravel-news.com/laravel-tackle?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-19T22:48:41.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Tackle installs an AI coding agent into your app as Artisan commands, with path guards, spend limits, and worktree isolation enforced in PHP. The post Laravel Tackle: Run an AI Coding Agent in Your Laravel App ap",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Tackle-LN.png"
   },
   {
    "title": "Citizens Build, Agents Execute, Experts Govern",
@@ -852,16 +892,6 @@
    "image": null
   },
   {
-   "title": "Creating an Interactive 3D Cluster with Three.js, TSL and Three Start",
-   "link": "https://tympanus.net/codrops/2026/08/12/creating-an-interactive-3d-cluster-with-three-js-tsl-and-three-start/",
-   "date": "2026-08-12T13:10:49.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A step-by-step tutorial on turning a simple icosahedron into a dynamic, interactive 3D cluster using Three.js, TSL, WebGPU, noise, interaction, and post-processing.",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -909,16 +939,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
-   "image": null
-  },
-  {
-   "title": "SmashingConf Freiburg 2026, September 7-10",
-   "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-   "date": "2026-08-10T15:57:39.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10. SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on ",
    "image": null
   },
   {
@@ -1120,16 +1140,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​752 — July 29, 2026 | Read on the web WOFF 1.0 at 16: The Format That Made Web Fonts Work — Did you know @font-face was adopted into CSS2 in 1998? But it sat largely unused amid fights over licensing,",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
-  },
-  {
-   "title": "The Orchestrator's Tax",
-   "link": "https://martinfowler.com/articles/orchestrator-tax.html",
-   "date": "2026-07-28T13:10:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Subagents get justified by time saved and parallel execution, but Rahul Garg explains that's not what matters most. Every token in the orchestrator's context is competing for its attention, and the real value of a subage",
-   "image": null
   },
   {
    "title": "Rebuilding the World Cup table with CSS Subgrid",
