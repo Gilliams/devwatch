@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T17:42:57.155Z",
+ "generatedAt": "2026-08-24T23:32:12.566Z",
  "articles": [
   {
    "title": "\"A\" for \"Average\"",
@@ -12,83 +12,143 @@
    "image": null
   },
   {
-   "title": "Opinion: Pin Your AI Review Configuration Like a Dependency",
-   "link": "https://dev.to/github_7727/opinion-pin-your-ai-review-configuration-like-a-dependency-1o5b",
-   "date": "2026-08-24T17:34:01.000Z",
+   "title": "LocalStack Went Paid: What the Alternatives Get Right, and What Still Comes Down to Production",
+   "link": "https://dev.to/toddyholiday/localstack-went-paid-what-the-alternatives-get-right-and-what-still-comes-down-to-production-5bnf",
+   "date": "2026-08-24T23:27:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Opinion: Pin Your AI Review Configuration Like a Dependency AI-assisted code review only earns trust when the exact model, prompt, and diff can be replayed from a stored configuration. If your review tool hides those inp",
+   "summary": "For the better part of a decade, LocalStack was the default answer to a persistent developer problem: how do you write and test code that calls AWS APIs without running up a cloud bill on every CI job? The answer was a l",
    "image": null
   },
   {
-   "title": "Taming Kubernetes Cost Sprawl: A FinOps Blueprint for Executives",
-   "link": "https://dev.to/mtahir27/taming-kubernetes-cost-sprawl-a-finops-blueprint-for-executives-1d62",
-   "date": "2026-08-24T17:33:46.000Z",
+   "title": "A Broken-Link Check Counts 404s. The Resource That Breaks Your Padlock Returns 200.",
+   "link": "https://dev.to/merlonix/a-broken-link-check-counts-404s-the-resource-that-breaks-your-padlock-returns-200-47fb",
+   "date": "2026-08-24T23:23:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction & Industry Context As organizations increasingly embrace cloud-native architectures, Kubernetes has become the de facto operating system for the modern data center — both on-premises and in the public cloud.",
+   "summary": "Originally published on the Merlonix blog. A broken-link checker does one well-defined thing: it walks the links on a page, fetches each target, and flags the ones that come back wrong — a 4xx, a 5xx, a timeout, a connec",
    "image": null
   },
   {
-   "title": "CI/CD Pipelines That Actually Work: A Journey Through the Matrix",
-   "link": "https://dev.to/timevolt/cicd-pipelines-that-actually-work-a-journey-through-the-matrix-3fkd",
-   "date": "2026-08-24T17:30:57.000Z",
+   "title": "Is My Domain Blacklisted? Why a Public DNSBL Check Can Show a False Positive",
+   "link": "https://dev.to/merlonix/is-my-domain-blacklisted-why-a-public-dnsbl-check-can-show-a-false-positive-dk6",
+   "date": "2026-08-24T23:23:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I used to stare at my CI/CD yaml files and feel like Neo stuck in the loading screen—except the only thing loading was my frustration. Every push triggered a cascade of jobs that du",
+   "summary": "Originally published on the Merlonix blog. A DNS blocklist (DNSBL, sometimes RBL) is a published list of IP addresses a provider has flagged as a source of spam. Mail servers consult these lists in real time: if the IP t",
    "image": null
   },
   {
-   "title": "Building ML Gatekeeper: Automated Pipeline Governance with Multi-Agent Systems and GitLab CI/CD",
-   "link": "https://dev.to/nikhil_ramank_152ca48266/building-ml-gatekeeper-automated-pipeline-governance-with-multi-agent-systems-and-gitlab-cicd-al9",
-   "date": "2026-08-24T17:23:35.000Z",
+   "title": "How to Resolve SSL/TLS Certificate Handshake Failures – Troubleshooting Guide for Developers",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-troubleshooting-guide-for-developers-1beo",
+   "date": "2026-08-24T22:59:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Architectural Overview Traditional CI/CD pipelines rely on static assertion scripts that fail silently on dynamic edge cases. ml-gatekeeper-multiagent replaces static checks with autonomous, specialized agents that ev",
+   "summary": "How to Resolve SSL/TLS Certificate Handshake Failures – Troubleshooting Guide for Developers Overview SSL/TLS handshake failures are a common source of downtime for web services. This article walks you through the most f",
    "image": null
   },
   {
-   "title": "Building Multi-Region Consensus Checks with Cloudflare Durable Objects",
-   "link": "https://dev.to/alex_gutscher_2ab0d3cf4c3/building-multi-region-consensus-checks-with-cloudflare-durable-objects-3381",
-   "date": "2026-08-24T17:22:58.000Z",
+   "title": "Stop Putting Secrets in Plaintext",
+   "link": "https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd",
+   "date": "2026-08-24T22:45:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every uptime monitor I've used has woken me up for an outage that never happened. The mechanism is always the same, and it isn't a bug. A monitor checks your endpoint from one location. Somewhere between that prober and ",
+   "summary": "Most local dev setups end up with some secret — an API key, a cloud credential, a database password — sitting in a plaintext file on disk indefinitely. Here's a simple pattern that avoids that, using AWS credentials as t",
    "image": null
   },
   {
-   "title": "Turn a missed cron into a GitHub or Linear ticket",
-   "link": "https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7",
-   "date": "2026-08-24T17:14:16.000Z",
+   "title": "From Zero to Hero: Kubernetes for Beginners – A Journey Like 'The Matrix'",
+   "link": "https://dev.to/timevolt/from-zero-to-hero-kubernetes-for-beginners-a-journey-like-the-matrix-c1h",
+   "date": "2026-08-24T22:26:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Email is a bad place for “the backup never ran.” You get the Down ping, maybe a Slack message, then it scrolls off. The job that failed is sitting next to a GitHub repo or a Linear team. That is where someone actually cl",
+   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I tried to run a micro‑service locally with docker run. I had three containers – an API, a worker, and a tiny Redis cache – each with its own port ma",
    "image": null
   },
   {
-   "title": "I Built Hybrid DNS Between AWS and My On-Prem Linux Server -- Here's What Finally Made Route 53 Resolver Click",
-   "link": "https://dev.to/ashish_nair_d9b10ba4f8126/i-built-hybrid-dns-between-aws-and-my-on-prem-linux-server-heres-what-finally-made-route-53-i7l",
-   "date": "2026-08-24T17:13:50.000Z",
+   "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
+   "link": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
+   "date": "2026-08-24T22:23:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why I built this? I wanted to actually build a hybrid DNS environment and see the DNS queries travel between an on-premises environment and AWS. My lab ended up having two separate DNS requirements: A public DNS name for",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fthqqpvel2sjx300iu95o.png"
+   "summary": ".NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository promotes warnings to errors. The tempting fix is to delete the named PackageReference everywhere. That is safe for a net10.0-",
+   "image": null
   },
   {
-   "title": "DevOps for Series A Startups: What to Build First",
-   "link": "https://dev.to/instadevops/devops-for-series-a-startups-what-to-build-first-5efl",
-   "date": "2026-08-24T17:11:51.000Z",
+   "title": "Every Metric Needs A Set Point, Or It Is Just A Number",
+   "link": "https://dev.to/paulcrinigan/every-metric-needs-a-set-point-or-it-is-just-a-number-3gel",
+   "date": "2026-08-24T22:18:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DevOps for Series A Startups: What to Build First A Series A changes the shape of your engineering problems before it changes the size of your team. The product still works. The same three people still know how everythin",
+   "summary": "Human physiology has been running production monitoring for a few hundred million years, and it does one thing that most engineering dashboards do not: every single regulated variable comes with a declared band, and ever",
+   "image": null
+  },
+  {
+   "title": "cary huang: PostgreSQL in Taipei: Connecting Taiwan to the Global PostgreSQL Community (COSCUP 2026)",
+   "link": "https://postgr.es/p/9t4",
+   "date": "2026-08-24T21:58:12.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Introduction COSCUP 2026 was held on August 8–9 at National Taiwan University of Science and Technology (NTUST) in Taipei. As one of Taiwan’s largest annual open-source gatherings, COSCUP brings together developers, user",
+   "image": "https://www.highgo.ca/wp-content/uploads/2026/08/banner-1024x448.webp"
+  },
+  {
+   "title": "Christophe Pettus: The Sixth Execution",
+   "link": "https://postgr.es/p/9t3",
+   "date": "2026-08-24T20:14:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Prepared statements switch from custom plans to generic plans on the sixth execution, and that switch can make your queries mysteriously slow.",
+   "image": null
+  },
+  {
+   "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+   "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+   "date": "2026-08-24T17:41:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
+  },
+  {
+   "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+   "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+   "date": "2026-08-24T17:41:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg"
+  },
+  {
+   "title": "The Drop Times: Eight DAM Decisions for Drupal Teams",
+   "link": "https://www.thedroptimes.com/71676/drupal-dam-architecture-decisions?utm_source=Drupal Planet",
+   "date": "2026-08-24T16:33:40.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A DAM decision changes more than where images are stored. Drupal teams also have to decide which system owns metadata, approvals, transformations, rights, and the published asset lifecycle.",
+   "image": null
+  },
+  {
+   "title": "llm-anthropic 0.27",
+   "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+   "date": "2026-08-24T16:27:04.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the sam",
    "image": null
   },
   {
@@ -162,16 +222,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg"
   },
   {
-   "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-   "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-   "date": "2026-08-24T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
-  },
-  {
    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
    "date": "2026-08-24T11:56:34.000Z",
@@ -232,6 +282,26 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg"
   },
   {
+   "title": "The Drop Times: Drupal Security Team Marks 16 Contributed Projects Unsupported in Ten Weeks",
+   "link": "https://www.thedroptimes.com/71881/drupal-16-projects-unsupported?utm_source=Drupal Planet",
+   "date": "2026-08-24T07:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The latest three projects have limited reported use, but the pattern extends beyond their reach. For affected site teams, the recurring security response is to uninstall the project rather than install an update.",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: What Becomes Valuable When Code Gets Cheap?",
+   "link": "https://www.thedroptimes.com/newsletter/what-becomes-valuable-when-code-gets-cheap?utm_source=Drupal Planet",
+   "date": "2026-08-24T05:15:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This week's release of Drupal AI Context Beta 4 added taxonomy-based context selection, priority controls, workflow states, and token-budget visibility. Kristen Pol, primary maintainer of Context Control Center, said the",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: listen_addresses",
    "link": "https://postgr.es/p/9t0",
    "date": "2026-08-24T01:00:00.000Z",
@@ -250,6 +320,16 @@
    "source": "Planet PostgreSQL",
    "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0rc1! Best Served with PostgreSQL 19 Beta 3 , GEOS 3.15.0rc1 , postgis_tiger_geocoder 2025.2 , and address_standardizer. This version requires PostgreSQL 14 - 19rc1, GEO",
    "image": null
+  },
+  {
+   "title": "DDEV Blog: Umbraco on DDEV: .NET, SQL Server, and the generic project type",
+   "link": "https://ddev.com/blog/umbraco-on-ddev",
+   "date": "2026-08-24T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "DDEV's generic project type will run anything that brings its own web server, and people already use it for Node and other stacks. Umbraco is a less-travelled case: .NET, Kestrel, and SQL Server. I wanted to know how muc",
+   "image": "https://ddev.com/img/blog/2026/08/umbraco-on-ddev.png"
   },
   {
    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -342,16 +422,6 @@
    "image": null
   },
   {
-   "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-   "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-   "date": "2026-08-22T14:32:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg"
-  },
-  {
    "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
    "link": "https://tympanus.net/codrops/2026/08/22/sixty-frames-for-the-record-a-three-js-game-seven-fly-throughs-and-a-wall-of-crts/",
    "date": "2026-08-22T14:00:14.000Z",
@@ -399,16 +469,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Load shared libraries per-session from a single curated directory, no superuser needed.",
-   "image": null
-  },
-  {
-   "title": "Gspikes: The 10 Drupal SEO Modules That Matter in 2026 — and How to Configure Each One Properly",
-   "link": "https://gspikes.com/drupal-seo-modules/",
-   "date": "2026-08-21T23:07:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The definitive configuration guide to Drupal's SEO module stack: Pathauto, Redirect, Metatag, Simple XML Sitemap vs XML Sitemap, Schema.org Metatag, and five more — with the exact settings I use on every build and the mi",
    "image": null
   },
   {
@@ -462,16 +522,6 @@
    "image": null
   },
   {
-   "title": "llm-openrouter 0.7",
-   "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-   "date": "2026-08-21T16:58:19.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter'",
-   "image": null
-  },
-  {
    "title": "Resolved: CSS Class Prefix Selector",
    "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
    "date": "2026-08-21T15:13:03.000Z",
@@ -479,16 +529,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
-   "image": null
-  },
-  {
-   "title": "Replatform Radar: Drupal to Headless: The Node IDs That Break the Move",
-   "link": "https://replatformradar.com/blog/drupal-to-headless-node-ids-that-break-the-move?utm_source=planet-drupal&utm_medium=feed",
-   "date": "2026-08-21T14:00:27.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "When you move a Drupal site to a headless CMS, the thing most likely to break silently is not your content. It is the invisible wiring between pieces of it. Drupal stores relationships as numeric IDs (node 4127, term 88,",
    "image": null
   },
   {
@@ -502,16 +542,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "Acquia.com - Drupal Blog: From Headless CMS to AI Harness: What I Took to Decoupled Days",
-   "link": "https://www.acquia.com/blog/headless-cms-ai-harness-what-i-took-decoupled-days",
-   "date": "2026-08-21T05:17:48.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal turns decoupled architecture into a governed AI harness, combining live visual editing with agent-ready content schemas.",
-   "image": null
-  },
-  {
    "title": "Debounced Queued Event Listeners in Laravel",
    "link": "https://laravel-news.com/laravel-debounced-queued-listeners?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-21T02:56:03.000Z",
@@ -520,16 +550,6 @@
    "source": "Laravel News",
    "summary": "Laravel's DebounceFor attribute now works on queued event listeners, collapsing bursts of the same event into one handler run with debounceId and maxWait. The post Debounced Queued Event Listeners in Laravel appeared fir",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/debounced-queue-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: lock_timeout",
-   "link": "https://postgr.es/p/9sS",
-   "date": "2026-08-21T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Prevent your migration from starving behind long-running queries.",
-   "image": null
   },
   {
    "title": "\"A\" for \"Apathy\"",
@@ -552,16 +572,6 @@
    "image": null
   },
   {
-   "title": "Alexey Evlampiev: The Request Becomes a Transaction",
-   "link": "https://postgr.es/p/9sW",
-   "date": "2026-08-21T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The Request Becomes a Transaction# A transactional API has two halves: a network edge and a transactional operation. Keep the first at that edge; give the second to PostgreSQL, where its authority already lives — and eve",
-   "image": null
-  },
-  {
    "title": "Agent Run Observability in Laravel AI SDK 0.11",
    "link": "https://laravel-news.com/laravel-ai-sdk-0-11?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-20T23:05:54.000Z",
@@ -570,16 +580,6 @@
    "source": "Laravel News",
    "summary": "Laravel AI SDK 0.11 adds run-level events for agent steps and tool calls, hosted tool search for OpenAI and Anthropic, and wider provider failover. The post Agent Run Observability in Laravel AI SDK 0.11 appeared first o",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-AI-Featured-LN.png"
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #566 - DrupalEasy: Responsible Drupal AI",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-566-drupaleasy-responsible-drupal-ai",
-   "date": "2026-08-20T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Drupal, AI, and learning to use it responsibly with guest Mike Anello. We'll also cover Entity Mesh as our module of the week. For show notes visit: https://www.talkingDrupal.com/566 Topics Cou",
-   "image": null
   },
   {
    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
