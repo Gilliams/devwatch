@@ -1,84 +1,234 @@
 {
- "generatedAt": "2026-08-25T11:39:11.465Z",
+ "generatedAt": "2026-08-25T17:42:34.880Z",
  "articles": [
   {
-   "title": "Join the SAP AI Online Training New Batch on August 26th",
-   "link": "https://dev.to/kalyan_visualpath_42cb693/join-the-sap-ai-online-training-new-batch-on-august-26th-3h98",
-   "date": "2026-08-25T11:30:01.000Z",
+   "title": "Four Ways to Deploy a Bun Server",
+   "link": "https://dev.to/keonik/four-ways-to-deploy-a-bun-server-571d",
+   "date": "2026-08-25T17:38:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🎓 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄 𝗳𝗼𝗿 𝗦𝗔𝗣 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴! 🚀 Take your SAP and AI skills to the next level with Visualpath’s SAP Artificial Intelligence Training. 📅 𝗡𝗲𝘄 𝗕𝗮",
+   "summary": "Most Bun Dockerfiles start with FROM oven/bun:1 and never move again. That tag is an alias for oven/bun:1-debian — the full Debian image, not slim — and it floats, which bit me later. There are three other ways to ship t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv9qylqkj8g6skynshwjb.gif"
+  },
+  {
+   "title": "How to Find Which Proxy Returned a 502 or 504 — A Reproducible NGINX Debugging Lab",
+   "link": "https://dev.to/praneethhere/how-to-find-which-proxy-returned-a-502-or-504-a-reproducible-nginx-debugging-lab-bhc",
+   "date": "2026-08-25T17:25:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A 502 Bad Gateway or 504 Gateway Timeout tells you that something failed around a gateway boundary. It does not necessarily tell you which gateway failed. That distinction matters when a request crosses multiple layers: ",
    "image": null
   },
   {
-   "title": "Google Cloud Professional Cloud DevOps Engineer: Skills, Tools, CI/CD, Kubernetes and Career Roadmap",
-   "link": "https://dev.to/zainab_1201/google-cloud-professional-cloud-devops-engineer-skills-tools-cicd-kubernetes-and-career-roadmap-16d4",
-   "date": "2026-08-25T11:22:11.000Z",
+   "title": "Kubernetes: valida alertas tras rotar secretos",
+   "link": "https://dev.to/alexcarteruk/kubernetes-valida-alertas-tras-rotar-secretos-1ko5",
+   "date": "2026-08-25T17:24:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Modern software engineering teams face a constant challenge: how to ship features rapidly without sacrificing system stability, security, or infrastructure reliability. When an application moves from a local development ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faigiac3nq4emfgaeuwcd.png"
-  },
-  {
-   "title": "How to Deploy AWS EKS With Open-Source Terraform Modules",
-   "link": "https://dev.to/mattia_vercelli/how-to-deploy-aws-eks-with-open-source-terraform-modules-2gdj",
-   "date": "2026-08-25T11:16:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Deploying Amazon EKS by hand means composing AWS, IAM, Kubernetes, Helm, networking, and autoscaling resources yourself. This guide takes a more practical route: start from two runnable examples in the Das Meta open-sour",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsozwlr1cytgdor897q47.png"
-  },
-  {
-   "title": "How to Fix Docker Container CrashLoopBackOff – Step‑by‑Step Guide for DevOps",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-container-crashloopbackoff-step-by-step-guide-for-devops-52p7",
-   "date": "2026-08-25T11:04:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction If you’ve ever seen a pod stuck in CrashLoopBackOff, you know the frustration. This guide walks you through the most common causes, how to diagnose them, and concrete fixes you can apply today. Inspect pod e",
+   "summary": "Rotar secretos de SMTP en Kubernetes suele parecer una tarea menor hasta que el primer correo de alerta no sale, sale duplicado o llega con enlaces viejos. El cambio tecnico ya ocurrio, pero la parte operativa sigue abie",
    "image": null
   },
   {
-   "title": "How I Automated cPanel Hosting Management Using APIs",
-   "link": "https://dev.to/nitinmehta/how-i-automated-cpanel-hosting-management-using-apis-1pnj",
-   "date": "2026-08-25T10:58:23.000Z",
+   "title": "Top 45 Sites To Buy Edu Emails Accounts in 2026",
+   "link": "https://dev.to/jessebol/top-45-sites-to-buy-edu-emails-accounts-in-2026-39ij",
+   "date": "2026-08-25T17:22:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How I Automated cPanel Hosting Management Using APIs Managing hosting accounts manually works when you have a few customers. Once you start managing dozens or hundreds of hosting accounts, it becomes a completely differe",
+   "summary": "Buy Edu Emails getsmmzone@gmail.com $12.00 Original price was: $12.00.$8.00Current price is: $8.00. Buy Edu Emails Buy Edu Emails Details & Features Edu Gmail Accounts: ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial getsmmzone@",
    "image": null
   },
   {
-   "title": "How to Reduce Nginx 502 and 504 Gateway Errors",
-   "link": "https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i",
-   "date": "2026-08-25T10:50:00.000Z",
+   "title": "Top 36 Exclusive Website To Buy Edu Emails With USA",
+   "link": "https://dev.to/jessebol/top-36-exclusive-website-to-buy-edu-emails-with-usa-4ml4",
+   "date": "2026-08-25T17:21:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Practical steps to diagnose and fix nginx 502 and 504 errors — from upstream timeouts to worker limits — before they wake you up at 3am. A wave of 502 and 504 errors is one of the most frustrating things to debug under p",
+   "summary": "Buy Edu Emails getsmmzone@gmail.com $12.00 Original price was: $12.00.$8.00Current price is: $8.00. Buy Edu Emails Buy Edu Emails Details & Features Edu Gmail Accounts: ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial getsmmzone@",
    "image": null
   },
   {
-   "title": "Best Corporate Training with Expert Trainer Support",
-   "link": "https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-expert-trainer-support-k0a",
-   "date": "2026-08-25T10:39:13.000Z",
+   "title": "Your AI coding tool broke after an auto-update? On Windows, check the self-lock first",
+   "link": "https://dev.to/milkyway008/your-ai-coding-tool-broke-after-an-auto-update-on-windows-check-the-self-lock-first-pgi",
+   "date": "2026-08-25T17:11:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Corporate Training Roadmap for Digital Transformation What Is a Digital Transformation Training Roadmap? Why Businesses Need a Training Roadmap Step-by-Step Corporate Training Roadmap Tools and Technologies Used Benefits",
+   "summary": "I've been collecting these reports for a while now, and there's a pattern. Your AI coding assistant says \"Update complete!\", you click it, and then... the tool won't start. Or it crashes. Or every launch says \"the next l",
    "image": null
   },
   {
-   "title": "Dockerfile Best Practices: Security",
-   "link": "https://dev.to/fj_palacios/dockerfile-best-practices-security-2p5g",
-   "date": "2026-08-25T10:35:55.000Z",
+   "title": "That Time Client Retries Turned a Recovery Into a 7-Hour Outage",
+   "link": "https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2",
+   "date": "2026-08-25T17:06:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Run this against your current containers: docker inspect $(docker ps -q) --format '{{ .Name }}: {{ .Config.User }}' Most of them will return a blank after the colon. Blank means root. You're running production workloads ",
+   "summary": "GitHub had an interesting incident last August. A component in Central US failed under load, and when it started recovering, the recovery took much longer than it should have. The culprit: clients hammering the recoverin",
+   "image": null
+  },
+  {
+   "title": "Opinion: Your AI Reviewer Is the Only Pipeline Stage Nobody Tests",
+   "link": "https://dev.to/github_7727/opinion-your-ai-reviewer-is-the-only-pipeline-stage-nobody-tests-49ip",
+   "date": "2026-08-25T17:01:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every stage of your delivery pipeline has tests except the stage that judges the code itself. Your AI reviewer is the only component whose output is trusted without assertions, which makes it the largest unverified surfa",
+   "image": null
+  },
+  {
+   "title": "Software Bill of Materials in Percona Server for MongoDB",
+   "link": "https://www.percona.com/blog/software-bill-of-materials-in-percona-server-for-mongodb/",
+   "date": "2026-08-25T15:25:47.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Introduction A software bill of materials (SBOM) offers end users enhanced supply chain visibility, thereby facilitating license compliance and timely vulnerability detection. An SBOM of an application, library, or frame",
+   "image": "https://www.percona.com/wp-content/uploads/2026/08/abcd_circle_diagram.svg"
+  },
+  {
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "date": "2026-08-25T15:14:14.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "What's in a tag name? JavaScript, apparently",
+   "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+   "date": "2026-08-25T14:24:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
+   "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
+  },
+  {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
+   "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+   "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+   "date": "2026-08-25T14:07:37.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaJs9yp_YLYc3dgsmzjU4_ma-6DC3KNpG4d3KhKtoIuhtpbYSnK0Wed5_8a0Jm6epc_RdLE9PVMO0FnkH7DFwRAI7lBZBXImFEu1emv-OarT-LPYE-QymTXPMkmDsYBXsz1TB3gASsiAEgZ4Jvt1YzQM3KHYpV0HMck686hTcXB7pn7uqLu2uTLVgPyE/s1600/nvidia.jpg"
+  },
+  {
+   "title": "The Drop Times: Rybbit Analytics Maintainer Explores Embedded Dashboards and No-Code Event Tracking for Drupal",
+   "link": "https://www.thedroptimes.com/71667/rybbit-analytics-drupal-dashboards-event-tracking?utm_source=Drupal Planet",
+   "date": "2026-08-25T13:52:21.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "For Drupal sites with logged-in experiences, the integration can use existing user attributes to segment journeys and activity, extending Rybbit beyond anonymous traffic reporting.",
+   "image": null
+  },
+  {
+   "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+   "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+   "date": "2026-08-25T13:19:41.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyjfLJEnp8xcmcz9iVBOKykdcxx36J8KgONSwImU9YSYuvWD_uzKDaGkJre9D_8P1XLdE8vPHqNyBUKOvjYPLJj_oZ1T-pfUxdOm-bZTtaz4LC2eVcuFloJTtEE7IWVnOaVJIEtFUoPKfOn9xeBASQG7e7X2-wA7P-hwGIzqP7G_-Ot2BOpj-OSO0tUBh/s1600/whatsapp.jpg"
+  },
+  {
+   "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+   "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+   "date": "2026-08-25T12:43:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg"
+  },
+  {
+   "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+   "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+   "date": "2026-08-25T11:56:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg"
+  },
+  {
+   "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+   "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+   "date": "2026-08-25T11:52:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg"
+  },
+  {
+   "title": "Henrietta Dombrovskaya: How to optimize when you can’t do anything!",
+   "link": "https://postgr.es/p/9t9",
+   "date": "2026-08-25T11:50:24.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "It’s hard to say anything new about query optimization. On the one hand, each new Postgres release includes multiple query planner improvements, and it feels like there is something for any problem that can possibly aris",
+   "image": null
+  },
+  {
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "date": "2026-08-25T11:39:24.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+   "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+   "date": "2026-08-25T11:33:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. Whi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg"
+  },
+  {
+   "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+   "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+   "date": "2026-08-25T11:14:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg"
+  },
+  {
+   "title": "Specbee: Are you building a Drupal module that already exists? Meet Module Scout",
+   "link": "https://www.specbee.com/blogs/drupal-module-scout",
+   "date": "2026-08-25T10:21:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Building a Drupal module? We built Module Scout that uses AI to search Drupal.org’s live project directory and help you find existing modules before you start from scratch.",
    "image": null
   },
   {
@@ -100,16 +250,6 @@
    "source": "The Hacker News",
    "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg"
-  },
-  {
-   "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-   "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-   "date": "2026-08-25T06:12:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg"
   },
   {
    "title": "Cornelia Biacsics: Contributions for week 33",
@@ -172,6 +312,16 @@
    "image": null
   },
   {
+   "title": "Gülçin Yıldırım Jelínek: Read your writes: WAIT FOR in PostgreSQL 19",
+   "link": "https://postgr.es/p/9ta",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 19 introduces a new SQL command, WAIT FOR, that lets a session block until WAL has reached a specific position. This gives us read-your-writes consistency on asynchronous replicas without paying the synchronou",
+   "image": null
+  },
+  {
    "title": "Alexey Evlampiev: Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT",
    "link": "https://postgr.es/p/9t8",
    "date": "2026-08-25T00:00:00.000Z",
@@ -180,6 +330,26 @@
    "source": "Planet PostgreSQL",
    "summary": "Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT# Express the branching scenarios of your business logic as a directory tree; walk it with savepoints so each branch inherits its h",
    "image": null
+  },
+  {
+   "title": "Cheppers: ExperienceKit: Why University Websites Break at Scale, and How to Fix It",
+   "link": "https://cheppers.com/post/experiencekit-why-university-websites-break-at-scale-and-how-to-fix-it",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "No one decides to have an inconsistent university website. It happens one reasonable decision at a time: a department needs a page and the central team is booked, so a local admin builds it. A lab hires a student to make",
+   "image": null
+  },
+  {
+   "title": "Laravel Auditor Audits Your App With Your Own AI Agent",
+   "link": "https://laravel-news.com/laravel-auditor?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-24T23:21:47.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Auditor gives Claude Code, Codex, or Cursor a 75-rule audit methodology plus read-only MCP tools for security, performance, and schema checks. The post Laravel Auditor Audits Your App With Your Own AI Agent appea",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-auditor-featured.png"
   },
   {
    "title": "cary huang: PostgreSQL in Taipei: Connecting Taiwan to the Global PostgreSQL Community (COSCUP 2026)",
@@ -200,26 +370,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Prepared statements switch from custom plans to generic plans on the sixth execution, and that switch can make your queries mysteriously slow.",
    "image": null
-  },
-  {
-   "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-   "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-   "date": "2026-08-24T17:41:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
-  },
-  {
-   "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-   "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-   "date": "2026-08-24T17:41:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM9ML6Oc83309fnrqC5YOyteVjfKTYCzrm3KoKbrmts4w0P7kQoBMu9btpIWFoYZePuTnU0TL7Olt7jVqdJylmuxwKcI0_NaKNuHxe0pQwi6W2mz7D-qS4WvW1da7E-QG2eEfNf-MbqmB3GR0psJTTT8RO-NtFnx9yVe8dlItdO2G0Dh4wXFNLs_WIqAHP/s1600/mine.jpg"
   },
   {
    "title": "The Drop Times: Eight DAM Decisions for Drupal Teams",
@@ -250,16 +400,6 @@
    "source": "Martin Fowler",
    "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of th",
    "image": null
-  },
-  {
-   "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-   "date": "2026-08-24T14:32:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg"
   },
   {
    "title": "Drupal AI Initiative: Your next website visitor might not be human",
@@ -302,36 +442,6 @@
    "image": null
   },
   {
-   "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-   "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-   "date": "2026-08-24T12:35:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg"
-  },
-  {
-   "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-   "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-   "date": "2026-08-24T11:56:34.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
-  },
-  {
-   "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-   "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-   "date": "2026-08-24T11:51:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg"
-  },
-  {
    "title": "Your executable is a SQLite database",
    "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
    "date": "2026-08-24T11:38:15.000Z",
@@ -352,56 +462,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Drupal Security Team Marks 16 Contributed Projects Unsupported in Ten Weeks",
-   "link": "https://www.thedroptimes.com/71881/drupal-16-projects-unsupported?utm_source=Drupal Planet",
-   "date": "2026-08-24T07:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The latest three projects have limited reported use, but the pattern extends beyond their reach. For affected site teams, the recurring security response is to uninstall the project rather than install an update.",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: What Becomes Valuable When Code Gets Cheap?",
-   "link": "https://www.thedroptimes.com/newsletter/what-becomes-valuable-when-code-gets-cheap?utm_source=Drupal Planet",
-   "date": "2026-08-24T05:15:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This week's release of Drupal AI Context Beta 4 added taxonomy-based context selection, priority controls, workflow states, and token-budget visibility. Kristen Pol, primary maintainer of Context Control Center, said the",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: listen_addresses",
-   "link": "https://postgr.es/p/9t0",
-   "date": "2026-08-24T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Listen_addresses decides which TCP sockets exist on your server—but it says nothing about who can use them.",
-   "image": null
-  },
-  {
-   "title": "Regina Obe: PostGIS 3.7.0rc1",
-   "link": "https://postgr.es/p/9t2",
-   "date": "2026-08-24T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0rc1! Best Served with PostgreSQL 19 Beta 3 , GEOS 3.15.0rc1 , postgis_tiger_geocoder 2025.2 , and address_standardizer. This version requires PostgreSQL 14 - 19rc1, GEO",
-   "image": null
-  },
-  {
-   "title": "DDEV Blog: Umbraco on DDEV: .NET, SQL Server, and the generic project type",
-   "link": "https://ddev.com/blog/umbraco-on-ddev",
-   "date": "2026-08-24T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "DDEV's generic project type will run anything that brings its own web server, and people already use it for Node and other stacks. Umbraco is a less-travelled case: .NET, Kestrel, and SQL Server. I wanted to know how muc",
-   "image": "https://ddev.com/img/blog/2026/08/umbraco-on-ddev.png"
-  },
-  {
    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
    "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
    "date": "2026-08-23T20:24:52.000Z",
@@ -420,6 +480,16 @@
    "source": "Simon Willison",
    "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable land",
    "image": null
+  },
+  {
+   "title": "Symfony Language Tools: A Busy First Week",
+   "link": "https://symfony.com/blog/symfony-language-tools-a-busy-first-week?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-23T11:04:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "On August 17, we announced Symfony Language Tools, the official Symfony language server. Six days and ten releases later, version 0.16 is out. We have added a lot of features: the server now understands applications that",
+   "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/blog/0.16/twig-callables.gif"
   },
   {
    "title": "A Week of Symfony #1025 (August 17–23, 2026)",
@@ -560,16 +630,6 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Fabien Potencier in #4871…",
    "image": "https://github.com/fabpot.png"
-  },
-  {
-   "title": "Debounced Queued Event Listeners in Laravel",
-   "link": "https://laravel-news.com/laravel-debounced-queued-listeners?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-21T02:56:03.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel's DebounceFor attribute now works on queued event listeners, collapsing bursts of the same event into one handler run with debounceId and maxWait. The post Debounced Queued Event Listeners in Laravel appeared fir",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/debounced-queue-featured.png"
   },
   {
    "title": "\"A\" for \"Apathy\"",
@@ -782,16 +842,6 @@
    "image": null
   },
   {
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "date": "2026-08-17T19:46:21.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Percona University Comes to Uruguay",
    "link": "https://www.percona.com/blog/percona-university-comes-to-uruguay/",
    "date": "2026-08-17T16:34:42.000Z",
@@ -822,16 +872,6 @@
    "image": null
   },
   {
-   "title": "Announcing Symfony Language Tools, the Official Symfony LSP Server",
-   "link": "https://symfony.com/blog/announcing-symfony-language-tools-the-official-symfony-lsp-server?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-17T12:05:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "A Symfony application is full of strings that mean something: route names, service ids, template paths, translation keys, environment variables. But to most editors, they mean nothing. Write redirectToRoute('order_confir",
-   "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/guide/tour.gif"
-  },
-  {
    "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
    "link": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
    "date": "2026-08-15T13:28:53.000Z",
@@ -849,16 +889,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
-   "image": null
-  },
-  {
-   "title": "State of Open Models: Summer 2026 Observations",
-   "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-   "date": "2026-08-14T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -932,16 +962,6 @@
    "image": null
   },
   {
-   "title": "Animating CSS border-image",
-   "link": "https://css-tricks.com/animating-css-border-image/",
-   "date": "2026-08-10T15:58:47.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects. Animating CSS border-image originally handwritte",
-   "image": null
-  },
-  {
    "title": "The open way of Percona Search for MongoDB",
    "link": "https://www.percona.com/blog/the-open-way-of-percona-search-for-mongodb/",
    "date": "2026-08-07T14:55:06.000Z",
@@ -970,16 +990,6 @@
    "source": "PortSwigger Research",
    "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
-   "title": "The diagnostic data MongoDB Atlas doesn’t hand you",
-   "link": "https://www.percona.com/blog/the-diagnostic-data-mongodb-atlas-doesnt-hand-you/",
-   "date": "2026-08-06T14:46:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "The diagnostic data MongoDB Atlas doesn’t hand you Every MongoDB server keeps a flight recorder. It’s called FTDC, Full Time Diagnostic Data Capture, and it writes about 5,700 metrics every second into a folder called di",
-   "image": null
   },
   {
    "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
