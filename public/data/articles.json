@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-08-24T23:32:12.566Z",
+ "generatedAt": "2026-08-25T05:45:06.312Z",
  "articles": [
+  {
+   "title": "Why Your Autonomous AI Agents Need a Deterministic Execution Floor",
+   "link": "https://dev.to/damilola_phillips_05/why-your-autonomous-ai-agents-need-a-deterministic-execution-floor-25dn",
+   "date": "2026-08-25T05:39:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Vibe-based prompt engineering and model self-regulation are production liabilities. If an autonomous agent can run a shell, write files, or hit a live database, it needs a deterministic execution floor — not a nicer syst",
+   "image": null
+  },
+  {
+   "title": "Dev.to vs Hashnode vs Medium: Which Developer Blogging Platform Makes Sense in 2026?",
+   "link": "https://dev.to/sanjay_singh_1/devto-vs-hashnode-vs-medium-which-developer-blogging-platform-makes-sense-in-2026-424a",
+   "date": "2026-08-25T05:34:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Disclosure: I'm building ZyVOP, an open developer publishing platform with native multi-platform cross-posting. This comparison evaluates dev.to, Hashnode, and Medium strictly on their technical features and documented p",
+   "image": null
+  },
+  {
+   "title": "A Free-Tier AI PR Reviewer: A GitHub Actions Workflow That Actually Works",
+   "link": "https://dev.to/byteio_3726/a-free-tier-ai-pr-reviewer-a-github-actions-workflow-that-actually-works-hgk",
+   "date": "2026-08-25T05:31:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Automated code review is one of the few AI workflows that pays for itself on the first pull request, and you can run it entirely on a free model allowance if you design the pipeline around the model's limits rather than ",
+   "image": null
+  },
+  {
+   "title": "A CAA Record Decides Who Can Issue Your Certificates. Almost Nobody Watches It.",
+   "link": "https://dev.to/merlonix/a-caa-record-decides-who-can-issue-your-certificates-almost-nobody-watches-it-237m",
+   "date": "2026-08-25T05:30:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is one DNS record that sits between your domain and every certificate authority on the internet, deciding which of them is allowed to issue a certificate for you. It is the CAA record, and the striking thing about ",
+   "image": null
+  },
+  {
+   "title": "Why CPU-Based Autoscaling Makes Traffic Spikes Worse Before It Makes Them Better",
+   "link": "https://dev.to/speed_engineer/why-cpu-based-autoscaling-makes-traffic-spikes-worse-before-it-makes-them-better-2ogb",
+   "date": "2026-08-25T05:28:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The problem A traffic spike hits. The Horizontal Pod Autoscaler (HPA) is watching average CPU utilization, target 70%. Requests per second triples in under a minute. Instead of smoothly adding capacity, the system does t",
+   "image": null
+  },
+  {
+   "title": "Token Forensics: Finding the Process That Ate Your Free Allowance",
+   "link": "https://dev.to/devrs_886/token-forensics-finding-the-process-that-ate-your-free-allowance-2i69",
+   "date": "2026-08-25T05:08:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Three in the morning is when a free tier starts lying to you. Your dashboard shows two hundred requests today, yet the token counter says forty percent of your allowance is gone, and the two numbers refuse to reconcile. ",
+   "image": null
+  },
+  {
+   "title": "Designing Sub-20ms Physical Event Access: Edge-Computed RFID vs Cloud APIs",
+   "link": "https://dev.to/stampiq/designing-sub-20ms-physical-event-access-edge-computed-rfid-vs-cloud-apis-31ee",
+   "date": "2026-08-25T05:05:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Why scaling event access to 10,000+ concurrent attendees requires replacing cloud API roundtrips with local edge nodes, SQLite caching, and UHF RFID. When architecting systems for high-concurrency physical access control",
+   "image": null
+  },
+  {
+   "title": "The Fit Score: When a Free AI Coding Server Earns Its Place in Your Repo",
+   "link": "https://dev.to/devpro_9167/the-fit-score-when-a-free-ai-coding-server-earns-its-place-in-your-repo-3kmh",
+   "date": "2026-08-25T04:46:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Picture a team that wired a free AI coding server into its review loop. Two weeks later, the sprint stalls. The quota resets on a Tuesday, mid-refactor, and every \"just ask the assistant\" habit the team built turns into ",
+   "image": null
+  },
+  {
+   "title": "Vibhor Kumar: Your PostgreSQL Platform Has Telemetry. Does It Have a Digital Twin?",
+   "link": "https://postgr.es/p/9t6",
+   "date": "2026-08-25T04:09:57.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Beyond observability: building the synchronized, simulatable model AI agents need before they touch production The digital twin you are building may depend on one you have not built yet. Most digital-twin programs begin ",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-17.png?w=1024"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_checkpoints, log_autovacuum_min_duration, and log_temp_files",
+   "link": "https://postgr.es/p/9t5",
+   "date": "2026-08-25T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "And now, we put on our waders and venture into the swamp that is all of the PostgreSQL logging GUCs. PostgreSQL 8.3 is the release in which the server started doing its own housekeeping in earnest: autovacuum on by defau",
+   "image": null
+  },
   {
    "title": "\"A\" for \"Average\"",
    "link": "https://stitcher.io/blog/a-for-average",
@@ -12,83 +112,13 @@
    "image": null
   },
   {
-   "title": "LocalStack Went Paid: What the Alternatives Get Right, and What Still Comes Down to Production",
-   "link": "https://dev.to/toddyholiday/localstack-went-paid-what-the-alternatives-get-right-and-what-still-comes-down-to-production-5bnf",
-   "date": "2026-08-24T23:27:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For the better part of a decade, LocalStack was the default answer to a persistent developer problem: how do you write and test code that calls AWS APIs without running up a cloud bill on every CI job? The answer was a l",
-   "image": null
-  },
-  {
-   "title": "A Broken-Link Check Counts 404s. The Resource That Breaks Your Padlock Returns 200.",
-   "link": "https://dev.to/merlonix/a-broken-link-check-counts-404s-the-resource-that-breaks-your-padlock-returns-200-47fb",
-   "date": "2026-08-24T23:23:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on the Merlonix blog. A broken-link checker does one well-defined thing: it walks the links on a page, fetches each target, and flags the ones that come back wrong — a 4xx, a 5xx, a timeout, a connec",
-   "image": null
-  },
-  {
-   "title": "Is My Domain Blacklisted? Why a Public DNSBL Check Can Show a False Positive",
-   "link": "https://dev.to/merlonix/is-my-domain-blacklisted-why-a-public-dnsbl-check-can-show-a-false-positive-dk6",
-   "date": "2026-08-24T23:23:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on the Merlonix blog. A DNS blocklist (DNSBL, sometimes RBL) is a published list of IP addresses a provider has flagged as a source of spam. Mail servers consult these lists in real time: if the IP t",
-   "image": null
-  },
-  {
-   "title": "How to Resolve SSL/TLS Certificate Handshake Failures – Troubleshooting Guide for Developers",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-troubleshooting-guide-for-developers-1beo",
-   "date": "2026-08-24T22:59:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to Resolve SSL/TLS Certificate Handshake Failures – Troubleshooting Guide for Developers Overview SSL/TLS handshake failures are a common source of downtime for web services. This article walks you through the most f",
-   "image": null
-  },
-  {
-   "title": "Stop Putting Secrets in Plaintext",
-   "link": "https://dev.to/alizaminj/stop-putting-secrets-in-plaintext-4khd",
-   "date": "2026-08-24T22:45:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most local dev setups end up with some secret — an API key, a cloud credential, a database password — sitting in a plaintext file on disk indefinitely. Here's a simple pattern that avoids that, using AWS credentials as t",
-   "image": null
-  },
-  {
-   "title": "From Zero to Hero: Kubernetes for Beginners – A Journey Like 'The Matrix'",
-   "link": "https://dev.to/timevolt/from-zero-to-hero-kubernetes-for-beginners-a-journey-like-the-matrix-c1h",
-   "date": "2026-08-24T22:26:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Honestly, I still remember the first time I tried to run a micro‑service locally with docker run. I had three containers – an API, a worker, and a tiny Redis cache – each with its own port ma",
-   "image": null
-  },
-  {
-   "title": ".NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets",
-   "link": "https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd",
-   "date": "2026-08-24T22:23:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": ".NET 10 NU1510 package pruning can turn an SDK upgrade into a failed restore when a repository promotes warnings to errors. The tempting fix is to delete the named PackageReference everywhere. That is safe for a net10.0-",
-   "image": null
-  },
-  {
-   "title": "Every Metric Needs A Set Point, Or It Is Just A Number",
-   "link": "https://dev.to/paulcrinigan/every-metric-needs-a-set-point-or-it-is-just-a-number-3gel",
-   "date": "2026-08-24T22:18:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Human physiology has been running production monitoring for a few hundred million years, and it does one thing that most engineering dashboards do not: every single regulated variable comes with a declared band, and ever",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "link": "https://huggingface.co/blog/gradio-workflow-guide",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -459,26 +489,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 6.4.44 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: local_preload_libraries",
-   "link": "https://postgr.es/p/9sY",
-   "date": "2026-08-22T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Load shared libraries per-session from a single curated directory, no superuser needed.",
-   "image": null
-  },
-  {
-   "title": "Shaun Thomas: The Time Traveler's Primary Key",
-   "link": "https://postgr.es/p/9sX",
-   "date": "2026-08-21T19:03:49.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Every table needs a way to tell its rows apart, and auto-incrementing surrogate keys have been the go-to solution since practically the dawn of time. They're simple. They're fast. And perhaps most importantly, they're co",
    "image": null
   },
   {
@@ -869,16 +879,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A behind-the-scenes look at Denis Avramenko’s creative process, exploring his approach to motion, typography, interaction, and technology through a selection of digital projects.",
-   "image": null
-  },
-  {
-   "title": "What We Learned by Reproducing 2,200 papers from ICML",
-   "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-   "date": "2026-08-13T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
