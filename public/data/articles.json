@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-08-25T17:42:34.880Z",
+ "generatedAt": "2026-08-25T23:34:49.419Z",
  "articles": [
   {
-   "title": "Four Ways to Deploy a Bun Server",
-   "link": "https://dev.to/keonik/four-ways-to-deploy-a-bun-server-571d",
-   "date": "2026-08-25T17:38:20.000Z",
+   "title": "Your AI Reviewer Is Drifting. Here's a 12-Prompt Regression Battery.",
+   "link": "https://dev.to/gitlab_3188/your-ai-reviewer-is-drifting-heres-a-12-prompt-regression-battery-n19",
+   "date": "2026-08-25T23:32:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most Bun Dockerfiles start with FROM oven/bun:1 and never move again. That tag is an alias for oven/bun:1-debian — the full Debian image, not slim — and it floats, which bit me later. There are three other ways to ship t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv9qylqkj8g6skynshwjb.gif"
-  },
-  {
-   "title": "How to Find Which Proxy Returned a 502 or 504 — A Reproducible NGINX Debugging Lab",
-   "link": "https://dev.to/praneethhere/how-to-find-which-proxy-returned-a-502-or-504-a-reproducible-nginx-debugging-lab-bhc",
-   "date": "2026-08-25T17:25:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A 502 Bad Gateway or 504 Gateway Timeout tells you that something failed around a gateway boundary. It does not necessarily tell you which gateway failed. That distinction matters when a request crosses multiple layers: ",
+   "summary": "Liquid syntax error: Unknown tag 'endraw'",
    "image": null
   },
   {
-   "title": "Kubernetes: valida alertas tras rotar secretos",
-   "link": "https://dev.to/alexcarteruk/kubernetes-valida-alertas-tras-rotar-secretos-1ko5",
-   "date": "2026-08-25T17:24:57.000Z",
+   "title": "Diagnose Proxy Failures with a Four-Route Control Matrix",
+   "link": "https://dev.to/98ip/diagnose-proxy-failures-with-a-four-route-control-matrix-3jb",
+   "date": "2026-08-25T23:17:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Rotar secretos de SMTP en Kubernetes suele parecer una tarea menor hasta que el primer correo de alerta no sale, sale duplicado o llega con enlaces viejos. El cambio tecnico ya ocurrio, pero la parte operativa sigue abie",
+   "summary": "When an automation job fails, the visible symptom rarely identifies the failing layer. A timeout may come from the proxy, the target, the client, or an overloaded worker. A 403 or 429 may follow an IP, account, cookie, r",
    "image": null
   },
   {
-   "title": "Top 45 Sites To Buy Edu Emails Accounts in 2026",
-   "link": "https://dev.to/jessebol/top-45-sites-to-buy-edu-emails-accounts-in-2026-39ij",
-   "date": "2026-08-25T17:22:20.000Z",
+   "title": "Most Kubernetes clusters can't tell you what their GPUs cost",
+   "link": "https://dev.to/dgotlieb/most-kubernetes-clusters-cant-tell-you-what-their-gpus-cost-1ghl",
+   "date": "2026-08-25T23:05:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Edu Emails getsmmzone@gmail.com $12.00 Original price was: $12.00.$8.00Current price is: $8.00. Buy Edu Emails Buy Edu Emails Details & Features Edu Gmail Accounts: ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial getsmmzone@",
+   "summary": "I built a small tool to answer one question: how many GPU-hours is a cluster paying for and not using? Then I pointed it at real production clusters. Not one of them could answer the question out of the box and the reaso",
    "image": null
   },
   {
-   "title": "Top 36 Exclusive Website To Buy Edu Emails With USA",
-   "link": "https://dev.to/jessebol/top-36-exclusive-website-to-buy-edu-emails-with-usa-4ml4",
-   "date": "2026-08-25T17:21:52.000Z",
+   "title": "Tab is whitespace, so your TSV parser is not one",
+   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/tab-is-whitespace-so-your-tsv-parser-is-not-one-3bj8",
+   "date": "2026-08-25T23:03:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Edu Emails getsmmzone@gmail.com $12.00 Original price was: $12.00.$8.00Current price is: $8.00. Buy Edu Emails Buy Edu Emails Details & Features Edu Gmail Accounts: ◈{{⚜️⚜️}}◈➤Telegram:@Getsmmzoneofficial getsmmzone@",
+   "summary": "TSV is the format shell speaks. jq -r @tsv, git for-each-ref --format, ps --format, awk -F'\\t' — when a shell script needs columns, it gets tabs. And the IFS=$'\\t' read -r a b c That line does not read TSV. It reads some",
    "image": null
   },
   {
-   "title": "Your AI coding tool broke after an auto-update? On Windows, check the self-lock first",
-   "link": "https://dev.to/milkyway008/your-ai-coding-tool-broke-after-an-auto-update-on-windows-check-the-self-lock-first-pgi",
-   "date": "2026-08-25T17:11:57.000Z",
+   "title": "How to Resolve SSL/TLS Certificate Handshake Failures – Debugging TLS Errors for DevOps",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-debugging-tls-errors-for-devops-2d10",
+   "date": "2026-08-25T23:01:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I've been collecting these reports for a while now, and there's a pattern. Your AI coding assistant says \"Update complete!\", you click it, and then... the tool won't start. Or it crashes. Or every launch says \"the next l",
+   "summary": "How to Resolve SSL/TLS Certificate Handshake Failures Audience: Software developers, engineers, and DevOps professionals. Handshake failures happen when the client and server cannot agree on a mutually trusted certificat",
    "image": null
   },
   {
-   "title": "That Time Client Retries Turned a Recovery Into a 7-Hour Outage",
-   "link": "https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2",
-   "date": "2026-08-25T17:06:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "GitHub had an interesting incident last August. A component in Central US failed under load, and when it started recovering, the recovery took much longer than it should have. The culprit: clients hammering the recoverin",
+   "title": "EVE Online: The Move to Python 3 Begins!",
+   "link": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+   "date": "2026-08-25T22:59:30.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and",
    "image": null
   },
   {
-   "title": "Opinion: Your AI Reviewer Is the Only Pipeline Stage Nobody Tests",
-   "link": "https://dev.to/github_7727/opinion-your-ai-reviewer-is-the-only-pipeline-stage-nobody-tests-49ip",
-   "date": "2026-08-25T17:01:48.000Z",
+   "title": "MTTR Optimization: The 7 Levers That Actually Move the Needle",
+   "link": "https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-144b",
+   "date": "2026-08-25T22:15:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every stage of your delivery pipeline has tests except the stage that judges the code itself. Your AI reviewer is the only component whose output is trusted without assertions, which makes it the largest unverified surfa",
+   "summary": "MTTR Is a Lagging Indicator Everyone tracks Mean Time to Resolve. Few understand what actually drives it. MTTR isn't one metric — it's four: MTTR = MTTD + MTTA + MTTI + MTTF MTTD: Mean Time to Detect (monitoring fired) M",
    "image": null
+  },
+  {
+   "title": "AWS S3: Storage Strategy and Best Practices (2026-08-25 22:14)",
+   "link": "https://dev.to/said_olano/aws-s3-storage-strategy-and-best-practices-2026-08-25-2214-4he7",
+   "date": "2026-08-25T22:14:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AWS S3: Storage Strategy and Best Practices Amazon Simple Storage Service (S3) is one of the foundational services in the AWS ecosystem. While it's easy to get started—create a bucket, upload an object—building a cost-ef",
+   "image": null
+  },
+  {
+   "title": "GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them",
+   "link": "https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p",
+   "date": "2026-08-25T21:48:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "GitHub Copilot premium requests are the metered unit that determined how much advanced Copilot usage your plan covered, and if you are searching for how they work in mid-2026, you need two answers, not one. First, the me",
+   "image": null
+  },
+  {
+   "title": "Replication Lag on AWS FSx: The Hidden EC2 Single-Flow Bandwidth Limit",
+   "link": "https://www.percona.com/blog/replication-lag-on-aws-fsx-the-hidden-ec2-single-flow-bandwidth-limit/",
+   "date": "2026-08-25T21:00:16.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "A recent case in our Percona Support team started with a familiar complaint. A PostgreSQL standby lagging behind its primary. Although the problem was simple, it brought a specific flavor that’s worth sharing. The custom",
+   "image": null
+  },
+  {
+   "title": "Hubert 'depesz' Lubaczewski: New things for regular expressions in PostgreSQL (pg_tre and pg_re2)",
+   "link": "https://postgr.es/p/9tb",
+   "date": "2026-08-25T18:41:53.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Well, truth be told these are not all that new (couple of months), but I finally have gotten around to research it. So, let's see what's what. For starters I need some test data. Luckily, I have explain.depesz.com DB… Ex",
+   "image": null
+  },
+  {
+   "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+   "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+   "date": "2026-08-25T18:17:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
   },
   {
    "title": "Software Bill of Materials in Percona Server for MongoDB",
@@ -110,16 +150,6 @@
    "source": "PortSwigger Research",
    "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
-  },
-  {
-   "title": "MicroLighter: Syntax Highlighter",
-   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-   "date": "2026-08-25T14:10:34.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
-   "image": null
   },
   {
    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
@@ -242,16 +272,6 @@
    "image": null
   },
   {
-   "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-   "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-   "date": "2026-08-25T08:34:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg"
-  },
-  {
    "title": "Cornelia Biacsics: Contributions for week 33",
    "link": "https://postgr.es/p/9t7",
    "date": "2026-08-25T05:55:55.000Z",
@@ -362,16 +382,6 @@
    "image": "https://www.highgo.ca/wp-content/uploads/2026/08/banner-1024x448.webp"
   },
   {
-   "title": "Christophe Pettus: The Sixth Execution",
-   "link": "https://postgr.es/p/9t3",
-   "date": "2026-08-24T20:14:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Prepared statements switch from custom plans to generic plans on the sixth execution, and that switch can make your queries mysteriously slow.",
-   "image": null
-  },
-  {
    "title": "The Drop Times: Eight DAM Decisions for Drupal Teams",
    "link": "https://www.thedroptimes.com/71676/drupal-dam-architecture-decisions?utm_source=Drupal Planet",
    "date": "2026-08-24T16:33:40.000Z",
@@ -420,16 +430,6 @@
    "source": "Drupal Planet",
    "summary": "The closest thing I have to an answer Imagen Connecting systems isn't hard anymore, so what matters is what you put in the middle. I think that separates into knowledge, decisions, and the terrain those decisions run on,",
    "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/replaced-stone-a.jpg.webp?itok=yucPiBrZ"
-  },
-  {
-   "title": "WordPress PHP-Only Block Registration",
-   "link": "https://css-tricks.com/wordpress-php-block-registration/",
-   "date": "2026-08-24T13:54:02.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
-   "image": null
   },
   {
    "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
@@ -602,26 +602,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/deftform_laravel-news.png"
   },
   {
-   "title": "llm 0.32.1",
-   "link": "https://simonwillison.net/2026/Aug/21/llm/",
-   "date": "2026-08-21T17:16:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive",
-   "image": null
-  },
-  {
-   "title": "Resolved: CSS Class Prefix Selector",
-   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-   "date": "2026-08-21T15:13:03.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
-   "image": null
-  },
-  {
    "title": "New in Twig 3.29: Documentation Comments",
    "link": "https://symfony.com/blog/new-in-twig-3-29-documentation-comments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-21T13:34:00.000Z",
@@ -722,16 +702,6 @@
    "image": null
   },
   {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
-   "image": null
-  },
-  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -769,16 +739,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
-   "image": null
-  },
-  {
-   "title": "WordPress.com Student Plan",
-   "link": "https://css-tricks.com/wordpress-student-plan/",
-   "date": "2026-08-19T08:50:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -852,16 +812,6 @@
    "image": null
   },
   {
-   "title": "Dark mode toggles: two states are enough",
-   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-   "date": "2026-08-17T14:15:50.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
-   "image": null
-  },
-  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -882,16 +832,6 @@
    "image": null
   },
   {
-   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-   "link": "https://css-tricks.com/whats-important-17/",
-   "date": "2026-08-14T14:01:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
-   "image": null
-  },
-  {
    "title": "Replicating from InnoDB into a DuckDB storage engine",
    "link": "https://www.percona.com/blog/replicating-from-innodb-into-a-duckdb-storage-engine/",
    "date": "2026-08-13T17:23:27.000Z",
@@ -909,16 +849,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
-   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-   "date": "2026-08-12T13:43:56.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
    "image": null
   },
   {
@@ -970,16 +900,6 @@
    "source": "Percona Blog",
    "summary": "Percona Search for MongoDB is Percona’s downstream distribution of mongot, the search engine that provides MongoDB’s full-text and vector search capabilities. With this addition, you can power your applications with AI a",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongot-deployment.png"
-  },
-  {
-   "title": "The DuckDB MySQL engine at 500 GB",
-   "link": "https://www.percona.com/blog/the-duckdb-mysql-engine-at-500-gb/",
-   "date": "2026-08-07T12:09:29.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "We ran DuckDB MySQL storage engine at scale factor 500. It is around 500 GB of raw TPC-H, three billion lineitem rows on an 80-core server with 187 GB of RAM. Three engines on the same box: InnoDB, our MySQL+DuckDB engin",
-   "image": "https://www.percona.com/wp-content/uploads/2026/08/chart-storage_fix.png"
   },
   {
    "title": "CSS:the bomb inside your inbox",
