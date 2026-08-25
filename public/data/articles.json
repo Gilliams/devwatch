@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-08-25T05:45:06.312Z",
+ "generatedAt": "2026-08-25T11:39:11.465Z",
  "articles": [
   {
-   "title": "Why Your Autonomous AI Agents Need a Deterministic Execution Floor",
-   "link": "https://dev.to/damilola_phillips_05/why-your-autonomous-ai-agents-need-a-deterministic-execution-floor-25dn",
-   "date": "2026-08-25T05:39:04.000Z",
+   "title": "Join the SAP AI Online Training New Batch on August 26th",
+   "link": "https://dev.to/kalyan_visualpath_42cb693/join-the-sap-ai-online-training-new-batch-on-august-26th-3h98",
+   "date": "2026-08-25T11:30:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Vibe-based prompt engineering and model self-regulation are production liabilities. If an autonomous agent can run a shell, write files, or hit a live database, it needs a deterministic execution floor — not a nicer syst",
+   "summary": "🎓 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄 𝗳𝗼𝗿 𝗦𝗔𝗣 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴! 🚀 Take your SAP and AI skills to the next level with Visualpath’s SAP Artificial Intelligence Training. 📅 𝗡𝗲𝘄 𝗕𝗮",
    "image": null
   },
   {
-   "title": "Dev.to vs Hashnode vs Medium: Which Developer Blogging Platform Makes Sense in 2026?",
-   "link": "https://dev.to/sanjay_singh_1/devto-vs-hashnode-vs-medium-which-developer-blogging-platform-makes-sense-in-2026-424a",
-   "date": "2026-08-25T05:34:14.000Z",
+   "title": "Google Cloud Professional Cloud DevOps Engineer: Skills, Tools, CI/CD, Kubernetes and Career Roadmap",
+   "link": "https://dev.to/zainab_1201/google-cloud-professional-cloud-devops-engineer-skills-tools-cicd-kubernetes-and-career-roadmap-16d4",
+   "date": "2026-08-25T11:22:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Disclosure: I'm building ZyVOP, an open developer publishing platform with native multi-platform cross-posting. This comparison evaluates dev.to, Hashnode, and Medium strictly on their technical features and documented p",
+   "summary": "Modern software engineering teams face a constant challenge: how to ship features rapidly without sacrificing system stability, security, or infrastructure reliability. When an application moves from a local development ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Faigiac3nq4emfgaeuwcd.png"
+  },
+  {
+   "title": "How to Deploy AWS EKS With Open-Source Terraform Modules",
+   "link": "https://dev.to/mattia_vercelli/how-to-deploy-aws-eks-with-open-source-terraform-modules-2gdj",
+   "date": "2026-08-25T11:16:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Deploying Amazon EKS by hand means composing AWS, IAM, Kubernetes, Helm, networking, and autoscaling resources yourself. This guide takes a more practical route: start from two runnable examples in the Das Meta open-sour",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsozwlr1cytgdor897q47.png"
+  },
+  {
+   "title": "How to Fix Docker Container CrashLoopBackOff – Step‑by‑Step Guide for DevOps",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-docker-container-crashloopbackoff-step-by-step-guide-for-devops-52p7",
+   "date": "2026-08-25T11:04:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction If you’ve ever seen a pod stuck in CrashLoopBackOff, you know the frustration. This guide walks you through the most common causes, how to diagnose them, and concrete fixes you can apply today. Inspect pod e",
    "image": null
   },
   {
-   "title": "A Free-Tier AI PR Reviewer: A GitHub Actions Workflow That Actually Works",
-   "link": "https://dev.to/byteio_3726/a-free-tier-ai-pr-reviewer-a-github-actions-workflow-that-actually-works-hgk",
-   "date": "2026-08-25T05:31:15.000Z",
+   "title": "How I Automated cPanel Hosting Management Using APIs",
+   "link": "https://dev.to/nitinmehta/how-i-automated-cpanel-hosting-management-using-apis-1pnj",
+   "date": "2026-08-25T10:58:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Automated code review is one of the few AI workflows that pays for itself on the first pull request, and you can run it entirely on a free model allowance if you design the pipeline around the model's limits rather than ",
+   "summary": "How I Automated cPanel Hosting Management Using APIs Managing hosting accounts manually works when you have a few customers. Once you start managing dozens or hundreds of hosting accounts, it becomes a completely differe",
    "image": null
   },
   {
-   "title": "A CAA Record Decides Who Can Issue Your Certificates. Almost Nobody Watches It.",
-   "link": "https://dev.to/merlonix/a-caa-record-decides-who-can-issue-your-certificates-almost-nobody-watches-it-237m",
-   "date": "2026-08-25T05:30:38.000Z",
+   "title": "How to Reduce Nginx 502 and 504 Gateway Errors",
+   "link": "https://dev.to/opservo/how-to-reduce-nginx-502-and-504-gateway-errors-3m6i",
+   "date": "2026-08-25T10:50:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is one DNS record that sits between your domain and every certificate authority on the internet, deciding which of them is allowed to issue a certificate for you. It is the CAA record, and the striking thing about ",
+   "summary": "Practical steps to diagnose and fix nginx 502 and 504 errors — from upstream timeouts to worker limits — before they wake you up at 3am. A wave of 502 and 504 errors is one of the most frustrating things to debug under p",
    "image": null
   },
   {
-   "title": "Why CPU-Based Autoscaling Makes Traffic Spikes Worse Before It Makes Them Better",
-   "link": "https://dev.to/speed_engineer/why-cpu-based-autoscaling-makes-traffic-spikes-worse-before-it-makes-them-better-2ogb",
-   "date": "2026-08-25T05:28:11.000Z",
+   "title": "Best Corporate Training with Expert Trainer Support",
+   "link": "https://dev.to/kalyan_visualpath_42cb693/best-corporate-training-with-expert-trainer-support-k0a",
+   "date": "2026-08-25T10:39:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The problem A traffic spike hits. The Horizontal Pod Autoscaler (HPA) is watching average CPU utilization, target 70%. Requests per second triples in under a minute. Instead of smoothly adding capacity, the system does t",
+   "summary": "Corporate Training Roadmap for Digital Transformation What Is a Digital Transformation Training Roadmap? Why Businesses Need a Training Roadmap Step-by-Step Corporate Training Roadmap Tools and Technologies Used Benefits",
    "image": null
   },
   {
-   "title": "Token Forensics: Finding the Process That Ate Your Free Allowance",
-   "link": "https://dev.to/devrs_886/token-forensics-finding-the-process-that-ate-your-free-allowance-2i69",
-   "date": "2026-08-25T05:08:22.000Z",
+   "title": "Dockerfile Best Practices: Security",
+   "link": "https://dev.to/fj_palacios/dockerfile-best-practices-security-2p5g",
+   "date": "2026-08-25T10:35:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Three in the morning is when a free tier starts lying to you. Your dashboard shows two hundred requests today, yet the token counter says forty percent of your allowance is gone, and the two numbers refuse to reconcile. ",
+   "summary": "Run this against your current containers: docker inspect $(docker ps -q) --format '{{ .Name }}: {{ .Config.User }}' Most of them will return a blank after the colon. Blank means root. You're running production workloads ",
    "image": null
   },
   {
-   "title": "Designing Sub-20ms Physical Event Access: Edge-Computed RFID vs Cloud APIs",
-   "link": "https://dev.to/stampiq/designing-sub-20ms-physical-event-access-edge-computed-rfid-vs-cloud-apis-31ee",
-   "date": "2026-08-25T05:05:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why scaling event access to 10,000+ concurrent attendees requires replacing cloud API roundtrips with local edge nodes, SQLite caching, and UHF RFID. When architecting systems for high-concurrency physical access control",
+   "title": "Building a Mouse-Following Square Lens Effect with Three.js and GLSL",
+   "link": "https://tympanus.net/codrops/2026/08/25/building-a-mouse-following-square-lens-effect-with-three-js-and-glsl/",
+   "date": "2026-08-25T10:15:14.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A step-by-step tutorial on using Three.js and GLSL to create a mouse-following square lens effect with image distortion, RGB shifting, and animated shader effects.",
    "image": null
   },
   {
-   "title": "The Fit Score: When a Free AI Coding Server Earns Its Place in Your Repo",
-   "link": "https://dev.to/devpro_9167/the-fit-score-when-a-free-ai-coding-server-earns-its-place-in-your-repo-3kmh",
-   "date": "2026-08-25T04:46:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Picture a team that wired a free AI coding server into its review loop. Two weeks later, the sprint stalls. The quota resets on a Tuesday, mid-refactor, and every \"just ask the assistant\" habit the team built turns into ",
+   "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+   "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+   "date": "2026-08-25T08:34:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg"
+  },
+  {
+   "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+   "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+   "date": "2026-08-25T06:12:35.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg"
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 33",
+   "link": "https://postgr.es/p/9t7",
+   "date": "2026-08-25T05:55:55.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 19 August 2026, the Postgres Meetup for All - Group met online, organized by Elizabeth Christensen. James Nelson and Philip Johnston delivered a talk Hyderabad PGDays 2026 took place from 20-21 August 2026 Organizers:",
    "image": null
   },
   {
@@ -90,6 +130,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Beyond observability: building the synchronized, simulatable model AI agents need before they touch production The digital twin you are building may depend on one you have not built yet. Most digital-twin programs begin ",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-17.png?w=1024"
+  },
+  {
+   "title": "Peoples Blog: If AI Can Build an Application, Why Do We Still Need Software Developers?",
+   "link": "https://peoplesblog.co.in/articles/if-ai-can-build-application-why-do-we-still-need-software-developers/",
+   "date": "2026-08-25T04:09:45.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "If AI can build an application from a simple description, why do we still need software developers?It is a question I have been thinking about recently. AI can now generate code, create interfaces, work with databases, c",
+   "image": null
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_checkpoints, log_autovacuum_min_duration, and log_temp_files",
@@ -119,6 +169,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Alexey Evlampiev: Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT",
+   "link": "https://postgr.es/p/9t8",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT# Express the branching scenarios of your business logic as a directory tree; walk it with savepoints so each branch inherits its h",
    "image": null
   },
   {
@@ -282,16 +342,6 @@
    "image": null
   },
   {
-   "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-   "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-   "date": "2026-08-24T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg"
-  },
-  {
    "title": "Drupal AI Initiative: From Headless CMS to AI Harness: What I Took to Decoupled Days",
    "link": "https://www.drupal.org/about/ai/initiatives/blog/from-headless-cms-to-ai-harness-what-i-took-to-decoupled-days",
    "date": "2026-08-24T09:50:38.000Z",
@@ -300,16 +350,6 @@
    "source": "Drupal Planet",
    "summary": "Article by: Martin Anderson-Clutz. Originally posted on the Acquia blog. Drupal turns decoupled architecture into a governed AI harness, combining live visual editing with agent-ready content schemas. Back in March, at E",
    "image": null
-  },
-  {
-   "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-   "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-   "date": "2026-08-24T08:08:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg"
   },
   {
    "title": "The Drop Times: Drupal Security Team Marks 16 Contributed Projects Unsupported in Ten Weeks",
@@ -389,36 +429,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony 6.4.44, Symfony 7.4.17 and Symfony 8.1.5 maintenance versions were released. In addition, we introduced Symfony Language Tools, the official Symfony LSP server. Finally, we started experimenting with i",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: lo_compat_privileges",
-   "link": "https://postgr.es/p/9sZ",
-   "date": "2026-08-23T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "lo_compat_privileges sets large-object security back to PostgreSQL 8.4, the last release in which a large object belonged to nobody in particular and any role that could connect to the database could read it, overwrite i",
-   "image": null
-  },
-  {
-   "title": "Gspikes: State of Drupal 7 in 2026: How Many Sites Are Still Running It?",
-   "link": "https://gspikes.com/drupal-7-statistics/",
-   "date": "2026-08-23T00:55:12.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Nineteen months after Drupal 7's final end of life, 29.7% of all Drupal websites still run it — and half the Drupal web runs a version with no security support. The numbers, the methodology, and the four ways out. Update",
-   "image": null
-  },
-  {
-   "title": "Regina Obe: PostGIS Tiger Geocoder 2025.2",
-   "link": "https://postgr.es/p/9s-",
-   "date": "2026-08-23T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS development team is pleased to provide postgis_tiger_geocoder extension. This is the very second release since the break from the PostGIS core. This version requires PostgreSQL 16 and above and should work wi",
    "image": null
   },
   {
@@ -569,6 +579,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/a-for-apathy",
+   "image": null
+  },
+  {
+   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+   "link": "https://huggingface.co/blog/pwc-search",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -852,16 +872,6 @@
    "image": null
   },
   {
-   "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-   "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-   "date": "2026-08-13T17:16:04.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Beta 1 is available for testing",
    "link": "https://www.php.net/index.php#2026-08-13-1",
    "date": "2026-08-13T14:33:26.000Z",
@@ -869,16 +879,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
-   "title": "From Motion to Meaning: Denis Avramenko’s Approach to Interactive Design",
-   "link": "https://tympanus.net/codrops/2026/08/13/from-motion-to-meaning-denis-avramenkos-approach-to-interactive-design/",
-   "date": "2026-08-13T12:46:05.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A behind-the-scenes look at Denis Avramenko’s creative process, exploring his approach to motion, typography, interaction, and technology through a selection of digital projects.",
    "image": null
   },
   {
