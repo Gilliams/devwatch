@@ -1,54 +1,94 @@
 {
- "generatedAt": "2026-08-25T23:34:49.419Z",
+ "generatedAt": "2026-08-26T05:47:29.552Z",
  "articles": [
   {
-   "title": "Your AI Reviewer Is Drifting. Here's a 12-Prompt Regression Battery.",
-   "link": "https://dev.to/gitlab_3188/your-ai-reviewer-is-drifting-heres-a-12-prompt-regression-battery-n19",
-   "date": "2026-08-25T23:32:10.000Z",
+   "title": "Designing the LeeX Location Data Model: Turning Real-World Places Into Structured Data",
+   "link": "https://dev.to/lee_x/designing-the-leex-location-data-model-turning-real-world-places-into-structured-data-1im8",
+   "date": "2026-08-26T05:46:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Liquid syntax error: Unknown tag 'endraw'",
+   "summary": "A city may look simple when viewed from the street. There is a business, a road, an event venue, a public facility, a neighbourhood, and thousands of other places that people interact with every day. But the moment we tr",
    "image": null
   },
   {
-   "title": "Diagnose Proxy Failures with a Four-Route Control Matrix",
-   "link": "https://dev.to/98ip/diagnose-proxy-failures-with-a-four-route-control-matrix-3jb",
-   "date": "2026-08-25T23:17:50.000Z",
+   "title": "Karpenter for Kubernetes: Dynamic Node Provisioning for Scalable Cloud Workloads",
+   "link": "https://dev.to/munirfarhan/karpenter-for-kubernetes-dynamic-node-provisioning-for-scalable-cloud-workloads-15kn",
+   "date": "2026-08-26T05:41:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When an automation job fails, the visible symptom rarely identifies the failing layer. A timeout may come from the proxy, the target, the client, or an overloaded worker. A 403 or 429 may follow an IP, account, cookie, r",
+   "summary": "Karpenter provides a more workload-driven approach to Kubernetes node provisioning by launching compute capacity according to the requirements of pending pods. In this FAMRO guide, we look at how Karpenter works with AWS",
    "image": null
   },
   {
-   "title": "Most Kubernetes clusters can't tell you what their GPUs cost",
-   "link": "https://dev.to/dgotlieb/most-kubernetes-clusters-cant-tell-you-what-their-gpus-cost-1ghl",
-   "date": "2026-08-25T23:05:21.000Z",
+   "title": "Using Terraform to Manage On-Premise Infrastructure",
+   "link": "https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o",
+   "date": "2026-08-26T05:34:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I built a small tool to answer one question: how many GPU-hours is a cluster paying for and not using? Then I pointed it at real production clusters. Not one of them could answer the question out of the box and the reaso",
+   "summary": "Most Terraform configs that target AWS are more portable than their authors expect. The resource definitions, modules, variable files, and state are all completely decoupled from which endpoint the provider talks to. Whe",
    "image": null
   },
   {
-   "title": "Tab is whitespace, so your TSV parser is not one",
-   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/tab-is-whitespace-so-your-tsv-parser-is-not-one-3bj8",
-   "date": "2026-08-25T23:03:27.000Z",
+   "title": "Kubernetes: depura 401 intermitentes con contexto",
+   "link": "https://dev.to/alexcarteruk/kubernetes-depura-401-intermitentes-con-contexto-1c4k",
+   "date": "2026-08-26T05:25:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TSV is the format shell speaks. jq -r @tsv, git for-each-ref --format, ps --format, awk -F'\\t' — when a shell script needs columns, it gets tabs. And the IFS=$'\\t' read -r a b c That line does not read TSV. It reads some",
+   "summary": "Los 401 intermitentes en Kubernetes son de esas alertas que desgastan mas de lo que parecen. Un pod responde bien durante media hora, luego falla dos minutos, despues vuelve a la vida, y la tentacion es reiniciar primero",
    "image": null
   },
   {
-   "title": "How to Resolve SSL/TLS Certificate Handshake Failures – Debugging TLS Errors for DevOps",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-ssltls-certificate-handshake-failures-debugging-tls-errors-for-devops-2d10",
-   "date": "2026-08-25T23:01:12.000Z",
+   "title": "What Is Crust Network? Decentralized Storage Explained",
+   "link": "https://dev.to/onfinality/what-is-crust-network-decentralized-storage-explained-2c09",
+   "date": "2026-08-26T05:01:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "How to Resolve SSL/TLS Certificate Handshake Failures Audience: Software developers, engineers, and DevOps professionals. Handshake failures happen when the client and server cannot agree on a mutually trusted certificat",
+   "summary": "Crust Network is a purpose-built layer 1 blockchain that provides decentralized cloud storage by adding an incentive and service layer to IPFS. It is designed for developers and builders who need verifiable, persistent, ",
+   "image": null
+  },
+  {
+   "title": "Polygon Node RPC: Endpoints, Chain Settings & Provider Guide",
+   "link": "https://dev.to/onfinality/polygon-node-rpc-endpoints-chain-settings-provider-guide-3fi7",
+   "date": "2026-08-26T05:00:34.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Quick decision guide: which Polygon RPC setup fits your app? Before you copy an endpoint into your config, decide what your application actually needs. The right choice depends on request volume, data depth, and whether ",
+   "image": null
+  },
+  {
+   "title": "Kaia API: Endpoints, Methods, and How to Connect",
+   "link": "https://dev.to/onfinality/kaia-api-endpoints-methods-and-how-to-connect-4i5f",
+   "date": "2026-08-26T05:00:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Quick recommendation: Which Kaia API access mode fits your project? Before you write any code, decide how you will reach the Kaia network. The right choice depends on your workload, not on which provider has the most doc",
+   "image": null
+  },
+  {
+   "title": "Bitcoin Testnet RPC: Setup, Faucet & Best Practices",
+   "link": "https://dev.to/onfinality/bitcoin-testnet-rpc-setup-faucet-best-practices-311",
+   "date": "2026-08-26T04:59:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Quick Recommendation: When to Use Bitcoin Testnet vs Regtest If you are building a Bitcoin application, you need a safe environment to test transactions, wallet logic, and block processing. Bitcoin Testnet is a public ne",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_connections, log_disconnections, and log_hostname",
+   "link": "https://postgr.es/p/9td",
+   "date": "2026-08-26T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 18 adds granular connection logging.",
    "image": null
   },
   {
@@ -59,36 +99,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and",
-   "image": null
-  },
-  {
-   "title": "MTTR Optimization: The 7 Levers That Actually Move the Needle",
-   "link": "https://dev.to/samson_tanimawo/mttr-optimization-the-7-levers-that-actually-move-the-needle-144b",
-   "date": "2026-08-25T22:15:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "MTTR Is a Lagging Indicator Everyone tracks Mean Time to Resolve. Few understand what actually drives it. MTTR isn't one metric — it's four: MTTR = MTTD + MTTA + MTTI + MTTF MTTD: Mean Time to Detect (monitoring fired) M",
-   "image": null
-  },
-  {
-   "title": "AWS S3: Storage Strategy and Best Practices (2026-08-25 22:14)",
-   "link": "https://dev.to/said_olano/aws-s3-storage-strategy-and-best-practices-2026-08-25-2214-4he7",
-   "date": "2026-08-25T22:14:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AWS S3: Storage Strategy and Best Practices Amazon Simple Storage Service (S3) is one of the foundational services in the AWS ecosystem. While it's easy to get started—create a bucket, upload an object—building a cost-ef",
-   "image": null
-  },
-  {
-   "title": "GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them",
-   "link": "https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p",
-   "date": "2026-08-25T21:48:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "GitHub Copilot premium requests are the metered unit that determined how much advanced Copilot usage your plan covered, and if you are searching for how they work in mid-2026, you need two answers, not one. First, the me",
    "image": null
   },
   {
@@ -150,6 +160,16 @@
    "source": "PortSwigger Research",
    "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
+  },
+  {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
   },
   {
    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
@@ -372,16 +392,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-auditor-featured.png"
   },
   {
-   "title": "cary huang: PostgreSQL in Taipei: Connecting Taiwan to the Global PostgreSQL Community (COSCUP 2026)",
-   "link": "https://postgr.es/p/9t4",
-   "date": "2026-08-24T21:58:12.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Introduction COSCUP 2026 was held on August 8–9 at National Taiwan University of Science and Technology (NTUST) in Taipei. As one of Taiwan’s largest annual open-source gatherings, COSCUP brings together developers, user",
-   "image": "https://www.highgo.ca/wp-content/uploads/2026/08/banner-1024x448.webp"
-  },
-  {
    "title": "The Drop Times: Eight DAM Decisions for Drupal Teams",
    "link": "https://www.thedroptimes.com/71676/drupal-dam-architecture-decisions?utm_source=Drupal Planet",
    "date": "2026-08-24T16:33:40.000Z",
@@ -430,6 +440,16 @@
    "source": "Drupal Planet",
    "summary": "The closest thing I have to an answer Imagen Connecting systems isn't hard anymore, so what matters is what you put in the middle. I think that separates into knowledge, decisions, and the terrain those decisions run on,",
    "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/replaced-stone-a.jpg.webp?itok=yucPiBrZ"
+  },
+  {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
   },
   {
    "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
@@ -602,6 +622,16 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/deftform_laravel-news.png"
   },
   {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
+   "image": null
+  },
+  {
    "title": "New in Twig 3.29: Documentation Comments",
    "link": "https://symfony.com/blog/new-in-twig-3-29-documentation-comments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-21T13:34:00.000Z",
@@ -702,6 +732,16 @@
    "image": null
   },
   {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
+   "image": null
+  },
+  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -739,6 +779,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "GitHub recently added a small repository setting: public repositories can now disable pull requests. That setting gave me an idea. On the brand-new Symfony Language Tools repository, I am trying an issue-first contributi",
+   "image": null
+  },
+  {
+   "title": "WordPress.com Student Plan",
+   "link": "https://css-tricks.com/wordpress-student-plan/",
+   "date": "2026-08-19T08:50:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -812,6 +862,16 @@
    "image": null
   },
   {
+   "title": "Dark mode toggles: two states are enough",
+   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+   "date": "2026-08-17T14:15:50.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
+   "image": null
+  },
+  {
    "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
    "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
    "date": "2026-08-17T13:09:24.000Z",
@@ -832,6 +892,16 @@
    "image": null
   },
   {
+   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+   "link": "https://css-tricks.com/whats-important-17/",
+   "date": "2026-08-14T14:01:51.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
+   "image": null
+  },
+  {
    "title": "Replicating from InnoDB into a DuckDB storage engine",
    "link": "https://www.percona.com/blog/replicating-from-innodb-into-a-duckdb-storage-engine/",
    "date": "2026-08-13T17:23:27.000Z",
@@ -849,6 +919,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
+   "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+   "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+   "date": "2026-08-12T13:43:56.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue. Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong o",
    "image": null
   },
   {
