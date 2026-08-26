@@ -1,85 +1,185 @@
 {
- "generatedAt": "2026-08-26T05:47:29.552Z",
+ "generatedAt": "2026-08-26T11:41:29.160Z",
  "articles": [
   {
-   "title": "Designing the LeeX Location Data Model: Turning Real-World Places Into Structured Data",
-   "link": "https://dev.to/lee_x/designing-the-leex-location-data-model-turning-real-world-places-into-structured-data-1im8",
-   "date": "2026-08-26T05:46:39.000Z",
+   "title": "Optimizing LLM API Costs: A Developer's Practical Guide",
+   "link": "https://dev.to/kairo_v2/optimizing-llm-api-costs-a-developers-practical-guide-1b32",
+   "date": "2026-08-26T11:40:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A city may look simple when viewed from the street. There is a business, a road, an event venue, a public facility, a neighbourhood, and thousands of other places that people interact with every day. But the moment we tr",
+   "summary": "LLM API costs can spiral quickly. Whether you are using DeepSeek, OpenAI, or Anthropic, understanding your token usage is critical for sustainable development. Most developers underestimate the impact of context window s",
    "image": null
   },
   {
-   "title": "Karpenter for Kubernetes: Dynamic Node Provisioning for Scalable Cloud Workloads",
-   "link": "https://dev.to/munirfarhan/karpenter-for-kubernetes-dynamic-node-provisioning-for-scalable-cloud-workloads-15kn",
-   "date": "2026-08-26T05:41:39.000Z",
+   "title": "Troubleshoot Docker Container Issue",
+   "link": "https://dev.to/janak0ff/troubleshoot-docker-container-issue-5h6o",
+   "date": "2026-08-26T11:39:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Karpenter provides a more workload-driven approach to Kubernetes node provisioning by launching compute capacity according to the requirements of pending pods. In this FAMRO guide, we look at how Karpenter works with AWS",
+   "summary": "An issue has arisen with a static website running in a container named nautilus on App Server 1. To resolve the issue, investigate the following details: Check if the container's volume /usr/local/apache2/htdocs is corre",
    "image": null
   },
   {
-   "title": "Using Terraform to Manage On-Premise Infrastructure",
-   "link": "https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o",
-   "date": "2026-08-26T05:34:55.000Z",
+   "title": "Workshop: Build a Metered LLM App in 90 Minutes on Free Infrastructure",
+   "link": "https://dev.to/gitgo_1900/workshop-build-a-metered-llm-app-in-90-minutes-on-free-infrastructure-7oe",
+   "date": "2026-08-26T11:35:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most Terraform configs that target AWS are more portable than their authors expect. The resource definitions, modules, variable files, and state are all completely decoupled from which endpoint the provider talks to. Whe",
+   "summary": "Teaching LLM application development has a cost problem that appears before anyone writes code. Students need an API key, a budget, and a deployment target, and the first blocker is usually a credit-card form, not a synt",
    "image": null
   },
   {
-   "title": "Kubernetes: depura 401 intermitentes con contexto",
-   "link": "https://dev.to/alexcarteruk/kubernetes-depura-401-intermitentes-con-contexto-1c4k",
-   "date": "2026-08-26T05:25:02.000Z",
+   "title": "A Zero-Budget Overnight Code Review Pipeline for Solo Repos",
+   "link": "https://dev.to/hackcpp_3619/a-zero-budget-overnight-code-review-pipeline-for-solo-repos-320i",
+   "date": "2026-08-26T11:35:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Los 401 intermitentes en Kubernetes son de esas alertas que desgastan mas de lo que parecen. Un pod responde bien durante media hora, luego falla dos minutos, despues vuelve a la vida, y la tentacion es reiniciar primero",
+   "summary": "A solo founder can get a second pair of eyes on every pull request without paying for a seat. The method is to run review as a scheduled batch job instead of an interactive chat. This article builds a small, reproducible",
    "image": null
   },
   {
-   "title": "What Is Crust Network? Decentralized Storage Explained",
-   "link": "https://dev.to/onfinality/what-is-crust-network-decentralized-storage-explained-2c09",
-   "date": "2026-08-26T05:01:40.000Z",
+   "title": "Salesforce DevOps Course | Salesforce AI DevOps Training",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-course-salesforce-ai-devops-training-377p",
+   "date": "2026-08-26T11:34:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Crust Network is a purpose-built layer 1 blockchain that provides decentralized cloud storage by adding an incentive and service layer to IPFS. It is designed for developers and builders who need verifiable, persistent, ",
+   "summary": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗽𝗮𝗱𝗼 𝗔𝗜 𝗮𝘁 𝗩𝗶𝘀𝘂𝗮𝗹𝗽𝗮𝘁𝗵 Learn how #CopadoAI can improve automation, accelerate deployments, and simplify release management. ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼\ud835",
    "image": null
   },
   {
-   "title": "Polygon Node RPC: Endpoints, Chain Settings & Provider Guide",
-   "link": "https://dev.to/onfinality/polygon-node-rpc-endpoints-chain-settings-provider-guide-3fi7",
-   "date": "2026-08-26T05:00:34.000Z",
+   "title": "Pairing on a Flaky Free-LLM Pipeline: Three Dead Ends and the Decision That Survived",
+   "link": "https://dev.to/codehub_1304/pairing-on-a-flaky-free-llm-pipeline-three-dead-ends-and-the-decision-that-survived-48h9",
+   "date": "2026-08-26T11:29:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick decision guide: which Polygon RPC setup fits your app? Before you copy an endpoint into your config, decide what your application actually needs. The right choice depends on request volume, data depth, and whether ",
+   "summary": "Pairing on a Flaky Free-LLM Pipeline: Three Dead Ends and the Decision That Survived A three-hour pairing session on a flaky free-LLM pipeline ended with one durable decision: record every model decision before touching ",
    "image": null
   },
   {
-   "title": "Kaia API: Endpoints, Methods, and How to Connect",
-   "link": "https://dev.to/onfinality/kaia-api-endpoints-methods-and-how-to-connect-4i5f",
-   "date": "2026-08-26T05:00:01.000Z",
+   "title": "Biodegradable Stents Market Growth, Demand & Industry Outlook 2034",
+   "link": "https://dev.to/kapil_kazade_dce3a246e641/biodegradable-stents-market-growth-demand-industry-outlook-2034-1m6f",
+   "date": "2026-08-26T11:29:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick recommendation: Which Kaia API access mode fits your project? Before you write any code, decide how you will reach the Kaia network. The right choice depends on your workload, not on which provider has the most doc",
+   "summary": "The biodegradable stents market is experiencing substantial growth as healthcare providers increasingly adopt advanced cardiovascular treatment solutions. Biodegradable stents offer temporary vessel support and gradually",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg581rxdewnrpbti3pe3j.webp"
+  },
+  {
+   "title": "When Free Is the Wrong Price: A Field Guide for LLM Free Tiers",
+   "link": "https://dev.to/aiio_6471/when-free-is-the-wrong-price-a-field-guide-for-llm-free-tiers-5hna",
+   "date": "2026-08-26T11:28:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The cheapest LLM call is the one you never make. The second cheapest is the one you can re-run for free. Everything else carries a hidden bill, and it usually arrives in the review loop. Coding agents have moved from aut",
    "image": null
   },
   {
-   "title": "Bitcoin Testnet RPC: Setup, Faucet & Best Practices",
-   "link": "https://dev.to/onfinality/bitcoin-testnet-rpc-setup-faucet-best-practices-311",
-   "date": "2026-08-26T04:59:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Quick Recommendation: When to Use Bitcoin Testnet vs Regtest If you are building a Bitcoin application, you need a safe environment to test transactions, wallet logic, and block processing. Bitcoin Testnet is a public ne",
+   "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+   "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+   "date": "2026-08-26T10:27:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
+  },
+  {
+   "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+   "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+   "date": "2026-08-26T09:38:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
+  },
+  {
+   "title": "Stuart Clark (Deciphered): Drupal site settings over JSON:API, per consumer",
+   "link": "https://stuar.tc/writing/drupal-site-settings-over-jsonapi-consumer-20260826?utm_source=planet-drupal&utm_medium=rss&utm_campaign=syndication",
+   "date": "2026-08-26T09:20:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "In April 2022 I wrote about decoupling configuration with Config Pages, and ended it with a guess at where I'd go next: One of my future experiments with Druxt will be to look at the options of using the Drupal Consumers",
    "image": null
+  },
+  {
+   "title": "Dries Buytaert: Finding related posts with embeddings",
+   "link": "https://dri.es/finding-related-posts-with-embeddings",
+   "date": "2026-08-26T08:40:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I added a new feature to my blog: a list of related posts at the bottom of each post. I implemented it using embeddings, and this note documents how. I looked at how other content management systems identify related post",
+   "image": null
+  },
+  {
+   "title": "Très Bien Blog: A tool to painlessly update a heavily patched Drupal site",
+   "link": "https://tresbien.tech/blog/tool-painlessly-update-heavily-patched-drupal-site/",
+   "date": "2026-08-26T08:35:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A tool to painlessly update a heavily patched Drupal site Picture a Drupal 10.6 website with a several months stale composer.json: 120 contrib modules, 47 patches. You need to update it to Drupal 11.4. Many hours will be",
+   "image": null
+  },
+  {
+   "title": "Quoting Paul Dix",
+   "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+   "date": "2026-08-26T08:07:55.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowin",
+   "image": null
+  },
+  {
+   "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+   "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+   "date": "2026-08-26T07:54:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six contine",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
+  },
+  {
+   "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+   "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+   "date": "2026-08-26T07:12:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs comm",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
+  },
+  {
+   "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+   "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+   "date": "2026-08-26T06:27:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+  },
+  {
+   "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+   "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+   "date": "2026-08-26T05:47:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Appl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_connections, log_disconnections, and log_hostname",
@@ -89,6 +189,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 18 adds granular connection logging.",
+   "image": null
+  },
+  {
+   "title": "Ismaël Mejía: MongoDB on PostgreSQL: DocumentDB with pglayers-azure",
+   "link": "https://postgr.es/p/9te",
+   "date": "2026-08-26T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "DocumentDB is a MongoDB-compatible document database built on PostgreSQL. It adds the BSON data type and a full CRUD API to Postgres, and ships a gateway that speaks the MongoDB wire protocol -- so existing MongoDB clien",
    "image": null
   },
   {
@@ -192,46 +302,6 @@
    "image": null
   },
   {
-   "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-   "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-   "date": "2026-08-25T13:19:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyjfLJEnp8xcmcz9iVBOKykdcxx36J8KgONSwImU9YSYuvWD_uzKDaGkJre9D_8P1XLdE8vPHqNyBUKOvjYPLJj_oZ1T-pfUxdOm-bZTtaz4LC2eVcuFloJTtEE7IWVnOaVJIEtFUoPKfOn9xeBASQG7e7X2-wA7P-hwGIzqP7G_-Ot2BOpj-OSO0tUBh/s1600/whatsapp.jpg"
-  },
-  {
-   "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-   "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-   "date": "2026-08-25T12:43:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg"
-  },
-  {
-   "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-   "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-   "date": "2026-08-25T11:56:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg"
-  },
-  {
-   "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-   "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-   "date": "2026-08-25T11:52:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg"
-  },
-  {
    "title": "Henrietta Dombrovskaya: How to optimize when you can’t do anything!",
    "link": "https://postgr.es/p/9t9",
    "date": "2026-08-25T11:50:24.000Z",
@@ -250,26 +320,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-   "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-   "date": "2026-08-25T11:33:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. Whi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2i7P2s27TjJNZnYUm7sRvosSHWRKaS2x-ITabU2QoWKkFiXRH1ggmPOby95djEZo62zvTn3LviG9HuetNXjY9km-dk9XqX_yNzD0Vh6yUfisio5rUP7c0DPDhW_1J877JL4RVY0QjM2vDXXH62rGegDhL0sSPedL99_Rw8P_z-LM67zUFXCiSI1mXGhoM/s1600/ftp-server.jpg"
-  },
-  {
-   "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-   "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-   "date": "2026-08-25T11:14:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3Y0aFTDbQ21xc915TfR8Ij8yXtuti3S7fG8opbdhlekh0FmwKsgWcuHXs8kCr01WBmZCInn_OldVjnXtLed_aDiCd41L1kkup8-CXGOkc4YLfZq7dmlkSNiaT4EHNMqcoA10SOr018r6ZElA3HMOOLWi9Ye-99WlJzKtX4vdDgPZSWwfpgT9Eo8mres/s1600/sans.jpg"
   },
   {
    "title": "Specbee: Are you building a Drupal module that already exists? Meet Module Scout",
@@ -362,16 +412,6 @@
    "image": null
   },
   {
-   "title": "Alexey Evlampiev: Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT",
-   "link": "https://postgr.es/p/9t8",
-   "date": "2026-08-25T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Scenario-Tree Testing in PostgreSQL: Every Authored Branch, Shared History, Before COMMIT# Express the branching scenarios of your business logic as a directory tree; walk it with savepoints so each branch inherits its h",
-   "image": null
-  },
-  {
    "title": "Cheppers: ExperienceKit: Why University Websites Break at Scale, and How to Fix It",
    "link": "https://cheppers.com/post/experiencekit-why-university-websites-break-at-scale-and-how-to-fix-it",
    "date": "2026-08-25T00:00:00.000Z",
@@ -422,26 +462,6 @@
    "image": null
   },
   {
-   "title": "Drupal AI Initiative: Your next website visitor might not be human",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/your-next-website-visitor-might-not-be-human",
-   "date": "2026-08-24T14:30:14.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "For most of the web’s history, we have designed digital experiences around a simple assumption: a person will visit our website. That person might arrive through a search engine, follow a campaign link, scan a QR code, o",
-   "image": null
-  },
-  {
-   "title": "A Drupal Couple: The closest thing I have to an answer",
-   "link": "https://www.adrupalcouple.us/ai-agents-and-your-operating-knowledge",
-   "date": "2026-08-24T14:02:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The closest thing I have to an answer Imagen Connecting systems isn't hard anymore, so what matters is what you put in the middle. I think that separates into knowledge, decisions, and the terrain those decisions run on,",
-   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/replaced-stone-a.jpg.webp?itok=yucPiBrZ"
-  },
-  {
    "title": "WordPress PHP-Only Block Registration",
    "link": "https://css-tricks.com/wordpress-php-block-registration/",
    "date": "2026-08-24T13:54:02.000Z",
@@ -469,16 +489,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte appl",
-   "image": null
-  },
-  {
-   "title": "Drupal AI Initiative: From Headless CMS to AI Harness: What I Took to Decoupled Days",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/from-headless-cms-to-ai-harness-what-i-took-to-decoupled-days",
-   "date": "2026-08-24T09:50:38.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Article by: Martin Anderson-Clutz. Originally posted on the Acquia blog. Drupal turns decoupled architecture into a governed AI harness, combining live visual editing with agent-ready content schemas. Back in March, at E",
    "image": null
   },
   {
@@ -539,16 +549,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, b",
-   "image": null
-  },
-  {
-   "title": "More than just code review",
-   "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-   "date": "2026-08-22T15:56:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Someti",
    "image": null
   },
   {
