@@ -1,84 +1,234 @@
 {
- "generatedAt": "2026-08-27T04:29:58.848Z",
+ "generatedAt": "2026-08-27T16:28:28.111Z",
  "articles": [
   {
-   "title": "Health Checks in Docker Compose: Startup Order and Self-Healing",
-   "link": "https://dev.to/peon_sh/health-checks-in-docker-compose-startup-order-and-self-healing-29a",
-   "date": "2026-08-27T04:25:02.000Z",
+   "title": "The LLM Isn't Your Attacker. Your eval() Statement Is.",
+   "link": "https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp",
+   "date": "2026-08-27T16:18:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Write health checks that reflect real readiness, gate dependent services on them, and enable automatic recovery from wedged states. Why \"running\" is not \"working\" Anatomy of a good health check healthcheck: http://localh",
+   "summary": "Everyone's worried about prompt injection making models say bad things. Meanwhile someone piped LLM output straight into eval() and gave it a GPU box to play with. That's not an AI safety problem. That's a 2005 problem w",
    "image": null
   },
   {
-   "title": "Why Your p99 Looks Fine While Users Complain: Averaged Percentiles and Histogram Buckets",
-   "link": "https://dev.to/libme/why-your-p99-looks-fine-while-users-complain-averaged-percentiles-and-histogram-buckets-eej",
-   "date": "2026-08-27T04:18:44.000Z",
+   "title": "Build an MCP Server in Go (Part 3): How IRSA and EKS Pod Identity Actually Work",
+   "link": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-3-how-irsa-and-eks-pod-identity-actually-work-45gk",
+   "date": "2026-08-27T16:14:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If your dashboard says p99 = 250ms and support says pages hang for seconds, the metric is usually wrong before the system is. Two mistakes cause most of it: computing a percentile per instance and then averaging those nu",
+   "summary": "Everything the MCP server could check through Part 2 lives inside the cluster. But \"my pod can't reach S3\" is very often not a Kubernetes problem at all, it's a workload identity problem, and that identity lives partly o",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi8gv2qetmfa88nbyuywf.png"
+  },
+  {
+   "title": "Nvidia Just Agreed to Buy Hugging Face for $12.9 Billion. Here's What Java Developers Should Actually Do",
+   "link": "https://dev.to/jamilxt/nvidia-just-agreed-to-buy-hugging-face-for-129-billion-heres-what-java-developers-should-1f43",
+   "date": "2026-08-27T16:03:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I was halfway through a pull request review this morning when my feed lit up. Nvidia has agreed to buy Hugging Face for $12.9 billion, according to The Information, and the story hit number one on Hacker News within hour",
    "image": null
   },
   {
-   "title": "I Turned 22 Solopreneur Tools Into One $199 Bundle (and Why You Shouldn't Buy Them Separately)",
-   "link": "https://dev.to/agentchip/i-turned-22-solopreneur-tools-into-one-199-bundle-and-why-you-shouldnt-buy-them-separately-2dgn",
-   "date": "2026-08-27T04:09:34.000Z",
+   "title": "I Built a CLI to Answer One Question: What Will This Change Break?",
+   "link": "https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o",
+   "date": "2026-08-27T16:03:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you run a small business, a freelance practice, or an indie product alone, you already know the pattern: you buy one tool for invoicing, another for follow-ups, another for monitoring, another for SEO, another for tes",
+   "summary": "We've all been there. You open a repository, change a file that looks completely harmless, run the tests, and open a pull request. Then someone comments: “Careful. That module is also used by the billing pipeline.” Or wo",
    "image": null
   },
   {
-   "title": "The Agent Patch Test Budget: Spend CI Minutes Where They Catch Faults",
-   "link": "https://dev.to/datacpp_8185/the-agent-patch-test-budget-spend-ci-minutes-where-they-catch-faults-3fm",
-   "date": "2026-08-27T04:02:51.000Z",
+   "title": "We shipped two context-engineering features in one afternoon. We reverted them by dinner.",
+   "link": "https://dev.to/pm25coder/we-shipped-two-context-engineering-features-in-one-afternoon-we-reverted-them-by-dinner-jdk",
+   "date": "2026-08-27T16:02:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Agent-generated patches have a strange property: the cheaper they are to produce, the more expensive they are to validate. Once generation costs approach zero, your CI pipeline becomes the loop's bottleneck. The fix is n",
+   "summary": "On 2026-08-22 the agent harness I work on shipped two \"smarter context\" features within five hours of each other. Both were reverted before the day was over. This is the honest version of that afternoon, because the same",
    "image": null
   },
   {
-   "title": "User Experiences and Discussions in WLOADCTL",
-   "link": "https://dev.to/weeli_632477a9c141395/user-experiences-and-discussions-in-wloadctl-8kb",
-   "date": "2026-08-27T03:59:50.000Z",
+   "title": "Build a System Monitor Dashboard with Python",
+   "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-2nj2",
+   "date": "2026-08-27T16:00:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Q: How do I activate the product in a completely offline internal network? A: The product uses an offline activation mechanism and the server does not need to connect to the public internet. After installation, the produ",
+   "summary": "Build a System Monitor Dashboard with Python tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tag",
    "image": null
   },
   {
-   "title": "Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook",
-   "link": "https://dev.to/seraphinalyn7139/support-report-email-scheduling-a-cron-service-and-public-express-webhook-runbook-c8p",
-   "date": "2026-08-27T03:49:33.000Z",
+   "title": "How to Host OpenClaw for Multiple Clients in Production",
+   "link": "https://dev.to/moltednet/how-to-host-openclaw-for-multiple-clients-in-production-51oc",
+   "date": "2026-08-27T15:39:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "\"# Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook Short answer: for a small customer-support SaaS that sends one daily report batch, use a cron service to call a public webhook, then l",
+   "summary": "The first OpenClaw deployment is usually straightforward. You provision a machine, configure one agent, connect a few tools, and watch it complete a real task. If something breaks, you inspect the logs, fix the configura",
    "image": null
   },
   {
-   "title": "Your AI Reviewer Is Untested: A 10-Bug Calibration Harness on a Free Server",
-   "link": "https://dev.to/devgo_7763/your-ai-reviewer-is-untested-a-10-bug-calibration-harness-on-a-free-server-46op",
-   "date": "2026-08-27T03:06:49.000Z",
+   "title": "How Do Agile and DevOps Interrelate? (2026 Guide)",
+   "link": "https://dev.to/kiran_sonawane/how-do-agile-and-devops-interrelate-2026-guide-4fo5",
+   "date": "2026-08-27T15:24:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This week's loudest DEV discussion: AI promoted every developer to reviewer. The uncomfortable follow-up: nobody tested the reviewer. This article fixes that gap. You will build a 10-bug calibration set. You will measure",
+   "summary": "If your development team is shipping code in weekly Agile sprints, but your operations team takes a month to deploy it, your Agile process is broken. The speed of Agile means absolutely nothing without the automation of ",
    "image": null
   },
   {
-   "title": "Scroll Endpoint: Chain Settings, RPC URL, and Best Practices",
-   "link": "https://dev.to/onfinality/scroll-endpoint-chain-settings-rpc-url-and-best-practices-1f5j",
-   "date": "2026-08-27T03:05:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Quick Recommendation: Which Scroll Endpoint Should You Use? If you're building a dApp, running a backend service, or just testing on Scroll, the choice of endpoint can affect your app's reliability and performance. For d",
+   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+   "date": "2026-08-27T14:41:06.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
+   "image": null
+  },
+  {
+   "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+   "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+   "date": "2026-08-27T13:39:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1600/kiro-amazon.jpg"
+  },
+  {
+   "title": "Benchmarking vector indexes",
+   "link": "https://www.percona.com/blog/benchmarking-vector-indexes/",
+   "date": "2026-08-27T13:35:32.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Nearly every database has vector search now, and every one of them has a blog post with a big number in it. Almost none of those numbers can be checked, because the thing that makes them meaningful is usually missing. We",
+   "image": "https://www.percona.com/wp-content/uploads/2026/08/recall.png"
+  },
+  {
+   "title": "Making Your Data Ready for Agentic AI",
+   "link": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+   "date": "2026-08-27T13:11:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundat",
+   "image": null
+  },
+  {
+   "title": "Performance Progression of Percona Server for MySQL 8.4",
+   "link": "https://www.percona.com/blog/performance-progression-of-percona-server-for-mysql-8-4/",
+   "date": "2026-08-27T13:07:20.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "1. Purpose and scope This performance investigation aims to look into the read/write performance of Percona Server for MySQL 8.4 and how it changed between versions released in 2026: 8.4.8-8 released on 12 March 2026 8.4",
+   "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
+  },
+  {
+   "title": "Berliners blog: Rebuilding a data-driven Drupal site: From ctools plugins to Layout Builder blocks",
+   "link": "https://blog.dev030.com/posts/rebuilding-data-driven-drupal-site-ctools-plugins-layout-builder-blocks",
+   "date": "2026-08-27T13:06:52.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Rebuilding a data-driven Drupal site: From ctools plugins to Layout Builder blocks In the previous post, I described why we chose Layout Builder and how Layout Builder IPE restored the frontend editing workflow we had us",
+   "image": null
+  },
+  {
+   "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+   "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+   "date": "2026-08-27T11:56:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
+  },
+  {
+   "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+   "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+   "date": "2026-08-27T11:56:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Ze_JyLo4PQxJMbwu8Mn_aCoLWiD2dgbGmzOPcYcdrN8wunKZu2SZll2fiHcAOFoA0h9N5TYPOY_IvrPpGqTpnXdyd5bXHRtyHqb3t3junXDMotOAD43Y0jzA9wkCSjoOIo1knFjtTVRAeOSjpHqLzfMGceCcHYGb6cE1HD-Y5mtY9hyphenhyphenHT9PeUk3TV68/s1600/TeamPCP-arrest.gif"
+  },
+  {
+   "title": "What the Data Says About AI in Security Operations in 2026",
+   "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+   "date": "2026-08-27T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg"
+  },
+  {
+   "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
+   "link": "https://tympanus.net/codrops/2026/08/27/goodgrowth-boot-sequences-spinning-discs-and-the-art-of-the-portfolio/",
+   "date": "2026-08-27T11:26:31.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Discover the process behind Goodgrowth, from its console-inspired concept to the 3D, motion, sound, and technical details that bring the experience to life.",
+   "image": null
+  },
+  {
+   "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+   "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+   "date": "2026-08-27T11:00:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effo",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
+  },
+  {
+   "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+   "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+   "date": "2026-08-27T09:33:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
+  },
+  {
+   "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+   "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+   "date": "2026-08-27T08:13:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables de",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg"
+  },
+  {
+   "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+   "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+   "date": "2026-08-27T07:05:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetSca",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg"
+  },
+  {
+   "title": "Specbee: 16 Drupal AI modules that can make your website smarter",
+   "link": "https://www.specbee.com/blogs/drupal-ai-modules-for-smarter-website",
+   "date": "2026-08-27T06:25:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We rounded up 16 Drupal AI modules and sorted them for you. Deploy now, pilot on staging, or just keep an eye on it. Check it out!",
    "image": null
   },
   {
@@ -90,6 +240,16 @@
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL's logging collector is a small pipe-based daemon that prevents message loss and garbling—but turning it on requires a restart, which you'll want on…",
    "image": null
+  },
+  {
+   "title": "DDEV Blog: DDEV August 2026: Star Us on GitHub, PhpStorm Plugin Comes Home",
+   "link": "https://ddev.com/blog/ddev-august-2026-newsletter",
+   "date": "2026-08-27T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Help DDEV Grow: Star Us on GitHub If you use DDEV, a simple way to mention the project is to star the GitHub repository. Head over to github.com/ddev/ddev↗ and click Star. It takes five seconds, and it can help us — a st",
+   "image": "https://ddev.com/img/blog/2026/08/ddev-august-2026-featureimage.jpg"
   },
   {
    "title": "Qwen3.8-Flash-Next",
@@ -112,6 +272,16 @@
    "image": null
   },
   {
+   "title": "whereBinary(): Case-Sensitive MySQL Queries in Laravel",
+   "link": "https://laravel-news.com/laravel-where-binary?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-26T21:25:13.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.27 adds whereBinary() to the query builder for byte-exact, case-sensitive comparisons on MySQL and MariaDB without dropping into whereRaw(). The post whereBinary(): Case-Sensitive MySQL Queries in Laravel appe",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel13-27-whereBinary-case-sensitive-search-featured.png"
+  },
+  {
    "title": "Pavel Stehule: integration Lua to psql II",
    "link": "https://postgr.es/p/9tg",
    "date": "2026-08-26T20:34:21.000Z",
@@ -122,16 +292,6 @@
    "image": null
   },
   {
-   "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-   "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-   "date": "2026-08-26T16:42:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive network",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg"
-  },
-  {
    "title": "animation-trigger",
    "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
    "date": "2026-08-26T15:38:41.000Z",
@@ -140,16 +300,6 @@
    "source": "CSS-Tricks",
    "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
    "image": null
-  },
-  {
-   "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-   "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-   "date": "2026-08-26T15:35:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
   },
   {
    "title": "The Drop Times: DrupalCamp Colorado 2026 Puts Long-Term Drupal Practice in Focus",
@@ -212,36 +362,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-08-26-state-of-laravel-2026-featured.png"
   },
   {
-   "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-   "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-   "date": "2026-08-26T13:44:31.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
-  },
-  {
-   "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-   "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-   "date": "2026-08-26T13:07:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it describe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
-  },
-  {
-   "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-   "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-   "date": "2026-08-26T11:55:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-  },
-  {
    "title": "Andrew Atkinson: PostgreSQL 18: 23x Faster Inserts With UUID V7",
    "link": "https://postgr.es/p/9tf",
    "date": "2026-08-26T11:50:00.000Z",
@@ -250,36 +370,6 @@
    "source": "Planet PostgreSQL",
    "summary": "📌 Overview We recently switched to version 7 (v7) uuid primary keys and saw significantly faster inserts for some tables. The databases were running Postgres 18.4 and mostly used v1 with some v4 uuid values for primary ",
    "image": "https://andyatkinson.com/assets/images/uuidv7-4-table-do-pganalyze.jpg"
-  },
-  {
-   "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-   "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-   "date": "2026-08-26T11:36:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known patter",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
-  },
-  {
-   "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-   "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-   "date": "2026-08-26T10:27:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
-  },
-  {
-   "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-   "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-   "date": "2026-08-26T09:38:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
   },
   {
    "title": "Stuart Clark (Deciphered): Drupal site settings over JSON:API, per consumer",
@@ -302,16 +392,6 @@
    "image": null
   },
   {
-   "title": "Très Bien Blog: A tool to painlessly update a heavily patched Drupal site",
-   "link": "https://tresbien.tech/blog/tool-painlessly-update-heavily-patched-drupal-site/",
-   "date": "2026-08-26T08:35:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A tool to painlessly update a heavily patched Drupal site Picture a Drupal 10.6 website with a several months stale composer.json: 120 contrib modules, 47 patches. You need to update it to Drupal 11.4. Many hours will be",
-   "image": null
-  },
-  {
    "title": "Quoting Paul Dix",
    "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
    "date": "2026-08-26T08:07:55.000Z",
@@ -319,6 +399,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowin",
+   "image": null
+  },
+  {
+   "title": "Pavlo Golub: pgwatch v6: Prometheus becomes a source, not just a sink",
+   "link": "https://postgr.es/p/9tl",
+   "date": "2026-08-26T07:43:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "We're excited to unveil pgwatch v6.0.0-beta — the biggest release since v5. It's a big one, so I'm splitting the tour into two posts. This first post is about the headline feature: pgwatch can now scrape a Prometheus exp",
    "image": null
   },
   {
@@ -340,16 +430,6 @@
    "source": "Laravel News",
    "summary": "Laravel Boost v2.6.0 introduces a consolidated testing best practices skill for AI agents, database-enforced read-only transactions, and skill management improvements. The post Testing Best Practices Skill in Laravel Boo",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/boost.png"
-  },
-  {
-   "title": "Laravel AI: Load Tools On Demand With ToolSearch",
-   "link": "https://laravel-news.com/laravel-ai-tool-search?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-26T01:32:51.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel AI 0.11 adds a ToolSearch wrapper that defers tool definitions so OpenAI and Anthropic load them on demand instead of on every request. The post Laravel AI: Load Tools On Demand With ToolSearch appeared first on ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/AI-SDK-Tool-Search-LN.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_connections, log_disconnections, and log_hostname",
@@ -382,6 +462,16 @@
    "image": null
   },
   {
+   "title": "Alexey Evlampiev: Your Deployment Is a PostgreSQL Program",
+   "link": "https://postgr.es/p/9tm",
+   "date": "2026-08-26T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Your Deployment Is a PostgreSQL Program# Every migration tool is a program that executes your SQL. Invert the control flow and deployment policy becomes SQL the project owns. By Alexey Evlampiev Abstract. Every team that",
+   "image": null
+  },
+  {
    "title": "Ismaël Mejía: MongoDB on PostgreSQL: DocumentDB with pglayers-azure",
    "link": "https://postgr.es/p/9te",
    "date": "2026-08-26T00:00:00.000Z",
@@ -400,16 +490,6 @@
    "source": "Kubernetes Blog",
    "summary": "Editors: Arsh Sharma, Christopher Tineo, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Troy Connor Similar to previous releases, the release of Kubernetes v1.37 introduces new Stable, Beta, and Alpha features. The consisten",
    "image": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/k8s-v1.37.svg"
-  },
-  {
-   "title": "Tag1 Insights: A Warm Afterglow from Laracon US 2026",
-   "link": "https://www.tag1.com/blog/laracon-us-2026-recap/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
-   "date": "2026-08-26T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Take Away Moshe Weitzman, Sr. Architect & Project Lead at Tag1 and the first American to contribute to the Drupal platform, attended LaraCon US 2026 in Boston and shares the concrete takeaways. Laracon US came to my home",
-   "image": "https://www.tag1.com/img/blog/akumal-26.jpg"
   },
   {
    "title": "EVE Online: The Move to Python 3 Begins!",
@@ -482,26 +562,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Rybbit Analytics Maintainer Explores Embedded Dashboards and No-Code Event Tracking for Drupal",
-   "link": "https://www.thedroptimes.com/71667/rybbit-analytics-drupal-dashboards-event-tracking?utm_source=Drupal Planet",
-   "date": "2026-08-25T13:52:21.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "For Drupal sites with logged-in experiences, the integration can use existing user attributes to segment journeys and activity, extending Rybbit beyond anonymous traffic reporting.",
-   "image": null
-  },
-  {
-   "title": "Henrietta Dombrovskaya: How to optimize when you can’t do anything!",
-   "link": "https://postgr.es/p/9t9",
-   "date": "2026-08-25T11:50:24.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "It’s hard to say anything new about query optimization. On the one hand, each new Postgres release includes multiple query planner improvements, and it feels like there is something for any problem that can possibly aris",
-   "image": null
-  },
-  {
    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
    "date": "2026-08-25T11:39:24.000Z",
@@ -529,16 +589,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
-   "image": null
-  },
-  {
-   "title": "Cornelia Biacsics: Contributions for week 33",
-   "link": "https://postgr.es/p/9t7",
-   "date": "2026-08-25T05:55:55.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 19 August 2026, the Postgres Meetup for All - Group met online, organized by Elizabeth Christensen. James Nelson and Philip Johnston delivered a talk Hyderabad PGDays 2026 took place from 20-21 August 2026 Organizers:",
    "image": null
   },
   {
@@ -932,36 +982,6 @@
    "image": null
   },
   {
-   "title": "Inside HAOQI.DESIGN: Letting DOM and WebGL Share a Retro-Futurist Stage",
-   "link": "https://tympanus.net/codrops/2026/08/15/inside-haoqi-design-letting-dom-and-webgl-share-a-retro-futurist-stage/",
-   "date": "2026-08-15T13:28:53.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A technical look at the making of HAOQI.DESIGN, exploring scroll sync, glass shaders, and the interplay of DOM, CSS, and WebGL in a retro-futurist portfolio.",
-   "image": null
-  },
-  {
-   "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-   "link": "https://css-tricks.com/whats-important-17/",
-   "date": "2026-08-14T14:01:51.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff. What’s !important #17: Custom Highlight A",
-   "image": null
-  },
-  {
-   "title": "Replicating from InnoDB into a DuckDB storage engine",
-   "link": "https://www.percona.com/blog/replicating-from-innodb-into-a-duckdb-storage-engine/",
-   "date": "2026-08-13T17:23:27.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Our first post showed MySQL 9.7 with one change: mark a table ENGINE=DuckDB and its analytical queries run in DuckDB instead of InnoDB. The question we kept getting after that was about replication. Can you keep a normal",
-   "image": null
-  },
-  {
    "title": "PHP 8.6.0 Beta 1 is available for testing",
    "link": "https://www.php.net/index.php#2026-08-13-1",
    "date": "2026-08-13T14:33:26.000Z",
@@ -990,16 +1010,6 @@
    "source": "Kubernetes Blog",
    "summary": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives ",
    "image": null
-  },
-  {
-   "title": "Percona for MongoDB: RHEL 10, Its Derivatives, and Debian 13 – On Both x86_64 and ARM",
-   "link": "https://www.percona.com/blog/percona-for-mongodb-rhel-10-its-derivatives-and-debian-13-on-both-x86_64-and-arm/",
-   "date": "2026-08-11T12:15:41.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "We’re happy to announce that Percona Server for MongoDB (PSMDB) 8.0.28-12 extends platform support to RHEL 10 and its derivatives (Oracle Linux 10, Rocky Linux 10, AlmaLinux 10, and other RHEL-compatible distributions) f",
-   "image": "https://www.percona.com/wp-content/uploads/2026/08/pmm-adoption-arm-2048x673.png"
   },
   {
    "title": "TDD inside the agent loop - theater or actual value?",
@@ -1119,16 +1129,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 3. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
-   "image": null
-  },
-  {
-   "title": "The Economic Benefit of Refactoring",
-   "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-   "date": "2026-07-30T13:04:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Giles Edwards-Alexander does an experiment to see if decomposing a large function helps reduce token costs, suggesting that is may now be possible to measure the economic benefit of refactoring more…",
    "image": null
   },
   {
