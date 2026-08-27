@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-08-26T19:16:40.267Z",
+ "generatedAt": "2026-08-27T04:29:58.848Z",
  "articles": [
   {
-   "title": "Verifying a Webhook Signature: The Raw-Body Trap, Verify-Before-Parse, and When a Timestamp Window Is Just Theater",
-   "link": "https://dev.to/merlonix/verifying-a-webhook-signature-the-raw-body-trap-verify-before-parse-and-when-a-timestamp-window-29o3",
-   "date": "2026-08-26T19:10:57.000Z",
+   "title": "Health Checks in Docker Compose: Startup Order and Self-Healing",
+   "link": "https://dev.to/peon_sh/health-checks-in-docker-compose-startup-order-and-self-healing-29a",
+   "date": "2026-08-27T04:25:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A webhook is an unauthenticated POST from the public internet that you are about to trust enough to flip a subscription, mark an SMS delivered, or kick off a deploy. The signature header is the only thing standing betwee",
+   "summary": "Write health checks that reflect real readiness, gate dependent services on them, and enable automatic recovery from wedged states. Why \"running\" is not \"working\" Anatomy of a good health check healthcheck: http://localh",
    "image": null
   },
   {
-   "title": "Docker Essentials: Containerizing Your First App – A Hero's Journey (Like in The Matrix)",
-   "link": "https://dev.to/timevolt/docker-essentials-containerizing-your-first-app-a-heros-journey-like-in-the-matrix-1f5j",
-   "date": "2026-08-26T19:02:28.000Z",
+   "title": "Why Your p99 Looks Fine While Users Complain: Averaged Percentiles and Histogram Buckets",
+   "link": "https://dev.to/libme/why-your-p99-looks-fine-while-users-complain-averaged-percentiles-and-histogram-buckets-eej",
+   "date": "2026-08-27T04:18:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Quest Begins (The \"Why\") Ever felt like you're stuck in a loop, trying to get your buddy’s Node.js app to run on his laptop, then on yours, then on the stale CI server that smells like week-old pizza? I’ve been there",
+   "summary": "If your dashboard says p99 = 250ms and support says pages hang for seconds, the metric is usually wrong before the system is. Two mistakes cause most of it: computing a percentile per instance and then averaging those nu",
    "image": null
   },
   {
-   "title": "An HTTP 200 Is Not Uptime: The Monitor Went Green While the Page Served an Error",
-   "link": "https://dev.to/merlonix/an-http-200-is-not-uptime-the-monitor-went-green-while-the-page-served-an-error-4lg9",
-   "date": "2026-08-26T18:53:41.000Z",
+   "title": "I Turned 22 Solopreneur Tools Into One $199 Bundle (and Why You Shouldn't Buy Them Separately)",
+   "link": "https://dev.to/agentchip/i-turned-22-solopreneur-tools-into-one-199-bundle-and-why-you-shouldnt-buy-them-separately-2dgn",
+   "date": "2026-08-27T04:09:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The simplest uptime check is one line: fetch the URL, and if it returns 200, the site is up. It is the check almost every homegrown monitor starts with, and it is wrong in a specific, expensive way. A 200 means the serve",
+   "summary": "If you run a small business, a freelance practice, or an indie product alone, you already know the pattern: you buy one tool for invoicing, another for follow-ups, another for monitoring, another for SEO, another for tes",
    "image": null
   },
   {
-   "title": "The Silent Enclosure: Stealing the Light",
-   "link": "https://dev.to/neoncyan0x/the-silent-enclosure-stealing-the-light-465p",
-   "date": "2026-08-26T18:46:53.000Z",
+   "title": "The Agent Patch Test Budget: Spend CI Minutes Where They Catch Faults",
+   "link": "https://dev.to/datacpp_8185/the-agent-patch-test-budget-spend-ci-minutes-where-they-catch-faults-3fm",
+   "date": "2026-08-27T04:02:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Pushed Out by the Shadows For almost seven months now I have blinked less than the crippled, cramped fingers I count on my tired hands. I have howled so loud that even the sheep ignore me when I howl at the largest light",
+   "summary": "Agent-generated patches have a strange property: the cheaper they are to produce, the more expensive they are to validate. Once generation costs approach zero, your CI pipeline becomes the loop's bottleneck. The fix is n",
    "image": null
   },
   {
-   "title": "Remote Patient Monitoring Challenges",
-   "link": "https://dev.to/boopathy_health_9d30cae82/remote-patient-monitoring-challenges-37e6",
-   "date": "2026-08-26T18:30:28.000Z",
+   "title": "User Experiences and Discussions in WLOADCTL",
+   "link": "https://dev.to/weeli_632477a9c141395/user-experiences-and-discussions-in-wloadctl-8kb",
+   "date": "2026-08-27T03:59:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Remote Patient Monitoring sounds simple on paper: give a patient a Bluetooth blood pressure cuff, have them take a reading, and insurance pays you for keeping an eye on it. In practice, the programs that struggle usually",
+   "summary": "Q: How do I activate the product in a completely offline internal network? A: The product uses an offline activation mechanism and the server does not need to connect to the public internet. After installation, the produ",
    "image": null
   },
   {
-   "title": "15 Best Sites To Buy Old Gmail Accounts ( PVA & Bulk )",
-   "link": "https://dev.to/usasmmdeal2025/15-best-sites-to-buy-old-gmail-accounts-pva-bulk--n92",
-   "date": "2026-08-26T18:10:11.000Z",
+   "title": "Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook",
+   "link": "https://dev.to/seraphinalyn7139/support-report-email-scheduling-a-cron-service-and-public-express-webhook-runbook-c8p",
+   "date": "2026-08-27T03:49:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Gmail Accounts (PVA & Bulk): If you are feeling any problems and knowing more about us then Contact us by Email, Telegram, or WhatsApp. ✅✅➤Email: usasmmdeal@gmail.com ✅✅➤WhatsApp:+1(386)240-9742 ✅✅➤Telegram: @usa",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F77fk1v9fusmr634e8mhr.png"
+   "summary": "\"# Support Report Email Scheduling: A Cron Service and Public Express Webhook Runbook Short answer: for a small customer-support SaaS that sends one daily report batch, use a cron service to call a public webhook, then l",
+   "image": null
   },
   {
-   "title": "Fixing Claude Rate Limit Errors with an AI Gateway",
-   "link": "https://dev.to/swapnoneel123/fixing-claude-rate-limit-errors-with-an-ai-gateway-5dk5",
-   "date": "2026-08-26T18:04:49.000Z",
+   "title": "Your AI Reviewer Is Untested: A 10-Bug Calibration Harness on a Free Server",
+   "link": "https://dev.to/devgo_7763/your-ai-reviewer-is-untested-a-10-bug-calibration-harness-on-a-free-server-46op",
+   "date": "2026-08-27T03:06:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ever had a 429 from Claude that just would not clear, no matter how patiently you backed off? Yeah. That one was never a rate limit. A Claude rate limit error is an HTTP 429 carrying \"type\": \"rate_limit_error\", and it me",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5joinddh3t7dxjgioei.png"
+   "summary": "This week's loudest DEV discussion: AI promoted every developer to reviewer. The uncomfortable follow-up: nobody tested the reviewer. This article fixes that gap. You will build a 10-bug calibration set. You will measure",
+   "image": null
   },
   {
-   "title": "I broke my own AWS infrastructure… without touching the infrastructure.",
-   "link": "https://dev.to/tejas_shinkar/i-broke-my-own-aws-infrastructure-without-touching-the-infrastructure-3a26",
-   "date": "2026-08-26T18:02:23.000Z",
+   "title": "Scroll Endpoint: Chain Settings, RPC URL, and Best Practices",
+   "link": "https://dev.to/onfinality/scroll-endpoint-chain-settings-rpc-url-and-best-practices-1f5j",
+   "date": "2026-08-27T03:05:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I had an EC2 instance running an application. Everything looked fine. Then I changed one Security Group rule. Suddenly… the application couldn't reach the database. The instances were healthy. The database was healthy. C",
+   "summary": "Quick Recommendation: Which Scroll Endpoint Should You Use? If you're building a dApp, running a backend service, or just testing on Scroll, the choice of endpoint can affect your app's reliability and performance. For d",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_destination and logging_collector",
+   "link": "https://postgr.es/p/9th",
+   "date": "2026-08-27T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's logging collector is a small pipe-based daemon that prevents message loss and garbling—but turning it on requires a restart, which you'll want on…",
+   "image": null
+  },
+  {
+   "title": "Qwen3.8-Flash-Next",
+   "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+   "date": "2026-08-26T23:52:58.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which",
+   "image": null
+  },
+  {
+   "title": "Gspikes: Drupal vs WordPress Performance: What Core Web Vitals From 2.9 Million Sites Actually Show",
+   "link": "https://gspikes.com/drupal-vs-wordpress-performance/",
+   "date": "2026-08-26T23:43:38.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We analyzed 79 months of Chrome UX Report field data covering every Drupal and WordPress site Google measures — 2.9 million origins in July 2026 alone. Drupal has led on Core Web Vitals in every single month since 2020, ",
+   "image": null
+  },
+  {
+   "title": "Pavel Stehule: integration Lua to psql II",
+   "link": "https://postgr.es/p/9tg",
+   "date": "2026-08-26T20:34:21.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Ten years ago, I attempted to enhance the \\dt+ command to sort results by size. There were perhaps a hundred discussions, yet no consensus was reached on a new syntax. Eventually, I created the pspg tool, which allows re",
    "image": null
   },
   {
@@ -362,6 +402,16 @@
    "image": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/k8s-v1.37.svg"
   },
   {
+   "title": "Tag1 Insights: A Warm Afterglow from Laracon US 2026",
+   "link": "https://www.tag1.com/blog/laracon-us-2026-recap/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
+   "date": "2026-08-26T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Take Away Moshe Weitzman, Sr. Architect & Project Lead at Tag1 and the first American to contribute to the Drupal platform, attended LaraCon US 2026 in Boston and shares the concrete takeaways. Laracon US came to my home",
+   "image": "https://www.tag1.com/img/blog/akumal-26.jpg"
+  },
+  {
    "title": "EVE Online: The Move to Python 3 Begins!",
    "link": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
    "date": "2026-08-25T22:59:30.000Z",
@@ -462,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Specbee: Are you building a Drupal module that already exists? Meet Module Scout",
-   "link": "https://www.specbee.com/blogs/drupal-module-scout",
-   "date": "2026-08-25T10:21:27.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Building a Drupal module? We built Module Scout that uses AI to search Drupal.org’s live project directory and help you find existing modules before you start from scratch.",
-   "image": null
-  },
-  {
    "title": "Building a Mouse-Following Square Lens Effect with Three.js and GLSL",
    "link": "https://tympanus.net/codrops/2026/08/25/building-a-mouse-following-square-lens-effect-with-three-js-and-glsl/",
    "date": "2026-08-25T10:15:14.000Z",
@@ -499,36 +539,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "On 19 August 2026, the Postgres Meetup for All - Group met online, organized by Elizabeth Christensen. James Nelson and Philip Johnston delivered a talk Hyderabad PGDays 2026 took place from 20-21 August 2026 Organizers:",
-   "image": null
-  },
-  {
-   "title": "Vibhor Kumar: Your PostgreSQL Platform Has Telemetry. Does It Have a Digital Twin?",
-   "link": "https://postgr.es/p/9t6",
-   "date": "2026-08-25T04:09:57.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Beyond observability: building the synchronized, simulatable model AI agents need before they touch production The digital twin you are building may depend on one you have not built yet. Most digital-twin programs begin ",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/08/image-17.png?w=1024"
-  },
-  {
-   "title": "Peoples Blog: If AI Can Build an Application, Why Do We Still Need Software Developers?",
-   "link": "https://peoplesblog.co.in/articles/if-ai-can-build-application-why-do-we-still-need-software-developers/",
-   "date": "2026-08-25T04:09:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "If AI can build an application from a simple description, why do we still need software developers?It is a question I have been thinking about recently. AI can now generate code, create interfaces, work with databases, c",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_checkpoints, log_autovacuum_min_duration, and log_temp_files",
-   "link": "https://postgr.es/p/9t5",
-   "date": "2026-08-25T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "And now, we put on our waders and venture into the swamp that is all of the PostgreSQL logging GUCs. PostgreSQL 8.3 is the release in which the server started doing its own housekeeping in earnest: autovacuum on by defau",
    "image": null
   },
   {
@@ -649,16 +659,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable an",
-   "image": null
-  },
-  {
-   "title": "llm 0.33",
-   "link": "https://simonwillison.net/2026/Aug/22/llm/",
-   "date": "2026-08-22T17:01:16.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped a quick 0.32.1 fix for this yesterday, b",
    "image": null
   },
   {
