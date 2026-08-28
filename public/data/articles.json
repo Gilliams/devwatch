@@ -1,25 +1,195 @@
 {
- "generatedAt": "2026-08-28T01:28:30.715Z",
+ "generatedAt": "2026-08-28T17:25:04.524Z",
  "articles": [
   {
-   "title": "Build a Network Policy Agent: Generate Kubernetes NetworkPolicies from Hubble Flows Without Breaking Prod",
-   "link": "https://dev.to/devtocash/build-a-network-policy-agent-generate-kubernetes-networkpolicies-from-hubble-flows-without-1l3",
-   "date": "2026-08-28T01:13:54.000Z",
+   "title": "OpenTelemetry vs Prometheus: Why You Almost Certainly Need Both",
+   "link": "https://dev.to/mryadavgulshan/opentelemetry-vs-prometheus-why-you-almost-certainly-need-both-2b1a",
+   "date": "2026-08-28T17:23:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Every Kubernetes security checklist — mine included — says \"default-deny NetworkPolicies in ",
+   "summary": "This gets framed as a choice, and it mostly isn't one. They occupy different layers, and a normal production setup runs both. Understanding why saves a lot of wasted migration effort. Prometheus is a metrics database wit",
    "image": null
   },
   {
-   "title": "Why Your DKIM Keys Break Email Deliverability: 5 DNS and Cryptography Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-dkim-keys-break-email-deliverability-5-dns-and-cryptography-traps-every-engineer-hits-anh",
-   "date": "2026-08-28T01:01:17.000Z",
+   "title": "Free Crossfit Timer: what we learned building Random Tactical Timer",
+   "link": "https://dev.to/igorganapolsky/free-crossfit-timer-what-we-learned-building-random-tactical-timer-199o",
+   "date": "2026-08-28T17:20:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DomainKeys Identified Mail (DKIM), standardized in RFC 6376, is a foundational pillar of modern email authentication. It allows sending servers to cryptographically sign outgoing messages with a private key while receivi",
+   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-08-28-free-crossfit-timer-what-we-learned-building-random-tactical-timer.svg"
+  },
+  {
+   "title": "Your Browser Automation Hangs After an Update? Check the Keychain Flags",
+   "link": "https://dev.to/milkyway008/your-browser-automation-hangs-after-an-update-check-the-keychain-flags-341h",
+   "date": "2026-08-28T17:14:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your Browser Automation Started Hanging After an Update? Blame the Keychain If you run browser automation on a Mac or Linux box, you may have hit this one recently: your script worked fine for months, then after a librar",
    "image": null
+  },
+  {
+   "title": "Docker Demystified: The Ultimate Guide to Containers and Architecture",
+   "link": "https://dev.to/bibekkakati/docker-demystified-the-ultimate-guide-to-containers-and-architecture-h18",
+   "date": "2026-08-28T17:08:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you have ever dealt with the nightmare of \"it works on my machine but crashes in production,\" you have felt the pain that containerization was built to solve. This post breaks down exactly what Docker is, how it works",
+   "image": null
+  },
+  {
+   "title": "How Does One Server Find Another Server? DNS, Private DNS, and Service Discovery Explained",
+   "link": "https://dev.to/anik_sikder_313/how-does-one-server-find-another-server-dns-private-dns-and-service-discovery-explained-47ae",
+   "date": "2026-08-28T16:53:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hey developers! 👋 Welcome back to our networking and infrastructure deep-dive series. In the previous article we learned something surprising: Two servers inside AWS, Azure, GCP, or a private datacenter can communicate ",
+   "image": null
+  },
+  {
+   "title": "The Checkbox Was Labeled Security. It Also Said Availability.",
+   "link": "https://dev.to/ntctech/the-checkbox-was-labeled-security-it-also-said-availability-3nn5",
+   "date": "2026-08-28T16:48:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The AWS CloudFront outage on July 16 exposed a security reliability tradeoffs problem that most cloud architecture teams have never priced: the feature you enable for its security benefit can quietly carry a reliability ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy5gv1b641se0rufleh72.jpg"
+  },
+  {
+   "title": "Twelve of the Twenty-Four Sandbox Settings Do More Harm Than Having No Sandbox At All",
+   "link": "https://dev.to/dev48v/twelve-of-the-twenty-four-sandbox-settings-do-more-harm-than-having-no-sandbox-at-all-2oob",
+   "date": "2026-08-28T16:47:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Arc Ops Level 5 is sandboxing: what an agent can reach on the day it is wrong. 24 hand-written jobs × 40 trials = 960 task-runs, swept across all 24 allow-list widths. Escapes are 0 at every width. The boundary genuinely",
+   "image": null
+  },
+  {
+   "title": "The tar Path Limit Is Not 255 Bytes, and the Wrong Number Scores Better Than the Right One",
+   "link": "https://dev.to/dev48v/the-tar-path-limit-is-not-255-bytes-and-the-wrong-number-scores-better-than-the-right-one-j9b",
+   "date": "2026-08-28T16:44:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Everyone knows a tar path is capped somewhere near 255 bytes. Almost nobody knows the cap is not the rule. ustar stores a path in two fields: name (100 bytes) and prefix (155). They are joined by a slash that is never st",
+   "image": null
+  },
+  {
+   "title": "Mike Herchel's Blog: It’s time to prepare your Drupal modules for Admin’s dark mode",
+   "link": "https://herchel.com/articles/its-time-prepare-your-drupal-modules-admins-dark-mode",
+   "date": "2026-08-28T16:04:15.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "It’s time to prepare your Drupal modules for Admin’s dark mode mherchel Fri, 08/28/2026 - 12:04",
+   "image": null
+  },
+  {
+   "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+   "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+   "date": "2026-08-28T15:27:26.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
+  },
+  {
+   "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+   "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+   "date": "2026-08-28T12:07:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Loco",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg"
+  },
+  {
+   "title": "Umair Shahid: How Fast Should You Patch Production PostgreSQL?",
+   "link": "https://postgr.es/p/9ts",
+   "date": "2026-08-28T11:41:21.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On August 13, 2026, PostgreSQL shipped its biggest security release ever: 28 CVEs closed in a single day. The old record was 11. The community has done its job, a phenomenal one at that! If you run PostgreSQL for critica",
+   "image": "http://stormatics.tech/wp-content/uploads/2026/08/blog.png"
+  },
+  {
+   "title": "Key Reasons Why Identity Fabric Matters in 2026",
+   "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+   "date": "2026-08-28T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg"
+  },
+  {
+   "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+   "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+   "date": "2026-08-28T11:20:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg"
+  },
+  {
+   "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+   "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+   "date": "2026-08-28T10:58:29.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg"
+  },
+  {
+   "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+   "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+   "date": "2026-08-28T09:45:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1600/cpanel-root.jpg"
+  },
+  {
+   "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+   "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+   "date": "2026-08-28T08:25:36.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s1600/papercut.jpg"
+  },
+  {
+   "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+   "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+   "date": "2026-08-28T08:20:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Reco",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg"
+  },
+  {
+   "title": "Pessimistic Locking in Laravel Eloquent with refreshForUpdate()",
+   "link": "https://laravel-news.com/laravel-refresh-for-update?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-28T01:55:47.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.27 adds refreshForUpdate() to Eloquent, reloading a model under lockForUpdate() so you can take a pessimistic lock without requerying by key. The post Pessimistic Locking in Laravel Eloquent with refreshForUpd",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-refreshForUpdate-featured.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_directory, log_filename, and log_file_mode",
@@ -32,64 +202,24 @@
    "image": null
   },
   {
-   "title": "# Software Ate the World. Now the World Is Running on It.",
-   "link": "https://dev.to/t474r0b07/-software-ate-the-world-now-the-world-is-running-on-it-1a6a",
-   "date": "2026-08-28T01:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In 2011, Marc Andreessen published a sentence that would become almost a description of the technological era that followed: software is eating the world. His argument was relatively simple. More and more industries were",
-   "image": null
+   "title": "Mikhail Shytsko: The Dump That Breaks Its Own Restore",
+   "link": "https://postgr.es/p/9tt",
+   "date": "2026-08-28T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A pg_dump data-only restore into a fresh, empty copy of the schema is the safest-sounding restore in PostgreSQL, since there is not a single row in the target for the incoming data to collide with. It stops anyway, on a ",
+   "image": "https://seedfa.st/blog/pg-dump-data-only-restore-2.svg"
   },
   {
-   "title": "Why Your HSTS Configuration Breaks Production: 5 Strict-Transport-Security Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-hsts-configuration-breaks-production-5-strict-transport-security-traps-every-engineer-hits-2ecl",
-   "date": "2026-08-28T00:31:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "HTTP Strict Transport Security (HSTS) is one of the most effective defenses against SSL-stripping attacks and accidental plaintext cookie leaks. Implementing it seems straightforward—you inject a single response header: ",
-   "image": null
-  },
-  {
-   "title": "Real‑Time KPI Dashboard, Priority‑Action Strip & Docker Healthcheck Fix in a Vite‑React / NestJS Monorepo",
-   "link": "https://dev.to/zaerohell/real-time-kpi-dashboard-priority-action-strip-docker-healthcheck-fix-in-a-vite-react-nestjs-42lf",
-   "date": "2026-08-28T00:11:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Real‑Time KPI Dashboard, Priority‑Action Strip & Docker Healthcheck Fix in a Vite‑React / NestJS Monorepo TL;DR: I fixed a flaky Docker healthcheck that was resolving localhost to IPv6, added a new KPI endpoint for condo",
-   "image": null
-  },
-  {
-   "title": "Building Reliable Developer Platforms with Offshore Teams: What Actually Works and What Fails",
-   "link": "https://dev.to/offshoredev/building-reliable-developer-platforms-with-offshore-teams-what-actually-works-and-what-fails-4f38",
-   "date": "2026-08-28T00:10:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Platform engineering has transitioned from industry hype into a legitimate operational investment. The 2024 State of Internal Developer Portals report shows that about half of enterprises already have an internal develop",
-   "image": null
-  },
-  {
-   "title": "Why Your SSL/TLS Certificate Auto-Renewal Failed: 5 CAA DNS Record Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-ssltls-certificate-auto-renewal-failed-5-caa-dns-record-traps-every-engineer-hits-2ec1",
-   "date": "2026-08-28T00:01:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Few production incidents are as frustrating as waking up to expired SSL/TLS certificates while automated Certbot or AWS ACM renewal logs output: urn:ietf:params:acme:error:caa :: CAA record for api.internal.example.com p",
-   "image": null
-  },
-  {
-   "title": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky (Escape Pi-Hole's Limits)",
-   "link": "https://dev.to/enfernandes/self-hosted-dns-ad-blocking-in-2026-pi-hole-vs-adguard-home-vs-blocky-escape-pi-holes-limits-17ci",
-   "date": "2026-08-28T00:00:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky Every device in your home — phones, smart TVs, IoT thermostats, gaming consoles — phones home to ad networks, telemetry endpoints, and tracking pixel",
-   "image": null
+   "title": "Mask Query Bindings in Laravel Exception Messages",
+   "link": "https://laravel-news.com/laravel-mask-query-bindings?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-27T23:33:55.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.27 adds a per-connection option that keeps query bindings out of QueryException messages, so customer data stops reaching logs and APM tools. The post Mask Query Bindings in Laravel Exception Messages appeared",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/mask-query-bindings-featured.png"
   },
   {
    "title": "Breaking Claude Code Opus 5 Auto Mode",
@@ -99,6 +229,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default a",
+   "image": null
+  },
+  {
+   "title": "PHP 8.5.10 Released!",
+   "link": "https://www.php.net/index.php#2026-08-27-3",
+   "date": "2026-08-27T22:44:37.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.5.10. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.10 please visit our , W",
    "image": null
   },
   {
@@ -122,14 +262,14 @@
    "image": null
   },
   {
-   "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-   "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-   "date": "2026-08-27T18:36:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg"
+   "title": "Kubernetes v1.37: Metrics API graduates to stable",
+   "link": "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/",
+   "date": "2026-08-27T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes v1.37 promotes the metrics.k8s.io API to stable (v1). This API provides CPU and memory usage for nodes and Pods, and is the API behind commands such as kubectl top and resource-metrics-based autoscaling. For c",
+   "image": null
   },
   {
    "title": "LakeDrops Drupal Consulting, Development and Hosting: Six Small ECA Models That Make Drupal Editors Happy",
@@ -142,24 +282,14 @@
    "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-08/justin-morgan-bVoUMGH5gBY-unsplash.jpg?h=78c8779c&amp;itok=L4q6k-Z5"
   },
   {
-   "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-   "date": "2026-08-27T15:13:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially craft",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYbQmCgjQOeGU5sXrRRnYNbfxDed_Evv1vYrDL4L4NOguQ5wIxE6glQW7yQvhR1Dzs4Gbddc2ktadXWc2VkaGHE4pvMmjaXHMRuepjwrzefXNHb6B3Shk51VRBQw0etS5WWsS9JuNN4q_Y8lDSFtzKNEgi2X-NvAllwzw5_03HwGdC7iNJc6METEjcUNc/s1600/nodejs.gif"
-  },
-  {
-   "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-   "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-   "date": "2026-08-27T15:12:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traf",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1600/threats.jpg"
+   "title": "PHP 8.4.25 Released!",
+   "link": "https://www.php.net/index.php#2026-08-27-2",
+   "date": "2026-08-27T14:59:19.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.25. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.25 please visit our , W",
+   "image": null
   },
   {
    "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
@@ -170,16 +300,6 @@
    "source": "CSS-Tricks",
    "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
    "image": null
-  },
-  {
-   "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-   "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-   "date": "2026-08-27T13:39:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUdyQnHdjoEXFnc-5nB-6oglAbvpOYwuWqfjYkgeKH6HaqUjosKOHhmEQ_7StMkMBv53gz27Ilg-15yRaQ-hxoYi0ASuRMOCuPTHa8gP6a6PzYSewTWsDkKAx8dsMByZXDYDlRE1wRYoCvE7NuYqXdCpZ8_Y4E4tAUy0SBFl0S_XxLvpnjFRbqat0EwggW/s1600/kiro-amazon.jpg"
   },
   {
    "title": "Benchmarking vector indexes",
@@ -222,36 +342,6 @@
    "image": null
   },
   {
-   "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-   "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-   "date": "2026-08-27T11:56:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg"
-  },
-  {
-   "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-   "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-   "date": "2026-08-27T11:56:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6Ze_JyLo4PQxJMbwu8Mn_aCoLWiD2dgbGmzOPcYcdrN8wunKZu2SZll2fiHcAOFoA0h9N5TYPOY_IvrPpGqTpnXdyd5bXHRtyHqb3t3junXDMotOAD43Y0jzA9wkCSjoOIo1knFjtTVRAeOSjpHqLzfMGceCcHYGb6cE1HD-Y5mtY9hyphenhyphenHT9PeUk3TV68/s1600/TeamPCP-arrest.gif"
-  },
-  {
-   "title": "What the Data Says About AI in Security Operations in 2026",
-   "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-   "date": "2026-08-27T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg"
-  },
-  {
    "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
    "link": "https://tympanus.net/codrops/2026/08/27/goodgrowth-boot-sequences-spinning-discs-and-the-art-of-the-portfolio/",
    "date": "2026-08-27T11:26:31.000Z",
@@ -262,14 +352,24 @@
    "image": null
   },
   {
-   "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-   "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-   "date": "2026-08-27T11:00:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
+   "title": "PHP 8.6.0 Beta 2 available for testing",
+   "link": "https://www.php.net/index.php#2026-08-27-1",
+   "date": "2026-08-27T10:55:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce a new beta release of PHP 8.6.0, Beta 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 2 ple",
+   "image": null
+  },
+  {
+   "title": "semab tariq: How to Calculate Fillfactor for Your Tables",
+   "link": "https://postgr.es/p/9tr",
+   "date": "2026-08-27T08:51:42.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A small setting most teams either ignore or guess at. Here’s the quick version, then the full breakdown. Key Takeaways Fillfactor sets how full Postgres packs each table page on write, leaving the rest as free space for ",
+   "image": null
   },
   {
    "title": "Specbee: 16 Drupal AI modules that can make your website smarter",
@@ -352,16 +452,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: DrupalCamp Colorado 2026 Puts Long-Term Drupal Practice in Focus",
-   "link": "https://www.thedroptimes.com/71923/drupalcamp-colorado-2026-governance-entity-share?utm_source=Drupal Planet",
-   "date": "2026-08-26T14:59:19.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A training day can introduce a workflow. Thursday's speakers are asking what happens when Drupal systems must survive staff turnover or move content safely between environments.",
-   "image": null
-  },
-  {
    "title": "Compile PHP to Native Binaries with TypePHP",
    "link": "https://laravel-news.com/typephp-compile-php-native-binaries?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-26T14:58:07.000Z",
@@ -432,36 +522,6 @@
    "image": null
   },
   {
-   "title": "Query Binding Masking and whereBinary() in Laravel 13.27",
-   "link": "https://laravel-news.com/laravel-13-27-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-26T02:48:16.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.27 masks query bindings in exception messages, adds whereBinary() for case-sensitive lookups, refreshForUpdate(), and a Cloud facade. The post Query Binding Masking and whereBinary() in Laravel 13.27 appeared ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
-   "title": "Testing Best Practices Skill in Laravel Boost v2.6.0",
-   "link": "https://laravel-news.com/laravel-boost-2-6-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-26T02:29:03.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Boost v2.6.0 introduces a consolidated testing best practices skill for AI agents, database-enforced read-only transactions, and skill management improvements. The post Testing Best Practices Skill in Laravel Boo",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/boost.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_connections, log_disconnections, and log_hostname",
-   "link": "https://postgr.es/p/9td",
-   "date": "2026-08-26T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 18 adds granular connection logging.",
-   "image": null
-  },
-  {
    "title": "The asteroid hitting frontend development",
    "link": "https://frontendfoc.us/issues/755",
    "date": "2026-08-26T00:00:00.000Z",
@@ -479,26 +539,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Alexey Evlampiev: Your Deployment Is a PostgreSQL Program",
-   "link": "https://postgr.es/p/9tm",
-   "date": "2026-08-26T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Your Deployment Is a PostgreSQL Program# Every migration tool is a program that executes your SQL. Invert the control flow and deployment policy becomes SQL the project owns. By Alexey Evlampiev Abstract. Every team that",
-   "image": null
-  },
-  {
-   "title": "Ismaël Mejía: MongoDB on PostgreSQL: DocumentDB with pglayers-azure",
-   "link": "https://postgr.es/p/9te",
-   "date": "2026-08-26T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "DocumentDB is a MongoDB-compatible document database built on PostgreSQL. It adds the BSON data type and a full CRUD API to Postgres, and ships a gateway that speaks the MongoDB wire protocol -- so existing MongoDB clien",
    "image": null
   },
   {
@@ -589,6 +629,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A step-by-step tutorial on using Three.js and GLSL to create a mouse-following square lens effect with image distortion, RGB shifting, and animated shader effects.",
+   "image": null
+  },
+  {
+   "title": "Last Call for the State of PHP Survey",
+   "link": "https://www.php.net/index.php#2026-08-25-1",
+   "date": "2026-08-25T08:38:33.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
    "image": null
   },
   {
@@ -1112,36 +1162,6 @@
    "image": null
   },
   {
-   "title": "PHP 8.6.0 Alpha 3 available for testing",
-   "link": "https://www.php.net/index.php#2026-07-30-3",
-   "date": "2026-07-30T13:24:32.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 3. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.9 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-2",
-   "date": "2026-07-30T11:38:53.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.9. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.9 please visit our , Wi",
-   "image": null
-  },
-  {
-   "title": "PHP 8.2.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-1",
-   "date": "2026-07-30T11:00:24.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.2.33. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.33 please visit our , ",
-   "image": null
-  },
-  {
    "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
    "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
    "date": "2026-07-29T18:00:00.000Z",
@@ -1170,16 +1190,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​752 — July 29, 2026 | Read on the web WOFF 1.0 at 16: The Format That Made Web Fonts Work — Did you know @font-face was adopted into CSS2 in 1998? But it sat largely unused amid fights over licensing,",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
-  },
-  {
-   "title": "PHP 8.6.0 Alpha 2 available for testing",
-   "link": "https://www.php.net/index.php#2026-07-16-1",
-   "date": "2026-07-16T13:28:29.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
-   "image": null
   },
   {
    "title": "Building a Custom Metrics Exporter for Kubernetes",
