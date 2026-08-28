@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-08-27T16:28:28.111Z",
+ "generatedAt": "2026-08-28T01:28:30.715Z",
  "articles": [
   {
-   "title": "The LLM Isn't Your Attacker. Your eval() Statement Is.",
-   "link": "https://dev.to/coridev/the-llm-isnt-your-attacker-your-eval-statement-is-2clp",
-   "date": "2026-08-27T16:18:34.000Z",
+   "title": "Build a Network Policy Agent: Generate Kubernetes NetworkPolicies from Hubble Flows Without Breaking Prod",
+   "link": "https://dev.to/devtocash/build-a-network-policy-agent-generate-kubernetes-networkpolicies-from-hubble-flows-without-1l3",
+   "date": "2026-08-28T01:13:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Everyone's worried about prompt injection making models say bad things. Meanwhile someone piped LLM output straight into eval() and gave it a GPU box to play with. That's not an AI safety problem. That's a 2005 problem w",
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Every Kubernetes security checklist — mine included — says \"default-deny NetworkPolicies in ",
    "image": null
   },
   {
-   "title": "Build an MCP Server in Go (Part 3): How IRSA and EKS Pod Identity Actually Work",
-   "link": "https://dev.to/ferztyle/build-an-mcp-server-in-go-part-3-how-irsa-and-eks-pod-identity-actually-work-45gk",
-   "date": "2026-08-27T16:14:57.000Z",
+   "title": "Why Your DKIM Keys Break Email Deliverability: 5 DNS and Cryptography Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-dkim-keys-break-email-deliverability-5-dns-and-cryptography-traps-every-engineer-hits-anh",
+   "date": "2026-08-28T01:01:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Everything the MCP server could check through Part 2 lives inside the cluster. But \"my pod can't reach S3\" is very often not a Kubernetes problem at all, it's a workload identity problem, and that identity lives partly o",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi8gv2qetmfa88nbyuywf.png"
-  },
-  {
-   "title": "Nvidia Just Agreed to Buy Hugging Face for $12.9 Billion. Here's What Java Developers Should Actually Do",
-   "link": "https://dev.to/jamilxt/nvidia-just-agreed-to-buy-hugging-face-for-129-billion-heres-what-java-developers-should-1f43",
-   "date": "2026-08-27T16:03:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I was halfway through a pull request review this morning when my feed lit up. Nvidia has agreed to buy Hugging Face for $12.9 billion, according to The Information, and the story hit number one on Hacker News within hour",
+   "summary": "DomainKeys Identified Mail (DKIM), standardized in RFC 6376, is a foundational pillar of modern email authentication. It allows sending servers to cryptographically sign outgoing messages with a private key while receivi",
    "image": null
   },
   {
-   "title": "I Built a CLI to Answer One Question: What Will This Change Break?",
-   "link": "https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o",
-   "date": "2026-08-27T16:03:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "We've all been there. You open a repository, change a file that looks completely harmless, run the tests, and open a pull request. Then someone comments: “Careful. That module is also used by the billing pipeline.” Or wo",
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_directory, log_filename, and log_file_mode",
+   "link": "https://postgr.es/p/9tq",
+   "date": "2026-08-28T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "All three of these do nothing unless logging_collector is on; they describe the files the collector writes. Where, what they’re called, and who can read them. The defaults for all three are fine for a laptop and wrong fo",
    "image": null
   },
   {
-   "title": "We shipped two context-engineering features in one afternoon. We reverted them by dinner.",
-   "link": "https://dev.to/pm25coder/we-shipped-two-context-engineering-features-in-one-afternoon-we-reverted-them-by-dinner-jdk",
-   "date": "2026-08-27T16:02:21.000Z",
+   "title": "# Software Ate the World. Now the World Is Running on It.",
+   "link": "https://dev.to/t474r0b07/-software-ate-the-world-now-the-world-is-running-on-it-1a6a",
+   "date": "2026-08-28T01:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On 2026-08-22 the agent harness I work on shipped two \"smarter context\" features within five hours of each other. Both were reverted before the day was over. This is the honest version of that afternoon, because the same",
+   "summary": "In 2011, Marc Andreessen published a sentence that would become almost a description of the technological era that followed: software is eating the world. His argument was relatively simple. More and more industries were",
    "image": null
   },
   {
-   "title": "Build a System Monitor Dashboard with Python",
-   "link": "https://dev.to/qingluan/build-a-system-monitor-dashboard-with-python-2nj2",
-   "date": "2026-08-27T16:00:57.000Z",
+   "title": "Why Your HSTS Configuration Breaks Production: 5 Strict-Transport-Security Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-hsts-configuration-breaks-production-5-strict-transport-security-traps-every-engineer-hits-2ecl",
+   "date": "2026-08-28T00:31:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a System Monitor Dashboard with Python tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tags: python, devops, monitoring, tutorial tag",
+   "summary": "HTTP Strict Transport Security (HSTS) is one of the most effective defenses against SSL-stripping attacks and accidental plaintext cookie leaks. Implementing it seems straightforward—you inject a single response header: ",
    "image": null
   },
   {
-   "title": "How to Host OpenClaw for Multiple Clients in Production",
-   "link": "https://dev.to/moltednet/how-to-host-openclaw-for-multiple-clients-in-production-51oc",
-   "date": "2026-08-27T15:39:55.000Z",
+   "title": "Real‑Time KPI Dashboard, Priority‑Action Strip & Docker Healthcheck Fix in a Vite‑React / NestJS Monorepo",
+   "link": "https://dev.to/zaerohell/real-time-kpi-dashboard-priority-action-strip-docker-healthcheck-fix-in-a-vite-react-nestjs-42lf",
+   "date": "2026-08-28T00:11:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The first OpenClaw deployment is usually straightforward. You provision a machine, configure one agent, connect a few tools, and watch it complete a real task. If something breaks, you inspect the logs, fix the configura",
+   "summary": "Real‑Time KPI Dashboard, Priority‑Action Strip & Docker Healthcheck Fix in a Vite‑React / NestJS Monorepo TL;DR: I fixed a flaky Docker healthcheck that was resolving localhost to IPv6, added a new KPI endpoint for condo",
    "image": null
   },
   {
-   "title": "How Do Agile and DevOps Interrelate? (2026 Guide)",
-   "link": "https://dev.to/kiran_sonawane/how-do-agile-and-devops-interrelate-2026-guide-4fo5",
-   "date": "2026-08-27T15:24:35.000Z",
+   "title": "Building Reliable Developer Platforms with Offshore Teams: What Actually Works and What Fails",
+   "link": "https://dev.to/offshoredev/building-reliable-developer-platforms-with-offshore-teams-what-actually-works-and-what-fails-4f38",
+   "date": "2026-08-28T00:10:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If your development team is shipping code in weekly Agile sprints, but your operations team takes a month to deploy it, your Agile process is broken. The speed of Agile means absolutely nothing without the automation of ",
+   "summary": "Platform engineering has transitioned from industry hype into a legitimate operational investment. The 2024 State of Internal Developer Portals report shows that about half of enterprises already have an internal develop",
    "image": null
+  },
+  {
+   "title": "Why Your SSL/TLS Certificate Auto-Renewal Failed: 5 CAA DNS Record Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-your-ssltls-certificate-auto-renewal-failed-5-caa-dns-record-traps-every-engineer-hits-2ec1",
+   "date": "2026-08-28T00:01:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Few production incidents are as frustrating as waking up to expired SSL/TLS certificates while automated Certbot or AWS ACM renewal logs output: urn:ietf:params:acme:error:caa :: CAA record for api.internal.example.com p",
+   "image": null
+  },
+  {
+   "title": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky (Escape Pi-Hole's Limits)",
+   "link": "https://dev.to/enfernandes/self-hosted-dns-ad-blocking-in-2026-pi-hole-vs-adguard-home-vs-blocky-escape-pi-holes-limits-17ci",
+   "date": "2026-08-28T00:00:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Self-Hosted DNS Ad-Blocking in 2026: Pi-hole vs AdGuard Home vs Blocky Every device in your home — phones, smart TVs, IoT thermostats, gaming consoles — phones home to ad networks, telemetry endpoints, and tracking pixel",
+   "image": null
+  },
+  {
+   "title": "Breaking Claude Code Opus 5 Auto Mode",
+   "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+   "date": "2026-08-27T22:50:25.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default a",
+   "image": null
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #567 - Common Vulnerabilities & Exposures",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-567-common-vulnerabilities-exposures",
+   "date": "2026-08-27T20:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Security, Vulnerabilities, and how to avoid exposure with guest Dave Welch. We'll also cover Security Scanner as our module of the week. For show notes visit: https://www.talkingDrupal.com/567 ",
+   "image": null
+  },
+  {
+   "title": "Dries Buytaert: Open Source is a cost-allocation system",
+   "link": "https://dri.es/open-source-is-a-cost-allocation-system",
+   "date": "2026-08-27T19:21:42.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Open Source is usually described as a licensing model, a development model, or a production model. All three descriptions are useful, but they leave something out. Every Open Source ecosystem is also a cost-allocation sy",
+   "image": null
+  },
+  {
+   "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+   "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+   "date": "2026-08-27T18:36:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpo4ImsmaHcawsJN9e4E5SzjUF-nbgOxCyybx3DIguSY_exMP1jhR2BZJ3yE2ZqGOE5c6_NvldW6id4Nm_NgcVrrRPALnw1fNbiisTiy8QFiIKriNiWRq6JMb5QcQTcDBaV_T3r6QYR9VC_FwtLg-G6lSYNM0F3n7q_HXI7aScGzMNB-OwLs6U9iqdk7Gs/s1600/openai.jpg"
+  },
+  {
+   "title": "LakeDrops Drupal Consulting, Development and Hosting: Six Small ECA Models That Make Drupal Editors Happy",
+   "link": "https://www.lakedrops.com/en/blog/six-small-eca-models-make-drupal-editors-happy",
+   "date": "2026-08-27T15:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Six Small ECA Models That Make Drupal Editors Happy Jürgen Haas Thu 27 Aug 2026 - 17:30 This article introduces six new ECA Guide library recipes that improve the Drupal content editing experience through small, focused ",
+   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-08/justin-morgan-bVoUMGH5gBY-unsplash.jpg?h=78c8779c&amp;itok=L4q6k-Z5"
+  },
+  {
+   "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+   "date": "2026-08-27T15:13:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially craft",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYbQmCgjQOeGU5sXrRRnYNbfxDed_Evv1vYrDL4L4NOguQ5wIxE6glQW7yQvhR1Dzs4Gbddc2ktadXWc2VkaGHE4pvMmjaXHMRuepjwrzefXNHb6B3Shk51VRBQw0etS5WWsS9JuNN4q_Y8lDSFtzKNEgi2X-NvAllwzw5_03HwGdC7iNJc6METEjcUNc/s1600/nodejs.gif"
+  },
+  {
+   "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+   "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+   "date": "2026-08-27T15:12:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traf",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1600/threats.jpg"
   },
   {
    "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
@@ -192,36 +272,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg"
   },
   {
-   "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-   "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-   "date": "2026-08-27T09:33:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
-  },
-  {
-   "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-   "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-   "date": "2026-08-27T08:13:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables de",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg"
-  },
-  {
-   "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-   "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-   "date": "2026-08-27T07:05:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetSca",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg"
-  },
-  {
    "title": "Specbee: 16 Drupal AI modules that can make your website smarter",
    "link": "https://www.specbee.com/blogs/drupal-ai-modules-for-smarter-website",
    "date": "2026-08-27T06:25:02.000Z",
@@ -332,16 +382,6 @@
    "image": "https://github.com/Kocal.png"
   },
   {
-   "title": "Omega8.cc: Drupal CMS Runs on Ægir",
-   "link": "https://omega8.cc/blog/drupal-cms-runs-on-aegir",
-   "date": "2026-08-26T14:10:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Waiting for your hosting panel to grow a Drupal CMS platform? The wait ended in late 2025: it has been running on Ægir for many months, rebuilt from the upstream Composer template as BOA releases ship, tracking the versi",
-   "image": null
-  },
-  {
    "title": "Navigating the Walled Gardens of PostgreSQL: Hidden Risks of Postgres Vendor Lock-in",
    "link": "https://www.percona.com/blog/migrating-postgres-solving-a-puzzle-that-shouldnt-be-hard/",
    "date": "2026-08-26T14:07:50.000Z",
@@ -370,26 +410,6 @@
    "source": "Planet PostgreSQL",
    "summary": "📌 Overview We recently switched to version 7 (v7) uuid primary keys and saw significantly faster inserts for some tables. The databases were running Postgres 18.4 and mostly used v1 with some v4 uuid values for primary ",
    "image": "https://andyatkinson.com/assets/images/uuidv7-4-table-do-pganalyze.jpg"
-  },
-  {
-   "title": "Stuart Clark (Deciphered): Drupal site settings over JSON:API, per consumer",
-   "link": "https://stuar.tc/writing/drupal-site-settings-over-jsonapi-consumer-20260826?utm_source=planet-drupal&utm_medium=rss&utm_campaign=syndication",
-   "date": "2026-08-26T09:20:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "In April 2022 I wrote about decoupling configuration with Config Pages, and ended it with a guess at where I'd go next: One of my future experiments with Druxt will be to look at the options of using the Drupal Consumers",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Finding related posts with embeddings",
-   "link": "https://dri.es/finding-related-posts-with-embeddings",
-   "date": "2026-08-26T08:40:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "I added a new feature to my blog: a list of related posts at the bottom of each post. I implemented it using embeddings, and this note documents how. I looked at how other content management systems identify related post",
-   "image": null
   },
   {
    "title": "Quoting Paul Dix",
@@ -512,16 +532,6 @@
    "image": null
   },
   {
-   "title": "Hubert 'depesz' Lubaczewski: New things for regular expressions in PostgreSQL (pg_tre and pg_re2)",
-   "link": "https://postgr.es/p/9tb",
-   "date": "2026-08-25T18:41:53.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Well, truth be told these are not all that new (couple of months), but I finally have gotten around to research it. So, let's see what's what. For starters I need some test data. Luckily, I have explain.depesz.com DB… Ex",
-   "image": null
-  },
-  {
    "title": "Software Bill of Materials in Percona Server for MongoDB",
    "link": "https://www.percona.com/blog/software-bill-of-materials-in-percona-server-for-mongodb/",
    "date": "2026-08-25T15:25:47.000Z",
@@ -579,16 +589,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A step-by-step tutorial on using Three.js and GLSL to create a mouse-following square lens effect with image distortion, RGB shifting, and animated shader effects.",
-   "image": null
-  },
-  {
-   "title": "Last Call for the State of PHP Survey",
-   "link": "https://www.php.net/index.php#2026-08-25-1",
-   "date": "2026-08-25T08:38:33.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
    "image": null
   },
   {
@@ -699,16 +699,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony 6.4.44, Symfony 7.4.17 and Symfony 8.1.5 maintenance versions were released. In addition, we introduced Symfony Language Tools, the official Symfony LSP server. Finally, we started experimenting with i",
-   "image": null
-  },
-  {
-   "title": "Quoting Linus Torvalds",
-   "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-   "date": "2026-08-22T21:04:26.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable an",
    "image": null
   },
   {
@@ -1182,6 +1172,16 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
   },
   {
+   "title": "PHP 8.6.0 Alpha 2 available for testing",
+   "link": "https://www.php.net/index.php#2026-07-16-1",
+   "date": "2026-07-16T13:28:29.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the second testing release of PHP 8.6.0, Alpha 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 A",
+   "image": null
+  },
+  {
    "title": "Building a Custom Metrics Exporter for Kubernetes",
    "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
    "date": "2026-07-14T18:00:00.000Z",
@@ -1189,26 +1189,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
-  },
-  {
-   "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
-   "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/",
-   "date": "2026-07-13T20:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML",
-   "image": null
-  },
-  {
-   "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
-   "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/",
-   "date": "2026-07-13T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to conne",
    "image": null
   }
  ]
