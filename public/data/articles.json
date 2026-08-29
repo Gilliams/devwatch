@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-08-29T04:07:40.335Z",
+ "generatedAt": "2026-08-29T11:38:38.823Z",
  "articles": [
   {
-   "title": "Finding Exposed Services (and Fixing Them) with ScanSearch",
-   "link": "https://dev.to/devyjones/finding-exposed-services-and-fixing-them-with-scansearch-c2",
-   "date": "2026-08-29T04:00:14.000Z",
+   "title": "Anthropic's AI-Native SDLC Has Three Controls. It's Missing a Fourth.",
+   "link": "https://dev.to/mnemehq/anthropics-ai-native-sdlc-has-three-controls-its-missing-a-fourth-5254",
+   "date": "2026-08-29T11:28:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ever wondered what parts of your infrastructure are accidentally visible to the entire internet? It's a common blind spot. We spend a lot of time securing applications and servers, but sometimes a misconfigured port or a",
+   "summary": "Anthropic published an AI-Native SDLC playbook last week. Its central claim: code generation is no longer the slow part of delivery. The stages around it, planning, review, security sign-off, release, still run at human ",
    "image": null
   },
   {
-   "title": "Kubernetes: A Practical Guide to Container Orchestration (2026-08-29 03:25)",
-   "link": "https://dev.to/said_olano/kubernetes-a-practical-guide-to-container-orchestration-2026-08-29-0325-6ek",
-   "date": "2026-08-29T03:25:05.000Z",
+   "title": "Workshop: Test Your AI Reviewer With a 15-Case Golden Set in 60 Minutes",
+   "link": "https://dev.to/gitgo_1900/workshop-test-your-ai-reviewer-with-a-15-case-golden-set-in-60-minutes-466",
+   "date": "2026-08-29T10:45:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Kubernetes: Container Orchestration Modern applications are increasingly built as collections of containerized services. While containers solve the problem of packaging and running software consistently, they introduce a",
+   "summary": "Every team that adds an AI code reviewer gains a new reviewer, but almost nobody adds a test for that reviewer. A golden set of fifteen real review cases, scored against a small rubric, is enough to catch the regressions",
    "image": null
   },
   {
-   "title": "GitHub Copilot Spending Limit: How to Set It, What It Caps",
-   "link": "https://dev.to/rebeca_vb/github-copilot-spending-limit-how-to-set-it-what-it-caps-288k",
-   "date": "2026-08-29T03:24:23.000Z",
+   "title": "Your AI Reviewer Needs a Baseline: A Zero-Cost Patch Audit Loop",
+   "link": "https://dev.to/hackcpp_3619/your-ai-reviewer-needs-a-baseline-a-zero-cost-patch-audit-loop-34io",
+   "date": "2026-08-29T10:41:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A GitHub Copilot spending limit is a monthly budget, set in billing settings, that caps metered AI credit consumption for an enterprise, an organization, a cost center, or a single user. Creating one takes about two minu",
+   "summary": "Your AI Reviewer Needs a Baseline: A Zero-Cost Patch Audit Loop Reviewing is the new bottleneck. Generated code passes through more reviews than ever, and the reviewer's own accuracy stays unmeasured. A model that genera",
    "image": null
   },
   {
-   "title": "Enrollment PDFs on a Deletion Clock: Private Object Storage and Expiring Download URLs",
-   "link": "https://dev.to/elvrythn486209/enrollment-pdfs-on-a-deletion-clock-private-object-storage-and-expiring-download-urls-446d",
-   "date": "2026-08-29T03:12:18.000Z",
+   "title": "The First Hour: An On-Call SOP for AI-Generated Code",
+   "link": "https://dev.to/techlab_7968/the-first-hour-an-on-call-sop-for-ai-generated-code-1033",
+   "date": "2026-08-29T10:40:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Use a private bucket, a presigned GET URL that expires in minutes, and a lifecycle rule that deletes the object on a schedule you can defend in a compliance review. Permanent public links are the export failure I actuall",
+   "summary": "Most teams plan for smooth AI handoffs. Almost none plan for the broken one. This article defines a sixty-minute playbook for AI changes that fail in production. Every step fits on one page. Teams can rehearse it with fr",
    "image": null
   },
   {
-   "title": "What To Build Before You Leave An Agent Running Overnight",
-   "link": "https://dev.to/paulcrinigan/what-to-build-before-you-leave-an-agent-running-overnight-fdi",
-   "date": "2026-08-29T02:59:48.000Z",
+   "title": "A Decoy-PR Test for AI Reviewer Candidates: Prompt, Rubric, and a Free-Server Reference Setup",
+   "link": "https://dev.to/appjs_3979/a-decoy-pr-test-for-ai-reviewer-candidates-prompt-rubric-and-a-free-server-reference-setup-3062",
+   "date": "2026-08-29T10:35:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Getting an agent to work once is a demo. Getting it to keep working while you are asleep is a different engineering problem, and the gap between the two is mostly made of things that are boring to build. Three of them co",
+   "summary": "Most AI reviewer evaluations measure how much a model writes, yet the stronger measurement is how often it stays silent. A take-home task that plants one real bug, one dangerous-looking decoy, and one instruction-injecti",
    "image": null
   },
   {
-   "title": "One Open Source Project a Day (No. 165): ntfy — Push Notifications with a Single curl",
-   "link": "https://dev.to/wonderlab/one-open-source-project-a-day-no-165-ntfy-push-notifications-with-a-single-curl-3fi2",
-   "date": "2026-08-29T02:42:24.000Z",
+   "title": "Tried `tt-a1i/archify`: A Practical Diagram Agent for AI Teams",
+   "link": "https://dev.to/james_lin/tried-tt-a1iarchify-a-practical-diagram-agent-for-ai-teams-1be0",
+   "date": "2026-08-29T10:30:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction \"Push notifications without complexity.\" This is the 165th article in the \"One Open Source Project a Day\" series. Today's project is ntfy (pronounced \"notify\"). You have probably run into this situation befo",
+   "summary": "Tried tt-a1i/archify: A Practical Diagram Agent for AI Teams I took tt-a1i/archify for a quick test drive today. It is an agent skill for generating beautiful, verifiable architecture, workflow, sequence, data-flow, and ",
    "image": null
   },
   {
-   "title": "Experienced DevOps Engineer Seeks Kubernetes Production Experience for Career Transition",
-   "link": "https://dev.to/alitron/experienced-devops-engineer-seeks-kubernetes-production-experience-for-career-transition-9cm",
-   "date": "2026-08-29T02:41:27.000Z",
+   "title": "Cheap Tokens, Expensive Waiting Rooms",
+   "link": "https://dev.to/hackrs_3352/cheap-tokens-expensive-waiting-rooms-51c2",
+   "date": "2026-08-29T10:29:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Kubernetes Challenge for DevOps Veterans Seasoned DevOps engineers, having honed expertise in cloud technologies such as AWS, Terraform, CI/CD pipelines, and Linux over 8+ years, now face a critical career juncture: ",
+   "summary": "Free model access is not a discount. It is a queue you pay for with wall-clock time, and wall-clock time has a salary. The platform debates of the last week asked what developers do while AI codes, and whether AI promote",
    "image": null
   },
   {
-   "title": "Top 5 Azure Dev Tools and Tutorials for August 29, 2026",
-   "link": "https://dev.to/karleeov/top-5-azure-dev-tools-and-tutorials-for-august-29-2026-28ce",
-   "date": "2026-08-29T02:33:01.000Z",
+   "title": "AI Code Needs Proof, Not Promises: A Three-Layer Readiness Checklist",
+   "link": "https://dev.to/codecpp_5026/ai-code-needs-proof-not-promises-a-three-layer-readiness-checklist-2g48",
+   "date": "2026-08-29T10:27:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Azure AI Foundry: Enhanced AI Model Integration What it is: Azure AI Foundry is a platform for seamless integration of AI models across Azure services, focusing on scalability and performance enhancements. The recent ",
+   "summary": "AI assistants made code generation cheap. Verification is the only thing that got more expensive. The pattern shows up in every PR queue: a large diff, one approving review, and a merge that happened because nobody had t",
+   "image": null
+  },
+  {
+   "title": "Pavel Stehule: Integration Lua to psql III",
+   "link": "https://postgr.es/p/9tw",
+   "date": "2026-08-29T05:47:32.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I finished patch that integrates Lua language to psql client https://github.com/okbob/lua-psql I wrote two examples. Second is a wrapping VACUUM command. Target is a more readable output in verbose mode. One bonus is pri",
    "image": null
   },
   {
@@ -230,6 +240,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Hello fellow Postgres Enjoyer. I'd like to do something a little different this week and talk a bit about how I got ensnared by the Postgres ecosystem, and what I've done with it over the years. Maybe you have something ",
    "image": "https://a.storyblok.com/f/187930/2048x1150/cfbd6bb3b9/from_the_trenches.png"
+  },
+  {
+   "title": "Webpro Company blog: WebMCP and MCP: what is the difference and when should a website use each?",
+   "link": "https://webpro.company/blog/webmcp-vs-mcp",
+   "date": "2026-08-28T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "WebMCP is an emerging proposal for cooperation between a web page and a browser agent. It is not a new name for MCP and it is not a replacement. A practical rule is simple: MCP belongs near servers and data; WebMCP belon",
+   "image": null
   },
   {
    "title": "Pessimistic Locking in Laravel Eloquent with refreshForUpdate()",
@@ -472,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Gspikes: Drupal vs WordPress Performance: What Core Web Vitals From 2.9 Million Sites Actually Show",
-   "link": "https://gspikes.com/drupal-vs-wordpress-performance/",
-   "date": "2026-08-26T23:43:38.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We analyzed 79 months of Chrome UX Report field data covering every Drupal and WordPress site Google measures — 2.9 million origins in July 2026 alone. Drupal has led on Core Web Vitals in every single month since 2020, ",
-   "image": null
-  },
-  {
    "title": "whereBinary(): Case-Sensitive MySQL Queries in Laravel",
    "link": "https://laravel-news.com/laravel-where-binary?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-26T21:25:13.000Z",
@@ -490,16 +500,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.27 adds whereBinary() to the query builder for byte-exact, case-sensitive comparisons on MySQL and MariaDB without dropping into whereRaw(). The post whereBinary(): Case-Sensitive MySQL Queries in Laravel appe",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel13-27-whereBinary-case-sensitive-search-featured.png"
-  },
-  {
-   "title": "Pavel Stehule: integration Lua to psql II",
-   "link": "https://postgr.es/p/9tg",
-   "date": "2026-08-26T20:34:21.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Ten years ago, I attempted to enhance the \\dt+ command to sort results by size. There were perhaps a hundred discussions, yet no consensus was reached on a new syntax. Eventually, I created the pspg tool, which allows re",
-   "image": null
   },
   {
    "title": "animation-trigger",
