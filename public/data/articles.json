@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-08-28T17:25:04.524Z",
+ "generatedAt": "2026-08-29T04:07:40.335Z",
  "articles": [
   {
-   "title": "OpenTelemetry vs Prometheus: Why You Almost Certainly Need Both",
-   "link": "https://dev.to/mryadavgulshan/opentelemetry-vs-prometheus-why-you-almost-certainly-need-both-2b1a",
-   "date": "2026-08-28T17:23:43.000Z",
+   "title": "Finding Exposed Services (and Fixing Them) with ScanSearch",
+   "link": "https://dev.to/devyjones/finding-exposed-services-and-fixing-them-with-scansearch-c2",
+   "date": "2026-08-29T04:00:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This gets framed as a choice, and it mostly isn't one. They occupy different layers, and a normal production setup runs both. Understanding why saves a lot of wasted migration effort. Prometheus is a metrics database wit",
+   "summary": "Ever wondered what parts of your infrastructure are accidentally visible to the entire internet? It's a common blind spot. We spend a lot of time securing applications and servers, but sometimes a misconfigured port or a",
    "image": null
   },
   {
-   "title": "Free Crossfit Timer: what we learned building Random Tactical Timer",
-   "link": "https://dev.to/igorganapolsky/free-crossfit-timer-what-we-learned-building-random-tactical-timer-199o",
-   "date": "2026-08-28T17:20:02.000Z",
+   "title": "Kubernetes: A Practical Guide to Container Orchestration (2026-08-29 03:25)",
+   "link": "https://dev.to/said_olano/kubernetes-a-practical-guide-to-container-orchestration-2026-08-29-0325-6ek",
+   "date": "2026-08-29T03:25:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-08-28-free-crossfit-timer-what-we-learned-building-random-tactical-timer.svg"
-  },
-  {
-   "title": "Your Browser Automation Hangs After an Update? Check the Keychain Flags",
-   "link": "https://dev.to/milkyway008/your-browser-automation-hangs-after-an-update-check-the-keychain-flags-341h",
-   "date": "2026-08-28T17:14:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your Browser Automation Started Hanging After an Update? Blame the Keychain If you run browser automation on a Mac or Linux box, you may have hit this one recently: your script worked fine for months, then after a librar",
+   "summary": "Kubernetes: Container Orchestration Modern applications are increasingly built as collections of containerized services. While containers solve the problem of packaging and running software consistently, they introduce a",
    "image": null
   },
   {
-   "title": "Docker Demystified: The Ultimate Guide to Containers and Architecture",
-   "link": "https://dev.to/bibekkakati/docker-demystified-the-ultimate-guide-to-containers-and-architecture-h18",
-   "date": "2026-08-28T17:08:18.000Z",
+   "title": "GitHub Copilot Spending Limit: How to Set It, What It Caps",
+   "link": "https://dev.to/rebeca_vb/github-copilot-spending-limit-how-to-set-it-what-it-caps-288k",
+   "date": "2026-08-29T03:24:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you have ever dealt with the nightmare of \"it works on my machine but crashes in production,\" you have felt the pain that containerization was built to solve. This post breaks down exactly what Docker is, how it works",
+   "summary": "A GitHub Copilot spending limit is a monthly budget, set in billing settings, that caps metered AI credit consumption for an enterprise, an organization, a cost center, or a single user. Creating one takes about two minu",
    "image": null
   },
   {
-   "title": "How Does One Server Find Another Server? DNS, Private DNS, and Service Discovery Explained",
-   "link": "https://dev.to/anik_sikder_313/how-does-one-server-find-another-server-dns-private-dns-and-service-discovery-explained-47ae",
-   "date": "2026-08-28T16:53:49.000Z",
+   "title": "Enrollment PDFs on a Deletion Clock: Private Object Storage and Expiring Download URLs",
+   "link": "https://dev.to/elvrythn486209/enrollment-pdfs-on-a-deletion-clock-private-object-storage-and-expiring-download-urls-446d",
+   "date": "2026-08-29T03:12:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hey developers! 👋 Welcome back to our networking and infrastructure deep-dive series. In the previous article we learned something surprising: Two servers inside AWS, Azure, GCP, or a private datacenter can communicate ",
+   "summary": "Use a private bucket, a presigned GET URL that expires in minutes, and a lifecycle rule that deletes the object on a schedule you can defend in a compliance review. Permanent public links are the export failure I actuall",
    "image": null
   },
   {
-   "title": "The Checkbox Was Labeled Security. It Also Said Availability.",
-   "link": "https://dev.to/ntctech/the-checkbox-was-labeled-security-it-also-said-availability-3nn5",
-   "date": "2026-08-28T16:48:37.000Z",
+   "title": "What To Build Before You Leave An Agent Running Overnight",
+   "link": "https://dev.to/paulcrinigan/what-to-build-before-you-leave-an-agent-running-overnight-fdi",
+   "date": "2026-08-29T02:59:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The AWS CloudFront outage on July 16 exposed a security reliability tradeoffs problem that most cloud architecture teams have never priced: the feature you enable for its security benefit can quietly carry a reliability ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy5gv1b641se0rufleh72.jpg"
-  },
-  {
-   "title": "Twelve of the Twenty-Four Sandbox Settings Do More Harm Than Having No Sandbox At All",
-   "link": "https://dev.to/dev48v/twelve-of-the-twenty-four-sandbox-settings-do-more-harm-than-having-no-sandbox-at-all-2oob",
-   "date": "2026-08-28T16:47:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Arc Ops Level 5 is sandboxing: what an agent can reach on the day it is wrong. 24 hand-written jobs × 40 trials = 960 task-runs, swept across all 24 allow-list widths. Escapes are 0 at every width. The boundary genuinely",
+   "summary": "Getting an agent to work once is a demo. Getting it to keep working while you are asleep is a different engineering problem, and the gap between the two is mostly made of things that are boring to build. Three of them co",
    "image": null
   },
   {
-   "title": "The tar Path Limit Is Not 255 Bytes, and the Wrong Number Scores Better Than the Right One",
-   "link": "https://dev.to/dev48v/the-tar-path-limit-is-not-255-bytes-and-the-wrong-number-scores-better-than-the-right-one-j9b",
-   "date": "2026-08-28T16:44:06.000Z",
+   "title": "One Open Source Project a Day (No. 165): ntfy — Push Notifications with a Single curl",
+   "link": "https://dev.to/wonderlab/one-open-source-project-a-day-no-165-ntfy-push-notifications-with-a-single-curl-3fi2",
+   "date": "2026-08-29T02:42:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Everyone knows a tar path is capped somewhere near 255 bytes. Almost nobody knows the cap is not the rule. ustar stores a path in two fields: name (100 bytes) and prefix (155). They are joined by a slash that is never st",
+   "summary": "Introduction \"Push notifications without complexity.\" This is the 165th article in the \"One Open Source Project a Day\" series. Today's project is ntfy (pronounced \"notify\"). You have probably run into this situation befo",
    "image": null
+  },
+  {
+   "title": "Experienced DevOps Engineer Seeks Kubernetes Production Experience for Career Transition",
+   "link": "https://dev.to/alitron/experienced-devops-engineer-seeks-kubernetes-production-experience-for-career-transition-9cm",
+   "date": "2026-08-29T02:41:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Kubernetes Challenge for DevOps Veterans Seasoned DevOps engineers, having honed expertise in cloud technologies such as AWS, Terraform, CI/CD pipelines, and Linux over 8+ years, now face a critical career juncture: ",
+   "image": null
+  },
+  {
+   "title": "Top 5 Azure Dev Tools and Tutorials for August 29, 2026",
+   "link": "https://dev.to/karleeov/top-5-azure-dev-tools-and-tutorials-for-august-29-2026-28ce",
+   "date": "2026-08-29T02:33:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. Azure AI Foundry: Enhanced AI Model Integration What it is: Azure AI Foundry is a platform for seamless integration of AI models across Azure services, focusing on scalability and performance enhancements. The recent ",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_rotation_age, log_rotation_size, and log_truncate_on_rotation",
+   "link": "https://postgr.es/p/9tv",
+   "date": "2026-08-29T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's log rotation has three parameters that only make sense together: one rotates at clock boundaries, one at file sizes, and one decides whether to…",
+   "image": null
+  },
+  {
+   "title": "Just a rumour of a bug is enough to find a security exploit these days",
+   "link": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+   "date": "2026-08-28T22:12:02.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he repo",
+   "image": null
+  },
+  {
+   "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+   "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+   "date": "2026-08-28T21:30:52.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
+  },
+  {
+   "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+   "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+   "date": "2026-08-28T20:38:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
+  },
+  {
+   "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
+   "link": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/",
+   "date": "2026-08-28T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Pod Certificate / Cluster Trust Bundles Blog Post Kubernetes brings a wealth of features that make it easy to run your production workloads securely and reliably. While aspects like scheduling, health checks and resource",
+   "image": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/pod-certificates-architecture.svg"
+  },
+  {
+   "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+   "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+   "date": "2026-08-28T17:12:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
+  },
+  {
+   "title": "Laravel Starter Kits Now Ship with Vite+",
+   "link": "https://laravel-news.com/laravel-starter-kits-vite-plus?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-28T16:45:20.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Every Laravel starter kit now builds with Vite+, trading ESLint and Prettier for a single vp check across React, Vue, Svelte, and Livewire. The post Laravel Starter Kits Now Ship with Vite+ appeared first on Laravel News",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/viteplus-laravel-starter-kits-featured.png"
+  },
+  {
+   "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+   "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+   "date": "2026-08-28T16:20:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
   },
   {
    "title": "Mike Herchel's Blog: It’s time to prepare your Drupal modules for Admin’s dark mode",
@@ -90,6 +170,16 @@
    "source": "Drupal Planet",
    "summary": "It’s time to prepare your Drupal modules for Admin’s dark mode mherchel Fri, 08/28/2026 - 12:04",
    "image": null
+  },
+  {
+   "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+   "date": "2026-08-28T15:56:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
   },
   {
    "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
@@ -132,54 +222,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg"
   },
   {
-   "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-   "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-   "date": "2026-08-28T11:20:32.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg"
-  },
-  {
-   "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-   "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-   "date": "2026-08-28T10:58:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run comman",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg"
-  },
-  {
-   "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-   "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-   "date": "2026-08-28T09:45:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKp2lGcxPfp8ymA88FIBXB0Bn9fcUSaU_UIl1pfAjDSC2usRwUE73vhQEeP6jar9U9k10yotgyYl_tIk6dQA-MFIr2bJ3LN_azGt9kDU6hpW448HgmBuJbc6TWSo1vfpmhoK0J3_5rhF6VIpWd7NYf0G1YSYHdqKubWgQwa1yU6KRAL-bnDGd8HmCmPk/s1600/cpanel-root.jpg"
-  },
-  {
-   "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-   "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-   "date": "2026-08-28T08:25:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3avAnoYOOKqF8JpZv9Lng1lKE0AqmHOqM-Mq2T297NQrtDBM90yMYIzzVMHgzqytcCvFz7LuBXoPp-d9mRh0_dywBaM8NxZaiKPG0gDuYbSt2oRJdxSkHG5tWjxAMKvWUYZe6YINf_-7i5zUS7xGrDcaXulRvT5jVihWDJzAHSlaXQ6UYlHa6cPMpxbDC/s1600/papercut.jpg"
-  },
-  {
-   "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-   "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-   "date": "2026-08-28T08:20:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Reco",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjJnzm1UIfq8P7glIadtS8dGFvdsASot4sviMtZtFwpKL5B_2upZBcjMdYEBDcSnGmxpKP5LPUQ4XTpao-qCCbe6hQYF9qQBF7bhcPcZJkaz8KY9CCaKBRe-iu3ovbkZWjjtWEs_XJ9hl7D9ZRdKK9LqJynEh9XQ_7o8HZGi572pfnKyt3Yznk1QA311_/s1600/eu-meeting.jpg"
+   "title": "Shaun Thomas: From the Trenches: My Path Through Postgres",
+   "link": "https://postgr.es/p/9tu",
+   "date": "2026-08-28T11:26:07.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Hello fellow Postgres Enjoyer. I'd like to do something a little different this week and talk a bit about how I got ensnared by the Postgres ecosystem, and what I've done with it over the years. Maybe you have something ",
+   "image": "https://a.storyblok.com/f/187930/2048x1150/cfbd6bb3b9/from_the_trenches.png"
   },
   {
    "title": "Pessimistic Locking in Laravel Eloquent with refreshForUpdate()",
@@ -199,6 +249,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "All three of these do nothing unless logging_collector is on; they describe the files the collector writes. Where, what they’re called, and who can read them. The defaults for all three are fine for a laptop and wrong fo",
+   "image": null
+  },
+  {
+   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+   "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+   "date": "2026-08-28T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -482,26 +542,6 @@
    "image": null
   },
   {
-   "title": "State of Laravel 2026 Survey Is Now Open",
-   "link": "https://laravel-news.com/state-of-laravel-2026-survey?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-26T14:04:25.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "The State of Laravel 2026 survey is open. Tobias Petry's annual survey asks about your stack, tooling, deployments, and how you use AI. The post State of Laravel 2026 Survey Is Now Open appeared first on Laravel News. Jo",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-08-26-state-of-laravel-2026-featured.png"
-  },
-  {
-   "title": "Andrew Atkinson: PostgreSQL 18: 23x Faster Inserts With UUID V7",
-   "link": "https://postgr.es/p/9tf",
-   "date": "2026-08-26T11:50:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "📌 Overview We recently switched to version 7 (v7) uuid primary keys and saw significantly faster inserts for some tables. The databases were running Postgres 18.4 and mostly used v1 with some v4 uuid values for primary ",
-   "image": "https://andyatkinson.com/assets/images/uuidv7-4-table-do-pganalyze.jpg"
-  },
-  {
    "title": "Quoting Paul Dix",
    "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
    "date": "2026-08-26T08:07:55.000Z",
@@ -509,16 +549,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowin",
-   "image": null
-  },
-  {
-   "title": "Pavlo Golub: pgwatch v6: Prometheus becomes a source, not just a sink",
-   "link": "https://postgr.es/p/9tl",
-   "date": "2026-08-26T07:43:28.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "We're excited to unveil pgwatch v6.0.0-beta — the biggest release since v5. It's a big one, so I'm splitting the tour into two posts. This first post is about the headline feature: pgwatch can now scrape a Prometheus exp",
    "image": null
   },
   {
@@ -719,16 +749,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up",
-   "image": null
-  },
-  {
-   "title": "Quoting Drew Breunig",
-   "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
-   "date": "2026-08-23T19:55:30.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable land",
    "image": null
   },
   {
@@ -950,16 +970,6 @@
    "source": "Percona Blog",
    "summary": "The common practice is to size the Galera Cache based on write volume measured during peak load, but often it is more of a guesswork. The writeset cache capacity planning is crucial to shorten the maintenance time and av",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/fig1.png"
-  },
-  {
-   "title": "How Much Memory Does Your Agent Actually Need?",
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-   "date": "2026-08-18T18:09:38.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "Fragments: August 18",
@@ -1190,16 +1200,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​752 — July 29, 2026 | Read on the web WOFF 1.0 at 16: The Format That Made Web Fonts Work — Did you know @font-face was adopted into CSS2 in 1998? But it sat largely unused amid fights over licensing,",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
-  },
-  {
-   "title": "Building a Custom Metrics Exporter for Kubernetes",
-   "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/",
-   "date": "2026-07-14T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most real-world scaling decisions depend on signals that live entirely outside that narrow window: how many messages are waiting in a queue, how long the la",
-   "image": null
   }
  ]
 }
