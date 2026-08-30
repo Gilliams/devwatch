@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-08-30T01:13:34.211Z",
+ "generatedAt": "2026-08-30T10:27:35.316Z",
  "articles": [
+  {
+   "title": "How to Resolve Git Merge Conflicts in CI/CD Pipelines – Best Practices & Automated Fixes",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-git-merge-conflicts-in-cicd-pipelines-best-practices-automated-fixes-22e5",
+   "date": "2026-08-30T10:07:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "How to Resolve Git Merge Conflicts in CI/CD Pipelines – Best Practices & Automated Fixes In modern CI/CD workflows a stray merge conflict can halt the entire delivery pipeline. This guide shows you how to detect, auto‑re",
+   "image": null
+  },
+  {
+   "title": "Hintnal Labs: Initial Linux Sandbox POC Tested",
+   "link": "https://dev.to/hintnal/hintnal-labs-initial-linux-sandbox-poc-tested-4824",
+   "date": "2026-08-30T10:04:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Just reached an important early milestone while working on Hintnal Labs. Right now, the PoC demonstrates an interactive Linux sandbox environment, including: Ubuntu environment selection Terminal interaction Basic Linux ",
+   "image": null
+  },
+  {
+   "title": "🕳️ HomeLab Chronicles: Episode 9 - Tunnel Vision",
+   "link": "https://dev.to/snskarora/homelab-chronicles-episode-9-tunnel-vision-c38",
+   "date": "2026-08-30T10:04:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hey all 👋 State of the lab: two nodes, Flux in charge, Airflow alive, backups nightly, RBAC banished to therapy. The UI works from anywhere in the house. But \"in the house\" is a service radius measured in Wi-Fi bars, an",
+   "image": null
+  },
+  {
+   "title": "AI Code Review as a Quality Gate, Not a Chat: Pre-commit, Pre-push, PR",
+   "link": "https://dev.to/marround/ai-code-review-as-a-quality-gate-not-a-chat-pre-commit-pre-push-pr-36ld",
+   "date": "2026-08-30T10:03:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Today, in most teams, the path code takes to production looks roughly like this: Linters and tests became gates a long time ago. Nobody argues with them: they stand on the road and refuse to let through what they don't l",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwrut333hxehttsi2m9t3.png"
+  },
+  {
+   "title": "Building an AI-powered code vulnerability scanner",
+   "link": "https://dev.to/ayinedjimi-consultants/building-an-ai-powered-code-vulnerability-scanner-157m",
+   "date": "2026-08-30T10:02:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your security team can't review every pull request by hand. Static analysis tools like Semgrep and Bandit catch known patterns, but they miss logic flaws, insecure data flows, and context-dependent vulnerabilities. Layer",
+   "image": null
+  },
+  {
+   "title": "Build a Custom Load Balancer with Python",
+   "link": "https://dev.to/qingluan/build-a-custom-load-balancer-with-python-3d44",
+   "date": "2026-08-30T10:00:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build a Custom Load Balancer with Python tags: python, networking, devops, tutorial tags: python, networking, devops, tutorial tags: python, networking, devops, tutorial tags: python, networking, devops, tutorial tags: p",
+   "image": null
+  },
+  {
+   "title": "Building a Multi-Agent Voice Command Center: Supabase Edge Functions + VAPI + Vercel",
+   "link": "https://dev.to/domoniqueluchin/building-a-multi-agent-voice-command-center-supabase-edge-functions-vapi-vercel-1c6m",
+   "date": "2026-08-30T10:00:04.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "OPENING PARAGRAPH: We built Quiet Hours Valet's command center in 72 hours—a production voice AI system handling 8 concurrent agents, 8 automation workflows, and real-time dispatch across our valet trash operation. The s",
+   "image": null
+  },
+  {
+   "title": "Daily digest: 4 new niches, 55 proposals waiting in backlog",
+   "link": "https://dev.to/robswierk/daily-digest-4-new-niches-55-proposals-waiting-in-backlog-3gog",
+   "date": "2026-08-30T10:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The daily digest fired at 09:30 with 4 new niches added in the last 24 hours. The highest-scoring proposal came in at 82/100, a DeepSeek field guide in the AI category aimed at indie AI builders. A Creator-category entry",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1026 (August 24–30, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1026-august-24-30-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-30T07:43:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights Th",
+   "image": null
+  },
+  {
+   "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+   "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+   "date": "2026-08-30T07:36:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg"
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone",
    "link": "https://postgr.es/p/9tx",
@@ -9,86 +109,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "A log line has two parts: the message, which PostgreSQL decides, and everything in front of it, which you do. log_line_prefix is the join key. Every fact that lets you connect a line to a session, a transaction, a client",
-   "image": null
-  },
-  {
-   "title": "MySQL Connection Pooling Explained: Do 50 Concurrent Users Need 50 Database Connections?",
-   "link": "https://dev.to/abirk/mysql-connection-pooling-explained-do-50-concurrent-users-need-50-database-connections-415o",
-   "date": "2026-08-30T00:56:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When configuring a database connection in a backend application, you've probably seen code like this: sqlDB.SetMaxOpenConns(5) sqlDB.SetMaxIdleConns(1) sqlDB.SetConnMaxIdleTime(2 * time.Minute) sqlDB.SetConnMaxLifetime(3",
-   "image": null
-  },
-  {
-   "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-   "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-6gm",
-   "date": "2026-08-30T00:55:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent three months and roughly $500 on GPU hardware to self-host my own LLM. Then I pulled the plug and switched to a $1 API. Let me tell you why. It started innocently enough. I was building a side project — an AI-pow",
-   "image": null
-  },
-  {
-   "title": "The Three States of a Secret: Tracked, Ignored, and the One That Ships It",
-   "link": "https://dev.to/vibeagentmaking/the-three-states-of-a-secret-tracked-ignored-and-the-one-that-ships-it-55mj",
-   "date": "2026-08-30T00:47:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every Git tutorial teaches three states. Modified, staged, committed: the working directory, the staging area, the repository. It is canonical, it is in the official book, and for the question that decides whether your c",
-   "image": null
-  },
-  {
-   "title": "Self-Hosted One-Click App Stores in 2026: Runtipi vs Cosmos vs Umbrel vs YunoHost",
-   "link": "https://dev.to/enfernandes/self-hosted-one-click-app-stores-in-2026-runtipi-vs-cosmos-vs-umbrel-vs-yunohost-1m0c",
-   "date": "2026-08-30T00:42:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The first time you try to install Nextcloud, Jellyfin, Vaultwarden, and a half-dozen other self-hosted apps on a fresh Ubuntu box, you discover what homelab people mean when they say \"compose file sprawl.\" Five Docker Co",
-   "image": null
-  },
-  {
-   "title": "The nginx misconfigurations that fail silently",
-   "link": "https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2",
-   "date": "2026-08-30T00:39:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most nginx misconfigurations announce themselves. You typo a directive, nginx -t fails, you fix it. That feedback loop is fast and it works. The dangerous ones are different. The config is valid. nginx -t passes. The ser",
-   "image": null
-  },
-  {
-   "title": "Your success message is not keyed on the thing that would make it false",
-   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/your-success-message-is-not-keyed-on-the-thing-that-would-make-it-false-51oa",
-   "date": "2026-08-30T00:31:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A small automation on one of my boxes commits work and pushes it to a shared [done] land: landed 3 settled fixes: foo, bar, baz For thirty-nine days that box had never once pushed successfully. Every announcement it The ",
-   "image": null
-  },
-  {
-   "title": "Your AI Reviewer Is a Black Box: A Response Audit FAQ",
-   "link": "https://dev.to/gitlab_3188/your-ai-reviewer-is-a-black-box-a-response-audit-faq-5b80",
-   "date": "2026-08-30T00:28:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every developer just got promoted. AI writes code. We review the diff. But nobody reviews the AI server's responses. I call this the reviewer blind spot. I see it in CI all the time. A script calls a free model endpoint.",
-   "image": null
-  },
-  {
-   "title": "GCC Passed, Clang Didn't: A Four-Configuration Compile Matrix for Agent Patches",
-   "link": "https://dev.to/datacpp_8185/gcc-passed-clang-didnt-a-four-configuration-compile-matrix-for-agent-patches-3i86",
-   "date": "2026-08-30T00:28:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Disclosure: This article was prepared as part of MonkeyCode's product outreach. The patch compiled on your laptop, so you handed it to CI, and CI returned a wall of template errors from Clang. The agent had only ever com",
    "image": null
   },
   {
@@ -240,16 +260,6 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
-  },
-  {
-   "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-   "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-   "date": "2026-08-28T12:07:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Loco",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg"
   },
   {
    "title": "Umair Shahid: How Fast Should You Patch Production PostgreSQL?",
@@ -930,16 +940,6 @@
    "source": "Codrops",
    "summary": "Explore how depth maps, TSL, and WebGPU can be combined to turn flat 2D images into dynamic surfaces with realistic lighting, surface detail, and self-shadowing.",
    "image": null
-  },
-  {
-   "title": "Symfony Reprise 0.8.0 released",
-   "link": "https://symfony.com/blog/symfony-reprise-0-8-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-19T13:34:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Reprise 0.8.0 is out, a few weeks after the project was introduced on this blog. This release brings back an Encore behavior that some codebases depend on: copied files that keep a stable path on disk. It also fixes a ma",
-   "image": "https://github.com/pyrech.png"
   },
   {
    "title": "Security Advisory: Privileged ClickHouse access through the Grafana data source in PMM",
