@@ -1,85 +1,225 @@
 {
- "generatedAt": "2026-08-31T11:33:57.245Z",
+ "generatedAt": "2026-08-31T21:53:23.869Z",
  "articles": [
   {
-   "title": "Commercial Fleet Telematics & TCO: Modeling EV Charging Queues and Predictive Battery Workflows",
-   "link": "https://dev.to/seo_optimization_591fad6c/commercial-fleet-telematics-tco-modeling-ev-charging-queues-and-predictive-battery-workflows-5ki",
-   "date": "2026-08-31T11:29:03.000Z",
+   "title": "My REGXA VPS Had 94% CPU Steal With Zero Traffic",
+   "link": "https://dev.to/sergeisolod/my-regxa-vps-had-94-cpu-steal-with-zero-traffic-p71",
+   "date": "2026-08-31T21:45:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As commercial logistics operators transition delivery fleets from internal combustion engines to electric vehicles (EVs), total cost of ownership (TCO) models frequently break down. Fleet directors discover that raw fuel",
+   "summary": "I am not writing this as a negative review of REGXA. I am not trying to tell anyone whether they should or should not use the provider. This is simply one of my days as a developer. I moved a normal workload to a KVM VPS",
    "image": null
   },
   {
-   "title": "Top 10 Best Miva Merchant to WooCommerce Migration Companies",
-   "link": "https://dev.to/oliverpitts/top-10-best-miva-merchant-to-woocommerce-migration-companies-2lla",
-   "date": "2026-08-31T11:13:31.000Z",
+   "title": "8 Places AWS Bills Hide Money That Nobody's Watching",
+   "link": "https://dev.to/cmilam/8-places-aws-bills-hide-money-that-nobodys-watching-4do5",
+   "date": "2026-08-31T21:39:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've got a Miva Merchant system locked behind proprietary walls and expensive fees. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side and won't corrupt your data, b",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmojjvewm9owmhs0fausk.png"
-  },
-  {
-   "title": "Best MCP Servers for AI Automation: A Technical Comparison",
-   "link": "https://dev.to/kodeusai/best-mcp-servers-for-ai-automation-a-technical-comparison-3394",
-   "date": "2026-08-31T11:04:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "As MCP adoption grows, engineering teams are faced with a practical question: how do you evaluate the best MCP servers for your specific workload? There isn't a single MCP server that is ideal for every environment. The ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcd5ya1y7nmh4tg01158k.jpg"
-  },
-  {
-   "title": "Inside a Business Password Manager: How Encryption, Authentication, and Access Control Work",
-   "link": "https://dev.to/synfinity-dynamics-pvt-ltd/inside-a-business-password-manager-how-encryption-authentication-and-access-control-work-3f4",
-   "date": "2026-08-31T10:52:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What Happens Behind a Password Manager? Most people think of a password manager as one thing: a secure place to store passwords. You put your credentials in, they get encrypted, and you retrieve them later with a master ",
+   "summary": "Every AWS account I've audited has real, findable waste in the same handful of places. Nothing exotic. Boring, structural waste that piles up because nobody seems to notice it. Here's the checklist I actually use, roughl",
    "image": null
   },
   {
-   "title": "Demystifying Kubernetes FinOps: How to Allocate Cloud Costs Across Multi-Tenant Clusters",
-   "link": "https://dev.to/seo_optimization_591fad6c/demystifying-kubernetes-finops-how-to-allocate-cloud-costs-across-multi-tenant-clusters-3236",
-   "date": "2026-08-31T10:39:11.000Z",
+   "title": "Zero‑Downtime Deployments in Kubernetes: Blue‑Green vs Canary with Istio, Helm, and ArgoCD",
+   "link": "https://dev.to/dzakiamriz/zero-downtime-deployments-in-kubernetes-blue-green-vs-canary-with-istio-helm-and-argocd-1ap0",
+   "date": "2026-08-31T21:31:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "As engineering organizations scale their microservice architectures across multi-tenant Kubernetes clusters, cloud infrastructure bills frequently become a financial black box. When hundreds of pods, daemonsets, and stat",
+   "summary": "1. The Problem & Industry Shift Enterprises are moving from monolithic release cycles to continuous delivery pipelines that must stay online 24/7. Traditional kubectl rollout‑based deployments block traffic during pod te",
    "image": null
   },
   {
-   "title": "I gave an AI eight real DevOps jobs. Here's where it shipped — and where it quietly got it wrong.",
-   "link": "https://dev.to/sambit_kumarmallick_bce8/i-gave-an-ai-eight-real-devops-jobs-heres-where-it-shipped-and-where-it-quietly-got-it-wrong-4m2i",
-   "date": "2026-08-31T10:35:51.000Z",
+   "title": "CI/CD Mistakes That Are Quietly Costing Your Team Deploy Time",
+   "link": "https://dev.to/webmatrixlab/cicd-mistakes-that-are-quietly-costing-your-team-deploy-time-d57",
+   "date": "2026-08-31T21:31:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For the last couple of months I've been handing an AI agent (Claude Code) real DevOps work The interesting part was never \"look, AI did the thing.\" It was the seam between where it and where it produced something that lo",
+   "summary": "Most teams don't notice their CI/CD pipeline is broken — they just notice that deploys \"feel slow\" and shrug it off as normal. It isn't. A pipeline that takes 25 minutes to ship a one-line copy change isn't a fact of lif",
    "image": null
   },
   {
-   "title": "Scope the Guard to What the Job Actually Writes",
-   "link": "https://dev.to/jeremy_longshore/scope-the-guard-to-what-the-job-actually-writes-12k8",
-   "date": "2026-08-31T10:18:23.000Z",
+   "title": "My Pod Won't Start\" Is Actually Three Different Problems",
+   "link": "https://dev.to/bansikah/my-pod-wont-start-is-actually-three-different-problems-36n1",
+   "date": "2026-08-31T21:11:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Two systems mismeasured what was in front of them. One aborted loudly on dirt that could not touch it. One returned a 200 and assigned the card to nobody. Both fixes narrowed what a piece of code claimed authority over. ",
+   "summary": "Every Kubernetes beginner hits this. You deploy something, run kubectl get pods, kubectl logs my-pod And you get nothing useful. Sometimes you get an error saying there are no logs The reason is that \"pod won't start\" is",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz8r0kow3y8mk8h4ze6pf.png"
+  },
+  {
+   "title": "How Claude Code Went From \"We Can't\" to \"When Do We Start\" (via AWS Bedrock)",
+   "link": "https://dev.to/rivadaviam/how-claude-code-went-from-we-cant-to-when-do-we-start-via-aws-bedrock-57g5",
+   "date": "2026-08-31T21:04:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The same conversation happens in every company that wants Claude Code. An engineer demos it, the room lights up, and then someone from security asks four questions in a row. Where does our code go? Who can reach the mode",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7tchad0o2kbyp5ai8bv7.png"
+  },
+  {
+   "title": "Case Study: Scaling Smart Teleassistance Voice Routing with Edge Compute and Zero-Cold-Start Cascades",
+   "link": "https://dev.to/enrique_drack_34c8d81d28d/case-study-scaling-smart-teleassistance-voice-routing-with-edge-compute-and-zero-cold-start-o00",
+   "date": "2026-08-31T21:02:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In mission-critical infrastructure, latency isn't just a metric—it's the difference between a resolved incident and a catastrophic outage. Whether you are managing an SRE team handling cluster failures or a teleassistanc",
    "image": null
   },
   {
-   "title": "A Path Is Not Proof of Identity",
-   "link": "https://dev.to/jeremy_longshore/a-path-is-not-proof-of-identity-1ad7",
-   "date": "2026-08-31T10:18:20.000Z",
+   "title": "Rate Limiting and Admission Control Solve Different Failure Modes",
+   "link": "https://dev.to/janbalangue/rate-limiting-and-admission-control-solve-different-failure-modes-k48",
+   "date": "2026-08-31T20:52:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Five marketplace submissions rejected simultaneously for the same security defect class. Every one created local state under the default umask, checked permissions with [[ -f ]], then wrote to the name later. Between the",
+   "summary": "Rate limiting is one of the first protections we add to an API. A client gets 100 requests per minute. A tenant gets 1,000. Maybe expensive endpoints get tighter limits. When someone exceeds the allowance, the request ge",
    "image": null
+  },
+  {
+   "title": "A Drupal Couple: Drupal could be a great answer for vibe coding",
+   "link": "https://www.adrupalcouple.us/drupal-answer-for-vibe-coding",
+   "date": "2026-08-31T17:54:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal could be a great answer for vibe coding Imagen When you vibe an application, the AI picks the stack, and both projects I've looked at came back with the same one. I know Drupal and I contribute to it, so weigh eve",
+   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/fortification-c.jpg.webp?itok=ORKBnJi7"
+  },
+  {
+   "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+   "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+   "date": "2026-08-31T17:24:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79i0RXS7ZzzPurGwbsquOv8l9-GsYQmsw9y1qCzEeDMKYNXjn84VZVfVZU9aiGqnyDyQ6ZdgKosZxn60KtJ6TgTREMyC_ZnhyCxv3kSLtAXBHA2suVHDYFdWYllL4aN0-exJxnCfjXJL5dlo08aVU1YtzJchTD7nORvsBe0oXivCBhctDCcEn85Cmjiab/s1600/1000104722.jpg"
+  },
+  {
+   "title": "The Drop Times: When Websites Become Interfaces for Machines",
+   "link": "https://www.thedroptimes.com/newsletter/when-websites-become-interfaces-machines?utm_source=Drupal Planet",
+   "date": "2026-08-31T16:40:35.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI assistants increasingly sit between people and websites, retrieving and interpreting information on their behalf. That shifts the problem beyond whether software can connect to a site at all. The system also has to ma",
+   "image": null
+  },
+  {
+   "title": "Volatile Nexus: Tinkering with Glass, Caustics, Cubes and Sound in Three.js",
+   "link": "https://tympanus.net/codrops/2026/08/31/volatile-nexus-tinkering-with-glass-caustics-cubes-and-sound-in-three-js/",
+   "date": "2026-08-31T15:59:38.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A mesmerizing Three.js experiment where glass, wandering cubes, caustics, refractions, and sound come together in a fluid, interactive scene.",
+   "image": null
+  },
+  {
+   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+   "link": "https://css-tricks.com/css-random-function-polyfill/",
+   "date": "2026-08-31T15:12:19.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
+   "title": "Acquia.com - Drupal Blog: Two Keynotes, One Question: Building Through Disruption at Drupal GovCon",
+   "link": "https://www.acquia.com/blog/two-keynotes-one-question-building-through-disruption-drupal-govcon",
+   "date": "2026-08-31T14:19:54.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Two Drupal GovCon keynotes on building through disruption: the courage to lead change, and the care to keep people from being left behind.",
+   "image": null
+  },
+  {
+   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+   "link": "https://css-tricks.com/whats-important-18/",
+   "date": "2026-08-31T14:08:55.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+   "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+   "date": "2026-08-31T13:50:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg"
+  },
+  {
+   "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+   "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+   "date": "2026-08-31T12:14:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such sof",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg"
+  },
+  {
+   "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
+   "link": "https://symfony.com/blog/introducing-symfony-lsp-check-symfony-aware-diagnostics-in-your-ci?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-31T12:03:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "A Symfony application is full of strings that mean something: route names, template paths, translation keys, service ids, bundle configuration keys. To PHP, they are strings like any others. Your CI pipeline verifies typ",
+   "image": null
+  },
+  {
+   "title": "Rotating Expiring X.509 Certificates in Percona Server for MongoDB with Minimal Service Interruption",
+   "link": "https://www.percona.com/blog/rotating-expiring-x-509-certificates-in-percona-server-for-mongodb-with-minimal-service-interruption/",
+   "date": "2026-08-31T11:48:11.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+   "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+   "date": "2026-08-31T11:47:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudS",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
+  },
+  {
+   "title": "Drupal Association blog: The Drupal Association Announces 2026 Board Election Winner",
+   "link": "https://www.drupal.org/association/blog/the-drupal-association-announces-2026-board-election-winner",
+   "date": "2026-08-31T11:38:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Drupal Association is excited to announce the winner of 2026 Community At-Large Board Elections. We extend a sincere thank you to Alejandro Moreno for his service and dedication, not only to Drupal, but to the Drupal",
+   "image": null
+  },
+  {
+   "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+   "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+   "date": "2026-08-31T11:31:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet i",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg"
   },
   {
    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
@@ -90,6 +230,16 @@
    "source": "The Hacker News",
    "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
+  },
+  {
+   "title": "Richard Yen: pg-catalog-almanac",
+   "link": "https://postgr.es/p/9tA",
+   "date": "2026-08-31T08:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Did you know: PG19 is on track to contain the most changes to pg_catalog in history Introduction pg_catalog is one of the most important interfaces PostgreSQL gives us: it exposes the metadata that describes database str",
+   "image": "https://raw.githubusercontent.com/richyen/pg-catalog-almanac/main/docs/home.png"
   },
   {
    "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
@@ -222,16 +372,6 @@
    "image": "https://omega8.cc/images/8/b/b/e/f/8bbef9e2ebef26b1b6853f48d50cce7e59cb710f-alpha3-mirror-listing-2009.png"
   },
   {
-   "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-   "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-   "date": "2026-08-29T16:25:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
-  },
-  {
    "title": "Pavel Stehule: Integration Lua to psql III",
    "link": "https://postgr.es/p/9tw",
    "date": "2026-08-29T05:47:32.000Z",
@@ -252,6 +392,16 @@
    "image": null
   },
   {
+   "title": "Cancel In-Flight Form Submissions in Inertia.js v3.7",
+   "link": "https://laravel-news.com/inertia-3-7-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-08-28T22:45:01.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Inertia.js v3.7 adds cancelOnUnmount and a cancel method to the Form component, a polling state from usePoll, and once props that survive instant visits. The post Cancel In-Flight Form Submissions in Inertia.js v3.7 appe",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertia-v3-featured.png"
+  },
+  {
    "title": "Just a rumour of a bug is enough to find a security exploit these days",
    "link": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
    "date": "2026-08-28T22:12:02.000Z",
@@ -260,26 +410,6 @@
    "source": "Simon Willison",
    "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he repo",
    "image": null
-  },
-  {
-   "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-   "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-   "date": "2026-08-28T21:30:52.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
-  },
-  {
-   "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-   "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-   "date": "2026-08-28T20:38:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
   },
   {
    "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
@@ -292,16 +422,6 @@
    "image": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/pod-certificates-architecture.svg"
   },
   {
-   "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-   "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-   "date": "2026-08-28T17:12:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
-  },
-  {
    "title": "Laravel Starter Kits Now Ship with Vite+",
    "link": "https://laravel-news.com/laravel-starter-kits-vite-plus?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-28T16:45:20.000Z",
@@ -310,16 +430,6 @@
    "source": "Laravel News",
    "summary": "Every Laravel starter kit now builds with Vite+, trading ESLint and Prettier for a single vp check across React, Vue, Svelte, and Livewire. The post Laravel Starter Kits Now Ship with Vite+ appeared first on Laravel News",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/viteplus-laravel-starter-kits-featured.png"
-  },
-  {
-   "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-   "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-   "date": "2026-08-28T16:20:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
   },
   {
    "title": "Mike Herchel's Blog: It’s time to prepare your Drupal modules for Admin’s dark mode",
@@ -352,16 +462,6 @@
    "image": "https://a.storyblok.com/f/187930/2048x1150/cfbd6bb3b9/from_the_trenches.png"
   },
   {
-   "title": "Webpro Company blog: WebMCP and MCP: what is the difference and when should a website use each?",
-   "link": "https://webpro.company/blog/webmcp-vs-mcp",
-   "date": "2026-08-28T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "WebMCP is an emerging proposal for cooperation between a web page and a browser agent. It is not a new name for MCP and it is not a replacement. A practical rule is simple: MCP belongs near servers and data; WebMCP belon",
-   "image": null
-  },
-  {
    "title": "Pavlo Golub: pgwatch v6: dashboards reimagined, and a reaper that doesn't choke",
    "link": "https://postgr.es/p/9tz",
    "date": "2026-08-28T03:00:58.000Z",
@@ -380,16 +480,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.27 adds refreshForUpdate() to Eloquent, reloading a model under lockForUpdate() so you can take a pessimistic lock without requerying by key. The post Pessimistic Locking in Laravel Eloquent with refreshForUpd",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-refreshForUpdate-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_directory, log_filename, and log_file_mode",
-   "link": "https://postgr.es/p/9tq",
-   "date": "2026-08-28T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "All three of these do nothing unless logging_collector is on; they describe the files the collector writes. Where, what they’re called, and who can read them. The defaults for all three are fine for a laptop and wrong fo",
-   "image": null
   },
   {
    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
@@ -432,26 +522,6 @@
    "image": null
   },
   {
-   "title": "Talking Drupal: Talking Drupal #567 - Common Vulnerabilities & Exposures",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-567-common-vulnerabilities-exposures",
-   "date": "2026-08-27T20:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Security, Vulnerabilities, and how to avoid exposure with guest Dave Welch. We'll also cover Security Scanner as our module of the week. For show notes visit: https://www.talkingDrupal.com/567 ",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Open Source is a cost-allocation system",
-   "link": "https://dri.es/open-source-is-a-cost-allocation-system",
-   "date": "2026-08-27T19:21:42.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Open Source is usually described as a licensing model, a development model, or a production model. All three descriptions are useful, but they leave something out. Every Open Source ecosystem is also a cost-allocation sy",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37: Metrics API graduates to stable",
    "link": "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/",
    "date": "2026-08-27T18:30:00.000Z",
@@ -460,16 +530,6 @@
    "source": "Kubernetes Blog",
    "summary": "Kubernetes v1.37 promotes the metrics.k8s.io API to stable (v1). This API provides CPU and memory usage for nodes and Pods, and is the API behind commands such as kubectl top and resource-metrics-based autoscaling. For c",
    "image": null
-  },
-  {
-   "title": "LakeDrops Drupal Consulting, Development and Hosting: Six Small ECA Models That Make Drupal Editors Happy",
-   "link": "https://www.lakedrops.com/en/blog/six-small-eca-models-make-drupal-editors-happy",
-   "date": "2026-08-27T15:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Six Small ECA Models That Make Drupal Editors Happy Jürgen Haas Thu 27 Aug 2026 - 17:30 This article introduces six new ECA Guide library recipes that improve the Drupal content editing experience through small, focused ",
-   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/2026-08/justin-morgan-bVoUMGH5gBY-unsplash.jpg?h=78c8779c&amp;itok=L4q6k-Z5"
   },
   {
    "title": "PHP 8.4.25 Released!",
@@ -570,16 +630,6 @@
    "source": "CSS-Tricks",
    "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
    "image": null
-  },
-  {
-   "title": "Compile PHP to Native Binaries with TypePHP",
-   "link": "https://laravel-news.com/typephp-compile-php-native-binaries?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-26T14:58:07.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "TypePHP is Swoole's open source AOT compiler that turns PHP source into native binaries, PHP extensions, or shared libraries. The post Compile PHP to Native Binaries with TypePHP appeared first on Laravel News. Join the ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-08-26-typephp-compile-php-native-binaries.png"
   },
   {
    "title": "Symfony Reprise 1.0.0 released",
@@ -822,16 +872,6 @@
    "image": null
   },
   {
-   "title": "Symfony 8.1.5 released",
-   "link": "https://symfony.com/blog/symfony-8-1-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-22T13:47:38.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.5 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "Resolved: CSS Class Prefix Selector",
    "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
    "date": "2026-08-21T15:13:03.000Z",
@@ -952,16 +992,6 @@
    "image": null
   },
   {
-   "title": "WordPress.com Student Plan",
-   "link": "https://css-tricks.com/wordpress-student-plan/",
-   "date": "2026-08-19T08:50:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
-   "image": null
-  },
-  {
    "title": "Stop guessing at gcache: inspect Galera/PXC write sets with gcache-inspector",
    "link": "https://www.percona.com/blog/stop-guessing-at-gcache-inspect-galera-pxc-write-sets-with-gcache-inspector/",
    "date": "2026-08-19T08:23:50.000Z",
@@ -999,36 +1029,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "Percona University Comes to Uruguay",
-   "link": "https://www.percona.com/blog/percona-university-comes-to-uruguay/",
-   "date": "2026-08-17T16:34:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
-   "image": null
-  },
-  {
-   "title": "Dark mode toggles: two states are enough",
-   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-   "date": "2026-08-17T14:15:50.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
-   "image": null
-  },
-  {
-   "title": "Creativity at Enterprise-Scale, Without Compromise: The OFF+BRAND. Story",
-   "link": "https://tympanus.net/codrops/2026/08/17/creativity-at-enterprise-scale-without-compromise-the-offbrand-story/",
-   "date": "2026-08-17T13:09:24.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Telling stories on some of the biggest canvases on the web, from Awwwards Site of the Year to the front door of Microsoft.",
    "image": null
   },
   {
