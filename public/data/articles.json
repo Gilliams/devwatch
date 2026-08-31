@@ -1,34 +1,114 @@
 {
- "generatedAt": "2026-08-31T01:21:43.259Z",
+ "generatedAt": "2026-08-31T11:33:57.245Z",
  "articles": [
   {
-   "title": "I removed every delete from my exactly-once guard. Then the bugs moved.",
-   "link": "https://dev.to/jigonyoo/i-removed-every-delete-from-my-exactly-once-guard-then-the-bugs-moved-302i",
-   "date": "2026-08-31T01:16:36.000Z",
+   "title": "Commercial Fleet Telematics & TCO: Modeling EV Charging Queues and Predictive Battery Workflows",
+   "link": "https://dev.to/seo_optimization_591fad6c/commercial-fleet-telematics-tco-modeling-ev-charging-queues-and-predictive-battery-workflows-5ki",
+   "date": "2026-08-31T11:29:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your monitoring will not flag a duplicate charge. Every one of them is a 200. The refund succeeded. It succeeded again four hundred milliseconds later on a ok. The customer's Guardrails are usually built around may this ",
+   "summary": "As commercial logistics operators transition delivery fleets from internal combustion engines to electric vehicles (EVs), total cost of ownership (TCO) models frequently break down. Fleet directors discover that raw fuel",
    "image": null
   },
   {
-   "title": "A Symlink Swap Is Not a Zero-Downtime Deploy",
-   "link": "https://dev.to/nasrulhazim/a-symlink-swap-is-not-a-zero-downtime-deploy-4bb2",
-   "date": "2026-08-31T01:14:00.000Z",
+   "title": "Top 10 Best Miva Merchant to WooCommerce Migration Companies",
+   "link": "https://dev.to/oliverpitts/top-10-best-miva-merchant-to-woocommerce-migration-companies-2lla",
+   "date": "2026-08-31T11:13:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR — I had Capistrano-style releases on a plain VM: build into releases/ , swap a symlink, restart the service. Atomic, I thought. Then I put curl in a loop and watched an actual deploy: 502 on every single one, for t",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr5mj8ce7e3qlpfvebcgs.png"
+   "summary": "You've got a Miva Merchant system locked behind proprietary walls and expensive fees. Time to migrate to WooCommerce. Let's talk about which companies actually understand the technical side and won't corrupt your data, b",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmojjvewm9owmhs0fausk.png"
   },
   {
-   "title": "Kubernetes CreateContainerConfigError: How to Debug and Fix It",
-   "link": "https://dev.to/devtocash/kubernetes-createcontainerconfigerror-how-to-debug-and-fix-it-lj1",
-   "date": "2026-08-31T01:07:07.000Z",
+   "title": "Best MCP Servers for AI Automation: A Technical Comparison",
+   "link": "https://dev.to/kodeusai/best-mcp-servers-for-ai-automation-a-technical-comparison-3394",
+   "date": "2026-08-31T11:04:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. CreateContainerConfigError means the kubelet tried to assemble your container's configuratio",
+   "summary": "As MCP adoption grows, engineering teams are faced with a practical question: how do you evaluate the best MCP servers for your specific workload? There isn't a single MCP server that is ideal for every environment. The ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcd5ya1y7nmh4tg01158k.jpg"
+  },
+  {
+   "title": "Inside a Business Password Manager: How Encryption, Authentication, and Access Control Work",
+   "link": "https://dev.to/synfinity-dynamics-pvt-ltd/inside-a-business-password-manager-how-encryption-authentication-and-access-control-work-3f4",
+   "date": "2026-08-31T10:52:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What Happens Behind a Password Manager? Most people think of a password manager as one thing: a secure place to store passwords. You put your credentials in, they get encrypted, and you retrieve them later with a master ",
+   "image": null
+  },
+  {
+   "title": "Demystifying Kubernetes FinOps: How to Allocate Cloud Costs Across Multi-Tenant Clusters",
+   "link": "https://dev.to/seo_optimization_591fad6c/demystifying-kubernetes-finops-how-to-allocate-cloud-costs-across-multi-tenant-clusters-3236",
+   "date": "2026-08-31T10:39:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As engineering organizations scale their microservice architectures across multi-tenant Kubernetes clusters, cloud infrastructure bills frequently become a financial black box. When hundreds of pods, daemonsets, and stat",
+   "image": null
+  },
+  {
+   "title": "I gave an AI eight real DevOps jobs. Here's where it shipped — and where it quietly got it wrong.",
+   "link": "https://dev.to/sambit_kumarmallick_bce8/i-gave-an-ai-eight-real-devops-jobs-heres-where-it-shipped-and-where-it-quietly-got-it-wrong-4m2i",
+   "date": "2026-08-31T10:35:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For the last couple of months I've been handing an AI agent (Claude Code) real DevOps work The interesting part was never \"look, AI did the thing.\" It was the seam between where it and where it produced something that lo",
+   "image": null
+  },
+  {
+   "title": "Scope the Guard to What the Job Actually Writes",
+   "link": "https://dev.to/jeremy_longshore/scope-the-guard-to-what-the-job-actually-writes-12k8",
+   "date": "2026-08-31T10:18:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Two systems mismeasured what was in front of them. One aborted loudly on dirt that could not touch it. One returned a 200 and assigned the card to nobody. Both fixes narrowed what a piece of code claimed authority over. ",
+   "image": null
+  },
+  {
+   "title": "A Path Is Not Proof of Identity",
+   "link": "https://dev.to/jeremy_longshore/a-path-is-not-proof-of-identity-1ad7",
+   "date": "2026-08-31T10:18:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Five marketplace submissions rejected simultaneously for the same security defect class. Every one created local state under the default umask, checked permissions with [[ -f ]], then wrote to the name later. Between the",
+   "image": null
+  },
+  {
+   "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+   "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+   "date": "2026-08-31T09:04:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
+  },
+  {
+   "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+   "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+   "date": "2026-08-31T07:56:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they w",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
+  },
+  {
+   "title": "Specbee: Specbee is now a Drupal AI Initiative Partner. What does it mean for your platform?",
+   "link": "https://www.specbee.com/blogs/specbee-drupal-ai-initiative-partner",
+   "date": "2026-08-31T05:10:30.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Specbee has joined the Drupal AI Initiative as a Certified Partner. See what Drupal AI initiative is about, how it's governed, and what it means for your enterprise site.",
    "image": null
   },
   {
@@ -39,56 +119,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Three parameters control what reaches your server log: a severity floor, whether to attach the triggering SQL, and how many fields each message prints.",
-   "image": null
-  },
-  {
-   "title": "The Free Server Rebooted at 3 AM and the Model Watchdog Went Silent",
-   "link": "https://dev.to/codepy_1473/the-free-server-rebooted-at-3-am-and-the-model-watchdog-went-silent-m41",
-   "date": "2026-08-31T00:53:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "MonkeyCode offers free models and a free server option. The watchdog called the same model every 30 minutes. Then the server rebooted. This article builds a reboot-resistant watchdog. A watchdog is a small program that c",
-   "image": null
-  },
-  {
-   "title": "Android Developer Verification hits Brazil on September 30",
-   "link": "https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856",
-   "date": "2026-08-31T00:44:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Google's developer verification requirement starts enforcing in about a month, and Brazil is one of the four countries it lands in first. If you work here, this is not a 2027 problem you get to read about later. Most of ",
-   "image": null
-  },
-  {
-   "title": "A Credential Rotation Without an Overlap Is Just an Outage You Scheduled",
-   "link": "https://dev.to/nasrulhazim/a-credential-rotation-without-an-overlap-is-just-an-outage-you-scheduled-388f",
-   "date": "2026-08-31T00:26:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR — I shipped managed S3-compatible storage servers today, and the most interesting thing in the whole feature wasn't the provisioning pipeline. It was discovering that the storage daemon has no \"rotate key\" command ",
-   "image": null
-  },
-  {
-   "title": "Quick Test Drive: `sponsors/alam00000` and the Privacy-First PDF Toolkit",
-   "link": "https://dev.to/james_lin/quick-test-drive-sponsorsalam00000-and-the-privacy-first-pdf-toolkit-4003",
-   "date": "2026-08-31T00:18:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Quick Test Drive: sponsors/alam00000 and the Privacy-First PDF Toolkit sp​onsors/alam00000 is attracting attention today with +76 GitHub stars, which is a strong signal for a privacy-focused developer utility. The projec",
-   "image": null
-  },
-  {
-   "title": "Fix SSL/TLS Certificate Handshake Failures – Step‑by‑Step Guide for Developers",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-4paj",
-   "date": "2026-08-31T00:09:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction A TLS handshake failure is one of the most frustrating errors you can encounter when deploying web services. Whether you see SSL handshake failed, certificate verify failed, or a generic ERR_SSL_PROTOCOL_ERR",
    "image": null
   },
   {
@@ -302,26 +332,6 @@
    "image": null
   },
   {
-   "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-   "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-   "date": "2026-08-28T15:56:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
-  },
-  {
-   "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-   "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-   "date": "2026-08-28T15:27:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
-  },
-  {
    "title": "Umair Shahid: How Fast Should You Patch Production PostgreSQL?",
    "link": "https://postgr.es/p/9ts",
    "date": "2026-08-28T11:41:21.000Z",
@@ -349,6 +359,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "WebMCP is an emerging proposal for cooperation between a web page and a browser agent. It is not a new name for MCP and it is not a replacement. A practical rule is simple: MCP belongs near servers and data; WebMCP belon",
+   "image": null
+  },
+  {
+   "title": "Pavlo Golub: pgwatch v6: dashboards reimagined, and a reaper that doesn't choke",
+   "link": "https://postgr.es/p/9tz",
+   "date": "2026-08-28T03:00:58.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "In the first post we covered the headline feature of v6.0.0-beta: Prometheus exporters as a native pgwatch source. This second post covers everything that shipped alongside it: a full dashboard overhaul, a reaper core th",
    "image": null
   },
   {
@@ -380,16 +400,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Mikhail Shytsko: The Dump That Breaks Its Own Restore",
-   "link": "https://postgr.es/p/9tt",
-   "date": "2026-08-28T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A pg_dump data-only restore into a fresh, empty copy of the schema is the safest-sounding restore in PostgreSQL, since there is not a single row in the target for the incoming data to collide with. It stops anyway, on a ",
-   "image": "https://seedfa.st/blog/pg-dump-data-only-restore-2.svg"
   },
   {
    "title": "Mask Query Bindings in Laravel Exception Messages",
@@ -472,6 +482,16 @@
    "image": null
   },
   {
+   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+   "date": "2026-08-27T14:41:06.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
+   "image": null
+  },
+  {
    "title": "Benchmarking vector indexes",
    "link": "https://www.percona.com/blog/benchmarking-vector-indexes/",
    "date": "2026-08-27T13:35:32.000Z",
@@ -500,16 +520,6 @@
    "source": "Percona Blog",
    "summary": "1. Purpose and scope This performance investigation aims to look into the read/write performance of Percona Server for MySQL 8.4 and how it changed between versions released in 2026: 8.4.8-8 released on 12 March 2026 8.4",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Berliners blog: Rebuilding a data-driven Drupal site: From ctools plugins to Layout Builder blocks",
-   "link": "https://blog.dev030.com/posts/rebuilding-data-driven-drupal-site-ctools-plugins-layout-builder-blocks",
-   "date": "2026-08-27T13:06:52.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Rebuilding a data-driven Drupal site: From ctools plugins to Layout Builder blocks In the previous post, I described why we chose Layout Builder and how Layout Builder IPE restored the frontend editing workflow we had us",
-   "image": null
   },
   {
    "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
@@ -550,6 +560,16 @@
    "source": "Laravel News",
    "summary": "Laravel 13.27 adds whereBinary() to the query builder for byte-exact, case-sensitive comparisons on MySQL and MariaDB without dropping into whereRaw(). The post whereBinary(): Case-Sensitive MySQL Queries in Laravel appe",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel13-27-whereBinary-case-sensitive-search-featured.png"
+  },
+  {
+   "title": "animation-trigger",
+   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+   "date": "2026-08-26T15:38:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
+   "image": null
   },
   {
    "title": "Compile PHP to Native Binaries with TypePHP",
@@ -672,6 +692,16 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
    "date": "2026-08-25T11:39:24.000Z",
@@ -742,6 +772,16 @@
    "image": null
   },
   {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
+  },
+  {
    "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
    "link": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
    "date": "2026-08-24T13:53:35.000Z",
@@ -789,6 +829,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.1.5 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
    "image": null
   },
   {
@@ -872,6 +922,16 @@
    "image": null
   },
   {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
+   "image": null
+  },
+  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -889,6 +949,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Date of release: 19 August 2026 Severity: High Affected product: PMM Impacted versions: 3.9.0 and below Summary Percona has recently been made aware of a security vulnerability affecting PMM. We take the security of our ",
+   "image": null
+  },
+  {
+   "title": "WordPress.com Student Plan",
+   "link": "https://css-tricks.com/wordpress-student-plan/",
+   "date": "2026-08-19T08:50:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -939,6 +1009,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
+   "image": null
+  },
+  {
+   "title": "Dark mode toggles: two states are enough",
+   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+   "date": "2026-08-17T14:15:50.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
    "image": null
   },
   {
