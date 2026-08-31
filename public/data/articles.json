@@ -1,85 +1,145 @@
 {
- "generatedAt": "2026-08-30T19:48:46.659Z",
+ "generatedAt": "2026-08-31T01:21:43.259Z",
  "articles": [
   {
-   "title": "A Practical Guide to ModSecurity/Coraza SecRule Syntax (and the mistakes that bite)",
-   "link": "https://dev.to/whitmojm/a-practical-guide-to-modsecuritycoraza-secrule-syntax-and-the-mistakes-that-bite-m00",
-   "date": "2026-08-30T19:40:10.000Z",
+   "title": "I removed every delete from my exactly-once guard. Then the bugs moved.",
+   "link": "https://dev.to/jigonyoo/i-removed-every-delete-from-my-exactly-once-guard-then-the-bugs-moved-302i",
+   "date": "2026-08-31T01:16:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you run a WAF backed by ModSecurity or Coraza (the Go rewrite most modern setups use now — nginx, HAProxy via SPOE, Traefik plugins, etc.), sooner or later you write a custom SecRule by hand. The syntax is powerful an",
+   "summary": "Your monitoring will not flag a duplicate charge. Every one of them is a 200. The refund succeeded. It succeeded again four hundred milliseconds later on a ok. The customer's Guardrails are usually built around may this ",
    "image": null
   },
   {
-   "title": "Tried `corsairdev/corsair` Today: A Practical Gateway Test Drive",
-   "link": "https://dev.to/james_lin/tried-corsairdevcorsair-today-a-practical-gateway-test-drive-bd0",
-   "date": "2026-08-30T19:05:38.000Z",
+   "title": "A Symlink Swap Is Not a Zero-Downtime Deploy",
+   "link": "https://dev.to/nasrulhazim/a-symlink-swap-is-not-a-zero-downtime-deploy-4bb2",
+   "date": "2026-08-31T01:14:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Tried corsairdev/corsair Today: A Practical Gateway Test Drive I took a quick look at corsairdev/corsair, a project focused on connecting users to their own applications. It is gaining attention quickly, with +99 GitHub ",
+   "summary": "TL;DR — I had Capistrano-style releases on a plain VM: build into releases/ , swap a symlink, restart the service. Atomic, I thought. Then I put curl in a loop and watched an actual deploy: 502 on every single one, for t",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr5mj8ce7e3qlpfvebcgs.png"
+  },
+  {
+   "title": "Kubernetes CreateContainerConfigError: How to Debug and Fix It",
+   "link": "https://dev.to/devtocash/kubernetes-createcontainerconfigerror-how-to-debug-and-fix-it-lj1",
+   "date": "2026-08-31T01:07:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. CreateContainerConfigError means the kubelet tried to assemble your container's configuratio",
    "image": null
   },
   {
-   "title": "48 Hours of API Contract Drift: Field Notes from a Free Model on a Free Server",
-   "link": "https://dev.to/codepy_1473/48-hours-of-api-contract-drift-field-notes-from-a-free-model-on-a-free-server-1n91",
-   "date": "2026-08-30T18:47:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most API breakages don't announce themselves in advance; they arrive as a 500 in a client you haven't touched in weeks. After a Monday morning debugging session that lasted until lunch, I wondered whether a free model on",
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_min_messages, log_min_error_statement, and log_error_verbosity",
+   "link": "https://postgr.es/p/9ty",
+   "date": "2026-08-31T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Three parameters control what reaches your server log: a severity floor, whether to attach the triggering SQL, and how many fields each message prints.",
    "image": null
   },
   {
-   "title": "Shipping It — Scaffolding & CI/CD (Part 4)",
-   "link": "https://dev.to/akashpal/shipping-it-scaffolding-cicd-part-4-54g4",
-   "date": "2026-08-30T18:46:00.000Z",
+   "title": "The Free Server Rebooted at 3 AM and the Model Watchdog Went Silent",
+   "link": "https://dev.to/codepy_1473/the-free-server-rebooted-at-3-am-and-the-model-watchdog-went-silent-m41",
+   "date": "2026-08-31T00:53:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Part 3 covered how login is unified across every mounted page. This part is how the platform actually ships: scaffolding a new domain team by leveraging the domain template, where the resulting bundles actually live, and",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr6vmn3ri7eso7vroupm2.png"
-  },
-  {
-   "title": "I Got Tired of Spam Calls, So I Built an AI Honeypot on Google Cloud",
-   "link": "https://dev.to/adamm285/i-got-tired-of-spam-calls-so-i-built-an-ai-honeypot-on-google-cloud-556i",
-   "date": "2026-08-30T18:31:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you run a small service business or trade outfit, your phone is basically your cash register. The problem is, it’s also an open door for everyone trying to sell you SEO, commercial loans, or health insurance. Even wor",
+   "summary": "MonkeyCode offers free models and a free server option. The watchdog called the same model every 30 minutes. Then the server rebooted. This article builds a reboot-resistant watchdog. A watchdog is a small program that c",
    "image": null
   },
   {
-   "title": "Adding Full Test Coverage and Refactoring the Sales Navigation in a Monorepo API/Web Stack",
-   "link": "https://dev.to/zaerohell/adding-full-test-coverage-and-refactoring-the-sales-navigation-in-a-monorepo-apiweb-stack-37pa",
-   "date": "2026-08-30T18:19:02.000Z",
+   "title": "Android Developer Verification hits Brazil on September 30",
+   "link": "https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856",
+   "date": "2026-08-31T00:44:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Adding Full Test Coverage and Refactoring the Sales Navigation in a Monorepo API/Web Stack TL;DR: I added 29 unit tests for the CFDI and Treasury controllers, fixed several pipeline‑related bugs, and unified the Ventas n",
+   "summary": "Google's developer verification requirement starts enforcing in about a month, and Brazil is one of the four countries it lands in first. If you work here, this is not a 2027 problem you get to read about later. Most of ",
    "image": null
   },
   {
-   "title": "My Public IP Kept Changing While Connecting TablePlus to DigitalOcean - How I Fixed It",
-   "link": "https://dev.to/tahsin000/my-public-ip-kept-changing-while-connecting-tableplus-to-digitalocean-heres-how-i-fixed-it-56f4",
-   "date": "2026-08-30T18:10:25.000Z",
+   "title": "A Credential Rotation Without an Overlap Is Just an Outage You Scheduled",
+   "link": "https://dev.to/nasrulhazim/a-credential-rotation-without-an-overlap-is-just-an-outage-you-scheduled-388f",
+   "date": "2026-08-31T00:26:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Recently, I ran into a small but confusing problem while connecting TablePlus to a DigitalOcean Managed Database. At first, I thought something was wrong with TablePlus. It wasn’t. The real problem was my public IP addre",
+   "summary": "TL;DR — I shipped managed S3-compatible storage servers today, and the most interesting thing in the whole feature wasn't the provisioning pipeline. It was discovering that the storage daemon has no \"rotate key\" command ",
    "image": null
   },
   {
-   "title": "I Built an AI Incident Responder That Has to Earn Permission Before It Acts",
-   "link": "https://dev.to/sabarish13_/i-built-an-ai-incident-responder-that-has-to-earn-permission-before-it-acts-1m91",
-   "date": "2026-08-30T18:04:44.000Z",
+   "title": "Quick Test Drive: `sponsors/alam00000` and the Privacy-First PDF Toolkit",
+   "link": "https://dev.to/james_lin/quick-test-drive-sponsorsalam00000-and-the-privacy-first-pdf-toolkit-4003",
+   "date": "2026-08-31T00:18:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most AI agents today fall into one of two categories. They either have very limited permissions and can only suggest what a human should do, or they are given powerful tools and trusted to take actions on their own. For ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgl12rmuc3nab2xu3yr7x.jpeg"
+   "summary": "Quick Test Drive: sponsors/alam00000 and the Privacy-First PDF Toolkit sp​onsors/alam00000 is attracting attention today with +76 GitHub stars, which is a strong signal for a privacy-focused developer utility. The projec",
+   "image": null
+  },
+  {
+   "title": "Fix SSL/TLS Certificate Handshake Failures – Step‑by‑Step Guide for Developers",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-4paj",
+   "date": "2026-08-31T00:09:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction A TLS handshake failure is one of the most frustrating errors you can encounter when deploying web services. Whether you see SSL handshake failed, certificate verify failed, or a generic ERR_SSL_PROTOCOL_ERR",
+   "image": null
+  },
+  {
+   "title": "Understanding ChatGPT Work",
+   "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+   "date": "2026-08-30T23:59:47.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is a",
+   "image": null
+  },
+  {
+   "title": "Symfony 8.1.6 released",
+   "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-30T21:44:04.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 8.1.6 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 7.4.18 released",
+   "link": "https://symfony.com/blog/symfony-7-4-18-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-30T21:39:49.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 7.4.18 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "Symfony 6.4.45 released",
+   "link": "https://symfony.com/blog/symfony-6-4-45-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-08-30T21:23:32.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 6.4.45 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+   "image": null
+  },
+  {
+   "title": "#! code: Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 3",
+   "link": "https://www.hashbangcode.com/article/drupal-11-migrating-jadu-localgov-drupal-part-3",
+   "date": "2026-08-30T19:02:15.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 3 This is the second article in a series looking at migrating from Jadu into a LocalGov Drupal (LGD) site for the Central Bedfordshire site. In the first article ",
+   "image": null
   },
   {
    "title": "A Week of Symfony #1026 (August 24–30, 2026)",
@@ -412,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-   "date": "2026-08-27T14:41:06.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
-   "image": null
-  },
-  {
    "title": "Benchmarking vector indexes",
    "link": "https://www.percona.com/blog/benchmarking-vector-indexes/",
    "date": "2026-08-27T13:35:32.000Z",
@@ -482,26 +532,6 @@
    "image": null
   },
   {
-   "title": "semab tariq: How to Calculate Fillfactor for Your Tables",
-   "link": "https://postgr.es/p/9tr",
-   "date": "2026-08-27T08:51:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A small setting most teams either ignore or guess at. Here’s the quick version, then the full breakdown. Key Takeaways Fillfactor sets how full Postgres packs each table page on write, leaving the rest as free space for ",
-   "image": null
-  },
-  {
-   "title": "Specbee: 16 Drupal AI modules that can make your website smarter",
-   "link": "https://www.specbee.com/blogs/drupal-ai-modules-for-smarter-website",
-   "date": "2026-08-27T06:25:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We rounded up 16 Drupal AI modules and sorted them for you. Deploy now, pilot on staging, or just keep an eye on it. Check it out!",
-   "image": null
-  },
-  {
    "title": "Qwen3.8-Flash-Next",
    "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
    "date": "2026-08-26T23:52:58.000Z",
@@ -520,16 +550,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.27 adds whereBinary() to the query builder for byte-exact, case-sensitive comparisons on MySQL and MariaDB without dropping into whereRaw(). The post whereBinary(): Case-Sensitive MySQL Queries in Laravel appe",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel13-27-whereBinary-case-sensitive-search-featured.png"
-  },
-  {
-   "title": "animation-trigger",
-   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-   "date": "2026-08-26T15:38:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
-   "image": null
   },
   {
    "title": "Compile PHP to Native Binaries with TypePHP",
@@ -652,16 +672,6 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
-   "title": "MicroLighter: Syntax Highlighter",
-   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-   "date": "2026-08-25T14:10:34.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
    "date": "2026-08-25T11:39:24.000Z",
@@ -732,16 +742,6 @@
    "image": null
   },
   {
-   "title": "WordPress PHP-Only Block Registration",
-   "link": "https://css-tricks.com/wordpress-php-block-registration/",
-   "date": "2026-08-24T13:54:02.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
-   "image": null
-  },
-  {
    "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
    "link": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
    "date": "2026-08-24T13:53:35.000Z",
@@ -749,16 +749,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A practical collection of tips for combining AI, Blender, and Blender MCP to streamline your Three.js workflow.",
-   "image": null
-  },
-  {
-   "title": "Your executable is a SQLite database",
-   "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-   "date": "2026-08-24T11:38:15.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte appl",
    "image": null
   },
   {
@@ -800,46 +790,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 8.1.5 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
-  },
-  {
-   "title": "Symfony 7.4.17 released",
-   "link": "https://symfony.com/blog/symfony-7-4-17-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-22T13:44:16.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 7.4.17 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 6.4.44 released",
-   "link": "https://symfony.com/blog/symfony-6-4-44-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-22T13:40:41.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 6.4.44 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Resolved: CSS Class Prefix Selector",
-   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-   "date": "2026-08-21T15:13:03.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
-   "image": null
-  },
-  {
-   "title": "New in Twig 3.29: Documentation Comments",
-   "link": "https://symfony.com/blog/new-in-twig-3-29-documentation-comments?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-21T13:34:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Contributed by Fabien Potencier in #4871…",
-   "image": "https://github.com/fabpot.png"
   },
   {
    "title": "\"A\" for \"Apathy\"",
@@ -922,16 +872,6 @@
    "image": null
   },
   {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
-   "image": null
-  },
-  {
    "title": "Relighting Images with Depth Maps and Three.js",
    "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
    "date": "2026-08-19T14:42:19.000Z",
@@ -949,16 +889,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Date of release: 19 August 2026 Severity: High Affected product: PMM Impacted versions: 3.9.0 and below Summary Percona has recently been made aware of a security vulnerability affecting PMM. We take the security of our ",
-   "image": null
-  },
-  {
-   "title": "WordPress.com Student Plan",
-   "link": "https://css-tricks.com/wordpress-student-plan/",
-   "date": "2026-08-19T08:50:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though. WordPress.com Student Plan originally ha",
    "image": null
   },
   {
@@ -1009,16 +939,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Percona University is coming to Montevideo. On September 23rd, 2026, we’re getting together for a full day of technical talks on open source software, and you are invited! If you work or study with open source software i",
-   "image": null
-  },
-  {
-   "title": "Dark mode toggles: two states are enough",
-   "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-   "date": "2026-08-17T14:15:50.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system. Dark mode toggles: two states are enough originally handwritten and published with love on CSS",
    "image": null
   },
   {
