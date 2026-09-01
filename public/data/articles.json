@@ -1,84 +1,134 @@
 {
- "generatedAt": "2026-09-01T01:48:03.827Z",
+ "generatedAt": "2026-09-01T10:02:28.561Z",
  "articles": [
   {
-   "title": "LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production",
-   "link": "https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42",
-   "date": "2026-09-01T00:57:06.000Z",
+   "title": "One Second Without DNS, Eight Hours Offline",
+   "link": "https://dev.to/robswierk/one-second-without-dns-eight-hours-offline-986",
+   "date": "2026-09-01T10:00:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "LocalStack versus Spinifex comes up often enough to address directly. They don't compete because they solve different problems at different points in the software lifecycle. Conflating the two leads to reaching for the w",
+   "summary": "A syndication job noticed before I did A scheduled task publishes one blog post a day to a developer community. It fetches the article from my own site, converts it, and posts it. At 10:00 it failed four times with this:",
    "image": null
   },
   {
-   "title": "Concurrent Versions System (CVS): Understanding Legacy Version Control (2026-09-01 00:51)",
-   "link": "https://dev.to/said_olano/concurrent-versions-system-cvs-understanding-legacy-version-control-2026-09-01-0051-5729",
-   "date": "2026-09-01T00:51:43.000Z",
+   "title": "Why the fastest teams standardize first 🏎️",
+   "link": "https://dev.to/upsun/why-the-fastest-teams-standardize-first-2gac",
+   "date": "2026-09-01T09:56:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Concurrent Versions System (CVS): Legacy Version Control Before Git dominated the software development landscape, and even before Subversion rose to prominence, Concurrent Versions System (CVS) was the de facto standard ",
+   "summary": "Developers spend 40 to 60 percent of their time on non-coding, non-strategic toil like broken staging environments and environment drift. Ad hoc speed feels fast, but variability throttles overall throughput. Here is how",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fupsun.com%2Fimage%3Fid%3D945%26type%3Dblog-posts%26size%3Dsocial"
+  },
+  {
+   "title": "Query before you mutate: how agents should touch your infrastructure",
+   "link": "https://dev.to/nirmalpatel008/query-before-you-mutate-how-agents-should-touch-your-infrastructure-1h25",
+   "date": "2026-09-01T09:53:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The problem with plan, review, apply Infrastructure-as-code was designed around human-speed changes: write a plan, review it, apply it, and use state snapshots to know what was managed before. That works best when writer",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffrdt153155w6m794anoz.png"
+  },
+  {
+   "title": "CRM Software Development Company in India: Custom CRM Solutions for Business Growth",
+   "link": "https://dev.to/upwork_floatinginfotech_/crm-software-development-company-in-india-custom-crm-solutions-for-business-growth-9h2",
+   "date": "2026-09-01T09:44:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In today’s competitive business environment, managing customers efficiently is just as important as acquiring new ones. Businesses need to track leads, manage sales pipelines, communicate with customers, monitor team per",
    "image": null
   },
   {
-   "title": "How Actively Are Open-Source API Clients Still Being Built? (2026)",
-   "link": "https://dev.to/kimcomplete/how-actively-are-open-source-api-clients-still-being-built-2026-5ph",
-   "date": "2026-09-01T00:49:45.000Z",
+   "title": "Day 62: Manage Secrets in Kubernetes",
+   "link": "https://dev.to/janak0ff/day-62-manage-secrets-in-kubernetes-508o",
+   "date": "2026-09-01T09:40:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Open-source API clients like Bruno and Kong's Insomnia are still under heavy development. Here's what their public GitHub activity shows about how actively they're being built. Commercial API clients have pushed steadily",
+   "summary": "The Nautilus DevOps team is working to deploy some tools in Kubernetes cluster. Some of the tools are licence based so that licence information needs to be stored securely within Kubernetes cluster. Therefore, the team w",
    "image": null
   },
   {
-   "title": "Where Finished Logs Go — Deciding Between Delete, Keep, and Compress",
-   "link": "https://dev.to/amru195704/where-finished-logs-go-deciding-between-delete-keep-and-compress-3di7",
-   "date": "2026-09-01T00:40:20.000Z",
+   "title": "Green build, wrong numbers: five silent bugs in my GitHub stats",
+   "link": "https://dev.to/codabytez/green-build-wrong-numbers-five-silent-bugs-in-my-github-stats-h61",
+   "date": "2026-09-01T09:39:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The incident investigation is over. The postmortem is written. What's left on disk is the tens of gigabytes of logs you used to get there. So what happens to them? In most shops, that call gets made on the spur of the mo",
+   "summary": "I spent a day rebuilding my GitHub profile card and found five problems I did not expect. None of them threw an error. Every version of the script ran cleanly and produced a card. Some of those cards were wrong about me.",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl6kvwucmruxc2hukleam.png"
+  },
+  {
+   "title": "155 Companies Just Predicted the Next Wave of Autonomous Attacks. DevFortress Is Built for the Part They Can't Fix.",
+   "link": "https://dev.to/ndegwaduncan/155-companies-just-predicted-the-next-wave-of-autonomous-attacks-devfortress-is-built-for-the-part-7e",
+   "date": "2026-09-01T09:28:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Industry Isn't Guessing About What's Coming. It Told You in Writing, on August 27. Most warnings about AI-enabled attacks come from outside the industry: researchers, regulators, journalists. This one didn't. It came",
    "image": null
   },
   {
-   "title": "GEO Is the New SEO: How to Get Cited by ChatGPT, Perplexity, and Google AI Overviews",
-   "link": "https://dev.to/__d34ca/geo-is-the-new-seo-how-to-get-cited-by-chatgpt-perplexity-and-google-ai-overviews-goi",
-   "date": "2026-09-01T00:39:33.000Z",
+   "title": "The npm Worm That Brought Its Own Interpreter",
+   "link": "https://dev.to/madhavan_srajangupta_34c/the-npm-worm-that-brought-its-own-interpreter-4ck1",
+   "date": "2026-09-01T09:26:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For two decades, ranking well in Google was the whole game. Now a growing share of searches never touch a search engine at all — people just ask ChatGPT, Perplexity, or Gemini directly, and get a synthesized answer with ",
+   "summary": "On November 24, 2025, researchers identified a wave of backdoored npm packages that had been downloading a second JavaScript runtime during install. Not a shell script, not a compiled binary from a CDN. A whole other int",
    "image": null
   },
   {
-   "title": "Why WireGuard Connections Silently Fail: 5 Production Traps and How to Fix Them",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-wireguard-connections-silently-fail-5-production-traps-and-how-to-fix-them-14b6",
-   "date": "2026-09-01T00:31:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "WireGuard is one of the cleanest network protocols in modern infrastructure: under 4,000 lines of kernel code, state-of-the-art cryptography (Noise protocol, Curve25519, ChaCha20-Poly1305), and exceptional throughput. Ye",
-   "image": null
+   "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+   "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+   "date": "2026-09-01T08:26:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
   },
   {
-   "title": "Incident Communication: The Status Page That Builds Trust",
-   "link": "https://dev.to/samson_tanimawo/incident-communication-the-status-page-that-builds-trust-2nmj",
-   "date": "2026-09-01T00:25:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Silence Destroys Trust During our worst outage, we went 35 minutes without updating the status page. Twitter filled the void. Theories ranged from data breach to bankruptcy. A customer posted \"They're probably shutdown\" ",
-   "image": null
+   "title": "Vibhor Kumar: When AI Takes Action, What Proves What Actually Happened?",
+   "link": "https://postgr.es/p/9tD",
+   "date": "2026-09-01T07:34:56.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Why transactional evidence matters as AI moves from generating answers to changing business state Imagine an AI agent handling a customer refund. It receives the request, retrieves the order, evaluates the relevant infor",
+   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/09/image-1.png?w=825"
   },
   {
-   "title": "How to Fix SSL/TLS Certificate Handshake Failures – Step-by-Step Guide for Developers",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-developers-3ll5",
-   "date": "2026-09-01T00:21:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction SSL/TLS handshake failures are a frequent headache for developers, engineers, and DevOps teams. Whether you're integrating a third‑party API, deploying a microservice, or troubleshooting a CI/CD pipeline, a ",
+   "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+   "date": "2026-09-01T07:22:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
+  },
+  {
+   "title": "Henrietta Dombrovskaya: That’s how Postgres met Django!",
+   "link": "https://postgr.es/p/9tC",
+   "date": "2026-09-01T02:26:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "That was an experimental meetup: we never, ever scheduled meetups in August, especially during the last week of August! Still, when Keanya Phelps came up with the idea to have a Postgres meetup during the Djangocon.US co",
+   "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
+  },
+  {
+   "title": "Gspikes: The Complete Drupal 7 → Drupal 11 Migration Checklist: 52 Steps, In Order",
+   "link": "https://gspikes.com/drupal-7-to-drupal-11-migration-checklist/",
+   "date": "2026-09-01T01:13:25.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every Drupal 7 to Drupal 11 migration we run follows the same 52 steps in the same order — audit, content model, module mapping, the 301 map, build, verification, and a cutover designed so rollback is one DNS change away",
    "image": null
   },
   {
@@ -262,6 +312,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
   },
   {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
+   "image": null
+  },
+  {
    "title": "Drupal Association blog: The Drupal Association Announces 2026 Board Election Winner",
    "link": "https://www.drupal.org/association/blog/the-drupal-association-announces-2026-board-election-winner",
    "date": "2026-08-31T11:38:11.000Z",
@@ -300,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Did you know: PG19 is on track to contain the most changes to pg_catalog in history Introduction pg_catalog is one of the most important interfaces PostgreSQL gives us: it exposes the metadata that describes database str",
    "image": "https://raw.githubusercontent.com/richyen/pg-catalog-almanac/main/docs/home.png"
-  },
-  {
-   "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-   "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-   "date": "2026-08-31T07:56:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they w",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
   },
   {
    "title": "Specbee: Specbee is now a Drupal AI Initiative Partner. What does it mean for your platform?",
@@ -372,16 +422,6 @@
    "image": null
   },
   {
-   "title": "#! code: Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 3",
-   "link": "https://www.hashbangcode.com/article/drupal-11-migrating-jadu-localgov-drupal-part-3",
-   "date": "2026-08-30T19:02:15.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 11: Migrating From Jadu Into LocalGov Drupal: Part 3 This is the second article in a series looking at migrating from Jadu into a LocalGov Drupal (LGD) site for the Central Bedfordshire site. In the first article ",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1026 (August 24–30, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1026-august-24-30-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T07:43:00.000Z",
@@ -390,16 +430,6 @@
    "source": "Symfony Blog",
    "summary": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights Th",
    "image": null
-  },
-  {
-   "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-   "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-   "date": "2026-08-30T07:36:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone",
@@ -480,26 +510,6 @@
    "source": "Laravel News",
    "summary": "Every Laravel starter kit now builds with Vite+, trading ESLint and Prettier for a single vp check across React, Vue, Svelte, and Livewire. The post Laravel Starter Kits Now Ship with Vite+ appeared first on Laravel News",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/viteplus-laravel-starter-kits-featured.png"
-  },
-  {
-   "title": "Umair Shahid: How Fast Should You Patch Production PostgreSQL?",
-   "link": "https://postgr.es/p/9ts",
-   "date": "2026-08-28T11:41:21.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On August 13, 2026, PostgreSQL shipped its biggest security release ever: 28 CVEs closed in a single day. The old record was 11. The community has done its job, a phenomenal one at that! If you run PostgreSQL for critica",
-   "image": "http://stormatics.tech/wp-content/uploads/2026/08/blog.png"
-  },
-  {
-   "title": "Shaun Thomas: From the Trenches: My Path Through Postgres",
-   "link": "https://postgr.es/p/9tu",
-   "date": "2026-08-28T11:26:07.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Hello fellow Postgres Enjoyer. I'd like to do something a little different this week and talk a bit about how I got ensnared by the Postgres ecosystem, and what I've done with it over the years. Maybe you have something ",
-   "image": "https://a.storyblok.com/f/187930/2048x1150/cfbd6bb3b9/from_the_trenches.png"
   },
   {
    "title": "Pessimistic Locking in Laravel Eloquent with refreshForUpdate()",
@@ -1169,16 +1179,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
    "image": null
   },
   {
