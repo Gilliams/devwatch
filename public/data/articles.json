@@ -1,34 +1,164 @@
 {
- "generatedAt": "2026-09-01T15:27:29.878Z",
+ "generatedAt": "2026-09-01T19:55:00.122Z",
  "articles": [
   {
-   "title": "Writing Effective Runbooks",
-   "link": "https://dev.to/sri2614/writing-effective-runbooks-177",
-   "date": "2026-09-01T15:20:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Write runbooks for the tired stranger at 3am so any on-call engineer can resolve an incident without paging the one expert. You get a copyable template, how to link runbooks from alerts, and how to keep them cur",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fYWxlcnQoIkFsZXJ0IGZpcmVzPGJyLz5DaGVja291dExhdGVuY3lIaWdoIikKICBjbGFzcyBuX2FsZXJ0IG9ic2VydmFiaWxpdHk7CiAgbl9ydW5ib29rKCJMaW5rZWQgcnVuYm9vazxici8-cnVuYm9va191cmwgaW4gYWxlcnQiKQogIGNsYXNzIG5fcnVuYm9vayBleHRlcm5hbDsKICBuX3N5bXB0b21zKCJDaGVjayBzeW1wdG9tczxici8-QW0gSSBpbiB0aGUgcmlnaHQgcGxhY2U_IikKICBjbGFzcyBuX3N5bXB0b21zIGNsaWVudDsKICBuX2RpYWdub3NlKCJSdW4gZGlhZ25vc2lzPGJyLz5TY29wZWQgY29tbWFuZHMiKQogIGNsYXNzIG5fZGlhZ25vc2UgY29tcHV0ZTsKICBuX3JlbWVkaWF0ZSgiQXBwbHkgZml4PGJyLz5Lbm93biByZW1lZGlhdGlvbiIpCiAgY2xhc3Mgbl9yZW1lZGlhdGUgY29tcHV0ZTsKICBuX3ZlcmlmeSgiVmVyaWZ5IHJlY292ZXJlZDxici8-QWxlcnQgY2xlYXJzPyIpCiAgY2xhc3Mgbl92ZXJpZnkgZGF0YTsKICBuX2VzY2FsYXRlKCJFc2NhbGF0ZTxici8-T3duZXIgLyBuZXh0IHRpZXIiKQogIGNsYXNzIG5fZXNjYWxhdGUgcXVldWU7CiAgbl9hbGVydCAtLT58ImxpbmtzIHRvInwgbl9ydW5ib29rCiAgbl9ydW5ib29rIC0tPiBuX3N5bXB0b21zCiAgbl9zeW1wdG9tcyAtLT4gbl9kaWFnbm9zZQogIG5fZGlhZ25vc2UgLS0-IG5fcmVtZWRpYXRlCiAgbl9yZW1lZGlhdGUgLS0-IG5fdmVyaWZ5CiAgbl9kaWFnbm9zZSAtLi0-fCJzdHVjayJ8IG5fZXNjYWxhdGUKICBuX3ZlcmlmeSAtLi0-fCJub3QgcmVjb3ZlcmVkInwgbl9lc2NhbGF0ZQ%3FbgColor%3D0d1017%26type%3Dpng"
+   "title": "Fragments: September  1",
+   "link": "https://martinfowler.com/fragments/2026-09-01.html",
+   "date": "2026-09-01T19:50:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of s",
+   "image": null
   },
   {
-   "title": "Construye tu primer sistema de Observabilidad con Prometheus y Grafana",
-   "link": "https://dev.to/jeisonarenales/construye-tu-primer-sistema-de-observabilidad-con-prometheus-y-grafana-2nh3",
-   "date": "2026-09-01T15:04:02.000Z",
+   "title": "A Practical Scoping Checklist for Enterprise AI Projects",
+   "link": "https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6",
+   "date": "2026-09-01T19:07:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Construye tu primer sistema de Observabilidad con Prometheus y Grafana En los posts anteriores estuvimos hablando de qué es la observabilidad y cuáles son sus señales (o pilares) fundamentales. Ahora que conocemos estos ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fms1eoxhq37v3455fcmbl.png"
+   "summary": "A Practical Scoping Checklist for Enterprise AI Projects An enterprise AI project often goes wrong before the first model request is A useful first pass is to separate four decisions: the product and environment the cust",
+   "image": null
   },
   {
-   "title": "TraceSieve: See What Your Program Actually Did",
-   "link": "https://dev.to/mohith_dande_07/tracesieve-see-what-your-program-actually-did-2dml",
-   "date": "2026-09-01T15:01:50.000Z",
+   "title": "Codex bundles LibreOffice",
+   "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+   "date": "2026-09-01T19:03:01.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-p",
+   "image": null
+  },
+  {
+   "title": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)",
+   "link": "https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3",
+   "date": "2026-09-01T19:00:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When I entered the Zero Dependency Hackathon 2026, I thought the hard part would be coming up with an interesting project concept. It wasn't. The hard part was realizing how often software engineering relies on external ",
+   "summary": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit) A step-by-step walkthrough of setting up a clean staging server from scratch — SSH hardening, Docker orchestration, Let's Enc",
+   "image": null
+  },
+  {
+   "title": "CI/CD Pricing in 2026: Why Your Seats Cost More Than Your Builds",
+   "link": "https://dev.to/moksh/cicd-pricing-in-2026-why-your-seats-cost-more-than-your-builds-5c8m",
+   "date": "2026-09-01T18:54:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Pick a CI platform on features and you will end up comparing four YAML dialects that all do roughly the same thing. Pick one on its billing model and the differences get sharp fast, because these vendors do not meter the",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpw6qgnwe5u5kxp6dxvdl.webp"
+  },
+  {
+   "title": "Omega8.cc: Your Site Already Said No",
+   "link": "https://omega8.cc/blog/your-site-already-said-no",
+   "date": "2026-09-01T18:47:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI traffic is not one thing, and a policy which treats it as one thing gets the answer wrong in both directions. Here the decision is written down, class by class: the crawlers which harvest sites to train models are tur",
+   "image": "https://omega8.cc/images/7/f/9/c/7/7f9c708ec94526cb5c0d548ff269712793855630-boa-said-no-anime-halo.png"
+  },
+  {
+   "title": "Three of the five lines in that error file were not errors, and The Standup's 07:40 developer email now finishes clean when it has nothing to send",
+   "link": "https://dev.to/kynthstudios/three-of-the-five-lines-in-that-error-file-were-not-errors-and-the-standups-0740-developer-email-59fj",
+   "date": "2026-09-01T18:26:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On the morning our daily developer email genuinely cannot go out, nobody would have been able to tell it apart from a morning when nothing was wrong, because both endings looked identical from outside. launchd hands a jo",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1ck4bjgsw8xx1hd2y9tj.png"
+  },
+  {
+   "title": "Validate Residential Proxy Location as a Dataset, Not a Screenshot",
+   "link": "https://dev.to/98ip/validate-residential-proxy-location-as-a-dataset-not-a-screenshot-1dh3",
+   "date": "2026-09-01T18:12:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Disclosure: I work with 98IP. This post describes a vendor-neutral test method and does not claim that one lookup service is authoritative. A proxy gateway accepts country=US&city=New_York. Your first request returns an ",
+   "image": null
+  },
+  {
+   "title": "Trinta horas de agente, um reloginho: a fila F0",
+   "link": "https://dev.to/oroborolabs/trinta-horas-de-agente-um-reloginho-a-fila-f0-1khi",
+   "date": "2026-09-01T18:04:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "O recurso mais caro numa operação rodada por agentes de IA não é computação, nem tokens. É um específico conjunto de vinte e cinco minutos de um específico ser humano. Medimos isso por acidente, do jeito que as medições ",
+   "image": null
+  },
+  {
+   "title": "CKA vs CKAD vs CKS: Which Cert to Take First",
+   "link": "https://dev.to/amareswer/cka-vs-ckad-vs-cks-which-cert-to-take-first-31jo",
+   "date": "2026-09-01T18:04:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on DevToolHub. Three Kubernetes certifications exist, and each one tests a different job. The CKA is for people who run clusters. The CKAD is for people who deploy apps onto them. Securing those clus",
+   "image": null
+  },
+  {
+   "title": "Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control",
+   "link": "https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn",
+   "date": "2026-09-01T18:01:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "oblien/openship is gaining attention as a self-hosted deployment platform, with more than 111 new GitHub stars today. The interesting part is not the number itself; it is the operational model behind running deployment i",
+   "image": null
+  },
+  {
+   "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+   "date": "2026-09-01T17:53:11.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
+  },
+  {
+   "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+   "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+   "date": "2026-09-01T17:19:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG)",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
+  },
+  {
+   "title": "Gülçin Yıldırım Jelínek: New system views in PostgreSQL 19",
+   "link": "https://postgr.es/p/9tF",
+   "date": "2026-09-01T17:03:18.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "While writing about the monitoring improvements in PostgreSQL 19 and preparing my new talk on Postgres observability for PostgreSQL Conference Europe in October, I noticed the system views got their own section in this r",
+   "image": null
+  },
+  {
+   "title": "Quoting Tarn Adams",
+   "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+   "date": "2026-09-01T17:01:11.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fort",
+   "image": null
+  },
+  {
+   "title": "Maki Majima: Migration files and Git do not mix",
+   "link": "https://postgr.es/p/9tE",
+   "date": "2026-09-01T16:30:23.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Your repository contains two version control systems. One is Git. The other is your migration directory — a timestamped, append-only sequence of schema changes with its own applied-state tracking in the database. Two sys",
    "image": null
   },
   {
@@ -39,56 +169,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phas",
-   "image": null
-  },
-  {
-   "title": "Kubernetes is HariKube's query language, control protocol, and application interface for managing data streams",
-   "link": "https://dev.to/mhmxs/kubernetes-is-harikubes-query-language-control-protocol-and-application-interface-for-managing-2d68",
-   "date": "2026-09-01T14:54:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building production-grade microservices has meant wrestling with legacy anti-patterns, dealing with tightly coupled databases, managing complex service meshes, and burning 20 to 40 percent of our development cycles purel",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv8ceb3w5vahfxy02uped.png"
-  },
-  {
-   "title": "I shipped a paid product with Claude Code. 1,805 green tests didn't catch the bug that mattered.",
-   "link": "https://dev.to/carlosinfantes/i-shipped-a-paid-product-with-claude-code-1805-green-tests-didnt-catch-the-bug-that-mattered-bml",
-   "date": "2026-09-01T14:48:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I built SkillPilot over about three weeks with Claude Code, a set of workflow skills, and a lot of arguing. It is a real product: two Next.js apps on Cloudflare Workers, Supabase for auth and entitlement, Stripe as merch",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdop1xf72fm7s1kjtb7jj.png"
-  },
-  {
-   "title": "A Practical Guide to Database Migration Without Operational Chaos",
-   "link": "https://dev.to/kate_steeleeee/a-practical-guide-to-database-migration-without-operational-chaos-563m",
-   "date": "2026-09-01T14:40:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Database migration is often summarized as moving data from one system to another. That description is technically correct and operationally incomplete. A database carries business meaning: relationships, permissions, his",
-   "image": null
-  },
-  {
-   "title": "Deploying code and releasing a feature are two different days",
-   "link": "https://dev.to/goodbarber/deploying-code-and-releasing-a-feature-are-two-different-days-301n",
-   "date": "2026-09-01T14:37:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Everything we run ships continuously. The engine behind the apps, the back office our customers build in, the web products around them — code moves to production at the rhythm of engineering: when it's ready, it goes. Fe",
-   "image": null
-  },
-  {
-   "title": "GCP The Hard Way — Part 2: Diagnosing Failures in a Highly Available Three-Tier Architecture",
-   "link": "https://dev.to/pilgrim2go/gcp-the-hard-way-part-2-diagnosing-failures-in-a-highly-available-three-tier-architecture-57n1",
-   "date": "2026-09-01T14:36:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction High availability features like managed instance groups (MIGs) and when and how quickly these mechanisms respond to failure is The architecture consists of a global HTTP load balancer distributing ┌─────────",
    "image": null
   },
   {
@@ -312,16 +392,6 @@
    "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/fortification-c.jpg.webp?itok=ORKBnJi7"
   },
   {
-   "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-   "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-   "date": "2026-08-31T17:24:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79i0RXS7ZzzPurGwbsquOv8l9-GsYQmsw9y1qCzEeDMKYNXjn84VZVfVZU9aiGqnyDyQ6ZdgKosZxn60KtJ6TgTREMyC_ZnhyCxv3kSLtAXBHA2suVHDYFdWYllL4aN0-exJxnCfjXJL5dlo08aVU1YtzJchTD7nORvsBe0oXivCBhctDCcEn85Cmjiab/s1600/1000104722.jpg"
-  },
-  {
    "title": "The Drop Times: When Websites Become Interfaces for Machines",
    "link": "https://www.thedroptimes.com/newsletter/when-websites-become-interfaces-machines?utm_source=Drupal Planet",
    "date": "2026-08-31T16:40:35.000Z",
@@ -342,24 +412,24 @@
    "image": null
   },
   {
-   "title": "Acquia.com - Drupal Blog: Two Keynotes, One Question: Building Through Disruption at Drupal GovCon",
-   "link": "https://www.acquia.com/blog/two-keynotes-one-question-building-through-disruption-drupal-govcon",
-   "date": "2026-08-31T14:19:54.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Two Drupal GovCon keynotes on building through disruption: the courage to lead change, and the care to keep people from being left behind.",
+   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+   "link": "https://css-tricks.com/css-random-function-polyfill/",
+   "date": "2026-08-31T15:12:19.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
    "image": null
   },
   {
-   "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-   "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-   "date": "2026-08-31T13:50:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQHUlnyxCIYFLSRsvotvppFdq5zZ2BQQXJ4PI03uluqvzH3d4FhLogVr2pn0zbUGUQlQQXrk53CDaRZ3q4jC3wLxxG9NPQMtAsx0qkU4yatwjEogU-3RF4s2jpxb394Sd2JMEYhBKbv9TJd41QqI3WRZEcd5UWHXvszq1cKblrRBthblIYeefUx3wPbBM/s1600/recap.jpg"
+   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+   "link": "https://css-tricks.com/whats-important-18/",
+   "date": "2026-08-31T14:08:55.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+   "image": null
   },
   {
    "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
@@ -472,26 +542,6 @@
    "image": null
   },
   {
-   "title": "Pavel Stehule: Integration Lua to psql III",
-   "link": "https://postgr.es/p/9tw",
-   "date": "2026-08-29T05:47:32.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "I finished patch that integrates Lua language to psql client https://github.com/okbob/lua-psql I wrote two examples. Second is a wrapping VACUUM command. Target is a more readable output in verbose mode. One bonus is pri",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_rotation_age, log_rotation_size, and log_truncate_on_rotation",
-   "link": "https://postgr.es/p/9tv",
-   "date": "2026-08-29T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's log rotation has three parameters that only make sense together: one rotates at clock boundaries, one at file sizes, and one decides whether to…",
-   "image": null
-  },
-  {
    "title": "Cancel In-Flight Form Submissions in Inertia.js v3.7",
    "link": "https://laravel-news.com/inertia-3-7-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-28T22:45:01.000Z",
@@ -552,16 +602,6 @@
    "image": null
   },
   {
-   "title": "Breaking Claude Code Opus 5 Auto Mode",
-   "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-   "date": "2026-08-27T22:50:25.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default a",
-   "image": null
-  },
-  {
    "title": "PHP 8.5.10 Released!",
    "link": "https://www.php.net/index.php#2026-08-27-3",
    "date": "2026-08-27T22:44:37.000Z",
@@ -589,6 +629,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.25. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.25 please visit our , W",
+   "image": null
+  },
+  {
+   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+   "date": "2026-08-27T14:41:06.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
    "image": null
   },
   {
@@ -642,13 +692,13 @@
    "image": null
   },
   {
-   "title": "Qwen3.8-Flash-Next",
-   "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-   "date": "2026-08-26T23:52:58.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which",
+   "title": "animation-trigger",
+   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+   "date": "2026-08-26T15:38:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
    "image": null
   },
   {
@@ -742,6 +792,16 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
    "date": "2026-08-25T11:39:24.000Z",
@@ -802,6 +862,16 @@
    "image": null
   },
   {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
+  },
+  {
    "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
    "link": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
    "date": "2026-08-24T13:53:35.000Z",
@@ -839,6 +909,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "What building a Three.js lab around my own music taught me about the renderer.",
+   "image": null
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
    "image": null
   },
   {
@@ -909,6 +989,16 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Jim Highsmith recognizes that effective writing from a practitioner is a style distinct from academic writing or thought-leadership content. It's a style that I advocate, and my contributors mostly follow. Jim decided it",
+   "image": null
+  },
+  {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
   },
   {
@@ -1069,16 +1159,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
-  },
-  {
-   "title": "The Conductor Developer",
-   "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-   "date": "2026-07-31T13:48:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "TL;DR Why I think software development is starting to feel a little more like conducting an orchestra. There’s a shift happening in software development that I don’t think we’re talking about clearly enough. For the last",
    "image": null
   },
   {
