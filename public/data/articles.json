@@ -1,55 +1,155 @@
 {
- "generatedAt": "2026-09-02T15:04:24.322Z",
+ "generatedAt": "2026-09-02T19:45:21.511Z",
  "articles": [
   {
-   "title": "Netmiko vs pexpect vs tmux: pick the existing tool before you build your own",
-   "link": "https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o",
-   "date": "2026-09-02T14:58:30.000Z",
+   "title": "Как зелёный пайплайн однажды выкатил сломанный билд",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/kak-zielionyi-paiplain-odnazhdy-vykatil-slomannyi-bild-g58",
+   "date": "2026-09-02T19:39:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Netmiko vs pexpect vs tmux: pick the existing tool before you build your own You need to automate an interactive command-line session, send a command, wait for a prompt, react. Before you write a pty loop of your own, kn",
+   "summary": "Однажды в пятницу вечером наш пайплайн честно горел зелёным, а прод при этом лежал. Я до сих пор помню это ощущение: все галочки на месте, а пользователи пишут, что ничего не работает. Разбираться пришлось прямо в проде,",
    "image": null
   },
   {
-   "title": "tmux capture-pane -p reads only the visible pane, and it fails silently",
-   "link": "https://dev.to/vainamoinen/tmux-capture-pane-p-reads-only-the-visible-pane-and-it-fails-silently-1927",
-   "date": "2026-09-02T14:58:28.000Z",
+   "title": "50 Easy Ways to Buy Old Gmail Accounts Smartly end...",
+   "link": "https://dev.to/gabiebarnettuddct/50-easy-ways-to-buy-old-gmail-accounts-smartly-end-2ef3",
+   "date": "2026-09-02T19:35:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "tmux capture-pane -p reads only the visible pane, and it fails silently A short, specific gotcha that costs an afternoon. If you monitor or automate a long-running process by scraping its tmux pane, capture-pane -p shows",
+   "summary": "Buy Old Gmail Accounts: Complete Guide to Account Age, Security, Risks, and Safer Alternatives getpvatop@gmail.com https://getpvatop.com/product/buy-old-gmail-accounts/ Introduction However, an account's age should not b",
    "image": null
   },
   {
-   "title": "The 30-second check that stops you building what already exists",
-   "link": "https://dev.to/vainamoinen/the-30-second-check-that-stops-you-building-what-already-exists-3kap",
-   "date": "2026-09-02T14:58:27.000Z",
+   "title": "Liquibase: Git for Databases (with Spring Boot)",
+   "link": "https://dev.to/amanjotsingh/liquibase-git-for-databases-with-spring-boot-1ic0",
+   "date": "2026-09-02T19:26:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The 30-second check that stops you building what already exists A short, honest engineering retro. I let an AI coding agent (and myself) build a bespoke tool for a job that Netmiko, Ansible, and Oxidized already do. The ",
+   "summary": "Application code has Git. We commit changes, track history, handle branches, and revert broken releases seamlessly. What about Database schemas??? Historically, they have been managed through manual SQL scripts passed ar",
    "image": null
   },
   {
-   "title": "Capacity Planning for Reliability: Forecast, Load Test, and Right-Size",
-   "link": "https://dev.to/sri2614/capacity-planning-for-reliability-forecast-load-test-and-right-size-44jh",
-   "date": "2026-09-02T14:51:13.000Z",
+   "title": "Inside `zubair-trabzada/geo-seo-claude`: A Practical GEO Workflow for Claude Code",
+   "link": "https://dev.to/james_lin/inside-zubair-trabzadageo-seo-claude-a-practical-geo-workflow-for-claude-code-38pj",
+   "date": "2026-09-02T19:25:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Plan for the peak, pay for the average. Learn to forecast growth, set headroom targets, load test, and make the real call between provisioned capacity and autoscaling so systems survive spikes without bleeding m",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fbWV0cmljcygiSGlzdG9yaWNhbCBNZXRyaWNzPGJyLz5SUFMsIENQVSwgbGF0ZW5jeSIpCiAgY2xhc3Mgbl9tZXRyaWNzIG9ic2VydmFiaWxpdHk7CiAgbl9mb3JlY2FzdCgiRGVtYW5kIEZvcmVjYXN0PGJyLz5wZWFrICsgZ3Jvd3RoIikKICBjbGFzcyBuX2ZvcmVjYXN0IGNvbXB1dGU7CiAgbl9sb2FkdGVzdCgiTG9hZCBUZXN0PGJyLz5jYXBhY2l0eSBwZXIgdW5pdCIpCiAgY2xhc3Mgbl9sb2FkdGVzdCBjb21wdXRlOwogIG5fZGVjaXNpb24oIkNhcGFjaXR5IERlY2lzaW9uPGJyLz5oZWFkcm9vbSB0YXJnZXQiKQogIGNsYXNzIG5fZGVjaXNpb24gZWRnZTsKICBuX2ZsZWV0KCJGbGVldDxici8-YXV0b3NjYWxlZCAvIHByb3Zpc2lvbmVkIikKICBjbGFzcyBuX2ZsZWV0IGNvbXB1dGU7CiAgbl91dGlsKCJVdGlsaXphdGlvbjxici8-bGl2ZSBmZWVkYmFjayIpCiAgY2xhc3Mgbl91dGlsIG9ic2VydmFiaWxpdHk7CiAgbl9tZXRyaWNzIC0tPnwidHJlbmQifCBuX2ZvcmVjYXN0CiAgbl9mb3JlY2FzdCAtLT4gbl9sb2FkdGVzdAogIG5fbG9hZHRlc3QgLS0-IG5fZGVjaXNpb24KICBuX2RlY2lzaW9uIC0tPnwicHJvdmlzaW9uInwgbl9mbGVldAogIG5fZmxlZXQgLS4tPnwibW9uaXRvciJ8IG5fdXRpbAogIG5fdXRpbCAtLi0-fCJyZS1mb3JlY2FzdCJ8IG5fZm9yZWNhc3Q%3FbgColor%3D0d1017%26type%3Dpng"
+   "summary": "The recent surge in stars around zubair-trabzada/geo-seo-claude reflects a broader shift in search engineering: optimizing content not only for traditional ranking systems, but also for AI-generated answers. This reposit",
+   "image": null
   },
   {
-   "title": "Every Claim Needs a Shipped Source and an Executable Proof",
-   "link": "https://dev.to/jeremy_longshore/every-claim-needs-a-shipped-source-and-an-executable-proof-3l0e",
-   "date": "2026-09-02T14:49:15.000Z",
+   "title": "A aplicação estava saudável. O negócio estava parado.",
+   "link": "https://dev.to/scussel/a-aplicacao-estava-saudavel-o-negocio-estava-parado-1b6f",
+   "date": "2026-09-02T19:24:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I told GPT 5.6 Luna, running through Codex, to finish teh epics and beads on the plugins repo. It ran for about 361 minutes across 2 sessions and 187 turns, and it closed nothing. No file mutated, no Beads record touched",
+   "summary": "Uma aplicação de produção começou a devolver erros de autenticação para usuários reais. O primeiro impulso foi procurar uma queda de servidor, um processo travado ou algum problema no banco. Nada disso tinha acontecido. ",
    "image": null
+  },
+  {
+   "title": "Standardizing Jira Workspaces for Human-Agent Collaboration: A Guide for Engineering Leaders",
+   "link": "https://dev.to/isuvo/standardizing-jira-workspaces-for-human-agent-collaboration-a-guide-for-engineering-leaders-3e6j",
+   "date": "2026-09-02T19:15:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction For years, engineering leaders have treated software delivery tools as passive repositories of record. We configured Jira workflows, defined transition rules, and expected human developers, product managers,",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd17r10d9xjmw1qc6mehp.jpg"
+  },
+  {
+   "title": "curl 8.22 Fixed an HTTP/3 Proxy Crash. Test the Boundary, Not Just the Happy Path",
+   "link": "https://dev.to/98ip/curl-822-fixed-an-http3-proxy-crash-test-the-boundary-not-just-the-happy-path-d1k",
+   "date": "2026-09-02T19:14:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "curl 8.22.0 shipped on September 2 with two proxy-relevant fixes: an HTTP/3 proxy path no longer dereferences a null pointer when a non-status response header arrives before :status, and CONNECT trailer handling was corr",
+   "image": null
+  },
+  {
+   "title": "Le pipeline le plus rapide n'est pas toujours le meilleur",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/le-pipeline-le-plus-rapide-nest-pas-toujours-le-meilleur-2dh2",
+   "date": "2026-09-02T19:07:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On m'a demandé un jour de faire passer un pipeline de dix-huit minutes sous les cinq minutes. J'ai réussi. Trois semaines plus tard, on a livré un bug en production qui aurait été attrapé par les tests d'intégration que ",
+   "image": null
+  },
+  {
+   "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+   "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+   "date": "2026-09-02T18:27:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg"
+  },
+  {
+   "title": "Sidecar Brings Statamic's Control Panel to Your Existing Markdown Sites",
+   "link": "https://laravel-news.com/statamic-sidecar?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-02T18:15:31.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Sidecar lets you manage markdown documentation and static sites from LaraDocs, Jigsaw, VitePress, and HydePHP directly inside the Statamic Control Panel The post Sidecar Brings Statamic's Control Panel to Your Existing M",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/sidecar.png"
+  },
+  {
+   "title": "Christopher Winslett: Postgres Calculations and the Ambiguity of NULL",
+   "link": "https://postgr.es/p/9tL",
+   "date": "2026-09-02T17:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "When dividing by zero, Postgres fails and declares you ran an illegal operation. Cast 'abc' to an integer, and get an error. Divide by NULL and the query still runs. NULL isn't even a value. It is a marker for “unknown.”",
+   "image": null
+  },
+  {
+   "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+   "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+   "date": "2026-09-02T16:41:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resul",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg"
+  },
+  {
+   "title": "llm-gemini 0.34",
+   "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+   "date": "2026-09-02T16:39:38.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Built for TDT, Now Used Beyond It: The Journey of a Drupal Module",
+   "link": "https://www.thedroptimes.com/72004/image-scale-fill-background-stable-release?utm_source=Drupal Planet",
+   "date": "2026-09-02T16:31:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A weekend fix built for The DropTimes now supports sites its maintainer may never see, bringing the responsibilities of public module maintenance into focus.",
+   "image": null
+  },
+  {
+   "title": "Dave Stokes: Loading the Northwinds Database Into PostgreSQL with DBeaver",
+   "link": "https://postgr.es/p/9tI",
+   "date": "2026-09-02T15:10:33.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Note: I am presenting a tutorial for those who want to learn SQL at this year's Texas Linuxfest (https://pretalx.com/txlf2026/talk/DQ3XW7/) on November 6th. This is a great opportunity at a fantastic community event and ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcIj4JuLB1tm0fWmQQpIBQHTCNTT2nkJLy00ddAshXVUFe9k1fHabrk2Sl7mKTkX2uPN8QC0eZ2adXKJzbmODt-TORLf7ezfbHgJGs6D8oyMsOSg7mUaDt8vtCe3_1Lmu8tj8ChCXjAAJzlKR_RiW7olQYivEGNhT6UB5YJG6Y42u8XLPRUUH6pF-q9AHD/w640-h210/Screenshot%202026-09-02%20092746.png"
   },
   {
    "title": "An Accidental Blackboard",
@@ -72,34 +172,14 @@
    "image": null
   },
   {
-   "title": "The 80/20 Rule of AI Engineering: Why Rejection Pipelines Make Agentic Systems Work",
-   "link": "https://dev.to/matheuscamarques/the-8020-rule-of-ai-engineering-why-rejection-pipelines-make-agentic-systems-work-4obn",
-   "date": "2026-09-02T14:32:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Paradigm Shift: From Code Generators to Systems Auditors With the rapid adoption of LLMs and autonomous coding agents, the core challenge of software engineering has shifted. The bottleneck is no longer generating sy",
-   "image": null
-  },
-  {
-   "title": "AWS Lambda — Hands-On Practical",
-   "link": "https://dev.to/tejas_shinkar/aws-lambda-hands-on-practical-1326",
-   "date": "2026-09-02T14:25:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Build an event-driven image-processing workflow using Amazon S3 and AWS Lambda, verify the complete flow with CloudWatch, deliberately break the Lambda's S3 permissions, diagnose the failure, and document the observed be",
-   "image": null
-  },
-  {
-   "title": "Your LLM Eval Pipeline Needs a Queue, Not a Notebook",
-   "link": "https://dev.to/gitlab_3188/your-llm-eval-pipeline-needs-a-queue-not-a-notebook-1m33",
-   "date": "2026-09-02T14:18:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You spent two hours building a prompt, ran it five times in a notebook, got a decent answer, and closed the tab. Three weeks later a new model version ships, someone bumps a dependency, and your careful experiment silent",
-   "image": null
+   "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
+   "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "The API Platform Conference, the international event dedicated to the API Platform framework and its ecosystem, will take place in two weeks in Lille, France, on September 17–18, 2026. Nearly 30 talks are scheduled, in b",
+   "image": "https://symfony.com/uploads/assets/blog/api-platform-2026-1200x800.png"
   },
   {
    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
@@ -140,6 +220,16 @@
    "source": "The Hacker News",
    "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
+  },
+  {
+   "title": "The Drop Times: Your Client Is Not a Ticket",
+   "link": "https://www.thedroptimes.com/72047/client-discovery-drupal-delivery?utm_source=Drupal Planet",
+   "date": "2026-09-02T13:35:23.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A perfectly completed ticket can still solve the wrong problem. Tom Hollevoet argues that better Drupal delivery begins with understanding the need behind the request.",
+   "image": null
   },
   {
    "title": "Maybe We Shouldn't Be Reviewing All This Code",
@@ -200,26 +290,6 @@
    "source": "The Hacker News",
    "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg"
-  },
-  {
-   "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-   "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-   "date": "2026-09-02T09:18:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
-  },
-  {
-   "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-   "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-   "date": "2026-09-02T09:10:23.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,0",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
   },
   {
    "title": "OpenID Connect Authentication for MySQL, Now Fully Open Source",
@@ -362,6 +432,16 @@
    "image": null
   },
   {
+   "title": "Aten Design Group: Who Owns the Icon? Building Author-Friendly Icon Systems in Drupal",
+   "link": "https://atendesigngroup.com/articles/who-owns-icon-building-author-friendly-icon-systems-drupal",
+   "date": "2026-09-01T17:34:01.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Who Owns the Icon? Building Author-Friendly Icon Systems in Drupal Joel Steidl Tue, 09/01/2026 - 11:34 Drupal Icons seem like a small implementation detail until a site has a large design system, multiple authoring workf",
+   "image": "https://atendesigngroup.com/sites/default/files/2026-09/CleanShot%202026-07-29%20at%2016.18.55_0.jpeg"
+  },
+  {
    "title": "Gülçin Yıldırım Jelínek: New system views in PostgreSQL 19",
    "link": "https://postgr.es/p/9tF",
    "date": "2026-09-01T17:03:18.000Z",
@@ -402,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Python 3.15.0 candidate 2 is here!",
-   "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-   "date": "2026-09-01T14:59:18.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phas",
-   "image": null
-  },
-  {
    "title": "Droptica: Why Drupal works for structured content operations at scale",
    "link": "https://www.droptica.com/blog/why-drupal-works-structured-content-operations-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
    "date": "2026-09-01T14:58:37.000Z",
@@ -442,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Specbee: Canvas Page Metatag Module: How to restore full SEO controls to Drupal Canvas pages",
-   "link": "https://www.specbee.com/blogs/drupal-canvas-page-metatag-module",
-   "date": "2026-09-01T10:38:48.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal Canvas hides most Metatag fields behind one SEO title box. Check out how Canvas Page Metatag restores them and fixes a Robots checkbox bug.",
-   "image": null
-  },
-  {
    "title": "Vibhor Kumar: When AI Takes Action, What Proves What Actually Happened?",
    "link": "https://postgr.es/p/9tD",
    "date": "2026-09-01T07:34:56.000Z",
@@ -470,16 +530,6 @@
    "source": "Planet PostgreSQL",
    "summary": "That was an experimental meetup: we never, ever scheduled meetups in August, especially during the last week of August! Still, when Keanya Phelps came up with the idea to have a Postgres meetup during the Djangocon.US co",
    "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
-  },
-  {
-   "title": "Gspikes: The Complete Drupal 7 → Drupal 11 Migration Checklist: 52 Steps, In Order",
-   "link": "https://gspikes.com/drupal-7-to-drupal-11-migration-checklist/",
-   "date": "2026-09-01T01:13:25.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Every Drupal 7 to Drupal 11 migration we run follows the same 52 steps in the same order — audit, content model, module mapping, the 301 map, build, verification, and a cutover designed so rollback is one DNS change away",
-   "image": null
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_parameter_max_length and log_parameter_max_length_on_error",
@@ -530,26 +580,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Radim Marek: Read your own writes, off the primary",
-   "link": "https://postgr.es/p/9tB",
-   "date": "2026-08-31T23:00:39.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Your API accepts the change. It returns 201 Created or 200 OK, the system has saved the user's change, and the moment the user clicks, the change disappears from the app, only to resurface seconds later. That's if you ar",
-   "image": null
-  },
-  {
-   "title": "Freelock Blog: Drupal Meets Matrix part 1: Setting up Matrix API",
-   "link": "https://www.freelock.com/blog/john-locke/2026-08/drupal-meets-matrix-part-1-setting-matrix-api",
-   "date": "2026-08-31T21:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal Meets Matrix part 1: Setting up Matrix API John Locke Mon, 08/31/2026 - 14:30 I've been maintaining the matrix_api module on Drupal.org since 2016, nearly a decade of it doing one thing well: posting Drupal events",
-   "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-08/hero-notext-drupal-matrix-nodes_0.png?itok=EzaGng4o"
   },
   {
    "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
@@ -612,16 +642,6 @@
    "image": null
   },
   {
-   "title": "Richard Yen: pg-catalog-almanac",
-   "link": "https://postgr.es/p/9tA",
-   "date": "2026-08-31T08:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Did you know: PG19 is on track to contain the most changes to pg_catalog in history Introduction pg_catalog is one of the most important interfaces PostgreSQL gives us: it exposes the metadata that describes database str",
-   "image": "https://raw.githubusercontent.com/richyen/pg-catalog-almanac/main/docs/home.png"
-  },
-  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -660,16 +680,6 @@
    "source": "Symfony Blog",
    "summary": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights Th",
    "image": null
-  },
-  {
-   "title": "Cancel In-Flight Form Submissions in Inertia.js v3.7",
-   "link": "https://laravel-news.com/inertia-3-7-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-28T22:45:01.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Inertia.js v3.7 adds cancelOnUnmount and a cancel method to the Form component, a polling state from usePoll, and once props that survive instant visits. The post Cancel In-Flight Form Submissions in Inertia.js v3.7 appe",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertia-v3-featured.png"
   },
   {
    "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
@@ -980,16 +990,6 @@
    "source": "Symfony Blog",
    "summary": "On August 17, we announced Symfony Language Tools, the official Symfony language server. Six days and ten releases later, version 0.16 is out. We have added a lot of features: the server now understands applications that",
    "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/blog/0.16/twig-callables.gif"
-  },
-  {
-   "title": "A Week of Symfony #1025 (August 17–23, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1025-august-17-23-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-23T07:54:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony 6.4.44, Symfony 7.4.17 and Symfony 8.1.5 maintenance versions were released. In addition, we introduced Symfony Language Tools, the official Symfony LSP server. Finally, we started experimenting with i",
-   "image": null
   },
   {
    "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
