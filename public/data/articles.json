@@ -1,34 +1,164 @@
 {
- "generatedAt": "2026-09-02T01:00:06.638Z",
+ "generatedAt": "2026-09-02T09:38:33.673Z",
  "articles": [
   {
-   "title": "A credential fetch is a read: the containment guard your write-target sandbox was missing",
-   "link": "https://dev.to/pm25coder/a-credential-fetch-is-a-read-the-containment-guard-your-write-target-sandbox-was-missing-329m",
-   "date": "2026-09-02T00:38:03.000Z",
+   "title": "IaC além do Terraform - Ansible para provisionamento e configuração",
+   "link": "https://dev.to/apsis-cc/iac-alem-do-terraform-ansible-para-provisionamento-e-configuracao-le9",
+   "date": "2026-09-02T09:30:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A credential fetch is a read: the containment guard your write-target sandbox was missing The mental model most of us have for a sandboxed command is a write model: the sandbox decides what the command may touch, and \"to",
+   "summary": "1. Provisionar não é configurar No artigo anterior desta série, vimos o OpenTofu como uma alternativa (ou substituto direto) ao Terraform para a tarefa de provisionar infraestrutura — criar VMs, redes, bancos de dados ge",
    "image": null
   },
   {
-   "title": "We Published the Case Where the Agent Was Wrong About the Blast Radius. PocketOS Is the One Where It Was Right.",
-   "link": "https://dev.to/vibeagentmaking/we-published-the-case-where-the-agent-was-wrong-about-the-blast-radius-pocketos-is-the-one-where-1i7l",
-   "date": "2026-09-02T00:20:19.000Z",
+   "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+   "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+   "date": "2026-09-02T09:18:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
+  },
+  {
+   "title": "I scanned the top 1,000 websites for security headers. Google scored an E.",
+   "link": "https://dev.to/rehanfaisal/i-scanned-the-top-1000-websites-for-security-headers-google-scored-an-e-4ad3",
+   "date": "2026-09-02T09:14:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Nine seconds. That is how long it took an AI coding agent to delete PocketOS's production database this spring: a credential mismatch in staging, an API token within reach, one Volume Delete call to Railway, and a car-re",
+   "summary": "Security headers are the cheapest defence a website has. A few lines of server config, no code changes, no performance cost, and they shut down whole categories of attack. So I wondered how many of the world's most-visit",
    "image": null
   },
   {
-   "title": "Your Rate Limiter Is Silently Hiding You From the Agents That Want to Pay You",
-   "link": "https://dev.to/minia2a/your-rate-limiter-is-silently-hiding-you-from-the-agents-that-want-to-pay-you-168c",
-   "date": "2026-09-02T00:08:17.000Z",
+   "title": "Real-Time Billing Architecture for High-Traffic Applications",
+   "link": "https://dev.to/flexprice_8116ed925/real-time-billing-architecture-for-high-traffic-applications-3lb9",
+   "date": "2026-09-02T09:13:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I run a pay-per-call marketplace for AI agents. The way agents find the endpoints is through a discovery flow, and the way the endpoints charge is HTTP 402 — the request comes back with a challenge that names the price, ",
+   "summary": "How to build billing that prices events as they arrive: idempotent ingestion, streaming aggregation, cache safety, append-only ledgers, and reconciliation. A nightly batch job that reads yesterday's API logs and produces",
+   "image": null
+  },
+  {
+   "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+   "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+   "date": "2026-09-02T09:10:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,0",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
+  },
+  {
+   "title": "Generating test cases is the easy part",
+   "link": "https://dev.to/2sdtechnologiesdotcom/generating-test-cases-is-the-easy-part-41e9",
+   "date": "2026-09-02T09:07:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is a ceiling on your test coverage and it is not technical. Running tests has been a solved problem for a long time. Runners are fast, parallelism is cheap, somebody has to sit So coverage ends up being a function ",
+   "image": null
+  },
+  {
+   "title": "Inside `can1357/oh-my-pi`: An IDE-Wired Coding Agent Worth Inspecting",
+   "link": "https://dev.to/james_lin/inside-can1357oh-my-pi-an-ide-wired-coding-agent-worth-inspecting-32af",
+   "date": "2026-09-02T08:59:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "can1357/oh-my-pi has attracted 271 stars in a day, which is a useful signal that developers are looking for coding agents that fit naturally into their existing IDE workflow. Its core idea is straightforward: keep the ag",
+   "image": null
+  },
+  {
+   "title": "Advanced Dockerfile instructions: ARG, ENV, ENTRYPOINT and more",
+   "link": "https://dev.to/fj_palacios/advanced-dockerfile-instructions-arg-env-entrypoint-and-more-4o7p",
+   "date": "2026-09-02T08:49:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most Dockerfiles have a few lines that everyone copies from an example that worked once and never questions again. ENTRYPOINT and CMD near the bottom. ARG and ENV somewhere near the top. The container starts, the app run",
+   "image": null
+  },
+  {
+   "title": "7 Process Optimization Hacks That Drop Bottlenecks",
+   "link": "https://dev.to/philip098/7-process-optimization-hacks-that-drop-bottlenecks-406e",
+   "date": "2026-09-02T08:43:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Imagine shaving nearly half of your bottleneck time in just three months. These seven hacks make it happen without reshaping your team. See the playbook for step-by-step guidance. Read the full article on our blog",
+   "image": null
+  },
+  {
+   "title": "AWS & SRE Field Manual (Part 5): Amazon EKS Architecture, Pod Networking & Next-Gen Scaling",
+   "link": "https://dev.to/enesguler/aws-sre-field-manual-part-5-amazon-eks-architecture-pod-networking-next-gen-scaling-12b5",
+   "date": "2026-09-02T08:35:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. TL;DR & Problem Statement Definition: A managed Kubernetes service that offloads the operational complexity of deploying, scaling, and maintaining the Kubernetes Control Plane while integrating natively with core AWS ",
+   "image": null
+  },
+  {
+   "title": "Drupal Association blog: Take Part in the 2026 Drupal Business Survey",
+   "link": "https://www.drupal.org/association/blog/take-part-in-the-2026-drupal-business-survey",
+   "date": "2026-09-02T07:58:10.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Drupal Business Survey investigates the trends in the digital market, in particular from service providers involved with the open source Drupal CMS and enterprise platform. Digital agencies from all over the world pa",
+   "image": null
+  },
+  {
+   "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+   "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+   "date": "2026-09-02T07:47:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
+  },
+  {
+   "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+   "date": "2026-09-02T07:08:50.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg"
+  },
+  {
+   "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+   "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+   "date": "2026-09-02T06:56:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg"
+  },
+  {
+   "title": "Quoting Rick Brewster",
+   "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+   "date": "2026-09-02T05:50:57.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead, Paint.NET now has",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_min_duration_sample, log_statement_sample_rate, and log_transaction_sample_rate",
+   "link": "https://postgr.es/p/9tH",
+   "date": "2026-09-02T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Aggregate query statistics hide the forest of cheap queries.",
    "image": null
   },
   {
@@ -39,56 +169,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
-   "image": null
-  },
-  {
-   "title": "Every Tool That Implements the AWS API in 2026",
-   "link": "https://dev.to/toddyholiday/every-tool-that-implements-the-aws-api-in-2026-3oba",
-   "date": "2026-09-01T23:55:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The AWS API has become infrastructure's common language, and a whole ecosystem has grown up around running it somewhere other than AWS. Some tools mock it for testing. Others implement it for real. Knowing which is which",
-   "image": null
-  },
-  {
-   "title": "Your Fixture Passed. The Agent Patch Is Still Wrong.",
-   "link": "https://dev.to/datacpp_8185/your-fixture-passed-the-agent-patch-is-still-wrong-1490",
-   "date": "2026-09-01T23:37:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Fixed fixtures are examples, not oracles. An agent patch can sail through a green suite and still break on an input your fixture never imagined. This article proposes a gate that treats fixtures as seeds for property che",
-   "image": null
-  },
-  {
-   "title": "Free-Model Code Review: A 48-Hour False Positive Autopsy",
-   "link": "https://dev.to/codepy_1473/free-model-code-review-a-48-hour-false-positive-autopsy-3dle",
-   "date": "2026-09-01T23:37:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Have you ever trusted a code review bot because it found something you missed? I did the opposite: I ran a free model on my own commit history and ended up with a long list of vulnerabilities that never existed. This is ",
-   "image": null
-  },
-  {
-   "title": "Ubicloud vs Spinifex: Two Approaches to Open Source Cloud",
-   "link": "https://dev.to/toddyholiday/ubicloud-vs-spinifex-two-approaches-to-open-source-cloud-3n37",
-   "date": "2026-09-01T23:30:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The phrase \"open source alternative to AWS\" covers a lot of ground. It can mean a dev-time emulator, a managed service that runs on someone else's hardware, or software you install on bare metal you own and operate entir",
-   "image": null
-  },
-  {
-   "title": "Facebook temp email en revisiones de riesgo",
-   "link": "https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn",
-   "date": "2026-09-01T23:24:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cuando una cola de soporte o un sistema antifraude marca una cuenta por usar email temporal para Facebook, la tentacion es aplicar una regla dura y seguir con lo siguiente. En produccion eso casi nunca sale tan limpio. E",
    "image": null
   },
   {
@@ -148,7 +228,7 @@
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files",
+   "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council ) and found a need to display some GeoJSON fil",
    "image": null
   },
   {
@@ -202,6 +282,16 @@
    "image": null
   },
   {
+   "title": "datasette-mcp 0.2",
+   "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+   "date": "2026-09-01T15:30:12.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which colum",
+   "image": null
+  },
+  {
    "title": "Python 3.15.0 candidate 2 is here!",
    "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
    "date": "2026-09-01T14:59:18.000Z",
@@ -212,6 +302,16 @@
    "image": null
   },
   {
+   "title": "Droptica: Why Drupal works for structured content operations at scale",
+   "link": "https://www.droptica.com/blog/why-drupal-works-structured-content-operations-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-01T14:58:37.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Publishing one good page is a writing task. Keeping hundreds of pages accurate across products, markets and languages is a systems problem. Drupal content operations at scale means treating each fact as structured data w",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Why%20Drupal%20works%20for%20structured%20content%20operations%20at%20scale_2.png"
+  },
+  {
    "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
    "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
    "date": "2026-09-01T14:07:20.000Z",
@@ -220,16 +320,6 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg"
-  },
-  {
-   "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-   "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-   "date": "2026-09-01T13:08:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Lin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg"
   },
   {
    "title": "Drupal Association blog: The work that just happens: the DA Insider for August 2026",
@@ -252,16 +342,6 @@
    "image": null
   },
   {
-   "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-   "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-   "date": "2026-09-01T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRNAAGu1amxjm97oXzRGvVBD23d-thmuPvBbQm10hKlACH58ndu51swo4ggT2P2FJw1vbmWy6qdMZSyTRrgAXoi19O0Zf0vCcS47oMuhMuPSyKc1kL7bpIySVrQwgrIaYJkc4IiavU0rucYYMYWHwXgDCmsPLanV2LZv3mt__srP93r0vLWSz8Vp_L0o/s1600/click.jpg"
-  },
-  {
    "title": "Specbee: Canvas Page Metatag Module: How to restore full SEO controls to Drupal Canvas pages",
    "link": "https://www.specbee.com/blogs/drupal-canvas-page-metatag-module",
    "date": "2026-09-01T10:38:48.000Z",
@@ -272,26 +352,6 @@
    "image": null
   },
   {
-   "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-   "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-   "date": "2026-09-01T09:05:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg"
-  },
-  {
-   "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-   "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-   "date": "2026-09-01T08:26:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
-  },
-  {
    "title": "Vibhor Kumar: When AI Takes Action, What Proves What Actually Happened?",
    "link": "https://postgr.es/p/9tD",
    "date": "2026-09-01T07:34:56.000Z",
@@ -300,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Why transactional evidence matters as AI moves from generating answers to changing business state Imagine an AI agent handling a customer refund. It receives the request, retrieves the order, evaluates the relevant infor",
    "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/09/image-1.png?w=825"
-  },
-  {
-   "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-   "date": "2026-09-01T07:22:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
   },
   {
    "title": "Henrietta Dombrovskaya: That’s how Postgres met Django!",
@@ -329,6 +379,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Every Drupal 7 to Drupal 11 migration we run follows the same 52 steps in the same order — audit, content model, module mapping, the 301 map, build, verification, and a cutover designed so rollback is one DNS change away",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_parameter_max_length and log_parameter_max_length_on_error",
+   "link": "https://postgr.es/p/9tG",
+   "date": "2026-09-01T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Control what bind parameters PostgreSQL logs alongside statements and errors.",
    "image": null
   },
   {
@@ -382,16 +442,6 @@
    "image": null
   },
   {
-   "title": "Quoting Andrew Digby",
-   "link": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
-   "date": "2026-08-31T22:25:02.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible wi",
-   "image": null
-  },
-  {
    "title": "Freelock Blog: Drupal Meets Matrix part 1: Setting up Matrix API",
    "link": "https://www.freelock.com/blog/john-locke/2026-08/drupal-meets-matrix-part-1-setting-matrix-api",
    "date": "2026-08-31T21:30:00.000Z",
@@ -419,26 +469,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37! After a number of releases of work and testing, the built-in StorageVersionMigration API (storagemigration",
-   "image": null
-  },
-  {
-   "title": "A Drupal Couple: Drupal could be a great answer for vibe coding",
-   "link": "https://www.adrupalcouple.us/drupal-answer-for-vibe-coding",
-   "date": "2026-08-31T17:54:05.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal could be a great answer for vibe coding Imagen When you vibe an application, the AI picks the stack, and both projects I've looked at came back with the same one. I know Drupal and I contribute to it, so weigh eve",
-   "image": "https://www.adrupalcouple.us/sites/default/files/styles/adc_card_thumbnail_16x9_640/public/2026-08/fortification-c.jpg.webp?itok=ORKBnJi7"
-  },
-  {
-   "title": "The Drop Times: When Websites Become Interfaces for Machines",
-   "link": "https://www.thedroptimes.com/newsletter/when-websites-become-interfaces-machines?utm_source=Drupal Planet",
-   "date": "2026-08-31T16:40:35.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "AI assistants increasingly sit between people and websites, retrieving and interpreting information on their behalf. That shifts the problem beyond whether software can connect to a site at all. The system also has to ma",
    "image": null
   },
   {
@@ -502,26 +532,6 @@
    "image": "https://raw.githubusercontent.com/richyen/pg-catalog-almanac/main/docs/home.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_min_messages, log_min_error_statement, and log_error_verbosity",
-   "link": "https://postgr.es/p/9ty",
-   "date": "2026-08-31T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Three parameters control what reaches your server log: a severity floor, whether to attach the triggering SQL, and how many fields each message prints.",
-   "image": null
-  },
-  {
-   "title": "Understanding ChatGPT Work",
-   "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-   "date": "2026-08-30T23:59:47.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is a",
-   "image": null
-  },
-  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -559,16 +569,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights Th",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone",
-   "link": "https://postgr.es/p/9tx",
-   "date": "2026-08-30T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A log line has two parts: the message, which PostgreSQL decides, and everything in front of it, which you do. log_line_prefix is the join key. Every fact that lets you connect a line to a session, a transaction, a client",
    "image": null
   },
   {
