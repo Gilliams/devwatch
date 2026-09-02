@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-09-01T19:55:00.122Z",
+ "generatedAt": "2026-09-02T01:00:06.638Z",
  "articles": [
+  {
+   "title": "A credential fetch is a read: the containment guard your write-target sandbox was missing",
+   "link": "https://dev.to/pm25coder/a-credential-fetch-is-a-read-the-containment-guard-your-write-target-sandbox-was-missing-329m",
+   "date": "2026-09-02T00:38:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A credential fetch is a read: the containment guard your write-target sandbox was missing The mental model most of us have for a sandboxed command is a write model: the sandbox decides what the command may touch, and \"to",
+   "image": null
+  },
+  {
+   "title": "We Published the Case Where the Agent Was Wrong About the Blast Radius. PocketOS Is the One Where It Was Right.",
+   "link": "https://dev.to/vibeagentmaking/we-published-the-case-where-the-agent-was-wrong-about-the-blast-radius-pocketos-is-the-one-where-1i7l",
+   "date": "2026-09-02T00:20:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Nine seconds. That is how long it took an AI coding agent to delete PocketOS's production database this spring: a credential mismatch in staging, an API token within reach, one Volume Delete call to Railway, and a car-re",
+   "image": null
+  },
+  {
+   "title": "Your Rate Limiter Is Silently Hiding You From the Agents That Want to Pay You",
+   "link": "https://dev.to/minia2a/your-rate-limiter-is-silently-hiding-you-from-the-agents-that-want-to-pay-you-168c",
+   "date": "2026-09-02T00:08:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I run a pay-per-call marketplace for AI agents. The way agents find the endpoints is through a discovery flow, and the way the endpoints charge is HTTP 402 — the request comes back with a challenge that names the price, ",
+   "image": null
+  },
+  {
+   "title": "Claude Fable 5.1 made me a really nice animated pelican",
+   "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+   "date": "2026-09-01T23:57:28.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
+   "image": null
+  },
+  {
+   "title": "Every Tool That Implements the AWS API in 2026",
+   "link": "https://dev.to/toddyholiday/every-tool-that-implements-the-aws-api-in-2026-3oba",
+   "date": "2026-09-01T23:55:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The AWS API has become infrastructure's common language, and a whole ecosystem has grown up around running it somewhere other than AWS. Some tools mock it for testing. Others implement it for real. Knowing which is which",
+   "image": null
+  },
+  {
+   "title": "Your Fixture Passed. The Agent Patch Is Still Wrong.",
+   "link": "https://dev.to/datacpp_8185/your-fixture-passed-the-agent-patch-is-still-wrong-1490",
+   "date": "2026-09-01T23:37:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Fixed fixtures are examples, not oracles. An agent patch can sail through a green suite and still break on an input your fixture never imagined. This article proposes a gate that treats fixtures as seeds for property che",
+   "image": null
+  },
+  {
+   "title": "Free-Model Code Review: A 48-Hour False Positive Autopsy",
+   "link": "https://dev.to/codepy_1473/free-model-code-review-a-48-hour-false-positive-autopsy-3dle",
+   "date": "2026-09-01T23:37:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Have you ever trusted a code review bot because it found something you missed? I did the opposite: I ran a free model on my own commit history and ended up with a long list of vulnerabilities that never existed. This is ",
+   "image": null
+  },
+  {
+   "title": "Ubicloud vs Spinifex: Two Approaches to Open Source Cloud",
+   "link": "https://dev.to/toddyholiday/ubicloud-vs-spinifex-two-approaches-to-open-source-cloud-3n37",
+   "date": "2026-09-01T23:30:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The phrase \"open source alternative to AWS\" covers a lot of ground. It can mean a dev-time emulator, a managed service that runs on someone else's hardware, or software you install on bare metal you own and operate entir",
+   "image": null
+  },
+  {
+   "title": "Facebook temp email en revisiones de riesgo",
+   "link": "https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn",
+   "date": "2026-09-01T23:24:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cuando una cola de soporte o un sistema antifraude marca una cuenta por usar email temporal para Facebook, la tentacion es aplicar una regla dura y seguir con lo siguiente. En produccion eso casi nunca sale tan limpio. E",
+   "image": null
+  },
+  {
+   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "link": "https://huggingface.co/blog/allenai/benchmirt",
+   "date": "2026-09-01T21:39:07.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
   {
    "title": "Fragments: September  1",
    "link": "https://martinfowler.com/fragments/2026-09-01.html",
@@ -9,16 +109,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of s",
-   "image": null
-  },
-  {
-   "title": "A Practical Scoping Checklist for Enterprise AI Projects",
-   "link": "https://dev.to/xiuai-lab/a-practical-scoping-checklist-for-enterprise-ai-projects-4lc6",
-   "date": "2026-09-01T19:07:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A Practical Scoping Checklist for Enterprise AI Projects An enterprise AI project often goes wrong before the first model request is A useful first pass is to separate four decisions: the product and environment the cust",
    "image": null
   },
   {
@@ -32,26 +122,6 @@
    "image": null
   },
   {
-   "title": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit)",
-   "link": "https://dev.to/dineshstack/from-zero-to-staging-a-real-world-laravel-nodejs-docker-deployment-with-every-bug-we-hit-fn3",
-   "date": "2026-09-01T19:00:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "From Zero to Staging: A Real-World Laravel + Node.js Docker Deployment (With Every Bug We Hit) A step-by-step walkthrough of setting up a clean staging server from scratch — SSH hardening, Docker orchestration, Let's Enc",
-   "image": null
-  },
-  {
-   "title": "CI/CD Pricing in 2026: Why Your Seats Cost More Than Your Builds",
-   "link": "https://dev.to/moksh/cicd-pricing-in-2026-why-your-seats-cost-more-than-your-builds-5c8m",
-   "date": "2026-09-01T18:54:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Pick a CI platform on features and you will end up comparing four YAML dialects that all do roughly the same thing. Pick one on its billing model and the differences get sharp fast, because these vendors do not meter the",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpw6qgnwe5u5kxp6dxvdl.webp"
-  },
-  {
    "title": "Omega8.cc: Your Site Already Said No",
    "link": "https://omega8.cc/blog/your-site-already-said-no",
    "date": "2026-09-01T18:47:00.000Z",
@@ -62,53 +132,23 @@
    "image": "https://omega8.cc/images/7/f/9/c/7/7f9c708ec94526cb5c0d548ff269712793855630-boa-said-no-anime-halo.png"
   },
   {
-   "title": "Three of the five lines in that error file were not errors, and The Standup's 07:40 developer email now finishes clean when it has nothing to send",
-   "link": "https://dev.to/kynthstudios/three-of-the-five-lines-in-that-error-file-were-not-errors-and-the-standups-0740-developer-email-59fj",
-   "date": "2026-09-01T18:26:16.000Z",
+   "title": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
+   "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/",
+   "date": "2026-09-01T18:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "On the morning our daily developer email genuinely cannot go out, nobody would have been able to tell it apart from a morning when nothing was wrong, because both endings looked identical from outside. launchd hands a jo",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1ck4bjgsw8xx1hd2y9tj.png"
-  },
-  {
-   "title": "Validate Residential Proxy Location as a Dataset, Not a Screenshot",
-   "link": "https://dev.to/98ip/validate-residential-proxy-location-as-a-dataset-not-a-screenshot-1dh3",
-   "date": "2026-09-01T18:12:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Disclosure: I work with 98IP. This post describes a vendor-neutral test method and does not claim that one lookup service is authoritative. A proxy gateway accepts country=US&city=New_York. Your first request returns an ",
+   "source": "Kubernetes Blog",
+   "summary": "I am excited to announce that etcd RangeStream is graduating to beta in Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and etcd need to read a large collection, and makes peak usage more pr",
    "image": null
   },
   {
-   "title": "Trinta horas de agente, um reloginho: a fila F0",
-   "link": "https://dev.to/oroborolabs/trinta-horas-de-agente-um-reloginho-a-fila-f0-1khi",
-   "date": "2026-09-01T18:04:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "O recurso mais caro numa operação rodada por agentes de IA não é computação, nem tokens. É um específico conjunto de vinte e cinco minutos de um específico ser humano. Medimos isso por acidente, do jeito que as medições ",
-   "image": null
-  },
-  {
-   "title": "CKA vs CKAD vs CKS: Which Cert to Take First",
-   "link": "https://dev.to/amareswer/cka-vs-ckad-vs-cks-which-cert-to-take-first-31jo",
-   "date": "2026-09-01T18:04:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on DevToolHub. Three Kubernetes certifications exist, and each one tests a different job. The CKA is for people who run clusters. The CKAD is for people who deploy apps onto them. Securing those clus",
-   "image": null
-  },
-  {
-   "title": "Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control",
-   "link": "https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn",
-   "date": "2026-09-01T18:01:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "oblien/openship is gaining attention as a self-hosted deployment platform, with more than 111 new GitHub stars today. The interesting part is not the number itself; it is the operational model behind running deployment i",
+   "title": "GeoJSON Map Viewer",
+   "link": "https://simonwillison.net/2026/Sep/1/geojson/",
+   "date": "2026-09-01T18:05:45.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council and found a need to display some GeoJSON files",
    "image": null
   },
   {
@@ -532,16 +572,6 @@
    "image": null
   },
   {
-   "title": "Introducing Hy4 Preview",
-   "link": "https://simonwillison.net/2026/Aug/29/hy4/",
-   "date": "2026-08-29T23:53:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size in",
-   "image": null
-  },
-  {
    "title": "Cancel In-Flight Form Submissions in Inertia.js v3.7",
    "link": "https://laravel-news.com/inertia-3-7-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-08-28T22:45:01.000Z",
@@ -550,16 +580,6 @@
    "source": "Laravel News",
    "summary": "Inertia.js v3.7 adds cancelOnUnmount and a cancel method to the Form component, a polling state from usePoll, and once props that survive instant visits. The post Cancel In-Flight Form Submissions in Inertia.js v3.7 appe",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertia-v3-featured.png"
-  },
-  {
-   "title": "Just a rumour of a bug is enough to find a security exploit these days",
-   "link": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-   "date": "2026-08-28T22:12:02.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he repo",
-   "image": null
   },
   {
    "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
@@ -942,16 +962,6 @@
    "image": null
   },
   {
-   "title": "Measuring benchmark optimization in speech recognition",
-   "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-   "date": "2026-08-21T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
    "link": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
    "date": "2026-08-20T13:35:23.000Z",
@@ -1180,16 +1190,6 @@
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
    "image": null
-  },
-  {
-   "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-   "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/",
-   "date": "2026-07-29T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "This article has been revised since it was first published, to correct several significant technical inaccuracies in the original text. Kubernetes has long been the default platform for distributed workloads, and writing",
-   "image": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/pipeline.svg"
   },
   {
    "title": "What's new in PHP 8.6",
