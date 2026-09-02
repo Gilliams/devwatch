@@ -1,15 +1,205 @@
 {
- "generatedAt": "2026-09-02T09:38:33.673Z",
+ "generatedAt": "2026-09-02T15:04:24.322Z",
  "articles": [
   {
-   "title": "IaC além do Terraform - Ansible para provisionamento e configuração",
-   "link": "https://dev.to/apsis-cc/iac-alem-do-terraform-ansible-para-provisionamento-e-configuracao-le9",
-   "date": "2026-09-02T09:30:44.000Z",
+   "title": "Netmiko vs pexpect vs tmux: pick the existing tool before you build your own",
+   "link": "https://dev.to/vainamoinen/netmiko-vs-pexpect-vs-tmux-pick-the-existing-tool-before-you-build-your-own-4g7o",
+   "date": "2026-09-02T14:58:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Provisionar não é configurar No artigo anterior desta série, vimos o OpenTofu como uma alternativa (ou substituto direto) ao Terraform para a tarefa de provisionar infraestrutura — criar VMs, redes, bancos de dados ge",
+   "summary": "Netmiko vs pexpect vs tmux: pick the existing tool before you build your own You need to automate an interactive command-line session, send a command, wait for a prompt, react. Before you write a pty loop of your own, kn",
    "image": null
+  },
+  {
+   "title": "tmux capture-pane -p reads only the visible pane, and it fails silently",
+   "link": "https://dev.to/vainamoinen/tmux-capture-pane-p-reads-only-the-visible-pane-and-it-fails-silently-1927",
+   "date": "2026-09-02T14:58:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "tmux capture-pane -p reads only the visible pane, and it fails silently A short, specific gotcha that costs an afternoon. If you monitor or automate a long-running process by scraping its tmux pane, capture-pane -p shows",
+   "image": null
+  },
+  {
+   "title": "The 30-second check that stops you building what already exists",
+   "link": "https://dev.to/vainamoinen/the-30-second-check-that-stops-you-building-what-already-exists-3kap",
+   "date": "2026-09-02T14:58:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The 30-second check that stops you building what already exists A short, honest engineering retro. I let an AI coding agent (and myself) build a bespoke tool for a job that Netmiko, Ansible, and Oxidized already do. The ",
+   "image": null
+  },
+  {
+   "title": "Capacity Planning for Reliability: Forecast, Load Test, and Right-Size",
+   "link": "https://dev.to/sri2614/capacity-planning-for-reliability-forecast-load-test-and-right-size-44jh",
+   "date": "2026-09-02T14:51:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "⚡ TL;DR: Plan for the peak, pay for the average. Learn to forecast growth, set headroom targets, load test, and make the real call between provisioned capacity and autoscaling so systems survive spikes without bleeding m",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fbWV0cmljcygiSGlzdG9yaWNhbCBNZXRyaWNzPGJyLz5SUFMsIENQVSwgbGF0ZW5jeSIpCiAgY2xhc3Mgbl9tZXRyaWNzIG9ic2VydmFiaWxpdHk7CiAgbl9mb3JlY2FzdCgiRGVtYW5kIEZvcmVjYXN0PGJyLz5wZWFrICsgZ3Jvd3RoIikKICBjbGFzcyBuX2ZvcmVjYXN0IGNvbXB1dGU7CiAgbl9sb2FkdGVzdCgiTG9hZCBUZXN0PGJyLz5jYXBhY2l0eSBwZXIgdW5pdCIpCiAgY2xhc3Mgbl9sb2FkdGVzdCBjb21wdXRlOwogIG5fZGVjaXNpb24oIkNhcGFjaXR5IERlY2lzaW9uPGJyLz5oZWFkcm9vbSB0YXJnZXQiKQogIGNsYXNzIG5fZGVjaXNpb24gZWRnZTsKICBuX2ZsZWV0KCJGbGVldDxici8-YXV0b3NjYWxlZCAvIHByb3Zpc2lvbmVkIikKICBjbGFzcyBuX2ZsZWV0IGNvbXB1dGU7CiAgbl91dGlsKCJVdGlsaXphdGlvbjxici8-bGl2ZSBmZWVkYmFjayIpCiAgY2xhc3Mgbl91dGlsIG9ic2VydmFiaWxpdHk7CiAgbl9tZXRyaWNzIC0tPnwidHJlbmQifCBuX2ZvcmVjYXN0CiAgbl9mb3JlY2FzdCAtLT4gbl9sb2FkdGVzdAogIG5fbG9hZHRlc3QgLS0-IG5fZGVjaXNpb24KICBuX2RlY2lzaW9uIC0tPnwicHJvdmlzaW9uInwgbl9mbGVldAogIG5fZmxlZXQgLS4tPnwibW9uaXRvciJ8IG5fdXRpbAogIG5fdXRpbCAtLi0-fCJyZS1mb3JlY2FzdCJ8IG5fZm9yZWNhc3Q%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "Every Claim Needs a Shipped Source and an Executable Proof",
+   "link": "https://dev.to/jeremy_longshore/every-claim-needs-a-shipped-source-and-an-executable-proof-3l0e",
+   "date": "2026-09-02T14:49:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I told GPT 5.6 Luna, running through Codex, to finish teh epics and beads on the plugins repo. It ran for about 361 minutes across 2 sessions and 187 turns, and it closed nothing. No file mutated, no Beads record touched",
+   "image": null
+  },
+  {
+   "title": "An Accidental Blackboard",
+   "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+   "date": "2026-09-02T14:45:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination",
+   "image": null
+  },
+  {
+   "title": "Breaking the Frame: Building a Real-Time Datamosh Effect with Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/",
+   "date": "2026-09-02T14:36:45.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
+   "image": null
+  },
+  {
+   "title": "The 80/20 Rule of AI Engineering: Why Rejection Pipelines Make Agentic Systems Work",
+   "link": "https://dev.to/matheuscamarques/the-8020-rule-of-ai-engineering-why-rejection-pipelines-make-agentic-systems-work-4obn",
+   "date": "2026-09-02T14:32:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Paradigm Shift: From Code Generators to Systems Auditors With the rapid adoption of LLMs and autonomous coding agents, the core challenge of software engineering has shifted. The bottleneck is no longer generating sy",
+   "image": null
+  },
+  {
+   "title": "AWS Lambda — Hands-On Practical",
+   "link": "https://dev.to/tejas_shinkar/aws-lambda-hands-on-practical-1326",
+   "date": "2026-09-02T14:25:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build an event-driven image-processing workflow using Amazon S3 and AWS Lambda, verify the complete flow with CloudWatch, deliberately break the Lambda's S3 permissions, diagnose the failure, and document the observed be",
+   "image": null
+  },
+  {
+   "title": "Your LLM Eval Pipeline Needs a Queue, Not a Notebook",
+   "link": "https://dev.to/gitlab_3188/your-llm-eval-pipeline-needs-a-queue-not-a-notebook-1m33",
+   "date": "2026-09-02T14:18:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You spent two hours building a prompt, ran it five times in a notebook, got a decent answer, and closed the tab. Three weeks later a new model version ships, someone bumps a dependency, and your careful experiment silent",
+   "image": null
+  },
+  {
+   "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+   "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+   "date": "2026-09-02T14:16:42.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the",
+   "image": null
+  },
+  {
+   "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+   "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+   "date": "2026-09-02T14:06:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif"
+  },
+  {
+   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+   "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+   "date": "2026-09-02T13:49:14.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+   "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+   "date": "2026-09-02T13:44:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
+  },
+  {
+   "title": "Maybe We Shouldn't Be Reviewing All This Code",
+   "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
+   "date": "2026-09-02T13:32:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Mod",
+   "image": null
+  },
+  {
+   "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+   "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+   "date": "2026-09-02T13:12:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A ho",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg"
+  },
+  {
+   "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+   "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+   "date": "2026-09-02T12:22:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators ne",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg"
+  },
+  {
+   "title": "Mongorewind: Rewind Your MongoDB Test Data Without Restoring a Backup",
+   "link": "https://www.percona.com/blog/mongorewind-rewind-your-mongodb-test-data-without-restoring-a-backup/",
+   "date": "2026-09-02T11:38:40.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Mongorewind: Rewind Your MongoDB Test Data Without Restoring a Backup One day, my friend Martín told me about a problem he and his team were dealing with. Every time they needed to run a pre-production test, they had to ",
+   "image": "https://www.percona.com/wp-content/uploads/2026/08/mongorewind1.png"
+  },
+  {
+   "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+   "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+   "date": "2026-09-02T11:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg"
+  },
+  {
+   "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+   "date": "2026-09-02T10:53:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg"
   },
   {
    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
@@ -22,26 +212,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
   },
   {
-   "title": "I scanned the top 1,000 websites for security headers. Google scored an E.",
-   "link": "https://dev.to/rehanfaisal/i-scanned-the-top-1000-websites-for-security-headers-google-scored-an-e-4ad3",
-   "date": "2026-09-02T09:14:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Security headers are the cheapest defence a website has. A few lines of server config, no code changes, no performance cost, and they shut down whole categories of attack. So I wondered how many of the world's most-visit",
-   "image": null
-  },
-  {
-   "title": "Real-Time Billing Architecture for High-Traffic Applications",
-   "link": "https://dev.to/flexprice_8116ed925/real-time-billing-architecture-for-high-traffic-applications-3lb9",
-   "date": "2026-09-02T09:13:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to build billing that prices events as they arrive: idempotent ingestion, streaming aggregation, cache safety, append-only ledgers, and reconciliation. A nightly batch job that reads yesterday's API logs and produces",
-   "image": null
-  },
-  {
    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
    "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
    "date": "2026-09-02T09:10:23.000Z",
@@ -52,54 +222,14 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
   },
   {
-   "title": "Generating test cases is the easy part",
-   "link": "https://dev.to/2sdtechnologiesdotcom/generating-test-cases-is-the-easy-part-41e9",
-   "date": "2026-09-02T09:07:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There is a ceiling on your test coverage and it is not technical. Running tests has been a solved problem for a long time. Runners are fast, parallelism is cheap, somebody has to sit So coverage ends up being a function ",
-   "image": null
-  },
-  {
-   "title": "Inside `can1357/oh-my-pi`: An IDE-Wired Coding Agent Worth Inspecting",
-   "link": "https://dev.to/james_lin/inside-can1357oh-my-pi-an-ide-wired-coding-agent-worth-inspecting-32af",
-   "date": "2026-09-02T08:59:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "can1357/oh-my-pi has attracted 271 stars in a day, which is a useful signal that developers are looking for coding agents that fit naturally into their existing IDE workflow. Its core idea is straightforward: keep the ag",
-   "image": null
-  },
-  {
-   "title": "Advanced Dockerfile instructions: ARG, ENV, ENTRYPOINT and more",
-   "link": "https://dev.to/fj_palacios/advanced-dockerfile-instructions-arg-env-entrypoint-and-more-4o7p",
-   "date": "2026-09-02T08:49:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most Dockerfiles have a few lines that everyone copies from an example that worked once and never questions again. ENTRYPOINT and CMD near the bottom. ARG and ENV somewhere near the top. The container starts, the app run",
-   "image": null
-  },
-  {
-   "title": "7 Process Optimization Hacks That Drop Bottlenecks",
-   "link": "https://dev.to/philip098/7-process-optimization-hacks-that-drop-bottlenecks-406e",
-   "date": "2026-09-02T08:43:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Imagine shaving nearly half of your bottleneck time in just three months. These seven hacks make it happen without reshaping your team. See the playbook for step-by-step guidance. Read the full article on our blog",
-   "image": null
-  },
-  {
-   "title": "AWS & SRE Field Manual (Part 5): Amazon EKS Architecture, Pod Networking & Next-Gen Scaling",
-   "link": "https://dev.to/enesguler/aws-sre-field-manual-part-5-amazon-eks-architecture-pod-networking-next-gen-scaling-12b5",
-   "date": "2026-09-02T08:35:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "1. TL;DR & Problem Statement Definition: A managed Kubernetes service that offloads the operational complexity of deploying, scaling, and maintaining the Kubernetes Control Plane while integrating natively with core AWS ",
-   "image": null
+   "title": "OpenID Connect Authentication for MySQL, Now Fully Open Source",
+   "link": "https://www.percona.com/blog/oidc-authentication-for-percona-mysql/",
+   "date": "2026-09-02T08:56:26.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
+   "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
   },
   {
    "title": "Drupal Association blog: Take Part in the 2026 Drupal Business Survey",
@@ -110,36 +240,6 @@
    "source": "Drupal Planet",
    "summary": "The Drupal Business Survey investigates the trends in the digital market, in particular from service providers involved with the open source Drupal CMS and enterprise platform. Digital agencies from all over the world pa",
    "image": null
-  },
-  {
-   "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-   "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-   "date": "2026-09-02T07:47:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
-  },
-  {
-   "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-   "date": "2026-09-02T07:08:50.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg"
-  },
-  {
-   "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-   "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-   "date": "2026-09-02T06:56:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg"
   },
   {
    "title": "Quoting Rick Brewster",
@@ -162,6 +262,16 @@
    "image": null
   },
   {
+   "title": "htmx 4.0 takes HTML-driven apps further",
+   "link": "https://frontendfoc.us/issues/756",
+   "date": "2026-09-02T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​756 — September 2, 2026 | Read on the web htmx 4.0: Server-Driven Interactivity From Your Markup — htmx lets you drive server requests (now using fetch) and DOM updates from HTML attributes without wr",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
+  },
+  {
    "title": "Claude Fable 5.1 made me a really nice animated pelican",
    "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
    "date": "2026-09-01T23:57:28.000Z",
@@ -170,6 +280,26 @@
    "source": "Simon Willison",
    "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
    "image": null
+  },
+  {
+   "title": "Metadrop: Fixing missing image alt attributes in Drupal without development",
+   "link": "https://metadrop.net/en/articles/fixing-missing-image-alt-attributes-in-drupal-without-development",
+   "date": "2026-09-01T22:53:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Missing image alt attributes cost accessibility and SEO points Empty alt attributes are an accessibility and SEO killer, and the cost is measurable. Google Lighthouse flags the error on both of its audits: up to 6 points",
+   "image": null
+  },
+  {
+   "title": "Collections chunkBy() and Storage Path Hardening in Laravel 13.30",
+   "link": "https://laravel-news.com/laravel-13-30-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-01T22:32:48.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 adds a chunkBy() collection method, confines Storage::path() to the disk root, and prints why a queue worker stopped in queue:work output. The post Collections chunkBy() and Storage Path Hardening in Larave",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -232,26 +362,6 @@
    "image": null
   },
   {
-   "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-   "date": "2026-09-01T17:53:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
-  },
-  {
-   "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-   "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-   "date": "2026-09-01T17:19:24.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG)",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
-  },
-  {
    "title": "Gülçin Yıldırım Jelínek: New system views in PostgreSQL 19",
    "link": "https://postgr.es/p/9tF",
    "date": "2026-09-01T17:03:18.000Z",
@@ -310,16 +420,6 @@
    "source": "Drupal Planet",
    "summary": "Publishing one good page is a writing task. Keeping hundreds of pages accurate across products, markets and languages is a systems problem. Drupal content operations at scale means treating each fact as structured data w",
    "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Why%20Drupal%20works%20for%20structured%20content%20operations%20at%20scale_2.png"
-  },
-  {
-   "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-   "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-   "date": "2026-09-01T14:07:20.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg"
   },
   {
    "title": "Drupal Association blog: The work that just happens: the DA Insider for August 2026",
@@ -392,6 +492,16 @@
    "image": null
   },
   {
+   "title": "Forte: Parse and Rewrite Laravel Blade Templates",
+   "link": "https://laravel-news.com/forte-blade-parser?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-01T00:15:05.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Forte parses Blade templates into an AST you can query with XPath and rewrite safely, so codemods run on structure instead of regex. The post Forte: Parse and Rewrite Laravel Blade Templates appeared first on Laravel New",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/FortePHP-LN.png"
+  },
+  {
    "title": "MKSine: A Filament CMS with Plugins, Themes, and Blocks",
    "link": "https://laravel-news.com/mksine-filament-cms?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-01T00:14:18.000Z",
@@ -422,16 +532,6 @@
    "image": null
   },
   {
-   "title": "Introducing wrapture",
-   "link": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-   "date": "2026-08-31T23:59:36.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tra",
-   "image": null
-  },
-  {
    "title": "Radim Marek: Read your own writes, off the primary",
    "link": "https://postgr.es/p/9tB",
    "date": "2026-08-31T23:00:39.000Z",
@@ -450,16 +550,6 @@
    "source": "Drupal Planet",
    "summary": "Drupal Meets Matrix part 1: Setting up Matrix API John Locke Mon, 08/31/2026 - 14:30 I've been maintaining the matrix_api module on Drupal.org since 2016, nearly a decade of it doing one thing well: posting Drupal events",
    "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-08/hero-notext-drupal-matrix-nodes_0.png?itok=EzaGng4o"
-  },
-  {
-   "title": "Omega8.cc: Pull Your Site into DDEV",
-   "link": "https://omega8.cc/blog/pull-your-site-into-ddev",
-   "date": "2026-08-31T21:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Reproducing a bug that only happens on the live Drupal site used to mean a hand-made dump, the uploads copied across one rsync at a time, and an hour of persuading the copy it is not production. On a BOA-hosted site it i",
-   "image": "https://omega8.cc/images/3/7/b/d/8/37bd8e90e91db378014aa2a93bab14d253088b35-boa-ddev-anime-halo.png"
   },
   {
    "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
@@ -590,26 +680,6 @@
    "source": "Kubernetes Blog",
    "summary": "Pod Certificate / Cluster Trust Bundles Blog Post Kubernetes brings a wealth of features that make it easy to run your production workloads securely and reliably. While aspects like scheduling, health checks and resource",
    "image": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/pod-certificates-architecture.svg"
-  },
-  {
-   "title": "Laravel Starter Kits Now Ship with Vite+",
-   "link": "https://laravel-news.com/laravel-starter-kits-vite-plus?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-28T16:45:20.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Every Laravel starter kit now builds with Vite+, trading ESLint and Prettier for a single vp check across React, Vue, Svelte, and Livewire. The post Laravel Starter Kits Now Ship with Vite+ appeared first on Laravel News",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/viteplus-laravel-starter-kits-featured.png"
-  },
-  {
-   "title": "Pessimistic Locking in Laravel Eloquent with refreshForUpdate()",
-   "link": "https://laravel-news.com/laravel-refresh-for-update?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-08-28T01:55:47.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.27 adds refreshForUpdate() to Eloquent, reloading a model under lockForUpdate() so you can take a pessimistic lock without requerying by key. The post Pessimistic Locking in Laravel Eloquent with refreshForUpd",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-refreshForUpdate-featured.png"
   },
   {
    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
@@ -952,16 +1022,6 @@
    "image": null
   },
   {
-   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-   "link": "https://huggingface.co/blog/pwc-search",
-   "date": "2026-08-21T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
    "link": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
    "date": "2026-08-20T13:35:23.000Z",
@@ -1010,36 +1070,6 @@
    "source": "CSS-Tricks",
    "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
-  },
-  {
-   "title": "Relighting Images with Depth Maps and Three.js",
-   "link": "https://tympanus.net/codrops/2026/08/19/relighting-images-with-depth-maps-and-three-js/",
-   "date": "2026-08-19T14:42:19.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Explore how depth maps, TSL, and WebGPU can be combined to turn flat 2D images into dynamic surfaces with realistic lighting, surface detail, and self-shadowing.",
-   "image": null
-  },
-  {
-   "title": "Security Advisory: Privileged ClickHouse access through the Grafana data source in PMM",
-   "link": "https://www.percona.com/blog/security-advisory-cve-affecting-pmm/",
-   "date": "2026-08-19T13:07:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Date of release: 19 August 2026 Severity: High Affected product: PMM Impacted versions: 3.9.0 and below Summary Percona has recently been made aware of a security vulnerability affecting PMM. We take the security of our ",
-   "image": null
-  },
-  {
-   "title": "Stop guessing at gcache: inspect Galera/PXC write sets with gcache-inspector",
-   "link": "https://www.percona.com/blog/stop-guessing-at-gcache-inspect-galera-pxc-write-sets-with-gcache-inspector/",
-   "date": "2026-08-19T08:23:50.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "The common practice is to size the Galera Cache based on write volume measured during peak load, but often it is more of a guesswork. The writeset cache capacity planning is crucial to shorten the maintenance time and av",
-   "image": "https://www.percona.com/wp-content/uploads/2026/08/fig1.png"
   },
   {
    "title": "Fragments: August 18",
@@ -1092,16 +1122,6 @@
    "image": null
   },
   {
-   "title": "TDD inside the agent loop - theater or actual value?",
-   "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
-   "date": "2026-08-11T11:39:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "My colleagues at Thoughtworks tend to be big fans of Test-Driven Development, and many people in the industry advocate telling LLM agents to use TDD when building software. Birgitta Böckeler was curious if this really ma",
-   "image": null
-  },
-  {
    "title": "CSS:the bomb inside your inbox",
    "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
    "date": "2026-08-06T22:00:00.000Z",
@@ -1140,16 +1160,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
-  },
-  {
-   "title": "Fragments: August  4",
-   "link": "https://martinfowler.com/fragments/2026-08-04.html",
-   "date": "2026-08-04T12:08:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incide",
-   "image": null
   },
   {
    "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
@@ -1200,16 +1210,6 @@
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/new-in-php-86",
    "image": null
-  },
-  {
-   "title": "The amazingly versatile conic-gradient()",
-   "link": "https://frontendfoc.us/issues/752",
-   "date": "2026-07-29T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🚀 Frontend Focus #​752 — July 29, 2026 | Read on the web WOFF 1.0 at 16: The Format That Made Web Fonts Work — Did you know @font-face was adopted into CSS2 in 1998? But it sat largely unused amid fights over licensing,",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ji7rmtbohbrobihlbmmq.jpg"
   }
  ]
 }
