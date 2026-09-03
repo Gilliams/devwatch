@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-09-02T19:45:21.511Z",
+ "generatedAt": "2026-09-03T01:05:58.262Z",
  "articles": [
   {
-   "title": "Как зелёный пайплайн однажды выкатил сломанный билд",
-   "link": "https://dev.to/sergey_shinder_ab2d943365/kak-zielionyi-paiplain-odnazhdy-vykatil-slomannyi-bild-g58",
-   "date": "2026-09-02T19:39:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Однажды в пятницу вечером наш пайплайн честно горел зелёным, а прод при этом лежал. Я до сих пор помню это ощущение: все галочки на месте, а пользователи пишут, что ничего не работает. Разбираться пришлось прямо в проде,",
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_replication_commands",
+   "link": "https://postgr.es/p/9tM",
+   "date": "2026-09-03T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "log_replication_commands is log_statement = all for walsenders, with the one difference that you should turn it on. A replication connection (replication=1 for physical, replication=database for logical) speaks a small l",
    "image": null
   },
   {
-   "title": "50 Easy Ways to Buy Old Gmail Accounts Smartly end...",
-   "link": "https://dev.to/gabiebarnettuddct/50-easy-ways-to-buy-old-gmail-accounts-smartly-end-2ef3",
-   "date": "2026-09-02T19:35:16.000Z",
+   "title": "Hardening FastMCP & Next.js 16 AI Agents Against MCP Injection",
+   "link": "https://dev.to/syed_zada_abrar/hardening-fastmcp-nextjs-16-ai-agents-against-mcp-injection-3o7b",
+   "date": "2026-09-03T00:44:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Gmail Accounts: Complete Guide to Account Age, Security, Risks, and Safer Alternatives getpvatop@gmail.com https://getpvatop.com/product/buy-old-gmail-accounts/ Introduction However, an account's age should not b",
+   "summary": "Hardening FastMCP & Next.js 16 AI Agents Against MCP Injection Canonical Source: Originally published on Andrax Pentester Research by Syed Zada Abrar. As Model Context Protocol (MCP) servers become the backbone of modern",
    "image": null
   },
   {
-   "title": "Liquibase: Git for Databases (with Spring Boot)",
-   "link": "https://dev.to/amanjotsingh/liquibase-git-for-databases-with-spring-boot-1ic0",
-   "date": "2026-09-02T19:26:00.000Z",
+   "title": "Don't Golden-File an Agent Patch. Golden-File the Relation.",
+   "link": "https://dev.to/datacpp_8185/dont-golden-file-an-agent-patch-golden-file-the-relation-48m3",
+   "date": "2026-09-03T00:38:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Application code has Git. We commit changes, track history, handle branches, and revert broken releases seamlessly. What about Database schemas??? Historically, they have been managed through manual SQL scripts passed ar",
+   "summary": "A recorded expected value is a leak. An agent that can read assert f(x) == y can patch f until that line is green and leave every unlisted input broken. A metamorphic relation does not publish y. It only publishes a cons",
    "image": null
   },
   {
-   "title": "Inside `zubair-trabzada/geo-seo-claude`: A Practical GEO Workflow for Claude Code",
-   "link": "https://dev.to/james_lin/inside-zubair-trabzadageo-seo-claude-a-practical-geo-workflow-for-claude-code-38pj",
-   "date": "2026-09-02T19:25:25.000Z",
+   "title": "PR Sous Chef Runs Every 15 Minutes and Usually Says Nothing. That's the Point.",
+   "link": "https://dev.to/artem_a/pr-sous-chef-runs-every-15-minutes-and-usually-says-nothing-thats-the-point-3l9b",
+   "date": "2026-09-03T00:27:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The recent surge in stars around zubair-trabzada/geo-seo-claude reflects a broader shift in search engineering: optimizing content not only for traditional ranking systems, but also for AI-generated answers. This reposit",
+   "summary": "GitHub Agentic Workflows shipped four notes in two days. Three of them circle the same problem, and it is not the one most agent tooling optimizes for. Agents are expensive when they look at things, not when they write t",
    "image": null
   },
   {
-   "title": "A aplicação estava saudável. O negócio estava parado.",
-   "link": "https://dev.to/scussel/a-aplicacao-estava-saudavel-o-negocio-estava-parado-1b6f",
-   "date": "2026-09-02T19:24:14.000Z",
+   "title": "Boost PostgreSQL Query Performance: Proven Indexing, Tuning & Scaling Techniques",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/boost-postgresql-query-performance-proven-indexing-tuning-scaling-techniques-158m",
+   "date": "2026-09-03T00:22:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Uma aplicação de produção começou a devolver erros de autenticação para usuários reais. O primeiro impulso foi procurar uma queda de servidor, um processo travado ou algum problema no banco. Nada disso tinha acontecido. ",
+   "summary": "Introduction Performance problems in PostgreSQL can cripple modern applications. This guide walks you through the most effective techniques to optimize query execution, from indexing to configuration tweaks. Use EXPLAIN ",
    "image": null
   },
   {
-   "title": "Standardizing Jira Workspaces for Human-Agent Collaboration: A Guide for Engineering Leaders",
-   "link": "https://dev.to/isuvo/standardizing-jira-workspaces-for-human-agent-collaboration-a-guide-for-engineering-leaders-3e6j",
-   "date": "2026-09-02T19:15:03.000Z",
+   "title": "VMware Alternatives in 2026: Where Teams Are Landing After the Broadcom Pricing Shock",
+   "link": "https://dev.to/toddyholiday/vmware-alternatives-in-2026-where-teams-are-landing-after-the-broadcom-pricing-shock-1gip",
+   "date": "2026-09-03T00:02:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction For years, engineering leaders have treated software delivery tools as passive repositories of record. We configured Jira workflows, defined transition rules, and expected human developers, product managers,",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd17r10d9xjmw1qc6mehp.jpg"
-  },
-  {
-   "title": "curl 8.22 Fixed an HTTP/3 Proxy Crash. Test the Boundary, Not Just the Happy Path",
-   "link": "https://dev.to/98ip/curl-822-fixed-an-http3-proxy-crash-test-the-boundary-not-just-the-happy-path-d1k",
-   "date": "2026-09-02T19:14:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "curl 8.22.0 shipped on September 2 with two proxy-relevant fixes: an HTTP/3 proxy path no longer dereferences a null pointer when a non-status response header arrives before :status, and CONNECT trailer handling was corr",
+   "summary": "Broadcom completed its $69 billion VMware acquisition in November 2023 and within weeks eliminated every perpetual license. Customers moved to subscription-only terms, forcing small deployments into bundles sized for ent",
    "image": null
   },
   {
-   "title": "Le pipeline le plus rapide n'est pas toujours le meilleur",
-   "link": "https://dev.to/sergey_shinder_ab2d943365/le-pipeline-le-plus-rapide-nest-pas-toujours-le-meilleur-2dh2",
-   "date": "2026-09-02T19:07:53.000Z",
+   "title": "Cron Jobs Made Simple",
+   "link": "https://dev.to/binaryjournal/cron-jobs-made-simple-2f2l",
+   "date": "2026-09-03T00:00:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On m'a demandé un jour de faire passer un pipeline de dix-huit minutes sous les cinq minutes. J'ai réussi. Trois semaines plus tard, on a livré un bug en production qui aurait été attrapé par les tests d'intégration que ",
+   "summary": "What Are Cron Jobs? Cron is a time-based job scheduler in Unix-like operating systems. It runs scripts or commands at specified intervals, like every minute, daily at 2 AM, or every Monday. If you've ever needed to autom",
+   "image": null
+  },
+  {
+   "title": "My Outreach Schedule Got Rewritten to 2:31 AM Without Me: Building a launchd Guard That Self-Heals in Under 10 Minutes",
+   "link": "https://dev.to/bokuwalily/my-outreach-schedule-got-rewritten-to-231-am-without-me-building-a-launchd-guard-that-self-heals-4bii",
+   "date": "2026-09-03T00:00:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Six months after a layoff left me with zero take-home pay, I had built an autonomous Claude Code setup that now brings in a steady ¥1.2M a month. The whole thing rests on one assumption: outbound sales automation that ru",
+   "image": null
+  },
+  {
+   "title": "♻️ Build Caching Explained Like You're 5",
+   "link": "https://dev.to/esreekarreddy/build-caching-explained-like-youre-5-2pe",
+   "date": "2026-09-02T23:54:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Skip the work you already did Day 154 of 155 👉 Full deep-dive with code examples You cook the same stock every Sunday. It takes hours. So you freeze a batch and write the recipe on the label: ingredients, quantities, co",
+   "image": null
+  },
+  {
+   "title": "Bliki: Paracelsus Maxim",
+   "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+   "date": "2026-09-02T22:03:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good ",
+   "image": null
+  },
+  {
+   "title": "Omega8.cc: Classic Ægir, Welcomed Home",
+   "link": "https://omega8.cc/blog/classic-aegir-welcomed-home",
+   "date": "2026-09-02T20:09:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Somewhere out there a vanilla Ægir server is still quietly serving its Drupal sites, years after the person who set it up moved on. The aegir2boa toolset gives these classic estates a supported road into BOA: a read-only",
+   "image": "https://omega8.cc/images/3/6/d/9/f/36d9ff438f160210fdea04ff97faffb776ab6ad6-aegir-welcomed-home-anime-halo.png"
+  },
+  {
+   "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
+   "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/",
+   "date": "2026-09-02T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down to zero replicas. This feature is now Beta and enabled by default. A HorizontalPodAutoscaler (HPA) that uses a suitable object metric or ",
    "image": null
   },
   {
@@ -342,6 +382,16 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
+   "title": "DDEV Blog: DDEV v1.25.4: Database Seeding and Reset, MySQL 9.7 LTS, Global Configuration, New Project Types",
+   "link": "https://ddev.com/blog/release-v1-25-4",
+   "date": "2026-09-02T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "DDEV v1.25.4 is here: 142 PRs from the entire DDEV community. Your suggestions, bug reports, code, and financial support made it possible. The theme of this release is doing less by hand. A new project can start with a \"",
+   "image": "https://ddev.com/img/blog/2026/09/banner-ddev-v1-25-4.svg"
+  },
+  {
    "title": "Claude Fable 5.1 made me a really nice animated pelican",
    "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
    "date": "2026-09-01T23:57:28.000Z",
@@ -482,26 +532,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Why Drupal works for structured content operations at scale",
-   "link": "https://www.droptica.com/blog/why-drupal-works-structured-content-operations-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-01T14:58:37.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Publishing one good page is a writing task. Keeping hundreds of pages accurate across products, markets and languages is a systems problem. Drupal content operations at scale means treating each fact as structured data w",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Why%20Drupal%20works%20for%20structured%20content%20operations%20at%20scale_2.png"
-  },
-  {
-   "title": "Drupal Association blog: The work that just happens: the DA Insider for August 2026",
-   "link": "https://www.drupal.org/association/blog/the-work-that-just-happens-the-da-insider-for-august-2026",
-   "date": "2026-09-01T13:02:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "This post is adapted from the DA Insider, the Drupal Association's monthly newsletter. Subscribe here to get it in your inbox each month. Straight from Ryan's desk To the Drupal community, As northern hemisphere summer w",
-   "image": null
-  },
-  {
    "title": "Bend, Aim, Fling: Turning the Eiffel Tower into a Catapult with Three.js",
    "link": "https://tympanus.net/codrops/2026/09/01/bend-aim-fling-turning-the-eiffel-tower-into-a-catapult-with-three-js/",
    "date": "2026-09-01T12:41:22.000Z",
@@ -530,16 +560,6 @@
    "source": "Planet PostgreSQL",
    "summary": "That was an experimental meetup: we never, ever scheduled meetups in August, especially during the last week of August! Still, when Keanya Phelps came up with the idea to have a Postgres meetup during the Djangocon.US co",
    "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_parameter_max_length and log_parameter_max_length_on_error",
-   "link": "https://postgr.es/p/9tG",
-   "date": "2026-09-01T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Control what bind parameters PostgreSQL logs alongside statements and errors.",
-   "image": null
   },
   {
    "title": "Forte: Parse and Rewrite Laravel Blade Templates",
@@ -1072,16 +1092,6 @@
    "image": null
   },
   {
-   "title": "Fragments: August 18",
-   "link": "https://martinfowler.com/fragments/2026-08-18.html",
-   "date": "2026-08-18T15:04:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little apti",
-   "image": null
-  },
-  {
    "title": "LonghornPHP 2026",
    "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
    "date": "2026-08-18T10:14:50.000Z",
@@ -1170,16 +1180,6 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-  },
-  {
-   "title": "Kubernetes v1.37 Sneak Peek",
-   "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
-   "date": "2026-07-31T16:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures, features may be deprecated, removed, or replaced with better ones for the project's overall health. This blog outlines some of ",
-   "image": null
   },
   {
    "title": "PHP 8.4.24 Released!",
