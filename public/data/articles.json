@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-09-03T09:43:03.214Z",
+ "generatedAt": "2026-09-03T14:58:24.127Z",
  "articles": [
   {
-   "title": "What Is an MCP Registry? Discovering & Governing MCP Servers",
-   "link": "https://dev.to/kuldeep_paul/what-is-an-mcp-registry-discovering-governing-mcp-servers-21bb",
-   "date": "2026-09-03T09:39:48.000Z",
+   "title": "Graceful Degradation & Load Shedding: Staying Partly Up When Everything Wants to Fall Down",
+   "link": "https://dev.to/sri2614/graceful-degradation-load-shedding-staying-partly-up-when-everything-wants-to-fall-down-58pj",
+   "date": "2026-09-03T14:49:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR An MCP registry is a centralized metadata catalog that indexes Model Context Protocol servers, their exposed tools, communication transports, and package locations. Registries solve the discovery problem by maintai",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frruh1vefavyvue25qk2k.jpg"
+   "summary": "⚡ TL;DR: Overload should not mean outage. Use load shedding, rate limiting, circuit breakers, and smart timeouts to keep critical paths alive while the rest degrades on purpose, with code for retries using backoff and ji",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fY2xpZW50KCJDbGllbnQ8YnIvPkJyb3dzZXIgLyBtb2JpbGUgLyBwZWVyIikKICBjbGFzcyBuX2NsaWVudCBjbGllbnQ7CiAgbl9ybCgiUmF0ZSBMaW1pdGVyPGJyLz5QZXItY2xpZW50IHF1b3RhIikKICBjbGFzcyBuX3JsIGVkZ2U7CiAgbl9jYigiQ2lyY3VpdCBCcmVha2VyPGJyLz5PcGVuIC8gaGFsZi1vcGVuIC8gY2xvc2VkIikKICBjbGFzcyBuX2NiIGVkZ2U7CiAgbl9zdmMoIlNlcnZpY2U8YnIvPlRpbWVvdXQgcGVyIGNhbGwiKQogIGNsYXNzIG5fc3ZjIGNvbXB1dGU7CiAgbl9zaGVkKCJTaGVkIEV4Y2Vzczxici8-NDI5IC8gNTAzIGZhc3QiKQogIGNsYXNzIG5fc2hlZCBleHRlcm5hbDsKICBuX2ZhbGxiYWNrKCJGYWxsYmFjayAvIENhY2hlPGJyLz5TdGFsZS1idXQtT0sgcmVzcG9uc2UiKQogIGNsYXNzIG5fZmFsbGJhY2sgZGF0YTsKICBuX2NsaWVudCAtLT58InJlcXVlc3QifCBuX3JsCiAgbl9ybCAtLT58IndpdGhpbiBxdW90YSJ8IG5fY2IKICBuX2NiIC0tPnwiYnJlYWtlciBjbG9zZWQifCBuX3N2YwogIG5fcmwgLS4tPnwib3ZlciBxdW90YSJ8IG5fc2hlZAogIG5fY2IgLS4tPnwiYnJlYWtlciBvcGVuInwgbl9mYWxsYmFjawogIG5fc3ZjIC0uLT58InRpbWVvdXQgLyBlcnJvciJ8IG5fZmFsbGJhY2s%3FbgColor%3D0d1017%26type%3Dpng"
   },
   {
-   "title": "Routing n8n AI Workflows Through One Gateway",
-   "link": "https://dev.to/kuldeep_paul/routing-n8n-ai-workflows-through-one-gateway-4bi8",
-   "date": "2026-09-03T09:36:45.000Z",
+   "title": "Audit WAF Deny Logs Before a Model Explains the Block",
+   "link": "https://dev.to/jaryn_123/audit-waf-deny-logs-before-a-model-explains-the-block-55g2",
+   "date": "2026-09-03T14:38:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Direct API integrations between n8n and model providers introduce silent failure points, fragmented secret management, and untracked token expenditures. Bifrost, an open-source AI gateway written in Go by Maxim AI,",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4mvij4gxffwls7hntjib.jpg"
-  },
-  {
-   "title": "# Docker Interview Questions: A Hands-On Tutorial for Developers",
-   "link": "https://dev.to/ascent_1_fba4ec981/-docker-interview-questions-a-hands-on-tutorial-for-developers-enl",
-   "date": "2026-09-03T09:34:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Docker Interview Questions: A Hands-On Tutorial for Developers Docker interview preparation becomes much easier when you stop memorizing isolated definitions and start building small, working examples. In this tutorial, ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ppwsjotger6rrbvwsh2.png"
-  },
-  {
-   "title": "Controls and Audit Logs for LLM Traffic in Enterprise AI",
-   "link": "https://dev.to/kuldeep_paul/controls-and-audit-logs-for-llm-traffic-in-enterprise-ai-4h3m",
-   "date": "2026-09-03T09:33:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Capturing comprehensive controls and audit logs for LLM traffic requires recording model inputs, generated responses, tool execution parameters, and caller identities at the infrastructure layer. Standard applicati",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm1qcxkjmtsxwpmvbsh0d.jpg"
-  },
-  {
-   "title": "How to Avoid LLM Vendor Lock-In: Architecture and Strategy Guide",
-   "link": "https://dev.to/kuldeep_paul/how-to-avoid-llm-vendor-lock-in-architecture-and-strategy-guide-39g7",
-   "date": "2026-09-03T09:30:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR LLM vendor lock-in occurs across five distinct layers: SDK interfaces, prompt behavior, agentic tool schemas, operational telemetry, and procurement contracts. Swapping SDK client calls is insufficient; genuine por",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp4s44xtj2cqb4ymqhadd.jpg"
-  },
-  {
-   "title": "AI Agent Governance: Policies & Controls for Autonomous Agents",
-   "link": "https://dev.to/kuldeep_paul/ai-agent-governance-policies-controls-for-autonomous-agents-12no",
-   "date": "2026-09-03T09:27:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Autonomous AI agent governance shifts control from evaluating static text generation to constraining dynamic, state-changing tool executions and external API calls. Runtime enforcement requires deterministic virtua",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyjhbo1hsy4xg0zzt1f6.jpg"
-  },
-  {
-   "title": "Securing the AI Pipeline: How to Apply DevSecOps to GenAI",
-   "link": "https://dev.to/ayan_mohamed/securing-the-ai-pipeline-how-to-apply-devsecops-to-genai-30of",
-   "date": "2026-09-03T09:24:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Securing AI Pipelines with DevSecOps Practices Artificial Intelligence is changing how we build and ship software — but it's also rewriting the threat model. Large Language Models (LLMs) and GenAI systems don't just inhe",
+   "summary": "The failing request is one 403. Not a new CVE. Not a jailbreak. 192.0.2.10 - - [03/Sep/2026:09:14:22 +0000] \"POST /admin/users HTTP/1.1\" 403 182 \"-\" \"Mozilla/5.0\" \"session=CANARY_SESS_7f3a; theme=dark\" I keep that line i",
    "image": null
   },
   {
-   "title": "AI Agent Governance: Identity, Permissions, Budgets, and Lifecycle in Production",
-   "link": "https://dev.to/kuldeep_paul/ai-agent-governance-identity-permissions-budgets-and-lifecycle-in-production-4gg2",
-   "date": "2026-09-03T09:24:03.000Z",
+   "title": "Reject Retry Storms Before Token Cost Beats Deadline Slack",
+   "link": "https://dev.to/odd_background_328/reject-retry-storms-before-token-cost-beats-deadline-slack-4g3o",
+   "date": "2026-09-03T14:36:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR AI agent governance in production requires external runtime enforcement rather than relying on model prompts to constrain agent behavior. Dedicated agent identities replace shared API credentials with scoped virtua",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32gf4tteemh5f5gtjx5.jpg"
+   "summary": "Your pager fires on review_latency_p95 at 02:14. Your SLO still says fifteen seconds end to end. Do not scale replicas from utilization alone. Watch these fields on one screen: queue_age_ms retry_count token_in and token",
+   "image": null
+  },
+  {
+   "title": "Verify Your WordPress Hardening From the Command Line Before You Trust It",
+   "link": "https://dev.to/cifi/verify-your-wordpress-hardening-from-the-command-line-before-you-trust-it-1edd",
+   "date": "2026-09-03T14:35:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most WordPress hardening advice ends at \"turn it on.\" Almost none of it tells you how to confirm the thing you turned on is doing anything, which is a problem, because the two most common outcomes of configuring a securi",
+   "image": null
+  },
+  {
+   "title": "Reclaim Idle Seats Without Manual Effort",
+   "link": "https://dev.to/reprise_software/reclaim-idle-seats-without-manual-effort-936",
+   "date": "2026-09-03T14:19:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Want to support 100 active users with a lean pool of 30 software licenses? RLM's automatic floating license timeout reclaims idle seats instantly, keeping software access seamless and team productivity at peak capacity. ",
+   "image": null
+  },
+  {
+   "title": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-best-practices-scripts-1bi",
+   "date": "2026-09-03T14:14:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts Scaling Kubernetes pods automatically is a cornerstone of cloud‑native reliability, but hidden pitfalls can cause erratic behavior, wasted resources, or ",
+   "image": null
+  },
+  {
+   "title": "Ollama vs vLLM for Concurrent Inference: How to Choose the Right Server",
+   "link": "https://dev.to/aeza__net/ollama-vs-vllm-for-concurrent-inference-how-to-choose-the-right-server-3o5p",
+   "date": "2026-09-03T14:13:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Choosing between Ollama and vLLM is not simply a matter of asking: Which inference engine is faster? The answer depends heavily on the workload. A personal chat interface with one active user has very different requireme",
+   "image": null
+  },
+  {
+   "title": "CPU Steal Time Explained: What %st Really Means on a Virtual Machine",
+   "link": "https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h",
+   "date": "2026-09-03T14:11:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "CPU steal time is one of those Linux metrics that looks simple until you actually need to diagnose a performance problem. You open top, notice that %st is above zero, and the obvious conclusion seems to be: The host is o",
+   "image": null
+  },
+  {
+   "title": "More Three.js Speakers, More Ideas from Paris",
+   "link": "https://tympanus.net/codrops/2026/09/03/more-three-js-speakers-more-ideas-from-paris/",
+   "date": "2026-09-03T13:34:34.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "New voices from the first Three.js Conference share what they're building, experimenting with, and bringing to Paris.",
+   "image": null
+  },
+  {
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "link": "https://huggingface.co/blog/Hcompany/neomme",
+   "date": "2026-09-03T13:13:48.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Dimitri Fontaine: Getting Ready for PostgreSQL 19",
+   "link": "https://postgr.es/p/9tO",
+   "date": "2026-09-03T13:09:30.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 19 Beta 3 shipped on August 13, 2026, and the release notes have been filled in as of 2026-07-18 — still marked subject to change, and the GA date isn’t announced yet, but following the project’s usual Septemb",
+   "image": null
+  },
+  {
+   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+   "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+   "date": "2026-09-03T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
+  },
+  {
+   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+   "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+   "date": "2026-09-03T10:43:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attac",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg"
+  },
+  {
+   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+   "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+   "date": "2026-09-03T10:36:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous D",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif"
+  },
+  {
+   "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+   "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+   "date": "2026-09-03T08:43:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
   },
   {
    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
@@ -102,6 +172,26 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
   },
   {
+   "title": "Group Adjacent Collection Items in Laravel with chunkBy()",
+   "link": "https://laravel-news.com/laravel-collection-chunk-by?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-03T02:56:57.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 adds chunkBy() to collections and lazy collections, splitting sorted data into runs of matching items without loading it all into memory. The post Group Adjacent Collection Items in Laravel with chunkBy() a",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-30-chunkby-featured.png"
+  },
+  {
+   "title": "Laravel queue:work Now Prints Why the Worker Stopped",
+   "link": "https://laravel-news.com/laravel-queue-worker-stop-reasons?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-03T02:56:05.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 writes the queue worker's stop reason to queue:work output, in plain text and as a structured JSON record for log pipelines. The post Laravel queue:work Now Prints Why the Worker Stopped appeared first on L",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-queue-worker-stop-reasons.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_replication_commands",
    "link": "https://postgr.es/p/9tM",
    "date": "2026-09-03T01:00:00.000Z",
@@ -109,6 +199,26 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "log_replication_commands is log_statement = all for walsenders, with the one difference that you should turn it on. A replication connection (replication=1 for physical, replication=database for logical) speaks a small l",
+   "image": null
+  },
+  {
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "date": "2026-09-03T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Give Your Coding Agents a Memory You Own",
+   "link": "https://huggingface.co/blog/funes",
+   "date": "2026-09-03T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -262,16 +372,6 @@
    "image": null
   },
   {
-   "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-   "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-   "date": "2026-09-02T14:06:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif"
-  },
-  {
    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
    "date": "2026-09-02T13:49:14.000Z",
@@ -280,16 +380,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-   "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-   "date": "2026-09-02T13:44:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
   },
   {
    "title": "The Drop Times: Your Client Is Not a Ticket",
@@ -312,24 +402,14 @@
    "image": null
   },
   {
-   "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-   "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-   "date": "2026-09-02T13:12:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A ho",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg"
-  },
-  {
-   "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-   "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-   "date": "2026-09-02T12:22:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators ne",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg"
+   "title": "Jimmy Angelakos: LinkedIn Live: All right, so you inherited a bad database...",
+   "link": "https://postgr.es/p/9tN",
+   "date": "2026-09-02T12:37:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Back on Friday, July 17th, I joined Courtney from Manning for another LinkedIn Live, this time on what to do when you inherit a bad database. The recording and the slides are now up, with a Q&A at the end. The session wa",
+   "image": "https://vyruss.org/blog/feeds/images/inherited_bad_database.jpg"
   },
   {
    "title": "Mongorewind: Rewind Your MongoDB Test Data Without Restoring a Backup",
@@ -359,6 +439,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "The Drupal Business Survey investigates the trends in the digital market, in particular from service providers involved with the open source Drupal CMS and enterprise platform. Digital agencies from all over the world pa",
+   "image": null
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
    "image": null
   },
   {
@@ -552,26 +642,6 @@
    "image": null
   },
   {
-   "title": "Vibhor Kumar: When AI Takes Action, What Proves What Actually Happened?",
-   "link": "https://postgr.es/p/9tD",
-   "date": "2026-09-01T07:34:56.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Why transactional evidence matters as AI moves from generating answers to changing business state Imagine an AI agent handling a customer refund. It receives the request, retrieves the order, evaluates the relevant infor",
-   "image": "https://vibhorkumar.wordpress.com/wp-content/uploads/2026/09/image-1.png?w=825"
-  },
-  {
-   "title": "Henrietta Dombrovskaya: That’s how Postgres met Django!",
-   "link": "https://postgr.es/p/9tC",
-   "date": "2026-09-01T02:26:28.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "That was an experimental meetup: we never, ever scheduled meetups in August, especially during the last week of August! Still, when Keanya Phelps came up with the idea to have a Postgres meetup during the Djangocon.US co",
-   "image": "https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png"
-  },
-  {
    "title": "Forte: Parse and Rewrite Laravel Blade Templates",
    "link": "https://laravel-news.com/forte-blade-parser?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-01T00:15:05.000Z",
@@ -580,26 +650,6 @@
    "source": "Laravel News",
    "summary": "Forte parses Blade templates into an AST you can query with XPath and rewrite safely, so codemods run on structure instead of regex. The post Forte: Parse and Rewrite Laravel Blade Templates appeared first on Laravel New",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/FortePHP-LN.png"
-  },
-  {
-   "title": "MKSine: A Filament CMS with Plugins, Themes, and Blocks",
-   "link": "https://laravel-news.com/mksine-filament-cms?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-01T00:14:18.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "MKSine adds a CMS layer to Filament 4 and 5: a visual page builder, installable plugins and themes, menus, hooks, and a media library. The post MKSine: A Filament CMS with Plugins, Themes, and Blocks appeared first on La",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/MKSine-LN.png"
-  },
-  {
-   "title": "Compoships: Eloquent Relationships on Multiple Columns",
-   "link": "https://laravel-news.com/compoships?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-01T00:13:33.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Compoships adds multi-column Eloquent relationships to Laravel, plus composite primary key handling for save, delete, and refresh. The post Compoships: Eloquent Relationships on Multiple Columns appeared first on Laravel",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Compoships-LN.png"
   },
   {
    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
@@ -669,6 +719,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -862,16 +922,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1787734551/qkp7dzi9ablsjjebauky.png"
   },
   {
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "date": "2026-08-26T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37: Garhwal",
    "link": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/",
    "date": "2026-08-26T00:00:00.000Z",
@@ -902,16 +952,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/08/abcd_circle_diagram.svg"
   },
   {
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "date": "2026-08-25T15:14:14.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "What's in a tag name? JavaScript, apparently",
    "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
    "date": "2026-08-25T14:24:32.000Z",
@@ -929,16 +969,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "date": "2026-08-25T11:39:24.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -1039,16 +1069,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/a-for-apathy",
-   "image": null
-  },
-  {
-   "title": "Run Rob Run: Building a Music-Reactive Goo with Three.js and WebGPU",
-   "link": "https://tympanus.net/codrops/2026/08/20/run-rob-run-building-a-music-reactive-goo-with-three-js-and-webgpu/",
-   "date": "2026-08-20T13:35:23.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Exploring the techniques behind an audio-reactive 3D scene, from custom geometry deformation and music analysis to scroll-driven morphing, damping, and performance optimization.",
    "image": null
   },
   {
@@ -1180,26 +1200,6 @@
    "source": "Kubernetes Blog",
    "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
    "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
