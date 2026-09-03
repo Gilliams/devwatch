@@ -1,85 +1,215 @@
 {
- "generatedAt": "2026-09-03T14:58:24.127Z",
+ "generatedAt": "2026-09-03T19:47:29.131Z",
  "articles": [
   {
-   "title": "Graceful Degradation & Load Shedding: Staying Partly Up When Everything Wants to Fall Down",
-   "link": "https://dev.to/sri2614/graceful-degradation-load-shedding-staying-partly-up-when-everything-wants-to-fall-down-58pj",
-   "date": "2026-09-03T14:49:54.000Z",
+   "title": "One CDP connection per boot",
+   "link": "https://dev.to/oroborolabs/one-cdp-connection-per-boot-33l6",
+   "date": "2026-09-03T19:36:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Overload should not mean outage. Use load shedding, rate limiting, circuit breakers, and smart timeouts to keep critical paths alive while the rest degrades on purpose, with code for retries using backoff and ji",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fY2xpZW50KCJDbGllbnQ8YnIvPkJyb3dzZXIgLyBtb2JpbGUgLyBwZWVyIikKICBjbGFzcyBuX2NsaWVudCBjbGllbnQ7CiAgbl9ybCgiUmF0ZSBMaW1pdGVyPGJyLz5QZXItY2xpZW50IHF1b3RhIikKICBjbGFzcyBuX3JsIGVkZ2U7CiAgbl9jYigiQ2lyY3VpdCBCcmVha2VyPGJyLz5PcGVuIC8gaGFsZi1vcGVuIC8gY2xvc2VkIikKICBjbGFzcyBuX2NiIGVkZ2U7CiAgbl9zdmMoIlNlcnZpY2U8YnIvPlRpbWVvdXQgcGVyIGNhbGwiKQogIGNsYXNzIG5fc3ZjIGNvbXB1dGU7CiAgbl9zaGVkKCJTaGVkIEV4Y2Vzczxici8-NDI5IC8gNTAzIGZhc3QiKQogIGNsYXNzIG5fc2hlZCBleHRlcm5hbDsKICBuX2ZhbGxiYWNrKCJGYWxsYmFjayAvIENhY2hlPGJyLz5TdGFsZS1idXQtT0sgcmVzcG9uc2UiKQogIGNsYXNzIG5fZmFsbGJhY2sgZGF0YTsKICBuX2NsaWVudCAtLT58InJlcXVlc3QifCBuX3JsCiAgbl9ybCAtLT58IndpdGhpbiBxdW90YSJ8IG5fY2IKICBuX2NiIC0tPnwiYnJlYWtlciBjbG9zZWQifCBuX3N2YwogIG5fcmwgLS4tPnwib3ZlciBxdW90YSJ8IG5fc2hlZAogIG5fY2IgLS4tPnwiYnJlYWtlciBvcGVuInwgbl9mYWxsYmFjawogIG5fc3ZjIC0uLT58InRpbWVvdXQgLyBlcnJvciJ8IG5fZmFsbGJhY2s%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "Audit WAF Deny Logs Before a Model Explains the Block",
-   "link": "https://dev.to/jaryn_123/audit-waf-deny-logs-before-a-model-explains-the-block-55g2",
-   "date": "2026-09-03T14:38:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The failing request is one 403. Not a new CVE. Not a jailbreak. 192.0.2.10 - - [03/Sep/2026:09:14:22 +0000] \"POST /admin/users HTTP/1.1\" 403 182 \"-\" \"Mozilla/5.0\" \"session=CANARY_SESS_7f3a; theme=dark\" I keep that line i",
+   "summary": "Here is the whole failure, in one line from our own log: a second connect_over_cdp to a running headless Chromium died with \"Connection closed while reading from the driver\". Not flaky. Not network. Deterministic — and i",
    "image": null
   },
   {
-   "title": "Reject Retry Storms Before Token Cost Beats Deadline Slack",
-   "link": "https://dev.to/odd_background_328/reject-retry-storms-before-token-cost-beats-deadline-slack-4g3o",
-   "date": "2026-09-03T14:36:40.000Z",
+   "title": "[Quick Notes] \"Docker-fying\" my Portfolio Website",
+   "link": "https://dev.to/lugerlogic/quick-notes-docker-fying-my-portfolio-website-anc",
+   "date": "2026-09-03T19:31:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your pager fires on review_latency_p95 at 02:14. Your SLO still says fifteen seconds end to end. Do not scale replicas from utilization alone. Watch these fields on one screen: queue_age_ms retry_count token_in and token",
+   "summary": "Notes to my future self, in plain English. I already had my portfolio website working on my computer using Hugo and a template for the design. I wanted to package it up in Docker so I could run it the same way anywhere, ",
    "image": null
   },
   {
-   "title": "Verify Your WordPress Hardening From the Command Line Before You Trust It",
-   "link": "https://dev.to/cifi/verify-your-wordpress-hardening-from-the-command-line-before-you-trust-it-1edd",
-   "date": "2026-09-03T14:35:46.000Z",
+   "title": "03 Best Sites To Buy Old Gmail Accounts in this year...",
+   "link": "https://dev.to/farahchildsds099/03-best-sites-to-buy-old-gmail-accounts-in-this-year-253o",
+   "date": "2026-09-03T19:20:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most WordPress hardening advice ends at \"turn it on.\" Almost none of it tells you how to confirm the thing you turned on is doing anything, which is a problem, because the two most common outcomes of configuring a securi",
+   "summary": "Buy Old Yahoo Accounts getpvatop@gmail.com https://getpvatop.com/product/buy-old-yahoo-accounts/ Businesses aro If you’re looking to Buy Old Yahoo Accounts for professional or business use, GetPVATop.com offers reliable ",
    "image": null
   },
   {
-   "title": "Reclaim Idle Seats Without Manual Effort",
-   "link": "https://dev.to/reprise_software/reclaim-idle-seats-without-manual-effort-936",
-   "date": "2026-09-03T14:19:15.000Z",
+   "title": "Serving your SaaS on customer domains: CNAME, certbot, and 300 lines of Go instead of ACME on-demand",
+   "link": "https://dev.to/pingvera/serving-your-saas-on-customer-domains-cname-certbot-and-300-lines-of-go-instead-of-acme-on-demand-5ell",
+   "date": "2026-09-03T19:17:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Want to support 100 active users with a lean pool of 30 software licenses? RLM's automatic floating license timeout reclaims idle seats instantly, keeping software access seamless and team productivity at peak capacity. ",
+   "summary": "There is a class of features that look like one line in a ticket and turn into a week of work. \"I want the status page on my own domain\" is one of them. The customer adds a CNAME record — status.client.com → status.your-",
    "image": null
   },
   {
-   "title": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-best-practices-scripts-1bi",
-   "date": "2026-09-03T14:14:39.000Z",
+   "title": "The first ten minutes of an outage are a coordination problem",
+   "link": "https://dev.to/ginocorp_industries/the-first-ten-minutes-of-an-outage-are-a-coordination-problem-1o1c",
+   "date": "2026-09-03T19:00:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Automating Kubernetes Pod Scaling Issues: Best Practices & Scripts Scaling Kubernetes pods automatically is a cornerstone of cloud‑native reliability, but hidden pitfalls can cause erratic behavior, wasted resources, or ",
+   "summary": "Most of the time an outage runs long, the bug was not the hard part. The hard part is that four competent people saw the alert, and all four started working on it inside the same two minutes, in four different terminals,",
    "image": null
   },
   {
-   "title": "Ollama vs vLLM for Concurrent Inference: How to Choose the Right Server",
-   "link": "https://dev.to/aeza__net/ollama-vs-vllm-for-concurrent-inference-how-to-choose-the-right-server-3o5p",
-   "date": "2026-09-03T14:13:06.000Z",
+   "title": "Husky vs Jenkins vs Ansible: When to Use Which for CI/CD?",
+   "link": "https://dev.to/dineshstack/husky-vs-jenkins-vs-ansible-when-to-use-which-for-cicd-387a",
+   "date": "2026-09-03T19:00:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Choosing between Ollama and vLLM is not simply a matter of asking: Which inference engine is faster? The answer depends heavily on the workload. A personal chat interface with one active user has very different requireme",
+   "summary": "In this guide, we will cover everything you need to know about choosing between Husky, Jenkins and Ansible for a Laravel CI/CD pipeline — and why the real answer is a layered setup, not a single winner. I recently built ",
    "image": null
   },
   {
-   "title": "CPU Steal Time Explained: What %st Really Means on a Virtual Machine",
-   "link": "https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h",
-   "date": "2026-09-03T14:11:28.000Z",
+   "title": "A reader said my gate was checking the wrong thing. Proving him right broke my harness twice",
+   "link": "https://dev.to/mahirhir/a-reader-said-my-gate-was-checking-the-wrong-thing-proving-him-right-broke-my-harness-twice-2hpf",
+   "date": "2026-09-03T18:58:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "CPU steal time is one of those Linux metrics that looks simple until you actually need to diagnose a performance problem. You open top, notice that %st is above zero, and the obvious conclusion seems to be: The host is o",
+   "summary": "A reader told me the enforcement hook I had just written up was checking the wrong predicate. He was right. Running the control he asked for took two attempts, because both times my harness broke in a way that looked exa",
    "image": null
+  },
+  {
+   "title": "13 Easy Ways to Buy Old Gmail Accounts Smartly end...",
+   "link": "https://dev.to/farahchildsds099/13-easy-ways-to-buy-old-gmail-accounts-smartly-end-1bji",
+   "date": "2026-09-03T18:54:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Old Gmail Accounts getpvatop@gmail.com https://getpvatop.com/product/buy-old-gmail-accounts/ Old Gmail accounts have become essential for professionals, marketers, and businesses that rely on trusted and verified ema",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: DRA Updates",
+   "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
+   "date": "2026-09-03T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight",
+   "image": null
+  },
+  {
+   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+   "date": "2026-09-03T18:02:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attack",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #568 - Off The Cuff #12",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-568-off-the-cuff-12",
+   "date": "2026-09-03T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Drupal Performance, Rapid Development, and Drupal Canvas Maturity with our hosts. We'll also cover Microsoft 365 FullCalendar as our module of the week. For show notes visit: https://www.talkin",
+   "image": null
+  },
+  {
+   "title": "Matt Glaman: Making the phpstan-drupal playground work for agents",
+   "link": "https://mglaman.dev/blog/making-phpstan-drupal-playground-work-agents?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
+   "date": "2026-09-03T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The phpstan-drupal playground exists to reproduce bugs. You paste PHP, run PHPStan with phpstan-drupal against a real Drupal core install, and share the result link in an issue. It never quite worked right, and I never g",
+   "image": null
+  },
+  {
+   "title": "Drupal AI Initiative: Two Keynotes, One Question: Building Through Disruption at Drupal GovCon",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/two-keynotes-one-question-building-through-disruption-at-drupal-govcon",
+   "date": "2026-09-03T17:02:26.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Author: Martin Anderson-Clutz. Originally posted on The Acquia Blog. Two GovCon keynotes came at disruption from opposite ends. Read them together and you get a map of the moment Drupal is in. Earlier this month, I spent",
+   "image": null
+  },
+  {
+   "title": "Umair Shahid: Database Availability Is a Stack: Rolling OS Patching",
+   "link": "https://postgr.es/p/9tQ",
+   "date": "2026-09-03T16:13:03.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Key takeaways A routine OS patch can take Postgres offline even when Postgres itself was never touched. Here’s what rolling OS patching on a proper HA cluster changes: OS-level patches (kernel, glibc, container runtime, ",
+   "image": null
+  },
+  {
+   "title": "From Rays to Meshes: Building Vercel’s Prism with vgpu",
+   "link": "https://tympanus.net/codrops/2026/09/03/from-rays-to-meshes-building-vercels-prism-with-vgpu/",
+   "date": "2026-09-03T16:01:06.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look at how Vercel’s vgpu creates a performant prism effect using shaders, geometry, glass, and adaptive rendering.",
+   "image": null
+  },
+  {
+   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+   "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+   "date": "2026-09-03T15:52:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg"
+  },
+  {
+   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+   "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+   "date": "2026-09-03T15:26:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg"
+  },
+  {
+   "title": "The Laracon Archive",
+   "link": "https://laravel-news.com/laracon-archive?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-03T15:06:21.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "The Laracon Archive - an archive of 626 talks, 287 speakers, 5 Laracons, over the entire 14 years The post The Laracon Archive appeared first on Laravel News. Join the Laravel Newsletter to get Laravel articles like this",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Screenshot 2026-09-03 at 11.01.03 AM.png"
+  },
+  {
+   "title": "Devrim GÜNDÜZ: PostgreSQL RPM repo comes to Amazon Linux 2023!",
+   "link": "https://postgr.es/p/9tR",
+   "date": "2026-09-03T14:50:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "If you run PostgreSQL on EC2, you've had two real choices until now: build from source, or fall back to whatever version Amazon Linux itself carries in its base repos. Neither matches what the rest of the PostgreSQL comm",
+   "image": "https://people.planetpostgresql.org/devrim/uploads/Screenshot_From_2026-09-03_17-53-06.png"
+  },
+  {
+   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+   "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+   "date": "2026-09-03T14:39:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg"
+  },
+  {
+   "title": "Golems GABB: Beyond Table-Based Nightmares: A Technical Deep Dive into Drupal's MJML Render Engine",
+   "link": "https://gole.ms/blog/beyond-table-based-nightmares-technical-deep-dive-drupals-mjml-render-engine",
+   "date": "2026-09-03T14:12:14.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Beyond Table-Based Nightmares: A Technical Deep Dive into Drupal's MJML Render Engine admin Thu, 09/03/2026 - 17:12 The Legacy Email Problem: Broken Layouts and Fragile Twig Templates Within modern web development, gener",
+   "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-09/clipboard-202609031424-ipwpf.png?itok=QX5Apl8O"
   },
   {
    "title": "More Three.js Speakers, More Ideas from Paris",
@@ -152,26 +282,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
   },
   {
-   "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-   "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-   "date": "2026-09-03T06:26:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg"
-  },
-  {
-   "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-   "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-   "date": "2026-09-03T05:19:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
-  },
-  {
    "title": "Group Adjacent Collection Items in Laravel with chunkBy()",
    "link": "https://laravel-news.com/laravel-collection-chunk-by?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-03T02:56:57.000Z",
@@ -232,6 +342,16 @@
    "image": null
   },
   {
+   "title": "Alexander Ioffe: How One Extra JOIN Reliably Breaks Postgres",
+   "link": "https://postgr.es/p/9tP",
+   "date": "2026-09-03T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Adding a 5-row lookup table to a 9-table billing query flips the plan from 0.3ms nested loops to 467ms hash joins. The cause is join_collapse_limit = 8, a default Postgres has shipped since 2005. SQL Server and MySQL don",
+   "image": null
+  },
+  {
    "title": "Bliki: Paracelsus Maxim",
    "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
    "date": "2026-09-02T22:03:00.000Z",
@@ -262,16 +382,6 @@
    "image": null
   },
   {
-   "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-   "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-   "date": "2026-09-02T18:27:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg"
-  },
-  {
    "title": "Sidecar Brings Statamic's Control Panel to Your Existing Markdown Sites",
    "link": "https://laravel-news.com/statamic-sidecar?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-02T18:15:31.000Z",
@@ -290,16 +400,6 @@
    "source": "Planet PostgreSQL",
    "summary": "When dividing by zero, Postgres fails and declares you ran an illegal operation. Cast 'abc' to an integer, and get an error. Divide by NULL and the query still runs. NULL isn't even a value. It is a marker for “unknown.”",
    "image": null
-  },
-  {
-   "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-   "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
-   "date": "2026-09-02T16:41:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resul",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg"
   },
   {
    "title": "llm-gemini 0.34",
@@ -349,6 +449,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
@@ -462,16 +572,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_min_duration_sample, log_statement_sample_rate, and log_transaction_sample_rate",
-   "link": "https://postgr.es/p/9tH",
-   "date": "2026-09-02T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Aggregate query statistics hide the forest of cheap queries.",
-   "image": null
-  },
-  {
    "title": "htmx 4.0 takes HTML-driven apps further",
    "link": "https://frontendfoc.us/issues/756",
    "date": "2026-09-02T00:00:00.000Z",
@@ -482,16 +582,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
-   "title": "DDEV Blog: DDEV v1.25.4: Database Seeding and Reset, MySQL 9.7 LTS, Global Configuration, New Project Types",
-   "link": "https://ddev.com/blog/release-v1-25-4",
-   "date": "2026-09-02T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "DDEV v1.25.4 is here: 142 PRs from the entire DDEV community. Your suggestions, bug reports, code, and financial support made it possible. The theme of this release is doing less by hand. A new project can start with a \"",
-   "image": "https://ddev.com/img/blog/2026/09/banner-ddev-v1-25-4.svg"
-  },
-  {
    "title": "Claude Fable 5.1 made me a really nice animated pelican",
    "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
    "date": "2026-09-01T23:57:28.000Z",
@@ -499,16 +589,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
-   "image": null
-  },
-  {
-   "title": "Metadrop: Fixing missing image alt attributes in Drupal without development",
-   "link": "https://metadrop.net/en/articles/fixing-missing-image-alt-attributes-in-drupal-without-development",
-   "date": "2026-09-01T22:53:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Missing image alt attributes cost accessibility and SEO points Empty alt attributes are an accessibility and SEO killer, and the cost is measurable. Google Lighthouse flags the error on both of its audits: up to 6 points",
    "image": null
   },
   {
@@ -552,16 +632,6 @@
    "image": null
   },
   {
-   "title": "Omega8.cc: Your Site Already Said No",
-   "link": "https://omega8.cc/blog/your-site-already-said-no",
-   "date": "2026-09-01T18:47:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "AI traffic is not one thing, and a policy which treats it as one thing gets the answer wrong in both directions. Here the decision is written down, class by class: the crawlers which harvest sites to train models are tur",
-   "image": "https://omega8.cc/images/7/f/9/c/7/7f9c708ec94526cb5c0d548ff269712793855630-boa-said-no-anime-halo.png"
-  },
-  {
    "title": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
    "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/",
    "date": "2026-09-01T18:30:00.000Z",
@@ -582,26 +652,6 @@
    "image": null
   },
   {
-   "title": "Aten Design Group: Who Owns the Icon? Building Author-Friendly Icon Systems in Drupal",
-   "link": "https://atendesigngroup.com/articles/who-owns-icon-building-author-friendly-icon-systems-drupal",
-   "date": "2026-09-01T17:34:01.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Who Owns the Icon? Building Author-Friendly Icon Systems in Drupal Joel Steidl Tue, 09/01/2026 - 11:34 Drupal Icons seem like a small implementation detail until a site has a large design system, multiple authoring workf",
-   "image": "https://atendesigngroup.com/sites/default/files/2026-09/CleanShot%202026-07-29%20at%2016.18.55_0.jpeg"
-  },
-  {
-   "title": "Gülçin Yıldırım Jelínek: New system views in PostgreSQL 19",
-   "link": "https://postgr.es/p/9tF",
-   "date": "2026-09-01T17:03:18.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "While writing about the monitoring improvements in PostgreSQL 19 and preparing my new talk on Postgres observability for PostgreSQL Conference Europe in October, I noticed the system views got their own section in this r",
-   "image": null
-  },
-  {
    "title": "Quoting Tarn Adams",
    "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
    "date": "2026-09-01T17:01:11.000Z",
@@ -609,16 +659,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fort",
-   "image": null
-  },
-  {
-   "title": "Maki Majima: Migration files and Git do not mix",
-   "link": "https://postgr.es/p/9tE",
-   "date": "2026-09-01T16:30:23.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Your repository contains two version control systems. One is Git. The other is your migration directory — a timestamped, append-only sequence of schema changes with its own applied-state tracking in the database. Two sys",
    "image": null
   },
   {
@@ -640,16 +680,6 @@
    "source": "Codrops",
    "summary": "A playful Three.js experiment that turns the Eiffel Tower into a catapult, combining interactive physics with real-world 3D data from Cesium ion to launch yourself across Paris toward the Three.js conference.",
    "image": null
-  },
-  {
-   "title": "Forte: Parse and Rewrite Laravel Blade Templates",
-   "link": "https://laravel-news.com/forte-blade-parser?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-01T00:15:05.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Forte parses Blade templates into an AST you can query with XPath and rewrite safely, so codemods run on structure instead of regex. The post Forte: Parse and Rewrite Laravel Blade Templates appeared first on Laravel New",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/FortePHP-LN.png"
   },
   {
    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
@@ -1042,16 +1072,6 @@
    "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/blog/0.16/twig-callables.gif"
   },
   {
-   "title": "Sixty Frames for the Record: A Three.js Game, Seven Fly-Throughs, and a Wall of CRTs",
-   "link": "https://tympanus.net/codrops/2026/08/22/sixty-frames-for-the-record-a-three-js-game-seven-fly-throughs-and-a-wall-of-crts/",
-   "date": "2026-08-22T14:00:14.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "What building a Three.js lab around my own music taught me about the renderer.",
-   "image": null
-  },
-  {
    "title": "Resolved: CSS Class Prefix Selector",
    "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
    "date": "2026-08-21T15:13:03.000Z",
@@ -1122,16 +1142,6 @@
    "image": null
   },
   {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1190,16 +1200,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
-  },
-  {
-   "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-   "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/",
-   "date": "2026-08-03T16:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0, which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented, and expressive ser",
-   "image": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/gateway-api-logo.svg"
   },
   {
    "title": "What's new in PHP 8.6",
