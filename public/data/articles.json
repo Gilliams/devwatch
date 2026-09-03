@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-09-03T01:05:58.262Z",
+ "generatedAt": "2026-09-03T09:43:03.214Z",
  "articles": [
+  {
+   "title": "What Is an MCP Registry? Discovering & Governing MCP Servers",
+   "link": "https://dev.to/kuldeep_paul/what-is-an-mcp-registry-discovering-governing-mcp-servers-21bb",
+   "date": "2026-09-03T09:39:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR An MCP registry is a centralized metadata catalog that indexes Model Context Protocol servers, their exposed tools, communication transports, and package locations. Registries solve the discovery problem by maintai",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frruh1vefavyvue25qk2k.jpg"
+  },
+  {
+   "title": "Routing n8n AI Workflows Through One Gateway",
+   "link": "https://dev.to/kuldeep_paul/routing-n8n-ai-workflows-through-one-gateway-4bi8",
+   "date": "2026-09-03T09:36:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Direct API integrations between n8n and model providers introduce silent failure points, fragmented secret management, and untracked token expenditures. Bifrost, an open-source AI gateway written in Go by Maxim AI,",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4mvij4gxffwls7hntjib.jpg"
+  },
+  {
+   "title": "# Docker Interview Questions: A Hands-On Tutorial for Developers",
+   "link": "https://dev.to/ascent_1_fba4ec981/-docker-interview-questions-a-hands-on-tutorial-for-developers-enl",
+   "date": "2026-09-03T09:34:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Docker Interview Questions: A Hands-On Tutorial for Developers Docker interview preparation becomes much easier when you stop memorizing isolated definitions and start building small, working examples. In this tutorial, ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6ppwsjotger6rrbvwsh2.png"
+  },
+  {
+   "title": "Controls and Audit Logs for LLM Traffic in Enterprise AI",
+   "link": "https://dev.to/kuldeep_paul/controls-and-audit-logs-for-llm-traffic-in-enterprise-ai-4h3m",
+   "date": "2026-09-03T09:33:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Capturing comprehensive controls and audit logs for LLM traffic requires recording model inputs, generated responses, tool execution parameters, and caller identities at the infrastructure layer. Standard applicati",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm1qcxkjmtsxwpmvbsh0d.jpg"
+  },
+  {
+   "title": "How to Avoid LLM Vendor Lock-In: Architecture and Strategy Guide",
+   "link": "https://dev.to/kuldeep_paul/how-to-avoid-llm-vendor-lock-in-architecture-and-strategy-guide-39g7",
+   "date": "2026-09-03T09:30:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR LLM vendor lock-in occurs across five distinct layers: SDK interfaces, prompt behavior, agentic tool schemas, operational telemetry, and procurement contracts. Swapping SDK client calls is insufficient; genuine por",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp4s44xtj2cqb4ymqhadd.jpg"
+  },
+  {
+   "title": "AI Agent Governance: Policies & Controls for Autonomous Agents",
+   "link": "https://dev.to/kuldeep_paul/ai-agent-governance-policies-controls-for-autonomous-agents-12no",
+   "date": "2026-09-03T09:27:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Autonomous AI agent governance shifts control from evaluating static text generation to constraining dynamic, state-changing tool executions and external API calls. Runtime enforcement requires deterministic virtua",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjyjhbo1hsy4xg0zzt1f6.jpg"
+  },
+  {
+   "title": "Securing the AI Pipeline: How to Apply DevSecOps to GenAI",
+   "link": "https://dev.to/ayan_mohamed/securing-the-ai-pipeline-how-to-apply-devsecops-to-genai-30of",
+   "date": "2026-09-03T09:24:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Securing AI Pipelines with DevSecOps Practices Artificial Intelligence is changing how we build and ship software — but it's also rewriting the threat model. Large Language Models (LLMs) and GenAI systems don't just inhe",
+   "image": null
+  },
+  {
+   "title": "AI Agent Governance: Identity, Permissions, Budgets, and Lifecycle in Production",
+   "link": "https://dev.to/kuldeep_paul/ai-agent-governance-identity-permissions-budgets-and-lifecycle-in-production-4gg2",
+   "date": "2026-09-03T09:24:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR AI agent governance in production requires external runtime enforcement rather than relying on model prompts to constrain agent behavior. Dedicated agent identities replace shared API credentials with scoped virtua",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs32gf4tteemh5f5gtjx5.jpg"
+  },
+  {
+   "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+   "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+   "date": "2026-09-03T06:26:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg"
+  },
+  {
+   "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+   "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+   "date": "2026-09-03T05:19:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_replication_commands",
    "link": "https://postgr.es/p/9tM",
@@ -12,83 +112,13 @@
    "image": null
   },
   {
-   "title": "Hardening FastMCP & Next.js 16 AI Agents Against MCP Injection",
-   "link": "https://dev.to/syed_zada_abrar/hardening-fastmcp-nextjs-16-ai-agents-against-mcp-injection-3o7b",
-   "date": "2026-09-03T00:44:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hardening FastMCP & Next.js 16 AI Agents Against MCP Injection Canonical Source: Originally published on Andrax Pentester Research by Syed Zada Abrar. As Model Context Protocol (MCP) servers become the backbone of modern",
-   "image": null
-  },
-  {
-   "title": "Don't Golden-File an Agent Patch. Golden-File the Relation.",
-   "link": "https://dev.to/datacpp_8185/dont-golden-file-an-agent-patch-golden-file-the-relation-48m3",
-   "date": "2026-09-03T00:38:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A recorded expected value is a leak. An agent that can read assert f(x) == y can patch f until that line is green and leave every unlisted input broken. A metamorphic relation does not publish y. It only publishes a cons",
-   "image": null
-  },
-  {
-   "title": "PR Sous Chef Runs Every 15 Minutes and Usually Says Nothing. That's the Point.",
-   "link": "https://dev.to/artem_a/pr-sous-chef-runs-every-15-minutes-and-usually-says-nothing-thats-the-point-3l9b",
-   "date": "2026-09-03T00:27:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "GitHub Agentic Workflows shipped four notes in two days. Three of them circle the same problem, and it is not the one most agent tooling optimizes for. Agents are expensive when they look at things, not when they write t",
-   "image": null
-  },
-  {
-   "title": "Boost PostgreSQL Query Performance: Proven Indexing, Tuning & Scaling Techniques",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/boost-postgresql-query-performance-proven-indexing-tuning-scaling-techniques-158m",
-   "date": "2026-09-03T00:22:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Performance problems in PostgreSQL can cripple modern applications. This guide walks you through the most effective techniques to optimize query execution, from indexing to configuration tweaks. Use EXPLAIN ",
-   "image": null
-  },
-  {
-   "title": "VMware Alternatives in 2026: Where Teams Are Landing After the Broadcom Pricing Shock",
-   "link": "https://dev.to/toddyholiday/vmware-alternatives-in-2026-where-teams-are-landing-after-the-broadcom-pricing-shock-1gip",
-   "date": "2026-09-03T00:02:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Broadcom completed its $69 billion VMware acquisition in November 2023 and within weeks eliminated every perpetual license. Customers moved to subscription-only terms, forcing small deployments into bundles sized for ent",
-   "image": null
-  },
-  {
-   "title": "Cron Jobs Made Simple",
-   "link": "https://dev.to/binaryjournal/cron-jobs-made-simple-2f2l",
-   "date": "2026-09-03T00:00:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What Are Cron Jobs? Cron is a time-based job scheduler in Unix-like operating systems. It runs scripts or commands at specified intervals, like every minute, daily at 2 AM, or every Monday. If you've ever needed to autom",
-   "image": null
-  },
-  {
-   "title": "My Outreach Schedule Got Rewritten to 2:31 AM Without Me: Building a launchd Guard That Self-Heals in Under 10 Minutes",
-   "link": "https://dev.to/bokuwalily/my-outreach-schedule-got-rewritten-to-231-am-without-me-building-a-launchd-guard-that-self-heals-4bii",
-   "date": "2026-09-03T00:00:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Six months after a layoff left me with zero take-home pay, I had built an autonomous Claude Code setup that now brings in a steady ¥1.2M a month. The whole thing rests on one assumption: outbound sales automation that ru",
-   "image": null
-  },
-  {
-   "title": "♻️ Build Caching Explained Like You're 5",
-   "link": "https://dev.to/esreekarreddy/build-caching-explained-like-youre-5-2pe",
-   "date": "2026-09-02T23:54:09.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Skip the work you already did Day 154 of 155 👉 Full deep-dive with code examples You cook the same stock every Sunday. It takes hours. So you freeze a batch and write the recipe on the label: ingredients, quantities, co",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "link": "https://huggingface.co/blog/train-to-paint-with-code",
+   "date": "2026-09-03T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -310,26 +340,6 @@
    "source": "Percona Blog",
    "summary": "Mongorewind: Rewind Your MongoDB Test Data Without Restoring a Backup One day, my friend Martín told me about a problem he and his team were dealing with. Every time they needed to run a pre-production test, they had to ",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/mongorewind1.png"
-  },
-  {
-   "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-   "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-   "date": "2026-09-02T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg"
-  },
-  {
-   "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-   "date": "2026-09-02T10:53:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg"
   },
   {
    "title": "OpenID Connect Authentication for MySQL, Now Fully Open Source",
@@ -959,16 +969,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/a-for-average",
-   "image": null
-  },
-  {
-   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-   "link": "https://huggingface.co/blog/gradio-workflow-guide",
-   "date": "2026-08-25T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
