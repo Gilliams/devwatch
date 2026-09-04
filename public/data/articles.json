@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-09-04T14:55:45.068Z",
+ "generatedAt": "2026-09-04T19:32:11.084Z",
  "articles": [
   {
-   "title": "Add a code-health badge to any repo from just its git history",
-   "link": "https://dev.to/kenjirasmussen/add-a-code-health-badge-to-any-repo-from-just-its-git-history-2316",
-   "date": "2026-09-04T14:43:51.000Z",
+   "title": "How to Deploy DynamoDB with Terraform on AWS",
+   "link": "https://dev.to/usama_saleem_148/how-to-deploy-dynamodb-with-terraform-on-aws-3gn2",
+   "date": "2026-09-04T19:24:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You've seen coverage badges. You've seen build badges. But there's a whole how the change is — which files churn constantly, which knowledge lives in exactly None of that shows up in a test run. All of it is sitting in y",
+   "summary": "Infrastructure as Code becomes much more interesting when you stop creating AWS resources manually and start asking a different question: What if I could describe my AWS infrastructure in code, run one command, and have ",
    "image": null
   },
   {
-   "title": "Chaos Engineering in Practice",
-   "link": "https://dev.to/sri2614/chaos-engineering-in-practice-3hip",
-   "date": "2026-09-04T14:39:34.000Z",
+   "title": "Kubernetes v1.37 Graduates KYAML to Stable, Constraining Manifest Ambiguity",
+   "link": "https://dev.to/isuvo/kubernetes-v137-graduates-kyaml-to-stable-constraining-manifest-ambiguity-4gmm",
+   "date": "2026-09-04T19:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Resilience you have not tested is just hope. Learn to inject failure deliberately, kill nodes, add latency, drop a region, control blast radius, and run a safe first game day that proves your system survives bef",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fc3RlYWR5KCJEZWZpbmUgc3RlYWR5IHN0YXRlPGJyLz5wOTksIGVycm9yIHJhdGUsIHRocm91Z2hwdXQiKQogIGNsYXNzIG5fc3RlYWR5IG9ic2VydmFiaWxpdHk7CiAgbl9oeXBvKCJGb3JtIGh5cG90aGVzaXM8YnIvPidLaWxsaW5nIG9uZSBub2RlIGhvbGRzIFNMTyciKQogIGNsYXNzIG5faHlwbyBjbGllbnQ7CiAgbl9pbmplY3QoIkluamVjdCBmYWlsdXJlPGJyLz5TbWFsbCBibGFzdCByYWRpdXMiKQogIGNsYXNzIG5faW5qZWN0IGNvbXB1dGU7CiAgbl9tZWFzdXJlKCJNZWFzdXJlPGJyLz5Db21wYXJlIHRvIHN0ZWFkeSBzdGF0ZSIpCiAgY2xhc3Mgbl9tZWFzdXJlIG9ic2VydmFiaWxpdHk7CiAgbl9jb25maWRlbmNlKCJDb25maWRlbmNlIGdhaW5lZDxici8-SHlwb3RoZXNpcyBoZWxkIikKICBjbGFzcyBuX2NvbmZpZGVuY2UgZGF0YTsKICBuX2ZpeCgiRml4IHRoZSB3ZWFrbmVzczxici8-SHlwb3RoZXNpcyBicm9rZSIpCiAgY2xhc3Mgbl9maXggcXVldWU7CiAgbl9leHBhbmQoIkV4cGFuZCBzY29wZTxici8-QmlnZ2VyIGJsYXN0IHJhZGl1cyIpCiAgY2xhc3Mgbl9leHBhbmQgZWRnZTsKICBuX3N0ZWFkeSAtLT4gbl9oeXBvCiAgbl9oeXBvIC0tPiBuX2luamVjdAogIG5faW5qZWN0IC0tPiBuX21lYXN1cmUKICBuX21lYXN1cmUgLS0-fCJoZWxkInwgbl9jb25maWRlbmNlCiAgbl9tZWFzdXJlIC0uLT58ImJyb2tlInwgbl9maXgKICBuX2NvbmZpZGVuY2UgLS0-IG5fZXhwYW5kCiAgbl9maXggLS4tPnwicmUtcnVuInwgbl9oeXBvCiAgbl9leHBhbmQgLS4tPnwibmV4dCJ8IG5faHlwbw%3FbgColor%3D0d1017%26type%3Dpng"
+   "summary": "The Anatomy of YAML Ambiguity: Why Traditional Parsing Fails To understand why KYAML is necessary, we must first dissect the failure modes of traditional YAML parsing in Kubernetes. The core issue lies in the YAML 1.1 sp",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feocen8i8tj3dpni5zlx4.jpg"
   },
   {
-   "title": "What Actually Happens When You Run `curl https://example.com`",
-   "link": "https://dev.to/syed_anzar/what-actually-happens-when-you-run-curl-httpsexamplecom-29g9",
-   "date": "2026-09-04T14:10:45.000Z",
+   "title": "108 TESTS PASSED. VERIFIED?",
+   "link": "https://dev.to/gnomeman4201/108-tests-passed-verified-32g",
+   "date": "2026-09-04T18:57:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What Actually Happens When You Run curl https://example.com You type curl https://example.com and hit Enter. HTML appears. You've done this thousands of times. But do you know what actually happened between keystroke and",
+   "summary": "A green test suite is evidence. It is not independent evidence. The current release of badBANANA Threat Observatory passes all 108 automated tests in its own development and CI environments. That tells me the implementat",
    "image": null
   },
   {
-   "title": "What if servers balanced load like Emperor Penguins? Meet HuddleCluster",
-   "link": "https://dev.to/rahad_bhuiya/what-if-servers-balanced-load-like-emperor-penguins-meet-huddlecluster-4kjb",
-   "date": "2026-09-04T14:10:38.000Z",
+   "title": "EKS Auto Mode: correr Kubernetes sin andar peleando con los nodos",
+   "link": "https://dev.to/aws-builders/eks-auto-mode-correr-kubernetes-sin-andar-peleando-con-los-nodos-5954",
+   "date": "2026-09-04T18:54:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In Antarctic blizzards where temperatures drop below -40°C and winds scream past 200 km/h, Emperor Penguins survive without any central coordinator. Their survival relies on a single distributed rule: If you are freezing",
+   "summary": "Si algo aprendí gestionando EKS en producción, es que mantener los nodos se lleva más tiempo del que uno imagina. Managed node groups, Karpenter, el EBS CSI driver, actualizar AMIs, y el clásico \"¿por qué este pod lleva ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9v3u1tatl83kisvak02o.png"
+  },
+  {
+   "title": "CKAD Dojo — a free, self-hosted CKAD exam simulator (20 exams, 398 questions, on your own cluster)",
+   "link": "https://dev.to/xgueret/ckad-dojo-a-free-self-hosted-ckad-exam-simulator-20-exams-398-questions-on-your-own-cluster-2g7n",
+   "date": "2026-09-04T18:46:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you're prepping for the Certified Kubernetes Application Developer (CKAD) exam, you've probably already found killer.sh, Killercoda, or one of the paid mock-exam platforms. I wanted something different: no account, no",
    "image": null
   },
   {
-   "title": "CVE-2026-32475: Unauthenticated RCE in Elementor Pro via File Upload Validation Bypass",
-   "link": "https://dev.to/stanleya/cve-2026-32475-unauthenticated-rce-in-elementor-pro-via-file-upload-validation-bypass-5e41",
-   "date": "2026-09-04T13:48:00.000Z",
+   "title": "We ship the AI layer with the code",
+   "link": "https://dev.to/madebymonogram/we-ship-the-ai-layer-with-the-code-14pm",
+   "date": "2026-09-04T18:35:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "CVE-2026-32475 is an unauthenticated arbitrary file upload to RCE in Elementor Pro ( Upload::validation()). The validation loop iterates over the file array for one field. When the first element has UPLOAD_ERR_NO_FILE (e",
+   "summary": "Every repo we hand back carries instruction files, specs, skills, a DESIGN.md, and an MCP server. What each one is for, and how our people and the agents split the work of building them. When we finish a project, the cli",
    "image": null
   },
   {
-   "title": "My Pull Request Failed — Because GitHub Actions Was Protecting the Repository",
-   "link": "https://dev.to/ismailzahir/my-pull-request-failed-because-github-actions-was-protecting-the-repository-2h8i",
-   "date": "2026-09-04T13:47:07.000Z",
+   "title": "I Never Touched AWS and I Still Ship: The Internet Doesn’t Need One Giant Cloud Stack",
+   "link": "https://dev.to/davidtimothy/i-never-touched-aws-and-i-still-ship-the-internet-doesnt-need-one-giant-cloud-stack-3a7g",
+   "date": "2026-09-04T18:33:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Sometimes the most useful security lessons don't start with a security audit. They start with a failed CI job. Recently, while contributing to an open-source project, I opened a pull request and expected the usual sequen",
+   "summary": "At some point, hosting a website became embarrassingly complicated. You can’t just put files on a server anymore. Apparently, you need a cloud strategy. You need containers. You need orchestration. You need serverless fu",
    "image": null
   },
   {
-   "title": "No Ads Bjj Rounds: what we learned building Random Tactical Timer",
-   "link": "https://dev.to/igorganapolsky/no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer-2515",
-   "date": "2026-09-04T13:23:57.000Z",
+   "title": "Stop Conditions for Free Inference in Agent Loops",
+   "link": "https://dev.to/aiio_6471/stop-conditions-for-free-inference-in-agent-loops-12ka",
+   "date": "2026-09-04T18:33:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-09-04-no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer.svg"
+   "summary": "Free inference is a sandbox with a door, not a load-bearing wall. Agent loops that treat retries as cheap, context as private, and output as merge-ready should stay off free models and free servers until a stop condition",
+   "image": null
   },
   {
-   "title": "How to Structure Your API Security Testing with OWASP ASTF 🚀",
-   "link": "https://dev.to/rhgs/how-to-structure-your-api-security-testing-with-owasp-astf-4623",
-   "date": "2026-09-04T13:23:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you work in DevSecOps, backend development, or cybersecurity, you’ve likely noticed that traditional vulnerability scanners often fall short when testing APIs. The reason? They don't understand your application's busi",
+   "title": "Drupal AI Initiative: Yesterday's CMS published pages. Tomorrow's CMS publishes capabilities",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/yesterdays-cms-published-pages-tomorrows-cms-publishes-capabilities",
+   "date": "2026-09-04T18:27:56.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Author: Will Huggins Imagine asking an AI assistant: \"Show me waterproof jackets under £150, in size M, available for delivery tomorrow\". Today, the assistant might search the web, read several retail websites and summar",
    "image": null
+  },
+  {
+   "title": "OpenAI's rogue agents were caught communicating via public wikis",
+   "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+   "date": "2026-09-04T17:38:48.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This",
+   "image": null
+  },
+  {
+   "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+   "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+   "date": "2026-09-04T15:57:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
+  },
+  {
+   "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+   "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+   "date": "2026-09-04T15:20:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
+  },
+  {
+   "title": "Beyond the Luminance Ramp: A Shape-Aware ASCII Renderer in Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/",
+   "date": "2026-09-04T15:01:38.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "The Codrops mark, rebuilt as a draggable solid and printed in ASCII on the GPU, where every character cell searches 95 glyphs for its own.",
+   "image": null
+  },
+  {
+   "title": "Exclude Vendor and Default Commands in `php artisan dev`",
+   "link": "https://laravel-news.com/artisan-dev-exclude-vendor-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-04T14:53:14.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 adds DevCommands::withoutVendorCommands() and withoutDefaultCommands(), so php artisan dev runs only the processes your application registers. The post Exclude Vendor and Default Commands in `php artisan de",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-opt-out-vendor-default-commands-featured.png"
+  },
+  {
+   "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+   "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+   "date": "2026-09-04T14:51:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
+  },
+  {
+   "title": "Omega8.cc: A Sign Is Not a Door",
+   "link": "https://omega8.cc/blog/a-sign-is-not-a-door",
+   "date": "2026-09-04T13:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Someone told me this week, correctly, that ClaudeBot and GPTBot respect robots.txt, so there is no need to block them by other means, and that the really bad bots disguise as Chrome anyway, so a user-agent is useless; wa",
+   "image": "https://omega8.cc/images/e/d/5/b/5/ed5b5c7a8ce175fdd1a0c430176ea63c07a2120b-a-sign-is-not-a-door-anime-halo.png"
   },
   {
    "title": "The Drop Times: Paulo Maia Carvalho on DrupalClaw and the Boundaries of Agent-First Drupal Development",
@@ -150,16 +230,6 @@
    "source": "Drupal Planet",
    "summary": "The 52-step checklist tells you what to do. This is the calendar those steps actually run against — a realistic 90-day plan broken into three phases, with the milestones that decide whether you finish on time and the res",
    "image": null
-  },
-  {
-   "title": "Exclude Vendor and Default Commands in `php artisan dev`",
-   "link": "https://laravel-news.com/artisan-dev-exclude-vendor-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-04T04:05:57.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.30 adds DevCommands::withoutVendorCommands() and withoutDefaultCommands(), so php artisan dev runs only the processes your application registers. The post Exclude Vendor and Default Commands in `php artisan de",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-opt-out-vendor-default-commands-featured.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures",
@@ -272,26 +342,6 @@
    "image": null
   },
   {
-   "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-   "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-   "date": "2026-09-03T15:52:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg"
-  },
-  {
-   "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-   "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-   "date": "2026-09-03T15:26:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg"
-  },
-  {
    "title": "The Laracon Archive",
    "link": "https://laravel-news.com/laracon-archive?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-03T15:06:21.000Z",
@@ -310,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "If you run PostgreSQL on EC2, you've had two real choices until now: build from source, or fall back to whatever version Amazon Linux itself carries in its base repos. Neither matches what the rest of the PostgreSQL comm",
    "image": "https://people.planetpostgresql.org/devrim/uploads/Screenshot_From_2026-09-03_17-53-06.png"
-  },
-  {
-   "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-   "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-   "date": "2026-09-03T14:39:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg"
   },
   {
    "title": "Golems GABB: Beyond Table-Based Nightmares: A Technical Deep Dive into Drupal's MJML Render Engine",
@@ -442,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Omega8.cc: Classic Ægir, Welcomed Home",
-   "link": "https://omega8.cc/blog/classic-aegir-welcomed-home",
-   "date": "2026-09-02T20:09:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Somewhere out there a vanilla Ægir server is still quietly serving its Drupal sites, years after the person who set it up moved on. The aegir2boa toolset gives these classic estates a supported road into BOA: a read-only",
-   "image": "https://omega8.cc/images/3/6/d/9/f/36d9ff438f160210fdea04ff97faffb776ab6ad6-aegir-welcomed-home-anime-halo.png"
-  },
-  {
    "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
    "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/",
    "date": "2026-09-02T18:30:00.000Z",
@@ -492,16 +522,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Built for TDT, Now Used Beyond It: The Journey of a Drupal Module",
-   "link": "https://www.thedroptimes.com/72004/image-scale-fill-background-stable-release?utm_source=Drupal Planet",
-   "date": "2026-09-02T16:31:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A weekend fix built for The DropTimes now supports sites its maintainer may never see, bringing the responsibilities of public module maintenance into focus.",
-   "image": null
-  },
-  {
    "title": "An Accidental Blackboard",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
    "date": "2026-09-02T14:45:00.000Z",
@@ -519,6 +539,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
@@ -659,16 +689,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "I am excited to announce that etcd RangeStream is graduating to beta in Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and etcd need to read a large collection, and makes peak usage more pr",
-   "image": null
-  },
-  {
-   "title": "GeoJSON Map Viewer",
-   "link": "https://simonwillison.net/2026/Sep/1/geojson/",
-   "date": "2026-09-01T18:05:45.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council ) and found a need to display some GeoJSON fil",
    "image": null
   },
   {
@@ -1052,16 +1072,6 @@
    "image": null
   },
   {
-   "title": "Blender to Three.js and Back: 10 Tips for a Better Workflow",
-   "link": "https://tympanus.net/codrops/2026/08/24/blender-to-three-js-and-back-10-tips-for-a-better-workflow/",
-   "date": "2026-08-24T13:53:35.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A practical collection of tips for combining AI, Blender, and Blender MCP to streamline your Three.js workflow.",
-   "image": null
-  },
-  {
    "title": "Symfony Language Tools: A Busy First Week",
    "link": "https://symfony.com/blog/symfony-language-tools-a-busy-first-week?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-23T11:04:00.000Z",
@@ -1139,16 +1149,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
