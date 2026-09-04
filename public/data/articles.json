@@ -1,84 +1,164 @@
 {
- "generatedAt": "2026-09-04T00:59:02.691Z",
+ "generatedAt": "2026-09-04T09:36:38.697Z",
  "articles": [
   {
-   "title": "🚀 Cracking the GenAI Interview for Google: How to Troubleshoot a Slow Linux Server",
-   "link": "https://dev.to/lakhera2015/cracking-the-genai-interview-for-google-how-to-troubleshoot-a-slow-linux-server-576b",
-   "date": "2026-09-04T00:50:25.000Z",
+   "title": "Remote MCP Servers: Connecting and Securing SaaS-Hosted Servers Through One Gateway",
+   "link": "https://dev.to/kuldeep_paul/remote-mcp-servers-connecting-and-securing-saas-hosted-servers-through-one-gateway-2bg6",
+   "date": "2026-09-04T09:29:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In this session, I cover a practical Linux troubleshooting approach across: ✔️ CPU The goal is to help you answer one of the most common infrastructure interview scenarios: The Linux server is slow: how would you trouble",
+   "summary": "TL;DR Remote Model Context Protocol (MCP) servers move tool execution from local processes to cloud and SaaS environments over Streamable HTTP and Server-Sent Events (SSE). Direct connections between AI desktop clients a",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fro9ebf5l8z7a3c5u6x82.jpg"
+  },
+  {
+   "title": "Shadow AI Risks: 7 Exposure Categories and the Control for Each",
+   "link": "https://dev.to/kuldeep_paul/shadow-ai-risks-7-exposure-categories-and-the-control-for-each-3cg9",
+   "date": "2026-09-04T09:26:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Security incidents linked to shadow AI add an average of $670,000 to enterprise breach costs, with 97% of affected organizations lacking centralized AI access controls. Shadow AI risks have expanded beyond consumer",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0bivdmfqodkg8rdey9n.jpg"
+  },
+  {
+   "title": "Best AI Governance Tools and Platforms (2026): Policy, Runtime, and Observability Layers Compared",
+   "link": "https://dev.to/kuldeep_paul/best-ai-governance-tools-and-platforms-2026-policy-runtime-and-observability-layers-compared-559g",
+   "date": "2026-09-04T09:23:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Enterprise AI governance requires three interdependent tiers: static policy management (GRC), sub-millisecond runtime gateway enforcement, and post-execution observability. Most compliance failures stem from an enf",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb88y1jpd8q9re3pcrhul.jpg"
+  },
+  {
+   "title": "Meta Muse Spark 1.3: The AI Agent Cost Revolution",
+   "link": "https://dev.to/tidiane_stano_c6b88f8b685/meta-muse-spark-13-the-ai-agent-cost-revolution-43l4",
+   "date": "2026-09-04T09:17:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Abstract The early days of September 2026 have witnessed an unusually dense wave of frontier‑model launches. Anthropic Fable 5.1, Mythos 5.1, Google Gemini 3.8 Flash and Cyber have all arrived alongside Meta’s Muse Spark",
    "image": null
   },
   {
-   "title": "Why I Built a 100% In-Browser YAML ↔ JSON Converter (Stop Uploading Configs to Random Servers)",
-   "link": "https://dev.to/purneshwar__pc_31399c08fc/why-i-built-a-100-in-browser-yaml-json-converter-stop-uploading-configs-to-random-servers-23d4",
-   "date": "2026-09-04T00:49:07.000Z",
+   "title": "I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet",
+   "link": "https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf",
+   "date": "2026-09-04T09:13:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every developer working with cloud infrastructure, CI/CD pipelines, or containerization deals with YAML and JSON daily. Whether configuring a Kubernetes manifest, tweaking a docker-compose.yml, or setting up a GitHub Act",
+   "summary": "I stumbled across Carbon-aware electricity pricing during a break and ended up poking at it far longer than planned. The idea is simple but useful: track daily electricity pricing across 38 grids so engineers can think a",
    "image": null
   },
   {
-   "title": "Self-Healing CI Fixes Your Environment. Your Coding Agent Fixes the Code.",
-   "link": "https://dev.to/kalemi/self-healing-ci-fixes-your-environment-your-coding-agent-fixes-the-code-4b9k",
-   "date": "2026-09-04T00:35:47.000Z",
+   "title": "Architecting Resilient Software Platforms: Integrating AI, Cloud, DevOps, SRE, and Platform Engineering",
+   "link": "https://dev.to/zainab_1201/architecting-resilient-software-platforms-integrating-ai-cloud-devops-sre-and-platform-54d7",
+   "date": "2026-09-04T09:11:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The agent is already in your workflow. The failed build is where it goes blind. AI coding agents have moved from novelty to daily tool. In Stack Overflow's 2025 Developer Survey, 84% of developers said they are using or ",
+   "summary": "Modern engineering organizations are rarely tasked with building simple standalone applications anymore. Today's software systems must scale horizontally, process streaming telemetry, maintain strict security boundaries,",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yvregtg8x1uklwk5nk6.png"
+  },
+  {
+   "title": "Choice Architecture vs. Backend Corruption: Reverse-Engineering the Divine Will. Introduction: A Critical Localization Bug",
+   "link": "https://dev.to/theolenslowgeek/choice-architecture-vs-backend-corruption-reverse-engineering-the-divine-will-introduction-a-270k",
+   "date": "2026-09-04T09:10:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "While translating the New Testament from the original Greek in Wartburg Castle, Martin Luther encountered a severe localization vulnerability. He noted that in European languages, the word \"will\" carries the heavy connot",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jx4pkgzuy93r34bk1jq.jpg"
+  },
+  {
+   "title": "Automating PRAXIST Research Task Definitions: Free Online Tool",
+   "link": "https://dev.to/kairo_v2/automating-praxist-research-task-definitions-free-online-tool-1bo6",
+   "date": "2026-09-04T09:02:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building autonomous research workflows with PRAXIST requires clear, structured task definitions with explicit goals, target domains, and validation metrics. Writing these task configs by hand or maintaining scattered tem",
    "image": null
   },
   {
-   "title": "The Pipeline Became the Attack Surface: What the 2026 CI/CD Shifts Mean for Reliability",
-   "link": "https://dev.to/kalemi/the-pipeline-became-the-attack-surface-what-the-2026-cicd-shifts-mean-for-reliability-4p13",
-   "date": "2026-09-04T00:33:47.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Pipeline Became the Attack Surface For most of the last decade, we treated the CI/CD pipeline as plumbing: invisible, trusted, and mostly ignored until it broke. That assumption is no longer safe. The clearest signal",
+   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+   "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+   "date": "2026-09-04T08:48:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
+  },
+  {
+   "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+   "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+   "date": "2026-09-04T07:35:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
+  },
+  {
+   "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+   "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+   "date": "2026-09-04T07:18:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
+  },
+  {
+   "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+   "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+   "date": "2026-09-04T06:47:52.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
+  },
+  {
+   "title": "August newsletter is out",
+   "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+   "date": "2026-09-04T05:54:40.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-",
    "image": null
   },
   {
-   "title": "Why DNS Lookups Silently Fail in Production: 5 Resolution Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-lookups-silently-fail-in-production-5-resolution-traps-every-engineer-hits-1ob4",
-   "date": "2026-09-04T00:32:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You deploy an urgent microservice update, push DNS records, and everything seems fine locally. Ten minutes later, PagerDuty lights up: workers cannot resolve the API hostname, inbound webhooks fail, and support tickets p",
+   "title": "Gspikes: Planning a Drupal Migration: The 90-Day Calendar",
+   "link": "https://gspikes.com/drupal-migration-plan-90-day-calendar/",
+   "date": "2026-09-04T04:31:21.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The 52-step checklist tells you what to do. This is the calendar those steps actually run against — a realistic 90-day plan broken into three phases, with the milestones that decide whether you finish on time and the res",
    "image": null
   },
   {
-   "title": "The CI/CD Tools Landscape in 2026: What Each Category Is Actually For",
-   "link": "https://dev.to/kalemi/the-cicd-tools-landscape-in-2026-what-each-category-is-actually-for-5fi2",
-   "date": "2026-09-04T00:31:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most \"best CI/CD tools\" lists are twenty logos in a table, ranked by nothing in particular, with the author's product at the top. This is not that. It is a map of the categories, what each one exists to solve, and how to",
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures",
+   "link": "https://postgr.es/p/9tT",
+   "date": "2026-09-04T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "log_lock_waits is the cheapest lock-contention detector PostgreSQL ships, and through version 18 it is off by default. Turn it on. PostgreSQL 19 will do it for you. The mechanism is borrowed rather than built. When a bac",
    "image": null
   },
   {
-   "title": "The Trust Gap: Why CI/CD Is the Last Place Teams Let AI In, and How to Earn That Trust",
-   "link": "https://dev.to/kalemi/the-trust-gap-why-cicd-is-the-last-place-teams-let-ai-in-and-how-to-earn-that-trust-c0h",
-   "date": "2026-09-04T00:30:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Two things are true about software delivery in 2026, and they are pulling in opposite directions. The first: AI is now writing a large share of the code that reaches your pipeline. CloudBees' 2026 State of Code Abundance",
-   "image": null
-  },
-  {
-   "title": "Hetzner vs Contabo: How to Choose the Right Budget Host",
-   "link": "https://dev.to/kimcomplete/hetzner-vs-contabo-how-to-choose-the-right-budget-host-522e",
-   "date": "2026-09-04T00:30:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A decision framework for picking between two low-cost European hosting providers, with Hetzner's current product lineup summarized from its official pages. \"Hetzner vs Contabo\" is the shortlist many people reach for when",
+   "title": "No more issues",
+   "link": "https://stitcher.io/blog/no-more-issues",
+   "date": "2026-09-04T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
    "image": null
   },
   {
@@ -272,46 +352,6 @@
    "image": null
   },
   {
-   "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-   "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-   "date": "2026-09-03T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
-  },
-  {
-   "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-   "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-   "date": "2026-09-03T10:43:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attac",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg"
-  },
-  {
-   "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-   "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-   "date": "2026-09-03T10:36:39.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous D",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif"
-  },
-  {
-   "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-   "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-   "date": "2026-09-03T08:43:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
-  },
-  {
    "title": "Group Adjacent Collection Items in Laravel with chunkBy()",
    "link": "https://laravel-news.com/laravel-collection-chunk-by?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-03T02:56:57.000Z",
@@ -442,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Dave Stokes: Loading the Northwinds Database Into PostgreSQL with DBeaver",
-   "link": "https://postgr.es/p/9tI",
-   "date": "2026-09-02T15:10:33.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Note: I am presenting a tutorial for those who want to learn SQL at this year's Texas Linuxfest (https://pretalx.com/txlf2026/talk/DQ3XW7/) on November 6th. This is a great opportunity at a fantastic community event and ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcIj4JuLB1tm0fWmQQpIBQHTCNTT2nkJLy00ddAshXVUFe9k1fHabrk2Sl7mKTkX2uPN8QC0eZ2adXKJzbmODt-TORLf7ezfbHgJGs6D8oyMsOSg7mUaDt8vtCe3_1Lmu8tj8ChCXjAAJzlKR_RiW7olQYivEGNhT6UB5YJG6Y42u8XLPRUUH6pF-q9AHD/w640-h210/Screenshot%202026-09-02%20092746.png"
-  },
-  {
    "title": "An Accidental Blackboard",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
    "date": "2026-09-02T14:45:00.000Z",
@@ -469,6 +499,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
@@ -540,16 +580,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "Drupal Association blog: Take Part in the 2026 Drupal Business Survey",
-   "link": "https://www.drupal.org/association/blog/take-part-in-the-2026-drupal-business-survey",
-   "date": "2026-09-02T07:58:10.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Drupal Business Survey investigates the trends in the digital market, in particular from service providers involved with the open source Drupal CMS and enterprise platform. Digital agencies from all over the world pa",
-   "image": null
   },
   {
    "title": "API Platform Conference 2026 - Lille (France) & Online",
@@ -649,16 +679,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council ) and found a need to display some GeoJSON fil",
-   "image": null
-  },
-  {
-   "title": "Quoting Tarn Adams",
-   "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-   "date": "2026-09-01T17:01:11.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fort",
    "image": null
   },
   {
@@ -1129,16 +1149,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
