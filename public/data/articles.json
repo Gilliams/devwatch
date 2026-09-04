@@ -1,84 +1,94 @@
 {
- "generatedAt": "2026-09-04T09:36:38.697Z",
+ "generatedAt": "2026-09-04T14:55:45.068Z",
  "articles": [
   {
-   "title": "Remote MCP Servers: Connecting and Securing SaaS-Hosted Servers Through One Gateway",
-   "link": "https://dev.to/kuldeep_paul/remote-mcp-servers-connecting-and-securing-saas-hosted-servers-through-one-gateway-2bg6",
-   "date": "2026-09-04T09:29:54.000Z",
+   "title": "Add a code-health badge to any repo from just its git history",
+   "link": "https://dev.to/kenjirasmussen/add-a-code-health-badge-to-any-repo-from-just-its-git-history-2316",
+   "date": "2026-09-04T14:43:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Remote Model Context Protocol (MCP) servers move tool execution from local processes to cloud and SaaS environments over Streamable HTTP and Server-Sent Events (SSE). Direct connections between AI desktop clients a",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fro9ebf5l8z7a3c5u6x82.jpg"
-  },
-  {
-   "title": "Shadow AI Risks: 7 Exposure Categories and the Control for Each",
-   "link": "https://dev.to/kuldeep_paul/shadow-ai-risks-7-exposure-categories-and-the-control-for-each-3cg9",
-   "date": "2026-09-04T09:26:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Security incidents linked to shadow AI add an average of $670,000 to enterprise breach costs, with 97% of affected organizations lacking centralized AI access controls. Shadow AI risks have expanded beyond consumer",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0bivdmfqodkg8rdey9n.jpg"
-  },
-  {
-   "title": "Best AI Governance Tools and Platforms (2026): Policy, Runtime, and Observability Layers Compared",
-   "link": "https://dev.to/kuldeep_paul/best-ai-governance-tools-and-platforms-2026-policy-runtime-and-observability-layers-compared-559g",
-   "date": "2026-09-04T09:23:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Enterprise AI governance requires three interdependent tiers: static policy management (GRC), sub-millisecond runtime gateway enforcement, and post-execution observability. Most compliance failures stem from an enf",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb88y1jpd8q9re3pcrhul.jpg"
-  },
-  {
-   "title": "Meta Muse Spark 1.3: The AI Agent Cost Revolution",
-   "link": "https://dev.to/tidiane_stano_c6b88f8b685/meta-muse-spark-13-the-ai-agent-cost-revolution-43l4",
-   "date": "2026-09-04T09:17:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Abstract The early days of September 2026 have witnessed an unusually dense wave of frontier‑model launches. Anthropic Fable 5.1, Mythos 5.1, Google Gemini 3.8 Flash and Cyber have all arrived alongside Meta’s Muse Spark",
+   "summary": "You've seen coverage badges. You've seen build badges. But there's a whole how the change is — which files churn constantly, which knowledge lives in exactly None of that shows up in a test run. All of it is sitting in y",
    "image": null
   },
   {
-   "title": "I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet",
-   "link": "https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf",
-   "date": "2026-09-04T09:13:26.000Z",
+   "title": "Chaos Engineering in Practice",
+   "link": "https://dev.to/sri2614/chaos-engineering-in-practice-3hip",
+   "date": "2026-09-04T14:39:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I stumbled across Carbon-aware electricity pricing during a break and ended up poking at it far longer than planned. The idea is simple but useful: track daily electricity pricing across 38 grids so engineers can think a",
+   "summary": "⚡ TL;DR: Resilience you have not tested is just hope. Learn to inject failure deliberately, kill nodes, add latency, drop a region, control blast radius, and run a safe first game day that proves your system survives bef",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5fc3RlYWR5KCJEZWZpbmUgc3RlYWR5IHN0YXRlPGJyLz5wOTksIGVycm9yIHJhdGUsIHRocm91Z2hwdXQiKQogIGNsYXNzIG5fc3RlYWR5IG9ic2VydmFiaWxpdHk7CiAgbl9oeXBvKCJGb3JtIGh5cG90aGVzaXM8YnIvPidLaWxsaW5nIG9uZSBub2RlIGhvbGRzIFNMTyciKQogIGNsYXNzIG5faHlwbyBjbGllbnQ7CiAgbl9pbmplY3QoIkluamVjdCBmYWlsdXJlPGJyLz5TbWFsbCBibGFzdCByYWRpdXMiKQogIGNsYXNzIG5faW5qZWN0IGNvbXB1dGU7CiAgbl9tZWFzdXJlKCJNZWFzdXJlPGJyLz5Db21wYXJlIHRvIHN0ZWFkeSBzdGF0ZSIpCiAgY2xhc3Mgbl9tZWFzdXJlIG9ic2VydmFiaWxpdHk7CiAgbl9jb25maWRlbmNlKCJDb25maWRlbmNlIGdhaW5lZDxici8-SHlwb3RoZXNpcyBoZWxkIikKICBjbGFzcyBuX2NvbmZpZGVuY2UgZGF0YTsKICBuX2ZpeCgiRml4IHRoZSB3ZWFrbmVzczxici8-SHlwb3RoZXNpcyBicm9rZSIpCiAgY2xhc3Mgbl9maXggcXVldWU7CiAgbl9leHBhbmQoIkV4cGFuZCBzY29wZTxici8-QmlnZ2VyIGJsYXN0IHJhZGl1cyIpCiAgY2xhc3Mgbl9leHBhbmQgZWRnZTsKICBuX3N0ZWFkeSAtLT4gbl9oeXBvCiAgbl9oeXBvIC0tPiBuX2luamVjdAogIG5faW5qZWN0IC0tPiBuX21lYXN1cmUKICBuX21lYXN1cmUgLS0-fCJoZWxkInwgbl9jb25maWRlbmNlCiAgbl9tZWFzdXJlIC0uLT58ImJyb2tlInwgbl9maXgKICBuX2NvbmZpZGVuY2UgLS0-IG5fZXhwYW5kCiAgbl9maXggLS4tPnwicmUtcnVuInwgbl9oeXBvCiAgbl9leHBhbmQgLS4tPnwibmV4dCJ8IG5faHlwbw%3FbgColor%3D0d1017%26type%3Dpng"
+  },
+  {
+   "title": "What Actually Happens When You Run `curl https://example.com`",
+   "link": "https://dev.to/syed_anzar/what-actually-happens-when-you-run-curl-httpsexamplecom-29g9",
+   "date": "2026-09-04T14:10:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What Actually Happens When You Run curl https://example.com You type curl https://example.com and hit Enter. HTML appears. You've done this thousands of times. But do you know what actually happened between keystroke and",
    "image": null
   },
   {
-   "title": "Architecting Resilient Software Platforms: Integrating AI, Cloud, DevOps, SRE, and Platform Engineering",
-   "link": "https://dev.to/zainab_1201/architecting-resilient-software-platforms-integrating-ai-cloud-devops-sre-and-platform-54d7",
-   "date": "2026-09-04T09:11:51.000Z",
+   "title": "What if servers balanced load like Emperor Penguins? Meet HuddleCluster",
+   "link": "https://dev.to/rahad_bhuiya/what-if-servers-balanced-load-like-emperor-penguins-meet-huddlecluster-4kjb",
+   "date": "2026-09-04T14:10:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Modern engineering organizations are rarely tasked with building simple standalone applications anymore. Today's software systems must scale horizontally, process streaming telemetry, maintain strict security boundaries,",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1yvregtg8x1uklwk5nk6.png"
+   "summary": "In Antarctic blizzards where temperatures drop below -40°C and winds scream past 200 km/h, Emperor Penguins survive without any central coordinator. Their survival relies on a single distributed rule: If you are freezing",
+   "image": null
   },
   {
-   "title": "Choice Architecture vs. Backend Corruption: Reverse-Engineering the Divine Will. Introduction: A Critical Localization Bug",
-   "link": "https://dev.to/theolenslowgeek/choice-architecture-vs-backend-corruption-reverse-engineering-the-divine-will-introduction-a-270k",
-   "date": "2026-09-04T09:10:46.000Z",
+   "title": "CVE-2026-32475: Unauthenticated RCE in Elementor Pro via File Upload Validation Bypass",
+   "link": "https://dev.to/stanleya/cve-2026-32475-unauthenticated-rce-in-elementor-pro-via-file-upload-validation-bypass-5e41",
+   "date": "2026-09-04T13:48:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "While translating the New Testament from the original Greek in Wartburg Castle, Martin Luther encountered a severe localization vulnerability. He noted that in European languages, the word \"will\" carries the heavy connot",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2jx4pkgzuy93r34bk1jq.jpg"
+   "summary": "CVE-2026-32475 is an unauthenticated arbitrary file upload to RCE in Elementor Pro ( Upload::validation()). The validation loop iterates over the file array for one field. When the first element has UPLOAD_ERR_NO_FILE (e",
+   "image": null
   },
   {
-   "title": "Automating PRAXIST Research Task Definitions: Free Online Tool",
-   "link": "https://dev.to/kairo_v2/automating-praxist-research-task-definitions-free-online-tool-1bo6",
-   "date": "2026-09-04T09:02:36.000Z",
+   "title": "My Pull Request Failed — Because GitHub Actions Was Protecting the Repository",
+   "link": "https://dev.to/ismailzahir/my-pull-request-failed-because-github-actions-was-protecting-the-repository-2h8i",
+   "date": "2026-09-04T13:47:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Building autonomous research workflows with PRAXIST requires clear, structured task definitions with explicit goals, target domains, and validation metrics. Writing these task configs by hand or maintaining scattered tem",
+   "summary": "Sometimes the most useful security lessons don't start with a security audit. They start with a failed CI job. Recently, while contributing to an open-source project, I opened a pull request and expected the usual sequen",
+   "image": null
+  },
+  {
+   "title": "No Ads Bjj Rounds: what we learned building Random Tactical Timer",
+   "link": "https://dev.to/igorganapolsky/no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer-2515",
+   "date": "2026-09-04T13:23:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-09-04-no-ads-bjj-rounds-what-we-learned-building-random-tactical-timer.svg"
+  },
+  {
+   "title": "How to Structure Your API Security Testing with OWASP ASTF 🚀",
+   "link": "https://dev.to/rhgs/how-to-structure-your-api-security-testing-with-owasp-astf-4623",
+   "date": "2026-09-04T13:23:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you work in DevSecOps, backend development, or cybersecurity, you’ve likely noticed that traditional vulnerability scanners often fall short when testing APIs. The reason? They don't understand your application's busi",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Paulo Maia Carvalho on DrupalClaw and the Boundaries of Agent-First Drupal Development",
+   "link": "https://www.thedroptimes.com/interview/71976/drupalclaw-agent-first-development-boundaries?utm_source=Drupal Planet",
+   "date": "2026-09-04T09:23:44.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "DrupalClaw pushes AI assistance beyond code suggestions into setup, debugging, database work, and repeatable Drupal operations. Paulo Maia Carvalho’s testing also shows where that delegation can fail and why version cont",
    "image": null
   },
   {
@@ -140,6 +150,16 @@
    "source": "Drupal Planet",
    "summary": "The 52-step checklist tells you what to do. This is the calendar those steps actually run against — a realistic 90-day plan broken into three phases, with the milestones that decide whether you finish on time and the res",
    "image": null
+  },
+  {
+   "title": "Exclude Vendor and Default Commands in `php artisan dev`",
+   "link": "https://laravel-news.com/artisan-dev-exclude-vendor-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-04T04:05:57.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 adds DevCommands::withoutVendorCommands() and withoutDefaultCommands(), so php artisan dev runs only the processes your application registers. The post Exclude Vendor and Default Commands in `php artisan de",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-opt-out-vendor-default-commands-featured.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures",
@@ -502,16 +522,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -539,16 +549,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Your Client Is Not a Ticket",
-   "link": "https://www.thedroptimes.com/72047/client-discovery-drupal-delivery?utm_source=Drupal Planet",
-   "date": "2026-09-02T13:35:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A perfectly completed ticket can still solve the wrong problem. Tom Hollevoet argues that better Drupal delivery begins with understanding the need behind the request.",
    "image": null
   },
   {
@@ -620,16 +620,6 @@
    "source": "Simon Willison",
    "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
    "image": null
-  },
-  {
-   "title": "Collections chunkBy() and Storage Path Hardening in Laravel 13.30",
-   "link": "https://laravel-news.com/laravel-13-30-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-01T22:32:48.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.30 adds a chunkBy() collection method, confines Storage::path() to the disk root, and prints why a queue worker stopped in queue:work output. The post Collections chunkBy() and Storage Path Hardening in Larave",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
@@ -1149,6 +1139,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
