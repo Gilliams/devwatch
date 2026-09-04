@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-09-03T19:47:29.131Z",
+ "generatedAt": "2026-09-04T00:59:02.691Z",
  "articles": [
   {
-   "title": "One CDP connection per boot",
-   "link": "https://dev.to/oroborolabs/one-cdp-connection-per-boot-33l6",
-   "date": "2026-09-03T19:36:38.000Z",
+   "title": "🚀 Cracking the GenAI Interview for Google: How to Troubleshoot a Slow Linux Server",
+   "link": "https://dev.to/lakhera2015/cracking-the-genai-interview-for-google-how-to-troubleshoot-a-slow-linux-server-576b",
+   "date": "2026-09-04T00:50:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here is the whole failure, in one line from our own log: a second connect_over_cdp to a running headless Chromium died with \"Connection closed while reading from the driver\". Not flaky. Not network. Deterministic — and i",
+   "summary": "In this session, I cover a practical Linux troubleshooting approach across: ✔️ CPU The goal is to help you answer one of the most common infrastructure interview scenarios: The Linux server is slow: how would you trouble",
    "image": null
   },
   {
-   "title": "[Quick Notes] \"Docker-fying\" my Portfolio Website",
-   "link": "https://dev.to/lugerlogic/quick-notes-docker-fying-my-portfolio-website-anc",
-   "date": "2026-09-03T19:31:04.000Z",
+   "title": "Why I Built a 100% In-Browser YAML ↔ JSON Converter (Stop Uploading Configs to Random Servers)",
+   "link": "https://dev.to/purneshwar__pc_31399c08fc/why-i-built-a-100-in-browser-yaml-json-converter-stop-uploading-configs-to-random-servers-23d4",
+   "date": "2026-09-04T00:49:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Notes to my future self, in plain English. I already had my portfolio website working on my computer using Hugo and a template for the design. I wanted to package it up in Docker so I could run it the same way anywhere, ",
+   "summary": "Every developer working with cloud infrastructure, CI/CD pipelines, or containerization deals with YAML and JSON daily. Whether configuring a Kubernetes manifest, tweaking a docker-compose.yml, or setting up a GitHub Act",
    "image": null
   },
   {
-   "title": "03 Best Sites To Buy Old Gmail Accounts in this year...",
-   "link": "https://dev.to/farahchildsds099/03-best-sites-to-buy-old-gmail-accounts-in-this-year-253o",
-   "date": "2026-09-03T19:20:21.000Z",
+   "title": "Self-Healing CI Fixes Your Environment. Your Coding Agent Fixes the Code.",
+   "link": "https://dev.to/kalemi/self-healing-ci-fixes-your-environment-your-coding-agent-fixes-the-code-4b9k",
+   "date": "2026-09-04T00:35:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Yahoo Accounts getpvatop@gmail.com https://getpvatop.com/product/buy-old-yahoo-accounts/ Businesses aro If you’re looking to Buy Old Yahoo Accounts for professional or business use, GetPVATop.com offers reliable ",
+   "summary": "The agent is already in your workflow. The failed build is where it goes blind. AI coding agents have moved from novelty to daily tool. In Stack Overflow's 2025 Developer Survey, 84% of developers said they are using or ",
    "image": null
   },
   {
-   "title": "Serving your SaaS on customer domains: CNAME, certbot, and 300 lines of Go instead of ACME on-demand",
-   "link": "https://dev.to/pingvera/serving-your-saas-on-customer-domains-cname-certbot-and-300-lines-of-go-instead-of-acme-on-demand-5ell",
-   "date": "2026-09-03T19:17:20.000Z",
+   "title": "The Pipeline Became the Attack Surface: What the 2026 CI/CD Shifts Mean for Reliability",
+   "link": "https://dev.to/kalemi/the-pipeline-became-the-attack-surface-what-the-2026-cicd-shifts-mean-for-reliability-4p13",
+   "date": "2026-09-04T00:33:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is a class of features that look like one line in a ticket and turn into a week of work. \"I want the status page on my own domain\" is one of them. The customer adds a CNAME record — status.client.com → status.your-",
+   "summary": "The Pipeline Became the Attack Surface For most of the last decade, we treated the CI/CD pipeline as plumbing: invisible, trusted, and mostly ignored until it broke. That assumption is no longer safe. The clearest signal",
    "image": null
   },
   {
-   "title": "The first ten minutes of an outage are a coordination problem",
-   "link": "https://dev.to/ginocorp_industries/the-first-ten-minutes-of-an-outage-are-a-coordination-problem-1o1c",
-   "date": "2026-09-03T19:00:33.000Z",
+   "title": "Why DNS Lookups Silently Fail in Production: 5 Resolution Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-lookups-silently-fail-in-production-5-resolution-traps-every-engineer-hits-1ob4",
+   "date": "2026-09-04T00:32:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most of the time an outage runs long, the bug was not the hard part. The hard part is that four competent people saw the alert, and all four started working on it inside the same two minutes, in four different terminals,",
+   "summary": "You deploy an urgent microservice update, push DNS records, and everything seems fine locally. Ten minutes later, PagerDuty lights up: workers cannot resolve the API hostname, inbound webhooks fail, and support tickets p",
    "image": null
   },
   {
-   "title": "Husky vs Jenkins vs Ansible: When to Use Which for CI/CD?",
-   "link": "https://dev.to/dineshstack/husky-vs-jenkins-vs-ansible-when-to-use-which-for-cicd-387a",
-   "date": "2026-09-03T19:00:08.000Z",
+   "title": "The CI/CD Tools Landscape in 2026: What Each Category Is Actually For",
+   "link": "https://dev.to/kalemi/the-cicd-tools-landscape-in-2026-what-each-category-is-actually-for-5fi2",
+   "date": "2026-09-04T00:31:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In this guide, we will cover everything you need to know about choosing between Husky, Jenkins and Ansible for a Laravel CI/CD pipeline — and why the real answer is a layered setup, not a single winner. I recently built ",
+   "summary": "Most \"best CI/CD tools\" lists are twenty logos in a table, ranked by nothing in particular, with the author's product at the top. This is not that. It is a map of the categories, what each one exists to solve, and how to",
    "image": null
   },
   {
-   "title": "A reader said my gate was checking the wrong thing. Proving him right broke my harness twice",
-   "link": "https://dev.to/mahirhir/a-reader-said-my-gate-was-checking-the-wrong-thing-proving-him-right-broke-my-harness-twice-2hpf",
-   "date": "2026-09-03T18:58:43.000Z",
+   "title": "The Trust Gap: Why CI/CD Is the Last Place Teams Let AI In, and How to Earn That Trust",
+   "link": "https://dev.to/kalemi/the-trust-gap-why-cicd-is-the-last-place-teams-let-ai-in-and-how-to-earn-that-trust-c0h",
+   "date": "2026-09-04T00:30:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A reader told me the enforcement hook I had just written up was checking the wrong predicate. He was right. Running the control he asked for took two attempts, because both times my harness broke in a way that looked exa",
+   "summary": "Two things are true about software delivery in 2026, and they are pulling in opposite directions. The first: AI is now writing a large share of the code that reaches your pipeline. CloudBees' 2026 State of Code Abundance",
    "image": null
   },
   {
-   "title": "13 Easy Ways to Buy Old Gmail Accounts Smartly end...",
-   "link": "https://dev.to/farahchildsds099/13-easy-ways-to-buy-old-gmail-accounts-smartly-end-1bji",
-   "date": "2026-09-03T18:54:32.000Z",
+   "title": "Hetzner vs Contabo: How to Choose the Right Budget Host",
+   "link": "https://dev.to/kimcomplete/hetzner-vs-contabo-how-to-choose-the-right-budget-host-522e",
+   "date": "2026-09-04T00:30:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Old Gmail Accounts getpvatop@gmail.com https://getpvatop.com/product/buy-old-gmail-accounts/ Old Gmail accounts have become essential for professionals, marketers, and businesses that rely on trusted and verified ema",
+   "summary": "A decision framework for picking between two low-cost European hosting providers, with Hetzner's current product lineup summarized from its official pages. \"Hetzner vs Contabo\" is the shortlist many people reach for when",
    "image": null
+  },
+  {
+   "title": "GPT‑6 Astra",
+   "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+   "date": "2026-09-03T20:18:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API a",
+   "image": null
+  },
+  {
+   "title": "Laravel queue:work Now Prints Why the Worker Stopped",
+   "link": "https://laravel-news.com/laravel-queue-worker-stop-reasons?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-03T19:52:30.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.30 writes the queue worker's stop reason to queue:work output, in plain text and as a structured JSON record for log pipelines. The post Laravel queue:work Now Prints Why the Worker Stopped appeared first on L",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-queue-worker-stop-reasons.png"
   },
   {
    "title": "Kubernetes v1.37: DRA Updates",
@@ -212,6 +232,16 @@
    "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-09/clipboard-202609031424-ipwpf.png?itok=QX5Apl8O"
   },
   {
+   "title": "Andrei Lepikhov: Why is numeric so popular in PostgreSQL databases?",
+   "link": "https://postgr.es/p/9tS",
+   "date": "2026-09-03T13:45:27.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostgreSQL documentation on numeric contains two statements that don't sit well together:\"especially recommended for storing monetary amounts and other quantities where exactness is required\" — and right away: \"calcu",
+   "image": null
+  },
+  {
    "title": "More Three.js Speakers, More Ideas from Paris",
    "link": "https://tympanus.net/codrops/2026/09/03/more-three-js-speakers-more-ideas-from-paris/",
    "date": "2026-09-03T13:34:34.000Z",
@@ -290,16 +320,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.30 adds chunkBy() to collections and lazy collections, splitting sorted data into runs of matching items without loading it all into memory. The post Group Adjacent Collection Items in Laravel with chunkBy() a",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-30-chunkby-featured.png"
-  },
-  {
-   "title": "Laravel queue:work Now Prints Why the Worker Stopped",
-   "link": "https://laravel-news.com/laravel-queue-worker-stop-reasons?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-03T02:56:05.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.30 writes the queue worker's stop reason to queue:work output, in plain text and as a structured JSON record for log pipelines. The post Laravel queue:work Now Prints Why the Worker Stopped appeared first on L",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-queue-worker-stop-reasons.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_replication_commands",
@@ -452,16 +472,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -510,16 +520,6 @@
    "source": "Martin Fowler",
    "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Mod",
    "image": null
-  },
-  {
-   "title": "Jimmy Angelakos: LinkedIn Live: All right, so you inherited a bad database...",
-   "link": "https://postgr.es/p/9tN",
-   "date": "2026-09-02T12:37:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Back on Friday, July 17th, I joined Courtney from Manning for another LinkedIn Live, this time on what to do when you inherit a bad database. The recording and the slides are now up, with a Q&A at the end. The session wa",
-   "image": "https://vyruss.org/blog/feeds/images/inherited_bad_database.jpg"
   },
   {
    "title": "Mongorewind: Rewind Your MongoDB Test Data Without Restoring a Backup",
@@ -659,16 +659,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fort",
-   "image": null
-  },
-  {
-   "title": "datasette-mcp 0.2",
-   "link": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-   "date": "2026-09-01T15:30:12.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which colum",
    "image": null
   },
   {
@@ -1139,6 +1129,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
