@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-09-04T19:32:11.084Z",
+ "generatedAt": "2026-09-05T00:54:34.769Z",
  "articles": [
   {
-   "title": "How to Deploy DynamoDB with Terraform on AWS",
-   "link": "https://dev.to/usama_saleem_148/how-to-deploy-dynamodb-with-terraform-on-aws-3gn2",
-   "date": "2026-09-04T19:24:02.000Z",
+   "title": "Does Closing the Tab Kill the Job?",
+   "link": "https://dev.to/gitlab_3188/does-closing-the-tab-kill-the-job-cb8",
+   "date": "2026-09-05T00:43:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Infrastructure as Code becomes much more interesting when you stop creating AWS resources manually and start asking a different question: What if I could describe my AWS infrastructure in code, run one command, and have ",
+   "summary": "You closed the browser tab. Did the job actually die? Free models invite that guess. Free servers make it worse. I keep seeing the same six claims. This is a myth-busting FAQ. Claims first. Evidence second. I will not in",
    "image": null
   },
   {
-   "title": "Kubernetes v1.37 Graduates KYAML to Stable, Constraining Manifest Ambiguity",
-   "link": "https://dev.to/isuvo/kubernetes-v137-graduates-kyaml-to-stable-constraining-manifest-ambiguity-4gmm",
-   "date": "2026-09-04T19:15:02.000Z",
+   "title": "Project Zenith: Engineering a Distraction-Free Developer Experience in Windows 11",
+   "link": "https://dev.to/dzakiamriz/project-zenith-engineering-a-distraction-free-developer-experience-in-windows-11-5fco",
+   "date": "2026-09-05T00:42:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Anatomy of YAML Ambiguity: Why Traditional Parsing Fails To understand why KYAML is necessary, we must first dissect the failure modes of traditional YAML parsing in Kubernetes. The core issue lies in the YAML 1.1 sp",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feocen8i8tj3dpni5zlx4.jpg"
-  },
-  {
-   "title": "108 TESTS PASSED. VERIFIED?",
-   "link": "https://dev.to/gnomeman4201/108-tests-passed-verified-32g",
-   "date": "2026-09-04T18:57:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A green test suite is evidence. It is not independent evidence. The current release of badBANANA Threat Observatory passes all 108 automated tests in its own development and CI environments. That tells me the implementat",
+   "summary": "The Problem & Industry Shift Developers on Windows have long faced a fragmented experience: notification toasts, taskbar badges, and system tray popups compete with code for attention. While tools like Visual Studio's 'D",
    "image": null
   },
   {
-   "title": "EKS Auto Mode: correr Kubernetes sin andar peleando con los nodos",
-   "link": "https://dev.to/aws-builders/eks-auto-mode-correr-kubernetes-sin-andar-peleando-con-los-nodos-5954",
-   "date": "2026-09-04T18:54:26.000Z",
+   "title": "Why Subnet Calculations Fail in Cloud Deployments: 5 CIDR Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-subnet-calculations-fail-in-cloud-deployments-5-cidr-traps-every-engineer-hits-55gh",
+   "date": "2026-09-05T00:32:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Si algo aprendí gestionando EKS en producción, es que mantener los nodos se lleva más tiempo del que uno imagina. Managed node groups, Karpenter, el EBS CSI driver, actualizar AMIs, y el clásico \"¿por qué este pod lleva ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9v3u1tatl83kisvak02o.png"
-  },
-  {
-   "title": "CKAD Dojo — a free, self-hosted CKAD exam simulator (20 exams, 398 questions, on your own cluster)",
-   "link": "https://dev.to/xgueret/ckad-dojo-a-free-self-hosted-ckad-exam-simulator-20-exams-398-questions-on-your-own-cluster-2g7n",
-   "date": "2026-09-04T18:46:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you're prepping for the Certified Kubernetes Application Developer (CKAD) exam, you've probably already found killer.sh, Killercoda, or one of the paid mock-exam platforms. I wanted something different: no account, no",
+   "summary": "When designing cloud infrastructure, CIDR subnetting often seems straightforward: pick a /16 VPC block, divide it into /24 subnets across availability zones, and deploy via Terraform. Then production traffic scales, an a",
    "image": null
   },
   {
-   "title": "We ship the AI layer with the code",
-   "link": "https://dev.to/madebymonogram/we-ship-the-ai-layer-with-the-code-14pm",
-   "date": "2026-09-04T18:35:41.000Z",
+   "title": "How to Resolve Git Merge Conflicts in CI/CD Pipelines – Automated Fixes & Best Practices",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-git-merge-conflicts-in-cicd-pipelines-automated-fixes-best-practices-37f2",
+   "date": "2026-09-05T00:21:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every repo we hand back carries instruction files, specs, skills, a DESIGN.md, and an MCP server. What each one is for, and how our people and the agents split the work of building them. When we finish a project, the cli",
+   "summary": "Introduction Merge conflicts are inevitable when multiple developers push changes to the same codebase, but they become a pipeline blocker in CI/CD environments. This article walks you through diagnosing, fixing, and aut",
    "image": null
   },
   {
-   "title": "I Never Touched AWS and I Still Ship: The Internet Doesn’t Need One Giant Cloud Stack",
-   "link": "https://dev.to/davidtimothy/i-never-touched-aws-and-i-still-ship-the-internet-doesnt-need-one-giant-cloud-stack-3a7g",
-   "date": "2026-09-04T18:33:19.000Z",
+   "title": "Feature Flags as a Reliability Tool, Not Just an A/B Platform",
+   "link": "https://dev.to/samson_tanimawo/feature-flags-as-a-reliability-tool-not-just-an-ab-platform-1l9e",
+   "date": "2026-09-05T00:18:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At some point, hosting a website became embarrassingly complicated. You can’t just put files on a server anymore. Apparently, you need a cloud strategy. You need containers. You need orchestration. You need serverless fu",
+   "summary": "Most Teams Use Feature Flags Wrong They wire up LaunchDarkly or Unleash, use it for two A/B tests, then forget about it. Meanwhile, their production is full of if (isNewCheckoutEnabled) blocks that nobody remembers how t",
    "image": null
   },
   {
-   "title": "Stop Conditions for Free Inference in Agent Loops",
-   "link": "https://dev.to/aiio_6471/stop-conditions-for-free-inference-in-agent-loops-12ka",
-   "date": "2026-09-04T18:33:02.000Z",
+   "title": "24 Hours of Zero Posts: The 46GB Compressed-Memory Bomb That RSS Couldn't See",
+   "link": "https://dev.to/bokuwalily/24-hours-of-zero-posts-the-46gb-compressed-memory-bomb-that-rss-couldnt-see-27j7",
+   "date": "2026-09-05T00:00:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Free inference is a sandbox with a door, not a load-bearing wall. Agent loops that treat retries as cheap, context as private, and output as merge-ready should stay off free models and free servers until a stop condition",
+   "summary": "The day my social media automation posted exactly zero times in 24 hours was the day I stopped trusting Activity Monitor. RSS said 264MB. Reality was 47GB. Here is how I found the gap and built a launchd job that closes ",
+   "image": null
+  },
+  {
+   "title": "The Pelican comparison grid for Astra is pretty interesting",
+   "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+   "date": "2026-09-04T23:59:05.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I render",
+   "image": null
+  },
+  {
+   "title": "The warning that waited for the ceiling",
+   "link": "https://dev.to/oroborolabs/the-warning-that-waited-for-the-ceiling-ik4",
+   "date": "2026-09-04T23:54:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Our browser fleet heals itself: a health-check asks each service whether it actually responds, kills only what provably owns the dead port, reboots, retries once, and counts its own reboots per day in an append-only CSV.",
+   "image": null
+  },
+  {
+   "title": "The alarm that only speaks once",
+   "link": "https://dev.to/oroborolabs/the-alarm-that-only-speaks-once-5c26",
+   "date": "2026-09-04T23:33:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An audit earlier today went looking for broken things in our scheduled fleet and found the biggest one outside the fleet entirely: our only public payment page — a tip-jar shop with one paid product — is serving 404. The",
+   "image": null
+  },
+  {
+   "title": "Taylor disabled GitHub Issues on most Laravel open-source packages.",
+   "link": "https://laravel-news.com/taylor-disabled-github-issues?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-04T20:13:41.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "If you hit a bug, describe it to a coding agent and open a PR. Even if the code isn't great, that's fine - code can be iterated on. The PR still documents the problem, and a proper fix can follow. The post Taylor disable",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pika-1788551267376-1x.png"
+  },
+  {
+   "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+   "link": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
+   "date": "2026-09-04T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta. With this feature enabled, all of the node components (kubelet, CRI and OCI runtimes, CNI plugins, and kube-proxy) can run as a non-root user on ",
    "image": null
   },
   {
@@ -250,6 +280,16 @@
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
    "image": null
+  },
+  {
+   "title": "Mikhail Shytsko: What Replica Mode Does Not Switch Off",
+   "link": "https://postgr.es/p/9tX",
+   "date": "2026-09-04T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "An overnight load runs under session_replication_role = replica, the setting most of the popular answers describe as switching enforcement off for the session. It writes an order for customer 999, who does not exist, and",
+   "image": "https://seedfa.st/blog/session-replication-role-2.svg"
   },
   {
    "title": "GPT‑6 Astra",
@@ -492,26 +532,6 @@
    "image": null
   },
   {
-   "title": "Sidecar Brings Statamic's Control Panel to Your Existing Markdown Sites",
-   "link": "https://laravel-news.com/statamic-sidecar?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-02T18:15:31.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Sidecar lets you manage markdown documentation and static sites from LaraDocs, Jigsaw, VitePress, and HydePHP directly inside the Statamic Control Panel The post Sidecar Brings Statamic's Control Panel to Your Existing M",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/sidecar.png"
-  },
-  {
-   "title": "Christopher Winslett: Postgres Calculations and the Ambiguity of NULL",
-   "link": "https://postgr.es/p/9tL",
-   "date": "2026-09-02T17:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "When dividing by zero, Postgres fails and declares you ran an illegal operation. Cast 'abc' to an integer, and get an error. Divide by NULL and the query still runs. NULL isn't even a value. It is a marker for “unknown.”",
-   "image": null
-  },
-  {
    "title": "llm-gemini 0.34",
    "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
    "date": "2026-09-02T16:39:38.000Z",
@@ -539,16 +559,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
-   "image": null
-  },
-  {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
@@ -612,16 +622,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
   },
   {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
-  },
-  {
    "title": "Quoting Rick Brewster",
    "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
    "date": "2026-09-02T05:50:57.000Z",
@@ -669,16 +669,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of s",
-   "image": null
-  },
-  {
-   "title": "Codex bundles LibreOffice",
-   "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-   "date": "2026-09-01T19:03:01.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-p",
    "image": null
   },
   {
@@ -769,16 +759,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1152,6 +1132,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1160,16 +1150,6 @@
    "source": "Frontend Focus",
    "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
-  },
-  {
-   "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-   "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
-   "date": "2026-08-11T18:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives ",
-   "image": null
   },
   {
    "title": "CSS:the bomb inside your inbox",
@@ -1210,6 +1190,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
