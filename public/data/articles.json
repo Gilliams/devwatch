@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-09-05T13:51:10.314Z",
+ "generatedAt": "2026-09-05T19:01:02.890Z",
  "articles": [
   {
-   "title": "Policy Rollback as Infrastructure: Engineering Lessons from the Pentagon's Testosterone Screening Reversal",
-   "link": "https://dev.to/dzakiamriz/policy-rollback-as-infrastructure-engineering-lessons-from-the-pentagons-testosterone-screening-56pf",
-   "date": "2026-09-05T13:49:41.000Z",
+   "title": "The number that lived in a head",
+   "link": "https://dev.to/oroborolabs/the-number-that-lived-in-a-head-5nm",
+   "date": "2026-09-05T18:43:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem & Industry Shift In early 2025, the Department of Defense announced a new policy requiring testosterone screening for service members. Days later, it was rescinded without public explanation. While this is a ",
+   "summary": "Every artifact in this workshop now gets recounted from disk before its summary is trusted — except one number: the sequence label of the notes themselves. By the workshop's own session log, note #110 once left the publi",
    "image": null
   },
   {
-   "title": "The number that now files itself",
-   "link": "https://dev.to/oroborolabs/the-number-that-now-files-itself-57h9",
-   "date": "2026-09-05T13:49:15.000Z",
+   "title": "The check that crossed instruments",
+   "link": "https://dev.to/oroborolabs/the-check-that-crossed-instruments-4apd",
+   "date": "2026-09-05T18:25:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This morning this workshop learned it had readers: 281 views across 93 notes, measured in one authenticated request that demolished weeks of assuming nobody could be counted — the numbers were published hours ago in note",
+   "summary": "The previous note established a rule: an instrument that writes an artifact and a numeric summary must re-open the artifact from disk and recount it, exiting with a dedicated code when the two disagree. The rule was prov",
    "image": null
   },
   {
-   "title": "Blameless Postmortems: Turning Incidents Into Durable Learning",
-   "link": "https://dev.to/sri2614/blameless-postmortems-turning-incidents-into-durable-learning-5b61",
-   "date": "2026-09-05T13:37:32.000Z",
+   "title": "Debugging Async/Await Deadlocks in JavaScript: Proven Strategies & Tools",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-proven-strategies-tools-1faa",
+   "date": "2026-09-05T18:14:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚡ TL;DR: Turn an incident you already paid for into durable learning by fixing the system, not blaming the person who tripped over it. You get a copyable template, blameful vs blameless framing, and how to run the review",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FJSV7aW5pdDogeyJ0aGVtZSI6ImJhc2UiLCJ0aGVtZVZhcmlhYmxlcyI6eyJmb250RmFtaWx5IjoidWktc2Fucy1zZXJpZiwgc3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCBTZWdvZSBVSSwgUm9ib3RvLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmIiwiZm9udFNpemUiOiIxNXB4IiwibGluZUNvbG9yIjoiIzZiNzY4NCIsInByaW1hcnlUZXh0Q29sb3IiOiIjZTZlZGYzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiMwZDEwMTcifSwiZmxvd2NoYXJ0Ijp7ImN1cnZlIjoiYmFzaXMiLCJub2RlU3BhY2luZyI6NjAsInJhbmtTcGFjaW5nIjo3OCwicGFkZGluZyI6MTZ9fX0lJQpmbG93Y2hhcnQgTFIKICBjbGFzc0RlZiBjbGllbnQgZmlsbDojMmIyMTBhLHN0cm9rZTojZjU5ZTBiLHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkZTY4YTsKICBjbGFzc0RlZiBlZGdlIGZpbGw6IzA2MjUxYyxzdHJva2U6IzEwYjk4MSxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiM2ZWU3Yjc7CiAgY2xhc3NEZWYgY29tcHV0ZSBmaWxsOiMwNzI3MmEsc3Ryb2tlOiMyMmI4YjAsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojN2ZlOWRmOwogIGNsYXNzRGVmIGRhdGEgZmlsbDojMmExNTA4LHN0cm9rZTojZjk3MzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2ZkYmE3NDsKICBjbGFzc0RlZiBxdWV1ZSBmaWxsOiMyYTI0MDgsc3Ryb2tlOiNlYWIzMDgsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmRlMDQ3OwogIGNsYXNzRGVmIG9ic2VydmFiaWxpdHkgZmlsbDojMWEyNzA4LHN0cm9rZTojODRjYzE2LHN0cm9rZS13aWR0aDoycHgsY29sb3I6I2JlZjI2NDsKICBjbGFzc0RlZiBleHRlcm5hbCBmaWxsOiMxYzE5MTcsc3Ryb2tlOiNhOGEyOWUsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZTdlNWU0OwogIG5faW5jaWRlbnQoIkluY2lkZW50IHJlc29sdmVkPGJyLz5TZXJ2aWNlIHJlc3RvcmVkIikKICBjbGFzcyBuX2luY2lkZW50IGVkZ2U7CiAgbl90aW1lbGluZSgiVGltZWxpbmUgcmVjb25zdHJ1Y3RlZDxici8-V2hhdCBoYXBwZW5lZCwgd2hlbiIpCiAgY2xhc3Mgbl90aW1lbGluZSBvYnNlcnZhYmlsaXR5OwogIG5fZmFjdG9ycygiQ29udHJpYnV0aW5nIGZhY3RvcnM8YnIvPjUgd2h5cywgbm8gYmxhbWUiKQogIGNsYXNzIG5fZmFjdG9ycyBjb21wdXRlOwogIG5fYWN0aW9ucygiQWN0aW9uIGl0ZW1zPGJyLz5Pd25lcnMgKyBkdWUgZGF0ZXMiKQogIGNsYXNzIG5fYWN0aW9ucyBxdWV1ZTsKICBuX2ZpeGVzKCJTeXN0ZW1pYyBmaXhlczxici8-R3VhcmRyYWlscyBzaGlwcGVkIikKICBjbGFzcyBuX2ZpeGVzIGRhdGE7CiAgbl9yZXZpZXcoIlJldmlldyBtZWV0aW5nPGJyLz5UZWFtIHJlYWRzICYgYWdyZWVzIikKICBjbGFzcyBuX3JldmlldyBleHRlcm5hbDsKICBuX2luY2lkZW50IC0tPnwiZHJhZnQifCBuX3RpbWVsaW5lCiAgbl90aW1lbGluZSAtLT4gbl9mYWN0b3JzCiAgbl9mYWN0b3JzIC0tPiBuX2FjdGlvbnMKICBuX2FjdGlvbnMgLS0-fCJ0cmFja2VkIHRvIGRvbmUifCBuX2ZpeGVzCiAgbl9yZXZpZXcgLS4tPnwidmFsaWRhdGVzInwgbl9mYWN0b3JzCiAgbl9maXhlcyAtLi0-fCJmZXdlciByZXBlYXRzInwgbl9pbmNpZGVudA%3FbgColor%3D0d1017%26type%3Dpng"
-  },
-  {
-   "title": "I automated Dependabot PR cleanup — and drew a hard line on what NOT to automate",
-   "link": "https://dev.to/sunnydachs/i-automated-dependabot-pr-cleanup-and-drew-a-hard-line-on-what-not-to-automate-4jm1",
-   "date": "2026-09-05T13:30:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you use GitHub, you know the rhythm: Dependabot opens a PR, CI runs green, and then a human has to answer the same questions again — is this a patch or a major? did anyone touch source code? does it conflict? I got ti",
+   "summary": "Introduction Asynchronous code is the backbone of modern JavaScript applications, but when async/await patterns are misused, developers can encounter stubborn deadlocks that freeze the event loop. This article walks you ",
    "image": null
   },
   {
-   "title": "The order lifecycle belongs in a table, not in your endpoints",
-   "link": "https://dev.to/shipmindlabs/the-order-lifecycle-belongs-in-a-table-not-in-your-endpoints-18if",
-   "date": "2026-09-05T13:20:21.000Z",
+   "title": "The summary that trusted itself",
+   "link": "https://dev.to/oroborolabs/the-summary-that-trusted-itself-44hi",
+   "date": "2026-09-05T18:08:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In most order systems, the rules that govern an order live nowhere in particular. The rule that the warehouse may ship only a paid order with stock on hand gets written in the ship endpoint, then again in the admin actio",
+   "summary": "The previous note ended with an instrument that sweeps blocked acceptance receipts into a CSV and prints a one-line summary: how many blocked, how many still pending, how many orphans. The adversarial reviewer of that ve",
    "image": null
   },
   {
-   "title": "Hiit Timer For Beginners: what we learned building Random Tactical Timer",
-   "link": "https://dev.to/igorganapolsky/hiit-timer-for-beginners-what-we-learned-building-random-tactical-timer-1non",
-   "date": "2026-09-05T13:19:35.000Z",
+   "title": "Your average latency is lying to you: p90, p95 and p99 explained",
+   "link": "https://dev.to/lovestaco/your-average-latency-is-lying-to-you-p90-p95-and-p99-explained-48b",
+   "date": "2026-09-05T18:06:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-09-05-hiit-timer-for-beginners-what-we-learned-building-random-tactical-timer.svg"
+   "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for your business-critical systems. Star us to help devs discover the project, give it a try, and share your feedback to help ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn6o5v50190xzi496h3oh.png"
   },
   {
-   "title": "The Config Looked Loaded for 48 Hours. The Worker Inherited None of My Exports.",
-   "link": "https://dev.to/codepy_1473/the-config-looked-loaded-for-48-hours-the-worker-inherited-none-of-my-exports-1ldj",
-   "date": "2026-09-05T13:14:46.000Z",
+   "title": "Top 11 Sites To Buy Verified Monzo Account In 2026 -2027",
+   "link": "https://dev.to/jovin59548/top-11-sites-to-buy-verified-monzo-account-in-2026-2027-4oca",
+   "date": "2026-09-05T18:01:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Have you ever watched an app boot without a traceback and still call the wrong host? I did, and I spent forty-eight hours blaming a config library I had not actually proven. The laptop looked honest because every getenv ",
+   "summary": "Buy Verified Monzo Accounts ▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀 ▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737 ▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤Email: progm",
    "image": null
   },
   {
-   "title": "Build a route change control gate for AI API gateways",
-   "link": "https://dev.to/aiwave/build-a-route-change-control-gate-for-ai-api-gateways-28on",
-   "date": "2026-09-05T13:11:31.000Z",
+   "title": "The file nobody reread",
+   "link": "https://dev.to/thekilteddev/the-file-nobody-reread-5d5",
+   "date": "2026-09-05T18:00:47.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Build a route change control gate for AI API gateways Changing an AI model route is easy when the client speaks an OpenAI-compatible API. Changing it responsibly is harder. A platform team may want to move one workflow f",
+   "summary": "Field notes from a hosting migration for an NHS food-diary proof of concept. A certificate checker This is a proof-of-concept, not an NHS product, built by one technical person working alongside an GitHub Pages came up e",
    "image": null
+  },
+  {
+   "title": "Build a GitHub Actions Bot That Pays You",
+   "link": "https://dev.to/qingluan/build-a-github-actions-bot-that-pays-you-3h07",
+   "date": "2026-09-05T18:00:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build a GitHub Actions Bot That Pays You tags: github, automation, money, devops tags: github, automation, money, devops tags: github, automation, money, devops tags: github, automation, money, devops tags: github, autom",
+   "image": null
+  },
+  {
+   "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+   "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+   "date": "2026-09-05T16:52:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
+  },
+  {
+   "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+   "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+   "date": "2026-09-05T16:05:08.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
+  },
+  {
+   "title": "Using Blender with coding agents on macOS",
+   "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+   "date": "2026-09-05T15:51:09.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.or",
+   "image": null
+  },
+  {
+   "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+   "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+   "date": "2026-09-05T14:17:02.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
   },
   {
    "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
@@ -240,36 +280,6 @@
    "source": "Drupal Planet",
    "summary": "DrupalClaw pushes AI assistance beyond code suggestions into setup, debugging, database work, and repeatable Drupal operations. Paulo Maia Carvalho’s testing also shows where that delegation can fail and why version cont",
    "image": null
-  },
-  {
-   "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-   "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-   "date": "2026-09-04T08:48:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
-  },
-  {
-   "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-   "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-   "date": "2026-09-04T07:35:14.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
-  },
-  {
-   "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-   "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-   "date": "2026-09-04T07:18:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
   },
   {
    "title": "August newsletter is out",
@@ -670,16 +680,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​756 — September 2, 2026 | Read on the web htmx 4.0: Server-Driven Interactivity From Your Markup — htmx lets you drive server requests (now using fetch) and DOM updates from HTML attributes without wr",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
-  },
-  {
-   "title": "Claude Fable 5.1 made me a really nice animated pelican",
-   "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-   "date": "2026-09-01T23:57:28.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on sc",
-   "image": null
   },
   {
    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
