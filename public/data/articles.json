@@ -1,64 +1,114 @@
 {
- "generatedAt": "2026-09-05T00:54:34.769Z",
+ "generatedAt": "2026-09-05T09:00:23.791Z",
  "articles": [
   {
-   "title": "Does Closing the Tab Kill the Job?",
-   "link": "https://dev.to/gitlab_3188/does-closing-the-tab-kill-the-job-cb8",
-   "date": "2026-09-05T00:43:12.000Z",
+   "title": "The deploy that needed one person who was on holiday",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/the-deploy-that-needed-one-person-who-was-on-holiday-2357",
+   "date": "2026-09-05T08:38:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You closed the browser tab. Did the job actually die? Free models invite that guess. Free servers make it worse. I keep seeing the same six claims. This is a myth-busting FAQ. Claims first. Evidence second. I will not in",
+   "summary": "Our release was ninety-five percent automated. One pipeline, one button, artifacts built and promoted and deployed without anyone touching a server. The remaining five percent was a step that only worked when a specific ",
    "image": null
   },
   {
-   "title": "Project Zenith: Engineering a Distraction-Free Developer Experience in Windows 11",
-   "link": "https://dev.to/dzakiamriz/project-zenith-engineering-a-distraction-free-developer-experience-in-windows-11-5fco",
-   "date": "2026-09-05T00:42:09.000Z",
+   "title": "Tencent Cloud 6th Anniversary Sale 2026: Complete Buying Guide",
+   "link": "https://dev.to/aitokenhub_98/tencent-cloud-6th-anniversary-sale-2026-complete-buying-guide-3iao",
+   "date": "2026-09-05T08:36:59.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Problem & Industry Shift Developers on Windows have long faced a fragmented experience: notification toasts, taskbar badges, and system tray popups compete with code for attention. While tools like Visual Studio's 'D",
+   "summary": "Tencent Cloud 6th Anniversary Sale 2026: Complete Buying Guide Prices verified September 2026 — check official pages for latest deals. Tencent Cloud's Lighthouse 6th Anniversary Sale runs through October 12, 2026, This g",
    "image": null
   },
   {
-   "title": "Why Subnet Calculations Fail in Cloud Deployments: 5 CIDR Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-subnet-calculations-fail-in-cloud-deployments-5-cidr-traps-every-engineer-hits-55gh",
-   "date": "2026-09-05T00:32:12.000Z",
+   "title": "Is Open Source AI Still Open in 2026?",
+   "link": "https://dev.to/mithilesh_gaurihar/is-open-source-ai-still-open-in-2026-pfi",
+   "date": "2026-09-05T08:35:09.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When designing cloud infrastructure, CIDR subnetting often seems straightforward: pick a /16 VPC block, divide it into /24 subnets across availability zones, and deploy via Terraform. Then production traffic scales, an a",
+   "summary": "No model was relicensed this year. Between July and September, distribution went into play, routing was sold, and compute repriced, and those are the layers your stack actually runs on. By Mithilesh Gaurihar, who builds ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx1tz8taj1fk3vbajy4ev.png"
+  },
+  {
+   "title": "Tencent Cloud 6th Anniversary Sale 2026: Complete Buying Guide",
+   "link": "https://dev.to/aitokenhub_98/tencent-cloud-6th-anniversary-sale-2026-complete-buying-guide-4pl1",
+   "date": "2026-09-05T08:30:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Tencent Cloud 6th Anniversary Sale 2026: Complete Buying Guide Prices verified September 2026 — check official pages for latest deals. Tencent Cloud's Lighthouse 6th Anniversary Sale runs through October 12, 2026, This g",
    "image": null
   },
   {
-   "title": "How to Resolve Git Merge Conflicts in CI/CD Pipelines – Automated Fixes & Best Practices",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-resolve-git-merge-conflicts-in-cicd-pipelines-automated-fixes-best-practices-37f2",
-   "date": "2026-09-05T00:21:35.000Z",
+   "title": "The Deployment That Worked Everywhere Except Production",
+   "link": "https://dev.to/serguey_shinder_4ab9b87b1/the-deployment-that-worked-everywhere-except-production-19n1",
+   "date": "2026-09-05T08:29:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Merge conflicts are inevitable when multiple developers push changes to the same codebase, but they become a pipeline blocker in CI/CD environments. This article walks you through diagnosing, fixing, and aut",
+   "summary": "It had passed in development. It had passed in the integration environment. It had passed in the staging environment that we described, in writing, as production-like. Then it went to production at half past seven in the",
    "image": null
   },
   {
-   "title": "Feature Flags as a Reliability Tool, Not Just an A/B Platform",
-   "link": "https://dev.to/samson_tanimawo/feature-flags-as-a-reliability-tool-not-just-an-ab-platform-1l9e",
-   "date": "2026-09-05T00:18:05.000Z",
+   "title": "AI Incident Handoff: Keep Engineers Ready When Agents Fix Production",
+   "link": "https://dev.to/jackm-singularity/ai-incident-handoff-keep-engineers-ready-when-agents-fix-production-37g5",
+   "date": "2026-09-05T08:24:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most Teams Use Feature Flags Wrong They wire up LaunchDarkly or Unleash, use it for two A/B tests, then forget about it. Meanwhile, their production is full of if (isNewCheckoutEnabled) blocks that nobody remembers how t",
+   "summary": "AI incident response can look magical right up to the moment it hands you the weirdest outage your team has seen all quarter. That is the trap. If agents fix every routine alert, engineers may lose the daily reps that te",
    "image": null
   },
   {
-   "title": "24 Hours of Zero Posts: The 46GB Compressed-Memory Bomb That RSS Couldn't See",
-   "link": "https://dev.to/bokuwalily/24-hours-of-zero-posts-the-46gb-compressed-memory-bomb-that-rss-couldnt-see-27j7",
-   "date": "2026-09-05T00:00:06.000Z",
+   "title": "The Terraform plan that quietly said destroy",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/the-terraform-plan-that-quietly-said-destroy-2a13",
+   "date": "2026-09-05T08:18:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The day my social media automation posted exactly zero times in 24 hours was the day I stopped trusting Activity Monitor. RSS said 264MB. Reality was 47GB. Here is how I found the gap and built a launchd job that closes ",
+   "summary": "The plan output was four hundred lines long. Buried around line two hundred and ten, between a tag change and a security group rule, was a resource marked for replacement. It was the managed database. Somebody approved t",
+   "image": null
+  },
+  {
+   "title": "DevOps Training in Bangalore | Learnmore Technologies",
+   "link": "https://dev.to/learnmoretech/devops-training-in-bangalore-learnmore-technologies-5387",
+   "date": "2026-09-05T08:15:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Build your career in DevOps with practical training at Learnmore Technologies. Learn CI/CD, Docker, Kubernetes, Git, Jenkins, AWS, and cloud automation through hands-on projects and real-world scenarios. ✅ Industry-focus",
+   "image": null
+  },
+  {
+   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+   "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+   "date": "2026-09-05T07:55:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg"
+  },
+  {
+   "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+   "date": "2026-09-05T07:31:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_startup_progress_interval and log_recovery_conflict_waits",
+   "link": "https://postgr.es/p/9tY",
+   "date": "2026-09-05T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Track WAL replay progress on a primary, or diagnose why a standby stalled—two GUCs for the same startup question, answered only in the server log.",
    "image": null
   },
   {
@@ -69,26 +119,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I render",
-   "image": null
-  },
-  {
-   "title": "The warning that waited for the ceiling",
-   "link": "https://dev.to/oroborolabs/the-warning-that-waited-for-the-ceiling-ik4",
-   "date": "2026-09-04T23:54:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our browser fleet heals itself: a health-check asks each service whether it actually responds, kills only what provably owns the dead port, reboots, retries once, and counts its own reboots per day in an append-only CSV.",
-   "image": null
-  },
-  {
-   "title": "The alarm that only speaks once",
-   "link": "https://dev.to/oroborolabs/the-alarm-that-only-speaks-once-5c26",
-   "date": "2026-09-04T23:33:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An audit earlier today went looking for broken things in our scheduled fleet and found the biggest one outside the fleet entirely: our only public payment page — a tip-jar shop with one paid product — is serving 404. The",
    "image": null
   },
   {
@@ -232,16 +262,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
   },
   {
-   "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-   "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-   "date": "2026-09-04T06:47:52.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
-  },
-  {
    "title": "August newsletter is out",
    "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
    "date": "2026-09-04T05:54:40.000Z",
@@ -320,16 +340,6 @@
    "source": "Kubernetes Blog",
    "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight",
    "image": null
-  },
-  {
-   "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-   "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-   "date": "2026-09-03T18:02:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attack",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg"
   },
   {
    "title": "Talking Drupal: Talking Drupal #568 - Off The Cuff #12",
@@ -502,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Alexander Ioffe: How One Extra JOIN Reliably Breaks Postgres",
-   "link": "https://postgr.es/p/9tP",
-   "date": "2026-09-03T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Adding a 5-row lookup table to a 9-table billing query flips the plan from 0.3ms nested loops to 467ms hash joins. The cause is join_collapse_limit = 8, a default Postgres has shipped since 2005. SQL Server and MySQL don",
-   "image": null
-  },
-  {
    "title": "Bliki: Paracelsus Maxim",
    "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
    "date": "2026-09-02T22:03:00.000Z",
@@ -559,6 +559,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
@@ -620,6 +630,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "Quoting Rick Brewster",
@@ -759,6 +779,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1132,16 +1162,6 @@
    "image": null
   },
   {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1190,26 +1210,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
