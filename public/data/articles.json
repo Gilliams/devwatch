@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-09-06T00:52:56.945Z",
+ "generatedAt": "2026-09-06T09:23:45.103Z",
  "articles": [
   {
-   "title": "The Pardon That Outlived the Run",
-   "link": "https://dev.to/oroborolabs/the-pardon-that-outlived-the-run-21i9",
-   "date": "2026-09-06T00:39:57.000Z",
+   "title": "Czym jest Docker i jak go używać — przewodnik z przykładami",
+   "link": "https://dev.to/andrzej_klusiewicz_08588c/czym-jest-docker-i-jak-go-uzywac-przewodnik-z-przykladami-17le",
+   "date": "2026-09-06T09:18:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The last note ended with a count of pardons per run, and the reviewer's next question writes itself: a run is born virgin. The name contract promises each legacy receipt is forgivable exactly once in its life — but two w",
+   "summary": "Docker zmienił sposób w jaki wdrażamy aplikacje. Pokazuję od podstaw czym jest, jak działa i jak zacząć go realnie używać, na konkretnych przykładach. obraz zbudowany raz Laptop programisty Serwer / produkcja Chmura Zbud",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fjsystems.pl%2Fstatic%2Fimages%2Flogo-colored.svg"
+  },
+  {
+   "title": "Kurs administracji PostgreSQL — jak wybrać dobry prework",
+   "link": "https://dev.to/andrzej_klusiewicz_08588c/kurs-administracji-postgresql-jak-wybrac-dobry-prework-1hb2",
+   "date": "2026-09-06T09:18:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Przed kursem administracji PostgreSQL warto dobrze przygotować środowisko. Pokazuję na co zwrócić uwagę wybierając prework i jak uniknąć typowych problemów na starcie. Do udziału w warsztatowej części kursu będzie Ci pot",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo76gcg81nej628tx85kv.jpg"
+  },
+  {
+   "title": "Quoting Zach Kehs",
+   "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+   "date": "2026-09-06T08:42:49.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performa",
    "image": null
   },
   {
-   "title": "\"I Ordered It and It Never Arrived\" — Four Support-Desk Log Investigations",
-   "link": "https://dev.to/amru195704/i-ordered-it-and-it-never-arrived-four-support-desk-log-investigations-4mof",
-   "date": "2026-09-06T00:35:56.000Z",
+   "title": "Local Kubernetes Dev — Part 13: Making your local setup truly production-like",
+   "link": "https://dev.to/mtrnm/local-kubernetes-dev-part-13-making-your-local-setup-truly-production-like-4gka",
+   "date": "2026-09-06T08:23:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "One order number. That's the whole lead. The ticket says nothing else. The record of what happened is scattered across five systems. Can you put it back into a single line before the customer gives up on you? The answer ",
+   "summary": "\"Works on my laptop\" ≠ \"survives in prod.\" And you can verify almost all of that difference locally in k3d. Probe behavior, restarts from liveness, how a rolling update proceeds, how the app shuts down on a signal — k3d ",
    "image": null
   },
   {
-   "title": "EUC-JP, UTF-16, and a Suspicion of EBCDIC — Reading Legacy Encodings in 2026",
-   "link": "https://dev.to/amru195704/euc-jp-utf-16-and-a-suspicion-of-ebcdic-reading-legacy-encodings-in-2026-1nel",
-   "date": "2026-09-06T00:34:52.000Z",
+   "title": "Debugging Async/Await Deadlocks in JavaScript – Common Pitfalls & Fixes",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-common-pitfalls-fixes-1f9",
+   "date": "2026-09-06T08:14:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A log file from 1998 lands on your desk. grep ERROR returns nothing. The file is 12 GB, and you can see the word ERROR on screen. When a search runs correctly and matches nothing, what do you suspect? The answer isn't in",
+   "summary": "Introduction Asynchronous code is the backbone of modern JavaScript applications, but when async/await is misused it can lead to deadlocks that freeze your service. In this post we’ll explore why deadlocks happen, how to",
    "image": null
   },
   {
-   "title": "Making the On-Call Night Lighter — Four Things You Set Up for Your 2 A.M. Self",
-   "link": "https://dev.to/amru195704/making-the-on-call-night-lighter-four-things-you-set-up-for-your-2-am-self-1485",
-   "date": "2026-09-06T00:32:59.000Z",
+   "title": "A Green Free Server Is Not a Repro: Six FAQ Myths",
+   "link": "https://dev.to/gitlab_3188/a-green-free-server-is-not-a-repro-six-faq-myths-56dd",
+   "date": "2026-09-06T08:02:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "2:14 a.m. Ninth reopen. The same 50 GB log, opened nine times tonight already. Why does investigation turn into opening one file over and over? The answer has nothing to do with how good you are at this. Your 2 a.m. self",
+   "summary": "Have you ever merged because a free box went green? I have done that more than once. The job felt cheap. The result was not a repro. Free models hide one trap. Free servers hide a second trap. People treat both like a la",
    "image": null
   },
   {
-   "title": "Docker CrashLoopBackOff Fix: Step‑By‑Step Guide to Resolve Container Crashes",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/docker-crashloopbackoff-fix-step-by-step-guide-to-resolve-container-crashes-5ej",
-   "date": "2026-09-06T00:23:29.000Z",
+   "title": "How to Stream Container Logs to Loki",
+   "link": "https://dev.to/chasebot/how-to-stream-container-logs-to-loki-36hj",
+   "date": "2026-09-06T08:01:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Docker CrashLoopBackOff Fix: Step‑By‑Step Guide to Resolve Container Crashes When a pod repeatedly restarts with the CrashLoopBackOff status, it can stall a CI/CD pipeline and frustrate developers. This article walks you",
+   "summary": "What You'll Need Hetzner VPS or Contabo VPS running Ubuntu 22.04 or 24.04 DigitalOcean droplets as an alternative cloud infrastructure option Namecheap for domain management and reverse proxy routing n8n Cloud or self-ho",
    "image": null
   },
   {
-   "title": "The Pardon Nobody Counts",
-   "link": "https://dev.to/oroborolabs/the-pardon-nobody-counts-d90",
-   "date": "2026-09-06T00:22:08.000Z",
+   "title": "Kubernetes Concepts Explained Simply",
+   "link": "https://dev.to/cloudfrontier/kubernetes-concepts-explained-simply-a90",
+   "date": "2026-09-06T08:01:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The last experiment gave every class of receipt a name contract, with a pardon list for legacy files: each one forgivable exactly once, reason attached. The reviewer of the piece that shipped it read the fine print and a",
+   "summary": "Kubernetes Concepts Explained Simply If you've ever tried to learn Kubernetes, you've probably felt like you're drowning in jargon: pods, services, deployments, ingress, nodes, clusters. It's a lot. But underneath all th",
    "image": null
   },
   {
-   "title": "Python Logging: Best Practices for Production Apps",
-   "link": "https://dev.to/qingluan/python-logging-best-practices-for-production-apps-4b4c",
-   "date": "2026-09-06T00:00:12.000Z",
+   "title": "How to Install Jenkins on an Ubuntu EC2 Instance",
+   "link": "https://dev.to/sumit-jha/how-to-install-jenkins-on-an-ubuntu-ec2-instance-16em",
+   "date": "2026-09-06T08:00:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Python Logging: Best Practices for Production Apps tags: python, logging, devops, tutorial tags: python, logging, devops, tutorial tags: python, logging, devops, tutorial tags: python, logging, devops, tutorial tags: pyt",
+   "summary": "Learn how to install Jenkins on an Ubuntu EC2 instance step by step, configure Java, start the Jenkins service, open the required port, and access Jenkins from your browser. Jenkins is one of the most widely used automat",
    "image": null
   },
   {
-   "title": "How to Deploy Python Apps with Docker Compose",
-   "link": "https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-2dp4",
-   "date": "2026-09-06T00:00:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "How to Deploy Python Apps with Docker Compose tags: python, docker, devops, tutorial tags: python, docker, devops, tutorial tags: python, docker, devops, tutorial tags: python, docker, devops, tutorial tags: python, dock",
+   "title": "A Week of Symfony #1027 (August 31 – September 6, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1027-august-31-september-6-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-06T07:46:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony 6.4.45, 7.4.18, and 8.1.6 were released with numerous bug fixes and hardening improvements. Meanwhile, we introduced symfony lsp:check, a new command that brings Symfony-aware diagnostics to your CI pi",
+   "image": null
+  },
+  {
+   "title": "Gspikes: Drupal 11 Adoption Tracker: The Curve, the Cliff, and 260,000 Sites",
+   "link": "https://gspikes.com/drupal-11-adoption-tracker/",
+   "date": "2026-09-06T04:01:20.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal 11 is on 36% of reporting Drupal sites — and climbing at roughly half the speed Drupal 10 managed at the same age. On 9 December 2026 Drupal 10 reaches end of life, and the share of the Drupal web running unsuppor",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats",
+   "link": "https://postgr.es/p/9tZ",
+   "date": "2026-09-06T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's oldest logging parameters measure CPU time, page faults, and context switches per statement—crude but irreplaceable when you need to know why a…",
    "image": null
   },
   {
@@ -442,16 +482,6 @@
    "image": "https://people.planetpostgresql.org/devrim/uploads/Screenshot_From_2026-09-03_17-53-06.png"
   },
   {
-   "title": "Golems GABB: Beyond Table-Based Nightmares: A Technical Deep Dive into Drupal's MJML Render Engine",
-   "link": "https://gole.ms/blog/beyond-table-based-nightmares-technical-deep-dive-drupals-mjml-render-engine",
-   "date": "2026-09-03T14:12:14.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Beyond Table-Based Nightmares: A Technical Deep Dive into Drupal's MJML Render Engine admin Thu, 09/03/2026 - 17:12 The Legacy Email Problem: Broken Layouts and Fragile Twig Templates Within modern web development, gener",
-   "image": "https://gole.ms/sites/default/files/styles/blog_teaser_feed/public/2026-09/clipboard-202609031424-ipwpf.png?itok=QX5Apl8O"
-  },
-  {
    "title": "Andrei Lepikhov: Why is numeric so popular in PostgreSQL databases?",
    "link": "https://postgr.es/p/9tS",
    "date": "2026-09-03T13:45:27.000Z",
@@ -500,16 +530,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.30 adds chunkBy() to collections and lazy collections, splitting sorted data into runs of matching items without loading it all into memory. The post Group Adjacent Collection Items in Laravel with chunkBy() a",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-30-chunkby-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_replication_commands",
-   "link": "https://postgr.es/p/9tM",
-   "date": "2026-09-03T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "log_replication_commands is log_statement = all for walsenders, with the one difference that you should turn it on. A replication connection (replication=1 for physical, replication=database for logical) speaks a small l",
-   "image": null
   },
   {
    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -610,16 +630,6 @@
    "source": "Symfony Blog",
    "summary": "The API Platform Conference, the international event dedicated to the API Platform framework and its ecosystem, will take place in two weeks in Lille, France, on September 17–18, 2026. Nearly 30 talks are scheduled, in b",
    "image": "https://symfony.com/uploads/assets/blog/api-platform-2026-1200x800.png"
-  },
-  {
-   "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-   "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-   "date": "2026-09-02T14:16:42.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the",
-   "image": null
   },
   {
    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
@@ -1080,16 +1090,6 @@
    "source": "CSS-Tricks",
    "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
    "image": null
-  },
-  {
-   "title": "Symfony Language Tools: A Busy First Week",
-   "link": "https://symfony.com/blog/symfony-language-tools-a-busy-first-week?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-23T11:04:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "On August 17, we announced Symfony Language Tools, the official Symfony language server. Six days and ten releases later, version 0.16 is out. We have added a lot of features: the server now understands applications that",
-   "image": "https://raw.githubusercontent.com/symfony/language-tools/main/editor/vscode/images/blog/0.16/twig-callables.gif"
   },
   {
    "title": "Resolved: CSS Class Prefix Selector",
