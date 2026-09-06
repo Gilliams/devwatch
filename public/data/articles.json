@@ -1,25 +1,105 @@
 {
- "generatedAt": "2026-09-06T09:23:45.103Z",
+ "generatedAt": "2026-09-06T14:07:54.774Z",
  "articles": [
   {
-   "title": "Czym jest Docker i jak go używać — przewodnik z przykładami",
-   "link": "https://dev.to/andrzej_klusiewicz_08588c/czym-jest-docker-i-jak-go-uzywac-przewodnik-z-przykladami-17le",
-   "date": "2026-09-06T09:18:46.000Z",
+   "title": "Why Your DevOps Projects Fail: 7 Mistakes Beginners Make",
+   "link": "https://dev.to/yash_sonawane25/why-your-devops-projects-fail-7-mistakes-beginners-make-55i3",
+   "date": "2026-09-06T13:41:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Docker zmienił sposób w jaki wdrażamy aplikacje. Pokazuję od podstaw czym jest, jak działa i jak zacząć go realnie używać, na konkretnych przykładach. obraz zbudowany raz Laptop programisty Serwer / produkcja Chmura Zbud",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fjsystems.pl%2Fstatic%2Fimages%2Flogo-colored.svg"
+   "summary": "Learning DevOps is exciting. You learn Linux, Git, Docker, Kubernetes, Terraform, CI/CD and cloud platforms. You build a project. Everything works. Then you try to explain your project in an interview and suddenly realiz",
+   "image": null
   },
   {
-   "title": "Kurs administracji PostgreSQL — jak wybrać dobry prework",
-   "link": "https://dev.to/andrzej_klusiewicz_08588c/kurs-administracji-postgresql-jak-wybrac-dobry-prework-1hb2",
-   "date": "2026-09-06T09:18:26.000Z",
+   "title": "Top 254 Places to Buy Verified Bybit Accounts for Secure In the ...",
+   "link": "https://dev.to/thch109/top-254-places-to-buy-verified-bybit-accounts-for-secure-in-the--20bd",
+   "date": "2026-09-06T13:38:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Przed kursem administracji PostgreSQL warto dobrze przygotować środowisko. Pokazuję na co zwrócić uwagę wybierając prework i jak uniknąć typowych problemów na starcie. Do udziału w warsztatowej części kursu będzie Ci pot",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo76gcg81nej628tx85kv.jpg"
+   "summary": "Buy Verified ByBit Account from PROGMB: Secure, Hassle-Free and Reliable Crypto Trading Solution! progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-bybit-accounts/ When it comes to cryptocurrency tradi",
+   "image": null
+  },
+  {
+   "title": "CI/CD Reliability: When Your Deploy Pipeline is Your SPOF",
+   "link": "https://dev.to/samson_tanimawo/cicd-reliability-when-your-deploy-pipeline-is-your-spof-3fln",
+   "date": "2026-09-06T13:36:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Invisible SPOF Every engineering org has a single point of failure that nobody lists on their risk registry: the deploy pipeline itself. When CI/CD breaks, you can't ship features. You can't deploy hotfixes. You can'",
+   "image": null
+  },
+  {
+   "title": "Building KomeVerse: Where Games Meet Technology",
+   "link": "https://dev.to/komestudio/building-komeverse-where-games-meet-technology-16b5",
+   "date": "2026-09-06T13:20:34.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Kome Studio is a small independent studio from Vietnam building something we hope can grow far beyond a single game: KomeVerse. KomeVerse is our long-term creative universe — a collection of games, characters, stories, a",
+   "image": null
+  },
+  {
+   "title": "A permission check should return a denial, not False",
+   "link": "https://dev.to/shipmindlabs/a-permission-check-should-return-a-denial-not-false-3d6c",
+   "date": "2026-09-06T13:20:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most Django backends answer authorization questions with a boolean, and everything the check knew gets thrown away on the way out. A courier's app shows a refund button that returns 403, support asks why, and nobody can ",
+   "image": null
+  },
+  {
+   "title": "Sparring Prep: what we learned building Random Tactical Timer",
+   "link": "https://dev.to/igorganapolsky/sparring-prep-what-we-learned-building-random-tactical-timer-52c4",
+   "date": "2026-09-06T13:20:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What changed today chore(analytics): refresh marketing snapshots from wiki-sync chore(play): refresh play_iap_catalog.json from IAP readback chore(analytics): refresh marketing snapshots from wiki-sync chore(analytics): ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Figorganapolsky.github.io%2FRandom-Timer%2Fmarketing%2Fsite%2Fdiagrams%2F2026-09-06-sparring-prep-what-we-learned-building-random-tactical-timer.svg"
+  },
+  {
+   "title": "copycopy.site by Inithouse: structured handoff cards you can generate from a URL, with JSON for agents",
+   "link": "https://dev.to/jakub_inithouse/copycopysite-by-inithouse-structured-handoff-cards-you-can-generate-from-a-url-with-json-for-420j",
+   "date": "2026-09-06T13:19:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "copycopy.site is a free structured handoff tool by Inithouse. You paste logins, DNS records, an invoice or a screenshot, you get one link where every value has its own copy button, and both sides see which values have be",
+   "image": null
+  },
+  {
+   "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/06/building-a-real-time-3d-face-mask-with-mediapipe-threlte-and-three-js/",
+   "date": "2026-09-06T13:09:52.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Learn how MediaPipe’s face landmarks, Google’s canonical face model, and Three.js come together to create a real-time textured 3D face mask.",
+   "image": null
+  },
+  {
+   "title": "Top 11 Platforms to Buy Verified YooMoney Accounts 2027",
+   "link": "https://dev.to/jovin59548/top-11-platforms-to-buy-verified-yoomoney-accounts-2027-2d74",
+   "date": "2026-09-06T13:01:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Verified Yoomoney Accounts ▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀 ▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737 ▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤Email: pr",
+   "image": null
+  },
+  {
+   "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+   "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+   "date": "2026-09-06T09:32:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
   },
   {
    "title": "Quoting Zach Kehs",
@@ -32,64 +112,14 @@
    "image": null
   },
   {
-   "title": "Local Kubernetes Dev — Part 13: Making your local setup truly production-like",
-   "link": "https://dev.to/mtrnm/local-kubernetes-dev-part-13-making-your-local-setup-truly-production-like-4gka",
-   "date": "2026-09-06T08:23:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "\"Works on my laptop\" ≠ \"survives in prod.\" And you can verify almost all of that difference locally in k3d. Probe behavior, restarts from liveness, how a rolling update proceeds, how the app shuts down on a signal — k3d ",
-   "image": null
-  },
-  {
-   "title": "Debugging Async/Await Deadlocks in JavaScript – Common Pitfalls & Fixes",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/debugging-asyncawait-deadlocks-in-javascript-common-pitfalls-fixes-1f9",
-   "date": "2026-09-06T08:14:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Asynchronous code is the backbone of modern JavaScript applications, but when async/await is misused it can lead to deadlocks that freeze your service. In this post we’ll explore why deadlocks happen, how to",
-   "image": null
-  },
-  {
-   "title": "A Green Free Server Is Not a Repro: Six FAQ Myths",
-   "link": "https://dev.to/gitlab_3188/a-green-free-server-is-not-a-repro-six-faq-myths-56dd",
-   "date": "2026-09-06T08:02:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Have you ever merged because a free box went green? I have done that more than once. The job felt cheap. The result was not a repro. Free models hide one trap. Free servers hide a second trap. People treat both like a la",
-   "image": null
-  },
-  {
-   "title": "How to Stream Container Logs to Loki",
-   "link": "https://dev.to/chasebot/how-to-stream-container-logs-to-loki-36hj",
-   "date": "2026-09-06T08:01:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What You'll Need Hetzner VPS or Contabo VPS running Ubuntu 22.04 or 24.04 DigitalOcean droplets as an alternative cloud infrastructure option Namecheap for domain management and reverse proxy routing n8n Cloud or self-ho",
-   "image": null
-  },
-  {
-   "title": "Kubernetes Concepts Explained Simply",
-   "link": "https://dev.to/cloudfrontier/kubernetes-concepts-explained-simply-a90",
-   "date": "2026-09-06T08:01:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Kubernetes Concepts Explained Simply If you've ever tried to learn Kubernetes, you've probably felt like you're drowning in jargon: pods, services, deployments, ingress, nodes, clusters. It's a lot. But underneath all th",
-   "image": null
-  },
-  {
-   "title": "How to Install Jenkins on an Ubuntu EC2 Instance",
-   "link": "https://dev.to/sumit-jha/how-to-install-jenkins-on-an-ubuntu-ec2-instance-16em",
-   "date": "2026-09-06T08:00:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Learn how to install Jenkins on an Ubuntu EC2 instance step by step, configure Java, start the Jenkins service, open the required port, and access Jenkins from your browser. Jenkins is one of the most widely used automat",
-   "image": null
+   "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+   "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+   "date": "2026-09-06T08:34:20.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
   },
   {
    "title": "A Week of Symfony #1027 (August 31 – September 6, 2026)",
@@ -270,26 +300,6 @@
    "source": "Simon Willison",
    "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This",
    "image": null
-  },
-  {
-   "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-   "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-   "date": "2026-09-04T15:57:15.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-  },
-  {
-   "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-   "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-   "date": "2026-09-04T15:20:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
   },
   {
    "title": "Beyond the Luminance Ramp: A Shape-Aware ASCII Renderer in Three.js",
@@ -612,16 +622,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -670,16 +670,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -799,16 +789,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -940,16 +920,6 @@
    "source": "Percona Blog",
    "summary": "1. Purpose and scope This performance investigation aims to look into the read/write performance of Percona Server for MySQL 8.4 and how it changed between versions released in 2026: 8.4.8-8 released on 12 March 2026 8.4",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
-   "link": "https://tympanus.net/codrops/2026/08/27/goodgrowth-boot-sequences-spinning-discs-and-the-art-of-the-portfolio/",
-   "date": "2026-08-27T11:26:31.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Discover the process behind Goodgrowth, from its console-inspired concept to the 3D, motion, sound, and technical details that bring the experience to life.",
-   "image": null
   },
   {
    "title": "PHP 8.6.0 Beta 2 available for testing",
@@ -1162,6 +1132,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1210,6 +1190,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
