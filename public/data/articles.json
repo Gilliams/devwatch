@@ -1,85 +1,175 @@
 {
- "generatedAt": "2026-09-07T10:12:37.862Z",
+ "generatedAt": "2026-09-07T16:25:43.274Z",
  "articles": [
   {
-   "title": "Our mechanisms are experiences, made code",
-   "link": "https://dev.to/bryanw/our-mechanisms-are-experiences-made-code-5fi7",
-   "date": "2026-09-07T10:05:01.000Z",
+   "title": "Production-Grade Kubernetes, IaC & GitOps Automation: A Practical Engineering Blueprint",
+   "link": "https://dev.to/egor_ehoris/production-grade-kubernetes-iac-gitops-automation-a-practical-engineering-blueprint-3nj1",
+   "date": "2026-09-07T16:04:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 4 AM last night our security sentinel went red and accused our own journal of being poisoned. It was the third alarm of the night. All three turned out to be wrong in three completely different ways — and the autopsie",
+   "summary": "Engineering teams managing modern cloud applications frequently struggle with configuration drift, slow deployment velocity, and complex multi-cloud deployments. When infrastructure is provisioned through manual console ",
    "image": null
   },
   {
-   "title": "Android app made ready to submit: demo mode, tests, and signing",
-   "link": "https://dev.to/robswierk/android-app-made-ready-to-submit-demo-mode-tests-and-signing-5ee5",
+   "title": "On-Premises LLM Gateways for SRE: Architecture, Security, and Compliance Considerations",
+   "link": "https://dev.to/npayyappilly/on-premises-llm-gateways-for-sre-architecture-security-and-compliance-considerations-1fo0",
+   "date": "2026-09-07T16:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In February 2024, a major financial services firm evaluating an AIOps platform for incident response discovered that the vendor's root cause analysis feature was sending structured incident telemetry — including service ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh5xaw3gixhgyhsbph2ya.png"
+  },
+  {
+   "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+   "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+   "date": "2026-09-07T15:51:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-Zo4zgxCrVcz6-00WV2qAPHSD-av2Ed5hgRmR-2vUzkr9jVeph0NNb6gGsQfwSkFyuRfRcSsaISSpfysl_Xx5F48IM7HdBpO4F3CaVuLhk1v0a4vcH5xK_bxX6BxIjkfAjhDaNGcLG7_R9IcTjVGlFcW7y1ZV64imACHi9528LOjH1Flhk-cy9LFgrMv/s1600/phish-ms.jpg"
+  },
+  {
+   "title": "Top 234 Websites To Buy Old Gmail Accounts (New & Bulk)",
+   "link": "https://dev.to/bsjlll6911/top-234-websites-to-buy-old-gmail-accounts-new-bulk-5g13",
+   "date": "2026-09-07T15:43:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Gmail Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-gmail-accounts-2/ Buy Gmail Accounts. In today’s digital age, knowing how to buy Gmail account is not only useful—it’s essential. Whether you",
+   "image": null
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: Unveiling the workshop lineup!",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-unveiling-the-workshop-lineup?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-07T15:35:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "We are counting down to SymfonyCon Warsaw 2026, taking place on November 26-27, 2026, in Warsaw (Poland)! Get ready for a week full of workshops, sessions, and community magic. Great news today: all workshops are now onl",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "OpenCode Go now requires x-opencode-session — here's why and how to fix it",
+   "link": "https://dev.to/flabstech/opencode-go-now-requires-x-opencode-session-heres-why-and-how-to-fix-it-27m8",
+   "date": "2026-09-07T15:34:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What happened If you're using OpenCode Go (the $10/month subscription for open coding models) and your AI assistant broke today, you're not alone. OpenCode started enforcing a previously optional header: x-opencode-sessi",
+   "image": null
+  },
+  {
+   "title": "Top 359 Sites To Bu~y, Old Github Accounts In This Year.2027",
+   "link": "https://dev.to/bsjlll6911/top-359-sites-to-buy-old-github-accounts-in-this-year2027-46a2",
+   "date": "2026-09-07T15:31:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Aged GitHub Account progmb.contact@gmail.com https://www.progmb.com/product/buy-aged-github-account/ Buy Aged GitHub Account Details & Features Aged GitHub Account: ✮ Phone number verified ✮ 100% recovery added ✮ Acc",
+   "image": null
+  },
+  {
+   "title": "Nginx, Explained Through a Busy Restaurant",
+   "link": "https://dev.to/dev-alamin/nginx-explained-through-a-busy-restaurant-5bg2",
+   "date": "2026-09-07T15:31:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Nginx, Explained Through a Busy Restaurant 🍽️ If you've ever tried to explain Nginx to someone non-technical — or honestly, tried to build a clean mental model of it yourself — this analogy might help more than any diag",
+   "image": null
+  },
+  {
+   "title": "Eleven Free Homelab Tools for the Questions Guides Skip",
+   "link": "https://dev.to/josh_hall_b54941047f33661/eleven-free-homelab-tools-for-the-questions-guides-skip-203l",
+   "date": "2026-09-07T15:20:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every guide I write ends in the same handful of questions. How much hardware do I actually need? What happens when one box dies? Are my backups real or just a feeling? A guide can walk you through a setup, but it can't d",
+   "image": null
+  },
+  {
+   "title": "Modern Digital Asset Platform",
+   "link": "https://dev.to/kycidea22/modern-digital-asset-platform-5chc",
+   "date": "2026-09-07T15:18:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "ONUS is a digital asset platform that is created for the people who wish to have convenient access to cryptocurrency and blockchain related services. An ONUS account can offer features to handle digital assets, explore s",
+   "image": null
+  },
+  {
+   "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+   "date": "2026-09-07T14:36:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1600/recaps.jpg"
+  },
+  {
+   "title": "Drawing With Light: An Exploration of Lit GPU Tubes with TSL and WebGPU",
+   "link": "https://tympanus.net/codrops/2026/09/07/drawing-with-light-an-exploration-of-lit-gpu-tubes-with-tsl-and-webgpu/",
+   "date": "2026-09-07T14:01:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "How a meshline habit turned into a tube renderer, and the three ways I got the maths wrong along the way.",
+   "image": null
+  },
+  {
+   "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+   "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+   "date": "2026-09-07T11:45:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAkHa8CDEfDzL0HknvyLE5eRK8r91iyhgzpCS1GmG3HRtriZYYFzCTP9_H433YsqJ80SAppgs9g6rOhsTWIzHPh_CFcZJS18DIj5ANgzFwSU0vfcyJofTEqEvjGGjNcqZdHU_54PENNzxawWHCZ2r_1K-A63x3P8CbuIiu8OHASjQV3OoglWTefAF2dZw/s1600/intruder.jpg"
+  },
+  {
+   "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+   "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+   "date": "2026-09-07T11:36:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWA_nxvqJuKkqq0ab1I-XR1YtpsM6BadhHDNOIheZmBflLWaQ018JFJsAUBVuyWWTYI4pyT8OQNXhui8Annde3SnOIScH9B0ohMq-OzXLjvPeAXQnz4mAUdEMS_07i7gLaWqPVpHaPvyLJdZQKUTs2MLGhjB9UZ0A83CGcSeDCJFKn7hNjiyf6dbzbHogp/s1600/screen.jpg"
+  },
+  {
+   "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+   "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+   "date": "2026-09-07T11:20:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progres",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwlnNFKd-mH5uyY-AjtXSVx57m9MDT4WRtoQStPY9HoNxOP3ps7znRzENJAK7ZzF4homlCzVGVPFuFZ1sXYGciKyA3rZN_NYewwTXhwpRxCUFaPmUmdgP_TdJQtf57falTD12A0GJewAS23pnxttANQ1meOeRFnr_IqZqAngg0rc9ov998VwQlANB0cE/s1600/tel.jpg"
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 34 & 35",
+   "link": "https://postgr.es/p/9t_",
+   "date": "2026-09-07T10:52:28.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 26 August 2026, the Adelaide PostgreSQL User Group met, organized by Robins Tharakan. Shadab Mohammad and Robins Tharakan delivered a talk. On 26 August, the Sydney PostgreSQL User Group met, organized by Shadab Moham",
+   "image": null
+  },
+  {
+   "title": "Très Bien Blog: composer drupal-patch-check",
+   "link": "https://tresbien.tech/blog/composer-drupal-patch-check/",
    "date": "2026-09-07T10:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The duratio Android app built cleanly but was not fit for the Play Store. Three problems existed at the same time, and any one of them alone would have caused a rejection. The biggest was the demo mode. The code DEMO-000",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "composer drupal-patch-check A composer plugin created to make it easy for humans to upgrade their patched Drupal websites. If you ever wanted to know if you still needed that patch after an update, or if your custom patc",
    "image": null
-  },
-  {
-   "title": "Exploring Platform Engineering: A Career Path for Programming, Tech, Linux, and System Architecture Enthusiasts",
-   "link": "https://dev.to/maricode/exploring-platform-engineering-a-career-path-for-programming-tech-linux-and-system-architecture-4dkj",
-   "date": "2026-09-07T09:33:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction to Platform Engineering Platform engineering sits at the intersection of software development and system infrastructure, making it a compelling career path for those passionate about programming, technology,",
-   "image": null
-  },
-  {
-   "title": "How to use AI Code Reviewer for solo devs",
-   "link": "https://dev.to/xavvyness/how-to-use-ai-code-reviewer-for-solo-devs-129b",
-   "date": "2026-09-07T09:32:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI Code Review: Catching What Humans Miss As a solo developer on the popular open-source project, I've spent countless hours manually reviewing code for security vulnerabilities and performance issues. Last week alone, I",
-   "image": null
-  },
-  {
-   "title": "From Zero to Commits: A Modern Developer’s Guide to Git and GitHub in 2026",
-   "link": "https://dev.to/ojo_miracle_991d3e0c315e4/from-zero-to-commits-a-modern-developers-guide-to-git-and-github-in-2026-234p",
-   "date": "2026-09-07T09:25:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Master Git and GitHub in 2026 with this technical guide by Peter Allen. Learn branching strategies, merge conflict resolution, CI/CD pipelines, and state recovery using a real backend project. By Peter Allen The first ti",
-   "image": null
-  },
-  {
-   "title": "Did the Agent Finish, or Did the Box Just Stop?",
-   "link": "https://dev.to/gitlab_3188/did-the-agent-finish-or-did-the-box-just-stop-2o7c",
-   "date": "2026-09-07T09:22:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Did your agent really finish the job this time? I keep hearing the same five claims on reviews. This FAQ treats each claim as a testable myth. This is a verification habit, not a product tour. Disclosure: This article wa",
-   "image": null
-  },
-  {
-   "title": "Seal the Oracle Before You Merge an Agent Patch",
-   "link": "https://dev.to/datacpp_8185/seal-the-oracle-before-you-merge-an-agent-patch-525a",
-   "date": "2026-09-07T09:19:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An agent patch is evidence only if production code is the writable tree. Fixtures, generators, and flake policy have to live outside that tree. If the model can rewrite expected values, loosen a schema, or convert a flak",
-   "image": null
-  },
-  {
-   "title": "How to Build a Real Estate App for Buying and Selling Properties",
-   "link": "https://dev.to/seo_lilac_/how-to-build-a-real-estate-app-for-buying-and-selling-properties-33ko",
-   "date": "2026-09-07T09:07:59.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The real estate industry is rapidly moving toward digital platforms. A well-designed real estate app helps buyers, sellers, agents, brokers, and property developers search, list, and manage properties from anywhere. For ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh68qz3xwfdjsrj3zo1e.webp"
   },
   {
    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
@@ -100,6 +190,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javas",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
+  },
+  {
+   "title": "Laravel Rulebook: Business Rules That Change by Date",
+   "link": "https://laravel-news.com/laravel-rulebook?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-07T03:54:58.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Rulebook resolves which version of a business rule applied on a given date, returns one winner, and explains why every other rule lost. The post Laravel Rulebook: Business Rules That Change by Date appeared first",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Rulebook-LN.png"
   },
   {
    "title": "Research acceleration: The view inside OpenAI",
@@ -182,16 +282,6 @@
    "image": null
   },
   {
-   "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-   "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-   "date": "2026-09-06T08:34:20.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
-  },
-  {
    "title": "A Week of Symfony #1027 (August 31 – September 6, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1027-august-31-september-6-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-06T07:46:00.000Z",
@@ -232,36 +322,6 @@
    "image": null
   },
   {
-   "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-   "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-   "date": "2026-09-05T20:14:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg"
-  },
-  {
-   "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-   "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-   "date": "2026-09-05T16:52:33.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
-  },
-  {
-   "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-   "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-   "date": "2026-09-05T16:05:08.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
-  },
-  {
    "title": "Using Blender with coding agents on macOS",
    "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
    "date": "2026-09-05T15:51:09.000Z",
@@ -270,16 +330,6 @@
    "source": "Simon Willison",
    "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.or",
    "image": null
-  },
-  {
-   "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-   "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-   "date": "2026-09-05T14:17:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
   },
   {
    "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
@@ -432,16 +482,6 @@
    "image": "https://seedfa.st/blog/session-replication-role-2.svg"
   },
   {
-   "title": "Laravel queue:work Now Prints Why the Worker Stopped",
-   "link": "https://laravel-news.com/laravel-queue-worker-stop-reasons?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-03T19:52:30.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.30 writes the queue worker's stop reason to queue:work output, in plain text and as a structured JSON record for log pipelines. The post Laravel queue:work Now Prints Why the Worker Stopped appeared first on L",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-queue-worker-stop-reasons.png"
-  },
-  {
    "title": "Kubernetes v1.37: DRA Updates",
    "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
    "date": "2026-09-03T18:30:00.000Z",
@@ -449,16 +489,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight",
-   "image": null
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #568 - Off The Cuff #12",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-568-off-the-cuff-12",
-   "date": "2026-09-03T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Drupal Performance, Rapid Development, and Drupal Canvas Maturity with our hosts. We'll also cover Microsoft 365 FullCalendar as our module of the week. For show notes visit: https://www.talkin",
    "image": null
   },
   {
@@ -529,16 +559,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Dimitri Fontaine: Getting Ready for PostgreSQL 19",
-   "link": "https://postgr.es/p/9tO",
-   "date": "2026-09-03T13:09:30.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL 19 Beta 3 shipped on August 13, 2026, and the release notes have been filled in as of 2026-07-18 — still marked subject to change, and the GA date isn’t announced yet, but following the project’s usual Septemb",
    "image": null
   },
   {
@@ -622,16 +642,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -680,16 +690,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -762,36 +762,6 @@
    "image": null
   },
   {
-   "title": "Volatile Nexus: Tinkering with Glass, Caustics, Cubes and Sound in Three.js",
-   "link": "https://tympanus.net/codrops/2026/08/31/volatile-nexus-tinkering-with-glass-caustics-cubes-and-sound-in-three-js/",
-   "date": "2026-08-31T15:59:38.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "A mesmerizing Three.js experiment where glass, wandering cubes, caustics, refractions, and sound come together in a fluid, interactive scene.",
-   "image": null
-  },
-  {
-   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-   "link": "https://css-tricks.com/css-random-function-polyfill/",
-   "date": "2026-08-31T15:12:19.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
-   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-   "link": "https://css-tricks.com/whats-important-18/",
-   "date": "2026-08-31T14:08:55.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-   "image": null
-  },
-  {
    "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
    "link": "https://symfony.com/blog/introducing-symfony-lsp-check-symfony-aware-diagnostics-in-your-ci?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-31T12:03:00.000Z",
@@ -809,16 +779,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -912,16 +872,6 @@
    "image": null
   },
   {
-   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-   "date": "2026-08-27T14:41:06.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
-   "image": null
-  },
-  {
    "title": "Benchmarking vector indexes",
    "link": "https://www.percona.com/blog/benchmarking-vector-indexes/",
    "date": "2026-08-27T13:35:32.000Z",
@@ -960,26 +910,6 @@
    "source": "PHP.net",
    "summary": "The PHP team is pleased to announce a new beta release of PHP 8.6.0, Beta 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 2 ple",
    "image": null
-  },
-  {
-   "title": "animation-trigger",
-   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-   "date": "2026-08-26T15:38:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
-   "image": null
-  },
-  {
-   "title": "Symfony Reprise 1.0.0 released",
-   "link": "https://symfony.com/blog/symfony-reprise-1-0-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-26T14:41:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Reprise was introduced on this blog a few weeks ago, and the pitch has not changed: it is a thin plugin, not a build tool. Vite and Rsbuild do the real work (bundling, hashing, source maps, HMR, the dev server); Reprise ",
-   "image": "https://github.com/Kocal.png"
   },
   {
    "title": "Navigating the Walled Gardens of PostgreSQL: Hidden Risks of Postgres Vendor Lock-in",
@@ -1042,16 +972,6 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
-   "title": "MicroLighter: Syntax Highlighter",
-   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-   "date": "2026-08-25T14:10:34.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
    "title": "Last Call for the State of PHP Survey",
    "link": "https://www.php.net/index.php#2026-08-25-1",
    "date": "2026-08-25T08:38:33.000Z",
@@ -1079,26 +999,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of th",
-   "image": null
-  },
-  {
-   "title": "WordPress PHP-Only Block Registration",
-   "link": "https://css-tricks.com/wordpress-php-block-registration/",
-   "date": "2026-08-24T13:54:02.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
-   "image": null
-  },
-  {
-   "title": "Resolved: CSS Class Prefix Selector",
-   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-   "date": "2026-08-21T15:13:03.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
    "image": null
   },
   {
@@ -1142,16 +1042,6 @@
    "image": null
   },
   {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
-   "image": null
-  },
-  {
    "title": "LonghornPHP 2026",
    "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
    "date": "2026-08-18T10:14:50.000Z",
@@ -1159,6 +1049,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -1210,6 +1110,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
