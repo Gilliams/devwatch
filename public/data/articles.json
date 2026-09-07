@@ -1,65 +1,105 @@
 {
- "generatedAt": "2026-09-07T00:58:31.301Z",
+ "generatedAt": "2026-09-07T10:12:37.862Z",
  "articles": [
   {
-   "title": "Why Security Headers Break in Production: 5 Traps Every Engineer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-security-headers-break-in-production-5-traps-every-engineer-hits-3kkb",
-   "date": "2026-09-07T00:34:09.000Z",
+   "title": "Our mechanisms are experiences, made code",
+   "link": "https://dev.to/bryanw/our-mechanisms-are-experiences-made-code-5fi7",
+   "date": "2026-09-07T10:05:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Security audits and compliance checklists always recommend the same baseline: add HTTP security headers. Tools like OWASP ZAP and automated scanners flag your site until you configure Content Security Policy (CSP), HTTP ",
+   "summary": "At 4 AM last night our security sentinel went red and accused our own journal of being poisoned. It was the third alarm of the night. All three turned out to be wrong in three completely different ways — and the autopsie",
    "image": null
   },
   {
-   "title": "Announcing Oculix.io",
-   "link": "https://dev.to/founder_ceo_bdd3c93d7fb38/announcing-oculixio-m63",
-   "date": "2026-09-07T00:33:02.000Z",
+   "title": "Android app made ready to submit: demo mode, tests, and signing",
+   "link": "https://dev.to/robswierk/android-app-made-ready-to-submit-demo-mode-tests-and-signing-5ee5",
+   "date": "2026-09-07T10:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hi all, I'm new here. After a layoff at the start of 2026 I contemplated starting a business. I launched oculix.io in June. About Oculix Our Mission What We Do Today DocPatch: Markdown-to-framework conversion (Docusaurus",
+   "summary": "The duratio Android app built cleanly but was not fit for the Play Store. Three problems existed at the same time, and any one of them alone would have caused a rejection. The biggest was the demo mode. The code DEMO-000",
    "image": null
   },
   {
-   "title": "Docker CrashLoopBackOff: Complete Debugging Guide and Fixes for Kubernetes",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/docker-crashloopbackoff-complete-debugging-guide-and-fixes-for-kubernetes-h0",
-   "date": "2026-09-07T00:23:04.000Z",
+   "title": "Exploring Platform Engineering: A Career Path for Programming, Tech, Linux, and System Architecture Enthusiasts",
+   "link": "https://dev.to/maricode/exploring-platform-engineering-a-career-path-for-programming-tech-linux-and-system-architecture-4dkj",
+   "date": "2026-09-07T09:33:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction If you’ve ever seen a pod stuck in CrashLoopBackOff while working with Docker containers on Kubernetes, you know how frustrating it can be. This guide walks software developers, engineers, and DevOps profess",
+   "summary": "Introduction to Platform Engineering Platform engineering sits at the intersection of software development and system infrastructure, making it a compelling career path for those passionate about programming, technology,",
    "image": null
   },
   {
-   "title": "Self‑Host Nitter When the Public Instance Blocks You",
-   "link": "https://dev.to/robust_true_try/self-host-nitter-when-the-public-instance-blocks-you-fpo",
-   "date": "2026-09-07T00:18:08.000Z",
+   "title": "How to use AI Code Reviewer for solo devs",
+   "link": "https://dev.to/xavvyness/how-to-use-ai-code-reviewer-for-solo-devs-129b",
+   "date": "2026-09-07T09:32:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Why You Might Need Your Own Nitter Instance The public Nitter instance you rely on starts returning errors or gets blocked by your ISP or network. Perhaps the instance operators shut it down temporarily, or Twitter's rat",
+   "summary": "AI Code Review: Catching What Humans Miss As a solo developer on the popular open-source project, I've spent countless hours manually reviewing code for security vulnerabilities and performance issues. Last week alone, I",
    "image": null
   },
   {
-   "title": "Bruno vs Postman: Git-Native Client vs Cloud Platform (2026)",
-   "link": "https://dev.to/kimcomplete/bruno-vs-postman-git-native-client-vs-cloud-platform-2026-b7e",
-   "date": "2026-09-07T00:04:12.000Z",
+   "title": "From Zero to Commits: A Modern Developer’s Guide to Git and GitHub in 2026",
+   "link": "https://dev.to/ojo_miracle_991d3e0c315e4/from-zero-to-commits-a-modern-developers-guide-to-git-and-github-in-2026-234p",
+   "date": "2026-09-07T09:25:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A source-based comparison of Bruno's Git-native, local-first API client and Postman's cloud platform — covering architecture, features, collaboration, privacy, and pricing. Bruno and Postman solve the same basic task — b",
+   "summary": "Master Git and GitHub in 2026 with this technical guide by Peter Allen. Learn branching strategies, merge conflict resolution, CI/CD pipelines, and state recovery using a real backend project. By Peter Allen The first ti",
    "image": null
   },
   {
-   "title": "19 Audit Nags in One Night: Making a Claude Code Stop Hook Detect Unattended Sessions",
-   "link": "https://dev.to/bokuwalily/19-audit-nags-in-one-night-making-a-claude-code-stop-hook-detect-unattended-sessions-12ni",
-   "date": "2026-09-07T00:00:03.000Z",
+   "title": "Did the Agent Finish, or Did the Box Just Stop?",
+   "link": "https://dev.to/gitlab_3188/did-the-agent-finish-or-did-the-box-just-stop-2o7c",
+   "date": "2026-09-07T09:22:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "My autonomous setup earns its keep precisely because Claude Code starts on its own and finishes on its own. The thing that nearly broke that setup was Claude Code itself. The biggest time sink for me over the past six mo",
+   "summary": "Did your agent really finish the job this time? I keep hearing the same five claims on reviews. This FAQ treats each claim as a testable myth. This is a verification habit, not a product tour. Disclosure: This article wa",
    "image": null
+  },
+  {
+   "title": "Seal the Oracle Before You Merge an Agent Patch",
+   "link": "https://dev.to/datacpp_8185/seal-the-oracle-before-you-merge-an-agent-patch-525a",
+   "date": "2026-09-07T09:19:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent patch is evidence only if production code is the writable tree. Fixtures, generators, and flake policy have to live outside that tree. If the model can rewrite expected values, loosen a schema, or convert a flak",
+   "image": null
+  },
+  {
+   "title": "How to Build a Real Estate App for Buying and Selling Properties",
+   "link": "https://dev.to/seo_lilac_/how-to-build-a-real-estate-app-for-buying-and-selling-properties-33ko",
+   "date": "2026-09-07T09:07:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The real estate industry is rapidly moving toward digital platforms. A well-designed real estate app helps buyers, sellers, agents, brokers, and property developers search, list, and manage properties from anywhere. For ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feh68qz3xwfdjsrj3zo1e.webp"
+  },
+  {
+   "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+   "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+   "date": "2026-09-07T08:31:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say tha",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg"
+  },
+  {
+   "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+   "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+   "date": "2026-09-07T07:53:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javas",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
   },
   {
    "title": "Research acceleration: The view inside OpenAI",
@@ -72,23 +112,13 @@
    "image": null
   },
   {
-   "title": "An Ollama tag that pulls and runs and has no working code in it. The same model at the same quantisation, elsewhere, is fine.",
-   "link": "https://dev.to/homelabpm/an-ollama-tag-that-pulls-and-runs-and-has-no-working-code-in-it-the-same-model-at-the-same-4lhd",
-   "date": "2026-09-06T23:08:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR: ollama pull qwen2.5-coder:3b-instruct-q3_K_M succeeds, ollama run streams at normal speed, and nothing anywhere reports a problem. On three trivial HumanEval-style tasks it produced no implementation at all — 0/3.",
-   "image": null
-  },
-  {
-   "title": "How to Install Jenkins on Ubuntu 24.04 Step by Step",
-   "link": "https://dev.to/dineshstack/how-to-install-jenkins-on-ubuntu-2404-step-by-step-1kii",
-   "date": "2026-09-06T23:00:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In this tutorial, I will show you step by step how to install Jenkins on Ubuntu 24.04 with a complete, production-tested command sequence — including the two traps that produce \"Package 'jenkins' has no installation cand",
+   "title": "PreviousNext: If you're using Twig's raw filter with Drupal, you're doing it wrong",
+   "link": "https://www.previousnext.com.au/blog/if-youre-using-twigs-raw-filter-drupal-youre-doing-it-wrong",
+   "date": "2026-09-06T23:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "With some recent security advisories for Cross Site Scripting (XSS), it feels like an opportune time to remind those who author Twig templates for Drupal: If you're using Twig's |raw filter, you're probably doing it wron",
    "image": null
   },
   {
@@ -262,26 +292,6 @@
    "image": null
   },
   {
-   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-   "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-   "date": "2026-09-05T07:55:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg"
-  },
-  {
-   "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-   "date": "2026-09-05T07:31:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_startup_progress_interval and log_recovery_conflict_waits",
    "link": "https://postgr.es/p/9tY",
    "date": "2026-09-05T01:00:00.000Z",
@@ -449,16 +459,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Today we are talking about Drupal Performance, Rapid Development, and Drupal Canvas Maturity with our hosts. We'll also cover Microsoft 365 FullCalendar as our module of the week. For show notes visit: https://www.talkin",
-   "image": null
-  },
-  {
-   "title": "Matt Glaman: Making the phpstan-drupal playground work for agents",
-   "link": "https://mglaman.dev/blog/making-phpstan-drupal-playground-work-agents?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
-   "date": "2026-09-03T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The phpstan-drupal playground exists to reproduce bugs. You paste PHP, run PHPStan with phpstan-drupal against a real Drupal core install, and share the result link in an issue. It never quite worked right, and I never g",
    "image": null
   },
   {
