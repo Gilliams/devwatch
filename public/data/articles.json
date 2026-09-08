@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-09-07T20:33:06.708Z",
+ "generatedAt": "2026-09-08T01:09:36.320Z",
  "articles": [
   {
-   "title": "Fixing Python Memory Leaks in Production – Proven Strategies & Tools",
-   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fixing-python-memory-leaks-in-production-proven-strategies-tools-k7f",
-   "date": "2026-09-07T20:14:50.000Z",
+   "title": "Why SSL/TLS Certificates Break in Production: 5 Real-World Traps Every Engineer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-ssltls-certificates-break-in-production-5-real-world-traps-every-engineer-hits-57kl",
+   "date": "2026-09-08T00:42:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Running Python services at scale is rewarding, but memory leaks can silently cripple your production environment. In this post we walk through how to detect, debug, and permanently fix Python memory leaks wh",
+   "summary": "Every engineer has experienced that sinking feeling: an alert fires at 2 a.m., or users report seeing \"Your connection is not private\" error screens. You check your reverse proxy dashboard and everything looks green. You",
    "image": null
   },
   {
-   "title": "The credential was live and dead at the same time, and the healthy half hid the other",
-   "link": "https://dev.to/elenarevicheva/the-credential-was-live-and-dead-at-the-same-time-and-the-healthy-half-hid-the-other-4b4p",
-   "date": "2026-09-07T19:51:37.000Z",
+   "title": "Fix SSL/TLS Certificate Handshake Failures – Step-by-Step Guide for DevOps & Developers",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/fix-ssltls-certificate-handshake-failures-step-by-step-guide-for-devops-developers-a7k",
+   "date": "2026-09-08T00:23:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published at aideazz.xyz — cross-posted here with canonical link. A field note from the AIdeazz AI Lab — a real incident on a live production system, written up from the logs. September 7, 2026. One access tok",
+   "summary": "Introduction SSL/TLS handshake failures are a common roadblock for developers, engineers, and DevOps teams. A broken handshake means encrypted traffic can’t be established, leading to service outages and frustrated users",
    "image": null
   },
   {
-   "title": "A product page built from its own AI film studio, and the prompts that kept being obeyed exactly",
-   "link": "https://dev.to/elenarevicheva/a-product-page-built-from-its-own-ai-film-studio-and-the-prompts-that-kept-being-obeyed-exactly-4mdi",
-   "date": "2026-09-07T19:50:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published at aideazz.xyz — cross-posted here with canonical link. A field note from the AIdeazz AI Lab — a real incident on a live production system, written up from the logs. September 4, 2026. Four generated",
+   "title": "llm 0.35",
+   "link": "https://simonwillison.net/2026/Sep/7/llm/",
+   "date": "2026-09-07T23:54:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
    "image": null
   },
   {
-   "title": "The audio was broken for a month, and the tool in the middle kept fixing it",
-   "link": "https://dev.to/elenarevicheva/the-audio-was-broken-for-a-month-and-the-tool-in-the-middle-kept-fixing-it-o8c",
-   "date": "2026-09-07T19:50:36.000Z",
+   "title": "I Grade AI Agent Code for a Living. Here's the 12-Point Checklist I Run Before Trusting Any of It.",
+   "link": "https://dev.to/marvinoka4/i-grade-ai-agent-code-for-a-living-heres-the-12-point-checklist-i-run-before-trusting-any-of-it-5adp",
+   "date": "2026-09-07T23:17:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published at aideazz.xyz — cross-posted here with canonical link. A field note from the AIdeazz AI Lab — a real incident on a live production system, written up from the logs. September 4, 2026. A voice reply ",
+   "summary": "Your agent produced 400 lines in nine seconds. It compiles. The tests pass. The demo works. None of that tells you whether it's correct. I evaluate agentic AI coding output against structured rubrics professionally - cor",
    "image": null
   },
   {
-   "title": "A Complete Guide to Writing Dockerfiles from Beginner to Production",
-   "link": "https://dev.to/ragibcs/a-complete-guide-to-writing-dockerfiles-from-beginner-to-production-3hc7",
-   "date": "2026-09-07T19:37:15.000Z",
+   "title": "OSTaaS - A system is not ready because we assume (Day 3)",
+   "link": "https://dev.to/ostaas/ostaas-a-system-is-not-ready-because-we-assume-day-3-58fe",
+   "date": "2026-09-07T23:17:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Docker শিখতে গেলে সবচেয়ে গুরুত্বপূর্ণ জিনিসগুলোর একটি হলো Dockerfile। অনেকে Dockerfile-কে শুধু কয়েকটি command-এর file হিসেবে দেখে: FROM node:22 COPY . . RUN npm install CMD [\"npm\", \"start\"] কিন্তু আসলে Dockerfile-এর প্রত",
+   "summary": "A system is not ready because we assume it works. Test it, capture evidence, remediate what matters and validate the outcome. OSTaaS.cloud turns technical activity into proof teams can use. https://ostaas.cloud/ Visit os",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/http%3A%2F%2F10.0.0.124%3A5000%2Fseed-pack%2Fserve%2Fsocial_posts%2F03_test_prove_improve.png"
+  },
+  {
+   "title": "OSTaaS - Keep the tools your teams already trust. (Day 2)",
+   "link": "https://dev.to/ostaas/ostaas-keep-the-tools-your-teams-already-trust-day-2-4p1l",
+   "date": "2026-09-07T23:16:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Keep the tools your teams already trust. OSTaaS.cloud connects source control, infrastructure, environments, testing, evidence and delivery into a practical workflow built around open technology. https://ostaas.cloud/ Vi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/http%3A%2F%2F10.0.0.124%3A5000%2Fseed-pack%2Fserve%2Fsocial_posts%2F02_your_tools_one_workflow.png"
+  },
+  {
+   "title": "OSTaaS - Open Source, Real Outcomes",
+   "link": "https://dev.to/ostaas/ostaas-open-source-real-outcomes-1p8d",
+   "date": "2026-09-07T23:11:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Open source should create options, not operational confusion. OSTaaS.cloud helps organizations discover, design, build, integrate, secure, test, operate and improve open-source solutions across the lifecycle. Explore: ht",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/http%3A%2F%2F10.0.0.124%3A5000%2Fseed-pack%2Fserve%2Fsocial_posts%2F01_open_source_real_outcomes.png"
+  },
+  {
+   "title": "Creepy crawlies",
+   "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+   "date": "2026-09-07T23:08:58.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend ",
    "image": null
   },
   {
-   "title": "Ten questions to answer before you route production traffic through someone else's LLM endpoint",
-   "link": "https://dev.to/seven7763/ten-questions-to-answer-before-you-route-production-traffic-through-someone-elses-llm-endpoint-oml",
-   "date": "2026-09-07T19:36:11.000Z",
+   "title": "Stop rebuilding from scratch: cache Docker layers on Cloud Build",
+   "link": "https://dev.to/gde/stop-rebuilding-from-scratch-cache-docker-layers-on-cloud-build-41m0",
+   "date": "2026-09-07T22:31:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every LLM endpoint's landing page says fast, reliable, compatible, secure. Those words are free. This is the list of questions that aren't free — the ones where the answer takes a vendor real work to be able to give, and",
+   "summary": "How BuildKit + Artifact Registry turn your CI/CD pipelines around: if nothing changed, uv doesn't re-download a single package. 📦 All the code in this article is on GitHub: tosun-si/docker-cloud-build-ci-cd-cache Early ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fekl9uynaxhuy0qzqtwmg.png"
+  },
+  {
+   "title": "Quoting Jakub Pachocki",
+   "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+   "date": "2026-09-07T22:26:25.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secur",
    "image": null
   },
   {
-   "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Steps 01-02)",
-   "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-steps-01-02-nog",
-   "date": "2026-09-07T19:27:17.000Z",
+   "title": "How to Fix SSL/TLS Certificate Handshake Failures – A Complete DevOps Guide",
+   "link": "https://dev.to/deep_fix_71a17f6aa38ff28a/how-to-fix-ssltls-certificate-handshake-failures-a-complete-devops-guide-14e4",
+   "date": "2026-09-07T22:13:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Following Kelsey Hightower's Kubernetes the Hard Way, but on my own Proxmox homelab. These are my notes on what I did and what's different from the original guide. As a DevOps engineer, I wanted to actually understand Ku",
+   "summary": "Introduction SSL/TLS handshake failures are a common pain point for developers and DevOps engineers. This guide walks you through the most frequent causes and provides step‑by‑step troubleshooting commands you can run ri",
    "image": null
   },
   {
-   "title": "Five Things Kubernetes Quietly Added to My Containers (And How Each One Broke a Confluent Service)",
-   "link": "https://dev.to/ramesh-yara/five-things-kubernetes-quietly-added-to-my-containers-and-how-each-one-broke-a-confluent-service-108m",
-   "date": "2026-09-07T19:24:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on Medium. When I moved a full Confluent Kafka stack into a Kubernetes cluster, five things broke. Each one looked like a configuration mistake I had made. None of them were. Every failure came from ",
+   "title": "Video compressor",
+   "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+   "date": "2026-09-07T18:29:07.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code fo",
    "image": null
   },
   {
@@ -90,6 +130,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code ex",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3-5bNylOMc_s8MAT2ibQnV33cnJXadwKPRXjYgAL0GcZWOXuwtM-s5HS4ryVu5ewnhfAqBtOiuSseLcUSyDIfxf5XKF6mAwrpyG-v3Y-siqjJY8I5zVEMXwfkKPwBNAqaO2sQFI-q2oA4MWiagZFUlknIPKADDfvOo8s2Ifsa_xBAojg1rD5ZGUErC85/s1600/chrome-malware.jpg"
+  },
+  {
+   "title": "Mercator ↔ Equal Earth",
+   "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+   "date": "2026-09-07T16:24:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Eq",
+   "image": null
   },
   {
    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
@@ -120,6 +170,16 @@
    "source": "The Hacker News",
    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1600/recaps.jpg"
+  },
+  {
+   "title": "Drawing With Light: An Exploration of Lit GPU Tubes with TSL and WebGPU",
+   "link": "https://tympanus.net/codrops/2026/09/07/drawing-with-light-an-exploration-of-lit-gpu-tubes-with-tsl-and-webgpu/",
+   "date": "2026-09-07T14:01:56.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "How a meshline habit turned into a tube renderer, and the three ways I got the maths wrong along the way.",
+   "image": null
   },
   {
    "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
@@ -252,6 +312,16 @@
    "image": null
   },
   {
+   "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/06/building-a-real-time-3d-face-mask-with-mediapipe-threlte-and-three-js/",
+   "date": "2026-09-06T13:09:52.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "Learn how MediaPipe’s face landmarks, Google’s canonical face model, and Three.js come together to create a real-time textured 3D face mask.",
+   "image": null
+  },
+  {
    "title": "There's No Limit to How Bad Code Can Get",
    "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
    "date": "2026-09-06T09:08:06.000Z",
@@ -259,16 +329,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare fo",
-   "image": null
-  },
-  {
-   "title": "Quoting Zach Kehs",
-   "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-   "date": "2026-09-06T08:42:49.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performa",
    "image": null
   },
   {
@@ -302,23 +362,13 @@
    "image": null
   },
   {
-   "title": "Introducing GPT-6 Astra for developers",
-   "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-   "date": "2026-09-05T23:27:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build m",
-   "image": null
-  },
-  {
-   "title": "Using Blender with coding agents on macOS",
-   "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-   "date": "2026-09-05T15:51:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.or",
+   "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/",
+   "date": "2026-09-05T12:50:25.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "An experimental Three.js demo that transforms images into flowing ribbons, weaving them together and unraveling them as they move across the screen.",
    "image": null
   },
   {
@@ -329,16 +379,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Track WAL replay progress on a primary, or diagnose why a standby stalled—two GUCs for the same startup question, answered only in the server log.",
-   "image": null
-  },
-  {
-   "title": "The Pelican comparison grid for Astra is pretty interesting",
-   "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-   "date": "2026-09-04T23:59:05.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I render",
    "image": null
   },
   {
@@ -372,13 +412,13 @@
    "image": null
   },
   {
-   "title": "OpenAI's rogue agents were caught communicating via public wikis",
-   "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-   "date": "2026-09-04T17:38:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This",
+   "title": "Beyond the Luminance Ramp: A Shape-Aware ASCII Renderer in Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/",
+   "date": "2026-09-04T15:01:38.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "The Codrops mark, rebuilt as a draggable solid and printed in ASCII on the GPU, where every character cell searches 95 glyphs for its own.",
    "image": null
   },
   {
@@ -462,6 +502,16 @@
    "image": null
   },
   {
+   "title": "From Rays to Meshes: Building Vercel’s Prism with vgpu",
+   "link": "https://tympanus.net/codrops/2026/09/03/from-rays-to-meshes-building-vercels-prism-with-vgpu/",
+   "date": "2026-09-03T16:01:06.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look at how Vercel’s vgpu creates a performant prism effect using shaders, geometry, glass, and adaptive rendering.",
+   "image": null
+  },
+  {
    "title": "The Laracon Archive",
    "link": "https://laravel-news.com/laracon-archive?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-03T15:06:21.000Z",
@@ -489,6 +539,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "The PostgreSQL documentation on numeric contains two statements that don't sit well together:\"especially recommended for storing monetary amounts and other quantities where exactness is required\" — and right away: \"calcu",
+   "image": null
+  },
+  {
+   "title": "More Three.js Speakers, More Ideas from Paris",
+   "link": "https://tympanus.net/codrops/2026/09/03/more-three-js-speakers-more-ideas-from-paris/",
+   "date": "2026-09-03T13:34:34.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "New voices from the first Three.js Conference share what they're building, experimenting with, and bringing to Paris.",
    "image": null
   },
   {
@@ -572,13 +632,13 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "title": "Breaking the Frame: Building a Real-Time Datamosh Effect with Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/02/breaking-the-frame-building-a-real-time-datamosh-effect-with-three-js/",
+   "date": "2026-09-02T14:36:45.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A hands-on exploration of how Three.js, shaders, and codec-inspired techniques can turn a scene transition into a convincing real-time datamosh effect.",
    "image": null
   },
   {
@@ -632,16 +692,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
   },
   {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
-  },
-  {
    "title": "htmx 4.0 takes HTML-driven apps further",
    "link": "https://frontendfoc.us/issues/756",
    "date": "2026-09-02T00:00:00.000Z",
@@ -679,6 +729,16 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "I am excited to announce that etcd RangeStream is graduating to beta in Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and etcd need to read a large collection, and makes peak usage more pr",
+   "image": null
+  },
+  {
+   "title": "Bend, Aim, Fling: Turning the Eiffel Tower into a Catapult with Three.js",
+   "link": "https://tympanus.net/codrops/2026/09/01/bend-aim-fling-turning-the-eiffel-tower-into-a-catapult-with-three-js/",
+   "date": "2026-09-01T12:41:22.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A playful Three.js experiment that turns the Eiffel Tower into a catapult, combining interactive physics with real-world 3D data from Cesium ion to launch yourself across Paris toward the Three.js conference.",
    "image": null
   },
   {
@@ -739,16 +799,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1082,6 +1132,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1130,6 +1190,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
