@@ -1,85 +1,145 @@
 {
- "generatedAt": "2026-09-08T15:04:01.013Z",
+ "generatedAt": "2026-09-08T19:53:52.160Z",
  "articles": [
   {
-   "title": "7 Signs It May Be Time to Review Your AWS Environment",
-   "link": "https://dev.to/demarkolittle/7-signs-it-may-be-time-to-review-your-aws-environment-3f63",
-   "date": "2026-09-08T15:03:54.000Z",
+   "title": "Withhold the Oracle: Fixture Entropy, Metamorphic Checks, and a Flake Budget",
+   "link": "https://dev.to/datacpp_8185/withhold-the-oracle-fixture-entropy-metamorphic-checks-and-a-flake-budget-4aco",
+   "date": "2026-09-08T19:38:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Small AWS environments can become more complicated over time. Some signs that it may be time for an architecture review include: • Resources that are no longer being used An architecture review doesn't mean immediately c",
+   "summary": "A green example suite is a weak merge signal when an agent wrote the patch. The agent can drop hard fixtures, widen except clauses, or skip flakes by name. The merge question is not whether pytest exited 0. It is whether",
    "image": null
   },
   {
-   "title": "JTerm: iPhone, iPad, and Mac sync, clipboard tools, hosts mappings, and device IPs",
-   "link": "https://dev.to/jimeji/jterm-iphone-ipad-and-mac-sync-clipboard-tools-hosts-mappings-and-device-ips-31p1",
-   "date": "2026-09-08T15:02:55.000Z",
+   "title": "Let Models Inventory Diffs; Keep Migration Obligations Human-Owned",
+   "link": "https://dev.to/github_7727/let-models-inventory-diffs-keep-migration-obligations-human-owned-19cg",
+   "date": "2026-09-08T19:37:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hi everyone, I’m the developer of JTerm. If you manage servers on a Mac, use your iPhone to handle an issue while you’re out, or work from an iPad with a keyboard, these problems probably sound familiar: configuring the ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj6oa326bjuak8mlw86xn.jpeg"
-  },
-  {
-   "title": "Treat Generated Infra as Untrusted Input",
-   "link": "https://dev.to/codepro_4664/treat-generated-infra-as-untrusted-input-2368",
-   "date": "2026-09-08T14:59:40.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You treat every generated infrastructure file as untrusted input. You do not merge it because a model sounded confident. You review it like a stranger opened production's pull request. An agent will fill the gaps you lea",
+   "summary": "Migration documentation fails in review when a generator writes caller obligations that no schema, test, or changelog entry can support. A practical control is to split every guide into observed-change blocks a model may",
    "image": null
   },
   {
-   "title": "What is SRE as a Service in 2026?",
-   "link": "https://dev.to/tekyantra/what-is-sre-as-a-service-in-2026-50jp",
-   "date": "2026-09-08T14:58:27.000Z",
+   "title": "GitLab Runner Has Never Contacted This Instance: Every Cause and Fix",
+   "link": "https://dev.to/sepcy/gitlab-runner-has-never-contacted-this-instance-every-cause-and-fix-ne1",
+   "date": "2026-09-08T19:17:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Site Reliability Engineering (SRE) started as a way to apply software engineering practices to IT operations. Google describes SRE as treating operations as a software problem, with reliability measured through availabil",
+   "summary": "You created a runner, GitLab listed it, and next to it sits a grey warning: This runner has never contacted this instance. Your pipeline sits pending, and nothing in the UI tells you why. The good news is that this messa",
    "image": null
   },
   {
-   "title": "Reject Timestamped Prompts Before Cache Misses Beat Deadline Slack",
-   "link": "https://dev.to/odd_background_328/reject-timestamped-prompts-before-cache-misses-beat-deadline-slack-45h9",
-   "date": "2026-09-08T14:58:06.000Z",
+   "title": "Architecting the ZGateway Proxy: Unifying Traffic and Connection Management in front of Meta's ZippyDB",
+   "link": "https://dev.to/isuvo/architecting-the-zgateway-proxy-unifying-traffic-and-connection-management-in-front-of-metas-3og",
+   "date": "2026-09-08T19:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 02:14 the serving page stays oddly quiet. Token counters climb without a matching wait queue. Which operational action follows from that evidence? Idle CPU is not proof of spare capacity. A timestamp in the system pro",
+   "summary": "The Connection Explosion: Why Direct Client-to-Storage Topologies Fail at Scale In large-scale distributed systems, the architectural boundary between application clients and storage backends is a frequent battleground f",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fura8izviotsw9gyy7j1o.jpg"
+  },
+  {
+   "title": "gabrielle roth: The SCaLE 24x CfP is open – get your Postgres talks in!",
+   "link": "https://postgr.es/p/9u4",
+   "date": "2026-09-08T19:14:50.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Hi folks! This year’s PostgreSQL@SCaLE committee (Mark Wong, Robert Treat, Darren Douglas, Sarah Conway, and Yours Truly) are gearing up for another excellent conference. We’re setting up the very popular full day beginn",
    "image": null
   },
   {
-   "title": "386 Best Sites To Buy Verified BitPay Accounts in 2026",
-   "link": "https://dev.to/bsjlll6911/386-best-sites-to-buy-verified-bitpay-accounts-in-2026-n59",
-   "date": "2026-09-08T14:56:34.000Z",
+   "title": "Ten Things to Wire Up Before an Agent Touches Production",
+   "link": "https://dev.to/teamvoy/ten-things-to-wire-up-before-an-agent-touches-production-2ejo",
+   "date": "2026-09-08T18:53:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Verified Bitpay Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-bitpay-accounts/ Buy Verified BitPay Accounts, Buy only real and active fully verified BitPay accounts from us and get onl",
+   "summary": "A developer deployed a customer-support agent that got stuck in a retry loop with a CRM tool. No hard circuit breaker. It spent six hours overnight repeating the same broken call while he slept, and he woke up to roughly",
    "image": null
   },
   {
-   "title": "Top 876 Marketplaces to Buy Verified Walmart Seller Accounts2019",
-   "link": "https://dev.to/bsjlll6911/top-876-marketplaces-to-buy-verified-walmart-seller-accounts2019-32fo",
-   "date": "2026-09-08T14:52:08.000Z",
+   "title": "Building AIoT Systems for Industrial Operations",
+   "link": "https://dev.to/ema9/building-aiot-systems-for-industrial-operations-38of",
+   "date": "2026-09-08T18:52:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Verified Walmart Seller Account progmb.contact@gmail.com https://www.progmb.com/product/buy-walmart-seller-accounts/ Looking to sell your products online? You’ve heard of a Walmart seller account, but are not sure wh",
+   "summary": "IoT systems collect information from the physical world. AI can analyze that information and identify patterns. When combined, these technologies form AIoT (Artificial Intelligence of Things) systems that connect physica",
    "image": null
   },
   {
-   "title": "🚀 Building a Linux Observability Platform with ELK Stack — From systemd Journald to Kibana",
-   "link": "https://dev.to/satyam-ahirrao/building-a-linux-observability-platform-with-elk-stack-from-systemd-journald-to-kibana-308a",
-   "date": "2026-09-08T14:51:14.000Z",
+   "title": "Joshua Drake: Two features just left PostgreSQL 19.",
+   "link": "https://postgr.es/p/9u3",
+   "date": "2026-09-08T18:41:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Both reverts landed after Robert Haas asked the pgsql-hackers list on August 25 whether any of six heavily patched features should come out before 19 ships. One of the two was on his list. One was not.",
+   "image": null
+  },
+  {
+   "title": "Measure the Binary You Run",
+   "link": "https://dev.to/devbrewery/measure-the-binary-you-run-4022",
+   "date": "2026-09-08T18:33:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I recently built a hands-on Linux Observability Platform using the Elastic Stack, Docker, systemd, and systemd-journald. The goal wasn't just to run Elasticsearch and Kibana. I wanted to build the complete log pipeline f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc95qsjtgvc4n95kddvdb.png"
+   "summary": "At one point in this project, two documents in my own notes argued opposite positions about the same compile flag. Document one, the backend research: \"The current build has AVX2 disabled. Priority 1: recompile with AVX2",
+   "image": null
+  },
+  {
+   "title": "10 Secure Websites to Buy Verified MEXC Accounts Online 2027",
+   "link": "https://dev.to/pevekij238/10-secure-websites-to-buy-verified-mexc-accounts-online-2027-4p97",
+   "date": "2026-09-08T18:28:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Verified Mexc Account from Us 100% Verified Account! ▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀 ▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737 ▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmboff",
+   "image": null
+  },
+  {
+   "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+   "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+   "date": "2026-09-08T16:20:23.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1600/brazil-hackers.jpg"
+  },
+  {
+   "title": "David Wheeler: Introducing chdb Postgres extension: High-performance imports from cloud storage",
+   "link": "https://postgr.es/p/9u2",
+   "date": "2026-09-08T15:42:52.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "We're happy to announce a new Postgres extension: chdb. This extension expands Postgres import and export features via the chDB library, an in-process ClickHouse engine, providing efficient, flexible conversion to and fr",
+   "image": null
+  },
+  {
+   "title": "Fragments: September  8",
+   "link": "https://martinfowler.com/fragments/2026-09-08.html",
+   "date": "2026-09-08T15:22:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:. This explains why the first major AI products appeared in chat, image generati",
+   "image": null
+  },
+  {
+   "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+   "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+   "date": "2026-09-08T14:54:30.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain tha",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlEWa8ED8DuOxP9Vi4gKvvtQeWC12LKU4yrjFMJYIczxkqLbjqcHpBHMu4hOHp7zjSLNzbQW8SXMR-3YS0PNgVlVEe-ZgYFfaOPdFYkduxEMls-mRWHx85_WNm8Xli0sGVifFjz4mZ1YjEzHs1DNHFZzzY16ZBZxvi77GmI-mtE3_xiilQo7pfRM_0g8M/s1600/liquid.jpg"
   },
   {
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -90,6 +150,26 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
+  },
+  {
+   "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+   "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+   "date": "2026-09-08T14:19:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg"
+  },
+  {
+   "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+   "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+   "date": "2026-09-08T13:48:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a larg",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVKt_UmqEYNHNt0K516skza4MoV47hITqzcoC3WLLI3QkQ_jUEffHvaL7VHVtzRqvdt6k2bZwGAFVif-hRkoiTQva6JM95w3NgNRU_WpuTaZfhLGXAcOdLQXy_sMWU1dxAunMAsf7J8PEDG2AKvkFuXbOFyOmIQcaocMIBhNpaYscCUeJElKDXu6xGhkX/s1600/ai-agent.jpg"
   },
   {
    "title": "Do you even need a presentation?",
@@ -162,6 +242,16 @@
    "image": null
   },
   {
+   "title": "Dominique De Cooman: We chose to help build Drupal's future. Today, that choice became visible.",
+   "link": "https://dominiquedecooman.com/we-chose-help-build-drupals-future-today-choice-became-visible",
+   "date": "2026-09-08T10:57:19.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Read more In April 2025, there was no Top Tier badge in the plan. There was a conviction that Drupal needed coordinated investment in AI. Today, Dropsolid's recognition makes that choice visible. What Top Tier really mea",
+   "image": "https://dominiquedecooman.com/sites/default/files/styles/blog-teaser-front/public/dropsolid%20drupal%20top%20tier.png?itok=0e10IQEb"
+  },
+  {
    "title": "Omega8.cc: Uploads Ride in the Boot",
    "link": "https://omega8.cc/blog/uploads-ride-in-the-boot",
    "date": "2026-09-08T10:54:00.000Z",
@@ -180,26 +270,6 @@
    "source": "The Hacker News",
    "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-202",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg"
-  },
-  {
-   "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-   "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-   "date": "2026-09-08T08:43:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR R",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rKrsCwJpZOS1Cu2htzFszKn4OgjK2p5A43OUaQJsmlbjsaLfGHtgyqQPfOu3IFWqRBoj2J6hIiqv6CVr56ZLyyf73-E71iaDRB2nrO9qaGOg92EbOcutMu8M8i1uimwkC-GPcc9oGDgFNNLB4kkgfDB3MbcjPuAn_gsml3FyThlEyI3Pg8E-udYq175m/s1600/bing.jpg"
-  },
-  {
-   "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-   "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-   "date": "2026-09-08T07:00:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, w",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUJMPbCbes7NM-EpNPWOUc7bYX5pznAZZjAl29ELdnhrIFzOBqkVtUsiDgxWvImd-yqpnCi5E4EaA1SCbnqY-_1qOwv2RnBTrjOHwn738A5TVUyZV6uX9TQyjF2EmPsJhyxHc1IcqV0jH3JraUU5s3Yw64WOCoE4WawhfajZhq7X-XvWQtVfw-S2QxbkU/s1600/grindr.jpg"
   },
   {
    "title": "Wellingtone Luvonga: The Default Deny Dilemma: A Practical Guide to Kubernetes Network Policies",
@@ -262,16 +332,6 @@
    "image": null
   },
   {
-   "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-   "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-   "date": "2026-09-07T18:12:09.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code ex",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3-5bNylOMc_s8MAT2ibQnV33cnJXadwKPRXjYgAL0GcZWOXuwtM-s5HS4ryVu5ewnhfAqBtOiuSseLcUSyDIfxf5XKF6mAwrpyG-v3Y-siqjJY8I5zVEMXwfkKPwBNAqaO2sQFI-q2oA4MWiagZFUlknIPKADDfvOo8s2Ifsa_xBAojg1rD5ZGUErC85/s1600/chrome-malware.jpg"
-  },
-  {
    "title": "Mercator ↔ Equal Earth",
    "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
    "date": "2026-09-07T16:24:16.000Z",
@@ -290,16 +350,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Context At Swiss PG Day 2026, I had the privilege of moderating a Birds of a Feather (BoF) session. A BoF session is a community-driven event designed for focused, interactive discussion among participants with shared in",
    "image": null
-  },
-  {
-   "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-   "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-   "date": "2026-09-07T15:51:56.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-Zo4zgxCrVcz6-00WV2qAPHSD-av2Ed5hgRmR-2vUzkr9jVeph0NNb6gGsQfwSkFyuRfRcSsaISSpfysl_Xx5F48IM7HdBpO4F3CaVuLhk1v0a4vcH5xK_bxX6BxIjkfAjhDaNGcLG7_R9IcTjVGlFcW7y1ZV64imACHi9528LOjH1Flhk-cy9LFgrMv/s1600/phish-ms.jpg"
   },
   {
    "title": "SymfonyCon Warsaw 2026: Unveiling the workshop lineup!",
@@ -442,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Gspikes: Drupal 11 Adoption Tracker: The Curve, the Cliff, and 260,000 Sites",
-   "link": "https://gspikes.com/drupal-11-adoption-tracker/",
-   "date": "2026-09-06T04:01:20.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 11 is on 36% of reporting Drupal sites — and climbing at roughly half the speed Drupal 10 managed at the same age. On 9 December 2026 Drupal 10 reaches end of life, and the share of the Drupal web running unsuppor",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats",
    "link": "https://postgr.es/p/9tZ",
    "date": "2026-09-06T01:00:00.000Z",
@@ -522,16 +562,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-opt-out-vendor-default-commands-featured.png"
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures",
-   "link": "https://postgr.es/p/9tT",
-   "date": "2026-09-04T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "log_lock_waits is the cheapest lock-contention detector PostgreSQL ships, and through version 18 it is off by default. Turn it on. PostgreSQL 19 will do it for you. The mechanism is borrowed rather than built. When a bac",
-   "image": null
-  },
-  {
    "title": "No more issues",
    "link": "https://stitcher.io/blog/no-more-issues",
    "date": "2026-09-04T00:00:00.000Z",
@@ -542,16 +572,6 @@
    "image": null
   },
   {
-   "title": "Mikhail Shytsko: What Replica Mode Does Not Switch Off",
-   "link": "https://postgr.es/p/9tX",
-   "date": "2026-09-04T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "An overnight load runs under session_replication_role = replica, the setting most of the popular answers describe as switching enforcement off for the session. It writes an order for customer 999, who does not exist, and",
-   "image": "https://seedfa.st/blog/session-replication-role-2.svg"
-  },
-  {
    "title": "Kubernetes v1.37: DRA Updates",
    "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
    "date": "2026-09-03T18:30:00.000Z",
@@ -559,16 +579,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight",
-   "image": null
-  },
-  {
-   "title": "Umair Shahid: Database Availability Is a Stack: Rolling OS Patching",
-   "link": "https://postgr.es/p/9tQ",
-   "date": "2026-09-03T16:13:03.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Key takeaways A routine OS patch can take Postgres offline even when Postgres itself was never touched. Here’s what rolling OS patching on a proper HA cluster changes: OS-level patches (kernel, glibc, container runtime, ",
    "image": null
   },
   {
@@ -682,6 +692,16 @@
    "image": null
   },
   {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "image": null
+  },
+  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -730,6 +750,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -829,6 +859,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1112,16 +1152,6 @@
    "image": null
   },
   {
-   "title": "Citizens Build, Agents Execute, Experts Govern",
-   "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-   "date": "2026-08-19T18:30:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "TL;DR Why building an app over the weekend isn't the same as building enterprise software I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what diffe",
-   "image": null
-  },
-  {
    "title": "CSS Navigation Matching, Early Days",
    "link": "https://css-tricks.com/css-navigation-matching-early-days/",
    "date": "2026-08-19T14:44:41.000Z",
@@ -1139,16 +1169,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -1200,26 +1220,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
