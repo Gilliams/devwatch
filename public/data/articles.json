@@ -1,45 +1,145 @@
 {
- "generatedAt": "2026-09-08T19:53:52.160Z",
+ "generatedAt": "2026-09-09T01:13:33.609Z",
  "articles": [
   {
-   "title": "Withhold the Oracle: Fixture Entropy, Metamorphic Checks, and a Flake Budget",
-   "link": "https://dev.to/datacpp_8185/withhold-the-oracle-fixture-entropy-metamorphic-checks-and-a-flake-budget-4aco",
-   "date": "2026-09-08T19:38:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A green example suite is a weak merge signal when an agent wrote the patch. The agent can drop hard fixtures, widen except clauses, or skip flakes by name. The merge question is not whether pytest exited 0. It is whether",
+   "title": "Christophe Pettus: All Your GUCs in a Row: maintenance_work_mem",
+   "link": "https://postgr.es/p/9u9",
+   "date": "2026-09-09T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Unlock faster index builds and vacuum operations by understanding maintenance_work_mem: PostgreSQL's one-allocation memory budget that actually behaves like…",
    "image": null
   },
   {
-   "title": "Let Models Inventory Diffs; Keep Migration Obligations Human-Owned",
-   "link": "https://dev.to/github_7727/let-models-inventory-diffs-keep-migration-obligations-human-owned-19cg",
-   "date": "2026-09-08T19:37:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Migration documentation fails in review when a generator writes caller obligations that no schema, test, or changelog entry can support. A practical control is to split every guide into observed-change blocks a model may",
+   "title": "Quoting Terence Tao",
+   "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+   "date": "2026-09-09T00:20:17.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that ev",
    "image": null
   },
   {
-   "title": "GitLab Runner Has Never Contacted This Instance: Every Cause and Fix",
-   "link": "https://dev.to/sepcy/gitlab-runner-has-never-contacted-this-instance-every-cause-and-fix-ne1",
-   "date": "2026-09-08T19:17:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You created a runner, GitLab listed it, and next to it sits a grey warning: This runner has never contacted this instance. Your pipeline sits pending, and nothing in the UI tells you why. The good news is that this messa",
+   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+   "date": "2026-09-08T23:55:12.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize ",
    "image": null
   },
   {
-   "title": "Architecting the ZGateway Proxy: Unifying Traffic and Connection Management in front of Meta's ZippyDB",
-   "link": "https://dev.to/isuvo/architecting-the-zgateway-proxy-unifying-traffic-and-connection-management-in-front-of-metas-3og",
-   "date": "2026-09-08T19:15:02.000Z",
+   "title": "Spinifex 1.19.0: Nineteen Releases Later",
+   "link": "https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf",
+   "date": "2026-09-08T23:46:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Connection Explosion: Why Direct Client-to-Storage Topologies Fail at Scale In large-scale distributed systems, the architectural boundary between application clients and storage backends is a frequent battleground f",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fura8izviotsw9gyy7j1o.jpg"
+   "summary": "After five months and nineteen releases, we have shipped Spinifex 1.19.0. In this time we have taken the platform from supporting three AWS services into eleven, and turned a claim about production readiness into real pr",
+   "image": null
+  },
+  {
+   "title": "A memory server may need two write paths, not one",
+   "link": "https://dev.to/infracore/a-memory-server-may-need-two-write-paths-not-one-2p2",
+   "date": "2026-09-08T23:20:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For anything an agent can persist, split the proposal path from the commit path and put a real trust boundary between them. If a model can save durable facts, untrusted text from one session could influence later session",
+   "image": null
+  },
+  {
+   "title": "How I catch a webhook docs path change before events start 404ing",
+   "link": "https://dev.to/evangelist67/how-i-catch-a-webhook-docs-path-change-before-events-start-404ing-93f",
+   "date": "2026-09-08T23:12:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Our webhook receiver went quiet on a Tuesday. No vendor incident. Status page still green. Support said \"check the docs.\" The docs still looked fine until I scrolled to the endpoint table. /v1/hooks was gone. The new pat",
+   "image": null
+  },
+  {
+   "title": "I built an open MVP for deploying AI-built software without giving agents unrestricted server access",
+   "link": "https://dev.to/andersonvitaease/i-built-an-open-mvp-for-deploying-ai-built-software-without-giving-agents-unrestricted-server-access-1iii",
+   "date": "2026-09-08T22:57:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "AI can build software incredibly fast. Putting that software into real infrastructure is a different problem. An AI agent can write a working app in minutes, but there is still no good default answer for \"how does this a",
+   "image": null
+  },
+  {
+   "title": "Introducing ChatGPT Images 2.5",
+   "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+   "date": "2026-09-08T22:46:33.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-f",
+   "image": null
+  },
+  {
+   "title": "Permit ASSERT and INSTRUCT; Keep COMMIT and EVALUATE Human",
+   "link": "https://dev.to/github_7727/permit-assert-and-instruct-keep-commit-and-evaluate-human-3pi0",
+   "date": "2026-09-08T22:44:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Generated documentation stays reviewable when every sentence is classified by speech act before a model drafts it. Models may restate proven facts, and they may emit instructions that a recorded command already runs succ",
+   "image": null
+  },
+  {
+   "title": "I Wanted Jenkins to Show Me What Changed Before I Opened the Log",
+   "link": "https://dev.to/azeemsidd3/i-wanted-jenkins-to-show-me-what-changed-before-i-opened-the-log-1bj2",
+   "date": "2026-09-08T22:44:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A build works. The next one fails. I can open Console Output, find the compiler error, and understand what the compiler is complaining about. But I still have another job to do: work out what changed since the build that",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fapd5mpkvprixlnvn245z.png"
+  },
+  {
+   "title": "Batch Transaction - QA Test Report",
+   "link": "https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g",
+   "date": "2026-09-08T22:39:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Test Report Date: 9/8/2026 Prepared By: sgramkumar Environment: GitLab CI Runner (nix-debian) Network: xrpld devnet + private CI network This report presents the results of QA testing performed on Batch (XLS-56) Transact",
+   "image": null
+  },
+  {
+   "title": "Server-Side Ransomware",
+   "link": "https://dev.to/urdevops24/server-side-ransomware-hk6",
+   "date": "2026-09-08T22:34:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "👉 As ransomware continues to evolve in speed and complexity, traditional endpoint protection mechanisms often fall short, especially in environments with limited client-side defense. 👉 At present, ransomware remains on",
+   "image": null
+  },
+  {
+   "title": "David E. Wheeler: From the Department of It&rsquo;s About Time: Inter-documentation and image links now work on PGXN",
+   "link": "https://postgr.es/p/9u6",
+   "date": "2026-09-08T22:11:02.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Way back in 2015, I opened a PGXN API issue to allow links between documents rendered by PGXN to work. In 2024 I followed up with another issue to enable relative links to images to work. I mean, everyone wants this, rig",
+   "image": null
+  },
+  {
+   "title": "Jacob Rockowitz: Vibing Drupal: Switching from \"Brat mode\" to \"Drupal mode\"",
+   "link": "https://www.jrockowitz.com/blog/vibing-drupal-brat-mode",
+   "date": "2026-09-08T21:37:28.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "As I've been experimenting with different AI models, I've observed varying behaviors. For example, I like the price point and the reasonable output from GPT-6 Luna. On Reddit, many people recommend running it at max, so ",
+   "image": null
   },
   {
    "title": "gabrielle roth: The SCaLE 24x CfP is open – get your Postgres talks in!",
@@ -49,26 +149,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Hi folks! This year’s PostgreSQL@SCaLE committee (Mark Wong, Robert Treat, Darren Douglas, Sarah Conway, and Yours Truly) are gearing up for another excellent conference. We’re setting up the very popular full day beginn",
-   "image": null
-  },
-  {
-   "title": "Ten Things to Wire Up Before an Agent Touches Production",
-   "link": "https://dev.to/teamvoy/ten-things-to-wire-up-before-an-agent-touches-production-2ejo",
-   "date": "2026-09-08T18:53:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A developer deployed a customer-support agent that got stuck in a retry loop with a CRM tool. No hard circuit breaker. It spent six hours overnight repeating the same broken call while he slept, and he woke up to roughly",
-   "image": null
-  },
-  {
-   "title": "Building AIoT Systems for Industrial Operations",
-   "link": "https://dev.to/ema9/building-aiot-systems-for-industrial-operations-38of",
-   "date": "2026-09-08T18:52:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "IoT systems collect information from the physical world. AI can analyze that information and identify patterns. When combined, these technologies form AIoT (Artificial Intelligence of Things) systems that connect physica",
    "image": null
   },
   {
@@ -82,23 +162,13 @@
    "image": null
   },
   {
-   "title": "Measure the Binary You Run",
-   "link": "https://dev.to/devbrewery/measure-the-binary-you-run-4022",
-   "date": "2026-09-08T18:33:22.000Z",
+   "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling",
+   "link": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/",
+   "date": "2026-09-08T18:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At one point in this project, two documents in my own notes argued opposite positions about the same compile flag. Document one, the backend research: \"The current build has AVX2 disabled. Priority 1: recompile with AVX2",
-   "image": null
-  },
-  {
-   "title": "10 Secure Websites to Buy Verified MEXC Accounts Online 2027",
-   "link": "https://dev.to/pevekij238/10-secure-websites-to-buy-verified-mexc-accounts-online-2027-4p97",
-   "date": "2026-09-08T18:28:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Mexc Account from Us 100% Verified Account! ▬▬▬▬⚡️▬▬▬▬➤Fast Reply 24/7 | Instant Support 🚀 ▬▬▬▬⚡️▬▬▬▬➤Telegram: @progmbofficial ▬▬▬▬⚡️▬▬▬▬➤WhatsApp: +1 (920) 212-9737 ▬▬▬▬⚡️▬▬▬▬➤Telegram Channel: @progmboff",
+   "source": "Kubernetes Blog",
+   "summary": "AI/ML and complex batch workloads continue to push the boundaries of Kubernetes scheduling. Following the foundational workload-centric enhancements introduced in previous releases, Kubernetes v1.37 delivers the next maj",
    "image": null
   },
   {
@@ -282,6 +352,16 @@
    "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/09/CYBERTEC-Blog-infographic-september-1024x623.png"
   },
   {
+   "title": "Christophe Pettus: All Your GUCs in a Row: maintenance_io_concurrency",
+   "link": "https://postgr.es/p/9u8",
+   "date": "2026-09-08T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Discover which PostgreSQL maintenance tasks actually use `maintenance_io_concurrency`—the answer is wider and more surprising than the name suggests, and…",
+   "image": null
+  },
+  {
    "title": "No need",
    "link": "https://stitcher.io/blog/no-need",
    "date": "2026-09-08T00:00:00.000Z",
@@ -289,6 +369,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-need",
+   "image": null
+  },
+  {
+   "title": "Regina Obe: PostGIS 3.7.0rc2",
+   "link": "https://postgr.es/p/9u5",
+   "date": "2026-09-08T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0rc2! Best Served with PostgreSQL 19 Beta 3 , GEOS 3.15.0 , postgis_tiger_geocoder 2025.2 , and address_standardizer. This version requires PostgreSQL 14 - 19beta3, GEOS",
    "image": null
   },
   {
@@ -342,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Xavier Fischer: Birds of a Feather: How About Being a Speaker?",
-   "link": "https://postgr.es/p/9u1",
-   "date": "2026-09-07T15:54:39.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Context At Swiss PG Day 2026, I had the privilege of moderating a Birds of a Feather (BoF) session. A BoF session is a community-driven event designed for focused, interactive discussion among participants with shared in",
-   "image": null
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Unveiling the workshop lineup!",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-unveiling-the-workshop-lineup?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-07T15:35:00.000Z",
@@ -369,16 +449,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "How a meshline habit turned into a tube renderer, and the three ways I got the maths wrong along the way.",
-   "image": null
-  },
-  {
-   "title": "Cornelia Biacsics: Contributions for week 34 & 35",
-   "link": "https://postgr.es/p/9t_",
-   "date": "2026-09-07T10:52:28.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 26 August 2026, the Adelaide PostgreSQL User Group met, organized by Robins Tharakan. Shadab Mohammad and Robins Tharakan delivered a talk. On 26 August, the Sydney PostgreSQL User Group met, organized by Shadab Moham",
    "image": null
   },
   {
@@ -422,16 +492,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Rulebook-LN.png"
   },
   {
-   "title": "Research acceleration: The view inside OpenAI",
-   "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-   "date": "2026-09-06T23:57:40.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub ",
-   "image": null
-  },
-  {
    "title": "PreviousNext: If you're using Twig's raw filter with Drupal, you're doing it wrong",
    "link": "https://www.previousnext.com.au/blog/if-youre-using-twigs-raw-filter-drupal-youre-doing-it-wrong",
    "date": "2026-09-06T23:00:00.000Z",
@@ -439,26 +499,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "With some recent security advisories for Cross Site Scripting (XSS), it feels like an opportune time to remind those who author Twig templates for Drupal: If you're using Twig's |raw filter, you're probably doing it wron",
-   "image": null
-  },
-  {
-   "title": "Berliners blog: Rebuilding a data-driven Drupal site: Page templates with Layout Builder",
-   "link": "https://blog.dev030.com/posts/rebuilding-data-driven-drupal-site-page-templates-layout-builder",
-   "date": "2026-09-06T19:59:08.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Rebuilding a data-driven Drupal site: Page templates with Layout Builder In the previous post in this series, I described how we migrated existing page elements from Panels to Layout Builder. Pages on this site are assem",
-   "image": null
-  },
-  {
-   "title": "The purpose of DNS is to spread scams",
-   "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-   "date": "2026-09-06T14:40:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly",
    "image": null
   },
   {
@@ -472,16 +512,6 @@
    "image": null
   },
   {
-   "title": "There's No Limit to How Bad Code Can Get",
-   "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-   "date": "2026-09-06T09:08:06.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My comment on There&#x27;s No Limit to How Bad Code Can Get &mdash; Lobste.rs. [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming] In my experience it's so rare fo",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1027 (August 31 – September 6, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1027-august-31-september-6-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-06T07:46:00.000Z",
@@ -492,16 +522,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats",
-   "link": "https://postgr.es/p/9tZ",
-   "date": "2026-09-06T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's oldest logging parameters measure CPU time, page faults, and context switches per statement—crude but irreplaceable when you need to know why a…",
-   "image": null
-  },
-  {
    "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
    "link": "https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/",
    "date": "2026-09-05T12:50:25.000Z",
@@ -509,16 +529,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "An experimental Three.js demo that transforms images into flowing ribbons, weaving them together and unraveling them as they move across the screen.",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: log_startup_progress_interval and log_recovery_conflict_waits",
-   "link": "https://postgr.es/p/9tY",
-   "date": "2026-09-05T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Track WAL replay progress on a primary, or diagnose why a standby stalled—two GUCs for the same startup question, answered only in the server log.",
    "image": null
   },
   {
@@ -1030,16 +1040,6 @@
    "source": "Frontend Focus",
    "summary": "🗓️ Hello! Hope you're well. After a week away in the unrelenting sun, we're back in your inbox with a look over the latest in all things frontend. Let's get to it! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​755",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1787734551/qkp7dzi9ablsjjebauky.png"
-  },
-  {
-   "title": "Kubernetes v1.37: Garhwal",
-   "link": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/",
-   "date": "2026-08-26T00:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Editors: Arsh Sharma, Christopher Tineo, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Troy Connor Similar to previous releases, the release of Kubernetes v1.37 introduces new Stable, Beta, and Alpha features. The consisten",
-   "image": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/k8s-v1.37.svg"
   },
   {
    "title": "Replication Lag on AWS FSx: The Hidden EC2 Single-Flow Bandwidth Limit",
