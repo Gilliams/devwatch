@@ -1,84 +1,174 @@
 {
- "generatedAt": "2026-09-09T15:05:52.832Z",
+ "generatedAt": "2026-09-09T19:45:01.447Z",
  "articles": [
   {
-   "title": "What Actually Happens When You Point Claude Code at a Different Model",
-   "link": "https://dev.to/kuldeep_paul/what-actually-happens-when-you-point-claude-code-at-a-different-model-8ao",
-   "date": "2026-09-09T14:55:14.000Z",
+   "title": "What a SOC 2 auditor actually asks about your CI/CD pipeline",
+   "link": "https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic",
+   "date": "2026-09-09T19:31:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Redirecting Claude Code to another model alters the transport protocol, because the CLI sends Anthropic Messages API payloads that OpenAI-compatible endpoints reject without translation. Bypassing Anthropic elimina",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8nqahntdv30oltvl2y7m.jpg"
-  },
-  {
-   "title": "Semantic Caching for LLMs: How It Works and When It Returns the Wrong Answer",
-   "link": "https://dev.to/kuldeep_paul/semantic-caching-for-llms-how-it-works-and-when-it-returns-the-wrong-answer-5d3o",
-   "date": "2026-09-09T14:52:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Semantic caching for LLMs intercepts incoming prompts, converts text into high-dimensional vector embeddings, and returns a precomputed response when vector similarity to a previously stored query exceeds a configu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7nh8e4ch6t4f23spclol.jpg"
-  },
-  {
-   "title": "The Anatomy of a Technical Article Developers Bookmark",
-   "link": "https://dev.to/chizurumchidimma/the-anatomy-of-a-technical-article-developers-bookmark-1p2b",
-   "date": "2026-09-09T14:49:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What separates the guides people save for later from the ones they close and forget. I once watched a client's article get shared across three different developer Slack communities in the same week. It wasn't flashy. No ",
+   "summary": "The first SOC 2 audit I sat in on with an engineering team went sideways in about eleven minutes. Not because the pipeline was bad. It was a good pipeline. Trunk-based, tests gated on merge, deploys on green, everything ",
    "image": null
   },
   {
-   "title": "Every Way LLM Provider Failover Breaks in Production",
-   "link": "https://dev.to/kuldeep_paul/every-way-llm-provider-failover-breaks-in-production-3lao",
-   "date": "2026-09-09T14:48:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Basic retry and fallback logic often fails in production because LLM APIs introduce streaming, tokenization, and schema constraints absent from traditional REST services. Mid-stream network drops, tool-call argumen",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9kre9u3he3tjin8ftouz.jpg"
-  },
-  {
-   "title": "Where 25 OpenAI-Compatible APIs Disagree with OpenAI",
-   "link": "https://dev.to/kuldeep_paul/where-25-openai-compatible-apis-disagree-with-openai-1mp3",
-   "date": "2026-09-09T14:44:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR Dozens of LLM providers advertise OpenAI-compatible APIs, but strict client SDKs frequently fail due to payload mismatches. Primary discrepancies center on streaming tool-call deltas, omitted chunk indices, conflic",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdr5dwtu7uktfil4zuee6.jpg"
-  },
-  {
-   "title": "Before You Add a Tracing SDK, Turn Your JSON Logs Into an Agent Execution View",
-   "link": "https://dev.to/raju_dandigam/before-you-add-a-tracing-sdk-turn-your-json-logs-into-an-agent-execution-view-51jb",
-   "date": "2026-09-09T14:31:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Your agent failed in production. You have the logs. You also have three browser tabs, four requestId searches, and a growing suspicion that the answer is somewhere between two retries that completed out of order. The usu",
+   "title": "Dave Stokes: Structured Query Language 101 at Texas Linuxfest",
+   "link": "https://postgr.es/p/9uc",
+   "date": "2026-09-09T19:27:43.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Structured Query Language 101 -15:00–16:20 Nov. 6, 2026 · 15:00 - 6:20 I will be teaching the basics of SQL at the 2026 Texas Linuxfest. The session is listed for only 100 minutes, but I wrote the materials for a 3-hour ",
    "image": null
   },
   {
-   "title": "depends_on Isn't Enough: service_healthy in Compose",
-   "link": "https://dev.to/jtorchia/dependson-isnt-enough-servicehealthy-in-compose-52g1",
-   "date": "2026-09-09T14:30:19.000Z",
+   "title": "Cómo construir y desplegar un dashboard de datos con Streamlit, GitHub Actions y Streamlit Community Cloud",
+   "link": "https://dev.to/jhonyvargas/como-construir-y-desplegar-un-dashboard-de-datos-con-streamlit-github-actions-y-streamlit-o6",
+   "date": "2026-09-09T19:18:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I lost probably forty minutes on this one the first time, and I still see it happen to other people. You spin up docker-compose up with a backend and a Postgres database. The backend has depends_on: [db]. Everything star",
+   "summary": "Casi todos los tutoriales de dashboards terminan en streamlit run app.py y una captura de pantalla. El problema es que ahí no hay nada desplegado, nada probado y nada automatizado: es una demo local que muere cuando cier",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuf42gt1608g7uw4399q7.png"
+  },
+  {
+   "title": "Same curl, two verdicts: taint tracking for coding agents",
+   "link": "https://dev.to/doberman/same-curl-two-verdicts-taint-tracking-for-coding-agents-367p",
+   "date": "2026-09-09T19:17:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Here's the case that convinced me a static allowlist isn't enough for coding agents. An agent reads a .env file. Ten minutes later, in the same session, it runs a curl to a host it hasn't talked to before, and part of th",
    "image": null
   },
   {
-   "title": "depends_on no basta: el service_healthy en Compose",
-   "link": "https://dev.to/jtorchia/dependson-no-basta-el-servicehealthy-en-compose-335b",
-   "date": "2026-09-09T14:30:14.000Z",
+   "title": "I killed my fine-tune before I wrote a single line of training code",
+   "link": "https://dev.to/natuworkguy/i-killed-my-fine-tune-before-i-wrote-a-single-line-of-training-code-kg7",
+   "date": "2026-09-09T19:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Levantás un docker-compose up con un backend y una base Postgres. El backend tiene depends_on: [db]. Arranca todo, el backend tira ECONNREFUSED a los dos segundos, el contenedor de Postgres sigue vivo, y googleás el erro",
+   "summary": "Everyone wants to say the words. \"I fine-tuned my own model.\" I almost did. Then I remembered where half my users actually run the thing. Flash is a local AI shell. You talk to an Ollama model in your terminal and it run",
+   "image": null
+  },
+  {
+   "title": "Eight SOC 2 Platforms, One Public Price: What Compliance Automation Actually Costs",
+   "link": "https://dev.to/moksh/eight-soc-2-platforms-one-public-price-what-compliance-automation-actually-costs-4nmc",
+   "date": "2026-09-09T18:52:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I priced out eight SOC 2 compliance automation platforms recently, and the useful finding came before any feature comparison: seven of the eight will not tell you what they cost without a sales call. Secureframe is the o",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhncgky3x6ghhcipynv6n.webp"
+  },
+  {
+   "title": "Fail-closed Python automation: dry runs, single-use approvals, and safe retries",
+   "link": "https://dev.to/alejandrosilvamendez/fail-closed-python-automation-dry-runs-single-use-approvals-and-safe-retries-29cf",
+   "date": "2026-09-09T18:51:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When an automation can create or update records, a successful script is not enough. The workflow should make unsafe states difficult to reach and make every decision auditable. This article presents a small pattern I use",
+   "image": null
+  },
+  {
+   "title": "A Check You've Never Seen Go Red Isn't a Check — 6 Ways Mine Lied",
+   "link": "https://dev.to/0012303/a-check-youve-never-seen-go-red-isnt-a-check-6-ways-mine-lied-3njc",
+   "date": "2026-09-09T18:37:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At 18:31:38Z on 8 September I asked one platform the same question twice, from the same machine, seconds apart. Route A said my newest article was from 19 August. Route B said 18:14:58Z that afternoon, seventeen minutes ",
+   "image": null
+  },
+  {
+   "title": "Designing Scalable Backend APIs: A Deep Dive",
+   "link": "https://dev.to/techblogs/designing-scalable-backend-apis-a-deep-dive-9c",
+   "date": "2026-09-09T18:02:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Designing Scalable Backend APIs: A Deep Dive In today's digital landscape, applications are experiencing unprecedented growth in user numbers and data volume. This surge in demand places immense pressure on backend syste",
+   "image": null
+  },
+  {
+   "title": "Jimmy Angelakos: 100,000 Lines of C Later: pgSafe at PGDay UK 2026",
+   "link": "https://postgr.es/p/9ub",
+   "date": "2026-09-09T16:46:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Yesterday I had the pleasure of speaking at PGDay UK 2026 in London, at the Cavendish Conference Centre. The talk was called 100,000 Lines of C Later: Re-architecting Enterprise Postgres Backups in Go. It was about the d",
+   "image": "https://vyruss.org/blog/images/pgsafe_pgdayuk_2026_card_photo.jpg"
+  },
+  {
+   "title": "Social Media Engagement: summer 2026",
+   "link": "https://martinfowler.com/articles/2026-social-traffic.html",
+   "date": "2026-09-09T16:21:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025. more…",
+   "image": null
+  },
+  {
+   "title": "Viacheslav Sarzhan: Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging",
+   "link": "https://postgr.es/p/9ua",
+   "date": "2026-09-09T16:08:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Percona Operator for PostgreSQL 3.1.0 takes on three things that decide whether a PostgreSQL platform passes review: is the data encrypted at rest, can it serve reads without straining the primary, and are the logs there",
+   "image": "https://www.percona.com/wp-content/uploads/2026/09/Cover-1000-x-420-1.png"
+  },
+  {
+   "title": "Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging",
+   "link": "https://www.percona.com/blog/percona-operator-for-postgresql-3-1-0-transparent-data-encryption-logical-replicas-persistent-logging/",
+   "date": "2026-09-09T16:08:31.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona Operator for PostgreSQL 3.1.0 takes on three things that decide whether a PostgreSQL platform passes review: is the data encrypted at rest, can it serve reads without straining the primary, and are the logs there",
+   "image": "https://www.percona.com/wp-content/uploads/2026/09/Cover-1000-x-420-1.png"
+  },
+  {
+   "title": "Meet pgstef: Why Stefan Fercot Joined Percona, and Why You Should Find Him at Percona Live Amsterdam",
+   "link": "https://www.percona.com/blog/meet-pgstef/",
+   "date": "2026-09-09T15:55:38.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "If you have spent any time in the Postgres community, you already know the name pgstef. Stefan Fercot has spent years as one of the most visible advocates for pgBackRest, a familiar face at European Postgres conferences,",
+   "image": null
+  },
+  {
+   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+   "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+   "date": "2026-09-09T15:36:24.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Omega8.cc: Doors That Do Not Exist",
+   "link": "https://omega8.cc/blog/doors-that-do-not-exist",
+   "date": "2026-09-09T14:57:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Read one night of a Drupal or Backdrop site's log and most of it had no business with that site: WordPress login probes on a site which never ran WordPress, fishing for secret files, a thousand pages nobody ever made, fr",
+   "image": "https://omega8.cc/images/b/2/3/3/1/b233150cda027dcf3d28089aa4b1844fc6bd256f-doors-that-do-not-exist-anime-halo.png"
+  },
+  {
+   "title": "The Drop Times: Drupal GovCon 2026: From Site Building to AI Orchestration",
+   "link": "https://www.thedroptimes.com/72158/drupal-govcon-2026-ai-orchestration?utm_source=Drupal Planet",
+   "date": "2026-09-09T14:39:59.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI is changing how people build, search, and interact with websites, but not every organisation is moving at the same speed. Chad Capellman argues that Drupal's flexibility may matter more as different generations of the",
    "image": null
   },
   {
@@ -100,6 +190,16 @@
    "source": "Codrops",
    "summary": "A technical deep dive into Still, exploring how WebGPU, procedural systems, and Japanese art influences come together to create a living generative garden.",
    "image": null
+  },
+  {
+   "title": "drunomics: Building an open source knowledge base for the AI era",
+   "link": "https://drunomics.com/en/blog/building-open-source-knowledge-base-ai-agent-era-257",
+   "date": "2026-09-09T12:55:44.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Building an open source knowledge base for the AI era wolfgang.ziegler Wed, 9 Sep 2026 - 14:55 AI agents are only as good as the knowledge they are given. So we are building OpenKnowledgebase: an open source wiki and AI ",
+   "image": "https://cp.drunomics.com/files/styles/940_470/public/2026-09/teaser-okb-announce.jpeg.webp?itok=TRTagwzg"
   },
   {
    "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
@@ -382,66 +482,6 @@
    "image": null
   },
   {
-   "title": "Matt Glaman: simplytest.me should be good enough to sell Drupal with",
-   "link": "https://mglaman.dev/blog/simplytestme-should-be-good-enough-sell-drupal?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
-   "date": "2026-09-08T13:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "simplytest.me had been sitting in the back of my mind for a long time. I knew it was unstable, and that release information kept falling out of date. It was a constant battle that always needed another round of maintenan",
-   "image": null
-  },
-  {
-   "title": "Specbee: Get your content cited by AI engines and get back that traffic you just lost. Read this AEO/GEO playbook to find out how.",
-   "link": "https://www.specbee.com/blogs/how-to-get-content-cited-by-ai",
-   "date": "2026-09-08T11:05:49.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Get your content cited by AI engines and get back that traffic you just lost. Read this AEO/GEO playbook to find out how.",
-   "image": null
-  },
-  {
-   "title": "Dominique De Cooman: We chose to help build Drupal's future. Today, that choice became visible.",
-   "link": "https://dominiquedecooman.com/we-chose-help-build-drupals-future-today-choice-became-visible",
-   "date": "2026-09-08T10:57:19.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Read more In April 2025, there was no Top Tier badge in the plan. There was a conviction that Drupal needed coordinated investment in AI. Today, Dropsolid's recognition makes that choice visible. What Top Tier really mea",
-   "image": "https://dominiquedecooman.com/sites/default/files/styles/blog-teaser-front/public/dropsolid%20drupal%20top%20tier.png?itok=0e10IQEb"
-  },
-  {
-   "title": "Wellingtone Luvonga: The Default Deny Dilemma: A Practical Guide to Kubernetes Network Policies",
-   "link": "https://postgr.es/p/9u0",
-   "date": "2026-09-08T03:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Implementing a zero-trust network model in Kubernetes requires shifting from the default-allow behavior to explicit, label-driven microsegmentation. This hands-on lab walks through securing a standard three-tier architec",
-   "image": "https://www.cybertec-postgresql.com/wp-content/uploads/2026/09/CYBERTEC-Blog-infographic-september-1024x623.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: maintenance_io_concurrency",
-   "link": "https://postgr.es/p/9u8",
-   "date": "2026-09-08T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Discover which PostgreSQL maintenance tasks actually use `maintenance_io_concurrency`—the answer is wider and more surprising than the name suggests, and…",
-   "image": null
-  },
-  {
-   "title": "Regina Obe: PostGIS 3.7.0rc2",
-   "link": "https://postgr.es/p/9u5",
-   "date": "2026-09-08T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The PostGIS Team is pleased to release PostGIS 3.7.0rc2! Best Served with PostgreSQL 19 Beta 3 , GEOS 3.15.0 , postgis_tiger_geocoder 2025.2 , and address_standardizer. This version requires PostgreSQL 14 - 19beta3, GEOS",
-   "image": null
-  },
-  {
    "title": "llm 0.35",
    "link": "https://simonwillison.net/2026/Sep/7/llm/",
    "date": "2026-09-07T23:54:54.000Z",
@@ -720,16 +760,6 @@
    "source": "Symfony Blog",
    "summary": "The API Platform Conference, the international event dedicated to the API Platform framework and its ecosystem, will take place in two weeks in Lille, France, on September 17–18, 2026. Nearly 30 talks are scheduled, in b",
    "image": "https://symfony.com/uploads/assets/blog/api-platform-2026-1200x800.png"
-  },
-  {
-   "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-   "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-   "date": "2026-09-02T13:49:14.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
   },
   {
    "title": "Maybe We Shouldn't Be Reviewing All This Code",
@@ -1032,26 +1062,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1787734551/qkp7dzi9ablsjjebauky.png"
   },
   {
-   "title": "Replication Lag on AWS FSx: The Hidden EC2 Single-Flow Bandwidth Limit",
-   "link": "https://www.percona.com/blog/replication-lag-on-aws-fsx-the-hidden-ec2-single-flow-bandwidth-limit/",
-   "date": "2026-08-25T21:00:16.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "A recent case in our Percona Support team started with a familiar complaint. A PostgreSQL standby lagging behind its primary. Although the problem was simple, it brought a specific flavor that’s worth sharing. The custom",
-   "image": null
-  },
-  {
-   "title": "Software Bill of Materials in Percona Server for MongoDB",
-   "link": "https://www.percona.com/blog/software-bill-of-materials-in-percona-server-for-mongodb/",
-   "date": "2026-08-25T15:25:47.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Introduction A software bill of materials (SBOM) offers end users enhanced supply chain visibility, thereby facilitating license compliance and timely vulnerability detection. An SBOM of an application, library, or frame",
-   "image": "https://www.percona.com/wp-content/uploads/2026/08/abcd_circle_diagram.svg"
-  },
-  {
    "title": "What's in a tag name? JavaScript, apparently",
    "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
    "date": "2026-08-25T14:24:32.000Z",
@@ -1079,16 +1089,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
-   "image": null
-  },
-  {
-   "title": "Fragments: August 24",
-   "link": "https://martinfowler.com/fragments/2026-08-24.html",
-   "date": "2026-08-24T15:29:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of th",
    "image": null
   },
   {
