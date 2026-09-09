@@ -1,6 +1,176 @@
 {
- "generatedAt": "2026-09-09T01:13:33.609Z",
+ "generatedAt": "2026-09-09T09:39:53.329Z",
  "articles": [
+  {
+   "title": "A Practical Release Inventory for OpenVPN Deployments",
+   "link": "https://dev.to/m_montazeri/a-practical-release-inventory-for-openvpn-deployments-13ii",
+   "date": "2026-09-09T09:25:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cover illustration: Separate desktop-client, server-component and operating-system tiles linked to individual evidence cards, illustrating a software release inventory. When a new VPN release appears, the first useful qu",
+   "image": null
+  },
+  {
+   "title": "Trend: McKinsey State of AI 2026: 32% der Unternehmen haben mindest",
+   "link": "https://dev.to/frederikvonderheyden/trend-mckinsey-state-of-ai-2026-32-der-unternehmen-haben-mindest-3j69",
+   "date": "2026-09-09T09:17:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "32 Prozent kaufen keine Software mehr. Das eigentliche Problem liegt woanders. McKinsey meldet, dass 32 Prozent der Unternehmen inzwischen keine neue Software kaufen, weil ihre Agenten sie selbst bauen. Ich lebe das seit",
+   "image": null
+  },
+  {
+   "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+   "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+   "date": "2026-09-09T09:11:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
+  },
+  {
+   "title": "AI Outcome Conversion Metric: Measure Work That Actually Gets Finished",
+   "link": "https://dev.to/jackm-singularity/ai-outcome-conversion-metric-measure-work-that-actually-gets-finished-2jl4",
+   "date": "2026-09-09T09:10:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A low token bill can hide an expensive AI workflow. If an agent makes 1,000 cheap attempts but only 200 create a result a user accepts, the number that matters is not cost per request. It is cost per successful outcome. ",
+   "image": null
+  },
+  {
+   "title": "How to Use AI to Triage and Reproduce a Bug Report",
+   "link": "https://dev.to/leveragenotes/how-to-use-ai-to-triage-and-reproduce-a-bug-report-5db1",
+   "date": "2026-09-09T09:00:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Bug reports arrive incomplete, ambiguous, or buried in noise. Before you can fix anything, you need to triage — figure out severity and ownership — and then reproduce, which is often the hardest part. AI won't magically ",
+   "image": null
+  },
+  {
+   "title": "Least Privilege for AI Agents: Scope the Tools and the Tokens",
+   "link": "https://dev.to/sagar_jain4010/least-privilege-for-ai-agents-scope-the-tools-and-the-tokens-37ih",
+   "date": "2026-09-09T09:00:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent should get the narrowest tools and the shortest-lived tokens that let it do the one job in front of it. The same goes for data: only the slice that job needs. Most agent security incidents I've looked at came do",
+   "image": null
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: PHP wasn't supposed to do that",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-php-wasn-t-supposed-to-do-that?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-09T09:00:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "We are thrilled to announce that SymfonyCon Warsaw 2026 will take place on November 26 and 27, 2026, in Warsaw (Poland)! Join us for a great worldwide conference with 3 parallel tracks and community events. 🎤 Speaker an",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "KYBCR Exchange (Kyberon Core Group) Expands Multi-Platform Brand Content Development",
+   "link": "https://dev.to/kybcrexchange/kybcr-exchange-kyberon-core-group-expands-multi-platform-brand-content-development-4cf0",
+   "date": "2026-09-09T08:58:26.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "As digital platforms continue to expand across global markets, brand communication has become an important part of long-term development. Users, partners, and industry audiences no longer understand a platform only throu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftl3adu5iukrodouh3qcs.png"
+  },
+  {
+   "title": "DevOps Outage Scenario: Kubernetes OOMKilled (Exit Code 137) Cascades Under High Load",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-kubernetes-oomkilled-exit-code-137-cascades-under-high-load-4enj",
+   "date": "2026-09-09T08:53:22.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Modernizing a Legacy Mobile App Without Breaking User Trust",
+   "link": "https://dev.to/alesia_tsyplakova/modernizing-a-legacy-mobile-app-without-breaking-user-trust-3efe",
+   "date": "2026-09-09T08:32:27.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A legacy mobile app can remain important long after its architecture becomes difficult to maintain. Customers depend on saved data, familiar navigation, integrations, and account access that evolved over years. Moderniza",
+   "image": null
+  },
+  {
+   "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+   "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+   "date": "2026-09-09T08:19:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
+  },
+  {
+   "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+   "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+   "date": "2026-09-09T07:36:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
+  },
+  {
+   "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+   "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+   "date": "2026-09-09T06:47:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-202",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
+  },
+  {
+   "title": "Salsa Digital: Drupal AI Context — beta 5 released",
+   "link": "/insights/drupal-ai-context-beta-5-released?utm_source=drupalplanet",
+   "date": "2026-09-09T06:45:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Beta 5 release of Drupal AI Context Beta 5 of Drupal AI Context , also known as Context Control Center (CCC), is now available. This is expected to be the final beta release, and an RC 1 release should be available soon.",
+   "image": null
+  },
+  {
+   "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+   "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+   "date": "2026-09-09T06:25:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and av",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
+  },
+  {
+   "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+   "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+   "date": "2026-09-09T04:41:29.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These inc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg"
+  },
+  {
+   "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+   "date": "2026-09-09T04:27:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civili",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg"
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: maintenance_work_mem",
    "link": "https://postgr.es/p/9u9",
@@ -32,46 +202,6 @@
    "image": null
   },
   {
-   "title": "Spinifex 1.19.0: Nineteen Releases Later",
-   "link": "https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf",
-   "date": "2026-09-08T23:46:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "After five months and nineteen releases, we have shipped Spinifex 1.19.0. In this time we have taken the platform from supporting three AWS services into eleven, and turned a claim about production readiness into real pr",
-   "image": null
-  },
-  {
-   "title": "A memory server may need two write paths, not one",
-   "link": "https://dev.to/infracore/a-memory-server-may-need-two-write-paths-not-one-2p2",
-   "date": "2026-09-08T23:20:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For anything an agent can persist, split the proposal path from the commit path and put a real trust boundary between them. If a model can save durable facts, untrusted text from one session could influence later session",
-   "image": null
-  },
-  {
-   "title": "How I catch a webhook docs path change before events start 404ing",
-   "link": "https://dev.to/evangelist67/how-i-catch-a-webhook-docs-path-change-before-events-start-404ing-93f",
-   "date": "2026-09-08T23:12:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our webhook receiver went quiet on a Tuesday. No vendor incident. Status page still green. Support said \"check the docs.\" The docs still looked fine until I scrolled to the endpoint table. /v1/hooks was gone. The new pat",
-   "image": null
-  },
-  {
-   "title": "I built an open MVP for deploying AI-built software without giving agents unrestricted server access",
-   "link": "https://dev.to/andersonvitaease/i-built-an-open-mvp-for-deploying-ai-built-software-without-giving-agents-unrestricted-server-access-1iii",
-   "date": "2026-09-08T22:57:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI can build software incredibly fast. Putting that software into real infrastructure is a different problem. An AI agent can write a working app in minutes, but there is still no good default answer for \"how does this a",
-   "image": null
-  },
-  {
    "title": "Introducing ChatGPT Images 2.5",
    "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
    "date": "2026-09-08T22:46:33.000Z",
@@ -79,46 +209,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-f",
-   "image": null
-  },
-  {
-   "title": "Permit ASSERT and INSTRUCT; Keep COMMIT and EVALUATE Human",
-   "link": "https://dev.to/github_7727/permit-assert-and-instruct-keep-commit-and-evaluate-human-3pi0",
-   "date": "2026-09-08T22:44:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Generated documentation stays reviewable when every sentence is classified by speech act before a model drafts it. Models may restate proven facts, and they may emit instructions that a recorded command already runs succ",
-   "image": null
-  },
-  {
-   "title": "I Wanted Jenkins to Show Me What Changed Before I Opened the Log",
-   "link": "https://dev.to/azeemsidd3/i-wanted-jenkins-to-show-me-what-changed-before-i-opened-the-log-1bj2",
-   "date": "2026-09-08T22:44:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A build works. The next one fails. I can open Console Output, find the compiler error, and understand what the compiler is complaining about. But I still have another job to do: work out what changed since the build that",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fapd5mpkvprixlnvn245z.png"
-  },
-  {
-   "title": "Batch Transaction - QA Test Report",
-   "link": "https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g",
-   "date": "2026-09-08T22:39:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Test Report Date: 9/8/2026 Prepared By: sgramkumar Environment: GitLab CI Runner (nix-debian) Network: xrpld devnet + private CI network This report presents the results of QA testing performed on Batch (XLS-56) Transact",
-   "image": null
-  },
-  {
-   "title": "Server-Side Ransomware",
-   "link": "https://dev.to/urdevops24/server-side-ransomware-hk6",
-   "date": "2026-09-08T22:34:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "👉 As ransomware continues to evolve in speed and complexity, traditional endpoint protection mechanisms often fall short, especially in environments with limited client-side defense. 👉 At present, ransomware remains on",
    "image": null
   },
   {
@@ -202,16 +292,6 @@
    "image": null
   },
   {
-   "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-   "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-   "date": "2026-09-08T14:54:30.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain tha",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlEWa8ED8DuOxP9Vi4gKvvtQeWC12LKU4yrjFMJYIczxkqLbjqcHpBHMu4hOHp7zjSLNzbQW8SXMR-3YS0PNgVlVEe-ZgYFfaOPdFYkduxEMls-mRWHx85_WNm8Xli0sGVifFjz4mZ1YjEzHs1DNHFZzzY16ZBZxvi77GmI-mtE3_xiilQo7pfRM_0g8M/s1600/liquid.jpg"
-  },
-  {
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
    "date": "2026-09-08T14:23:07.000Z",
@@ -220,26 +300,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-   "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-   "date": "2026-09-08T14:19:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0jB-6O69dYNeqBTcSFXPcSQCqwabmHwmdGzC_ne5LyuUH-9v0MpLbJ1cgApFSqTuGG0Z_fKAD4A7gLcBcTdw6oUIv0nh_Pmyb5Obv7XhRY0jVGwPQ50S7rUnYZR8FUvYntVxL03GYJ010-iagkPkeZJ8oV6gvbEaVJPGw-L2rabD5pqOOu2HYW9g_nFcT/s1600/chatgpt-gmail.jpg"
-  },
-  {
-   "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-   "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-   "date": "2026-09-08T13:48:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a larg",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVKt_UmqEYNHNt0K516skza4MoV47hITqzcoC3WLLI3QkQ_jUEffHvaL7VHVtzRqvdt6k2bZwGAFVif-hRkoiTQva6JM95w3NgNRU_WpuTaZfhLGXAcOdLQXy_sMWU1dxAunMAsf7J8PEDG2AKvkFuXbOFyOmIQcaocMIBhNpaYscCUeJElKDXu6xGhkX/s1600/ai-agent.jpg"
   },
   {
    "title": "Do you even need a presentation?",
@@ -272,36 +332,6 @@
    "image": null
   },
   {
-   "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-   "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-   "date": "2026-09-08T11:54:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or tou",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjSG5iYgxvsWLWeFe2E-z5UDx0S4Q6zBQjkFEiKuFxcfplz39pE90jWcuiV7NcYqT6t2l8j5WWVBHdV-upHuzQVoy-pt4nL4WP7l-Uz_9AYFqOw1Pn0yI8LzM6OThlXJZY8_b4RVK0WzZYIsjWL96-2O-HHY1SH2FCtrE5c6nV0QJ0aU1X8FVlIvOs3g/s1600/wechat.jpg"
-  },
-  {
-   "title": "What It Took to Reach 1 Billion Build Manifests",
-   "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-   "date": "2026-09-08T11:49:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those ar",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqJEqJ_CCrFzLtmEtLrrIWQv80hyY6xtGfdsad0NgYCYSs-ur2ObfnMgE8uBWlZ7idJHbjDcOwpo8_ESTMpCAWAUHUwbqhVr-zqxV-oxUWmR3PMwBD_vrDziQFaeL0VTzX8NUQRFGRzVQCuTPrvflnepbKlCgqH84MRNTJUhZRNfqwEtmBUxhIB5a8MfeE/s1600/chainguard.jpg"
-  },
-  {
-   "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-   "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-   "date": "2026-09-08T11:22:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSKAVaHcAsULrGXPVkGXRyf94eoG7Kv3X0wwK2lRC64l3Em-S4_H5iE8-poK04yzrAC18tuHqpZyHhJvFTgliu_z8jo4QR78Mi4ghhCA-cUVL4oj2zjoLGiWKmD16oV4i44VfY45DYll0Uij_Exf4U2JMSLJEyH8jZk_xXKq7O_7D73q7vTYCCc4hrTnQ/s1600/freeipa.jpg"
-  },
-  {
    "title": "Specbee: Get your content cited by AI engines and get back that traffic you just lost. Read this AEO/GEO playbook to find out how.",
    "link": "https://www.specbee.com/blogs/how-to-get-content-cited-by-ai",
    "date": "2026-09-08T11:05:49.000Z",
@@ -330,16 +360,6 @@
    "source": "Drupal Planet",
    "summary": "The code of a Drupal or Backdrop site is the part everyone rebuilds, upgrades and throws away with a light heart; the uploads are the part nobody plans for, and they are the only part which cannot be downloaded again tom",
    "image": "https://omega8.cc/images/6/0/5/8/6/60586ad781563d723349cf66dabaec4808b8dfad-uploads-ride-in-the-boot-anime-halo.png"
-  },
-  {
-   "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-   "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-   "date": "2026-09-08T09:13:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-202",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_xdakttovno7kFgFYIw5XGFGcSZibVvXYB64vih4iZpc4_WY_t7oe1X3igSPGXBa8UTkf4z4xn_GzZ_n7PmuFFvYC8Wsmb04PxYP5z-XHjZZFe_SASihwZNg1dxHXQzz8hBRo-6LhvQmwyo_MA9Kj6hrcci6ouvOX1D4f-0dNvs57M6WneQHC61yZkF_o/s1600/magento.jpg"
   },
   {
    "title": "Wellingtone Luvonga: The Default Deny Dilemma: A Practical Guide to Kubernetes Network Policies",
@@ -490,16 +510,6 @@
    "source": "Laravel News",
    "summary": "Laravel Rulebook resolves which version of a business rule applied on a given date, returns one winner, and explains why every other rule lost. The post Laravel Rulebook: Business Rules That Change by Date appeared first",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Rulebook-LN.png"
-  },
-  {
-   "title": "PreviousNext: If you're using Twig's raw filter with Drupal, you're doing it wrong",
-   "link": "https://www.previousnext.com.au/blog/if-youre-using-twigs-raw-filter-drupal-youre-doing-it-wrong",
-   "date": "2026-09-06T23:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "With some recent security advisories for Cross Site Scripting (XSS), it feels like an opportune time to remind those who author Twig templates for Drupal: If you're using Twig's |raw filter, you're probably doing it wron",
-   "image": null
   },
   {
    "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
@@ -702,16 +712,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -760,16 +760,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -872,16 +862,6 @@
    "image": null
   },
   {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
-   "image": null
-  },
-  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -909,16 +889,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 6.4.45 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1026 (August 24–30, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1026-august-24-30-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-30T07:43:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony development activity focused mostly on bug fixes, while the community celebrated a busy first week for Symfony Language Tools and the release of Symfony Reprise 1.0.0. Symfony development highlights Th",
    "image": null
   },
   {
@@ -1172,6 +1142,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1220,6 +1200,26 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​753 — August 5, 2026 | Read on the web ⚓️ Results from the 2026 State of CSS Survey — Developers report anchor positioning as their favorite new CSS feature of this past year, though limited support i",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1785929986/dow6fnjuibnbp10xwanv.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   },
   {
    "title": "What's new in PHP 8.6",
