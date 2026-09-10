@@ -1,6 +1,126 @@
 {
- "generatedAt": "2026-09-10T01:01:56.658Z",
+ "generatedAt": "2026-09-10T09:39:37.700Z",
  "articles": [
+  {
+   "title": "CI to GitOps Handoff: Argo Image Updater vs. CI-Writes-the-Commit vs. Kargo",
+   "link": "https://dev.to/aloknecessary/ci-to-gitops-handoff-argo-image-updater-vs-ci-writes-the-commit-vs-kargo-468",
+   "date": "2026-09-10T09:23:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "ArgoCD only reconciles what's in Git. A CI pipeline builds an image, pushes it to a registry — and then what? Something has to turn \"a new image exists\" into \"a commit exists in the GitOps repo referencing it.\" That hand",
+   "image": null
+  },
+  {
+   "title": "The AI Race Is a Governance Problem Before It Is a Superintelligence Problem",
+   "link": "https://dev.to/sirinivask/the-ai-race-is-a-governance-problem-before-it-is-a-superintelligence-problem-2g7i",
+   "date": "2026-09-10T09:13:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This week, a researcher who said he spent three years working at OpenAI and Anthropic resigned publicly and warned that leading labs are moving too quickly toward systems that may become difficult to control. His warning",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsmzclm1f0qv2wi90y5bd.png"
+  },
+  {
+   "title": "A compact quality gate for dataset handoffs",
+   "link": "https://dev.to/nimbliquestudio/a-compact-quality-gate-for-dataset-handoffs-3175",
+   "date": "2026-09-10T09:03:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A compact quality gate for dataset handoffs A dataset handoff should not start with “the export finished.” It should start with whether the receiving system can safely rely on the data. A useful gate has four short check",
+   "image": null
+  },
+  {
+   "title": "Percona Operator for PostgreSQL 3.1.0 Adds TDE and Logical Replicas",
+   "link": "https://dev.to/soytuber/percona-operator-for-postgresql-310-adds-tde-and-logical-replicas-148o",
+   "date": "2026-09-10T09:02:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Percona Operator for PostgreSQL 3.1.0 introduces Transparent Data Encryption (TDE), dedicated logical replicas, and persistent logging for Kubernetes deployments. These architectural additions address key enterprise comp",
+   "image": null
+  },
+  {
+   "title": "Canada for Developers: Quality of Life, Tech Hubs & Time Zone Data",
+   "link": "https://dev.to/quicktimeworld/canada-for-developers-quality-of-life-tech-hubs-time-zone-data-53kg",
+   "date": "2026-09-10T08:59:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canada is becoming an increasingly interesting destination for software developers, cloud engineers, data scientists, DevOps professionals and remote engineering teams. With established technology hubs across Toronto, Va",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fseyamz4tkpn1aaqlzrwi.jpg"
+  },
+  {
+   "title": "From an API spec to an agent tool: a safer integration checklist",
+   "link": "https://dev.to/nimbliquestudio/from-an-api-spec-to-an-agent-tool-a-safer-integration-checklist-1ddb",
+   "date": "2026-09-10T08:58:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "From an API spec to an agent tool: a safer integration checklist An API becoming callable by an agent is not just a documentation task. It is a new execution surface: descriptions can steer tool selection, parameters can",
+   "image": null
+  },
+  {
+   "title": "Top 07 Platforms to Buy Telegram Accounts in US | DOCX",
+   "link": "https://dev.to/usasvcit436t/top-07-platforms-to-buy-telegram-accounts-in-us-docx-3k5p",
+   "date": "2026-09-10T08:41:59.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com Define Your Communication Purpose Start by deciding why you need a messaging platform. Your purpose might be ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."
+  },
+  {
+   "title": "Buy Verified KuCoin Accounts – Instant Delivery | PDF",
+   "link": "https://dev.to/usasvcit436t/buy-verified-kucoin-accounts-instant-delivery-pdf-4oe0",
+   "date": "2026-09-10T08:40:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Verified KuCoin Accounts – Instant Delivery | PDF ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Learn the Basic Terminology Begin by learning fundamental concepts. Understand what an exchange is, what a ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Forpg3ppkxf8ry2hjvku2.jpg"
+  },
+  {
+   "title": "Inside the First Three.js Conference in Paris",
+   "link": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
+   "date": "2026-09-10T08:30:11.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look inside the first-ever Three.js Conference, straight from Paris.",
+   "image": null
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: Building on Symfony AI",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-building-on-symfony-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-10T07:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. Join us for a great worldwide conference with 3 parallel tracks and community events. \ud83c",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+   "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+   "date": "2026-09-10T07:12:55.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a co",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg"
+  },
+  {
+   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+   "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+   "date": "2026-09-10T07:04:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg"
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_active_replication_origins",
    "link": "https://postgr.es/p/9ud",
@@ -22,33 +142,13 @@
    "image": null
   },
   {
-   "title": "Observability & Telemetry Retention Policy",
-   "link": "https://dev.to/kasir-barati/observability-telemetry-retention-policy-1ene",
-   "date": "2026-09-10T00:11:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "tl;dr Use OpenTelemetry (OTel) for application observability and start with Grafana Cloud Free as the backend. I love both of them. They offer everything you will be needing when you have a bug ticket. Grafana Cloud Free",
-   "image": null
-  },
-  {
-   "title": "FAQ: Who Turned Your Green Sandbox Into CI?",
-   "link": "https://dev.to/gitlab_3188/faq-who-turned-your-green-sandbox-into-ci-33p2",
-   "date": "2026-09-10T00:04:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Did a green sandbox just steal your release process? A transcript alone is not a release gate. I mean two free things, not one blob. Disclosure: This article was prepared as part of MonkeyCode's product outreach. MonkeyC",
-   "image": null
-  },
-  {
-   "title": "Best Self-Hosted Alternatives to Notion: 8 Open-Source Picks",
-   "link": "https://dev.to/kimcomplete/best-self-hosted-alternatives-to-notion-8-open-source-picks-2df6",
-   "date": "2026-09-10T00:03:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Open-source workspaces, wikis, and note tools you can run on your own server — and how to choose between them for data ownership, privacy, and cost control. Notion is a flexible all-in-one workspace, but it is a closed, ",
+   "title": "Ruohang Feng: Chinese PostgreSQL Docs Are Live: All 11 Major Versions",
+   "link": "https://postgr.es/p/9uf",
+   "date": "2026-09-10T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "pgsql.cc is live, with Chinese documentation for all 11 PostgreSQL major versions from 10 through 20, a redesigned mirror of the official website, and better full-text search. Kept in sync with upstream, with no ads.",
    "image": null
   },
   {
@@ -62,16 +162,6 @@
    "image": null
   },
   {
-   "title": "How I catch a rate-limit docs change before the client starts getting 429s",
-   "link": "https://dev.to/evangelist67/how-i-catch-a-rate-limit-docs-change-before-the-client-starts-getting-429s-166",
-   "date": "2026-09-09T23:46:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our batch job started dying on Thursday afternoon. Same client, same endpoints, same keys. Status page green. Support asked if we had \"updated our rate limits.\" I opened the docs we bookmarked six months ago. The page ti",
-   "image": null
-  },
-  {
    "title": "Enabling TLS in PXC without Downtime",
    "link": "https://www.percona.com/blog/enabling-tls-in-pxc-without-downtime/",
    "date": "2026-09-09T23:32:15.000Z",
@@ -79,46 +169,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Starting with Percona XtraDB Cluster (PXC) 8.0, replication traffic encryption is enabled by default. That said, it’s common to find clusters running without TLS that suddenly need it: a new compliance requirement, an au",
-   "image": null
-  },
-  {
-   "title": "Setting Up Nginx Ingress Controller with SSL on Kubernetes",
-   "link": "https://dev.to/vultr/setting-up-nginx-ingress-controller-with-ssl-on-kubernetes-50go",
-   "date": "2026-09-09T23:03:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Nginx Ingress Controller is a popular Kubernetes Ingress controller that uses Nginx as a reverse proxy and load balancer to route external traffic into a cluster, acting as a single entry point with SSL/TLS terminati",
-   "image": null
-  },
-  {
-   "title": "Setting Up Argo CD on Kubernetes",
-   "link": "https://dev.to/vultr/setting-up-argo-cd-on-kubernetes-43gg",
-   "date": "2026-09-09T23:02:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Argo CD is a Kubernetes-native, declarative GitOps tool for deploying applications at scale. It pulls application manifests directly from a Git repository and syncs them to a Kubernetes cluster, supports YAML, Kustomize,",
-   "image": null
-  },
-  {
-   "title": "Installing Jenkins on Rocky Linux 9",
-   "link": "https://dev.to/vultr/installing-jenkins-on-rocky-linux-9-487e",
-   "date": "2026-09-09T23:01:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Jenkins is a popular open-source automation server for continuous integration and continuous deployment (CI/CD), letting teams build, test, and deploy software with a large ecosystem of plugins. This guide installs Jenki",
-   "image": null
-  },
-  {
-   "title": "Backing Up and Restoring PostgreSQL Databases Using pg_dump and pg_restore",
-   "link": "https://dev.to/vultr/backing-up-and-restoring-postgresql-databases-using-pgdump-and-pgrestore-d6e",
-   "date": "2026-09-09T22:59:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "pg_dump is a PostgreSQL backup utility that allows database administrators to export databases in various forms, including full, copy, incremental, and differential backups. Alongside pg_dumpall, this tool can export one",
    "image": null
   },
   {
@@ -160,6 +210,16 @@
    "source": "The Hacker News",
    "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
+  },
+  {
+   "title": "Elizabeth Garrett Christensen: 30 Years of Postgres Architecture: Tom Lane Interview",
+   "link": "https://postgr.es/p/9ue",
+   "date": "2026-09-09T17:40:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Elizabeth: I know a little bit of your history prior to joining the Postgres project. I think you did work on JPEG — the image specification. The internet thinks that you did some work on libjpeg, which was part of the M",
+   "image": null
   },
   {
    "title": "Jimmy Angelakos: 100,000 Lines of C Later: pgSafe at PGDay UK 2026",
@@ -322,16 +382,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
   },
   {
-   "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-   "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-   "date": "2026-09-09T09:32:26.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier mode",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg"
-  },
-  {
    "title": "Stuart Clark (Deciphered): Druxt (for Drupal) 1.3.x; the resource list is yours",
    "link": "https://stuar.tc/writing/druxt-drupal-13x-resource-list-yours-20260909?utm_source=planet-drupal&utm_medium=rss&utm_campaign=syndication",
    "date": "2026-09-09T09:30:00.000Z",
@@ -340,16 +390,6 @@
    "source": "Drupal Planet",
    "summary": "Druxt's Drupal module carries a list of twelve JSON:API resources it answers for. It's been the same twelve since 2021, hardcoded in a PHP array, and changing it has meant carrying a patch. 1.3.0, tagged today, makes tha",
    "image": null
-  },
-  {
-   "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-   "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-   "date": "2026-09-09T09:11:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
   },
   {
    "title": "SymfonyCon Warsaw 2026: PHP wasn't supposed to do that",
@@ -449,26 +489,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Way back in 2015, I opened a PGXN API issue to allow links between documents rendered by PGXN to work. In 2024 I followed up with another issue to enable relative links to images to work. I mean, everyone wants this, rig",
-   "image": null
-  },
-  {
-   "title": "gabrielle roth: The SCaLE 24x CfP is open – get your Postgres talks in!",
-   "link": "https://postgr.es/p/9u4",
-   "date": "2026-09-08T19:14:50.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Hi folks! This year’s PostgreSQL@SCaLE committee (Mark Wong, Robert Treat, Darren Douglas, Sarah Conway, and Yours Truly) are gearing up for another excellent conference. We’re setting up the very popular full day beginn",
-   "image": null
-  },
-  {
-   "title": "Joshua Drake: Two features just left PostgreSQL 19.",
-   "link": "https://postgr.es/p/9u3",
-   "date": "2026-09-08T18:41:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Both reverts landed after Robert Haas asked the pgsql-hackers list on August 25 whether any of six heavily patched features should come out before 19 ships. One of the two was on his list. One was not.",
    "image": null
   },
   {
@@ -682,16 +702,6 @@
    "image": null
   },
   {
-   "title": "More Three.js Speakers, More Ideas from Paris",
-   "link": "https://tympanus.net/codrops/2026/09/03/more-three-js-speakers-more-ideas-from-paris/",
-   "date": "2026-09-03T13:34:34.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "New voices from the first Three.js Conference share what they're building, experimenting with, and bringing to Paris.",
-   "image": null
-  },
-  {
    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
    "link": "https://huggingface.co/blog/Hcompany/neomme",
    "date": "2026-09-03T13:13:48.000Z",
@@ -762,6 +772,16 @@
    "image": null
   },
   {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "image": null
+  },
+  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -800,6 +820,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -862,6 +892,26 @@
    "image": null
   },
   {
+   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+   "link": "https://css-tricks.com/css-random-function-polyfill/",
+   "date": "2026-08-31T15:12:19.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
+   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+   "link": "https://css-tricks.com/whats-important-18/",
+   "date": "2026-08-31T14:08:55.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+   "image": null
+  },
+  {
    "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
    "link": "https://symfony.com/blog/introducing-symfony-lsp-check-symfony-aware-diagnostics-in-your-ci?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-31T12:03:00.000Z",
@@ -882,6 +932,16 @@
    "image": null
   },
   {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
+   "image": null
+  },
+  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -899,16 +959,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 7.4.18 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 6.4.45 released",
-   "link": "https://symfony.com/blog/symfony-6-4-45-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-30T21:23:32.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 6.4.45 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
   },
   {
@@ -939,6 +989,16 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.4.25. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.25 please visit our , W",
+   "image": null
+  },
+  {
+   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+   "date": "2026-08-27T14:41:06.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
    "image": null
   },
   {
@@ -982,6 +1042,16 @@
    "image": null
   },
   {
+   "title": "animation-trigger",
+   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+   "date": "2026-08-26T15:38:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
+   "image": null
+  },
+  {
    "title": "The asteroid hitting frontend development",
    "link": "https://frontendfoc.us/issues/755",
    "date": "2026-08-26T00:00:00.000Z",
@@ -1002,6 +1072,16 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
    "title": "Last Call for the State of PHP Survey",
    "link": "https://www.php.net/index.php#2026-08-25-1",
    "date": "2026-08-25T08:38:33.000Z",
@@ -1012,6 +1092,36 @@
    "image": null
   },
   {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
+   "image": null
+  },
+  {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
+   "image": null
+  },
+  {
    "title": "LonghornPHP 2026",
    "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
    "date": "2026-08-18T10:14:50.000Z",
@@ -1019,16 +1129,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -1070,26 +1170,6 @@
    "source": "PortSwigger Research",
    "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   }
  ]
 }
