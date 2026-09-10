@@ -1,24 +1,114 @@
 {
- "generatedAt": "2026-09-10T14:57:51.916Z",
+ "generatedAt": "2026-09-10T19:38:59.362Z",
  "articles": [
   {
-   "title": "Cloud Abstraction Tools: Potential Pitfalls and Strategies to Streamline DevOps Operations",
-   "link": "https://dev.to/maricode/cloud-abstraction-tools-potential-pitfalls-and-strategies-to-streamline-devops-operations-1d6k",
-   "date": "2026-09-10T14:43:25.000Z",
+   "title": "Adaptive ΔE00 feedback control: engineering GPU-resident perceptual locks for Shadow’s MiniMax Direct multimodal rendering pipeline",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/adaptive-de00-feedback-control-engineering-gpu-resident-perceptual-locks-for-shadows-minimax-gaf",
+   "date": "2026-09-10T19:31:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Cloud abstraction tools promise to simplify the lives of DevOps teams by translating complex infrastructure configurations into reusable, simplified code. In theory, this should reduce operational complexity",
+   "summary": "If you have ever watched a long playback session where skin tones subtly shift green, or seen a logo drift from brand red into something resembling burgundy, you have seen perceptual drift in action. On Shadow's renderin",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9gccc3e4jue9h4mbdmtd.jpg"
+  },
+  {
+   "title": "Self-hosting open source is easy. Running it in production is not.",
+   "link": "https://dev.to/amitshuklabag/self-hosting-open-source-is-easy-running-it-in-production-is-not-i72",
+   "date": "2026-09-10T19:24:53.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You picked an open source tool on purpose. Maybe it was n8n instead of a per-task automation SaaS, Keycloak instead of paying per active user for auth, Postgres and Grafana and Mattermost instead of three separate subscr",
    "image": null
   },
   {
-   "title": "Explore Crypto Trading with a Bitget Account",
-   "link": "https://dev.to/kycidea22/explore-crypto-trading-with-a-bitget-account-cf2",
-   "date": "2026-09-10T14:43:20.000Z",
+   "title": "Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core",
+   "link": "https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk",
+   "date": "2026-09-10T19:16:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Bitget Account is created to offer ease of access to a contemporary cryptocurrency trading platform for users that want convenient access. A Bitget account allows users to access a wide range of digital assets, track mar",
+   "summary": "When we started rebuilding Shadow's media pipeline last year, we hit a wall with colour drift between synthesis passes. Our core generates multimodal frames at 24fps, but every subsystem had its own notion of what \"colou",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj27abcjjhqzjpwd3wx8g.jpg"
+  },
+  {
+   "title": "Your API Key Will Leak. Make That Not Matter",
+   "link": "https://dev.to/neostorm112boop/your-api-key-will-leak-make-that-not-matter-1n0g",
+   "date": "2026-09-10T19:15:38.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "According to GitGuardian's State of Secrets Sprawl report, about 23.7 million secrets — API keys, tokens, passwords — leaked into public GitHub in 2024 alone. The overwhelming majority aren't the result of a hack; they'r",
+   "image": null
+  },
+  {
+   "title": "Beyond the Standup Vibe: Quantifying Human-vs-AI Engineering Contribution with Multi-Layered Telemetry",
+   "link": "https://dev.to/isuvo/beyond-the-standup-vibe-quantifying-human-vs-ai-engineering-contribution-with-multi-layered-7ho",
+   "date": "2026-09-10T19:15:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction For years, engineering leaders have operated under a polite fiction: that we can accurately gauge the health, productivity, and output of our software development teams through a combination of qualitative s",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcgptj9kya9ui0p0qgvs6.jpg"
+  },
+  {
+   "title": "Multi-stage Docker builds: ship the artifact, not the build shop",
+   "link": "https://dev.to/amitshuklabag/multi-stage-docker-builds-ship-the-artifact-not-the-build-shop-3o6l",
+   "date": "2026-09-10T19:14:54.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most Node images I inherit are somewhere north of a gigabyte. The app inside is maybe 40 MB. The other gigabyte is the build shop: compilers, dev dependencies, the npm cache, a full copy of the source, and whatever the b",
+   "image": null
+  },
+  {
+   "title": "When AI Gateways Lie: Debugging Upstream Channel Eviction and Routing Desync in Production",
+   "link": "https://dev.to/zimei07/when-ai-gateways-lie-debugging-upstream-channel-eviction-and-routing-desync-in-production-430l",
+   "date": "2026-09-10T18:58:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At 03:14 UTC, our automated prompt evaluation pipeline integrating the f/prompts.chat catalog stalled against our upstream relay cluster. No gradual latency creep warned us, and no error budget alert burned down over hou",
+   "image": null
+  },
+  {
+   "title": "Building an Event-Driven Order Processing System with AWS Lambda, SQS, DynamoDB, EventBridge, and Terraform",
+   "link": "https://dev.to/usama_saleem_148/building-an-event-driven-order-processing-system-with-aws-lambda-sqs-dynamodb-eventbridge-and-569l",
+   "date": "2026-09-10T18:55:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In my previous AWS projects, I worked with services such as DynamoDB, Lambda, API Gateway, S3, IAM, and Terraform. This time, I wanted to build something a little closer to a real production architecture. Instead of proc",
+   "image": null
+  },
+  {
+   "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+   "date": "2026-09-10T17:47:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg"
+  },
+  {
+   "title": "Bifrost Turns One With AI Builds and New Workflows",
+   "link": "https://laravel-news.com/bifrost-first-anniversary?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-10T17:06:47.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Bifrost marks its first year and 10,000 successful builds with an MCP server, automated workflows, managed credentials, and AI build diagnoses. The post Bifrost Turns One With AI Builds and New Workflows appeared first o",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Bifrost-Option-2-LN.png"
+  },
+  {
+   "title": "Centarro: Centarro Bootstrap: A Centralized Design System for Drupal Commerce",
+   "link": "https://www.centarro.io/blog/centarro-bootstrap-centralized-design-system-drupal-commerce",
+   "date": "2026-09-10T15:08:08.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Register for our next webinar to see a live demonstration of Centarro Bootstrap. Every new theme for a Drupal Commerce project starts with the same sequence: define your colors, configure button styles, set typography, s",
    "image": null
   },
   {
@@ -30,66 +120,6 @@
    "source": "The Hacker News",
    "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the off",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
-  },
-  {
-   "title": "Solución de errores \"Puerto ya asignado\" y YAML en Docker Compose (100% en el navegador)",
-   "link": "https://dev.to/castellanovargasdavidbeep/solucion-de-errores-puerto-ya-asignado-y-yaml-en-docker-compose-100-en-el-navegador-539f",
-   "date": "2026-09-10T14:22:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every developer who deploys local containers or manages a homelab has run into this error at some point: Error response from daemon: ports are not available: exposing port TCP 0.0.0.0:5432 -> 0.0.0.0:0: listen tcp 0.0.0.",
-   "image": null
-  },
-  {
-   "title": "I Wanted to Learn Al. Al Gave Me a 200 Tool Shopping List 😅",
-   "link": "https://dev.to/i_am_vesh/i-wanted-to-learn-al-al-gave-me-a-200-tool-shopping-list-10gc",
-   "date": "2026-09-10T14:15:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I’ve been thinking seriously about my next career move, and I’m honestly a bit confused about where to put my effort. My background is mainly Data Engineering + DevOps. I’ve worked with AWS and Azure, built data pipeline",
-   "image": null
-  },
-  {
-   "title": "MCP, Context, and Agents: Building the AI-Native SDLC",
-   "link": "https://dev.to/chris-faraglia/mcp-context-and-agents-building-the-ai-native-sdlc-b7i",
-   "date": "2026-09-10T14:14:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Everyone is aware of AI’s value in the software development lifecycle (SDLC). It can reduce repetitive work and accelerate development. As a result, over 90% of surveyed developers have reported meaningful productivity g",
-   "image": null
-  },
-  {
-   "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-   "link": "https://dev.to/rasne/1111-now-supports-post-quantum-dnssec-all-2420-bytes-of-it-37i3",
-   "date": "2026-09-10T14:13:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Canonical: 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it — read the full article on rasne.dev. You can now validate ML-DSA-44 DNSSEC on 1.1.1.1, but larger signatures may push your DNS path to TCP fallb",
-   "image": null
-  },
-  {
-   "title": "567 Popular Platforms for Buying Gmail Accounts in Bulk 2019",
-   "link": "https://dev.to/tvnqbe3691/567-popular-platforms-for-buying-gmail-accounts-in-bulk-2019-40hn",
-   "date": "2026-09-10T13:59:30.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Gmail Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-gmail-accounts-2/ Buy Gmail Accounts. In today’s digital age, knowing how to buy Gmail account is not only useful—it’s essential. Whether you",
-   "image": null
-  },
-  {
-   "title": "One Studio, Five Disciplines: What Hadrus Digital Actually Does",
-   "link": "https://dev.to/henry_david_891e39d86dd60/one-studio-five-disciplines-what-hadrus-digital-actually-does-274l",
-   "date": "2026-09-10T13:58:56.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most companies looking to build or fix a digital product end up stitching together a patchwork of vendors, a design freelancer here, a DevOps contractor there, an agency for growth, another shop for the app. Each handoff",
-   "image": null
   },
   {
    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
@@ -282,16 +312,6 @@
    "image": null
   },
   {
-   "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-   "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-   "date": "2026-09-09T18:26:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQQNutHn5K2x_gd-2eyAP0wzneQ3mOSl3jaaRHGFDUY1O95tuckdjL_botXvrBlt_ts6Bjb91JU4Z-B74VAceL1cYa3oMlt91mHSxZP_FiiVTJLfL8UBUgoBIvjJCuI7Nma3dOxJ48n4wS5VvoBWRDNYqwlYIfStXIKTDBUrRXBIWITx_TprflrVXqjum/s1600/xinbi.jpg"
-  },
-  {
    "title": "Elizabeth Garrett Christensen: 30 Years of Postgres Architecture: Tom Lane Interview",
    "link": "https://postgr.es/p/9ue",
    "date": "2026-09-09T17:40:00.000Z",
@@ -482,16 +502,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/u72fk6nihuuzxi8gvc7t.jpg"
   },
   {
-   "title": "Cheppers: ExperienceKit: AI Content Governance - A Practical Framework for Digital Teams",
-   "link": "https://cheppers.com/post/experiencekit-ai-content-governance---a-practical-framework-for-digital-teams",
-   "date": "2026-09-09T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Somewhere in your organization, someone put AI-generated content on your website this week. Nothing marks those pages as AI-generated, and no record exists of which tool produced them, from what prompt, or who checked th",
-   "image": null
-  },
-  {
    "title": "On the Navier–Stokes Millennium Prize Problem",
    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
    "date": "2026-09-08T23:55:12.000Z",
@@ -630,16 +640,6 @@
    "source": "Laravel News",
    "summary": "Fuzz brings coverage-guided fuzz testing to Pest 5, generating inputs to find failures beyond the cases you write by hand. The post Find Unexpected Test Inputs with Fuzz for Pest appeared first on Laravel News. Join the ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Fuzz-LN.png"
-  },
-  {
-   "title": "Laravel Rulebook: Business Rules That Change by Date",
-   "link": "https://laravel-news.com/laravel-rulebook?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-07T03:54:58.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Rulebook resolves which version of a business rule applied on a given date, returns one winner, and explains why every other rule lost. The post Laravel Rulebook: Business Rules That Change by Date appeared first",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Rulebook-LN.png"
   },
   {
    "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
@@ -782,6 +782,16 @@
    "image": null
   },
   {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "image": null
+  },
+  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -820,6 +830,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -909,6 +929,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1032,16 +1062,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1787734551/qkp7dzi9ablsjjebauky.png"
   },
   {
-   "title": "What's in a tag name? JavaScript, apparently",
-   "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-   "date": "2026-08-25T14:24:32.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
-   "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
-  },
-  {
    "title": "MicroLighter: Syntax Highlighter",
    "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
    "date": "2026-08-25T14:10:34.000Z",
@@ -1102,16 +1122,6 @@
    "image": null
   },
   {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1120,56 +1130,6 @@
    "source": "Frontend Focus",
    "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
-  },
-  {
-   "title": "CSS:the bomb inside your inbox",
-   "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-   "date": "2026-08-06T22:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
-   "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
-   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
-   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
-   "date": "2026-08-05T23:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
-   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
-  },
-  {
-   "title": "Can AI do novel security research? Meet the HTTP Terminator",
-   "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-   "date": "2026-08-05T19:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
-   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   }
  ]
 }
