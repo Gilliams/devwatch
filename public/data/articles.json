@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-09-10T09:39:37.700Z",
+ "generatedAt": "2026-09-10T14:57:51.916Z",
  "articles": [
   {
-   "title": "CI to GitOps Handoff: Argo Image Updater vs. CI-Writes-the-Commit vs. Kargo",
-   "link": "https://dev.to/aloknecessary/ci-to-gitops-handoff-argo-image-updater-vs-ci-writes-the-commit-vs-kargo-468",
-   "date": "2026-09-10T09:23:01.000Z",
+   "title": "Cloud Abstraction Tools: Potential Pitfalls and Strategies to Streamline DevOps Operations",
+   "link": "https://dev.to/maricode/cloud-abstraction-tools-potential-pitfalls-and-strategies-to-streamline-devops-operations-1d6k",
+   "date": "2026-09-10T14:43:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ArgoCD only reconciles what's in Git. A CI pipeline builds an image, pushes it to a registry — and then what? Something has to turn \"a new image exists\" into \"a commit exists in the GitOps repo referencing it.\" That hand",
+   "summary": "Introduction Cloud abstraction tools promise to simplify the lives of DevOps teams by translating complex infrastructure configurations into reusable, simplified code. In theory, this should reduce operational complexity",
    "image": null
   },
   {
-   "title": "The AI Race Is a Governance Problem Before It Is a Superintelligence Problem",
-   "link": "https://dev.to/sirinivask/the-ai-race-is-a-governance-problem-before-it-is-a-superintelligence-problem-2g7i",
-   "date": "2026-09-10T09:13:56.000Z",
+   "title": "Explore Crypto Trading with a Bitget Account",
+   "link": "https://dev.to/kycidea22/explore-crypto-trading-with-a-bitget-account-cf2",
+   "date": "2026-09-10T14:43:20.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This week, a researcher who said he spent three years working at OpenAI and Anthropic resigned publicly and warned that leading labs are moving too quickly toward systems that may become difficult to control. His warning",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsmzclm1f0qv2wi90y5bd.png"
-  },
-  {
-   "title": "A compact quality gate for dataset handoffs",
-   "link": "https://dev.to/nimbliquestudio/a-compact-quality-gate-for-dataset-handoffs-3175",
-   "date": "2026-09-10T09:03:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A compact quality gate for dataset handoffs A dataset handoff should not start with “the export finished.” It should start with whether the receiving system can safely rely on the data. A useful gate has four short check",
+   "summary": "Bitget Account is created to offer ease of access to a contemporary cryptocurrency trading platform for users that want convenient access. A Bitget account allows users to access a wide range of digital assets, track mar",
    "image": null
   },
   {
-   "title": "Percona Operator for PostgreSQL 3.1.0 Adds TDE and Logical Replicas",
-   "link": "https://dev.to/soytuber/percona-operator-for-postgresql-310-adds-tde-and-logical-replicas-148o",
-   "date": "2026-09-10T09:02:25.000Z",
+   "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+   "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+   "date": "2026-09-10T14:36:47.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the off",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
+  },
+  {
+   "title": "Solución de errores \"Puerto ya asignado\" y YAML en Docker Compose (100% en el navegador)",
+   "link": "https://dev.to/castellanovargasdavidbeep/solucion-de-errores-puerto-ya-asignado-y-yaml-en-docker-compose-100-en-el-navegador-539f",
+   "date": "2026-09-10T14:22:51.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Percona Operator for PostgreSQL 3.1.0 introduces Transparent Data Encryption (TDE), dedicated logical replicas, and persistent logging for Kubernetes deployments. These architectural additions address key enterprise comp",
+   "summary": "Every developer who deploys local containers or manages a homelab has run into this error at some point: Error response from daemon: ports are not available: exposing port TCP 0.0.0.0:5432 -> 0.0.0.0:0: listen tcp 0.0.0.",
    "image": null
   },
   {
-   "title": "Canada for Developers: Quality of Life, Tech Hubs & Time Zone Data",
-   "link": "https://dev.to/quicktimeworld/canada-for-developers-quality-of-life-tech-hubs-time-zone-data-53kg",
-   "date": "2026-09-10T08:59:13.000Z",
+   "title": "I Wanted to Learn Al. Al Gave Me a 200 Tool Shopping List 😅",
+   "link": "https://dev.to/i_am_vesh/i-wanted-to-learn-al-al-gave-me-a-200-tool-shopping-list-10gc",
+   "date": "2026-09-10T14:15:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canada is becoming an increasingly interesting destination for software developers, cloud engineers, data scientists, DevOps professionals and remote engineering teams. With established technology hubs across Toronto, Va",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fseyamz4tkpn1aaqlzrwi.jpg"
-  },
-  {
-   "title": "From an API spec to an agent tool: a safer integration checklist",
-   "link": "https://dev.to/nimbliquestudio/from-an-api-spec-to-an-agent-tool-a-safer-integration-checklist-1ddb",
-   "date": "2026-09-10T08:58:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "From an API spec to an agent tool: a safer integration checklist An API becoming callable by an agent is not just a documentation task. It is a new execution surface: descriptions can steer tool selection, parameters can",
+   "summary": "I’ve been thinking seriously about my next career move, and I’m honestly a bit confused about where to put my effort. My background is mainly Data Engineering + DevOps. I’ve worked with AWS and Azure, built data pipeline",
    "image": null
   },
   {
-   "title": "Top 07 Platforms to Buy Telegram Accounts in US | DOCX",
-   "link": "https://dev.to/usasvcit436t/top-07-platforms-to-buy-telegram-accounts-in-us-docx-3k5p",
-   "date": "2026-09-10T08:41:59.000Z",
+   "title": "MCP, Context, and Agents: Building the AI-Native SDLC",
+   "link": "https://dev.to/chris-faraglia/mcp-context-and-agents-building-the-ai-native-sdlc-b7i",
+   "date": "2026-09-10T14:14:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com Define Your Communication Purpose Start by deciding why you need a messaging platform. Your purpose might be ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."
+   "summary": "Everyone is aware of AI’s value in the software development lifecycle (SDLC). It can reduce repetitive work and accelerate development. As a result, over 90% of surveyed developers have reported meaningful productivity g",
+   "image": null
   },
   {
-   "title": "Buy Verified KuCoin Accounts – Instant Delivery | PDF",
-   "link": "https://dev.to/usasvcit436t/buy-verified-kucoin-accounts-instant-delivery-pdf-4oe0",
-   "date": "2026-09-10T08:40:55.000Z",
+   "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+   "link": "https://dev.to/rasne/1111-now-supports-post-quantum-dnssec-all-2420-bytes-of-it-37i3",
+   "date": "2026-09-10T14:13:55.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Buy Verified KuCoin Accounts – Instant Delivery | PDF ➤ WhatsApp: +1 (903) 702-9701 @usasvcit usasvcit@gmail.com Learn the Basic Terminology Begin by learning fundamental concepts. Understand what an exchange is, what a ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Forpg3ppkxf8ry2hjvku2.jpg"
+   "summary": "Canonical: 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it — read the full article on rasne.dev. You can now validate ML-DSA-44 DNSSEC on 1.1.1.1, but larger signatures may push your DNS path to TCP fallb",
+   "image": null
+  },
+  {
+   "title": "567 Popular Platforms for Buying Gmail Accounts in Bulk 2019",
+   "link": "https://dev.to/tvnqbe3691/567-popular-platforms-for-buying-gmail-accounts-in-bulk-2019-40hn",
+   "date": "2026-09-10T13:59:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Buy Gmail Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-gmail-accounts-2/ Buy Gmail Accounts. In today’s digital age, knowing how to buy Gmail account is not only useful—it’s essential. Whether you",
+   "image": null
+  },
+  {
+   "title": "One Studio, Five Disciplines: What Hadrus Digital Actually Does",
+   "link": "https://dev.to/henry_david_891e39d86dd60/one-studio-five-disciplines-what-hadrus-digital-actually-does-274l",
+   "date": "2026-09-10T13:58:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most companies looking to build or fix a digital product end up stitching together a patchwork of vendors, a design freelancer here, a DevOps contractor there, an agency for growth, another shop for the app. Each handoff",
+   "image": null
+  },
+  {
+   "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+   "date": "2026-09-10T11:45:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"un",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg"
+  },
+  {
+   "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+   "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+   "date": "2026-09-10T11:41:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg"
+  },
+  {
+   "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+   "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+   "date": "2026-09-10T11:33:43.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
+  },
+  {
+   "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+   "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+   "date": "2026-09-10T10:36:46.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilia",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1600/cisa-list.jpg"
   },
   {
    "title": "Inside the First Three.js Conference in Paris",
@@ -142,6 +192,16 @@
    "image": null
   },
   {
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "link": "https://huggingface.co/blog/gradio-workflow-1111",
+   "date": "2026-09-10T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Ruohang Feng: Chinese PostgreSQL Docs Are Live: All 11 Major Versions",
    "link": "https://postgr.es/p/9uf",
    "date": "2026-09-10T00:00:00.000Z",
@@ -170,6 +230,26 @@
    "source": "Percona Blog",
    "summary": "Starting with Percona XtraDB Cluster (PXC) 8.0, replication traffic encryption is enabled by default. That said, it’s common to find clusters running without TLS that suddenly need it: a new compliance requirement, an au",
    "image": null
+  },
+  {
+   "title": "Preview Blade Templates in macOS Finder with Quick Blade",
+   "link": "https://laravel-news.com/quick-blade?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-09T22:24:09.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Quick Blade is a free macOS Quick Look extension that renders .blade.php files in Finder with your layout, compiled CSS, and stand-in data. The post Preview Blade Templates in macOS Finder with Quick Blade appeared first",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-quick-blade-featured.png"
+  },
+  {
+   "title": "Artisan Debugging Commands in Laravel Telescope 5.24.0",
+   "link": "https://laravel-news.com/laravel-telescope-5-24-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-09T21:33:11.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Telescope 5.24.0 adds two Artisan commands for inspecting recorded entries from the terminal and cancels stale dashboard requests during navigation. The post Artisan Debugging Commands in Laravel Telescope 5.24.0",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Telescope-LN.png"
   },
   {
    "title": "Dave Stokes: Structured Query Language 101 at Texas Linuxfest",
@@ -230,16 +310,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Yesterday I had the pleasure of speaking at PGDay UK 2026 in London, at the Cavendish Conference Centre. The talk was called 100,000 Lines of C Later: Re-architecting Enterprise Postgres Backups in Go. It was about the d",
    "image": "https://vyruss.org/blog/images/pgsafe_pgdayuk_2026_card_photo.jpg"
-  },
-  {
-   "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-   "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-   "date": "2026-09-09T16:34:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
   },
   {
    "title": "Social Media Engagement: summer 2026",
@@ -312,16 +382,6 @@
    "image": null
   },
   {
-   "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-   "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-   "date": "2026-09-09T14:23:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Inf",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYP_zrhRTZRWnPPcDkUrE7dBh2Bf5eaQmlBxyl7euTRGjS0C8boQppnrmjY0CIVjGrS_PF13V1W3BPVI3RDPZY59s_7xIkI8LnFkg3Tn_Q0x7_tbCs_sMkvhZMREtFLW3IOJSNNmQrKCDI88FCWhfymdWkEWtdMMRzivv3lZXImjreAz0d74VXt2K80ipH/s1600/tokens.jpg"
-  },
-  {
    "title": "Still: From Akira to Ink Wash, Building a Generative Garden in WebGPU",
    "link": "https://tympanus.net/codrops/2026/09/09/still-from-akira-to-ink-wash-building-a-generative-garden-in-webgpu/",
    "date": "2026-09-09T14:11:57.000Z",
@@ -342,16 +402,6 @@
    "image": "https://cp.drunomics.com/files/styles/940_470/public/2026-09/teaser-okb-announce.jpeg.webp?itok=TRTagwzg"
   },
   {
-   "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-   "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-   "date": "2026-09-09T11:57:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint too",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg"
-  },
-  {
    "title": "Metadrop: How to mark foreign words for accessibility in Drupal with the CKEditor Language plugin",
    "link": "https://metadrop.net/en/articles/how-to-mark-foreign-words-for-accessibility-in-drupal-with-the-ckeditor-language-plugin",
    "date": "2026-09-09T11:20:45.000Z",
@@ -360,26 +410,6 @@
    "source": "Drupal Planet",
    "summary": "The European Accessibility Act came into force in June 2025, raising WCAG AA compliance from a best practice to a legal requirement for most web projects in the EU. Among the criteria that standard covers, WCAG 3.1.2 is ",
    "image": null
-  },
-  {
-   "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-   "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-   "date": "2026-09-09T11:17:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands insid",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg"
-  },
-  {
-   "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-   "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-   "date": "2026-09-09T10:43:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
   },
   {
    "title": "Stuart Clark (Deciphered): Druxt (for Drupal) 1.3.x; the resource list is yours",
@@ -642,16 +672,6 @@
    "image": null
   },
   {
-   "title": "Taylor disabled GitHub Issues on most Laravel open-source packages.",
-   "link": "https://laravel-news.com/taylor-disabled-github-issues?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-04T20:13:41.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "If you hit a bug, describe it to a coding agent and open a PR. Even if the code isn't great, that's fine - code can be iterated on. The PR still documents the problem, and a proper fix can follow. The post Taylor disable",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pika-1788551267376-1x.png"
-  },
-  {
    "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
    "link": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
    "date": "2026-09-04T18:30:00.000Z",
@@ -670,16 +690,6 @@
    "source": "Codrops",
    "summary": "The Codrops mark, rebuilt as a draggable solid and printed in ASCII on the GPU, where every character cell searches 95 glyphs for its own.",
    "image": null
-  },
-  {
-   "title": "Exclude Vendor and Default Commands in `php artisan dev`",
-   "link": "https://laravel-news.com/artisan-dev-exclude-vendor-commands?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-04T14:53:14.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.30 adds DevCommands::withoutVendorCommands() and withoutDefaultCommands(), so php artisan dev runs only the processes your application registers. The post Exclude Vendor and Default Commands in `php artisan de",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/artisan-dev-opt-out-vendor-default-commands-featured.png"
   },
   {
    "title": "Kubernetes v1.37: DRA Updates",
@@ -772,16 +782,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -822,16 +822,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
   },
   {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
-  },
-  {
    "title": "htmx 4.0 takes HTML-driven apps further",
    "link": "https://frontendfoc.us/issues/756",
    "date": "2026-09-02T00:00:00.000Z",
@@ -869,16 +859,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "I am excited to announce that etcd RangeStream is graduating to beta in Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and etcd need to read a large collection, and makes peak usage more pr",
-   "image": null
-  },
-  {
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "link": "https://huggingface.co/blog/webgpu-kernels",
-   "date": "2026-09-01T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -929,16 +909,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1132,6 +1102,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1170,6 +1150,26 @@
    "source": "PortSwigger Research",
    "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   }
  ]
 }
