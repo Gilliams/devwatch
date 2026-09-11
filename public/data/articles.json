@@ -1,84 +1,134 @@
 {
- "generatedAt": "2026-09-10T19:38:59.362Z",
+ "generatedAt": "2026-09-11T01:01:30.179Z",
  "articles": [
   {
-   "title": "Adaptive ΔE00 feedback control: engineering GPU-resident perceptual locks for Shadow’s MiniMax Direct multimodal rendering pipeline",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/adaptive-de00-feedback-control-engineering-gpu-resident-perceptual-locks-for-shadows-minimax-gaf",
-   "date": "2026-09-10T19:31:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you have ever watched a long playback session where skin tones subtly shift green, or seen a logo drift from brand red into something resembling burgundy, you have seen perceptual drift in action. On Shadow's renderin",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9gccc3e4jue9h4mbdmtd.jpg"
-  },
-  {
-   "title": "Self-hosting open source is easy. Running it in production is not.",
-   "link": "https://dev.to/amitshuklabag/self-hosting-open-source-is-easy-running-it-in-production-is-not-i72",
-   "date": "2026-09-10T19:24:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You picked an open source tool on purpose. Maybe it was n8n instead of a per-task automation SaaS, Keycloak instead of paying per active user for auth, Postgres and Grafana and Mattermost instead of three separate subscr",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_connections",
+   "link": "https://postgr.es/p/9ug",
+   "date": "2026-09-11T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "max_connections is a memory budget and a circuit breaker wearing a capacity costume. It does not decide how many queries your server can run at once; the core count and the storage decide that, and they were decided when",
    "image": null
   },
   {
-   "title": "Bitemporal CIEDE2000 Calibration: Event-Sourced PostgreSQL Queues and Low-Latency SSE Telemetry for Shadow’s 24fps Multimodal Synthesis Core",
-   "link": "https://dev.to/biffer_rowley_4cdbf203087/bitemporal-ciede2000-calibration-event-sourced-postgresql-queues-and-low-latency-sse-telemetry-for-50fk",
-   "date": "2026-09-10T19:16:34.000Z",
+   "title": "LoRaWAN Gateway Fleet Management: Debug the Estate, Not One Box",
+   "link": "https://dev.to/robustel/lorawan-gateway-fleet-management-debug-the-estate-not-one-box-5fce",
+   "date": "2026-09-11T00:31:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When we started rebuilding Shadow's media pipeline last year, we hit a wall with colour drift between synthesis passes. Our core generates multimodal frames at 24fps, but every subsystem had its own notion of what \"colou",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj27abcjjhqzjpwd3wx8g.jpg"
-  },
-  {
-   "title": "Your API Key Will Leak. Make That Not Matter",
-   "link": "https://dev.to/neostorm112boop/your-api-key-will-leak-make-that-not-matter-1n0g",
-   "date": "2026-09-10T19:15:38.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "According to GitGuardian's State of Secrets Sprawl report, about 23.7 million secrets — API keys, tokens, passwords — leaked into public GitHub in 2024 alone. The overwhelming majority aren't the result of a hack; they'r",
+   "summary": "The Robustel R1520LG LoRaWAN Gateway fits distributed LoRaWAN gateway fleets where operators need monitoring, configuration management, firmware workflows, cellular backhaul visibility, and remote troubleshooting through",
    "image": null
   },
   {
-   "title": "Beyond the Standup Vibe: Quantifying Human-vs-AI Engineering Contribution with Multi-Layered Telemetry",
-   "link": "https://dev.to/isuvo/beyond-the-standup-vibe-quantifying-human-vs-ai-engineering-contribution-with-multi-layered-7ho",
-   "date": "2026-09-10T19:15:02.000Z",
+   "title": "Your Nightly Job Ran Twice on the DST Switch: Making Scheduled Jobs Timezone-Safe",
+   "link": "https://dev.to/libme/your-nightly-job-ran-twice-on-the-dst-switch-making-scheduled-jobs-timezone-safe-32hn",
+   "date": "2026-09-11T00:26:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction For years, engineering leaders have operated under a polite fiction: that we can accurately gauge the health, productivity, and output of our software development teams through a combination of qualitative s",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcgptj9kya9ui0p0qgvs6.jpg"
-  },
-  {
-   "title": "Multi-stage Docker builds: ship the artifact, not the build shop",
-   "link": "https://dev.to/amitshuklabag/multi-stage-docker-builds-ship-the-artifact-not-the-build-shop-3o6l",
-   "date": "2026-09-10T19:14:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most Node images I inherit are somewhere north of a gigabyte. The app inside is maybe 40 MB. The other gigabyte is the build shop: compilers, dev dependencies, the npm cache, a full copy of the source, and whatever the b",
+   "summary": "If your scheduler stores a wall-clock time in a local timezone, a job at 01:30 runs twice on the fall-back date and a job at 02:30 runs zero times on the spring-forward date. Setting TZ=America/New_York on your cron does",
    "image": null
   },
   {
-   "title": "When AI Gateways Lie: Debugging Upstream Channel Eviction and Routing Desync in Production",
-   "link": "https://dev.to/zimei07/when-ai-gateways-lie-debugging-upstream-channel-eviction-and-routing-desync-in-production-430l",
-   "date": "2026-09-10T18:58:14.000Z",
+   "title": "Treat Agent-Authored Fixtures as Untrusted Input",
+   "link": "https://dev.to/datacpp_8185/treat-agent-authored-fixtures-as-untrusted-input-33f3",
+   "date": "2026-09-11T00:19:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At 03:14 UTC, our automated prompt evaluation pipeline integrating the f/prompts.chat catalog stalled against our upstream relay cluster. No gradual latency creep warned us, and no error budget alert burned down over hou",
+   "summary": "A green suite after an agent patch does not validate the new fixtures. It often means the model invented bytes that agree with the code it just wrote. Treat those files as untrusted input. Require a provenance record, ke",
    "image": null
   },
   {
-   "title": "Building an Event-Driven Order Processing System with AWS Lambda, SQS, DynamoDB, EventBridge, and Terraform",
-   "link": "https://dev.to/usama_saleem_148/building-an-event-driven-order-processing-system-with-aws-lambda-sqs-dynamodb-eventbridge-and-569l",
-   "date": "2026-09-10T18:55:03.000Z",
+   "title": "The 6 logs your autonomous agent must write to survive the night",
+   "link": "https://dev.to/hive80lab/the-6-logs-your-autonomous-agent-must-write-to-survive-the-night-37k9",
+   "date": "2026-09-11T00:14:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In my previous AWS projects, I worked with services such as DynamoDB, Lambda, API Gateway, S3, IAM, and Terraform. This time, I wanted to build something a little closer to a real production architecture. Instead of proc",
+   "summary": "Run an autonomous agent overnight and the failure mode that kills it usually isn't a hallucination. It's amnesia. At 01:40 the agent hits an error, tries a fix, fails. At 02:15 it hits the same error, tries the same fix,",
+   "image": null
+  },
+  {
+   "title": "The escalation ladder that survives its first outage",
+   "link": "https://dev.to/hive80lab/the-escalation-ladder-that-survives-its-first-outage-3n6e",
+   "date": "2026-09-11T00:05:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The escalation ladder is the most-written, least-used document in small-team ops. Everyone 1. The ladder names job titles, not people. \"Escalate to the on-call lead.\" Which one? The 2. It escalates by seniority instead o",
+   "image": null
+  },
+  {
+   "title": "Automatically Deploy Your App to a VPS with GitHub Actions",
+   "link": "https://dev.to/urvin/automatically-deploy-your-app-to-a-vps-with-github-actions-4k5o",
+   "date": "2026-09-11T00:04:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If your deploy process is \"SSH into the server, cd to the app, git pull, restart something, hope\" — this post replaces it with git push. What you'll have by the end: every push to your main branch updates the app on your",
+   "image": null
+  },
+  {
+   "title": "Body camera activation gaps and accountability architecture: what the Blacktown Hospital assault tells security operators",
+   "link": "https://dev.to/xguardsecurity/body-camera-activation-gaps-and-accountability-architecture-what-the-blacktown-hospital-assault-p9g",
+   "date": "2026-09-11T00:00:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Body camera activation protocols fail at exactly the moment they're supposed to work A NSW police officer punches a restrained patient on a hospital gurney. The encounter was covered by both body-worn camera and fixed CC",
+   "image": null
+  },
+  {
+   "title": "Your Per-Edit Test Hook Is the Cost You Can't See",
+   "link": "https://dev.to/hexisteme/your-per-edit-test-hook-is-the-cost-you-cant-see-59e1",
+   "date": "2026-09-11T00:00:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on hexisteme notes. I audited a 24-day session on a short-form video pipeline I run with a small fleet of coding agents. On paper the headline numbers were unremarkable for a project that size: 52,18",
+   "image": null
+  },
+  {
+   "title": "Any Nix package, live in your browser",
+   "link": "https://simonwillison.net/2026/Sep/10/trynix/",
+   "date": "2026-09-10T23:44:15.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser thro",
+   "image": null
+  },
+  {
+   "title": "Native is now the future of mobile at Shopify",
+   "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+   "date": "2026-09-10T21:11:15.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from nativ",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
+   "link": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/",
+   "date": "2026-09-10T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.3",
+   "image": null
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #569 - Site Templates",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-569-site-templates",
+   "date": "2026-09-10T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "On today's show we are talking about Site Templates, What they do, and How you can use them with guests Tim Lehnen & Adam Globus-Hoenich. We'll also cover Haven as our module of the week. For show notes visit: https://ww",
    "image": null
   },
   {
@@ -452,16 +502,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
-   "title": "Salsa Digital: Drupal AI Context — beta 5 released",
-   "link": "/insights/drupal-ai-context-beta-5-released?utm_source=drupalplanet",
-   "date": "2026-09-09T06:45:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Beta 5 release of Drupal AI Context Beta 5 of Drupal AI Context , also known as Context Control Center (CCC), is now available. This is expected to be the final beta release, and an RC 1 release should be available soon.",
-   "image": null
-  },
-  {
    "title": "Queue totalSize() and JobInterrupted Event in Laravel 13.31",
    "link": "https://laravel-news.com/laravel-13-31-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-09T03:39:27.000Z",
@@ -502,13 +542,13 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/u72fk6nihuuzxi8gvc7t.jpg"
   },
   {
-   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
    "date": "2026-09-08T23:55:12.000Z",
    "theme": "ia",
    "themeName": "IA",
    "source": "Simon Willison",
-   "summary": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize ",
+   "summary": "On the Navier–Stokes Millennium Prize Problem introduces an impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Mil",
    "image": null
   },
   {
@@ -519,16 +559,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-f",
-   "image": null
-  },
-  {
-   "title": "David E. Wheeler: From the Department of It&rsquo;s About Time: Inter-documentation and image links now work on PGXN",
-   "link": "https://postgr.es/p/9u6",
-   "date": "2026-09-08T22:11:02.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Way back in 2015, I opened a PGXN API issue to allow links between documents rendered by PGXN to work. In 2024 I followed up with another issue to enable relative links to images to work. I mean, everyone wants this, rig",
    "image": null
   },
   {
@@ -589,26 +619,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
-   "image": null
-  },
-  {
-   "title": "Creepy crawlies",
-   "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
-   "date": "2026-09-07T23:08:58.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Creepy crawlies Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend ",
-   "image": null
-  },
-  {
-   "title": "Quoting Jakub Pachocki",
-   "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-   "date": "2026-09-07T22:26:25.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secur",
    "image": null
   },
   {
@@ -782,16 +792,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -830,16 +830,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -932,16 +922,6 @@
    "image": null
   },
   {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
-   "image": null
-  },
-  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -960,16 +940,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 7.4.18 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
-  },
-  {
-   "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
-   "link": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/",
-   "date": "2026-08-28T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Pod Certificate / Cluster Trust Bundles Blog Post Kubernetes brings a wealth of features that make it easy to run your production workloads securely and reliably. While aspects like scheduling, health checks and resource",
-   "image": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/pod-certificates-architecture.svg"
   },
   {
    "title": "PHP 8.5.10 Released!",
@@ -1062,6 +1032,16 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1787734551/qkp7dzi9ablsjjebauky.png"
   },
   {
+   "title": "What's in a tag name? JavaScript, apparently",
+   "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+   "date": "2026-08-25T14:24:32.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
+   "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
+  },
+  {
    "title": "MicroLighter: Syntax Highlighter",
    "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
    "date": "2026-08-25T14:10:34.000Z",
@@ -1122,6 +1102,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1130,6 +1120,56 @@
    "source": "Frontend Focus",
    "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
+  },
+  {
+   "title": "CSS:the bomb inside your inbox",
+   "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+   "date": "2026-08-06T22:00:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
+   "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
+  },
+  {
+   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
+   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
+   "date": "2026-08-05T23:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
+   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
+  },
+  {
+   "title": "Can AI do novel security research? Meet the HTTP Terminator",
+   "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
+   "date": "2026-08-05T19:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "PortSwigger Research",
+   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
+   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   }
  ]
 }
