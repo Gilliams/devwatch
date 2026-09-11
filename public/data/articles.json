@@ -1,6 +1,166 @@
 {
- "generatedAt": "2026-09-11T01:01:30.179Z",
+ "generatedAt": "2026-09-11T09:36:31.729Z",
  "articles": [
+  {
+   "title": "When a VPN Connects but Large Transfers Stall: Build an MTU Evidence Case",
+   "link": "https://dev.to/m_montazeri/when-a-vpn-connects-but-large-transfers-stall-build-an-mtu-evidence-case-17c0",
+   "date": "2026-09-11T09:32:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A VPN reaches its connected state. A small request succeeds. A larger transfer hangs. That pattern deserves a packet-size investigation, but it does not identify the cause by itself. The useful next step is to build a re",
+   "image": null
+  },
+  {
+   "title": "Testing Industrial IoT Monitoring Systems: Beyond the Happy Path",
+   "link": "https://dev.to/techwithunnati/testing-industrial-iot-monitoring-systems-beyond-the-happy-path-nh4",
+   "date": "2026-09-11T09:29:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Industrial IoT applications have an unusual testing challenge: the software is only one part of the system. A typical monitoring setup may include sensors, analyzers, gateways, communication networks, databases, dashboar",
+   "image": null
+  },
+  {
+   "title": "InfraOS AI — Stop Staring at Graphs, Just Ask Your Cluster",
+   "link": "https://dev.to/isidhartha/infraos-ai-stop-staring-at-graphs-just-ask-your-cluster-2fk",
+   "date": "2026-09-11T09:25:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I was on-call for a service once and got paged at 2am for a Kubernetes cluster that was falling apart in three different ways simultaneously. I spent 45 minutes running kubectl commands to understand what was happening b",
+   "image": null
+  },
+  {
+   "title": "Can a Modest Laptop Handle Gigantic Text Files? I Measured 12 Tools from 3 GB to 250 GB",
+   "link": "https://dev.to/amru195704/can-a-modest-laptop-handle-gigantic-text-files-i-measured-12-tools-from-3-gb-to-250-gb-5e7p",
+   "date": "2026-09-11T09:23:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A Windows laptop with 16 GB of RAM, and a Mac (M4) with 32 GB. Files on an external USB SSD. On those two machines, with files many times larger than RAM, I have been measuring every tool that claims to handle gigantic t",
+   "image": null
+  },
+  {
+   "title": "We checked SPF, DKIM and DMARC in 45 minutes. We found a tool nobody knew could email customers.",
+   "link": "https://dev.to/hive80lab/we-checked-spf-dkim-and-dmarc-in-45-minutes-we-found-a-tool-nobody-knew-could-email-customers-4kjh",
+   "date": "2026-09-11T09:23:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "We checked SPF, DKIM and DMARC in 45 minutes. We found a tool nobody knew could email customers. Deliverability sounds like a marketing problem, which is why most small teams never check it until it's an operations probl",
+   "image": null
+  },
+  {
+   "title": "My upload verified byte-exact, then the host re-encoded it three seconds later",
+   "link": "https://dev.to/build996/my-upload-verified-byte-exact-then-the-host-re-encoded-it-three-seconds-later-4n32",
+   "date": "2026-09-11T09:21:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I deployed a PHP app with about 1,500 book covers to a free host, and my deploy script did the sensible thing: upload, read each file back, compare. Every file matched. The deploy passed. The covers were a different size",
+   "image": null
+  },
+  {
+   "title": "Berliners blog: Rebuilding a data-driven Drupal site: Separating data objects from pages",
+   "link": "https://blog.dev030.com/posts/rebuilding-data-driven-drupal-site-separating-data-objects-pages",
+   "date": "2026-09-11T09:07:05.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Rebuilding a data-driven Drupal site: Separating data objects from pages In the previous post in this series, I described how we rebuilt our page templates with Layout Builder. I ended that post by mentioning that templa",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-2dld",
+   "date": "2026-09-11T09:06:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "When the Third-Party API Is the Riskiest Part of Your Project",
+   "link": "https://dev.to/sonaljain_si/when-the-third-party-api-is-the-riskiest-part-of-your-project-3jkc",
+   "date": "2026-09-11T09:00:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On most projects the riskiest component is one we did not build. A payment gateway, a courier's tracking API, a government identity check, a maps provider, an SMS service. Our own code we can fix at midnight. A vendor's ",
+   "image": null
+  },
+  {
+   "title": "Radim Marek: The unbearable lightness of one more index",
+   "link": "https://postgr.es/p/9uh",
+   "date": "2026-09-11T08:15:45.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Being \"the database guy\" comes with a lot of questions, and over the last eight months those questions changed. The repetitive ones disappeared, nobody asks how to avoid putting things in the database any more, and the c",
+   "image": "https://boringsql.com/images/posts/unbearable-lightness-of-one-more-index-reads-light.svg"
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: Calling the Symfony Container from Legacy Code",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-calling-the-symfony-container-from-legacy-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-11T08:00:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Save the date for SymfonyCon Warsaw 2026 on November 26-27 in Warsaw, Poland! Experience two days of learning and networking with 3 parallel tracks and exciting community events. 🎤 Speaker announcement Next up in Warsaw",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+   "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+   "date": "2026-09-11T07:31:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg"
+  },
+  {
+   "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+   "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+   "date": "2026-09-11T07:14:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
+  },
+  {
+   "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+   "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+   "date": "2026-09-11T06:46:18.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The softw",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
+  },
+  {
+   "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+   "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+   "date": "2026-09-11T06:19:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks lever",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg"
+  },
+  {
+   "title": "Datasette 1.0a39 and 0.65.4 security releases",
+   "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+   "date": "2026-09-11T03:27:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are secur",
+   "image": null
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_connections",
    "link": "https://postgr.es/p/9ug",
@@ -9,86 +169,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "max_connections is a memory budget and a circuit breaker wearing a capacity costume. It does not decide how many queries your server can run at once; the core count and the storage decide that, and they were decided when",
-   "image": null
-  },
-  {
-   "title": "LoRaWAN Gateway Fleet Management: Debug the Estate, Not One Box",
-   "link": "https://dev.to/robustel/lorawan-gateway-fleet-management-debug-the-estate-not-one-box-5fce",
-   "date": "2026-09-11T00:31:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Robustel R1520LG LoRaWAN Gateway fits distributed LoRaWAN gateway fleets where operators need monitoring, configuration management, firmware workflows, cellular backhaul visibility, and remote troubleshooting through",
-   "image": null
-  },
-  {
-   "title": "Your Nightly Job Ran Twice on the DST Switch: Making Scheduled Jobs Timezone-Safe",
-   "link": "https://dev.to/libme/your-nightly-job-ran-twice-on-the-dst-switch-making-scheduled-jobs-timezone-safe-32hn",
-   "date": "2026-09-11T00:26:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If your scheduler stores a wall-clock time in a local timezone, a job at 01:30 runs twice on the fall-back date and a job at 02:30 runs zero times on the spring-forward date. Setting TZ=America/New_York on your cron does",
-   "image": null
-  },
-  {
-   "title": "Treat Agent-Authored Fixtures as Untrusted Input",
-   "link": "https://dev.to/datacpp_8185/treat-agent-authored-fixtures-as-untrusted-input-33f3",
-   "date": "2026-09-11T00:19:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A green suite after an agent patch does not validate the new fixtures. It often means the model invented bytes that agree with the code it just wrote. Treat those files as untrusted input. Require a provenance record, ke",
-   "image": null
-  },
-  {
-   "title": "The 6 logs your autonomous agent must write to survive the night",
-   "link": "https://dev.to/hive80lab/the-6-logs-your-autonomous-agent-must-write-to-survive-the-night-37k9",
-   "date": "2026-09-11T00:14:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Run an autonomous agent overnight and the failure mode that kills it usually isn't a hallucination. It's amnesia. At 01:40 the agent hits an error, tries a fix, fails. At 02:15 it hits the same error, tries the same fix,",
-   "image": null
-  },
-  {
-   "title": "The escalation ladder that survives its first outage",
-   "link": "https://dev.to/hive80lab/the-escalation-ladder-that-survives-its-first-outage-3n6e",
-   "date": "2026-09-11T00:05:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The escalation ladder is the most-written, least-used document in small-team ops. Everyone 1. The ladder names job titles, not people. \"Escalate to the on-call lead.\" Which one? The 2. It escalates by seniority instead o",
-   "image": null
-  },
-  {
-   "title": "Automatically Deploy Your App to a VPS with GitHub Actions",
-   "link": "https://dev.to/urvin/automatically-deploy-your-app-to-a-vps-with-github-actions-4k5o",
-   "date": "2026-09-11T00:04:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If your deploy process is \"SSH into the server, cd to the app, git pull, restart something, hope\" — this post replaces it with git push. What you'll have by the end: every push to your main branch updates the app on your",
-   "image": null
-  },
-  {
-   "title": "Body camera activation gaps and accountability architecture: what the Blacktown Hospital assault tells security operators",
-   "link": "https://dev.to/xguardsecurity/body-camera-activation-gaps-and-accountability-architecture-what-the-blacktown-hospital-assault-p9g",
-   "date": "2026-09-11T00:00:52.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Body camera activation protocols fail at exactly the moment they're supposed to work A NSW police officer punches a restrained patient on a hospital gurney. The encounter was covered by both body-worn camera and fixed CC",
-   "image": null
-  },
-  {
-   "title": "Your Per-Edit Test Hook Is the Cost You Can't See",
-   "link": "https://dev.to/hexisteme/your-per-edit-test-hook-is-the-cost-you-cant-see-59e1",
-   "date": "2026-09-11T00:00:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on hexisteme notes. I audited a 24-day session on a short-form video pipeline I run with a small fleet of coding agents. On paper the headline numbers were unremarkable for a project that size: 52,18",
    "image": null
   },
   {
@@ -172,6 +252,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg"
   },
   {
+   "title": "Joachim's blog: Putting paths first: Views support for path alias entities",
+   "link": "http://www.noreiko.com/blog/putting-paths-first-views-support-path-alias-entities",
+   "date": "2026-09-10T12:56:02.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Putting paths first: Views support for path alias entities On a recent project, I was struck by how the content editors used spreadsheets to manage their content. This wasn't just as a planning tool in the early stages; ",
+   "image": "http://www.noreiko.com/sites/default/files/article/image/2026-09/path-alias-views-admin-view.png"
+  },
+  {
    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
    "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
    "date": "2026-09-10T11:45:05.000Z",
@@ -192,26 +282,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg"
   },
   {
-   "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-   "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-   "date": "2026-09-10T11:33:43.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
-  },
-  {
-   "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-   "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-   "date": "2026-09-10T10:36:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilia",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1600/cisa-list.jpg"
-  },
-  {
    "title": "Inside the First Three.js Conference in Paris",
    "link": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
    "date": "2026-09-10T08:30:11.000Z",
@@ -230,26 +300,6 @@
    "source": "Symfony Blog",
    "summary": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. Join us for a great worldwide conference with 3 parallel tracks and community events. \ud83c",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-   "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-   "date": "2026-09-10T07:12:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a co",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg"
-  },
-  {
-   "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-   "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-   "date": "2026-09-10T07:04:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_active_replication_origins",
@@ -472,26 +522,6 @@
    "image": "https://cp.drunomics.com/files/styles/940_470/public/2026-09/teaser-okb-announce.jpeg.webp?itok=TRTagwzg"
   },
   {
-   "title": "Metadrop: How to mark foreign words for accessibility in Drupal with the CKEditor Language plugin",
-   "link": "https://metadrop.net/en/articles/how-to-mark-foreign-words-for-accessibility-in-drupal-with-the-ckeditor-language-plugin",
-   "date": "2026-09-09T11:20:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The European Accessibility Act came into force in June 2025, raising WCAG AA compliance from a best practice to a legal requirement for most web projects in the EU. Among the criteria that standard covers, WCAG 3.1.2 is ",
-   "image": null
-  },
-  {
-   "title": "Stuart Clark (Deciphered): Druxt (for Drupal) 1.3.x; the resource list is yours",
-   "link": "https://stuar.tc/writing/druxt-drupal-13x-resource-list-yours-20260909?utm_source=planet-drupal&utm_medium=rss&utm_campaign=syndication",
-   "date": "2026-09-09T09:30:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Druxt's Drupal module carries a list of twelve JSON:API resources it answers for. It's been the same twelve since 2021, hardcoded in a PHP array, and changing it has meant carrying a patch. 1.3.0, tagged today, makes tha",
-   "image": null
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: PHP wasn't supposed to do that",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-php-wasn-t-supposed-to-do-that?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-09T09:00:00.000Z",
@@ -510,16 +540,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.31 adds Queue::totalSize() to count every job on a connection, a JobInterrupted event, and chaperone support for BelongsToMany pivot models. The post Queue totalSize() and JobInterrupted Event in Laravel 13.31",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: maintenance_work_mem",
-   "link": "https://postgr.es/p/9u9",
-   "date": "2026-09-09T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Unlock faster index builds and vacuum operations by understanding maintenance_work_mem: PostgreSQL's one-allocation memory budget that actually behaves like…",
-   "image": null
   },
   {
    "title": "Quoting Terence Tao",
@@ -612,13 +632,13 @@
    "image": null
   },
   {
-   "title": "llm 0.35",
-   "link": "https://simonwillison.net/2026/Sep/7/llm/",
-   "date": "2026-09-07T23:54:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+   "title": "No need",
+   "link": "https://stitcher.io/blog/no-need",
+   "date": "2026-09-08T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/no-need",
    "image": null
   },
   {
@@ -699,6 +719,16 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "The Codrops mark, rebuilt as a draggable solid and printed in ASCII on the GPU, where every character cell searches 95 glyphs for its own.",
+   "image": null
+  },
+  {
+   "title": "No more issues",
+   "link": "https://stitcher.io/blog/no-more-issues",
+   "date": "2026-09-04T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
    "image": null
   },
   {
@@ -792,6 +822,16 @@
    "image": null
   },
   {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "image": null
+  },
+  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -830,6 +870,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -922,6 +972,16 @@
    "image": null
   },
   {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
+   "image": null
+  },
+  {
    "title": "Symfony 8.1.6 released",
    "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-08-30T21:44:04.000Z",
@@ -929,16 +989,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "Symfony 8.1.6 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
-   "title": "Symfony 7.4.18 released",
-   "link": "https://symfony.com/blog/symfony-7-4-18-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-30T21:39:49.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 7.4.18 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
   },
   {
@@ -1062,6 +1112,16 @@
    "image": null
   },
   {
+   "title": "\"A\" for \"Average\"",
+   "link": "https://stitcher.io/blog/a-for-average",
+   "date": "2026-08-25T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/a-for-average",
+   "image": null
+  },
+  {
    "title": "WordPress PHP-Only Block Registration",
    "link": "https://css-tricks.com/wordpress-php-block-registration/",
    "date": "2026-08-24T13:54:02.000Z",
@@ -1082,6 +1142,26 @@
    "image": null
   },
   {
+   "title": "\"A\" for \"Apathy\"",
+   "link": "https://stitcher.io/blog/a-for-apathy",
+   "date": "2026-08-21T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/a-for-apathy",
+   "image": null
+  },
+  {
+   "title": "Summer chaos",
+   "link": "https://stitcher.io/blog/summer-chaos",
+   "date": "2026-08-20T00:00:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
+   "image": null
+  },
+  {
    "title": "CSS Navigation Matching, Early Days",
    "link": "https://css-tricks.com/css-navigation-matching-early-days/",
    "date": "2026-08-19T14:44:41.000Z",
@@ -1099,16 +1179,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
    "image": null
   },
   {
@@ -1152,23 +1222,13 @@
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
+   "title": "What's new in PHP 8.6",
+   "link": "https://stitcher.io/blog/new-in-php-86",
+   "date": "2026-07-29T00:00:00.000Z",
    "theme": "php",
    "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "source": "stitcher.io",
+   "summary": "Read the full post on https://stitcher.io/blog/new-in-php-86",
    "image": null
   }
  ]
