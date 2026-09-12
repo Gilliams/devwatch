@@ -1,35 +1,125 @@
 {
- "generatedAt": "2026-09-12T09:15:49.824Z",
+ "generatedAt": "2026-09-12T19:15:48.239Z",
  "articles": [
   {
-   "title": "Cloudflare Workers moves module resolution from paths to URLs",
-   "link": "https://dev.to/soytuber/cloudflare-workers-moves-module-resolution-from-paths-to-urls-2g88",
-   "date": "2026-09-12T09:07:27.000Z",
+   "title": "A Screenshot Is Not an Agent Failure Artifact",
+   "link": "https://dev.to/raju_dandigam/a-screenshot-is-not-an-agent-failure-artifact-4phi",
+   "date": "2026-09-12T19:13:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cloudflare rewrote the module registry inside workerd so that specifiers resolve with URL semantics instead of as filesystem paths. That single change is what finally brings import.meta, spec-compliant import attributes,",
+   "summary": "A screenshot of an execution tree looks useful in a pull request. It is also missing almost everything a skeptical reviewer should ask: Which trace produced it? Was the trace changed after capture? Which redaction policy",
    "image": null
   },
   {
-   "title": "hybrid ai is becoming a platform contract",
-   "link": "https://dev.to/pvgomes/hybrid-ai-is-becoming-a-platform-contract-3pmc",
-   "date": "2026-09-12T09:01:19.000Z",
+   "title": "Assign a Drafter Role to Every Doc Path Before Models Generate Walkthroughs",
+   "link": "https://dev.to/github_7727/assign-a-drafter-role-to-every-doc-path-before-models-generate-walkthroughs-1ima",
+   "date": "2026-09-12T19:07:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The most important AI number of the last month was not a benchmark score. On August 11, 2026, Cloudera published survey results saying 95% of enterprises had delayed or canceled AI projects because infrastructure, govern",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhzgu3hiae5nlit5zn7l.gif"
+   "summary": "Generated API documentation fails when one writer both invents examples and asserts invariants that operations cannot prove. Path-level ownership is a more reliable control than a longer system prompt that begs the model",
+   "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Docker Multi-Stage Builds & Secrets: Eliminating Leaked Credentials",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-docker-multi-stage-builds-secrets-eliminating-leaked-credentials-1aad",
-   "date": "2026-09-12T08:48:28.000Z",
+   "title": "shell.online Can Now Rotate a Live Session's Password Without a Restart. Removing a Teammate Was Never the Same as Revoking One.",
+   "link": "https://dev.to/artem_a/shellonline-can-now-rotate-a-live-sessions-password-without-a-restart-removing-a-teammate-was-2cbm",
+   "date": "2026-09-12T19:04:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "Anthropic published its threat intelligence report for December through August this week. The section on the ShinyHunters affiliates has one sentence worth reading twice: \"New credentials and durable access are minted so",
    "image": null
+  },
+  {
+   "title": "My freshness check went stale every time someone did the right thing",
+   "link": "https://dev.to/mahirhir/my-freshness-check-went-stale-every-time-someone-did-the-right-thing-1eni",
+   "date": "2026-09-12T19:03:23.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "We keep a register of rows that each cite a place in the codebase. A row is fresh while the bytes it cited are still there and stale once they move or change, so a citation can go red instead of quietly rotting. Nine of ",
+   "image": null
+  },
+  {
+   "title": "Which US-Based Software Development Companies Offer the Best Custom Software Solutions?",
+   "link": "https://dev.to/edwardsinclair/which-us-based-software-development-companies-offer-the-best-custom-software-solutions-5bok",
+   "date": "2026-09-12T19:01:28.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Finding the right software development company in the US can be surprisingly difficult. There are hundreds of agencies offering web development, mobile apps, SaaS products, cloud solutions, and enterprise software. The c",
+   "image": null
+  },
+  {
+   "title": "My privacy scan found 412 leaks. 374 of them were one line of my own tooling.",
+   "link": "https://dev.to/mahirhir/my-privacy-scan-found-412-leaks-374-of-them-were-one-line-of-my-own-tooling-bba",
+   "date": "2026-09-12T18:58:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Before publishing a repository I ran a scan for anything that should not go out. It found 412 hits in 16 files and I read that as sixteen files needing review. It was one defect, repeated. 412 hits outside the private cl",
+   "image": null
+  },
+  {
+   "title": "The Serverless Supercomputer: Generating 1 Million AI Briefings for $48",
+   "link": "https://dev.to/dhananjay_lakkawar/the-serverless-supercomputer-generating-1-million-ai-briefings-for-48-4mmn",
+   "date": "2026-09-12T18:57:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Here is a math problem that is currently destroying the margins of B2C AI startups. You have a successful B2C app. You want to generate a highly personalized, daily AI briefing for your 1,000,000 free-tier users, and del",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbt4x19jevx6fvu295wzc.png"
+  },
+  {
+   "title": "Hold Shared Sandbox Work Behind a Promotion Lane",
+   "link": "https://dev.to/techlab_7968/hold-shared-sandbox-work-behind-a-promotion-lane-21m2",
+   "date": "2026-09-12T18:48:21.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Shared free compute is not a merge queue. Agent output on a borrowed server still needs a named owner. A sealed replay kit must exist before anyone ships. A human stamp still sits between sandbox and repo. Teams skip tha",
+   "image": null
+  },
+  {
+   "title": "Quoting Paul Ford",
+   "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+   "date": "2026-09-12T18:00:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still ",
+   "image": null
+  },
+  {
+   "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+   "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+   "date": "2026-09-12T15:54:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg"
+  },
+  {
+   "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+   "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+   "date": "2026-09-12T10:24:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg"
+  },
+  {
+   "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+   "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+   "date": "2026-09-12T09:07:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg"
   },
   {
    "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
@@ -39,56 +129,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative development.",
-   "image": null
-  },
-  {
-   "title": "One inbound domain, two webhooks: prod + staging without a second MX",
-   "link": "https://dev.to/receivehq/one-inbound-domain-two-webhooks-prod-staging-without-a-second-mx-m5n",
-   "date": "2026-09-12T08:28:20.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I'm Sebastian, CTO at ReceiveHQ (Cortena B.V.). Use-case #2: one inbound domain, multiple webhooks — prod + staging without a second MX. You want the same mailbox on inbound.example.com in production and staging. Classic",
-   "image": null
-  },
-  {
-   "title": "Securing Microservice Endpoints With OAuth2 Bearer Tokens",
-   "link": "https://dev.to/chasebot/securing-microservice-endpoints-with-oauth2-bearer-tokens-3jbp",
-   "date": "2026-09-12T08:09:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What You'll Need To follow this guide and implement OAuth2 bearer tokens in your microservice architecture, you'll need: n8n Cloud or self-hosted n8n for workflow orchestration Hetzner VPS or Contabo VPS for hosting your",
-   "image": null
-  },
-  {
-   "title": "Deploy New API: The Open-Source LLM Gateway on Cloud Servers Complete Guide",
-   "link": "https://dev.to/aitokenhub_98/deploy-new-api-the-open-source-llm-gateway-on-cloud-servers-complete-guide-2f03",
-   "date": "2026-09-12T08:02:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What is New API? If you are building AI applications today, managing multiple API keys and billing across different providers is a complete nightmare. Enter New API, the next-generation large language model (LLM) gateway",
-   "image": null
-  },
-  {
-   "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-   "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
-   "date": "2026-09-12T08:00:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Bun 1.4 shipped on 20 August as the first stable release built on Bun's new Rust-based core, replacing the Zig runtime layer that shipped everything since 1.0. The release notes claim faster startup, less idle CPU, and l",
-   "image": null
-  },
-  {
-   "title": "Deploy New API Open-Source LLM Gateway on Cloud Servers: A Complete Guide",
-   "link": "https://dev.to/aitokenhub_98/deploy-new-api-open-source-llm-gateway-on-cloud-servers-a-complete-guide-3geh",
-   "date": "2026-09-12T07:47:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "1. What is New API? New API, developed by QuantumNous, is an open-source next-generation Large Language Model (LLM) gateway and AI asset management system. It has rapidly gained massive traction in the developer communit",
    "image": null
   },
   {
@@ -302,36 +342,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
-   "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-   "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-   "date": "2026-09-11T07:31:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg"
-  },
-  {
-   "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-   "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-   "date": "2026-09-11T07:14:09.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
-  },
-  {
-   "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-   "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-   "date": "2026-09-11T06:46:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The softw",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
-  },
-  {
    "title": "Sitback Solutions: Vibe-coding my dream CMS (an internal monologue)",
    "link": "https://www.sitback.com.au/insights/article/vibe-coding-my-dream-cms-an-internal-monologue/",
    "date": "2026-09-11T04:59:57.000Z",
@@ -340,16 +350,6 @@
    "source": "Drupal Planet",
    "summary": "Is Drupal outdated? Ask around and you might get a confident yes. Sitback developer Max spent a free weekend designing his ideal CMS from scratch, to work out what he’d build instead. Step one: build your own CMS, how ha",
    "image": "https://www.sitback.com.au/wp-content/uploads/2026/09/vibe-coded-cms.webp"
-  },
-  {
-   "title": "Datasette 1.0a39 and 0.65.4 security releases",
-   "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
-   "date": "2026-09-11T03:27:16.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are secur",
-   "image": null
   },
   {
    "title": "PayZephyr: One Payment API for Stripe, Paystack, and PayPal",
@@ -442,6 +442,16 @@
    "image": "http://www.noreiko.com/sites/default/files/article/image/2026-09/path-alias-views-admin-view.png"
   },
   {
+   "title": "Umair Shahid: How to De-Risk a Mission-Critical PostgreSQL Migration",
+   "link": "https://postgr.es/p/9uo",
+   "date": "2026-09-10T11:49:56.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Key takeaways Speed is the wrong finish line. If moving the date by a week buys you a clean cutover, move it. Define success in numbers first: zero rows lost, a recovery time objective, a signed-off cutover window. Let t",
+   "image": null
+  },
+  {
    "title": "Inside the First Three.js Conference in Paris",
    "link": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
    "date": "2026-09-10T08:30:11.000Z",
@@ -460,16 +470,6 @@
    "source": "Symfony Blog",
    "summary": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. Join us for a great worldwide conference with 3 parallel tracks and community events. \ud83c",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_active_replication_origins",
-   "link": "https://postgr.es/p/9ud",
-   "date": "2026-09-10T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "max_active_replication_origins is a ten-year-old XXX comment that finally got paid off. It arrived in PostgreSQL 18, and it exists because the thing it controls had been borrowing another parameter’s number since 9.5. On",
-   "image": null
   },
   {
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
