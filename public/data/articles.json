@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-09-11T19:39:20.197Z",
+ "generatedAt": "2026-09-12T01:04:39.419Z",
  "articles": [
   {
-   "title": "Who can see the payroll folder? Nobody could answer, so we audited every share in one afternoon",
-   "link": "https://dev.to/hive80lab/who-can-see-the-payroll-folder-nobody-could-answer-so-we-audited-every-share-in-one-afternoon-4l5j",
-   "date": "2026-09-11T19:39:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ask the question out loud in a five-person office — \"who can see the payroll folder?\" — and watch the answers: \"just me and...\" \"...I think the accountant...\" \"...didn't we fix that last year?\" File permissions sprawl on",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_files_per_process",
+   "link": "https://postgr.es/p/9um",
+   "date": "2026-09-12T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's max_files_per_process isn't a hard limit—it's a descriptor pool that quietly recycles old files when full.",
    "image": null
   },
   {
-   "title": "Delegation of authority for small teams: who can approve what, on one page",
-   "link": "https://dev.to/hive80lab/delegation-of-authority-for-small-teams-who-can-approve-what-on-one-page-18po",
-   "date": "2026-09-11T19:35:14.000Z",
+   "title": "Stop Prompt-Engineering Copilot. Write Three Rules in a File Instead.",
+   "link": "https://dev.to/jjoyneriv/stop-prompt-engineering-copilot-write-three-rules-in-a-file-instead-2kac",
+   "date": "2026-09-12T00:53:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The one-page table that ends both failure modes at once: the owner as the approval bottleneck, and the blank check where nobody remembers approving the $2,000/year thing. Every small team runs on one of two failed defaul",
+   "summary": "Most advice about getting better output from Copilot is advice about phrasing. Be specific. Give it context. Ask it to think step by step. That plateaus quickly, and it plateaus for a structural reason: better phrasing a",
    "image": null
   },
   {
-   "title": "Paid Collaboration: Looking to Acquire or License Existing Codebases",
-   "link": "https://dev.to/syed_mohdali_d6d52736f1d/paid-collaboration-looking-to-acquire-or-license-existing-codebases-3do5",
-   "date": "2026-09-11T19:31:48.000Z",
+   "title": "docker logs stops at a NUL byte, exits 0, and --since says nothing happened",
+   "link": "https://dev.to/homelabpm/docker-logs-stops-at-a-nul-byte-exits-0-and-since-says-nothing-happened-5b66",
+   "date": "2026-09-12T00:46:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hi everyone, I’m Syed Mohd Ali from 3Wheels.AI. We’re currently looking for existing or legacy software codebases/repositories through a paid commercial collaboration, with the intention of licensing or acquiring suitabl",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdw73gye8rl6pahre2bbp.jpeg"
-  },
-  {
-   "title": "What is an HSM — and why a used one is a smart buy",
-   "link": "https://dev.to/itandoffice/what-is-an-hsm-and-why-a-used-one-is-a-smart-buy-37oc",
-   "date": "2026-09-11T19:28:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hardware Security Modules sit at the very bottom of your key management stack — and yet most developers encounter them only when something has already gone wrong. This post explains what an HSM actually does, how to reas",
+   "summary": "TL;DR: with the default json-file log driver, a run of NUL bytes anywhere in the log file makes docker logs stop at that point and report success. On Docker 29.8.0 with one of 50 records zeroed, the full read returned 17",
    "image": null
   },
   {
-   "title": "The power failure IT checklist: the UPS, the shutdown, and the cold-start order",
-   "link": "https://dev.to/hive80lab/the-power-failure-it-checklist-the-ups-the-shutdown-and-the-cold-start-order-3m7m",
-   "date": "2026-09-11T19:26:07.000Z",
+   "title": "The 48-hour post-mortem: why small teams repeat the same incident",
+   "link": "https://dev.to/hive80lab/the-48-hour-post-mortem-why-small-teams-repeat-the-same-incident-1cl9",
+   "date": "2026-09-12T00:45:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "published: true https://hive80-lab.github.io/ops-notes/power-failure-it-checklist.html Power blips are the incident category every small team assumes is someone else's problem — until the Tuesday the lights flicker twice",
+   "summary": "An incident that ends without a written post-mortem will happen again. Not because your team is careless — because memory decays, the people who were there move on, and the fix that lived in someone's head quietly retire",
    "image": null
   },
   {
-   "title": "Feature flags are the loaded gun modern deploys pretend is safe",
-   "link": "https://dev.to/adioof/feature-flags-are-the-loaded-gun-modern-deploys-pretend-is-safe-59b6",
-   "date": "2026-09-11T19:14:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A trading firm experienced a loss of $440 million within 45 minutes. This was not due to a cyber attack or a sudden crash in the market. It was a forgotten and obsolete feature flag that nobody had taken the time to remo",
+   "title": "OpenAI agents attacked RubyGems back in May",
+   "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+   "date": "2026-09-12T00:42:25.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (",
    "image": null
   },
   {
-   "title": "The software license register: every key, seat, and renewal on one page",
-   "link": "https://dev.to/hive80lab/the-software-license-register-every-key-seat-and-renewal-on-one-page-52gn",
-   "date": "2026-09-11T19:08:23.000Z",
+   "title": "When your pipeline is fast and your product still isn't",
+   "link": "https://dev.to/leobaniak/when-your-pipeline-is-fast-and-your-product-still-isnt-130i",
+   "date": "2026-09-12T00:25:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Licenses are the part of the estate nobody inventories until one fails. A seat count drifts quietly until payroll audit; a renewal fires silently until the card declines on the one tool the whole company runs on; a seria",
+   "summary": "The last time I tuned a CI pipeline from twelve minutes down to five, I felt like I'd earned my paycheck for the quarter. Then a PM told me that the feature we were racing to ship had been in prioritization discussions s",
    "image": null
   },
   {
-   "title": "Four Builds in Seven Days",
-   "link": "https://dev.to/devbrewery/four-builds-in-seven-days-218b",
-   "date": "2026-09-11T19:07:11.000Z",
+   "title": "Billing Configuration as Code: Idempotent Payment Method and Auto-Recharge Provisioning",
+   "link": "https://dev.to/ingramcole6479/billing-configuration-as-code-idempotent-payment-method-and-auto-recharge-provisioning-157b",
+   "date": "2026-09-12T00:20:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Part 1 of three posts behind the multi-agent case study. How the stack that runs part of my life came to exist, and why the first three versions had to die. I installed my agent platform in March 2026. That date matters,",
+   "summary": "Short answer: set the default payment method, commit the auto-recharge amount and its ceiling together, read the resulting configuration back, and fail the provisioning run when either result is empty or inconsistent. Th",
    "image": null
+  },
+  {
+   "title": "The Importance of Testing",
+   "link": "https://dev.to/techlabma/the-importance-of-testing-35fc",
+   "date": "2026-09-12T00:20:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "(This Blog post is part of a collaborative work between Me and Mustapha El Idrissi, Consult his devTo page for more information: https://dev.to/appsbymuss) Tests are automated procedures or scripts that evaluate whether ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frf3mdh62uqbs0rk42mn1.png"
+  },
+  {
+   "title": "From Almost Zero AWS Experience to Deploying a Real-World Application",
+   "link": "https://dev.to/mohamed_habeebulla_41748b/from-almost-zero-aws-experience-to-deploying-a-real-world-application-4o9b",
+   "date": "2026-09-12T00:18:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building an application is one thing. Taking that application from a development environment and making it actually work in production is a completely different experience. I learned this while working on Meezo, a food d",
+   "image": null
+  },
+  {
+   "title": "Least-privilege admin console API keys: separate credentials and a 24-hour spend ceiling",
+   "link": "https://dev.to/pantaleonshaw8478/least-privilege-admin-console-api-keys-separate-credentials-and-a-24-hour-spend-ceiling-3j81",
+   "date": "2026-09-11T23:57:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A prepaid balance is not an invoice you can argue about next month. When it reaches zero the platform starts refusing calls, and it refuses them for every credential on the account at once — the payment worker, the night",
+   "image": null
+  },
+  {
+   "title": "So you want to use OpenRouter?",
+   "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+   "date": "2026-09-11T22:49:18.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can call a single API endpoint for a model ",
+   "image": null
+  },
+  {
+   "title": "Omega8.cc: Keys to the Engine Bay",
+   "link": "https://omega8.cc/blog/keys-to-the-engine-bay",
+   "date": "2026-09-11T22:47:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Handing an outside developer your one and only SSH login because the job was one theme on one site is the oldest mistake in hosting, and the collaborator button on the big platforms only hides the question of what that s",
+   "image": "https://omega8.cc/images/6/6/9/9/7/66997f23d8bf2eccfea97f79d520a85bd7b343d3-keys-to-the-engine-bay-anime-halo.png"
+  },
+  {
+   "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+   "link": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/",
+   "date": "2026-09-11T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37! Native histograms (previously introduced as Alpha in Kubernetes v1.36 unde",
+   "image": "https://kubernetes.io/images/blog/2026-kubernetes-1-37-native-histograms-beta/native-histograms-flow.svg"
   },
   {
    "title": "Quoting Boris Cherny",
@@ -89,6 +139,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-drive",
+   "image": null
+  },
+  {
+   "title": "Feeling sad about AI",
+   "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+   "date": "2026-09-11T17:28:37.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been through this moment of existential crisis an",
    "image": null
   },
   {
@@ -292,24 +352,14 @@
    "image": null
   },
   {
-   "title": "Any Nix package, live in your browser",
-   "link": "https://simonwillison.net/2026/Sep/10/trynix/",
-   "date": "2026-09-10T23:44:15.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser thro",
-   "image": null
-  },
-  {
-   "title": "Native is now the future of mobile at Shopify",
-   "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-   "date": "2026-09-10T21:11:15.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from nativ",
-   "image": null
+   "title": "Mikhail Shytsko: Your Agent Can Turn Off Its Own Kill Switch",
+   "link": "https://postgr.es/p/9ul",
+   "date": "2026-09-11T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A new agent needs a database login, so the role it logs in as gets the treatment every runbook recommends. Two ALTER ROLE lines go in, one capping how long a single statement may run and one making transactions read-only",
+   "image": "https://seedfa.st/blog/postgres-role-for-ai-agent-2.svg"
   },
   {
    "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
@@ -402,16 +452,6 @@
    "image": null
   },
   {
-   "title": "Quoting Calif Research",
-   "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
-   "date": "2026-09-10T00:56:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if th",
-   "image": null
-  },
-  {
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "link": "https://huggingface.co/blog/gradio-workflow-1111",
    "date": "2026-09-10T00:00:00.000Z",
@@ -462,16 +502,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Telescope-LN.png"
   },
   {
-   "title": "Dave Stokes: Structured Query Language 101 at Texas Linuxfest",
-   "link": "https://postgr.es/p/9uc",
-   "date": "2026-09-09T19:27:43.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Structured Query Language 101 -15:00–16:20 Nov. 6, 2026 · 15:00 - 6:20 I will be teaching the basics of SQL at the 2026 Texas Linuxfest. The session is listed for only 100 minutes, but I wrote the materials for a 3-hour ",
-   "image": null
-  },
-  {
    "title": "Dries Buytaert: The 60-second procurement test",
    "link": "https://dri.es/the-60-second-procurement-test",
    "date": "2026-09-09T18:45:17.000Z",
@@ -499,16 +529,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "For the Three.js Conference in Paris, BL/S® created an interactive experiment that transforms your name into a dynamic 3D structure.",
-   "image": null
-  },
-  {
-   "title": "Elizabeth Garrett Christensen: 30 Years of Postgres Architecture: Tom Lane Interview",
-   "link": "https://postgr.es/p/9ue",
-   "date": "2026-09-09T17:40:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Elizabeth: I know a little bit of your history prior to joining the Postgres project. I think you did work on JPEG — the image specification. The internet thinks that you did some work on libjpeg, which was part of the M",
    "image": null
   },
   {
@@ -550,16 +570,6 @@
    "source": "Hugging Face",
    "summary": "",
    "image": null
-  },
-  {
-   "title": "Omega8.cc: Doors That Do Not Exist",
-   "link": "https://omega8.cc/blog/doors-that-do-not-exist",
-   "date": "2026-09-09T14:57:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Read one night of a Drupal or Backdrop site's log and most of it had no business with that site: WordPress login probes on a site which never ran WordPress, fishing for secret files, a thousand pages nobody ever made, fr",
-   "image": "https://omega8.cc/images/b/2/3/3/1/b233150cda027dcf3d28089aa4b1844fc6bd256f-doors-that-do-not-exist-anime-halo.png"
   },
   {
    "title": "Still: From Akira to Ink Wash, Building a Generative Garden in WebGPU",
@@ -822,16 +832,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -870,16 +870,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -922,16 +912,6 @@
    "image": null
   },
   {
-   "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
-   "link": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/",
-   "date": "2026-08-31T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37! After a number of releases of work and testing, the built-in StorageVersionMigration API (storagemigration",
-   "image": null
-  },
-  {
    "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
    "link": "https://css-tricks.com/css-random-function-polyfill/",
    "date": "2026-08-31T15:12:19.000Z",
@@ -969,16 +949,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1182,6 +1152,16 @@
    "image": null
   },
   {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1222,13 +1202,23 @@
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   },
   {
-   "title": "What's new in PHP 8.6",
-   "link": "https://stitcher.io/blog/new-in-php-86",
-   "date": "2026-07-29T00:00:00.000Z",
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
    "theme": "php",
    "themeName": "PHP",
-   "source": "stitcher.io",
-   "summary": "Read the full post on https://stitcher.io/blog/new-in-php-86",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
    "image": null
   }
  ]
