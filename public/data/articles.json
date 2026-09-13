@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-09-13T10:12:40.327Z",
+ "generatedAt": "2026-09-13T14:54:22.081Z",
  "articles": [
   {
-   "title": "How to Track API Usage for Billing in Real Time",
-   "link": "https://dev.to/flexprice_8116ed925/how-to-track-api-usage-for-billing-in-real-time-2pd6",
-   "date": "2026-09-13T10:08:58.000Z",
+   "title": "THE AI FACTORY",
+   "link": "https://dev.to/cristiano_gabrieli_83f5f1/the-ai-factory-3i66",
+   "date": "2026-09-13T14:40:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Tracking API usage in real time reads like a counter problem. It stops being one the first time a customer asks why the invoice says 1.4M calls when their logs say 1.2M. Most teams start with counters and log lines, then",
+   "summary": "INTRODUCTION They call it “security.” SECTION ONE — The Myth of the “Hacker Certification” Graduate They call it “training.” They call it “pentesting.” They call it “cybersecurity engineering.” But everyone who has ever ",
    "image": null
   },
   {
-   "title": "Post-Quantum TLS Is a Platform Migration, Not a Crypto Project",
-   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-1d65",
-   "date": "2026-09-13T10:01:44.000Z",
+   "title": "A warm pip install took me 13 seconds. uv took 56 milliseconds.",
+   "link": "https://dev.to/remdore/a-warm-pip-install-took-me-13-seconds-uv-took-56-milliseconds-3ehp",
+   "date": "2026-09-13T14:33:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The least useful question in post-quantum cryptography is \"when will quantum computers break RSA?\" It sounds important. It starts arguments. It lets everyone pick a year that matches their appetite for panic. It is also ",
+   "summary": "A warm pip install of a normal web backend took 13 seconds on my machine. The same install with uv took 56 milliseconds. Not 56 milliseconds faster. 56 milliseconds total, for 63 packages, including numpy and pandas and ",
    "image": null
   },
   {
-   "title": "AI Model Versioning and Rollback Strategies for Production",
-   "link": "https://dev.to/ayinedjimi-consultants/ai-model-versioning-and-rollback-strategies-for-production-2hfe",
-   "date": "2026-09-13T10:01:44.000Z",
+   "title": "My determinism check can only test one producer in seven, and the print says so",
+   "link": "https://dev.to/mahirhir/my-determinism-check-can-only-test-one-producer-in-seven-and-the-print-says-so-2l90",
+   "date": "2026-09-13T14:32:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Deploying an AI model to production is the easy part. Knowing which version is running, what changed between versions, and how to roll back when outputs silently degrade — that's where most teams discover they have no pl",
+   "summary": "I added a check that asks one question: run the thing that produces this record twice, and do you get the same bytes? Its first output: OK_PHI kinds=1/7 reruns=2 bytes_equal=1/1 declared_agree=1/1 disagree=0 plasma_untes",
    "image": null
   },
   {
-   "title": "Etsy OAuth invalid_grant can fire before the 90-day expiry",
-   "link": "https://dev.to/robswierk/etsy-oauth-invalidgrant-can-fire-before-the-90-day-expiry-1b56",
-   "date": "2026-09-13T10:00:00.000Z",
+   "title": "Tracking GPU Costs in Machine Learning: The Two Layers You Need",
+   "link": "https://dev.to/flexprice_8116ed925/tracking-gpu-costs-in-machine-learning-the-two-layers-you-need-3k7d",
+   "date": "2026-09-13T14:31:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Etsy's OAuth refresh tokens carry a 90-day idle expiry, but ours returned invalid_grant (EtsyRefreshExpired) at 05:30 on 9 September before that window closed. While disconnected, we had no visibility into new orders and",
+   "summary": "GPU spend behaves differently from general cloud compute. Rates run from roughly $0.35 to $7 per hour depending on the hardware, the provider, and what you committed to, and the same training job can cost an order of mag",
    "image": null
   },
   {
-   "title": "FAQ: When the Agent Says Green, Whose Runtime Was That?",
-   "link": "https://dev.to/gitlab_3188/faq-when-the-agent-says-green-whose-runtime-was-that-1485",
-   "date": "2026-09-13T09:49:36.000Z",
+   "title": "Why Your Pipeline Redeploys Unchanged Code",
+   "link": "https://dev.to/praveenlavu/why-your-pipeline-redeploys-unchanged-code-3n2o",
+   "date": "2026-09-13T14:08:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Did your coding agent just print a green pytest line? The chat log looks extremely sure of itself. I am not here to ban coding agents. A free model can explain a failing assertion. I use those tools without worshipping t",
+   "summary": "The Deploy That Didn't Need to Happen There is a particular kind of waste that looks like productivity. A deployment pipeline spins up, pulls the code, runs the checks, packages the artifact, pushes to the target, and re",
    "image": null
   },
   {
-   "title": "ICMP vs TCP vs UDP: the difference, explained for developers",
-   "link": "https://dev.to/slima4/icmp-vs-tcp-vs-udp-the-difference-explained-for-developers-49g6",
-   "date": "2026-09-13T09:49:11.000Z",
+   "title": "post-quantum tls is a platform migration, not a crypto project",
+   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-152j",
+   "date": "2026-09-13T14:02:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally published on the Uptimepage blog. I build an uptime monitor in Rust, and its ping, TCP and DNS checks are these three protocols with a timer on them, so I had to get the differences straight. TL;DR. ICMP, TCP ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyoeeaad36lhumosejz3.webp"
-  },
-  {
-   "title": "Handling High-Volume Event Tracking Without Losing Billing Accuracy",
-   "link": "https://dev.to/flexprice_8116ed925/handling-high-volume-event-tracking-without-losing-billing-accuracy-115p",
-   "date": "2026-09-13T09:44:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The pipeline that was fine at a hundred thousand events a day starts failing in three specific ways at a few million an hour. Dashboards lag by hours instead of seconds. Duplicates appear in aggregates and nobody can say",
+   "summary": "The least useful question about post-quantum TLS is still the one people like arguing about most: when will a quantum computer break RSA? It is a fun debate if you enjoy forecasts, threat models, and conference hallway c",
    "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-f5g",
-   "date": "2026-09-13T09:42:24.000Z",
+   "title": "AWS & SRE Field Manual (Part 9): SRE Framework — SLI, SLO, SLA & Error Budget Engineering",
+   "link": "https://dev.to/enesguler/aws-sre-field-manual-part-9-sre-framework-sli-slo-sla-error-budget-engineering-318e",
+   "date": "2026-09-13T13:57:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "1. TL;DR & Problem Statement Definition: A foundational Site Reliability Engineering (SRE) framework that defines, measures, tracks, and legally/operationally guarantees system reliability across three distinct abstracti",
    "image": null
+  },
+  {
+   "title": "My release smoke test passed on the message that says it failed",
+   "link": "https://dev.to/efe_genc/my-release-smoke-test-passed-on-the-message-that-says-it-failed-1lh0",
+   "date": "2026-09-13T13:49:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The last step of my release pipeline installs the package I just published, on Linux, Windows and macOS, and confirms it reports the version that was released. It is the only thing in the whole chain that tests the artif",
+   "image": null
+  },
+  {
+   "title": "Building Depth: Designing and Developing a 3D Renderer Inside Figma",
+   "link": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
+   "date": "2026-09-13T11:34:39.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look at how Depth came together, from building a 3D renderer inside Figma to designing a website that explores what it can do.",
+   "image": null
+  },
+  {
+   "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+   "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+   "date": "2026-09-13T10:11:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg"
   },
   {
    "title": "A Week of Symfony #1028 (September 7–13, 2026)",
@@ -302,16 +322,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg"
   },
   {
-   "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-   "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-   "date": "2026-09-11T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg"
-  },
-  {
    "title": "Shaun Thomas: PG Phriday: The Folder That Ate the Publisher",
    "link": "https://postgr.es/p/9uk",
    "date": "2026-09-11T11:18:55.000Z",
@@ -400,6 +410,16 @@
    "source": "Planet PostgreSQL",
    "summary": "A new agent needs a database login, so the role it logs in as gets the treatment every runbook recommends. Two ALTER ROLE lines go in, one capping how long a single statement may run and one making transactions read-only",
    "image": "https://seedfa.st/blog/postgres-role-for-ai-agent-2.svg"
+  },
+  {
+   "title": "PHP 8.6.0 Beta 3 is available for testing",
+   "link": "https://www.php.net/index.php#2026-09-10-1",
+   "date": "2026-09-10T22:19:15.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the third beta release of PHP 8.6.0, Beta 3. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 3",
+   "image": null
   },
   {
    "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
@@ -520,6 +540,16 @@
    "source": "Laravel News",
    "summary": "Laravel Telescope 5.24.0 adds two Artisan commands for inspecting recorded entries from the terminal and cancels stale dashboard requests during navigation. The post Artisan Debugging Commands in Laravel Telescope 5.24.0",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Telescope-LN.png"
+  },
+  {
+   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
+   "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
+   "date": "2026-09-09T20:40:47.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHPBenelux Conferencesubmit your proposal today!",
+   "image": null
   },
   {
    "title": "Dries Buytaert: The 60-second procurement test",
@@ -732,16 +762,6 @@
    "image": null
   },
   {
-   "title": "Building an Infinite Loom: Unravelling Images into Threads with Three.js",
-   "link": "https://tympanus.net/codrops/2026/09/05/building-an-infinite-loom-unravelling-images-into-threads-with-three-js/",
-   "date": "2026-09-05T12:50:25.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "An experimental Three.js demo that transforms images into flowing ribbons, weaving them together and unraveling them as they move across the screen.",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
    "link": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
    "date": "2026-09-04T18:30:00.000Z",
@@ -842,6 +862,16 @@
    "image": null
   },
   {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
+   "image": null
+  },
+  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -880,6 +910,16 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
+  },
+  {
+   "title": "API Platform Conference 2026 - Lille (France) & Online",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T06:18:52.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
+   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -959,6 +999,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
+   "image": null
+  },
+  {
+   "title": "Forum PHP 2026 - Paris (France)",
+   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
+   "date": "2026-08-31T11:42:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
    "image": null
   },
   {
@@ -1072,16 +1122,6 @@
    "image": null
   },
   {
-   "title": "Last Call for the State of PHP Survey",
-   "link": "https://www.php.net/index.php#2026-08-25-1",
-   "date": "2026-08-25T08:38:33.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
-   "image": null
-  },
-  {
    "title": "\"A\" for \"Average\"",
    "link": "https://stitcher.io/blog/a-for-average",
    "date": "2026-08-25T00:00:00.000Z",
@@ -1142,26 +1182,6 @@
    "image": null
   },
   {
-   "title": "LonghornPHP 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
-   "date": "2026-08-18T10:14:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
-   "image": null
-  },
-  {
-   "title": "PHP 8.6.0 Beta 1 is available for testing",
-   "link": "https://www.php.net/index.php#2026-08-13-1",
-   "date": "2026-08-13T14:33:26.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
-   "image": null
-  },
-  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1200,26 +1220,6 @@
    "source": "PortSwigger Research",
    "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
-  },
-  {
-   "title": "PHP 8.4.24 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-5",
-   "date": "2026-07-30T14:55:16.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
-   "image": null
-  },
-  {
-   "title": "PHP 8.3.33 Released!",
-   "link": "https://www.php.net/index.php#2026-07-30-4",
-   "date": "2026-07-30T14:48:58.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
-   "image": null
   }
  ]
 }
