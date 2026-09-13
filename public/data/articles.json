@@ -1,54 +1,104 @@
 {
- "generatedAt": "2026-09-13T00:56:57.923Z",
+ "generatedAt": "2026-09-13T10:12:40.327Z",
  "articles": [
   {
-   "title": "B2B SaaS DNS Cutovers — A Runtime Guard Before Zone Deletion",
-   "link": "https://dev.to/humphreyfox1243/b2b-saas-dns-cutovers-a-runtime-guard-before-zone-deletion-11mo",
-   "date": "2026-09-13T00:38:52.000Z",
+   "title": "How to Track API Usage for Billing in Real Time",
+   "link": "https://dev.to/flexprice_8116ed925/how-to-track-api-usage-for-billing-in-real-time-2pd6",
+   "date": "2026-09-13T10:08:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: require an explicit domain allowlist at execution time, default every automated cleanup to record-level deletion, and log intent before any whole-zone delete. For a B2B SaaS team moving zones away from a re",
+   "summary": "Tracking API usage in real time reads like a counter problem. It stops being one the first time a customer asks why the invoice says 1.4M calls when their logs say 1.2M. Most teams start with counters and log lines, then",
    "image": null
   },
   {
-   "title": "FAQ: Did the Shell Run, or Did the Model Type?",
-   "link": "https://dev.to/gitlab_3188/faq-did-the-shell-run-or-did-the-model-type-150k",
-   "date": "2026-09-13T00:27:53.000Z",
+   "title": "Post-Quantum TLS Is a Platform Migration, Not a Crypto Project",
+   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-1d65",
+   "date": "2026-09-13T10:01:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Did the test suite actually run on a machine? Or did the model only narrate a passing pytest log? I keep hitting this mix-up in review threads. A chat pane shows green dots and a zero exit. Then CI fails on the same comm",
+   "summary": "The least useful question in post-quantum cryptography is \"when will quantum computers break RSA?\" It sounds important. It starts arguments. It lets everyone pick a year that matches their appetite for panic. It is also ",
    "image": null
   },
   {
-   "title": "I recorded my Kubernetes AI agent failing, on purpose",
-   "link": "https://dev.to/mskazemi/i-recorded-my-kubernetes-ai-agent-failing-on-purpose-1ib2",
-   "date": "2026-09-13T00:22:41.000Z",
+   "title": "AI Model Versioning and Rollback Strategies for Production",
+   "link": "https://dev.to/ayinedjimi-consultants/ai-model-versioning-and-rollback-strategies-for-production-2hfe",
+   "date": "2026-09-13T10:01:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most demos of AI-for-infrastructure tools show a clean run. I think that is exactly backwards, and I want to explain why by walking through the thirty seconds of my own demo that a normal product video would have cut. A ",
+   "summary": "Deploying an AI model to production is the easy part. Knowing which version is running, what changed between versions, and how to roll back when outputs silently degrade — that's where most teams discover they have no pl",
    "image": null
   },
   {
-   "title": "DNS Record Writes in Node.js: Create, Update, or Upsert for Idempotent Provisioning",
-   "link": "https://dev.to/abernathycross6857/dns-record-writes-in-nodejs-create-update-or-upsert-for-idempotent-provisioning-463d",
-   "date": "2026-09-13T00:18:56.000Z",
+   "title": "Etsy OAuth invalid_grant can fire before the 90-day expiry",
+   "link": "https://dev.to/robswierk/etsy-oauth-invalidgrant-can-fire-before-the-90-day-expiry-1b56",
+   "date": "2026-09-13T10:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: make upsert the default for provisioning a tenant subdomain, and reserve create for the case where an existing record must stop the rollout. Update is useful after onboarding, but it is the wrong primitive ",
+   "summary": "Etsy's OAuth refresh tokens carry a 90-day idle expiry, but ours returned invalid_grant (EtsyRefreshExpired) at 05:30 on 9 September before that window closed. While disconnected, we had no visibility into new orders and",
    "image": null
   },
   {
-   "title": "Moving Off PaaS: Deploying Production Laravel Stacks with Kamal 2",
-   "link": "https://dev.to/klytron/moving-off-paas-deploying-production-laravel-stacks-with-kamal-2-2h0j",
-   "date": "2026-09-13T00:00:54.000Z",
+   "title": "FAQ: When the Agent Says Green, Whose Runtime Was That?",
+   "link": "https://dev.to/gitlab_3188/faq-when-the-agent-says-green-whose-runtime-was-that-1485",
+   "date": "2026-09-13T09:49:36.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Platform-as-a-Service (PaaS) providers make launching a web application simple. You push code, and they handle the infrastructure. However, as your application grows, the cost scales aggressively. What starts as a $20/mo",
+   "summary": "Did your coding agent just print a green pytest line? The chat log looks extremely sure of itself. I am not here to ban coding agents. A free model can explain a failing assertion. I use those tools without worshipping t",
+   "image": null
+  },
+  {
+   "title": "ICMP vs TCP vs UDP: the difference, explained for developers",
+   "link": "https://dev.to/slima4/icmp-vs-tcp-vs-udp-the-difference-explained-for-developers-49g6",
+   "date": "2026-09-13T09:49:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published on the Uptimepage blog. I build an uptime monitor in Rust, and its ping, TCP and DNS checks are these three protocols with a timer on them, so I had to get the differences straight. TL;DR. ICMP, TCP ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyoeeaad36lhumosejz3.webp"
+  },
+  {
+   "title": "Handling High-Volume Event Tracking Without Losing Billing Accuracy",
+   "link": "https://dev.to/flexprice_8116ed925/handling-high-volume-event-tracking-without-losing-billing-accuracy-115p",
+   "date": "2026-09-13T09:44:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The pipeline that was fine at a hundred thousand events a day starts failing in three specific ways at a few million an hour. Dashboards lag by hours instead of seconds. Duplicates appear in aggregates and nobody can say",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-f5g",
+   "date": "2026-09-13T09:42:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1028 (September 7–13, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1028-september-7-13-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-13T07:05:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony introduced standalone bundles for the framework features (MessengerBundle, HttpClientBundle, PropertyInfoBundle, etc.), added Docker-style console subcommands, and expanded OAuth2 and OpenID Connect su",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_function_args",
+   "link": "https://postgr.es/p/9up",
+   "date": "2026-09-13T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL won't let you pass more than 100 arguments to a function, and changing it requires rebuilding every extension on your machine.",
    "image": null
   },
   {
@@ -59,36 +109,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes an",
-   "image": null
-  },
-  {
-   "title": "Scheduled Budget Alerts and a Hard Stop for One Shared Go API Key",
-   "link": "https://dev.to/ironspiredraven77/scheduled-budget-alerts-and-a-hard-stop-for-one-shared-go-api-key-4oa3",
-   "date": "2026-09-12T23:47:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Run both, and don't pretend either one covers the other. Pick a scheduled budget read for the warning — a job that pulls the current API spend and pushes it into the same alerting path your on-call already watches — and ",
-   "image": null
-  },
-  {
-   "title": "Auto-Recharge Alerts Demystified — Set the Default Payment Method at Provisioning Time",
-   "link": "https://dev.to/garrisonsterling2693/auto-recharge-alerts-demystified-set-the-default-payment-method-at-provisioning-time-3d75",
-   "date": "2026-09-12T23:47:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Here's the page you don't want: a tenant's scoped API key starts refusing requests at 03:07 on a Sunday, the support queue behind it stops draining, and the on-call engineer opens a dashboard where every service is green",
-   "image": null
-  },
-  {
-   "title": "Scaling My Indie SaaS to 100k Users on Cheap Alibaba and Tencent Servers",
-   "link": "https://dev.to/aitokenhub_98/scaling-my-indie-saas-to-100k-users-on-cheap-alibaba-and-tencent-servers-3fmk",
-   "date": "2026-09-12T23:33:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When my indie SaaS hit 100,000 active users last year, my friends expected me to be celebrating. Instead, I was staring at a projected $800/month infrastructure bill from a major Western cloud provider. I was a solo deve",
    "image": null
   },
   {
@@ -382,16 +402,6 @@
    "image": "https://seedfa.st/blog/postgres-role-for-ai-agent-2.svg"
   },
   {
-   "title": "PHP 8.6.0 Beta 3 is available for testing",
-   "link": "https://www.php.net/index.php#2026-09-10-1",
-   "date": "2026-09-10T22:19:15.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce the third beta release of PHP 8.6.0, Beta 3. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 3",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
    "link": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/",
    "date": "2026-09-10T18:30:00.000Z",
@@ -452,16 +462,6 @@
    "image": "http://www.noreiko.com/sites/default/files/article/image/2026-09/path-alias-views-admin-view.png"
   },
   {
-   "title": "Umair Shahid: How to De-Risk a Mission-Critical PostgreSQL Migration",
-   "link": "https://postgr.es/p/9uo",
-   "date": "2026-09-10T11:49:56.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Key takeaways Speed is the wrong finish line. If moving the date by a week buys you a clean cutover, move it. Define success in numbers first: zero rows lost, a recovery time objective, a signed-off cutover window. Let t",
-   "image": null
-  },
-  {
    "title": "Inside the First Three.js Conference in Paris",
    "link": "https://tympanus.net/codrops/2026/09/10/inside-the-first-three-js-conference-in-paris/",
    "date": "2026-09-10T08:30:11.000Z",
@@ -520,16 +520,6 @@
    "source": "Laravel News",
    "summary": "Laravel Telescope 5.24.0 adds two Artisan commands for inspecting recorded entries from the terminal and cancels stale dashboard requests during navigation. The post Artisan Debugging Commands in Laravel Telescope 5.24.0",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Telescope-LN.png"
-  },
-  {
-   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
-   "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
-   "date": "2026-09-09T20:40:47.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHPBenelux Conferencesubmit your proposal today!",
-   "image": null
   },
   {
    "title": "Dries Buytaert: The 60-second procurement test",
@@ -852,16 +842,6 @@
    "image": null
   },
   {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
    "title": "Meet the Symfony Core Team at the API Platform Conference 2026!",
    "link": "https://symfony.com/blog/meet-the-symfony-core-team-at-the-api-platform-conference-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-02T14:30:00.000Z",
@@ -900,16 +880,6 @@
    "source": "Percona Blog",
    "summary": "Percona Server for MySQL now ships with a fully open source OpenID Connect (OIDC) authentication plugin, available starting with Percona Server for MySQL 8.4.11-11 and 9.7.2-2 (not yet released as of this writing). It al",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/percona_oidc_flow-300x146.png"
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
-   "image": null
   },
   {
    "title": "htmx 4.0 takes HTML-driven apps further",
@@ -989,26 +959,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
-   "image": null
-  },
-  {
-   "title": "Symfony 8.1.6 released",
-   "link": "https://symfony.com/blog/symfony-8-1-6-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-30T21:44:04.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.6 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
   },
   {
@@ -1122,6 +1072,16 @@
    "image": null
   },
   {
+   "title": "Last Call for the State of PHP Survey",
+   "link": "https://www.php.net/index.php#2026-08-25-1",
+   "date": "2026-08-25T08:38:33.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The is still open, but not for much longer. It asks how PHP is working for you: what you build with, what is painful, and what you think PHP should focus on next. It takes around 15 minutes. State of PHP survey The surve",
+   "image": null
+  },
+  {
    "title": "\"A\" for \"Average\"",
    "link": "https://stitcher.io/blog/a-for-average",
    "date": "2026-08-25T00:00:00.000Z",
@@ -1182,6 +1142,26 @@
    "image": null
   },
   {
+   "title": "LonghornPHP 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-08-18-1",
+   "date": "2026-08-18T10:14:50.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Longhorn PHP is back for 2026! The schedule is now live, and tickets are on sale! The conference will be held in Austin, Texas, and will start with an optional tutorial day on Thursday, October 15, followed by a full day",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 Beta 1 is available for testing",
+   "link": "https://www.php.net/index.php#2026-08-13-1",
+   "date": "2026-08-13T14:33:26.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first beta release of PHP 8.6.0, Beta 1. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 1",
+   "image": null
+  },
+  {
    "title": "Five CSS properties for eye-catching text designs",
    "link": "https://frontendfoc.us/issues/754",
    "date": "2026-08-12T00:00:00.000Z",
@@ -1220,6 +1200,26 @@
    "source": "PortSwigger Research",
    "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
    "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
+  },
+  {
+   "title": "PHP 8.4.24 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-5",
+   "date": "2026-07-30T14:55:16.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.24. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.24 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "PHP 8.3.33 Released!",
+   "link": "https://www.php.net/index.php#2026-07-30-4",
+   "date": "2026-07-30T14:48:58.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.33. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.33 please visit our , ",
+   "image": null
   }
  ]
 }
