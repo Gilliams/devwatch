@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-09-14T10:34:46.489Z",
+ "generatedAt": "2026-09-14T16:56:43.252Z",
  "articles": [
   {
-   "title": "Preview environments: from a PR label to teardown",
-   "link": "https://dev.to/devopsdaily/preview-environments-from-a-pr-label-to-teardown-12bo",
-   "date": "2026-09-14T10:24:45.000Z",
+   "title": "I Built 145 Free Browser-Based Tools So I Wouldn't Need 10 Different Websites",
+   "link": "https://dev.to/saira123/i-built-145-free-browser-based-tools-so-i-wouldnt-need-10-different-websites-3980",
+   "date": "2026-09-14T16:51:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A preview environment gives reviewers a temporary URL for one pull request. The pattern is easy to state and hard to picture: a label on the PR starts a webhook, a CI job builds an image for that commit, a GitOps control",
+   "summary": "Like a lot of people, I used to bookmark a different website for every small task — one for compressing images, another for merging PDFs, another for generating QR codes, another for checking word count. Most of these si",
    "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Kubernetes OOMKilled (Exit Code 137) Cascades Under High Load",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-kubernetes-oomkilled-exit-code-137-cascades-under-high-load-5he",
-   "date": "2026-09-14T10:06:14.000Z",
+   "title": "659 Top Platforms for Buying Verified LinkedIn Accounts",
+   "link": "https://dev.to/iihdss6248/659-top-platforms-for-buying-verified-linkedin-accounts-gli",
+   "date": "2026-09-14T16:45:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "Buy Verified LinkedIn Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-linkedin-accounts/ Buy verified LinkedIn accounts from PROGMB and get instant access to professional networking. Our acc",
    "image": null
   },
   {
-   "title": "Implementing AI Observability: Tracing LLM Calls End-to-End",
-   "link": "https://dev.to/ayinedjimi-consultants/implementing-ai-observability-tracing-llm-calls-end-to-end-11ii",
-   "date": "2026-09-14T10:02:43.000Z",
+   "title": "Best 612 Places to Buy Verified Facebook Manager ...",
+   "link": "https://dev.to/iihdss6248/best-612-places-to-buy-verified-facebook-manager--48cg",
+   "date": "2026-09-14T16:32:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When a Python microservice misbehaves in production, you reach for logs and distributed traces. When an LLM-powered application misbehaves, most teams are flying blind. Tokens leak, latency spikes, costs explode — and al",
+   "summary": "Buy Verified Facebook Accounts progmb.contact@gmail.com https://www.progmb.com/product/buy-verified-facebook-accounts/ Buy Verified Facebook Accounts. When running an online business, there is a lot of emphasis on buildi",
    "image": null
   },
   {
-   "title": "post-quantum tls is a platform migration, not a crypto project",
-   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-4jp4",
-   "date": "2026-09-14T10:01:48.000Z",
+   "title": "The backdoor was a database row",
+   "link": "https://dev.to/hammad4june1999/the-backdoor-was-a-database-row-8dk",
+   "date": "2026-09-14T16:30:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The least useful conversation about post-quantum TLS is still the one people enjoy having the most: \"When will a quantum computer actually break RSA?\" I get why it is tempting. It sounds like the important question. It h",
+   "summary": "I cleaned a compromised hosting account on 5 September and wrote down, with some satisfaction, that it was done. On 11 September I found the rest of it. The part that bothers me is not that I missed something. It is why ",
    "image": null
   },
   {
-   "title": "Decoupled Security: Securing the Auth Flow Without Touching the Implementation",
-   "link": "https://dev.to/nodyhub/decoupled-security-securing-the-auth-flow-without-touching-the-implementation-4n35",
-   "date": "2026-09-14T09:56:35.000Z",
+   "title": "Best Buy Stores, LP - US Headquarters | BBB Reviews",
+   "link": "https://dev.to/iihdss6248/best-buy-stores-lp-us-headquarters-bbb-reviews-ph8",
+   "date": "2026-09-14T16:28:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Integrating additional security measures into existing authentication systems often introduces operational risks. With our new Caddy plugin, we shift this layer into the infrastructure. A load test with 40,000 requests d",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxse7ei1t7bpr6e46hs6.png"
-  },
-  {
-   "title": "Processes: A Living Rhythm with Formal Points",
-   "link": "https://dev.to/fattakhov/processes-a-living-rhythm-with-formal-points-4ecm",
-   "date": "2026-09-14T09:48:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The final track of the \"How to bring order to a project\" series — processes. It came last not because it matters least, but because it leans on everything before it: without observability, status updates degrade into ret",
+   "summary": "Buy BBB Reviews progmb.contact@gmail.com https://www.progmb.com/product/buy-bbb-reviews/ Buy BBB Reviews. BBB reviews can provide valuable insight into a business’s reputation and customer service. However, it’s importan",
    "image": null
   },
   {
-   "title": "From Push to Production: Automating Deployments with GitHub Actions",
-   "link": "https://dev.to/alfatcse123/from-push-to-production-automating-deployments-with-github-actions-e78",
-   "date": "2026-09-14T09:32:56.000Z",
+   "title": "I'm creating opensource AWS DevOps Agent for SRE on-call engineers LLM root-cause hypothesis).",
+   "link": "https://dev.to/maxuver/im-creating-opensource-aws-devops-agent-for-sre-on-call-engineers-llm-root-cause-hypothesis-2gk9",
+   "date": "2026-09-14T16:22:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Automating Your Deploy Process with GitHub Actions CI/CD If you've ever deployed code by manually SSH-ing into a server, running a build, praying nothing breaks, and copying files over — you already know why CI/CD exists",
+   "summary": "Day 1/100. I’m asking for one of two things: if you use Kubernetes and handle on-call duties, I’d love a 25-minute chat about your most recent overnight incident. Alternatively, you could install and break it, it’s a sin",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0kown6vzylnwo3ivt3gf.png"
+  },
+  {
+   "title": "5 Easy Ways to Buy Old Gmail Accounts Smartly",
+   "link": "https://dev.to/colettabowers8v4en/5-easy-ways-to-buy-old-gmail-accounts-smartly-2e6b",
+   "date": "2026-09-14T16:20:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Meta Description: Learn how to responsibly manage old Gmail accounts in 2026 with practical guidance on account security, recovery information, emails, storage, connected devices, privacy, and long-term account maintenan",
    "image": null
   },
   {
-   "title": "Why AI Agents Fail at Database Migrations—and How to Force Them to Plan Properly",
-   "link": "https://dev.to/renato_marinho/why-ai-agents-fail-at-database-migrations-and-how-to-force-them-to-plan-properly-12e1",
-   "date": "2026-09-14T09:28:09.000Z",
+   "title": "60 Sites to Buy Negative Google Reviews in 2027",
+   "link": "https://dev.to/iihdss6248/60-sites-to-buy-negative-google-reviews-in-2027-5ag3",
+   "date": "2026-09-14T16:19:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An AI agent recommends a big-bang database migration over the weekend. No dependency map provided for the seven services consuming that database. No formal rollback plan beyond \"just restore from backup.\" No data integri",
+   "summary": "Buy Negative Google Reviews: A Strategic Approach to Increase Business Credibility progmb.contact@gmail.com https://www.progmb.com/product/buy-negative-google-reviews/ Buy negative Google reviews may sound bad, but if us",
+   "image": null
+  },
+  {
+   "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+   "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+   "date": "2026-09-14T16:00:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg"
+  },
+  {
+   "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+   "date": "2026-09-14T14:40:34.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg"
+  },
+  {
+   "title": "Quoting Laurie Voss",
+   "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+   "date": "2026-09-14T14:34:29.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it pr",
+   "image": null
+  },
+  {
+   "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+   "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+   "date": "2026-09-14T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ratIPK3F0IGyzyDTTPaV26Nnh4gQoFjS0ejR49J_tbGb92GgukT-Mnr9xv9mK7h0QSdeXujxiEtD0AqVKNmrKoG9BMEuut7CB1368iyt3Gr6Xu5mAdkDsUQC86K9GZ-Uw6qfPvYYr9BUvHzn014_rzQeMS5dCVXEwkRLs3eViylo5ChmZs6QQygxE4/s1600/picus-main.jpg"
+  },
+  {
+   "title": "Making the Internet a Bit Less Sh*t: Inside Resn’s Digital Experiences",
+   "link": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
+   "date": "2026-09-14T11:30:10.000Z",
+   "theme": "threed",
+   "themeName": "3D",
+   "source": "Codrops",
+   "summary": "A look at how Resn combines brand, content, technology and a healthy disregard for boring websites to create digital experiences people actually want to explore.",
+   "image": null
+  },
+  {
+   "title": "Gspikes: WordPress to Drupal Migration: The Honest Guide",
+   "link": "https://gspikes.com/wordpress-to-drupal-migration/",
+   "date": "2026-09-14T10:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Most articles with this title are written by Drupal shops. We build on both platforms, so here is the honest version: the four situations where Drupal genuinely wins, what actually moves versus what gets rebuilt, and why",
    "image": null
   },
   {
@@ -89,6 +149,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "On 8 September 2026, PGDay UK 2026 was held in London. Organized by: Chris Ellis Dave Page Devrim Gunduz Program Committee: Alastair Turner (chair, non-voting) Celeste Horgan Greg Clough Sastry Karamcheti Code of Conduct",
+   "image": null
+  },
+  {
+   "title": "Richard Yen: Looking Forward to PG Summit 2026",
+   "link": "https://postgr.es/p/9uu",
+   "date": "2026-09-14T08:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On October 1, I’ll be speaking at PG Summit 2026 about benchmarking hardware with Postgres. I’m looking forward to sharing some tips and learnings that I’ve picked up over the years. In anticipation of the presentation, ",
    "image": null
   },
   {
@@ -110,6 +180,16 @@
    "source": "The Hacker News",
    "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | J",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg"
+  },
+  {
+   "title": "PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum",
+   "link": "https://laravel-news.com/vacuum-laravel-postgresql-monitoring?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-14T04:24:35.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Vacuum checks PostgreSQL in Laravel apps for bloat, wraparound, and unused indexes, and flags unindexed foreign keys in migrations during CI. The post PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum appe",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/vacuum-laravel-featured.png"
   },
   {
    "title": "Freelock Blog: Using AI to review AI-Generated code: Astra vs. Opus vs. DeepSeek",
@@ -322,44 +402,14 @@
    "image": "https://kubernetes.io/images/blog/2026-kubernetes-1-37-native-histograms-beta/native-histograms-flow.svg"
   },
   {
-   "title": "Quoting Boris Cherny",
-   "link": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-   "date": "2026-09-11T17:47:11.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-drive",
-   "image": null
-  },
-  {
-   "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-   "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-   "date": "2026-09-11T16:30:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-202",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
-  },
-  {
-   "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-   "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-   "date": "2026-09-11T16:15:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Kn",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
-  },
-  {
-   "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-   "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-   "date": "2026-09-11T14:29:47.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
+   "title": "Building EasyReply: How We Used Laravel to Unify Customer Support",
+   "link": "https://laravel-news.com/easyreply-laravel-shared-inbox?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-11T16:06:51.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "EasyReply pulls email, Slack, Instagram, and WhatsApp into one AI shared inbox, built on Laravel with Reverb, Inertia, React, and queues. The post Building EasyReply: How We Used Laravel to Unify Customer Support appeare",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/EasyReply-Laravel-News-Image.png"
   },
   {
    "title": "Shaun Thomas: PG Phriday: The Folder That Ate the Publisher",
@@ -412,6 +462,16 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
+   "title": "Dutch PHP Conference 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-09-11-1",
+   "date": "2026-09-11T07:54:45.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "🚀 Dutch PHP Conference 2027 is coming! 🚀 We’re thrilled to announce that the 21st edition of the Dutch PHP Conference will take place from March 16 to March 19, 2027 in Amsterdam! 🗓️ 🎤 Call for Papers is now OPEN! 🎤",
+   "image": null
+  },
+  {
    "title": "Sitback Solutions: Vibe-coding my dream CMS (an internal monologue)",
    "link": "https://www.sitback.com.au/insights/article/vibe-coding-my-dream-cms-an-internal-monologue/",
    "date": "2026-09-11T04:59:57.000Z",
@@ -430,16 +490,6 @@
    "source": "Laravel News",
    "summary": "PayZephyr gives Laravel one payment API across Stripe, PayPal, Paystack, Flutterwave, and four more, with failover and double-charge protection. The post PayZephyr: One Payment API for Stripe, Paystack, and PayPal appear",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Copy of laravel-quick-blade-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_connections",
-   "link": "https://postgr.es/p/9ug",
-   "date": "2026-09-11T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "max_connections is a memory budget and a circuit breaker wearing a capacity costume. It does not decide how many queries your server can run at once; the core count and the storage decide that, and they were decided when",
-   "image": null
   },
   {
    "title": "PHP 8.6.0 Beta 3 is available for testing",
@@ -490,16 +540,6 @@
    "source": "Drupal Planet",
    "summary": "Register for our next webinar to see a live demonstration of Centarro Bootstrap. Every new theme for a Drupal Commerce project starts with the same sequence: define your colors, configure button styles, set typography, s",
    "image": null
-  },
-  {
-   "title": "Joachim's blog: Putting paths first: Views support for path alias entities",
-   "link": "http://www.noreiko.com/blog/putting-paths-first-views-support-path-alias-entities",
-   "date": "2026-09-10T12:56:02.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Putting paths first: Views support for path alias entities On a recent project, I was struck by how the content editors used spreadsheets to manage their content. This wasn't just as a planning tool in the early stages; ",
-   "image": "http://www.noreiko.com/sites/default/files/article/image/2026-09/path-alias-views-admin-view.png"
   },
   {
    "title": "Inside the First Three.js Conference in Paris",
@@ -560,16 +600,6 @@
    "source": "Laravel News",
    "summary": "Quick Blade is a free macOS Quick Look extension that renders .blade.php files in Finder with your layout, compiled CSS, and stand-in data. The post Preview Blade Templates in macOS Finder with Quick Blade appeared first",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-quick-blade-featured.png"
-  },
-  {
-   "title": "Artisan Debugging Commands in Laravel Telescope 5.24.0",
-   "link": "https://laravel-news.com/laravel-telescope-5-24-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-09T21:33:11.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Telescope 5.24.0 adds two Artisan commands for inspecting recorded entries from the terminal and cancels stale dashboard requests during navigation. The post Artisan Debugging Commands in Laravel Telescope 5.24.0",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Telescope-LN.png"
   },
   {
    "title": "PHPBenelux Conference 2027, Antwerp Belgium",
@@ -662,16 +692,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
-   "title": "Queue totalSize() and JobInterrupted Event in Laravel 13.31",
-   "link": "https://laravel-news.com/laravel-13-31-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-09T03:39:27.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.31 adds Queue::totalSize() to count every job on a connection, a JobInterrupted event, and chaperone support for BelongsToMany pivot models. The post Queue totalSize() and JobInterrupted Event in Laravel 13.31",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "What's new in HTML for 2026",
    "link": "https://frontendfoc.us/issues/757",
    "date": "2026-09-09T00:00:00.000Z",
@@ -759,16 +779,6 @@
    "themeName": "3D",
    "source": "Codrops",
    "summary": "How a meshline habit turned into a tube renderer, and the three ways I got the maths wrong along the way.",
-   "image": null
-  },
-  {
-   "title": "Building a Real-Time 3D Face Mask with MediaPipe, Threlte and Three.js",
-   "link": "https://tympanus.net/codrops/2026/09/06/building-a-real-time-3d-face-mask-with-mediapipe-threlte-and-three-js/",
-   "date": "2026-09-06T13:09:52.000Z",
-   "theme": "threed",
-   "themeName": "3D",
-   "source": "Codrops",
-   "summary": "Learn how MediaPipe’s face landmarks, Google’s canonical face model, and Three.js come together to create a real-time textured 3D face mask.",
    "image": null
   },
   {
@@ -1070,16 +1080,6 @@
    "source": "Percona Blog",
    "summary": "1. Purpose and scope This performance investigation aims to look into the read/write performance of Percona Server for MySQL 8.4 and how it changed between versions released in 2026: 8.4.8-8 released on 12 March 2026 8.4",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "PHP 8.6.0 Beta 2 available for testing",
-   "link": "https://www.php.net/index.php#2026-08-27-1",
-   "date": "2026-08-27T10:55:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP team is pleased to announce a new beta release of PHP 8.6.0, Beta 2. This continues the PHP 8.6 release cycle, the rough outline of which is specified in the .PHP Wiki For source downloads of PHP 8.6.0 Beta 2 ple",
-   "image": null
   },
   {
    "title": "animation-trigger",
