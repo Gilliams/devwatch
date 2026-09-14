@@ -1,14 +1,134 @@
 {
- "generatedAt": "2026-09-14T01:00:25.075Z",
+ "generatedAt": "2026-09-14T10:34:46.489Z",
  "articles": [
   {
-   "title": "Your AI Coding Agent Shouldn't Live on Your Laptop",
-   "link": "https://dev.to/yorchperaza/your-ai-coding-agent-shouldnt-live-on-your-laptop-166j",
-   "date": "2026-09-14T00:47:19.000Z",
+   "title": "Preview environments: from a PR label to teardown",
+   "link": "https://dev.to/devopsdaily/preview-environments-from-a-pr-label-to-teardown-12bo",
+   "date": "2026-09-14T10:24:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every AI coding tool I have used makes the same assumption: the code is on the laptop you are sitting at. That is true for maybe half of what an engineering team actually does. The rest happens on a dev box, in CI, on a ",
+   "summary": "A preview environment gives reviewers a temporary URL for one pull request. The pattern is easy to state and hard to picture: a label on the PR starts a webhook, a CI job builds an image for that commit, a GitOps control",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Kubernetes OOMKilled (Exit Code 137) Cascades Under High Load",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-kubernetes-oomkilled-exit-code-137-cascades-under-high-load-5he",
+   "date": "2026-09-14T10:06:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Implementing AI Observability: Tracing LLM Calls End-to-End",
+   "link": "https://dev.to/ayinedjimi-consultants/implementing-ai-observability-tracing-llm-calls-end-to-end-11ii",
+   "date": "2026-09-14T10:02:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When a Python microservice misbehaves in production, you reach for logs and distributed traces. When an LLM-powered application misbehaves, most teams are flying blind. Tokens leak, latency spikes, costs explode — and al",
+   "image": null
+  },
+  {
+   "title": "post-quantum tls is a platform migration, not a crypto project",
+   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-4jp4",
+   "date": "2026-09-14T10:01:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The least useful conversation about post-quantum TLS is still the one people enjoy having the most: \"When will a quantum computer actually break RSA?\" I get why it is tempting. It sounds like the important question. It h",
+   "image": null
+  },
+  {
+   "title": "Decoupled Security: Securing the Auth Flow Without Touching the Implementation",
+   "link": "https://dev.to/nodyhub/decoupled-security-securing-the-auth-flow-without-touching-the-implementation-4n35",
+   "date": "2026-09-14T09:56:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Integrating additional security measures into existing authentication systems often introduces operational risks. With our new Caddy plugin, we shift this layer into the infrastructure. A load test with 40,000 requests d",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzxse7ei1t7bpr6e46hs6.png"
+  },
+  {
+   "title": "Processes: A Living Rhythm with Formal Points",
+   "link": "https://dev.to/fattakhov/processes-a-living-rhythm-with-formal-points-4ecm",
+   "date": "2026-09-14T09:48:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The final track of the \"How to bring order to a project\" series — processes. It came last not because it matters least, but because it leans on everything before it: without observability, status updates degrade into ret",
+   "image": null
+  },
+  {
+   "title": "From Push to Production: Automating Deployments with GitHub Actions",
+   "link": "https://dev.to/alfatcse123/from-push-to-production-automating-deployments-with-github-actions-e78",
+   "date": "2026-09-14T09:32:56.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Automating Your Deploy Process with GitHub Actions CI/CD If you've ever deployed code by manually SSH-ing into a server, running a build, praying nothing breaks, and copying files over — you already know why CI/CD exists",
+   "image": null
+  },
+  {
+   "title": "Why AI Agents Fail at Database Migrations—and How to Force Them to Plan Properly",
+   "link": "https://dev.to/renato_marinho/why-ai-agents-fail-at-database-migrations-and-how-to-force-them-to-plan-properly-12e1",
+   "date": "2026-09-14T09:28:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An AI agent recommends a big-bang database migration over the weekend. No dependency map provided for the seven services consuming that database. No formal rollback plan beyond \"just restore from backup.\" No data integri",
+   "image": null
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 36",
+   "link": "https://postgr.es/p/9ur",
+   "date": "2026-09-14T08:29:19.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 8 September 2026, PGDay UK 2026 was held in London. Organized by: Chris Ellis Dave Page Devrim Gunduz Program Committee: Alastair Turner (chair, non-voting) Celeste Horgan Greg Clough Sastry Karamcheti Code of Conduct",
+   "image": null
+  },
+  {
+   "title": "Symfony AI Spotlight: Mate, an Agent's Way into Your Runtime",
+   "link": "https://symfony.com/blog/symfony-ai-spotlight-mate-an-agent-s-way-into-your-runtime?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-14T07:47:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, b",
+   "image": null
+  },
+  {
+   "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+   "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+   "date": "2026-09-14T07:24:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | J",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg"
+  },
+  {
+   "title": "Freelock Blog: Using AI to review AI-Generated code: Astra vs. Opus vs. DeepSeek",
+   "link": "https://www.freelock.com/blog/john-locke/2026-09/using-ai-review-ai-generated-code-astra-vs-opus-vs-deepseek",
+   "date": "2026-09-14T02:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Using AI to review AI-Generated code: Astra vs. Opus vs. DeepSeek John Locke Sun, 09/13/2026 - 19:00 Astra built an impressive amount of working code, but missed serious performance problems. DeepSeek found several of th",
+   "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-09/technology-1283624_150.jpg?itok=i4p8gY9X"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_identifier_length",
+   "link": "https://postgr.es/p/9uq",
+   "date": "2026-09-14T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "max_identifier_length reports a number, 63, and the number is the least interesting thing about it. Every relational database caps the length of a name. What is unusual about PostgreSQL is what happens when you go over: ",
    "image": null
   },
   {
@@ -22,36 +142,6 @@
    "image": null
   },
   {
-   "title": "Cách viết Dockerfile an toàn hơn",
-   "link": "https://dev.to/eme_gug_0821b41b948be6516/cach-viet-dockerfile-an-toan-hon-59h4",
-   "date": "2026-09-14T00:09:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Nhiều Dockerfile mình review có lỗi bảo mật cơ bản. Đây là checklist mình dùng. # Bad FROM node:20-alpine COPY . . CMD [\"node\", \"app.js\"] # Container chạy bằng root! # Good FROM node:20-alpine RUN addgroup -S appgroup &&",
-   "image": null
-  },
-  {
-   "title": "A Measurement That Never Ran Became a Verdict: A Second Automated Chrome Answered for the First",
-   "link": "https://dev.to/hexisteme/a-measurement-that-never-ran-became-a-verdict-a-second-automated-chrome-answered-for-the-first-ebb",
-   "date": "2026-09-14T00:00:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on hexisteme notes. I run a small unattended script that checks two things about pages I publish: whether Google Search Console can still fetch my sitemap, and whether a set of SEO-focused pages I pu",
-   "image": null
-  },
-  {
-   "title": "Why Floating-Point Math Is Dangerous for Pricing Systems (And What to Use Instead)",
-   "link": "https://dev.to/sikah_sebastien_5fd897083/why-floating-point-math-is-dangerous-for-pricing-systems-and-what-to-use-instead-440o",
-   "date": "2026-09-13T23:58:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Per Modern Treasury's own explanation of why floats fail for currency, IEEE-754 floating-point numbers represent values in binary — powers of two — while money is inherently decimal. That mismatch means most monetary val",
-   "image": null
-  },
-  {
    "title": "shot-scraper 1.12",
    "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
    "date": "2026-09-13T23:58:14.000Z",
@@ -59,46 +149,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu",
-   "image": null
-  },
-  {
-   "title": "Harden & Lockdown RKE2 Cluster with a 4-Layer DevSecOps Stack",
-   "link": "https://dev.to/ezejioforog/harden-lockdown-rke2-cluster-with-a-4-layer-devsecops-stack-iop",
-   "date": "2026-09-13T23:56:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Before you move furniture into a new house, you install the locks, the cameras, and the gates. Kubernetes is no different, yet engineers constantly build clusters inside-out, treating security as a cosmetic ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qogqsd7d03lmjxczci4.png"
-  },
-  {
-   "title": "The 5 Worst Dev.to Ops Mistakes and How to Fix Them (2026-09-19-B)",
-   "link": "https://dev.to/hive80lab/the-5-worst-devto-ops-mistakes-and-how-to-fix-them-2026-09-19-b-5mn",
-   "date": "2026-09-13T23:52:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The 5 Worst Dev.to Ops Mistakes and How to Fix Them You're writing on Dev.to. Your audience is largely developers, sysadmins, and technical decision-makers. You have a voice that can cut through the noise and make an imp",
-   "image": null
-  },
-  {
-   "title": "When Automation Becomes Liability: Reducing Risk in Ops Systems (2026-09-19-A)",
-   "link": "https://dev.to/hive80lab/when-automation-becomes-liability-reducing-risk-in-ops-systems-2026-09-19-a-2i07",
-   "date": "2026-09-13T23:52:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "When Automation Becomes Liability: Reducing Risk in Ops Systems Automation is supposed to reduce risk — but it can introduce new attack surfaces, single points of failure, and opaque dependency chains. When automation be",
-   "image": null
-  },
-  {
-   "title": "Offboard a Game Tenant in Go: Revoke Key, Delete User, Verify (and Rerun Safely)",
-   "link": "https://dev.to/ethanbrooks111/offboard-a-game-tenant-in-go-revoke-key-delete-user-verify-and-rerun-safely-666",
-   "date": "2026-09-13T23:51:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Revoke the key first, delete the user second, then verify both by reading the key inventory back — and write the offboarding job so that running it twice is boring. Use that order every time: it is the only sequence wher",
    "image": null
   },
   {
@@ -312,16 +362,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
   },
   {
-   "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-   "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-   "date": "2026-09-11T14:10:20.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg"
-  },
-  {
    "title": "Shaun Thomas: PG Phriday: The Folder That Ate the Publisher",
    "link": "https://postgr.es/p/9uk",
    "date": "2026-09-11T11:18:55.000Z",
@@ -402,16 +442,6 @@
    "image": null
   },
   {
-   "title": "Mikhail Shytsko: Your Agent Can Turn Off Its Own Kill Switch",
-   "link": "https://postgr.es/p/9ul",
-   "date": "2026-09-11T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A new agent needs a database login, so the role it logs in as gets the treatment every runbook recommends. Two ALTER ROLE lines go in, one capping how long a single statement may run and one making transactions read-only",
-   "image": "https://seedfa.st/blog/postgres-role-for-ai-agent-2.svg"
-  },
-  {
    "title": "PHP 8.6.0 Beta 3 is available for testing",
    "link": "https://www.php.net/index.php#2026-09-10-1",
    "date": "2026-09-10T22:19:15.000Z",
@@ -439,16 +469,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "On today's show we are talking about Site Templates, What they do, and How you can use them with guests Tim Lehnen & Adam Globus-Hoenich. We'll also cover Haven as our module of the week. For show notes visit: https://ww",
-   "image": null
-  },
-  {
-   "title": "Andrei Lepikhov: Optimising PostgreSQL Aggregates: What Can an Extension Do?",
-   "link": "https://postgr.es/p/9ui",
-   "date": "2026-09-10T17:33:44.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Aggregates in PostgreSQL aren't particularly efficient, computationally speaking. It shows most in a scenario where partial aggregation doesn't help: when aggregation only prepares data for the query, processing a large ",
    "image": null
   },
   {
@@ -502,6 +522,16 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
+   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+   "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+   "date": "2026-09-10T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "link": "https://huggingface.co/blog/gradio-workflow-1111",
    "date": "2026-09-10T00:00:00.000Z",
@@ -549,16 +579,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "PHPBenelux Conferencesubmit your proposal today!",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: The 60-second procurement test",
-   "link": "https://dri.es/the-60-second-procurement-test",
-   "date": "2026-09-09T18:45:17.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Open Source projects have spent decades asking companies to contribute. Projects should also give buyers the information they need to reward the companies that do. Any Open Source project with a commercial or institution",
    "image": null
   },
   {
@@ -932,16 +952,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "link": "https://huggingface.co/blog/allenai/benchmirt",
-   "date": "2026-09-01T21:39:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Fragments: September  1",
    "link": "https://martinfowler.com/fragments/2026-09-01.html",
    "date": "2026-09-01T19:50:00.000Z",
@@ -979,16 +989,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-   "image": null
-  },
-  {
-   "title": "Introducing symfony lsp:check: Symfony-Aware Diagnostics in Your CI",
-   "link": "https://symfony.com/blog/introducing-symfony-lsp-check-symfony-aware-diagnostics-in-your-ci?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-08-31T12:03:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "A Symfony application is full of strings that mean something: route names, template paths, translation keys, service ids, bundle configuration keys. To PHP, they are strings like any others. Your CI pipeline verifies typ",
    "image": null
   },
   {
