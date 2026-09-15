@@ -1,74 +1,114 @@
 {
- "generatedAt": "2026-09-14T20:56:03.345Z",
+ "generatedAt": "2026-09-15T01:24:25.659Z",
  "articles": [
   {
-   "title": "A duplicate check inherits every delay of whoever answers it",
-   "link": "https://dev.to/unmannedops/a-duplicate-check-inherits-every-delay-of-whoever-answers-it-4869",
-   "date": "2026-09-14T20:41:01.000Z",
+   "title": "Python Gaming Service Discovery: DNS Records vs Registry (During Frequent Deploys)",
+   "link": "https://dev.to/killianberg5391/python-gaming-service-discovery-dns-records-vs-registry-during-frequent-deploys-1hk8",
+   "date": "2026-09-15T01:05:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "There is a question our unattended agent asks before it publishes anything, and for a long time we thought it was a simple question. The question was: have I already posted this? The way we answered it was to call the de",
+   "summary": "Short answer: use DNS records for stable tenant-facing subdomains, and use a service registry for destinations that change with frequent deploys; DNS caching makes deploy-specific names a slow and unreliable cutover cont",
    "image": null
   },
   {
-   "title": "DNS Provisioning Threshold — 3 Signals Before Replacing Manual Console Work",
-   "link": "https://dev.to/harrisonford3572/dns-provisioning-threshold-3-signals-before-replacing-manual-console-work-3dk",
-   "date": "2026-09-14T20:36:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Short answer: Use DNS automation when domain ownership checks become part of customer onboarding; for a handful of static records on one company site, keep the manual console process and document it. The deciding constra",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_index_keys",
+   "link": "https://postgr.es/p/9uv",
+   "date": "2026-09-15T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's `max_index_keys` has counted more than keys since INCLUDE columns arrived in version 11, but stays locked at 32 due to on-disk tuple format…",
    "image": null
   },
   {
-   "title": "Harness Found 77% of Teams Trust Their Agent Inventory and 44% Check It. shell.online 0.13 Stopped Trusting Its Own Session Table.",
-   "link": "https://dev.to/artem_a/harness-found-77-of-teams-trust-their-agent-inventory-and-44-check-it-shellonline-013-stopped-d1m",
-   "date": "2026-09-14T20:34:14.000Z",
+   "title": "Tại sao bạn nên dùng SSH key thay vì password",
+   "link": "https://dev.to/eme_gug_0821b41b948be6516/tai-sao-ban-nen-dung-ssh-key-thay-vi-password-h2e",
+   "date": "2026-09-15T00:58:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Harness published its State of Agent DLC 2026 report on September 10. Sapio Research surveyed 700 engineering leaders and practitioners across the US, UK, France, Germany and India in July. Two rows in the results belong",
+   "summary": "Nhiều developer vẫn đang dùng password để SSH vào server. Đây là lý do bạn nên chuyển sang SSH key ngay. Brute force: Bot quét port 22 liên tục, thử hàng nghìn password mỗi ngày Phishing: Password có thể bị lộ qua social",
    "image": null
   },
   {
-   "title": "The hours AI saved you have nowhere to go",
-   "link": "https://dev.to/unlocked-consulting/the-hours-ai-saved-you-have-nowhere-to-go-2oba",
-   "date": "2026-09-14T20:33:06.000Z",
+   "title": "I Pinned 31 GitHub Actions to Commit SHAs. One Major Tag Was Two Versions Stale.",
+   "link": "https://dev.to/jjoyneriv/i-pinned-31-github-actions-to-commit-shas-one-major-tag-was-two-versions-stale-b13",
+   "date": "2026-09-15T00:39:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A manager at the company started building with AI last year. He described what he wanted, iterated with the model, clicked through the result, and fed back the cases he had forgotten until the behaviour was right. An aft",
+   "summary": "Yesterday I pinned 31 GitHub Actions to commit SHAs for a set of workflows I was packaging. Every SHA was resolved from the upstream repository rather than copied from a README or a tutorial, and the process turned up th",
    "image": null
   },
   {
-   "title": "Designing a compliance check that does not cry wolf in CI",
-   "link": "https://dev.to/nicholas_toledo_5a6f9e576/designing-a-compliance-check-that-does-not-cry-wolf-in-ci-1nca",
-   "date": "2026-09-14T20:26:48.000Z",
+   "title": "Docker for Developers: Containers, Images, and Compose Explained",
+   "link": "https://dev.to/rawas_aditya/docker-for-developers-containers-images-and-compose-explained-31pl",
+   "date": "2026-09-15T00:37:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every team has a disabled check. It sits in .github/workflows/, commented out, with a note saying # TODO re-enable after we fix the noise. Nobody ever fixes the noise. The check did not fail because it was wrong. It fail",
+   "summary": "Originally published at adityarawas.in If you've ever heard \"works on my machine\" — Docker is the solution. Docker lets you package your application and all its dependencies into a single unit called a container that run",
    "image": null
   },
   {
-   "title": "Severity is not exploitation, and only one of them starts a 24-hour clock",
-   "link": "https://dev.to/nicholas_toledo_5a6f9e576/severity-is-not-exploitation-and-only-one-of-them-starts-a-24-hour-clock-8c4",
-   "date": "2026-09-14T20:25:41.000Z",
+   "title": "The 00:00 UTC Thundering Herd: Why Cron Schedule Collisions Crash Production Databases",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/the-0000-utc-thundering-herd-why-cron-schedule-collisions-crash-production-databases-jjk",
+   "date": "2026-09-15T00:31:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Run a dependency scanner on a real project and you get four hundred CVEs. Somewhere in there might be one that matters right now. The scanner cannot tell you which, so it sorts by CVSS and hopes. CVSS was never designed ",
+   "summary": "Every DevOps and backend team has experienced the ghost in the machine: at exactly 00:00:00 UTC, database connections spike, API latencies shoot through the ceiling, and alert channels light up with 504 Gateway Timeouts.",
    "image": null
   },
   {
-   "title": "Your EOL dependencies just became a legal question, not a tech-debt question",
-   "link": "https://dev.to/nicholas_toledo_5a6f9e576/your-eol-dependencies-just-became-a-legal-question-not-a-tech-debt-question-42f5",
-   "date": "2026-09-14T20:25:35.000Z",
+   "title": "Observability for Serverless: What's Different",
+   "link": "https://dev.to/samson_tanimawo/observability-for-serverless-whats-different-3ol7",
+   "date": "2026-09-14T23:59:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every backlog has a ticket like this: Upgrade Node 16 → 20. Priority: low. Nobody has complained. On 8 December 2026 that ticket changes category. It stops being tech debt and starts being a civil liability question, at ",
+   "summary": "Everything you know about observability needs a slight rethink when you move to serverless. Let me save you the weeks of frustration I went through. Your p99 latency is dominated by cold starts. A function that runs in 5",
+   "image": null
+  },
+  {
+   "title": "What to Check Before Turning a Vulnerability Scan Into a Client Report",
+   "link": "https://dev.to/varaxontech/what-to-check-before-turning-a-vulnerability-scan-into-a-client-report-1nn7",
+   "date": "2026-09-14T23:44:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A vulnerability report is only as useful as the data behind it. A polished PDF can still mislead a client if the scan scope was incomplete, findings were disconnected from affected systems, or missing data was treated as",
+   "image": null
+  },
+  {
+   "title": "5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%)",
+   "link": "https://dev.to/hive80lab/5-ai-workflows-that-automate-incident-response-and-slash-your-mttr-by-60-4han",
+   "date": "2026-09-14T23:37:40.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "5 AI Workflows That Automate Incident Response (And Slash Your MTTR by 60%) When I first tried to automate incident response at my organization, I spent weeks building a custom system. Then I realized the key wasn't buil",
+   "image": null
+  },
+  {
+   "title": "Percona and HexaCluster: Faster, Safer Oracle Migration",
+   "link": "https://www.percona.com/blog/percona-and-hexacluster-faster-safer-oracle-migration/",
+   "date": "2026-09-14T22:19:16.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Percona and HexaCluster have partnered to remove the hardest part of an open source database migration: getting off Oracle, SQL Server, DB2 or Sybase ASE with confidence, on a predictable timeline, without a multi-year c",
+   "image": null
+  },
+  {
+   "title": "The contagion of fear",
+   "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+   "date": "2026-09-14T21:18:13.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story",
    "image": null
   },
   {
@@ -82,13 +122,23 @@
    "image": null
   },
   {
-   "title": "AWS Penetration Testing: Rules, Scope, Attack Paths and How to Prepare",
-   "link": "https://dev.to/invadel-cybersecurity/aws-penetration-testing-rules-scope-attack-paths-and-how-to-prepare-4pfj",
-   "date": "2026-09-14T20:14:16.000Z",
+   "title": "Kubernetes Changed Block Tracking API - Beta Differences",
+   "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
+   "date": "2026-09-14T18:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cloud breaches rarely start with a kernel exploit. They start with an over-permissive IAM role, a public S3 bucket, a leaked access key in a repository, or a metadata service reachable from a vulnerable application. AWS ",
+   "source": "Kubernetes Blog",
+   "summary": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in September 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta. If you aren't yet familiar",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+   "link": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/",
+   "date": "2026-09-14T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. On Linux nodes running cgroup v2, the feature uses the memory controller to give the kernel better guidance on how to treat container me",
    "image": null
   },
   {
@@ -219,6 +269,16 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, b",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Permissions Define Drupal’s Agent Interfaces",
+   "link": "https://www.thedroptimes.com/newsletter/drupal-agent-permissions-capabilities?utm_source=Drupal Planet",
+   "date": "2026-09-14T07:28:47.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal's emerging agent interfaces are beginning to expose actions as well as information. MCPIO 1.0.0-alpha1 presents external Model Context Protocol clients with two entry points, search and execute, through which they",
    "image": null
   },
   {
@@ -382,16 +442,6 @@
    "image": null
   },
   {
-   "title": "OpenAI agents attacked RubyGems back in May",
-   "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-   "date": "2026-09-12T00:42:25.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis (",
-   "image": null
-  },
-  {
    "title": "Omega8.cc: Keys to the Engine Bay",
    "link": "https://omega8.cc/blog/keys-to-the-engine-bay",
    "date": "2026-09-11T22:47:00.000Z",
@@ -452,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Radim Marek: The unbearable lightness of one more index",
-   "link": "https://postgr.es/p/9uh",
-   "date": "2026-09-11T08:15:45.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Being \"the database guy\" comes with a lot of questions, and over the last eight months those questions changed. The repetitive ones disappeared, nobody asks how to avoid putting things in the database any more, and the c",
-   "image": "https://boringsql.com/images/posts/unbearable-lightness-of-one-more-index-reads-light.svg"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Calling the Symfony Container from Legacy Code",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-calling-the-symfony-container-from-legacy-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-11T08:00:00.000Z",
@@ -519,16 +559,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.3",
-   "image": null
-  },
-  {
-   "title": "Talking Drupal: Talking Drupal #569 - Site Templates",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-569-site-templates",
-   "date": "2026-09-10T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "On today's show we are talking about Site Templates, What they do, and How you can use them with guests Tim Lehnen & Adam Globus-Hoenich. We'll also cover Haven as our module of the week. For show notes visit: https://ww",
    "image": null
   },
   {
@@ -872,16 +902,6 @@
    "image": null
   },
   {
-   "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
-   "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/",
-   "date": "2026-09-02T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down to zero replicas. This feature is now Beta and enabled by default. A HorizontalPodAutoscaler (HPA) that uses a suitable object metric or ",
-   "image": null
-  },
-  {
    "title": "An Accidental Blackboard",
    "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
    "date": "2026-09-02T14:45:00.000Z",
@@ -969,16 +989,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of s",
-   "image": null
-  },
-  {
-   "title": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
-   "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/",
-   "date": "2026-09-01T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "I am excited to announce that etcd RangeStream is graduating to beta in Kubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and etcd need to read a large collection, and makes peak usage more pr",
    "image": null
   },
   {
@@ -1070,16 +1080,6 @@
    "source": "Martin Fowler",
    "summary": "Lots of organizations are excited about what AI can do to streamline their processes, save money, and juice margins. But AI's capabilities are founded on the data that AI accesses, and for many organizations that foundat",
    "image": null
-  },
-  {
-   "title": "Performance Progression of Percona Server for MySQL 8.4",
-   "link": "https://www.percona.com/blog/performance-progression-of-percona-server-for-mysql-8-4/",
-   "date": "2026-08-27T13:07:20.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "1. Purpose and scope This performance investigation aims to look into the read/write performance of Percona Server for MySQL 8.4 and how it changed between versions released in 2026: 8.4.8-8 released on 12 March 2026 8.4",
-   "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
   },
   {
    "title": "animation-trigger",
