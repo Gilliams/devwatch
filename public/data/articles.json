@@ -1,25 +1,165 @@
 {
- "generatedAt": "2026-09-15T15:32:30.863Z",
+ "generatedAt": "2026-09-15T20:13:02.770Z",
  "articles": [
   {
-   "title": "A self-hosted CI runner on your own VPS: faster builds, and the one rule you must not break",
-   "link": "https://dev.to/overnighthost/a-self-hosted-ci-runner-on-your-own-vps-faster-builds-and-the-one-rule-you-must-not-break-5a32",
-   "date": "2026-09-15T15:15:07.000Z",
+   "title": "Serverless IaC Risk Analysis: The Architecture Behind Blast Radius",
+   "link": "https://dev.to/aws-builders/serverless-iac-risk-analysis-the-architecture-behind-blast-radius-1i56",
+   "date": "2026-09-15T19:40:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Hosted CI minutes are metered; a small VPS is not. The build cache stays warm, the Docker layers stay pulled, and the machine costs the same whether you push once a week or forty times a day. There is exactly one rule yo",
+   "summary": "Series: Introducing Blast Radius — See What Breaks Before You Deploy The first two articles in this series were about what Blast Radius does and how to wire it into your pipeline. This one is about how it's built. If you",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyt9kepuovmblpgak6beq.png"
+  },
+  {
+   "title": "Node.js Playbook for Choosing DNS Record Types TXT CNAME SPF DMARC in 2026",
+   "link": "https://dev.to/ishmaelcole6418/nodejs-playbook-for-choosing-dns-record-types-txt-cname-spf-dmarc-in-2026-hca",
+   "date": "2026-09-15T19:29:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For Node.js developer-tool onboarding, publish the record type the consuming system asks for, then choose the control plane from zone authority. Short answer: ownership proof is TXT, a hostname alias is CNAME, mail deliv",
    "image": null
   },
   {
-   "title": "Beyond Static Notes: Building an Agentic AI \"Second Brain\" That Actually Works",
-   "link": "https://dev.to/saleemha/beyond-static-notes-building-an-agentic-ai-second-brain-that-actually-works-cd2",
-   "date": "2026-09-15T15:14:11.000Z",
+   "title": "Argo CD vs Flux in 2026: What the Install Manifests Actually Reveal",
+   "link": "https://dev.to/moksh/argo-cd-vs-flux-in-2026-what-the-install-manifests-actually-reveal-20hj",
+   "date": "2026-09-15T19:20:04.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most developer knowledge bases and \"Second Brain\" systems eventually rot. You spend hours setting up complex folder structures, tagging markdown files, or configuring Notion databases by topic (e.g., Docker, Kubernetes, ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5cm9zd2ajzw4keuap16.png"
+   "summary": "Once more than one person on a team has kubectl access to a cluster, the live state and the state in Git start drifting apart. Someone patches a deployment at 2am to stop a page, forgets to commit the fix, and a routine ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fveptxf9i505j0ag1ebhu.webp"
+  },
+  {
+   "title": "Your Agent Eval Set Is Rotting: Build a Failure-Mining Loop for Google ADK",
+   "link": "https://dev.to/raju_dandigam/your-agent-eval-set-is-rotting-build-a-failure-mining-loop-for-google-adk-1moc",
+   "date": "2026-09-15T19:18:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "An agent evaluation set starts healthy. It contains the obvious intents, a few tool failures, and the happy paths used during development. Six months later, production has changed. New tools exist. Users phrase requests ",
+   "image": null
+  },
+  {
+   "title": "How OpenTelemetry and one UI trick changed the way we debug Kubernetes",
+   "link": "https://dev.to/ruchir_cardinal/how-opentelemetry-and-one-ui-trick-changed-the-way-we-debug-kubernetes-3c0j",
+   "date": "2026-09-15T19:11:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You see an error or latency spike. You group by deployment and one deployment stands out. Now the actual debugging starts. Which pods belong to it? Did one restart? Was there a rollout around the same time? Did a ConfigM",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe4ga3nhpa0j86nw52lvk.webp"
+  },
+  {
+   "title": "How I built a PWA habit tracker with dynamic SVG flame physics (and why shattering failure states ruin UX)",
+   "link": "https://dev.to/thomas_augustino_d76bd769/how-i-built-a-pwa-habit-tracker-with-dynamic-svg-flame-physics-and-why-shattering-failure-states-24c0",
+   "date": "2026-09-15T19:02:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When building my side project Nexora, I wanted to tackle a huge psychological issue found in most productivity tools: streak fatigue. Most habit trackers use rigid numerical counters or loud \"shattering\" animations the m",
+   "image": null
+  },
+  {
+   "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+   "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+   "date": "2026-09-15T18:54:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
+  },
+  {
+   "title": "Internal DNS Service Discovery Records (Registry Caching for Deploy Cutovers)",
+   "link": "https://dev.to/nathanielbrooks0360/internal-dns-service-discovery-records-registry-caching-for-deploy-cutovers-5a5",
+   "date": "2026-09-15T18:49:47.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Use DNS to move the stable name in a cutover, and use a service registry to decide which freshly deployed instances receive traffic. The deciding constraint is not how quickly an operator can change a record; it is how l",
+   "image": null
+  },
+  {
+   "title": "Cloud Resume Challenge Week 1 — What I Built and How I Did It",
+   "link": "https://dev.to/priyanka_vuddemari/cloud-resume-challenge-week-1-what-i-built-and-how-i-did-it-1dc",
+   "date": "2026-09-15T18:40:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Week 1 is done and my resume is live on the internet! 🎉 In my last post I introduced the Cloud Resume Challenge. This time I'm documenting exactly what I did, step by step i.e. the decisions I made, the gotchas I hit, a",
+   "image": null
+  },
+  {
+   "title": "Gspikes: Joomla Migration in 2026: Where to Go, What It Costs, and What Breaks",
+   "link": "https://gspikes.com/joomla-migration/",
+   "date": "2026-09-15T18:17:16.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Joomla 3 has been unsupported since 2023. An honest look at the three destinations — Joomla 5, WordPress or Drupal — what actually breaks, and what it costs.",
+   "image": null
+  },
+  {
+   "title": "Nonprofit Drupal posts: September 2026 Drupal for Nonprofits Chat",
+   "link": "https://www.drupal.org/community/nonprofit-drupal/blog/september-2026-drupal-for-nonprofits-chat",
+   "date": "2026-09-15T16:46:40.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Join us THURSDAY, September 17 at 1pm ET / 10am PT, for our regularly scheduled call to chat about all things Drupal and nonprofits. (Convert to your local time zone.) We don't have anything specific on the agenda this m",
+   "image": null
+  },
+  {
+   "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+   "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+   "date": "2026-09-15T16:29:51.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg"
+  },
+  {
+   "title": "Dimitri Fontaine: Plan Advice in PostgreSQL 19",
+   "link": "https://postgr.es/p/9uC",
+   "date": "2026-09-15T16:27:53.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "There is a conversation that happens in every PostgreSQL shop eventually. A query that has been fine for a year gets slow overnight. Nothing was deployed. The data grew a little, ANALYZE ran, and the planner — entirely r",
+   "image": null
+  },
+  {
+   "title": "Your Agent Aced the Task. Will It Do It Again?",
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+   "date": "2026-09-15T16:00:44.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Christophe Pettus: 19th Nervous Breakdown",
+   "link": "https://postgr.es/p/9uB",
+   "date": "2026-09-15T16:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL 19's release crumbled under its own ambition: eight major features landed in five weeks before freeze, three committers pulled their work, and a…",
+   "image": null
+  },
+  {
+   "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+   "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+   "date": "2026-09-15T15:23:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emergi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
   },
   {
    "title": "Nail the Narrative",
@@ -32,26 +172,6 @@
    "image": null
   },
   {
-   "title": "3 Ops Tips for Running Solo AI Agents (Without Losing the Plot)",
-   "link": "https://dev.to/ray0840/3-ops-tips-for-running-solo-ai-agents-without-losing-the-plot-7hp",
-   "date": "2026-09-15T15:06:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI disclosure (please read first): This post was drafted by Moneymaker, an AI agent working for Ray Malhotra. Review and adapt any advice before you apply it in production. No income guarantees. If you’re running an AI a",
-   "image": null
-  },
-  {
-   "title": "AWS IAM Misconfigurations That Lead to Credential Leaks (And How to Fix Them)",
-   "link": "https://dev.to/maxxthematepng/aws-iam-misconfigurations-that-lead-to-credential-leaks-and-how-to-fix-them-1452",
-   "date": "2026-09-15T15:03:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Why IAM Misconfigurations Are a Top Cloud Security Risk Leaked API keys grab headlines, but the quieter threat, overly permissive or poorly structured IAM configurations, is just as dangerous. A single misconfigured IAM ",
-   "image": null
-  },
-  {
    "title": "Jimmy Angelakos: Send us a contribution straight from the site",
    "link": "https://postgr.es/p/9uA",
    "date": "2026-09-15T15:02:40.000Z",
@@ -59,46 +179,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Until now, the only way to tell us about a contribution worth listing was email. There is now a form on the site instead. You do not need an account, and you do not have to tell us who you are. Write the contribution in ",
-   "image": null
-  },
-  {
-   "title": "5 GitHub Actions mistakes that silently break your CI/CD pipeline",
-   "link": "https://dev.to/saasfactory/5-github-actions-mistakes-that-silently-break-your-cicd-pipeline-i20",
-   "date": "2026-09-15T15:01:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If your GitHub Actions workflow \"works\" but takes 8 minutes when it should take 90 seconds, or randomly fails on Mondays, you probably have one of these five bugs. - uses: actions/setup-node@v4 with: node-version: 20 cac",
-   "image": null
-  },
-  {
-   "title": "post-quantum tls is a platform migration, not a crypto project",
-   "link": "https://dev.to/pvgomes/post-quantum-tls-is-a-platform-migration-not-a-crypto-project-50df",
-   "date": "2026-09-15T15:00:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every few months someone asks me when quantum computers will break RSA. I have stopped answering that question, because it is not the question engineering teams actually have. The question they have is much less glamorou",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqhzgu3hiae5nlit5zn7l.gif"
-  },
-  {
-   "title": "Kubernetes Configuration Management with Kustomize: Dev vs Prod",
-   "link": "https://dev.to/amira_abidi/kubernetes-configuration-management-with-kustomize-dev-vs-prod-2bk6",
-   "date": "2026-09-15T14:48:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Managing multiple Kubernetes environments looks simple at first. You create a few YAML manifests, deploy them to development, then adapt them for production. Then reality happens. Development and production need differen",
-   "image": null
-  },
-  {
-   "title": "🔍 Why Do We Need OpenTelemetry Tracing?",
-   "link": "https://dev.to/stephen_tsoi_5b2c4055f3a9/why-do-we-need-opentelemetry-tracing-p4n",
-   "date": "2026-09-15T14:31:04.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Whether your organization adopts a Request-Driven Architecture (RDA) or an Event-Driven Architecture (EDA), a single business transaction often traverses multiple applications, APIs, networks, message brokers, cloud serv",
    "image": null
   },
   {
@@ -120,6 +200,16 @@
    "source": "Laravel News",
    "summary": "Laravel Vet is a new first-party Composer plugin that shows you the code in every dependency update and records the packages you trust in vet.json. The post Laravel Vet: Review Composer Code Before It Installs appeared f",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-15-laravel-vet.png"
+  },
+  {
+   "title": "Matt Glaman: Define the capability once; call it from anywhere",
+   "link": "https://mglaman.dev/blog/define-capability-once-call-it-anywhere?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
+   "date": "2026-09-15T13:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "",
+   "image": null
   },
   {
    "title": "Jimmy Angelakos: PostgreSQL Commitfest Metrics: PGConf.dev 2026 Part One",
@@ -180,6 +270,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
+  },
+  {
+   "title": "Specbee: Wondering why Drupal needs another page builder? Here's what I learned installing Drupal Canvas, exposing my SDCs, and writing React right in the browser.",
+   "link": "https://www.specbee.com/blogs/drupal-canvas-guide-frontend-developers",
+   "date": "2026-09-15T10:38:04.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Wondering why Drupal needs another page builder? Here's what I learned installing Drupal Canvas, exposing my SDCs, and writing React right in the browser.",
+   "image": null
   },
   {
    "title": "Tomas Vondra: Postgres development activity",
@@ -260,16 +360,6 @@
    "source": "The Hacker News",
    "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg"
-  },
-  {
-   "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-   "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-   "date": "2026-09-15T05:31:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Vo",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg"
   },
   {
    "title": "Morpht: Sitewide governance for AI answers: the Context Control Center and your chatbot",
@@ -362,26 +452,6 @@
    "image": null
   },
   {
-   "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-   "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-   "date": "2026-09-14T18:02:13.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
-  },
-  {
-   "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-   "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-   "date": "2026-09-14T18:01:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelli",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg"
-  },
-  {
    "title": "Quoting Laurie Voss",
    "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
    "date": "2026-09-14T14:34:29.000Z",
@@ -389,16 +459,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it pr",
-   "image": null
-  },
-  {
-   "title": "Gspikes: WordPress to Drupal Migration: The Honest Guide",
-   "link": "https://gspikes.com/wordpress-to-drupal-migration/",
-   "date": "2026-09-14T10:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Most articles with this title are written by Drupal shops. We build on both platforms, so here is the honest version: the four situations where Drupal genuinely wins, what actually moves versus what gets rebuilt, and why",
    "image": null
   },
   {
@@ -432,26 +492,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Permissions Define Drupal’s Agent Interfaces",
-   "link": "https://www.thedroptimes.com/newsletter/drupal-agent-permissions-capabilities?utm_source=Drupal Planet",
-   "date": "2026-09-14T07:28:47.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal's emerging agent interfaces are beginning to expose actions as well as information. MCPIO 1.0.0-alpha1 presents external Model Context Protocol clients with two entry points, search and execute, through which they",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Is There a Future for Drupal in the AI World?",
-   "link": "https://www.thedroptimes.com/72237/drupal-ai-trusted-building-blocks?utm_source=Drupal Planet",
-   "date": "2026-09-14T05:18:32.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Generating software is becoming easier. Knowing what went into it, whether it can be trusted, and who will maintain it is becoming the harder problem.",
-   "image": null
-  },
-  {
    "title": "PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum",
    "link": "https://laravel-news.com/vacuum-laravel-postgresql-monitoring?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-14T04:24:35.000Z",
@@ -460,26 +500,6 @@
    "source": "Laravel News",
    "summary": "Vacuum checks PostgreSQL in Laravel apps for bloat, wraparound, and unused indexes, and flags unindexed foreign keys in migrations during CI. The post PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum appe",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/vacuum-laravel-featured.png"
-  },
-  {
-   "title": "Freelock Blog: Using AI to review AI-Generated code: Astra vs. Opus vs. DeepSeek",
-   "link": "https://www.freelock.com/blog/john-locke/2026-09/using-ai-review-ai-generated-code-astra-vs-opus-vs-deepseek",
-   "date": "2026-09-14T02:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Using AI to review AI-Generated code: Astra vs. Opus vs. DeepSeek John Locke Sun, 09/13/2026 - 19:00 Astra built an impressive amount of working code, but missed serious performance problems. DeepSeek found several of th",
-   "image": "https://www.freelock.com/sites/default/files/styles/ca/public/2026-09/technology-1283624_150.jpg?itok=i4p8gY9X"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_identifier_length",
-   "link": "https://postgr.es/p/9uq",
-   "date": "2026-09-14T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "max_identifier_length reports a number, 63, and the number is the least interesting thing about it. Every relational database caps the length of a name. What is unusual about PostgreSQL is what happens when you go over: ",
-   "image": null
   },
   {
    "title": "commit-rewriter 0.1",
@@ -509,16 +529,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony introduced standalone bundles for the framework features (MessengerBundle, HttpClientBundle, PropertyInfoBundle, etc.), added Docker-style console subcommands, and expanded OAuth2 and OpenID Connect su",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_function_args",
-   "link": "https://postgr.es/p/9up",
-   "date": "2026-09-13T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL won't let you pass more than 100 arguments to a function, and changing it requires rebuilding every extension on your machine.",
    "image": null
   },
   {
@@ -699,16 +709,6 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "If you have spent any time in the Postgres community, you already know the name pgstef. Stefan Fercot has spent years as one of the most visible advocates for pgBackRest, a familiar face at European Postgres conferences,",
-   "image": null
-  },
-  {
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-   "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-   "date": "2026-09-09T15:36:24.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
