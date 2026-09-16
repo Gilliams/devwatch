@@ -1,6 +1,156 @@
 {
- "generatedAt": "2026-09-16T01:22:37.647Z",
+ "generatedAt": "2026-09-16T09:53:36.276Z",
  "articles": [
+  {
+   "title": "How to Learn DevOps While Working Full-Time",
+   "link": "https://dev.to/sparktechblog/how-to-learn-devops-while-working-full-time-1dp5",
+   "date": "2026-09-16T09:49:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "It’s 7:30 PM. You have been at work for eight hours, managed to survive three meetings, answered hundreds of messages—and someone expects you to learn Docker? study DevOps for three months and then look for a better posi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa19gti9pi3x5oa4tdbcq.png"
+  },
+  {
+   "title": "A two-hour mesh observation found the boundary of what it could prove",
+   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-two-hour-mesh-observation-found-the-boundary-of-what-it-could-prove-2a23",
+   "date": "2026-09-16T09:48:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "At 12:00Z on 15 September, a bounded two-hour observation recorded 463 source rows and The window captured a witness-autonomy failure, including 121 unfinished and 59 blocked The witness stream usually reported five of e",
+   "image": null
+  },
+  {
+   "title": "Rest API Training | Rest API Automation Course in Chennai",
+   "link": "https://dev.to/visalibita/rest-api-training-rest-api-automation-course-in-chennai-7bd",
+   "date": "2026-09-16T09:48:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Modern software applications depend heavily on APIs to exchange information between different applications, services, databases, and platforms. As organizations increasingly adopt web applications, mobile applications, c",
+   "image": null
+  },
+  {
+   "title": "SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)",
+   "link": "https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal",
+   "date": "2026-09-16T09:47:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The question \"SOCKS5 or L2TP?\" is usually asked as if they were two options on the same menu. They are not. They operate at different layers of the stack, and the correct answer for a non-trivial setup is frequently \"bot",
+   "image": null
+  },
+  {
+   "title": "Selenium Training in Chennai | Selenium Course in Chennai",
+   "link": "https://dev.to/visalibita/selenium-training-in-chennai-selenium-course-in-chennai-cm4",
+   "date": "2026-09-16T09:44:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Selenium Training in Chennai is an excellent learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to develop practical skills in w",
+   "image": null
+  },
+  {
+   "title": "Best Appium Training in Chennai | Appium Online Course",
+   "link": "https://dev.to/visalibita/best-appium-training-in-chennai-appium-online-course-49fc",
+   "date": "2026-09-16T09:42:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Best Appium Training in Chennai is a valuable learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to build specialized skills in ",
+   "image": null
+  },
+  {
+   "title": "JMeter Training in Chennai | JMeter Course in Chennai | BITA",
+   "link": "https://dev.to/visalibita/jmeter-training-in-chennai-jmeter-course-in-chennai-bita-52m3",
+   "date": "2026-09-16T09:41:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "JMeter Training in Chennai is an excellent learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to develop practical skills in per",
+   "image": null
+  },
+  {
+   "title": "QTP Training in Chennai | UFT course in Chennai | BITA",
+   "link": "https://dev.to/visalibita/qtp-training-in-chennai-uft-course-in-chennai-bita-2nkh",
+   "date": "2026-09-16T09:39:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "QTP Training in Chennai is a valuable learning opportunity for students, fresh graduates, software testers, quality assurance professionals, automation testers, and working professionals who want to develop practical ski",
+   "image": null
+  },
+  {
+   "title": "New in Symfony 8.2: Console sub-commands",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-console-sub-commands?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-16T07:33:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony console applications group their commands with colon-separated namespaces, such as cache:clear or messenger:consume. Tools like Docker and Git use a different style: spaces separate the levels (docker compose up)",
+   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
+  },
+  {
+   "title": "Morpht: Same rules, every suggestion: the Context Control Center and your AI Automators",
+   "link": "https://www.morpht.com/blog/same-rules-every-suggestion-context-control-center-and-your-ai-automators",
+   "date": "2026-09-16T07:20:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "One rulebook for your AI: make every generated intro, summary and alt text follow the exact same governance as your chatbot.",
+   "image": null
+  },
+  {
+   "title": "Florent Jardin: Inspecting a catalog with pg_migrate",
+   "link": "https://postgr.es/p/9uH",
+   "date": "2026-09-16T07:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Over the past few years, I have been working on assessing the strengths and weaknesses of PostgreSQL migration tools. Several articles published by yours truly led to the ambitious project I have been pursuing since 2024",
+   "image": null
+  },
+  {
+   "title": "Webpro Company blog: Drupal 12 or Drupal 11 — upgrade now or wait?",
+   "link": "https://webpro.company/blog/drupal-12-or-drupal-11",
+   "date": "2026-09-16T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal 10 reaches end of life on 9 December 2026. Drupal 12 is planned for the same week. Our recommendation for Drupal 10 site owners is to start the Drupal 11 upgrade now instead of building the whole plan around a new",
+   "image": null
+  },
+  {
+   "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+   "date": "2026-09-16T05:48:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated at",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
+  },
+  {
+   "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+   "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+   "date": "2026-09-16T05:18:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
+  },
+  {
+   "title": "Droptica: Drupal architecture: monolithic, decoupled or hybrid",
+   "link": "https://www.droptica.com/blog/drupal-architecture-monolithic-decoupled-or-hybrid/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-16T04:15:03.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Choosing between monolithic, decoupled, and hybrid Drupal should start with publishing cost - not a frontend framework preference. Drupal architecture determines how many systems your team must maintain to deliver server",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20architecture%20monolithic%2C%20decoupled%20or%20hybrid_1.png"
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_locks_per_transaction",
    "link": "https://postgr.es/p/9uG",
@@ -9,86 +159,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "`max_locks_per_transaction` isn't about transactions or limits—it sizes the cluster-wide lock table, and its misleading name has confused PostgreSQL users for…",
-   "image": null
-  },
-  {
-   "title": "Building a SOC 2 Evidence Collector: A Small-Team Alternative to Manual Audit Prep",
-   "link": "https://dev.to/suman_setty_36425db5474ad/building-a-soc-2-evidence-collector-a-small-team-alternative-to-manual-audit-prep-gn5",
-   "date": "2026-09-16T00:18:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building a SOC 2 Evidence Collector: A Small-Team Alternative to Manual Audit Prep By Suman Shashikumar SOC 2 compliance has become a near-mandatory requirement for any B2B SaaS company selling into the mid-market or ent",
-   "image": null
-  },
-  {
-   "title": "One Credential DNS Plus Mail Setup: Separate Vendors and Reconciliation Trade-offs",
-   "link": "https://dev.to/nyxenl29/one-credential-dns-plus-mail-setup-separate-vendors-and-reconciliation-trade-offs-1470",
-   "date": "2026-09-16T00:16:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Short answer: for a logistics product that lets each customer bring a domain, use one credential and one retryable workflow when the same control plane can write DNS and verify mail. The important signal is the mail prov",
-   "image": null
-  },
-  {
-   "title": "FAQ: Path Myths Your Agent Loop Still Believes",
-   "link": "https://dev.to/gitlab_3188/faq-path-myths-your-agent-loop-still-believes-1o3n",
-   "date": "2026-09-15T23:33:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Did your agent actually start in the repository root? I keep seeing that claim in chat logs. Then a relative path writes into /tmp. Painful, right? Agent loops hide the working directory on purpose. The model narrates. T",
-   "image": null
-  },
-  {
-   "title": "How I Track AI API Prices in Real-Time Using a $5 Alibaba Cloud Server",
-   "link": "https://dev.to/aitokenhub_98/how-i-track-ai-api-prices-in-real-time-using-a-5-alibaba-cloud-server-3npj",
-   "date": "2026-09-15T23:32:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The AI API pricing wars are absolutely brutal right now. One day a major provider slashes their per-million-token rates, and the next day a competitor counters with an even more aggressive subscription tier. As a develop",
-   "image": null
-  },
-  {
-   "title": "I Trusted /health for 48 Hours. The Worker Still Held the Lock.",
-   "link": "https://dev.to/codepy_1473/i-trusted-health-for-48-hours-the-worker-still-held-the-lock-1ei0",
-   "date": "2026-09-15T23:30:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent forty-eight hours staring at a green dashboard while real requests died in a worker thread. Staging never flipped red, and the deploy pipeline kept shipping because every probe returned 200 on time. Have you ever",
-   "image": null
-  },
-  {
-   "title": "Automating My Dev Workflow for $3/Month Using n8n on Budget Chinese Cloud Servers",
-   "link": "https://dev.to/aitokenhub_98/automating-my-dev-workflow-for-3month-using-n8n-on-budget-chinese-cloud-servers-11eb",
-   "date": "2026-09-15T23:30:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I used to pay nearly $50 a month for Zapier just to move some JSON payloads, sync my databases, and trigger GitHub Actions. It felt like a necessary evil until I discovered n8n. Self-hosting n8n changed my life, but host",
-   "image": null
-  },
-  {
-   "title": "Why I Switched from OpenAI to Alibaba's Qwen API on Tencent Cloud (Saved 80%)",
-   "link": "https://dev.to/aitokenhub_98/why-i-switched-from-openai-to-alibabas-qwen-api-on-tencent-cloud-saved-80-1i06",
-   "date": "2026-09-15T23:28:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I've been building AI agents for the past three years, and my stack used to be pretty standard: OpenAI's API hosted on a Western VPS. But after the recent September 2026 pricing reset across China's LLM market, I decided",
-   "image": null
-  },
-  {
-   "title": "A Task Without A Check Command Is Not Automated",
-   "link": "https://dev.to/alaintural/a-task-without-a-check-command-is-not-automated-533j",
-   "date": "2026-09-15T22:53:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "What eight stages of automated production taught me about the limits of agents Our production line has eight stages and moves an idea to working software: The rule that keeps it alive is one sentence. If a task has no co",
    "image": null
   },
   {
@@ -190,6 +260,16 @@
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 19's release crumbled under its own ambition: eight major features landed in five weeks before freeze, three committers pulled their work, and a…",
    "image": null
+  },
+  {
+   "title": "Droptica: JSON-LD in Drupal: how to generate structured data from fields with Schema.org Metatag",
+   "link": "https://www.droptica.com/blog/json-ld-drupal-how-generate-structured-data-fields-schemaorg-metatag/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-15T15:53:36.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The safest way to add JSON-LD to Drupal is to map Schema.org properties to existing content fields with Metatag and Schema.org Metatag. JSON-LD in Drupal should come from the same field model that supplies the visible pa",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/How%20to%20generate%20JSON-LD%20from%20Drupal%20fields%20with%20Schema.org%20Metatag%20%281%29_1.png"
   },
   {
    "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
@@ -312,16 +392,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
   },
   {
-   "title": "Specbee: Wondering why Drupal needs another page builder? Here's what I learned installing Drupal Canvas, exposing my SDCs, and writing React right in the browser.",
-   "link": "https://www.specbee.com/blogs/drupal-canvas-guide-frontend-developers",
-   "date": "2026-09-15T10:38:04.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Wondering why Drupal needs another page builder? Here's what I learned installing Drupal Canvas, exposing my SDCs, and writing React right in the browser.",
-   "image": null
-  },
-  {
    "title": "Tomas Vondra: Postgres development activity",
    "link": "https://postgr.es/p/9uw",
    "date": "2026-09-15T10:00:00.000Z",
@@ -372,46 +442,6 @@
    "image": null
   },
   {
-   "title": "joshics.in: Architecting a Headless RAG Engine with Drupal 11",
-   "link": "https://joshics.in/blog-post/architecting-headless-rag-engine-drupal-11",
-   "date": "2026-09-15T06:58:47.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Architecting a Headless RAG Engine with Drupal 11 bhavinhjoshi Tue, 09/15/2026 - 12:28 Drupal 11 is evolving into something far more powerful than a traditional Content Management System. For enterprise organizations, it",
-   "image": "https://joshics.in/sites/default/files/inline-images/architecting-headless-rag-engine-drupal-11-joshi-consultancy-services.png"
-  },
-  {
-   "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-   "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-   "date": "2026-09-15T06:52:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, man",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg"
-  },
-  {
-   "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-   "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-   "date": "2026-09-15T06:11:11.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg"
-  },
-  {
-   "title": "Morpht: Sitewide governance for AI answers: the Context Control Center and your chatbot",
-   "link": "https://www.morpht.com/blog/sitewide-governance-ai-answers-context-control-center-and-your-chatbot",
-   "date": "2026-09-15T03:05:04.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Your AI chatbot is making up its own rules. Here's how to make every answer follow yours instead.",
-   "image": null
-  },
-  {
    "title": "What's New in PHP 8.6",
    "link": "https://laravel-news.com/php-8-6?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-15T03:00:09.000Z",
@@ -420,26 +450,6 @@
    "source": "Laravel News",
    "summary": "PHP 8.6 arrives November 19, 2026 with partial function application, a clamp() function, a Duration class, readonly property defaults, and new deprecations. The post What's New in PHP 8.6 appeared first on Laravel News. ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/php-8-6-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_index_keys",
-   "link": "https://postgr.es/p/9uv",
-   "date": "2026-09-15T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "PostgreSQL's `max_index_keys` has counted more than keys since INCLUDE columns arrived in version 11, but stays locked at 32 due to on-disk tuple format…",
-   "image": null
-  },
-  {
-   "title": "Dries Buytaert: Acquia rebrands around content and Drupal",
-   "link": "https://dri.es/acquia-rebrands-around-content-and-drupal",
-   "date": "2026-09-15T00:13:35.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today Acquia launched a new brand, and my favorite part is the updated logo. Right under the Acquia name, it now says \"Powered by Drupal\". Drupal has always been at the core of Acquia, but for the past 5 years it was les",
-   "image": "https://dri.es/files/cache/acquia/acquia-com-september-2026-1280w.png"
   },
   {
    "title": "Percona and HexaCluster: Faster, Safer Oracle Migration",
@@ -630,16 +640,6 @@
    "source": "Kubernetes Blog",
    "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.3",
    "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: Building on Symfony AI",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-building-on-symfony-ai?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-10T07:30:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Mark your calendars! The global Symfony community is heading to Warsaw (Poland) on November 26-27, 2026, for SymfonyCon Warsaw 2026. Join us for a great worldwide conference with 3 parallel tracks and community events. \ud83c",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
