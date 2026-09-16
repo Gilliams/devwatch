@@ -1,85 +1,165 @@
 {
- "generatedAt": "2026-09-16T15:24:37.484Z",
+ "generatedAt": "2026-09-16T20:05:01.228Z",
  "articles": [
   {
-   "title": "Three Coding Agents, One Deploy",
-   "link": "https://dev.to/pavel-hostim/three-coding-agents-one-deploy-1bdb",
-   "date": "2026-09-16T15:12:30.000Z",
+   "title": "Build a Full CI/CD Pipeline for a Node.js App: From Zero to Auto-Deploy in One Hour",
+   "link": "https://dev.to/vishvesh/build-a-full-cicd-pipeline-for-a-nodejs-app-from-zero-to-auto-deploy-in-one-hour-42dj",
+   "date": "2026-09-16T19:58:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "All three agents deployed the app, unaided, in a sandbox with no hints and no custom instructions file. None of them failed on the platform. They all lost time on the same five rough edges in the CLI and the install scri",
+   "summary": "Push your code to GitHub, watch it test itself, build a Docker image, and deploy to a live URL automatically. Here’s the exact project I built, and how you can copy it step by step. If you’ve ever pushed code to producti",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjydr76mge5bw0nn1wwve.jpeg"
+  },
+  {
+   "title": "Your Self-Hosted Agent Will Break at 3 a.m. Here Is What Should Happen Next.",
+   "link": "https://dev.to/frederikvonderheyden/your-self-hosted-agent-will-break-at-3-am-here-is-what-should-happen-next-4g6j",
+   "date": "2026-09-16T19:46:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This week the open source trend radar showed hermes-agent picking up more than eight thousand GitHub stars in seven days. A self-hosted, customizable AI assistant. The kind of thing you clone on a Sunday, wire into your ",
    "image": null
   },
   {
-   "title": "From Jupyter Notebook to Production: Building MLOps Pipelines Devs Can Actually Trust",
-   "link": "https://dev.to/hamza_dev_talks/from-jupyter-notebook-to-production-building-mlops-pipelines-devs-can-actually-trust-584f",
-   "date": "2026-09-16T15:00:24.000Z",
+   "title": "Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux (WSL)",
+   "link": "https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm",
+   "date": "2026-09-16T19:44:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every data scientist knows the quiet dread of watching a model that sparkled in a Jupyter notebook completely implode the moment it hits a production API. We have all experienced the euphoria of an F1 score of 0.98 on a ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58b5bsojai16hepkafsj.png"
+   "summary": "Transitioning from GUI-assisted tools to the command line gives you complete control over your systems workflows. However, running Secure Shell (SSH) inside Windows Subsystem for Linux (WSL) often exposes friction across",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg8jf051ag6r5hh7sl3z7.png"
   },
   {
-   "title": "Linux Has Thousands of Processes. How Does It Keep Track of Them?",
-   "link": "https://dev.to/asepsayyad007/linux-has-thousands-of-processes-how-does-it-keep-track-of-them-2l89",
-   "date": "2026-09-16T14:43:12.000Z",
+   "title": "The Two Questions Behind Every Agent Authorization Standard",
+   "link": "https://dev.to/rasne/the-two-questions-behind-every-agent-authorization-standard-48fp",
+   "date": "2026-09-16T19:43:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "From task_struct and PID radix trees to scheduler runqueues and the /proc filesystem, here is how the kernel manages thousands of tasks without slowing to a crawl. Run this on any busy Linux server: ps aux | wc -l On a s",
+   "summary": "Canonical: The Two Questions Behind Every Agent Authorization Standard — read the full article on rasne.dev. Separate identity arrival from authorization decisions in your agent stack, and see where ID-JAG, Cross App Acc",
    "image": null
   },
   {
-   "title": "Bypassing Cloudflare WAFs & Crawl Barriers: Building a Resilient Technical SEO & Dead Link Crawler",
-   "link": "https://dev.to/sameer_hassan/bypassing-cloudflare-wafs-crawl-barriers-building-a-resilient-technical-seo-dead-link-crawler-11d7",
-   "date": "2026-09-16T14:26:57.000Z",
+   "title": "Six Ways Traefik Hub Enforces One Agentic Refund",
+   "link": "https://dev.to/rasne/six-ways-traefik-hub-enforces-one-agentic-refund-4bpe",
+   "date": "2026-09-16T19:43:16.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Anyone who has tried to write an automated Technical SEO crawler or dead-link scanner in Node.js or Python has encountered the same wall: HTTP/1.1 403 Forbidden server: cloudflare content-type: text/html; charset=UTF-8 c",
+   "summary": "Canonical: Six Ways Traefik Hub Enforces One Agentic Refund — read the full article on rasne.dev. See how Traefik Hub enforces one refund across token claims, gateway policy, and a policy engine. Source: Traefik Continue",
    "image": null
   },
   {
-   "title": "Plumbing CNAPP Findings Into the Way Engineers Already Work",
-   "link": "https://dev.to/jam-techcirkle/plumbing-cnapp-findings-into-the-way-engineers-already-work-2i47",
-   "date": "2026-09-16T14:18:53.000Z",
+   "title": "Quando vale a pena um servidor on-premises só para IA de desenvolvimento? E quando ainda não é a hora?",
+   "link": "https://dev.to/aspepper/quando-vale-a-pena-um-servidor-on-premises-so-para-ia-de-desenvolvimento-e-quando-ainda-nao-e-a-pi6",
+   "date": "2026-09-16T19:42:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You can buy a very good cloud-native application protection platform and still get almost nothing from it. The failure is rarely detection. It is delivery: findings sit in a console that engineers never open, tickets lan",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1l0jafl9fuz3dnyf5yc5.jpg"
+   "summary": "O gasto com agentes e modelos em nuvem não para de subir. Alguém no time sempre pergunta: e se a gente rodasse o modelo aqui dentro? Para cinco desenvolvedores, a resposta costuma ser frustrante: se a motivação for só co",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6f0o9fcyytyupmytk0l.png"
   },
   {
-   "title": "Warm Browsers, Cold Frames: Engineering a Reliable Preview/Render Browser Pool",
-   "link": "https://dev.to/nidheeshdas/warm-browsers-cold-frames-engineering-a-reliable-previewrender-browser-pool-35k3",
-   "date": "2026-09-16T14:07:44.000Z",
+   "title": "AWS S3: A Practical Beginner’s Guide to Amazon Simple Storage Service",
+   "link": "https://dev.to/muhammad_rizwan_52cf1d16c/aws-s3-a-practical-beginners-guide-to-amazon-simple-storage-service-4c4e",
+   "date": "2026-09-16T19:15:54.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you are building programmable video, at some point you stop arguing about timelines in the abstract and confront a duller problem: something has to paint the frames. Not a marketing-site screenshot, but a composition ",
+   "summary": "1. Introduction If you're starting your journey into AWS, Cloud Computing, or DevOps, there's a very good chance the first service you'll touch i s Amazon S3 (Simple Storage Service). It's one of the oldest, most widely ",
    "image": null
   },
   {
-   "title": "AI Governance Principles in Practice: A Blueprint for Operational Control",
-   "link": "https://dev.to/pavel42/ai-governance-principles-in-practice-a-blueprint-for-operational-control-4806",
-   "date": "2026-09-16T14:06:23.000Z",
+   "title": "Architecting the Unified GPU Software Stack: NVIDIA Standardizes Compile-Time-Safe GPU Kernels with CUDA Rust",
+   "link": "https://dev.to/isuvo/architecting-the-unified-gpu-software-stack-nvidia-standardizes-compile-time-safe-gpu-kernels-with-2pni",
+   "date": "2026-09-16T19:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Putting AI governance principles in practice requires translating abstract ethical frameworks into deterministic runtime controls at the network and infrastructure layers. The six core governance principles (accoun",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzr2qlwqts9bybixi0bm.jpg"
+   "summary": "The Architectural Shift: Moving Memory Safety to the Compiler For over fifteen years, GPU programming has been defined by a Faustian bargain. To extract maximum throughput from massively parallel hardware, developers hav",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8l6icw9is0sh43sq6pil.jpg"
   },
   {
-   "title": "OpsHome NOC + Console: Bringing Infrastructure Monitoring to More Screens",
-   "link": "https://dev.to/frankzhang/opshome-noc-console-bringing-infrastructure-monitoring-to-more-screens-on8",
-   "date": "2026-09-16T14:05:33.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "OpsHome NOC and Console shown across desktop, tablet and mobile devices A phone is ideal for quickly checking service status, asset health, incident changes, and private infrastructure. As the number of monitored resourc",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7kwaa5rzivxtmx1hl4n1.png"
+   "title": "Claude Cowork and chat are now one Claude",
+   "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+   "date": "2026-09-16T18:09:49.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Clau",
+   "image": null
+  },
+  {
+   "title": "Drupal AI Initiative: AI at DrupalCon Rotterdam",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/ai-at-drupalcon-rotterdam",
+   "date": "2026-09-16T16:29:47.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Written by Duncan Worrell (dunx) DrupalCon Rotterdam is almost here. Alongside two dedicated AI summits and the main conference keynote, the program is stacked with high-value AI content for developers, strategists, and ",
+   "image": null
+  },
+  {
+   "title": "Security advisories: Drupal core - Moderately critical - Third-party libraries - SA-CORE-2026-013",
+   "link": "https://www.drupal.org/sa-core-2026-013",
+   "date": "2026-09-16T16:21:04.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Project: Drupal core Project machine name: drupal Date: 2026-September-16 Security risk: Moderately critical 13 ∕ 25 AC:Basic/A:User/CI:Some/II:Some/E:Theoretical/TD:Default Vulnerability: Third-party libraries Affected ",
+   "image": null
+  },
+  {
+   "title": "Quoting Mustafa Suleyman",
+   "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+   "date": "2026-09-16T16:00:54.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to s",
+   "image": null
+  },
+  {
+   "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+   "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+   "date": "2026-09-16T15:50:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
+  },
+  {
+   "title": "Joshua Drake: PostgreSQL 19: Sept 08 - Sept 16, 2026",
+   "link": "https://postgr.es/p/9uI",
+   "date": "2026-09-16T15:42:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Version 19: 71 commits on REL_19_STABLE. Version 20: 46 commits on master. Reverted out of 19: 74 commits, in 6 reverts. Six features tracked, 2 still shipping. Window closed at d8408e8d682.Summary71 commits landed on th",
+   "image": null
+  },
+  {
+   "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+   "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+   "date": "2026-09-16T15:27:49.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
+  },
+  {
+   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+   "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+   "date": "2026-09-16T14:36:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
   },
   {
    "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
@@ -140,16 +220,6 @@
    "source": "The Hacker News",
    "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
-  },
-  {
-   "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-   "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-   "date": "2026-09-16T11:08:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8),",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
   },
   {
    "title": "LakeDrops Drupal Consulting, Development and Hosting: Everybody Orchestrates. Most Do It by Hand.",
@@ -222,26 +292,6 @@
    "image": null
   },
   {
-   "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-   "date": "2026-09-16T05:48:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated at",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
-  },
-  {
-   "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-   "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-   "date": "2026-09-16T05:18:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
-  },
-  {
    "title": "Droptica: Drupal architecture: monolithic, decoupled or hybrid",
    "link": "https://www.droptica.com/blog/drupal-architecture-monolithic-decoupled-or-hybrid/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
    "date": "2026-09-16T04:15:03.000Z",
@@ -270,6 +320,16 @@
    "source": "Planet PostgreSQL",
    "summary": "`max_locks_per_transaction` isn't about transactions or limits—it sizes the cluster-wide lock table, and its misleading name has confused PostgreSQL users for…",
    "image": null
+  },
+  {
+   "title": "When CSS could run JavaScript",
+   "link": "https://frontendfoc.us/issues/758",
+   "date": "2026-09-16T00:00:00.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "Frontend Focus",
+   "summary": "🚀 Frontend Focus #​758 — September 16, 2026 | Read on the web CSS Curiosities of the Past — A wonderful tour of the non-standard CSS quirks developers used to make browsers behave, especially Internet Explorer. Covers t",
+   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/k6lzihdml7pitxrpadxq.jpg"
   },
   {
    "title": "Gemini Live audio",
@@ -312,16 +372,6 @@
    "image": null
   },
   {
-   "title": "Nonprofit Drupal posts: September 2026 Drupal for Nonprofits Chat",
-   "link": "https://www.drupal.org/community/nonprofit-drupal/blog/september-2026-drupal-for-nonprofits-chat",
-   "date": "2026-09-15T16:46:40.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Join us THURSDAY, September 17 at 1pm ET / 10am PT, for our regularly scheduled call to chat about all things Drupal and nonprofits. (Convert to your local time zone.) We don't have anything specific on the agenda this m",
-   "image": null
-  },
-  {
    "title": "Dimitri Fontaine: Plan Advice in PostgreSQL 19",
    "link": "https://postgr.es/p/9uC",
    "date": "2026-09-15T16:27:53.000Z",
@@ -350,16 +400,6 @@
    "source": "Planet PostgreSQL",
    "summary": "PostgreSQL 19's release crumbled under its own ambition: eight major features landed in five weeks before freeze, three committers pulled their work, and a…",
    "image": null
-  },
-  {
-   "title": "Droptica: JSON-LD in Drupal: how to generate structured data from fields with Schema.org Metatag",
-   "link": "https://www.droptica.com/blog/json-ld-drupal-how-generate-structured-data-fields-schemaorg-metatag/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-15T15:53:36.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The safest way to add JSON-LD to Drupal is to map Schema.org properties to existing content fields with Metatag and Schema.org Metatag. JSON-LD in Drupal should come from the same field model that supplies the visible pa",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/How%20to%20generate%20JSON-LD%20from%20Drupal%20fields%20with%20Schema.org%20Metatag%20%281%29_1.png"
   },
   {
    "title": "Nail the Narrative",
@@ -420,16 +460,6 @@
    "source": "Percona Blog",
    "summary": "Focusing on Percona Server 8.4.11-11 My previous post (Performance Progression of Percona Server for MySQL 8.4) did a brief review of the performance changes in Percona Server for MySQL 8.4 released in 2026. I recommend ",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Tomas Vondra: Postgres development activity",
-   "link": "https://postgr.es/p/9uw",
-   "date": "2026-09-15T10:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Every now and then I need a break from writing code. In those cases I like looking at data about a subject I’m interested in - looking for trends, quantifying the expected effects, and so on. I needed just such a break a",
-   "image": null
   },
   {
    "title": "Symfony 8.1.7 released",
@@ -579,26 +609,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu",
-   "image": null
-  },
-  {
-   "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-   "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-   "date": "2026-09-12T23:56:42.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at &lt;my address&gt;. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes an",
-   "image": null
-  },
-  {
-   "title": "California Brown Pelican",
-   "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-   "date": "2026-09-12T21:16:09.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelica",
    "image": null
   },
   {
@@ -1100,16 +1110,6 @@
    "source": "CSS-Tricks",
    "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
-  },
-  {
-   "title": "Five CSS properties for eye-catching text designs",
-   "link": "https://frontendfoc.us/issues/754",
-   "date": "2026-08-12T00:00:00.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "Frontend Focus",
-   "summary": "🗓️ A brief scheduling note: We're taking a summer break next week, so will be back in your inbox on August 26. Catch you then! __ Your editor, Chris Brandrick 🚀 Frontend Focus #​754 — August 12, 2026 | Read on the web ",
-   "image": "https://res.cloudinary.com/cpress/image/upload/w_1280/c_crop,g_center,w_1280,h_350/e_sharpen:60,q_auto/ez1d8heqzomnm3vihywq.jpg"
   },
   {
    "title": "CSS:the bomb inside your inbox",
