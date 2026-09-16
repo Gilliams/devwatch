@@ -1,84 +1,184 @@
 {
- "generatedAt": "2026-09-16T09:53:36.276Z",
+ "generatedAt": "2026-09-16T15:24:37.484Z",
  "articles": [
   {
-   "title": "How to Learn DevOps While Working Full-Time",
-   "link": "https://dev.to/sparktechblog/how-to-learn-devops-while-working-full-time-1dp5",
-   "date": "2026-09-16T09:49:05.000Z",
+   "title": "Three Coding Agents, One Deploy",
+   "link": "https://dev.to/pavel-hostim/three-coding-agents-one-deploy-1bdb",
+   "date": "2026-09-16T15:12:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "It’s 7:30 PM. You have been at work for eight hours, managed to survive three meetings, answered hundreds of messages—and someone expects you to learn Docker? study DevOps for three months and then look for a better posi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa19gti9pi3x5oa4tdbcq.png"
-  },
-  {
-   "title": "A two-hour mesh observation found the boundary of what it could prove",
-   "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-two-hour-mesh-observation-found-the-boundary-of-what-it-could-prove-2a23",
-   "date": "2026-09-16T09:48:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "At 12:00Z on 15 September, a bounded two-hour observation recorded 463 source rows and The window captured a witness-autonomy failure, including 121 unfinished and 59 blocked The witness stream usually reported five of e",
+   "summary": "All three agents deployed the app, unaided, in a sandbox with no hints and no custom instructions file. None of them failed on the platform. They all lost time on the same five rough edges in the CLI and the install scri",
    "image": null
   },
   {
-   "title": "Rest API Training | Rest API Automation Course in Chennai",
-   "link": "https://dev.to/visalibita/rest-api-training-rest-api-automation-course-in-chennai-7bd",
-   "date": "2026-09-16T09:48:32.000Z",
+   "title": "From Jupyter Notebook to Production: Building MLOps Pipelines Devs Can Actually Trust",
+   "link": "https://dev.to/hamza_dev_talks/from-jupyter-notebook-to-production-building-mlops-pipelines-devs-can-actually-trust-584f",
+   "date": "2026-09-16T15:00:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Modern software applications depend heavily on APIs to exchange information between different applications, services, databases, and platforms. As organizations increasingly adopt web applications, mobile applications, c",
+   "summary": "Every data scientist knows the quiet dread of watching a model that sparkled in a Jupyter notebook completely implode the moment it hits a production API. We have all experienced the euphoria of an F1 score of 0.98 on a ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F58b5bsojai16hepkafsj.png"
+  },
+  {
+   "title": "Linux Has Thousands of Processes. How Does It Keep Track of Them?",
+   "link": "https://dev.to/asepsayyad007/linux-has-thousands-of-processes-how-does-it-keep-track-of-them-2l89",
+   "date": "2026-09-16T14:43:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "From task_struct and PID radix trees to scheduler runqueues and the /proc filesystem, here is how the kernel manages thousands of tasks without slowing to a crawl. Run this on any busy Linux server: ps aux | wc -l On a s",
    "image": null
   },
   {
-   "title": "SOCKS5 vs L2TP: Choosing the Right Proxy Layer (and When You Need Both)",
-   "link": "https://dev.to/socks5ip/socks5-vs-l2tp-choosing-the-right-proxy-layer-and-when-you-need-both-2bal",
-   "date": "2026-09-16T09:47:42.000Z",
+   "title": "Bypassing Cloudflare WAFs & Crawl Barriers: Building a Resilient Technical SEO & Dead Link Crawler",
+   "link": "https://dev.to/sameer_hassan/bypassing-cloudflare-wafs-crawl-barriers-building-a-resilient-technical-seo-dead-link-crawler-11d7",
+   "date": "2026-09-16T14:26:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The question \"SOCKS5 or L2TP?\" is usually asked as if they were two options on the same menu. They are not. They operate at different layers of the stack, and the correct answer for a non-trivial setup is frequently \"bot",
+   "summary": "Anyone who has tried to write an automated Technical SEO crawler or dead-link scanner in Node.js or Python has encountered the same wall: HTTP/1.1 403 Forbidden server: cloudflare content-type: text/html; charset=UTF-8 c",
    "image": null
   },
   {
-   "title": "Selenium Training in Chennai | Selenium Course in Chennai",
-   "link": "https://dev.to/visalibita/selenium-training-in-chennai-selenium-course-in-chennai-cm4",
-   "date": "2026-09-16T09:44:13.000Z",
+   "title": "Plumbing CNAPP Findings Into the Way Engineers Already Work",
+   "link": "https://dev.to/jam-techcirkle/plumbing-cnapp-findings-into-the-way-engineers-already-work-2i47",
+   "date": "2026-09-16T14:18:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Selenium Training in Chennai is an excellent learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to develop practical skills in w",
+   "summary": "You can buy a very good cloud-native application protection platform and still get almost nothing from it. The failure is rarely detection. It is delivery: findings sit in a console that engineers never open, tickets lan",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1l0jafl9fuz3dnyf5yc5.jpg"
+  },
+  {
+   "title": "Warm Browsers, Cold Frames: Engineering a Reliable Preview/Render Browser Pool",
+   "link": "https://dev.to/nidheeshdas/warm-browsers-cold-frames-engineering-a-reliable-previewrender-browser-pool-35k3",
+   "date": "2026-09-16T14:07:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you are building programmable video, at some point you stop arguing about timelines in the abstract and confront a duller problem: something has to paint the frames. Not a marketing-site screenshot, but a composition ",
    "image": null
   },
   {
-   "title": "Best Appium Training in Chennai | Appium Online Course",
-   "link": "https://dev.to/visalibita/best-appium-training-in-chennai-appium-online-course-49fc",
-   "date": "2026-09-16T09:42:48.000Z",
+   "title": "AI Governance Principles in Practice: A Blueprint for Operational Control",
+   "link": "https://dev.to/pavel42/ai-governance-principles-in-practice-a-blueprint-for-operational-control-4806",
+   "date": "2026-09-16T14:06:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best Appium Training in Chennai is a valuable learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to build specialized skills in ",
+   "summary": "TL;DR Putting AI governance principles in practice requires translating abstract ethical frameworks into deterministic runtime controls at the network and infrastructure layers. The six core governance principles (accoun",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffzr2qlwqts9bybixi0bm.jpg"
+  },
+  {
+   "title": "OpsHome NOC + Console: Bringing Infrastructure Monitoring to More Screens",
+   "link": "https://dev.to/frankzhang/opshome-noc-console-bringing-infrastructure-monitoring-to-more-screens-on8",
+   "date": "2026-09-16T14:05:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "OpsHome NOC and Console shown across desktop, tablet and mobile devices A phone is ideal for quickly checking service status, asset health, incident changes, and private infrastructure. As the number of monitored resourc",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7kwaa5rzivxtmx1hl4n1.png"
+  },
+  {
+   "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+   "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+   "date": "2026-09-16T13:37:07.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread,",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
+  },
+  {
+   "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+   "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+   "date": "2026-09-16T13:14:05.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: The Attack Reached PHP: Composer and Packagist, One Year On",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-attack-reached-php-composer-and-packagist-one-year-on?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-16T12:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland, on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of networ",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+   "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+   "date": "2026-09-16T11:58:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to val",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
+  },
+  {
+   "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+   "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+   "date": "2026-09-16T11:15:58.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
+  },
+  {
+   "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+   "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+   "date": "2026-09-16T11:15:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
+  },
+  {
+   "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+   "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+   "date": "2026-09-16T11:08:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8),",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
+  },
+  {
+   "title": "LakeDrops Drupal Consulting, Development and Hosting: Everybody Orchestrates. Most Do It by Hand.",
+   "link": "https://www.lakedrops.com/en/blog/everybody-orchestrates-most-do-it-hand",
+   "date": "2026-09-16T10:15:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Everybody Orchestrates. Most Do It by Hand. Photo by Giorgio Tomassetti on Unsplash Jürgen Haas Wed 16 Sep 2026 - 12:15 Every month I do my agency's billing by hand: export timesheets from one system, create invoices in ",
+   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/unsplash_thumbnails/LHdbi4haytM0CG8pYVi51PltRag3vwAemE1uYaX3Iw8.0%26q%3D85.jpg?h=790be497&amp;itok=zgAlE5U9"
+  },
+  {
+   "title": "Metadrop: How to eliminate manual credential sharing in Drupal integrations with a Vault service",
+   "link": "https://metadrop.net/en/articles/how-to-eliminate-manual-credential-sharing-in-drupal-integrations-with-a-vault-service",
+   "date": "2026-09-16T10:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Credentials still travel by email and by Slack on projects that are otherwise carefully built. Every integration with an external service needs them, and forwarding them from one party to the next is so routine that the ",
    "image": null
   },
   {
-   "title": "JMeter Training in Chennai | JMeter Course in Chennai | BITA",
-   "link": "https://dev.to/visalibita/jmeter-training-in-chennai-jmeter-course-in-chennai-bita-52m3",
-   "date": "2026-09-16T09:41:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "JMeter Training in Chennai is an excellent learning opportunity for students, fresh graduates, software testers, QA professionals, automation testers, and working professionals who want to develop practical skills in per",
-   "image": null
-  },
-  {
-   "title": "QTP Training in Chennai | UFT course in Chennai | BITA",
-   "link": "https://dev.to/visalibita/qtp-training-in-chennai-uft-course-in-chennai-bita-2nkh",
-   "date": "2026-09-16T09:39:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "QTP Training in Chennai is a valuable learning opportunity for students, fresh graduates, software testers, quality assurance professionals, automation testers, and working professionals who want to develop practical ski",
+   "title": "New SymfonyCasts Course: Symfony Security - The Basics",
+   "link": "https://symfony.com/blog/new-symfonycasts-course-symfony-security-the-basics?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-16T09:34:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Authentication, authorization, roles, voters, firewalls... there's a lot happening inside Symfony's Security system. But once you understand how the pieces fit together, it's a powerful and flexible system for answering ",
    "image": null
   },
   {
@@ -152,6 +252,16 @@
    "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20architecture%20monolithic%2C%20decoupled%20or%20hybrid_1.png"
   },
   {
+   "title": "Mercure Broadcasting in Laravel 13.32",
+   "link": "https://laravel-news.com/laravel-13-32-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-16T02:44:52.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.32 adds a Mercure broadcast driver, Storage::copyToDisk() and moveToDisk(), enum support in queue pause/resume, and more. The post Mercure Broadcasting in Laravel 13.32 appeared first on Laravel News. Join the",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_locks_per_transaction",
    "link": "https://postgr.es/p/9uG",
    "date": "2026-09-16T01:00:00.000Z",
@@ -182,16 +292,6 @@
    "image": "https://ardentperf.com/wp-content/uploads/2026/09/image.png?w=573"
   },
   {
-   "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-   "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-   "date": "2026-09-15T18:54:14.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
-  },
-  {
    "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
    "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
    "date": "2026-09-15T18:30:00.000Z",
@@ -220,16 +320,6 @@
    "source": "Drupal Planet",
    "summary": "Join us THURSDAY, September 17 at 1pm ET / 10am PT, for our regularly scheduled call to chat about all things Drupal and nonprofits. (Convert to your local time zone.) We don't have anything specific on the agenda this m",
    "image": null
-  },
-  {
-   "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-   "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-   "date": "2026-09-15T16:29:51.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg"
   },
   {
    "title": "Dimitri Fontaine: Plan Advice in PostgreSQL 19",
@@ -272,16 +362,6 @@
    "image": "https://www.droptica.com/sites/droptica.com/files/media/image/How%20to%20generate%20JSON-LD%20from%20Drupal%20fields%20with%20Schema.org%20Metatag%20%281%29_1.png"
   },
   {
-   "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-   "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-   "date": "2026-09-15T15:23:19.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emergi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
-  },
-  {
    "title": "Nail the Narrative",
    "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
    "date": "2026-09-15T15:11:00.000Z",
@@ -322,16 +402,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-15-laravel-vet.png"
   },
   {
-   "title": "Matt Glaman: Define the capability once; call it from anywhere",
-   "link": "https://mglaman.dev/blog/define-capability-once-call-it-anywhere?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
-   "date": "2026-09-15T13:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Jimmy Angelakos: PostgreSQL Commitfest Metrics: PGConf.dev 2026 Part One",
    "link": "https://postgr.es/p/9ux",
    "date": "2026-09-15T12:37:00.000Z",
@@ -342,16 +412,6 @@
    "image": "https://vyruss.org/blog/feeds/images/pgconfdev2026_commitfest_metrics.jpg"
   },
   {
-   "title": "Très Bien Blog: Drupal Code Search now index recipes",
-   "link": "https://tresbien.tech/blog/drupal-code-search-now-index-recipes/",
-   "date": "2026-09-15T12:25:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal Code Search now index recipes Made it easier to get a list of projects that are included in a particular recipe. It's thanks to the sponsorship of Vardot, and previously Palantir.net that I'm able to spend time on",
-   "image": null
-  },
-  {
    "title": "Performance improvements in Percona Server 8.4.11-11",
    "link": "https://www.percona.com/blog/performance-improvements-in-percona-server-8-4-11-11/",
    "date": "2026-09-15T11:52:54.000Z",
@@ -360,36 +420,6 @@
    "source": "Percona Blog",
    "summary": "Focusing on Percona Server 8.4.11-11 My previous post (Performance Progression of Percona Server for MySQL 8.4) did a brief review of the performance changes in Percona Server for MySQL 8.4 released in 2026. I recommend ",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-   "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-   "date": "2026-09-15T11:52:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg"
-  },
-  {
-   "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-   "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-   "date": "2026-09-15T11:26:36.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this partic",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg"
-  },
-  {
-   "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-   "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-   "date": "2026-09-15T11:12:32.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
   },
   {
    "title": "Tomas Vondra: Postgres development activity",
@@ -450,6 +480,16 @@
    "source": "Laravel News",
    "summary": "PHP 8.6 arrives November 19, 2026 with partial function application, a clamp() function, a Duration class, readonly property defaults, and new deprecations. The post What's New in PHP 8.6 appeared first on Laravel News. ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/php-8-6-featured.png"
+  },
+  {
+   "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
+   "link": "https://laravel-news.com/nativephp-super-stack?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-15T02:50:55.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Super Stack is an open-source Laravel starter kit from NativePHP with a Filament admin, a native mobile app, Sanctum, and a Laravel MCP server in one repo. The post Super Stack: Laravel Starter Kit With Filament and Nati",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Super-Stack-LN.png"
   },
   {
    "title": "Percona and HexaCluster: Faster, Safer Oracle Migration",
@@ -522,16 +562,6 @@
    "image": null
   },
   {
-   "title": "PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum",
-   "link": "https://laravel-news.com/vacuum-laravel-postgresql-monitoring?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-14T04:24:35.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Vacuum checks PostgreSQL in Laravel apps for bloat, wraparound, and unused indexes, and flags unindexed foreign keys in migrations during CI. The post PostgreSQL Monitoring and Schema Linting for Laravel with Vacuum appe",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/vacuum-laravel-featured.png"
-  },
-  {
    "title": "commit-rewriter 0.1",
    "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
    "date": "2026-09-14T00:28:10.000Z",
@@ -549,16 +579,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu",
-   "image": null
-  },
-  {
-   "title": "A Week of Symfony #1028 (September 7–13, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1028-september-7-13-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-13T07:05:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony introduced standalone bundles for the framework features (MessengerBundle, HttpClientBundle, PropertyInfoBundle, etc.), added Docker-style console subcommands, and expanded OAuth2 and OpenID Connect su",
    "image": null
   },
   {
@@ -590,26 +610,6 @@
    "source": "Kubernetes Blog",
    "summary": "I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37! Native histograms (previously introduced as Alpha in Kubernetes v1.36 unde",
    "image": "https://kubernetes.io/images/blog/2026-kubernetes-1-37-native-histograms-beta/native-histograms-flow.svg"
-  },
-  {
-   "title": "Building EasyReply: How We Used Laravel to Unify Customer Support",
-   "link": "https://laravel-news.com/easyreply-laravel-shared-inbox?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-11T16:06:51.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "EasyReply pulls email, Slack, Instagram, and WhatsApp into one AI shared inbox, built on Laravel with Reverb, Inertia, React, and queues. The post Building EasyReply: How We Used Laravel to Unify Customer Support appeare",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/EasyReply-Laravel-News-Image.png"
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: Calling the Symfony Container from Legacy Code",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-calling-the-symfony-container-from-legacy-code?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-11T08:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Save the date for SymfonyCon Warsaw 2026 on November 26-27 in Warsaw, Poland! Experience two days of learning and networking with 3 parallel tracks and exciting community events. 🎤 Speaker announcement Next up in Warsaw",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
    "title": "Dutch PHP Conference 2027",
