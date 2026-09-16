@@ -1,65 +1,115 @@
 {
- "generatedAt": "2026-09-15T20:13:02.770Z",
+ "generatedAt": "2026-09-16T01:22:37.647Z",
  "articles": [
   {
-   "title": "Serverless IaC Risk Analysis: The Architecture Behind Blast Radius",
-   "link": "https://dev.to/aws-builders/serverless-iac-risk-analysis-the-architecture-behind-blast-radius-1i56",
-   "date": "2026-09-15T19:40:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Series: Introducing Blast Radius — See What Breaks Before You Deploy The first two articles in this series were about what Blast Radius does and how to wire it into your pipeline. This one is about how it's built. If you",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyt9kepuovmblpgak6beq.png"
-  },
-  {
-   "title": "Node.js Playbook for Choosing DNS Record Types TXT CNAME SPF DMARC in 2026",
-   "link": "https://dev.to/ishmaelcole6418/nodejs-playbook-for-choosing-dns-record-types-txt-cname-spf-dmarc-in-2026-hca",
-   "date": "2026-09-15T19:29:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For Node.js developer-tool onboarding, publish the record type the consuming system asks for, then choose the control plane from zone authority. Short answer: ownership proof is TXT, a hostname alias is CNAME, mail deliv",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_locks_per_transaction",
+   "link": "https://postgr.es/p/9uG",
+   "date": "2026-09-16T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "`max_locks_per_transaction` isn't about transactions or limits—it sizes the cluster-wide lock table, and its misleading name has confused PostgreSQL users for…",
    "image": null
   },
   {
-   "title": "Argo CD vs Flux in 2026: What the Install Manifests Actually Reveal",
-   "link": "https://dev.to/moksh/argo-cd-vs-flux-in-2026-what-the-install-manifests-actually-reveal-20hj",
-   "date": "2026-09-15T19:20:04.000Z",
+   "title": "Building a SOC 2 Evidence Collector: A Small-Team Alternative to Manual Audit Prep",
+   "link": "https://dev.to/suman_setty_36425db5474ad/building-a-soc-2-evidence-collector-a-small-team-alternative-to-manual-audit-prep-gn5",
+   "date": "2026-09-16T00:18:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Once more than one person on a team has kubectl access to a cluster, the live state and the state in Git start drifting apart. Someone patches a deployment at 2am to stop a page, forgets to commit the fix, and a routine ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fveptxf9i505j0ag1ebhu.webp"
-  },
-  {
-   "title": "Your Agent Eval Set Is Rotting: Build a Failure-Mining Loop for Google ADK",
-   "link": "https://dev.to/raju_dandigam/your-agent-eval-set-is-rotting-build-a-failure-mining-loop-for-google-adk-1moc",
-   "date": "2026-09-15T19:18:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An agent evaluation set starts healthy. It contains the obvious intents, a few tool failures, and the happy paths used during development. Six months later, production has changed. New tools exist. Users phrase requests ",
+   "summary": "Building a SOC 2 Evidence Collector: A Small-Team Alternative to Manual Audit Prep By Suman Shashikumar SOC 2 compliance has become a near-mandatory requirement for any B2B SaaS company selling into the mid-market or ent",
    "image": null
   },
   {
-   "title": "How OpenTelemetry and one UI trick changed the way we debug Kubernetes",
-   "link": "https://dev.to/ruchir_cardinal/how-opentelemetry-and-one-ui-trick-changed-the-way-we-debug-kubernetes-3c0j",
-   "date": "2026-09-15T19:11:52.000Z",
+   "title": "One Credential DNS Plus Mail Setup: Separate Vendors and Reconciliation Trade-offs",
+   "link": "https://dev.to/nyxenl29/one-credential-dns-plus-mail-setup-separate-vendors-and-reconciliation-trade-offs-1470",
+   "date": "2026-09-16T00:16:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You see an error or latency spike. You group by deployment and one deployment stands out. Now the actual debugging starts. Which pods belong to it? Did one restart? Was there a rollout around the same time? Did a ConfigM",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe4ga3nhpa0j86nw52lvk.webp"
+   "summary": "Short answer: for a logistics product that lets each customer bring a domain, use one credential and one retryable workflow when the same control plane can write DNS and verify mail. The important signal is the mail prov",
+   "image": null
   },
   {
-   "title": "How I built a PWA habit tracker with dynamic SVG flame physics (and why shattering failure states ruin UX)",
-   "link": "https://dev.to/thomas_augustino_d76bd769/how-i-built-a-pwa-habit-tracker-with-dynamic-svg-flame-physics-and-why-shattering-failure-states-24c0",
-   "date": "2026-09-15T19:02:43.000Z",
+   "title": "FAQ: Path Myths Your Agent Loop Still Believes",
+   "link": "https://dev.to/gitlab_3188/faq-path-myths-your-agent-loop-still-believes-1o3n",
+   "date": "2026-09-15T23:33:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When building my side project Nexora, I wanted to tackle a huge psychological issue found in most productivity tools: streak fatigue. Most habit trackers use rigid numerical counters or loud \"shattering\" animations the m",
+   "summary": "Did your agent actually start in the repository root? I keep seeing that claim in chat logs. Then a relative path writes into /tmp. Painful, right? Agent loops hide the working directory on purpose. The model narrates. T",
    "image": null
+  },
+  {
+   "title": "How I Track AI API Prices in Real-Time Using a $5 Alibaba Cloud Server",
+   "link": "https://dev.to/aitokenhub_98/how-i-track-ai-api-prices-in-real-time-using-a-5-alibaba-cloud-server-3npj",
+   "date": "2026-09-15T23:32:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The AI API pricing wars are absolutely brutal right now. One day a major provider slashes their per-million-token rates, and the next day a competitor counters with an even more aggressive subscription tier. As a develop",
+   "image": null
+  },
+  {
+   "title": "I Trusted /health for 48 Hours. The Worker Still Held the Lock.",
+   "link": "https://dev.to/codepy_1473/i-trusted-health-for-48-hours-the-worker-still-held-the-lock-1ei0",
+   "date": "2026-09-15T23:30:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I spent forty-eight hours staring at a green dashboard while real requests died in a worker thread. Staging never flipped red, and the deploy pipeline kept shipping because every probe returned 200 on time. Have you ever",
+   "image": null
+  },
+  {
+   "title": "Automating My Dev Workflow for $3/Month Using n8n on Budget Chinese Cloud Servers",
+   "link": "https://dev.to/aitokenhub_98/automating-my-dev-workflow-for-3month-using-n8n-on-budget-chinese-cloud-servers-11eb",
+   "date": "2026-09-15T23:30:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I used to pay nearly $50 a month for Zapier just to move some JSON payloads, sync my databases, and trigger GitHub Actions. It felt like a necessary evil until I discovered n8n. Self-hosting n8n changed my life, but host",
+   "image": null
+  },
+  {
+   "title": "Why I Switched from OpenAI to Alibaba's Qwen API on Tencent Cloud (Saved 80%)",
+   "link": "https://dev.to/aitokenhub_98/why-i-switched-from-openai-to-alibabas-qwen-api-on-tencent-cloud-saved-80-1i06",
+   "date": "2026-09-15T23:28:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I've been building AI agents for the past three years, and my stack used to be pretty standard: OpenAI's API hosted on a Western VPS. But after the recent September 2026 pricing reset across China's LLM market, I decided",
+   "image": null
+  },
+  {
+   "title": "A Task Without A Check Command Is Not Automated",
+   "link": "https://dev.to/alaintural/a-task-without-a-check-command-is-not-automated-533j",
+   "date": "2026-09-15T22:53:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What eight stages of automated production taught me about the limits of agents Our production line has eight stages and moves an idea to working software: The rule that keeps it alive is one sentence. If a task has no co",
+   "image": null
+  },
+  {
+   "title": "Gemini Live audio",
+   "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+   "date": "2026-09-15T22:47:07.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the",
+   "image": null
+  },
+  {
+   "title": "Jeremy Schneider: Agents Gone Awry on Postgres SBOMs: Start Over",
+   "link": "https://postgr.es/p/9uE",
+   "date": "2026-09-15T21:40:07.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "If you were wondering, it’s the SBOM thing that I mentioned the other day. Postgres Extensions in containers with full inventory, provenance and attestation. I’ve been using plenty of AI Agents to put this together. This",
+   "image": "https://ardentperf.com/wp-content/uploads/2026/09/image.png?w=573"
   },
   {
    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -72,23 +122,13 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
   },
   {
-   "title": "Internal DNS Service Discovery Records (Registry Caching for Deploy Cutovers)",
-   "link": "https://dev.to/nathanielbrooks0360/internal-dns-service-discovery-records-registry-caching-for-deploy-cutovers-5a5",
-   "date": "2026-09-15T18:49:47.000Z",
+   "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+   "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
+   "date": "2026-09-15T18:30:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Use DNS to move the stable name in a cutover, and use a service registry to decide which freshly deployed instances receive traffic. The deciding constraint is not how quickly an operator can change a record; it is how l",
-   "image": null
-  },
-  {
-   "title": "Cloud Resume Challenge Week 1 — What I Built and How I Did It",
-   "link": "https://dev.to/priyanka_vuddemari/cloud-resume-challenge-week-1-what-i-built-and-how-i-did-it-1dc",
-   "date": "2026-09-15T18:40:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Week 1 is done and my resume is live on the internet! 🎉 In my last post I introduced the Cloud Resume Challenge. This time I'm documenting exactly what I did, step by step i.e. the decisions I made, the gotchas I hit, a",
+   "source": "Kubernetes Blog",
+   "summary": "With the release of Kubernetes v1.37, the Pod-Level Resource Managers feature has graduated to Beta status (disabled by default)! First introduced as an Alpha feature in Kubernetes v1.36, this enhancement builds on Pod-L",
    "image": null
   },
   {
@@ -462,26 +502,6 @@
    "image": null
   },
   {
-   "title": "Cornelia Biacsics: Contributions for week 36",
-   "link": "https://postgr.es/p/9ur",
-   "date": "2026-09-14T08:29:19.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 8 September 2026, PGDay UK 2026 was held in London. Organized by: Chris Ellis Dave Page Devrim Gunduz Program Committee: Alastair Turner (chair, non-voting) Celeste Horgan Greg Clough Sastry Karamcheti Code of Conduct",
-   "image": null
-  },
-  {
-   "title": "Richard Yen: Looking Forward to PG Summit 2026",
-   "link": "https://postgr.es/p/9uu",
-   "date": "2026-09-14T08:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On October 1, I’ll be speaking at PG Summit 2026 about benchmarking hardware with Postgres. I’m looking forward to sharing some tips and learnings that I’ve picked up over the years. In anticipation of the presentation, ",
-   "image": null
-  },
-  {
    "title": "Symfony AI Spotlight: Mate, an Agent's Way into Your Runtime",
    "link": "https://symfony.com/blog/symfony-ai-spotlight-mate-an-agent-s-way-into-your-runtime?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-14T07:47:00.000Z",
@@ -549,16 +569,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelica",
-   "image": null
-  },
-  {
-   "title": "Quoting Paul Ford",
-   "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-   "date": "2026-09-12T18:00:21.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still ",
    "image": null
   },
   {
@@ -789,16 +799,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
-   "image": null
-  },
-  {
-   "title": "Kubernetes v1.37: DRA Updates",
-   "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/",
-   "date": "2026-09-03T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight",
    "image": null
   },
   {
