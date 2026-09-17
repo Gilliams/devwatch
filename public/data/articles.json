@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-09-16T20:05:01.228Z",
+ "generatedAt": "2026-09-17T01:20:56.411Z",
  "articles": [
   {
-   "title": "Build a Full CI/CD Pipeline for a Node.js App: From Zero to Auto-Deploy in One Hour",
-   "link": "https://dev.to/vishvesh/build-a-full-cicd-pipeline-for-a-nodejs-app-from-zero-to-auto-deploy-in-one-hour-42dj",
-   "date": "2026-09-16T19:58:07.000Z",
+   "title": "Nginx reverse proxy: từ zero đến production",
+   "link": "https://dev.to/eme_gug_0821b41b948be6516/nginx-reverse-proxy-tu-zero-den-production-4joj",
+   "date": "2026-09-17T01:10:43.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Push your code to GitHub, watch it test itself, build a Docker image, and deploy to a live URL automatically. Here’s the exact project I built, and how you can copy it step by step. If you’ve ever pushed code to producti",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjydr76mge5bw0nn1wwve.jpeg"
-  },
-  {
-   "title": "Your Self-Hosted Agent Will Break at 3 a.m. Here Is What Should Happen Next.",
-   "link": "https://dev.to/frederikvonderheyden/your-self-hosted-agent-will-break-at-3-am-here-is-what-should-happen-next-4g6j",
-   "date": "2026-09-16T19:46:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This week the open source trend radar showed hermes-agent picking up more than eight thousand GitHub stars in seven days. A self-hosted, customizable AI assistant. The kind of thing you clone on a Sunday, wire into your ",
+   "summary": "Nginx là reverse proxy phổ biến nhất. Bài này từ setup cơ bản đến các config production mình đang dùng. # Ubuntu/Debian sudo apt install nginx # Kiểm tra sudo nginx -t sudo systemctl start nginx # /etc/nginx/sites-availa",
    "image": null
   },
   {
-   "title": "Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux (WSL)",
-   "link": "https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm",
-   "date": "2026-09-16T19:44:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Transitioning from GUI-assisted tools to the command line gives you complete control over your systems workflows. However, running Secure Shell (SSH) inside Windows Subsystem for Linux (WSL) often exposes friction across",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg8jf051ag6r5hh7sl3z7.png"
-  },
-  {
-   "title": "The Two Questions Behind Every Agent Authorization Standard",
-   "link": "https://dev.to/rasne/the-two-questions-behind-every-agent-authorization-standard-48fp",
-   "date": "2026-09-16T19:43:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Canonical: The Two Questions Behind Every Agent Authorization Standard — read the full article on rasne.dev. Separate identity arrival from authorization decisions in your agent stack, and see where ID-JAG, Cross App Acc",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_logical_replication_workers",
+   "link": "https://postgr.es/p/9uK",
+   "date": "2026-09-17T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "When a logical replication worker pool runs dry, subscriptions don't fail—they just stop making progress, filling your logs with warnings every five seconds…",
    "image": null
   },
   {
-   "title": "Six Ways Traefik Hub Enforces One Agentic Refund",
-   "link": "https://dev.to/rasne/six-ways-traefik-hub-enforces-one-agentic-refund-4bpe",
-   "date": "2026-09-16T19:43:16.000Z",
+   "title": "Turn Event Constants Into a Facts File; Keep Replay and PII Off the Model",
+   "link": "https://dev.to/github_7727/turn-event-constants-into-a-facts-file-keep-replay-and-pii-off-the-model-5f9i",
+   "date": "2026-09-17T00:58:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: Six Ways Traefik Hub Enforces One Agentic Refund — read the full article on rasne.dev. See how Traefik Hub enforces one refund across token claims, gateway policy, and a policy engine. Source: Traefik Continue",
+   "summary": "Event portals go stale when names are compiled from memory while delivery promises are left to a chat-shaped draft. A durable workflow extracts webhook and bus names from source, then refuses to publish until replay, ord",
    "image": null
   },
   {
-   "title": "Quando vale a pena um servidor on-premises só para IA de desenvolvimento? E quando ainda não é a hora?",
-   "link": "https://dev.to/aspepper/quando-vale-a-pena-um-servidor-on-premises-so-para-ia-de-desenvolvimento-e-quando-ainda-nao-e-a-pi6",
-   "date": "2026-09-16T19:42:31.000Z",
+   "title": "Refuse Versions the Index Never Served",
+   "link": "https://dev.to/hackrs_6393/refuse-versions-the-index-never-served-5ca5",
+   "date": "2026-09-17T00:57:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "O gasto com agentes e modelos em nuvem não para de subir. Alguém no time sempre pergunta: e se a gente rodasse o modelo aqui dentro? Para cinco desenvolvedores, a resposta costuma ser frustrante: se a motivação for só co",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fb6f0o9fcyytyupmytk0l.png"
-  },
-  {
-   "title": "AWS S3: A Practical Beginner’s Guide to Amazon Simple Storage Service",
-   "link": "https://dev.to/muhammad_rizwan_52cf1d16c/aws-s3-a-practical-beginners-guide-to-amazon-simple-storage-service-4c4e",
-   "date": "2026-09-16T19:15:54.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "1. Introduction If you're starting your journey into AWS, Cloud Computing, or DevOps, there's a very good chance the first service you'll touch i s Amazon S3 (Simple Storage Service). It's one of the oldest, most widely ",
+   "summary": "You are three comments into a pull request that looks harmless. A helper grew a timeout. Someone added a new pinned require to pyproject.toml, and the rest of the diff is a short retry loop. The retry code may even be fi",
    "image": null
   },
   {
-   "title": "Architecting the Unified GPU Software Stack: NVIDIA Standardizes Compile-Time-Safe GPU Kernels with CUDA Rust",
-   "link": "https://dev.to/isuvo/architecting-the-unified-gpu-software-stack-nvidia-standardizes-compile-time-safe-gpu-kernels-with-2pni",
-   "date": "2026-09-16T19:15:02.000Z",
+   "title": "Node.js DNS Records or Service Registry for 3 Deploys — Email Deliverability",
+   "link": "https://dev.to/uriahhawkins5489/nodejs-dns-records-or-service-registry-for-3-deploys-email-deliverability-31b1",
+   "date": "2026-09-17T00:18:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Architectural Shift: Moving Memory Safety to the Compiler For over fifteen years, GPU programming has been defined by a Faustian bargain. To extract maximum throughput from massively parallel hardware, developers hav",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8l6icw9is0sh43sq6pil.jpg"
+   "summary": "Use DNS for stable, human-facing names such as smtp.prod and your SPF, DKIM, and DMARC records; use a service registry for names that move with deploys. The deciding constraint is evidence of delivery: DNS caches answers",
+   "image": null
+  },
+  {
+   "title": "CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook",
+   "link": "https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha",
+   "date": "2026-09-17T00:17:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A user reports that an application is slow or intermittently unreachable. The monitoring dashboard shows 20% CPU, memory still available, and no obvious outage. It is tempting to answer, “the server looks healthy.” That ",
+   "image": null
+  },
+  {
+   "title": "The quarterly unplug drill: a 15-minute test that prevents the outage you'll actually have",
+   "link": "https://dev.to/hive80lab/the-quarterly-unplug-drill-a-15-minute-test-that-prevents-the-outage-youll-actually-have-12ab",
+   "date": "2026-09-17T00:06:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every small team has a battery story. Not a battery incident — a battery story, told after the outage, when someone finally walks over to the UPS in the corner, presses the self-test button, and watches the whole thing g",
+   "image": null
+  },
+  {
+   "title": "Try new models and services, skip the account setup",
+   "link": "https://dev.to/rasne/try-new-models-and-services-skip-the-account-setup-4lcj",
+   "date": "2026-09-17T00:01:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: Try new models and services, skip the account setup — read the full article on rasne.dev. Use supported AI models and tools in n8n Cloud without provider accounts or API keys, starting with v2.36. Source: n8n ",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+   "link": "https://dev.to/rasne/kubernetes-v137-hardening-container-storage-with-bind-mount-options-and-emptydir-permissions-9fm",
+   "date": "2026-09-17T00:01:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Canonical: Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions — read the full article on rasne.dev. Kubernetes v1.37 adds noexec, nosuid, nodev, and emptyDir modes so you can h",
+   "image": null
+  },
+  {
+   "title": "datasette 1.0a40",
+   "link": "https://simonwillison.net/2026/Sep/16/datasette/",
+   "date": "2026-09-16T23:51:43.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Gar",
+   "image": null
+  },
+  {
+   "title": "datasette 0.65.5",
+   "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+   "date": "2026-09-16T23:51:08.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: securit",
+   "image": null
+  },
+  {
+   "title": "Elizabeth Garrett Christensen: PostgreSQL 19 Delayed: Key Feature Reversions &amp; Release Updates",
+   "link": "https://postgr.es/p/9uJ",
+   "date": "2026-09-16T22:49:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Postgres 19 won't make the expected release date. PostgreSQL has shipped its major version every fall for the last several years. But this year, the code is in a heavy review cycle, major features have been reverted duri",
+   "image": null
+  },
+  {
+   "title": "pgBackRest Compression: How Much CPU Is a Smaller Backup Worth?",
+   "link": "https://www.percona.com/blog/pgbackrest-compression-how-much-cpu-is-a-smaller-backup-worth/",
+   "date": "2026-09-16T21:43:06.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "In this blog post, we’ll compare pgBackRest’s compression algorithms and levels to find where spending more CPU stops buying a meaningfully smaller backup. The short version of the answer, which we’ll build up to with re",
+   "image": "https://www.percona.com/wp-content/uploads/2026/09/diminishing_returns-768x510.png"
+  },
+  {
+   "title": "Fragments: September 16",
+   "link": "https://martinfowler.com/fragments/2026-09-16.html",
+   "date": "2026-09-16T20:05:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI w",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+   "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
+   "date": "2026-09-16T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for exampl",
+   "image": null
   },
   {
    "title": "Claude Cowork and chat are now one Claude",
@@ -412,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Jimmy Angelakos: Send us a contribution straight from the site",
-   "link": "https://postgr.es/p/9uA",
-   "date": "2026-09-15T15:02:40.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Until now, the only way to tell us about a contribution worth listing was email. There is now a form on the site instead. You do not need an account, and you do not have to tell us who you are. Write the contribution in ",
-   "image": null
-  },
-  {
    "title": "Laravel MCP 1.0 Is Released",
    "link": "https://laravel-news.com/laravel-mcp-1-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-15T14:27:51.000Z",
@@ -440,16 +500,6 @@
    "source": "Laravel News",
    "summary": "Laravel Vet is a new first-party Composer plugin that shows you the code in every dependency update and records the packages you trust in vet.json. The post Laravel Vet: Review Composer Code Before It Installs appeared f",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-15-laravel-vet.png"
-  },
-  {
-   "title": "Jimmy Angelakos: PostgreSQL Commitfest Metrics: PGConf.dev 2026 Part One",
-   "link": "https://postgr.es/p/9ux",
-   "date": "2026-09-15T12:37:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Obviously I would have liked to post this closer to the event, but life got in the way. The talk was in May and the recording has been up for a while. Here it is. PGConf.dev 2026 took place from May 19th to 22nd, 2026, a",
-   "image": "https://vyruss.org/blog/feeds/images/pgconfdev2026_commitfest_metrics.jpg"
   },
   {
    "title": "Performance improvements in Percona Server 8.4.11-11",
@@ -589,26 +639,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, b",
-   "image": null
-  },
-  {
-   "title": "commit-rewriter 0.1",
-   "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-   "date": "2026-09-14T00:28:10.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue ID",
-   "image": null
-  },
-  {
-   "title": "shot-scraper 1.12",
-   "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-   "date": "2026-09-13T23:58:14.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --qu",
    "image": null
   },
   {
@@ -792,16 +822,6 @@
    "image": null
   },
   {
-   "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
-   "link": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/",
-   "date": "2026-09-04T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta. With this feature enabled, all of the node components (kubelet, CRI and OCI runtimes, CNI plugins, and kube-proxy) can run as a non-root user on ",
-   "image": null
-  },
-  {
    "title": "No more issues",
    "link": "https://stitcher.io/blog/no-more-issues",
    "date": "2026-09-04T00:00:00.000Z",
@@ -932,16 +952,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
-   "title": "Fragments: September  1",
-   "link": "https://martinfowler.com/fragments/2026-09-01.html",
-   "date": "2026-09-01T19:50:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of s",
-   "image": null
-  },
-  {
    "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
    "link": "https://css-tricks.com/css-random-function-polyfill/",
    "date": "2026-08-31T15:12:19.000Z",
@@ -959,16 +969,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-   "image": null
-  },
-  {
-   "title": "Rotating Expiring X.509 Certificates in Percona Server for MongoDB with Minimal Service Interruption",
-   "link": "https://www.percona.com/blog/rotating-expiring-x-509-certificates-in-percona-server-for-mongodb-with-minimal-service-interruption/",
-   "date": "2026-08-31T11:48:11.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Expired TLS certificates can prevent new client connections and, when X.509 is used for Percona Server for MongoDB internal authentication, also prevent members of a replica set or sharded cluster from authenticating to ",
    "image": null
   },
   {
