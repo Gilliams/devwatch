@@ -1,84 +1,114 @@
 {
- "generatedAt": "2026-09-17T15:31:49.404Z",
+ "generatedAt": "2026-09-17T20:17:52.643Z",
  "articles": [
   {
-   "title": "Your backups have been failing for weeks and every checkmark says green",
-   "link": "https://dev.to/hive80lab/your-backups-have-been-failing-for-weeks-and-every-checkmark-says-green-4lck",
-   "date": "2026-09-17T15:30:35.000Z",
+   "title": "Open Source Claude Code Gateway: Architecture, Setup, and Governance",
+   "link": "https://dev.to/asante66/open-source-claude-code-gateway-architecture-setup-and-governance-1a8n",
+   "date": "2026-09-17T20:07:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The lie of the successful backup Ask a small team when they last restored something. The silence is the answer. Most \"working\" backup setups haven't restored a single file since they were written — and the scariest part ",
+   "summary": "TL;DR An open source Claude Code gateway acts as a reverse proxy between Anthropic's terminal coding agent and upstream LLM providers to enforce budgets, routing, and access policies. Running an open source gateway local",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzcezg4ann1e8za88gzks.jpg"
+  },
+  {
+   "title": "Open Source Agent Gateways: Architecture, Evaluation, and Top Tools",
+   "link": "https://dev.to/aalberg67/open-source-agent-gateways-architecture-evaluation-and-top-tools-11l",
+   "date": "2026-09-17T20:03:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR An open source agent gateway is a unified control plane that coordinates model inference, Model Context Protocol (MCP) tool execution, and agent-to-agent communication on self-hosted infrastructure. Unlike first-ge",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fihfayysqauvyps1oeqtu.jpg"
+  },
+  {
+   "title": "Open Source Agent Gateway: Architecture, Security, and Production Tools",
+   "link": "https://dev.to/carvalhomateus/open-source-agent-gateway-architecture-security-and-production-tools-2iaf",
+   "date": "2026-09-17T19:59:49.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR An open source agent gateway provides a unified data plane and control plane for large language model (LLM) inference, Model Context Protocol (MCP) tool execution, and multi-agent coordination. Traditional API gate",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F405qw361cfhiyk10gf8q.jpg"
+  },
+  {
+   "title": "Best Shadow AI Tools for Enterprise Governance in 2026",
+   "link": "https://dev.to/kuldeep_paul/best-shadow-ai-tools-for-enterprise-governance-in-2026-48mh",
+   "date": "2026-09-17T19:58:52.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Unsanctioned generative AI usage adds an average of $670,000 to enterprise data breach costs, driving security teams to deploy dedicated shadow AI discovery and governance platforms. The best shadow AI tools evalua",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d1rwqaxw53qdv2bp4hq.jpg"
+  },
+  {
+   "title": "Enterprise AI Guardrails Tools: Top Platforms and Architecture Guide",
+   "link": "https://dev.to/kuldeep_paul/enterprise-ai-guardrails-tools-top-platforms-and-architecture-guide-218i",
+   "date": "2026-09-17T19:55:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Enterprise AI guardrails tools enforce runtime policy, safety, and security checks on model prompts, generated completions, and autonomous tool calls before data causes harm. Bifrost ranks first among enterprise gu",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff00df9ggvbui5p57kb9g.jpg"
+  },
+  {
+   "title": "Top AI Guardrails Tools for Production AI Applications (2026)",
+   "link": "https://dev.to/kuldeep_paul/top-ai-guardrails-tools-for-production-ai-applications-2026-f33",
+   "date": "2026-09-17T19:52:30.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR Production teams evaluate top ai guardrails tools to block prompt injections, prevent PII leakage, restrict tool access, and enforce regulatory compliance at runtime. Bifrost ranks first because it enforces dual-st",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvj3m6yenfke4xf1mphi.jpg"
+  },
+  {
+   "title": "Auto Routing Platforms for LLMs: Architecture and Top Options",
+   "link": "https://dev.to/kuldeep_paul/auto-routing-platforms-for-llms-architecture-and-top-options-2e1",
+   "date": "2026-09-17T19:49:33.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR An auto routing platform is an intermediary software layer that inspects incoming generative AI prompts and dynamically directs each request to the optimal model, provider, or hardware tier. Production engineering ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hoxk9tsq67fo0hb7pv4.jpg"
+  },
+  {
+   "title": "Extract getenv Call Sites Into a Settings Catalog; Sign Secret Class Offline",
+   "link": "https://dev.to/github_7727/extract-getenv-call-sites-into-a-settings-catalog-sign-secret-class-offline-2pak",
+   "date": "2026-09-17T19:48:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Configuration reference pages go stale the moment a model invents a default, a secret class, or a restart requirement the tree never encoded. A durable alternative compiles every os.getenv and os.environ call site into a",
    "image": null
   },
   {
-   "title": "The $0 disaster drill: how we prove a client's backups work in 20 minutes (and what we found 4 times out of 10)",
-   "link": "https://dev.to/hive80lab/the-0-disaster-drill-how-we-prove-a-clients-backups-work-in-20-minutes-and-what-we-found-4-3pb5",
-   "date": "2026-09-17T15:30:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Backups are a hypothesis until you restore one We run unattended-ops for small teams. First thing we do with any new client: the 20-minute restore drill. Four times out of ten, it fails — and every one of those failures ",
+   "title": "Joshua Drake: pgColumnar 1.0-alpha4 released",
+   "link": "https://postgr.es/p/9v1",
+   "date": "2026-09-17T19:18:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "SourceDocsProduct page2026-09-17pgColumnar 1.0-alpha4 release notesRelease date: 2026-09-17 Previous release: 1.0-alpha3 (2026-09-02)pgColumnar is a columnar table access method for PostgreSQL. This is the fourth alpha. ",
    "image": null
   },
   {
-   "title": "The 2AM Page Is a Design Choice: 7 Safeguards That Silenced Our On-Call Phone",
-   "link": "https://dev.to/hive80lab/the-2am-page-is-a-design-choice-7-safeguards-that-silenced-our-on-call-phone-4lo6",
-   "date": "2026-09-17T15:29:13.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Nobody gets paged at 2AM because the system failed. They get paged because nobody designed the failure to be survivable without a human. After auditing on-call rotations across a dozen small teams, the pattern is always ",
+   "title": "Christophe Pettus: The Call Is Coming From Inside the Session",
+   "link": "https://postgr.es/p/9uY",
+   "date": "2026-09-17T16:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Role-level timeouts and read-only flags sound safe until you realize the session can change them in one statement.",
    "image": null
   },
   {
-   "title": "The 2 A.M. Test: The Only Standard Your Automation Should Meet",
-   "link": "https://dev.to/hive80lab/the-2-am-test-the-only-standard-your-automation-should-meet-1177",
-   "date": "2026-09-17T15:27:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Run one test on your automation setup tonight: turn off every dashboard, every alert channel, every status page — and go to sleep. If anything breaks, does anyone find out before a customer does? If the honest answer is ",
-   "image": null
-  },
-  {
-   "title": "I Took Over a 'Stable' Client Server and Found 11 Silent Failures in the First Hour",
-   "link": "https://dev.to/hive80lab/i-took-over-a-stable-client-server-and-found-11-silent-failures-in-the-first-hour-1kce",
-   "date": "2026-09-17T15:27:11.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Last month a two-person agency handed me a server they'd been running \"without issues for two years.\" Their words, not mine. One hour later I had a list of 11 things that were broken and nobody knew about. None of them w",
-   "image": null
-  },
-  {
-   "title": "I wanted a webhook receiver that could be slow and flaky on purpose, so I made one",
-   "link": "https://dev.to/emma_teelylabs/i-wanted-a-webhook-receiver-that-could-be-slow-and-flaky-on-purpose-so-i-made-one-4c2c",
-   "date": "2026-09-17T15:27:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There are plenty of \"paste this URL and see what arrives\" webhook testers, and they're fine for the first half of the job: is my service sending the right headers and body? What none of them did for me was the second hal",
-   "image": null
-  },
-  {
-   "title": "Your On-Call Rotation Is a Lie (Fix It With One Spreadsheet)",
-   "link": "https://dev.to/hive80lab/your-on-call-rotation-is-a-lie-fix-it-with-one-spreadsheet-1272",
-   "date": "2026-09-17T15:25:46.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Ask who's on call at most small shops and you'll get a name. Ask what happens when that person is asleep, on a flight, or simply out of battery — silence. That's not a rotation. That's a single point of failure with a ca",
-   "image": null
-  },
-  {
-   "title": "The 10-minute daily production check that prevents most incidents",
-   "link": "https://dev.to/hive80lab/the-10-minute-daily-production-check-that-prevents-most-incidents-1408",
-   "date": "2026-09-17T15:25:41.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Most outages announce themselves first They whisper before they scream: a queue slowly filling, a disk creeping toward 90%, a job that quietly failed last night. You don't need a monitoring department to catch whispers —",
+   "title": "Muhammad Aqeel: Flexible Deployment: What Enterprise-Grade Self-Hosting Actually Demands",
+   "link": "https://postgr.es/p/9u_",
+   "date": "2026-09-17T15:31:54.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Ask a database vendor about on-prem and you'll usually get a one-line answer: 'we're open source, you can just self-host it.' For a hobby project, fine. For an enterprise, that line rarely survives contact with productio",
    "image": null
   },
   {
@@ -92,6 +122,16 @@
    "image": null
   },
   {
+   "title": "I don't like LLMs",
+   "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+   "date": "2026-09-17T13:50:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand",
+   "image": null
+  },
+  {
    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
    "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
    "date": "2026-09-17T12:30:00.000Z",
@@ -100,6 +140,16 @@
    "source": "The Hacker News",
    "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries ",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg"
+  },
+  {
+   "title": "Ryan Booz: Postgres Monitoring for SQL Server DBAs: Statistics and Logs 101",
+   "link": "https://postgr.es/p/9uZ",
+   "date": "2026-09-17T12:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "As a SQL Server developer and DBA learning Postgres, it’s easy to expect that the information you need for meaningful query and performance tuning will be readily available. For years (decades, maybe) you’ve learned the ",
+   "image": null
   },
   {
    "title": "Morpht: Agents in a field: introducing AI Automators Agent",
@@ -252,6 +302,16 @@
    "image": null
   },
   {
+   "title": "Tag1 Insights: Optimizing Drupal Core CI",
+   "link": "https://www.tag1.com/blog/optimizing-drupal-core/?utm_source=rss&utm_medium=feed&utm_campaign=planet_drupal",
+   "date": "2026-09-17T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Take Away Nathaniel Catchpole, Tag1 Senior Performance Engineer and Technical Lead, Drupal core framework and release manager and contributor, walks through how Drupal core's CI pipelines dropped from around 55 minutes t",
+   "image": "https://www.tag1.com/img/blog/engineering-funding.png"
+  },
+  {
    "title": "datasette 1.0a40",
    "link": "https://simonwillison.net/2026/Sep/16/datasette/",
    "date": "2026-09-16T23:51:43.000Z",
@@ -290,6 +350,16 @@
    "source": "Percona Blog",
    "summary": "In this blog post, we’ll compare pgBackRest’s compression algorithms and levels to find where spending more CPU stops buying a meaningfully smaller backup. The short version of the answer, which we’ll build up to with re",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/diminishing_returns-768x510.png"
+  },
+  {
+   "title": "Fragments: September 16",
+   "link": "https://martinfowler.com/fragments/2026-09-16.html",
+   "date": "2026-09-16T20:05:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI w",
+   "image": null
   },
   {
    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
@@ -339,16 +409,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to s",
-   "image": null
-  },
-  {
-   "title": "Joshua Drake: PostgreSQL 19: Sept 08 - Sept 16, 2026",
-   "link": "https://postgr.es/p/9uI",
-   "date": "2026-09-16T15:42:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Version 19: 71 commits on REL_19_STABLE. Version 20: 46 commits on master. Reverted out of 19: 74 commits, in 6 reverts. Six features tracked, 2 still shipping. Window closed at d8408e8d682.Summary71 commits landed on th",
    "image": null
   },
   {
@@ -412,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Florent Jardin: Inspecting a catalog with pg_migrate",
-   "link": "https://postgr.es/p/9uH",
-   "date": "2026-09-16T07:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Over the past few years, I have been working on assessing the strengths and weaknesses of PostgreSQL migration tools. Several articles published by yours truly led to the ambitious project I have been pursuing since 2024",
-   "image": null
-  },
-  {
    "title": "Webpro Company blog: Drupal 12 or Drupal 11 — upgrade now or wait?",
    "link": "https://webpro.company/blog/drupal-12-or-drupal-11",
    "date": "2026-09-16T06:00:00.000Z",
@@ -432,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Drupal architecture: monolithic, decoupled or hybrid",
-   "link": "https://www.droptica.com/blog/drupal-architecture-monolithic-decoupled-or-hybrid/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-16T04:15:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Choosing between monolithic, decoupled, and hybrid Drupal should start with publishing cost - not a frontend framework preference. Drupal architecture determines how many systems your team must maintain to deliver server",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20architecture%20monolithic%2C%20decoupled%20or%20hybrid_1.png"
-  },
-  {
    "title": "Mercure Broadcasting in Laravel 13.32",
    "link": "https://laravel-news.com/laravel-13-32-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-16T02:44:52.000Z",
@@ -450,16 +490,6 @@
    "source": "Laravel News",
    "summary": "Laravel 13.32 adds a Mercure broadcast driver, Storage::copyToDisk() and moveToDisk(), enum support in queue pause/resume, and more. The post Mercure Broadcasting in Laravel 13.32 appeared first on Laravel News. Join the",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_locks_per_transaction",
-   "link": "https://postgr.es/p/9uG",
-   "date": "2026-09-16T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "`max_locks_per_transaction` isn't about transactions or limits—it sizes the cluster-wide lock table, and its misleading name has confused PostgreSQL users for…",
-   "image": null
   },
   {
    "title": "When CSS could run JavaScript",
@@ -482,16 +512,6 @@
    "image": null
   },
   {
-   "title": "Jeremy Schneider: Agents Gone Awry on Postgres SBOMs: Start Over",
-   "link": "https://postgr.es/p/9uE",
-   "date": "2026-09-15T21:40:07.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "If you were wondering, it’s the SBOM thing that I mentioned the other day. Postgres Extensions in containers with full inventory, provenance and attestation. I’ve been using plenty of AI Agents to put this together. This",
-   "image": "https://ardentperf.com/wp-content/uploads/2026/09/image.png?w=573"
-  },
-  {
    "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
    "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/",
    "date": "2026-09-15T18:30:00.000Z",
@@ -509,6 +529,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Nail the Narrative",
+   "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+   "date": "2026-09-15T15:11:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline",
    "image": null
   },
   {
@@ -742,6 +772,16 @@
    "image": null
   },
   {
+   "title": "Social Media Engagement: summer 2026",
+   "link": "https://martinfowler.com/articles/2026-social-traffic.html",
+   "date": "2026-09-09T16:21:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025. more…",
+   "image": null
+  },
+  {
    "title": "Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging",
    "link": "https://www.percona.com/blog/percona-operator-for-postgresql-3-1-0-transparent-data-encryption-logical-replicas-persistent-logging/",
    "date": "2026-09-09T16:08:31.000Z",
@@ -772,6 +812,16 @@
    "image": null
   },
   {
+   "title": "Fragments: September  8",
+   "link": "https://martinfowler.com/fragments/2026-09-08.html",
+   "date": "2026-09-08T15:22:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:. This explains why the first major AI products appeared in chat, image generati",
+   "image": null
+  },
+  {
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
    "date": "2026-09-08T14:23:07.000Z",
@@ -779,6 +829,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Do you even need a presentation?",
+   "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+   "date": "2026-09-08T13:42:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Like me, Sumeet Gayathri Moghe is tired of poor presentations with bad slide decks. He's started to write a series of posts on how to avoid these calamities, beginning with a post that questions whether a presentation is",
    "image": null
   },
   {
@@ -839,6 +899,26 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "Bliki: Paracelsus Maxim",
+   "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+   "date": "2026-09-02T22:03:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good ",
+   "image": null
+  },
+  {
+   "title": "An Accidental Blackboard",
+   "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+   "date": "2026-09-02T14:45:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination",
    "image": null
   },
   {
