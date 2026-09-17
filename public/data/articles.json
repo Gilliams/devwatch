@@ -1,85 +1,185 @@
 {
- "generatedAt": "2026-09-17T09:57:21.825Z",
+ "generatedAt": "2026-09-17T15:31:49.404Z",
  "articles": [
   {
-   "title": "DevOps Outage Scenario: Docker Multi-Stage Builds & Secrets: Eliminating Leaked Credentials",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-docker-multi-stage-builds-secrets-eliminating-leaked-credentials-lk6",
-   "date": "2026-09-17T09:38:13.000Z",
+   "title": "Your backups have been failing for weeks and every checkmark says green",
+   "link": "https://dev.to/hive80lab/your-backups-have-been-failing-for-weeks-and-every-checkmark-says-green-4lck",
+   "date": "2026-09-17T15:30:35.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "The lie of the successful backup Ask a small team when they last restored something. The silence is the answer. Most \"working\" backup setups haven't restored a single file since they were written — and the scariest part ",
    "image": null
   },
   {
-   "title": "# 🚀 The Self-Healing Server Fleet: How I Mastered Automation, Beat Global SKU Crushes, and Solved Azure's Cloud Racing Conditions",
-   "link": "https://dev.to/abhishek_kadlii_9ef4ca8bc/-the-self-healing-server-fleet-how-i-mastered-automation-beat-global-sku-crushes-and-solved-5d8",
-   "date": "2026-09-17T09:29:25.000Z",
+   "title": "The $0 disaster drill: how we prove a client's backups work in 20 minutes (and what we found 4 times out of 10)",
+   "link": "https://dev.to/hive80lab/the-0-disaster-drill-how-we-prove-a-clients-backups-work-in-20-minutes-and-what-we-found-4-3pb5",
+   "date": "2026-09-17T15:30:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every network engineer knows the absolute dread of the \"Black Friday Surge.\" Imagine a popular grocery store on a festival weekend. There is only one cashier working the register. Suddenly, a bus drops off 100 hungry cus",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F658hzc4klfwill9giqv8.png"
-  },
-  {
-   "title": "221 GB Deleted From a Dev's Home Directory Across 6 Concurrent Codex Sessions — No Sandbox Denial Logged",
-   "link": "https://dev.to/ramdai_bista/221-gb-deleted-from-a-devs-home-directory-across-6-concurrent-codex-sessions-no-sandbox-denial-3l7",
-   "date": "2026-09-17T09:27:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Six Codex sessions were running at once. Twenty minutes later, roughly 221 GB was gone — and the developer could find no record of a sandbox ever saying no. GitHub issue #42875 against openai/codex, filed by the affected",
+   "summary": "Backups are a hypothesis until you restore one We run unattended-ops for small teams. First thing we do with any new client: the 20-minute restore drill. Four times out of ten, it fails — and every one of those failures ",
    "image": null
   },
   {
-   "title": "Stop Wasting GPUs on Embeddings: The RAG FinOps Guide",
-   "link": "https://dev.to/jaksontate/stop-wasting-gpus-on-embeddings-the-rag-finops-guide-3nbp",
-   "date": "2026-09-17T09:27:03.000Z",
+   "title": "The 2AM Page Is a Design Choice: 7 Safeguards That Silenced Our On-Call Phone",
+   "link": "https://dev.to/hive80lab/the-2am-page-is-a-design-choice-7-safeguards-that-silenced-our-on-call-phone-4lo6",
+   "date": "2026-09-17T15:29:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In the rush to build Retrieval-Augmented Generation (RAG) pipelines, engineering teams make a massive architectural blunder: assuming that because Large Language Models (LLMs) require massive GPU clusters, the embedding ",
+   "summary": "Nobody gets paged at 2AM because the system failed. They get paged because nobody designed the failure to be survivable without a human. After auditing on-call rotations across a dozen small teams, the pattern is always ",
    "image": null
   },
   {
-   "title": "Our release gate read a docstring and blocked the deploy over a word",
-   "link": "https://dev.to/devil_scrapes/our-release-gate-read-a-docstring-and-blocked-the-deploy-over-a-word-59ac",
-   "date": "2026-09-17T09:19:08.000Z",
+   "title": "The 2 A.M. Test: The Only Standard Your Automation Should Meet",
+   "link": "https://dev.to/hive80lab/the-2-am-test-the-only-standard-your-automation-should-meet-1177",
+   "date": "2026-09-17T15:27:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick answer: Our release pipeline refused to ship this Actor because it \"requested residential proxy\". It didn't. The word RESIDENTIAL appeared in a module docstring, in a sentence explaining that the Actor deliberately",
+   "summary": "Run one test on your automation setup tonight: turn off every dashboard, every alert channel, every status page — and go to sleep. If anything breaks, does anyone find out before a customer does? If the honest answer is ",
    "image": null
   },
   {
-   "title": "Observability Beyond Logs: Implementing OpenTelemetry in Distributed Python Services",
-   "link": "https://dev.to/abhishekninja_writer/observability-beyond-logs-implementing-opentelemetry-in-distributed-python-services-m09",
-   "date": "2026-09-17T09:16:32.000Z",
+   "title": "I Took Over a 'Stable' Client Server and Found 11 Silent Failures in the First Hour",
+   "link": "https://dev.to/hive80lab/i-took-over-a-stable-client-server-and-found-11-silent-failures-in-the-first-hour-1kce",
+   "date": "2026-09-17T15:27:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Stop grepping through unorganized log streams. Here is how to implement structured distributed tracing, context propagation, and custom span metrics in FastAPI and Python backend services. When backend services run local",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiiumlp4tzx00a0a28iyl.png"
-  },
-  {
-   "title": "Obfuscate only on your build server (keep developer builds clean)",
-   "link": "https://dev.to/zero_heartbeat_06a3625d7a/obfuscate-only-on-your-build-server-keep-developer-builds-clean-23hk",
-   "date": "2026-09-17T09:15:28.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Obfuscation is great for what you ship and a nuisance for what you debug. The best-practice setup is: developers build normally (unobfuscated, debuggable), and only the build server that produces your official packages a",
+   "summary": "Last month a two-person agency handed me a server they'd been running \"without issues for two years.\" Their words, not mine. One hour later I had a list of 11 things that were broken and nobody knew about. None of them w",
    "image": null
   },
   {
-   "title": "Most 27 Platforms to Buy Old Yahoo Accounts Safely",
-   "link": "https://dev.to/smmusapva12414/most-27-platforms-to-buy-old-yahoo-accounts-safely-5ca0",
-   "date": "2026-09-17T09:08:48.000Z",
+   "title": "I wanted a webhook receiver that could be slow and flaky on purpose, so I made one",
+   "link": "https://dev.to/emma_teelylabs/i-wanted-a-webhook-receiver-that-could-be-slow-and-flaky-on-purpose-so-i-made-one-4c2c",
+   "date": "2026-09-17T15:27:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most 27 Platforms to Buy Old Yahoo Accounts Safely Smmusapva@gmail.com An email address that has existed for a long time. A separate mailbox for a particular project. An account for organizing subscriptions. An establish",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/..."
+   "summary": "There are plenty of \"paste this URL and see what arrives\" webhook testers, and they're fine for the first half of the job: is my service sending the right headers and body? What none of them did for me was the second hal",
+   "image": null
+  },
+  {
+   "title": "Your On-Call Rotation Is a Lie (Fix It With One Spreadsheet)",
+   "link": "https://dev.to/hive80lab/your-on-call-rotation-is-a-lie-fix-it-with-one-spreadsheet-1272",
+   "date": "2026-09-17T15:25:46.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ask who's on call at most small shops and you'll get a name. Ask what happens when that person is asleep, on a flight, or simply out of battery — silence. That's not a rotation. That's a single point of failure with a ca",
+   "image": null
+  },
+  {
+   "title": "The 10-minute daily production check that prevents most incidents",
+   "link": "https://dev.to/hive80lab/the-10-minute-daily-production-check-that-prevents-most-incidents-1408",
+   "date": "2026-09-17T15:25:41.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Most outages announce themselves first They whisper before they scream: a queue slowly filling, a disk creeping toward 90%, a job that quietly failed last night. You don't need a monitoring department to catch whispers —",
+   "image": null
+  },
+  {
+   "title": "Gülçin Yıldırım Jelínek: Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
+   "link": "https://postgr.es/p/9uX",
+   "date": "2026-09-17T14:02:33.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Last week, I spent three days in the Netherlands and gave two talks at two conferences: a lightning talk at PGDay Lowlands in Utrecht on Thursday, September 10, and a session at Percona Live in Amsterdam on Friday, Septe",
+   "image": null
+  },
+  {
+   "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+   "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+   "date": "2026-09-17T12:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg"
+  },
+  {
+   "title": "Morpht: Agents in a field: introducing AI Automators Agent",
+   "link": "https://www.morpht.com/blog/agents-field-introducing-ai-automators-agent",
+   "date": "2026-09-17T12:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Your fields can now think. Route any Drupal field automator through a tool-using AI Agent and let RAG pick the answer.",
+   "image": null
+  },
+  {
+   "title": "Evaluating LLM models for DBA tasks",
+   "link": "https://www.percona.com/blog/evaluating-llm-models-for-dba-tasks/",
+   "date": "2026-09-17T11:50:07.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "Evaluating LLM Models for DBA Tasks Large language models are increasingly capable of performing practical systems-administration tasks. I wanted to understand how well they could handle something more specialized: datab",
+   "image": "https://www.percona.com/wp-content/uploads/2026/09/llm_harness_dba_tasks_preview_final-1024x704.png"
+  },
+  {
+   "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+   "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+   "date": "2026-09-17T11:50:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg"
+  },
+  {
+   "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+   "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+   "date": "2026-09-17T10:50:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg"
+  },
+  {
+   "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+   "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+   "date": "2026-09-17T10:05:45.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at leas",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg"
+  },
+  {
+   "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+   "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+   "date": "2026-09-17T09:53:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2xdqQbSjGZGGkNO0hRMgoEWNFpWVp0DDsBvsbQekWezeScq_sLAPfzY-kJenfNHYFnSqDcU93F30gmINBYYobl0Jf1thyPsXm34lbJPqMfZwPXoRy1UvpQcS_eHwF_nVqk-rDBTd83B8iteh4e23r2pnbtUsOgFPmYVRi-IlrW6-9FFUf7-DiZ8yyAOJ/s1600/openai-models.jpg"
+  },
+  {
+   "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+   "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+   "date": "2026-09-17T08:00:29.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg"
+  },
+  {
+   "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+   "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+   "date": "2026-09-17T07:30:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg"
   },
   {
    "title": "Group Replication Beyond a Single Cluster: DC-DR with Percona (PS MySQL) Operator",
@@ -90,6 +190,16 @@
    "source": "Percona Blog",
    "summary": "A while ago, we discussed the cross-site replication feature of the Percona PXC operator. Recently, a similar cross-site replication feature was introduced in the Percona (PS MySQL) operator v1.2.0, a topology based on G",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/image1.png"
+  },
+  {
+   "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+   "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+   "date": "2026-09-17T06:39:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg"
   },
   {
    "title": "Too many GCache Page Files in MySQL Data Directory",
@@ -110,6 +220,26 @@
    "source": "Planet PostgreSQL",
    "summary": "In PostgreSQL, every tuple starts with 23-byte header, and the first eight bytes are two transaction IDs. t_xmin for the transaction that created the row and t_xmax for the one that deleted or updated it. That is the vis",
    "image": null
+  },
+  {
+   "title": "Inertia DevTools Now Available for Firefox",
+   "link": "https://laravel-news.com/inertia-devtools-firefox?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-17T02:28:55.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Inertia DevTools, the panel for inspecting Inertia.js visits and props, is now on Firefox with the same features as the Chrome extension. The post Inertia DevTools Now Available for Firefox appeared first on Laravel News",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/inertia-firefox-featured.png"
+  },
+  {
+   "title": "Laravel Scalpel Scans for Filesystem Intrusion Evidence",
+   "link": "https://laravel-news.com/laravel-scalpel?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-17T01:38:29.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel Scalpel scans Laravel filesystems for rogue PHP files, obfuscated backdoors, altered directives, environment issues, and file changes. The post Laravel Scalpel Scans for Filesystem Intrusion Evidence appeared fir",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Scalpel-LN.png"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_logical_replication_workers",
@@ -162,16 +292,6 @@
    "image": "https://www.percona.com/wp-content/uploads/2026/09/diminishing_returns-768x510.png"
   },
   {
-   "title": "Fragments: September 16",
-   "link": "https://martinfowler.com/fragments/2026-09-16.html",
-   "date": "2026-09-16T20:05:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options: After the Hugging Face and Wiki attacks OpenAI w",
-   "image": null
-  },
-  {
    "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
    "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/",
    "date": "2026-09-16T18:30:00.000Z",
@@ -222,16 +342,6 @@
    "image": null
   },
   {
-   "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-   "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-   "date": "2026-09-16T15:50:59.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
-  },
-  {
    "title": "Joshua Drake: PostgreSQL 19: Sept 08 - Sept 16, 2026",
    "link": "https://postgr.es/p/9uI",
    "date": "2026-09-16T15:42:00.000Z",
@@ -242,46 +352,6 @@
    "image": null
   },
   {
-   "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-   "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-   "date": "2026-09-16T15:27:49.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
-  },
-  {
-   "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-   "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-   "date": "2026-09-16T14:36:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
-  },
-  {
-   "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-   "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-   "date": "2026-09-16T13:37:07.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
-  },
-  {
-   "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-   "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-   "date": "2026-09-16T13:14:05.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: The Attack Reached PHP: Composer and Packagist, One Year On",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-attack-reached-php-composer-and-packagist-one-year-on?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-16T12:30:00.000Z",
@@ -290,36 +360,6 @@
    "source": "Symfony Blog",
    "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland, on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of networ",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-   "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-   "date": "2026-09-16T11:58:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to val",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
-  },
-  {
-   "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-   "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-   "date": "2026-09-16T11:15:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-  },
-  {
-   "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-   "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-   "date": "2026-09-16T11:15:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
   },
   {
    "title": "LakeDrops Drupal Consulting, Development and Hosting: Everybody Orchestrates. Most Do It by Hand.",
@@ -462,26 +502,6 @@
    "image": null
   },
   {
-   "title": "Gspikes: Joomla Migration in 2026: Where to Go, What It Costs, and What Breaks",
-   "link": "https://gspikes.com/joomla-migration/",
-   "date": "2026-09-15T18:17:16.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Joomla 3 has been unsupported since 2023. An honest look at the three destinations — Joomla 5, WordPress or Drupal — what actually breaks, and what it costs.",
-   "image": null
-  },
-  {
-   "title": "Dimitri Fontaine: Plan Advice in PostgreSQL 19",
-   "link": "https://postgr.es/p/9uC",
-   "date": "2026-09-15T16:27:53.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "There is a conversation that happens in every PostgreSQL shop eventually. A query that has been fine for a year gets slow overnight. Nothing was deployed. The data grew a little, ANALYZE ran, and the planner — entirely r",
-   "image": null
-  },
-  {
    "title": "Your Agent Aced the Task. Will It Do It Again?",
    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
    "date": "2026-09-15T16:00:44.000Z",
@@ -489,16 +509,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Nail the Narrative",
-   "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
-   "date": "2026-09-15T15:11:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Sumeet Gayathri Moghe finds many folks building presentations get tangled in building slides without a coherent narrative. He advises distilling the big idea, visualizing the audience, and building a structured storyline",
    "image": null
   },
   {
@@ -510,16 +520,6 @@
    "source": "Laravel News",
    "summary": "Laravel MCP 1.0 ships protocol revision 2026-07-28, stateless servers, searchable tool catalogs, cache hints, and reworked OAuth with required PKCE. The post Laravel MCP 1.0 Is Released appeared first on Laravel News. Jo",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-15-laravel-mcp-1-0.png"
-  },
-  {
-   "title": "Laravel Vet: Review Composer Code Before It Installs",
-   "link": "https://laravel-news.com/laravel-vet?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-15T13:33:11.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel Vet is a new first-party Composer plugin that shows you the code in every dependency update and records the packages you trust in vet.json. The post Laravel Vet: Review Composer Code Before It Installs appeared f",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-15-laravel-vet.png"
   },
   {
    "title": "Performance improvements in Percona Server 8.4.11-11",
@@ -570,16 +570,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 6.4.46 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
    "image": null
-  },
-  {
-   "title": "What's New in PHP 8.6",
-   "link": "https://laravel-news.com/php-8-6?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-15T03:00:09.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "PHP 8.6 arrives November 19, 2026 with partial function application, a clamp() function, a Duration class, readonly property defaults, and new deprecations. The post What's New in PHP 8.6 appeared first on Laravel News. ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/php-8-6-featured.png"
   },
   {
    "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
@@ -752,16 +742,6 @@
    "image": null
   },
   {
-   "title": "Social Media Engagement: summer 2026",
-   "link": "https://martinfowler.com/articles/2026-social-traffic.html",
-   "date": "2026-09-09T16:21:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "A quick survey of recent engagement of my posts on social media, indicating which service has by far the most engagement, and which service has seen a precipitous decline since early 2025. more…",
-   "image": null
-  },
-  {
    "title": "Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging",
    "link": "https://www.percona.com/blog/percona-operator-for-postgresql-3-1-0-transparent-data-encryption-logical-replicas-persistent-logging/",
    "date": "2026-09-09T16:08:31.000Z",
@@ -770,16 +750,6 @@
    "source": "Percona Blog",
    "summary": "Percona Operator for PostgreSQL 3.1.0 takes on three things that decide whether a PostgreSQL platform passes review: is the data encrypted at rest, can it serve reads without straining the primary, and are the logs there",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/Cover-1000-x-420-1.png"
-  },
-  {
-   "title": "Meet pgstef: Why Stefan Fercot Joined Percona, and Why You Should Find Him at Percona Live Amsterdam",
-   "link": "https://www.percona.com/blog/meet-pgstef/",
-   "date": "2026-09-09T15:55:38.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "If you have spent any time in the Postgres community, you already know the name pgstef. Stefan Fercot has spent years as one of the most visible advocates for pgBackRest, a familiar face at European Postgres conferences,",
-   "image": null
   },
   {
    "title": "What's new in HTML for 2026",
@@ -802,16 +772,6 @@
    "image": null
   },
   {
-   "title": "Fragments: September  8",
-   "link": "https://martinfowler.com/fragments/2026-09-08.html",
-   "date": "2026-09-08T15:22:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:. This explains why the first major AI products appeared in chat, image generati",
-   "image": null
-  },
-  {
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
    "date": "2026-09-08T14:23:07.000Z",
@@ -819,16 +779,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Do you even need a presentation?",
-   "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
-   "date": "2026-09-08T13:42:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Like me, Sumeet Gayathri Moghe is tired of poor presentations with bad slide decks. He's started to write a series of posts on how to avoid these calamities, beginning with a post that questions whether a presentation is",
    "image": null
   },
   {
@@ -892,26 +842,6 @@
    "image": null
   },
   {
-   "title": "Bliki: Paracelsus Maxim",
-   "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
-   "date": "2026-09-02T22:03:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good ",
-   "image": null
-  },
-  {
-   "title": "An Accidental Blackboard",
-   "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-   "date": "2026-09-02T14:45:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination",
-   "image": null
-  },
-  {
    "title": "PHP Conference Ehime 2026",
    "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
    "date": "2026-09-02T14:30:00.000Z",
@@ -919,16 +849,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
-   "title": "Maybe We Shouldn't Be Reviewing All This Code",
-   "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
-   "date": "2026-09-02T13:32:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "TL;DR Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Mod",
    "image": null
   },
   {
