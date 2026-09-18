@@ -1,34 +1,144 @@
 {
- "generatedAt": "2026-09-18T14:57:04.682Z",
+ "generatedAt": "2026-09-18T19:34:14.085Z",
  "articles": [
   {
-   "title": "Why DevOps is Important: The Critical Bridge Between Code and Cloud",
-   "link": "https://dev.to/codingmacawbootcamp/why-devops-is-important-the-critical-bridge-between-code-and-cloud-1ff9",
-   "date": "2026-09-18T14:45:13.000Z",
+   "title": "Bloated Clouds, Anyone?",
+   "link": "https://dev.to/sharpvik/bloated-clouds-anyone-1jhc",
+   "date": "2026-09-18T19:25:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In the early days of software engineering, development teams and operations teams existed in completely isolated silos. Developers wrote application code and tossed it over a metaphorical wall. The operations engineers w",
+   "summary": "TL;DR Conventional cloud platforms had to serve everyone, and they became bloated with features. Chasing the next big thing, they abandoned any attempt at improving developer experience, which is the reason clouds blew u",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpz9poh8vpg1mrrr52hzk.png"
+  },
+  {
+   "title": "Note on 18th September 2026",
+   "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
+   "date": "2026-09-18T19:21:32.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai ",
    "image": null
   },
   {
-   "title": "FAQ: Five Myths About \"The Agent Session Finished\"",
-   "link": "https://dev.to/gitlab_3188/faq-five-myths-about-the-agent-session-finished-37he",
-   "date": "2026-09-18T14:43:08.000Z",
+   "title": "The Post-Mortem of Project OT: What Meta’s Scrapped 60% AI Downsizing Plan Reveals About the Real Limits of Coding Agents",
+   "link": "https://dev.to/isuvo/the-post-mortem-of-project-ot-what-metas-scrapped-60-ai-downsizing-plan-reveals-about-the-real-2jn0",
+   "date": "2026-09-18T19:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Have you merged a change because the agent typed done? I keep seeing the same claims in review threads. This FAQ busts five of those session claims. You do not need a paid cluster for this rehearsal. Disclosure: This art",
+   "summary": "⚙️ The Illusion of the Post-Developer Era In the technology sector, whispers of radical automation often precede structural shifts. But few initiatives have been as stark—or as instructive—as Meta’s recently scrapped \"Pr",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyixajnyugrfgp2wepyd.jpg"
+  },
+  {
+   "title": "Quoting Thariq Shihipar",
+   "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+   "date": "2026-09-18T19:09:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our",
    "image": null
   },
   {
-   "title": "Pin Property Seeds Outside the Agent Write Tree",
-   "link": "https://dev.to/datacpp_8185/pin-property-seeds-outside-the-agent-write-tree-2j7e",
-   "date": "2026-09-18T14:42:40.000Z",
+   "title": "The Fed Just Moved Rates. Your Finance Automation Needs a Better Event Model.",
+   "link": "https://dev.to/tali_from_portali/the-fed-just-moved-rates-your-finance-automation-needs-a-better-event-model-4f5f",
+   "date": "2026-09-18T19:01:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Property checks do not gate a merge when the agent can rewrite the seeds, the strategy, or the oracle in the same commit as the production diff. Example assertions fail the same way, only faster. They travel with the cod",
+   "summary": "The Fed Just Moved Rates. Your Finance Automation Needs a Better Event Model. A rate decision is usually discussed as a macroeconomic event: the central bank changes its target range, markets reprice, and businesses revi",
+   "image": null
+  },
+  {
+   "title": "Opsgenie Dies April 2027. Here Is What to Move To",
+   "link": "https://dev.to/moksh/opsgenie-dies-april-2027-here-is-what-to-move-to-1ca4",
+   "date": "2026-09-18T19:00:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "On-call tooling is the least glamorous thing in an observability stack and the only part that has to work while everything else is broken. It survives people quitting, phones on silent, and escalation chains nobody rehea",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9tmtos75ss0c39q3hpk5.webp"
+  },
+  {
+   "title": "Settra Ransomware: The Attack Chain Behind a Misspelled Log Channel",
+   "link": "https://dev.to/xpert4cyber/settra-ransomware-the-attack-chain-behind-a-misspelled-log-channel-5gdb",
+   "date": "2026-09-18T18:49:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Settra Ransomware: The Attack Chain Behind a Misspelled Log Channel In September 2026, Huntress caught a ransomware group mid-incident at a manufacturing company. The attackers had covered almost every track — cleared Wi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuq2604beo8h4gufu689.jpg"
+  },
+  {
+   "title": "Cloudflare Workflows now bills per step — one developer's bill jumped from $0 to ~$1,600/month",
+   "link": "https://dev.to/julianros/cloudflare-workflows-now-bills-per-step-one-developers-bill-jumped-from-0-to-1600month-1mnb",
+   "date": "2026-09-18T18:37:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Cloudflare Workflows — the durable-execution engine Cloudflare built on top of Workers for orchestrating multi-step, long-running jobs — started charging per step on August 10, 2026. One developer who'd already migrated ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxsl14wvsci1x4svz7l7.png"
+  },
+  {
+   "title": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch",
+   "link": "https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h",
+   "date": "2026-09-18T18:21:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch Most machine learning tutorials end at model.fit(). But in the real world, training a model is barely 10% of the work. The remaining 90% is everything th",
+   "image": null
+  },
+  {
+   "title": "Demystifying Cloud in a Bottle: A New Approach to the Self-Hosted Stack",
+   "link": "https://dev.to/lightningdev123/demystifying-cloud-in-a-bottle-a-new-approach-to-the-self-hosted-stack-5dhp",
+   "date": "2026-09-18T18:21:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction to the Modern Self-Hosting Frontier Self-hosting has long been the domain of the dedicated sysadmin, characterized by endless Docker Compose files, manual reverse proxy configurations, and the perpetual fear",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zcyfoy6xgvl4ol13cgu.webp"
+  },
+  {
+   "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+   "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+   "date": "2026-09-18T16:56:19.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+  },
+  {
+   "title": "Drupal AI Initiative: Intelligent Layouts: Drupal Canvas AI and the Context Layer",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/intelligent-layouts-drupal-canvas-ai-and-the-context-layer",
+   "date": "2026-09-18T16:02:29.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Reposted from Acquia with permission from Acquia. Authored by Martin Anderson-Clutz (mandclu) Drupal Canvas AI shifts content platforms from reading to writing, using governed context layers to help enterprise AI agents ",
+   "image": null
+  },
+  {
+   "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+   "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+   "date": "2026-09-18T15:24:16.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
+  },
+  {
+   "title": "The Drop Times: Native Observability 2.0.0 Measures Its Own Performance Cost",
+   "link": "https://www.thedroptimes.com/72348/native-observability-2-0-0-overhead?utm_source=Drupal Planet",
+   "date": "2026-09-18T15:03:26.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Diagnostic tools can add work while they investigate what a website is doing. Native Observability 2.0.0 now measures that added cost on the Drupal site where it runs instead of asking administrators to rely on a general",
    "image": null
   },
   {
@@ -39,56 +149,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from ea",
-   "image": null
-  },
-  {
-   "title": "Building Dashboards People Actually Use",
-   "link": "https://dev.to/samson_tanimawo/building-dashboards-people-actually-use-17e7",
-   "date": "2026-09-18T14:20:39.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I've built dozens of dashboards. Most have been ignored. A few have been used constantly. The difference isn't the graphs. It's the design. A useful dashboard answers 'is everything OK?' in 3 seconds. Not 'let me scroll ",
-   "image": null
-  },
-  {
-   "title": "Mahakal Book",
-   "link": "https://dev.to/mahakal_book_0ede281935ad/mahakal-book-7a5",
-   "date": "2026-09-18T14:15:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Websites are most useful when visitors can quickly understand their layout and find the information they need. Mahakal Book Official is presented as an online platform designed around this principle, with a simple interf",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3u36m6f5y3iirlz0pw03.png"
-  },
-  {
-   "title": "Top 15 Websites to Buy Verified Neteller Accounts 2027",
-   "link": "https://dev.to/saceba1091/top-15-websites-to-buy-verified-neteller-accounts-2027-37k7",
-   "date": "2026-09-18T14:15:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Neteller Accounts ◈{{🎯🎯}}◈➤Fast Reply 24/7 | Instant Support 🚀 progmb.contact@gmail.com http://progmb.com/product/buy-verified-neteller-accounts/ Buy Verified Neteller Accounts. Make your internet financi",
-   "image": null
-  },
-  {
-   "title": "How to set up a UAT environment that doesn't lie to you",
-   "link": "https://dev.to/bugzyio/how-to-set-up-a-uat-environment-that-doesnt-lie-to-you-10fi",
-   "date": "2026-09-18T14:13:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Originally published on Bugzy.io. A stakeholder logs in to sign off on the release, hits \"checkout,\" and the payment step silently fails. You pull the branch, run it locally, and everything works. Nothing is wrong with t",
-   "image": null
-  },
-  {
-   "title": "Get Verified GnosisPay Accounts",
-   "link": "https://dev.to/kycidea22/get-verified-gnosispay-accounts-hpi",
-   "date": "2026-09-18T14:04:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Gnosis Pay Accounts provide a self-custodial way to connect digital assets with everyday card payments. Gnosis Pay uses Safe smart-account infrastructure and integrates with Visa, allowing eligible users to spend support",
    "image": null
   },
   {
@@ -292,16 +352,6 @@
    "image": null
   },
   {
-   "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-   "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-   "date": "2026-09-17T18:08:28.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg"
-  },
-  {
    "title": "Talking Drupal: Talking Drupal #570 - Laravel & Marketing PHP",
    "link": "https://sacstudio.libsyn.com/talking-drupal-570-laravel-marketing-php",
    "date": "2026-09-17T18:00:00.000Z",
@@ -310,16 +360,6 @@
    "source": "Drupal Planet",
    "summary": "Today we are talking about Laravel, Marketing, and The PHP Foundation with guest Matt Stauffer. We'll also cover Formdazzle as our module of the week. For show notes visit: https://www.talkingDrupal.com/570 Topics What I",
    "image": null
-  },
-  {
-   "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-   "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-   "date": "2026-09-17T17:32:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
   },
   {
    "title": "Christophe Pettus: The Call Is Coming From Inside the Session",
@@ -392,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Morpht: Agents in a field: introducing AI Automators Agent",
-   "link": "https://www.morpht.com/blog/agents-field-introducing-ai-automators-agent",
-   "date": "2026-09-17T12:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Your fields can now think. Route any Drupal field automator through a tool-using AI Agent and let RAG pick the answer.",
-   "image": null
-  },
-  {
    "title": "Evaluating LLM models for DBA tasks",
    "link": "https://www.percona.com/blog/evaluating-llm-models-for-dba-tasks/",
    "date": "2026-09-17T11:50:07.000Z",
@@ -410,16 +440,6 @@
    "source": "Percona Blog",
    "summary": "Evaluating LLM Models for DBA Tasks Large language models are increasingly capable of performing practical systems-administration tasks. I wanted to understand how well they could handle something more specialized: datab",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/llm_harness_dba_tasks_preview_final-1024x704.png"
-  },
-  {
-   "title": "Droptica: Why Drupal sites get read and cited by AI",
-   "link": "https://www.droptica.com/blog/why-drupal-sites-get-read-and-cited-ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-17T10:48:52.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "AI crawlers already fetch product pages during live conversations, but citations stay rare. Drupal sites cited by AI need one fact in fields, then the same value on the page, in JSON-LD, in feeds and through JSON:API or ",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Why%20Drupal%20sites%20get%20read%20and%20cited%20by%20AI_1.png"
   },
   {
    "title": "New in Symfony 8.2: Attribute-based Forms",
@@ -519,26 +539,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for exampl",
-   "image": null
-  },
-  {
-   "title": "Claude Cowork and chat are now one Claude",
-   "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-   "date": "2026-09-16T18:09:49.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Claude Cowork and chat are now one Claude In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Clau",
-   "image": null
-  },
-  {
-   "title": "Quoting Mustafa Suleyman",
-   "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
-   "date": "2026-09-16T16:00:54.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to s",
    "image": null
   },
   {
@@ -952,26 +952,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
-   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-   "link": "https://css-tricks.com/css-random-function-polyfill/",
-   "date": "2026-08-31T15:12:19.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
-   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-   "link": "https://css-tricks.com/whats-important-18/",
-   "date": "2026-08-31T14:08:55.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-   "image": null
-  },
-  {
    "title": "Forum PHP 2026 - Paris (France)",
    "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
    "date": "2026-08-31T11:42:50.000Z",
@@ -1002,26 +982,6 @@
    "image": null
   },
   {
-   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-   "date": "2026-08-27T14:41:06.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
-   "image": null
-  },
-  {
-   "title": "animation-trigger",
-   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-   "date": "2026-08-26T15:38:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
-   "image": null
-  },
-  {
    "title": "The asteroid hitting frontend development",
    "link": "https://frontendfoc.us/issues/755",
    "date": "2026-08-26T00:00:00.000Z",
@@ -1042,16 +1002,6 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
-   "title": "MicroLighter: Syntax Highlighter",
-   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-   "date": "2026-08-25T14:10:34.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
-   "image": null
-  },
-  {
    "title": "\"A\" for \"Average\"",
    "link": "https://stitcher.io/blog/a-for-average",
    "date": "2026-08-25T00:00:00.000Z",
@@ -1059,26 +1009,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/a-for-average",
-   "image": null
-  },
-  {
-   "title": "WordPress PHP-Only Block Registration",
-   "link": "https://css-tricks.com/wordpress-php-block-registration/",
-   "date": "2026-08-24T13:54:02.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
-   "image": null
-  },
-  {
-   "title": "Resolved: CSS Class Prefix Selector",
-   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-   "date": "2026-08-21T15:13:03.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
    "image": null
   },
   {
@@ -1099,16 +1029,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
-   "image": null
-  },
-  {
-   "title": "CSS Navigation Matching, Early Days",
-   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-   "date": "2026-08-19T14:44:41.000Z",
-   "theme": "frontend",
-   "themeName": "FrontEnd",
-   "source": "CSS-Tricks",
-   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
   },
   {
