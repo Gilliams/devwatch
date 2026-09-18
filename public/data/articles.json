@@ -1,84 +1,124 @@
 {
- "generatedAt": "2026-09-17T20:17:52.643Z",
+ "generatedAt": "2026-09-18T01:16:15.936Z",
  "articles": [
   {
-   "title": "Open Source Claude Code Gateway: Architecture, Setup, and Governance",
-   "link": "https://dev.to/asante66/open-source-claude-code-gateway-architecture-setup-and-governance-1a8n",
-   "date": "2026-09-17T20:07:45.000Z",
+   "title": "Kubernetes Pod Stuck in ContainerCreating (FailedCreatePodSandBox): How to Fix It",
+   "link": "https://dev.to/devtocash/kubernetes-pod-stuck-in-containercreating-failedcreatepodsandbox-how-to-fix-it-kkm",
+   "date": "2026-09-18T01:15:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR An open source Claude Code gateway acts as a reverse proxy between Anthropic's terminal coding agent and upstream LLM providers to enforce budgets, routing, and access policies. Running an open source gateway local",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzcezg4ann1e8za88gzks.jpg"
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Your pod says ContainerCreating, has zero restarts, no logs, and kubectl describe is repeati",
+   "image": null
   },
   {
-   "title": "Open Source Agent Gateways: Architecture, Evaluation, and Top Tools",
-   "link": "https://dev.to/aalberg67/open-source-agent-gateways-architecture-evaluation-and-top-tools-11l",
-   "date": "2026-09-17T20:03:50.000Z",
+   "title": "Migrate a DNS Zone with Enumerate Diff Apply Verify Before Nameservers",
+   "link": "https://dev.to/dorianreed2186/migrate-a-dns-zone-with-enumerate-diff-apply-verify-before-nameservers-p2h",
+   "date": "2026-09-18T01:10:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR An open source agent gateway is a unified control plane that coordinates model inference, Model Context Protocol (MCP) tool execution, and agent-to-agent communication on self-hosted infrastructure. Unlike first-ge",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fihfayysqauvyps1oeqtu.jpg"
+   "summary": "Short answer: enumerate the live DNS zone, diff it against the intended set, apply idempotent upserts, and verify mail before changing nameservers; use a REST backend when keeping that workflow portable matters more than",
+   "image": null
   },
   {
-   "title": "Open Source Agent Gateway: Architecture, Security, and Production Tools",
-   "link": "https://dev.to/carvalhomateus/open-source-agent-gateway-architecture-security-and-production-tools-2iaf",
-   "date": "2026-09-17T19:59:49.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR An open source agent gateway provides a unified data plane and control plane for large language model (LLM) inference, Model Context Protocol (MCP) tool execution, and multi-agent coordination. Traditional API gate",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F405qw361cfhiyk10gf8q.jpg"
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_notify_queue_pages",
+   "link": "https://postgr.es/p/9v2",
+   "date": "2026-09-18T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Nobody asked for max_notify_queue_pages. It exists because a limit that used to enforce itself stopped doing so, and something had to take its place. LISTEN/NOTIFY runs on a single queue for the whole cluster, stored as ",
+   "image": null
   },
   {
-   "title": "Best Shadow AI Tools for Enterprise Governance in 2026",
-   "link": "https://dev.to/kuldeep_paul/best-shadow-ai-tools-for-enterprise-governance-in-2026-48mh",
-   "date": "2026-09-17T19:58:52.000Z",
+   "title": "DNS Zone Debugging Explained Through Records Nobody Intended to Write",
+   "link": "https://dev.to/solacew31/dns-zone-debugging-explained-through-records-nobody-intended-to-write-h2f",
+   "date": "2026-09-18T00:49:07.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Unsanctioned generative AI usage adds an average of $670,000 to enterprise data breach costs, driving security teams to deploy dedicated shadow AI discovery and governance platforms. The best shadow AI tools evalua",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5d1rwqaxw53qdv2bp4hq.jpg"
+   "summary": "The least complex path to a safe registrar-independent cutover is to export one normalized zone snapshot, attach every later mutation to an actor and change ticket, and reconcile from that evidence before changing delega",
+   "image": null
   },
   {
-   "title": "Enterprise AI Guardrails Tools: Top Platforms and Architecture Guide",
-   "link": "https://dev.to/kuldeep_paul/enterprise-ai-guardrails-tools-top-platforms-and-architecture-guide-218i",
-   "date": "2026-09-17T19:55:42.000Z",
+   "title": "Set MX Records from Configuration — Upsert Priorities for Logistics",
+   "link": "https://dev.to/urbandonovan1576/set-mx-records-from-configuration-upsert-priorities-for-logistics-3kj3",
+   "date": "2026-09-18T00:22:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Enterprise AI guardrails tools enforce runtime policy, safety, and security checks on model prompts, generated completions, and autonomous tool calls before data causes harm. Bifrost ranks first among enterprise gu",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff00df9ggvbui5p57kb9g.jpg"
+   "summary": "For a logistics hostname cutover, keep the complete intended MX set in configuration, assign every mail exchanger an explicit priority, and apply each entry with upsert. Then list the records and compare the live set wit",
+   "image": null
   },
   {
-   "title": "Top AI Guardrails Tools for Production AI Applications (2026)",
-   "link": "https://dev.to/kuldeep_paul/top-ai-guardrails-tools-for-production-ai-applications-2026-f33",
-   "date": "2026-09-17T19:52:30.000Z",
+   "title": "What self-hosting AI code review actually costs",
+   "link": "https://dev.to/tessainsley/what-self-hosting-ai-code-review-actually-costs-252l",
+   "date": "2026-09-18T00:15:10.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Production teams evaluate top ai guardrails tools to block prompt injections, prevent PII leakage, restrict tool access, and enforce regulatory compliance at runtime. Bifrost ranks first because it enforces dual-st",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftvj3m6yenfke4xf1mphi.jpg"
+   "summary": "The \"best self-hosted AI code review tool\" question gets searched constantly, and almost everything that ranks is a vendor listicle with no method. One source actually ran a test and published costs. Augment Code put ten",
+   "image": null
   },
   {
-   "title": "Auto Routing Platforms for LLMs: Architecture and Top Options",
-   "link": "https://dev.to/kuldeep_paul/auto-routing-platforms-for-llms-architecture-and-top-options-2e1",
-   "date": "2026-09-17T19:49:33.000Z",
+   "title": "Autonomous agents need guardrails, not line-by-line scripts",
+   "link": "https://dev.to/jones_chen_592558a62a5c44/autonomous-agents-need-guardrails-not-line-by-line-scripts-4g1c",
+   "date": "2026-09-18T00:10:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR An auto routing platform is an intermediary software layer that inspects incoming generative AI prompts and dynamically directs each request to the optimal model, provider, or hardware tier. Production engineering ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6hoxk9tsq67fo0hb7pv4.jpg"
+   "summary": "Autonomous does not mean uncontrollable. Cogweald’s model can decide what happens next in a world. It cannot change the database schema, bypass authorization, arbitrarily rewrite published content, or turn unvalidated te",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzr8duvgcm8k4cyrmend.jpg"
   },
   {
-   "title": "Extract getenv Call Sites Into a Settings Catalog; Sign Secret Class Offline",
-   "link": "https://dev.to/github_7727/extract-getenv-call-sites-into-a-settings-catalog-sign-secret-class-offline-2pak",
-   "date": "2026-09-17T19:48:19.000Z",
+   "title": "I pinned my Actors to the MCP URL, the way the docs recommend. The agent lost every way to see what a call costs.",
+   "link": "https://dev.to/apify/i-pinned-my-actors-to-the-mcp-url-the-way-the-docs-recommend-the-agent-lost-every-way-to-see-what-529h",
+   "date": "2026-09-18T00:09:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Configuration reference pages go stale the moment a model invents a default, a secret class, or a restart requirement the tree never encoded. A durable alternative compiles every os.getenv and os.environ call site into a",
+   "summary": "I pinned my Actors to the MCP URL, the way the docs recommend. The agent lost every way to see what a call costs. I publish 23 Actors on the Apify Store. All 23 are pay-per-event. Last week I measured how an AI agent act",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F39kpo9erq6v4purd8d3h.jpg"
+  },
+  {
+   "title": "I removed the under maintenance label from my Actor twice. It came back in four hours, then in one.",
+   "link": "https://dev.to/apify/i-removed-the-under-maintenance-label-from-my-actor-twice-it-came-back-in-four-hours-then-in-one-48ge",
+   "date": "2026-09-18T00:08:48.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I removed the under maintenance label from my Actor twice. It came back in four hours, then in one. I publish 23 Actors on Apify. Twenty-two of them take a public record and check whether what it The twenty-third is diff",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnh8wh85veus04pd0qprp.png"
+  },
+  {
+   "title": "Be alert: targeted attacks on prominent Rustaceans",
+   "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+   "date": "2026-09-17T23:59:19.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates th",
+   "image": null
+  },
+  {
+   "title": "How To Write With An LLM",
+   "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+   "date": "2026-09-17T23:37:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal",
+   "image": null
+  },
+  {
+   "title": "Self-generated prompt injections in compaction summaries",
+   "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+   "date": "2026-09-17T20:57:55.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". Th",
    "image": null
   },
   {
@@ -89,6 +129,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "SourceDocsProduct page2026-09-17pgColumnar 1.0-alpha4 release notesRelease date: 2026-09-17 Previous release: 1.0-alpha3 (2026-09-02)pgColumnar is a columnar table access method for PostgreSQL. This is the fourth alpha. ",
+   "image": null
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #570 - Laravel & Marketing PHP",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-570-laravel-marketing-php",
+   "date": "2026-09-17T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about Laravel, Marketing, and The PHP Foundation with guest Matt Stauffer. We'll also cover Formdazzle as our module of the week. For show notes visit: https://www.talkingDrupal.com/570 Topics What I",
    "image": null
   },
   {
@@ -332,16 +382,6 @@
    "image": null
   },
   {
-   "title": "Elizabeth Garrett Christensen: PostgreSQL 19 Delayed: Key Feature Reversions &amp; Release Updates",
-   "link": "https://postgr.es/p/9uJ",
-   "date": "2026-09-16T22:49:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Postgres 19 won't make the expected release date. PostgreSQL has shipped its major version every fall for the last several years. But this year, the code is in a heavy review cycle, major features have been reverted duri",
-   "image": null
-  },
-  {
    "title": "pgBackRest Compression: How Much CPU Is a Smaller Backup Worth?",
    "link": "https://www.percona.com/blog/pgbackrest-compression-how-much-cpu-is-a-smaller-backup-worth/",
    "date": "2026-09-16T21:43:06.000Z",
@@ -469,16 +509,6 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "One rulebook for your AI: make every generated intro, summary and alt text follow the exact same governance as your chatbot.",
-   "image": null
-  },
-  {
-   "title": "Webpro Company blog: Drupal 12 or Drupal 11 — upgrade now or wait?",
-   "link": "https://webpro.company/blog/drupal-12-or-drupal-11",
-   "date": "2026-09-16T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Drupal 10 reaches end of life on 9 December 2026. Drupal 12 is planned for the same week. Our recommendation for Drupal 10 site owners is to start the Drupal 11 upgrade now instead of building the whole plan around a new",
    "image": null
   },
   {
@@ -622,26 +652,6 @@
    "image": null
   },
   {
-   "title": "The contagion of fear",
-   "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-   "date": "2026-09-14T21:18:13.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story",
-   "image": null
-  },
-  {
-   "title": "What blog posts influenced your thinking the most?",
-   "link": "https://simonwillison.net/2026/Sep/14/influences/",
-   "date": "2026-09-14T20:21:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to a",
-   "image": null
-  },
-  {
    "title": "Kubernetes Changed Block Tracking API - Beta Differences",
    "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/",
    "date": "2026-09-14T18:30:00.000Z",
@@ -659,16 +669,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. On Linux nodes running cgroup v2, the feature uses the memory controller to give the kernel better guidance on how to treat container me",
-   "image": null
-  },
-  {
-   "title": "Quoting Laurie Voss",
-   "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-   "date": "2026-09-14T14:34:29.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it pr",
    "image": null
   },
   {
