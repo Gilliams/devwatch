@@ -1,25 +1,125 @@
 {
- "generatedAt": "2026-09-18T01:16:15.936Z",
+ "generatedAt": "2026-09-18T09:41:22.745Z",
  "articles": [
   {
-   "title": "Kubernetes Pod Stuck in ContainerCreating (FailedCreatePodSandBox): How to Fix It",
-   "link": "https://dev.to/devtocash/kubernetes-pod-stuck-in-containercreating-failedcreatepodsandbox-how-to-fix-it-kkm",
-   "date": "2026-09-18T01:15:33.000Z",
+   "title": "Lucee 6 vs Adobe ColdFusion 2025: A Real Technical Comparison for Teams Deciding in 2026",
+   "link": "https://dev.to/deepak_sir__/lucee-6-vs-adobe-coldfusion-2025-a-real-technical-comparison-for-teams-deciding-in-2026-3fj8",
+   "date": "2026-09-18T09:29:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Your pod says ContainerCreating, has zero restarts, no logs, and kubectl describe is repeati",
+   "summary": "Lucee 6 and Adobe ColdFusion 2025 both run CFML on the JVM and share most of the same language — most CFML code runs on either with minimal changes — so the choice isn’t “which is better” but “which fits your team, budge",
    "image": null
   },
   {
-   "title": "Migrate a DNS Zone with Enumerate Diff Apply Verify Before Nameservers",
-   "link": "https://dev.to/dorianreed2186/migrate-a-dns-zone-with-enumerate-diff-apply-verify-before-nameservers-p2h",
-   "date": "2026-09-18T01:10:03.000Z",
+   "title": "Location Intelligence vs Business Intelligence",
+   "link": "https://dev.to/fyre_maps_70b6a5d04c023a9/location-intelligence-vs-business-intelligence-2o78",
+   "date": "2026-09-18T09:29:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: enumerate the live DNS zone, diff it against the intended set, apply idempotent upserts, and verify mail before changing nameservers; use a REST backend when keeping that workflow portable matters more than",
+   "summary": "Most companies already use some form of business intelligence, even if they do not describe it that way. Dashboards track revenue, customer activity, operational performance, support trends, conversion rates, and thousan",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpxc9qtakwfppsawyfxw0.png"
+  },
+  {
+   "title": "FAQ: Five Myths About Green Builds on a Free Agent Host",
+   "link": "https://dev.to/gitlab_3188/faq-five-myths-about-green-builds-on-a-free-agent-host-2jkj",
+   "date": "2026-09-18T09:27:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Did that rented agent box actually prove your patch? I keep hearing five claims in review threads. They sound careful, but they are not. This FAQ treats a free coding host as scratch. You still owe local truth after expo",
    "image": null
+  },
+  {
+   "title": "Harvest Pydantic Settings Into a Config Atlas; Sign Secrets, Defaults, and Restarts by Hand",
+   "link": "https://dev.to/github_7727/harvest-pydantic-settings-into-a-config-atlas-sign-secrets-defaults-and-restarts-by-hand-2ml9",
+   "date": "2026-09-18T09:26:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Configuration reference pages collapse when generated prose and operational truth share one file without explicit ownership lanes. A settings class already enumerates keys, types, and defaults, but production meaning sti",
+   "image": null
+  },
+  {
+   "title": "Your Agency Promises 24/7. Nobody Is Awake at 3AM.",
+   "link": "https://dev.to/hive80lab/your-agency-promises-247-nobody-is-awake-at-3am-349",
+   "date": "2026-09-18T09:20:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "That gap is where client churn starts — and where a boring, white-labelable ops layer prints margin for agencies. I run a small ops lab. Over the last year we packaged what agencies keep reinventing badly: unattended-ser",
+   "image": null
+  },
+  {
+   "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+   "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+   "date": "2026-09-18T09:18:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
+  },
+  {
+   "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-1ahi",
+   "date": "2026-09-18T09:10:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Best AI Agents for DevOps Engineers Training | Visualpath",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/best-ai-agents-for-devops-engineers-training-visualpath-51nc",
+   "date": "2026-09-18T09:02:18.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "What Skills Do DevOps Engineers Need to Adopt AI Agents? A monitoring alert reaches the workflow. The agent reads the alert and related logs. It identifies possible causes. It checks approved diagnostic tools. It prepare",
+   "image": null
+  },
+  {
+   "title": "What Developers Should Look for in Web Hosting: A Practical Look at Quantum Racks",
+   "link": "https://dev.to/aarti_sharma_1569bb1dac9f/what-developers-should-look-for-in-web-hosting-a-practical-look-at-quantum-racks-38n",
+   "date": "2026-09-18T09:00:24.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Choosing a hosting provider is one of those decisions developers often make only after a project starts experiencing problems. A website may work perfectly in local development, but production introduces different challe",
+   "image": null
+  },
+  {
+   "title": "Jimmy Angelakos: postgres.scot is live, August PostgresEDI meetup",
+   "link": "https://postgr.es/p/9v3",
+   "date": "2026-09-18T08:30:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "postgres.scot is live Postgres events in Scotland now have a permanent address: postgres.scot It is a deliberately small page. Right now it points at the PostgreSQL Edinburgh User Group (PostgresEDI) on cloomba, where yo",
+   "image": "https://vyruss.org/blog/images/aug2026_1.jpg"
+  },
+  {
+   "title": "New in Symfony 8.2: One Bundle per Component",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-one-bundle-per-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-18T07:58:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Contributed by Nicolas Grekas in #65948 ,…",
+   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
+  },
+  {
+   "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+   "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+   "date": "2026-09-18T06:17:25.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_notify_queue_pages",
@@ -32,64 +132,14 @@
    "image": null
   },
   {
-   "title": "DNS Zone Debugging Explained Through Records Nobody Intended to Write",
-   "link": "https://dev.to/solacew31/dns-zone-debugging-explained-through-records-nobody-intended-to-write-h2f",
-   "date": "2026-09-18T00:49:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The least complex path to a safe registrar-independent cutover is to export one normalized zone snapshot, attach every later mutation to an actor and change ticket, and reconcile from that evidence before changing delega",
-   "image": null
-  },
-  {
-   "title": "Set MX Records from Configuration — Upsert Priorities for Logistics",
-   "link": "https://dev.to/urbandonovan1576/set-mx-records-from-configuration-upsert-priorities-for-logistics-3kj3",
-   "date": "2026-09-18T00:22:24.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For a logistics hostname cutover, keep the complete intended MX set in configuration, assign every mail exchanger an explicit priority, and apply each entry with upsert. Then list the records and compare the live set wit",
-   "image": null
-  },
-  {
-   "title": "What self-hosting AI code review actually costs",
-   "link": "https://dev.to/tessainsley/what-self-hosting-ai-code-review-actually-costs-252l",
-   "date": "2026-09-18T00:15:10.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The \"best self-hosted AI code review tool\" question gets searched constantly, and almost everything that ranks is a vendor listicle with no method. One source actually ran a test and published costs. Augment Code put ten",
-   "image": null
-  },
-  {
-   "title": "Autonomous agents need guardrails, not line-by-line scripts",
-   "link": "https://dev.to/jones_chen_592558a62a5c44/autonomous-agents-need-guardrails-not-line-by-line-scripts-4g1c",
-   "date": "2026-09-18T00:10:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Autonomous does not mean uncontrollable. Cogweald’s model can decide what happens next in a world. It cannot change the database schema, bypass authorization, arbitrarily rewrite published content, or turn unvalidated te",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnzr8duvgcm8k4cyrmend.jpg"
-  },
-  {
-   "title": "I pinned my Actors to the MCP URL, the way the docs recommend. The agent lost every way to see what a call costs.",
-   "link": "https://dev.to/apify/i-pinned-my-actors-to-the-mcp-url-the-way-the-docs-recommend-the-agent-lost-every-way-to-see-what-529h",
-   "date": "2026-09-18T00:09:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I pinned my Actors to the MCP URL, the way the docs recommend. The agent lost every way to see what a call costs. I publish 23 Actors on the Apify Store. All 23 are pay-per-event. Last week I measured how an AI agent act",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F39kpo9erq6v4purd8d3h.jpg"
-  },
-  {
-   "title": "I removed the under maintenance label from my Actor twice. It came back in four hours, then in one.",
-   "link": "https://dev.to/apify/i-removed-the-under-maintenance-label-from-my-actor-twice-it-came-back-in-four-hours-then-in-one-48ge",
-   "date": "2026-09-18T00:08:48.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I removed the under maintenance label from my Actor twice. It came back in four hours, then in one. I publish 23 Actors on Apify. Twenty-two of them take a public record and check whether what it The twenty-third is diff",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnh8wh85veus04pd0qprp.png"
+   "title": "Omega8.cc: The Valet Key",
+   "link": "https://omega8.cc/blog/the-valet-key",
+   "date": "2026-09-18T00:36:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every login on a BOA account is a key of one kind, and the ring holds six of them: your own panel login and your oN.ftp shell open everything; a colleague's login to the Ægir panel holds one of two roles, Client, which c",
+   "image": "https://omega8.cc/images/1/b/0/a/5/1b0a53a04c93d95605b7ac7e88b19857d555d2f8-the-valet-key-anime-halo.png"
   },
   {
    "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -132,6 +182,16 @@
    "image": null
   },
   {
+   "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+   "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+   "date": "2026-09-17T18:08:28.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg"
+  },
+  {
    "title": "Talking Drupal: Talking Drupal #570 - Laravel & Marketing PHP",
    "link": "https://sacstudio.libsyn.com/talking-drupal-570-laravel-marketing-php",
    "date": "2026-09-17T18:00:00.000Z",
@@ -140,6 +200,16 @@
    "source": "Drupal Planet",
    "summary": "Today we are talking about Laravel, Marketing, and The PHP Foundation with guest Matt Stauffer. We'll also cover Formdazzle as our module of the week. For show notes visit: https://www.talkingDrupal.com/570 Topics What I",
    "image": null
+  },
+  {
+   "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+   "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+   "date": "2026-09-17T17:32:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
   },
   {
    "title": "Christophe Pettus: The Call Is Coming From Inside the Session",
@@ -152,6 +222,16 @@
    "image": null
   },
   {
+   "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+   "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+   "date": "2026-09-17T15:37:56.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on S",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg"
+  },
+  {
    "title": "Muhammad Aqeel: Flexible Deployment: What Enterprise-Grade Self-Hosting Actually Demands",
    "link": "https://postgr.es/p/9u_",
    "date": "2026-09-17T15:31:54.000Z",
@@ -160,6 +240,16 @@
    "source": "Planet PostgreSQL",
    "summary": "Ask a database vendor about on-prem and you'll usually get a one-line answer: 'we're open source, you can just self-host it.' For a hobby project, fine. For an enterprise, that line rarely survives contact with productio",
    "image": null
+  },
+  {
+   "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+   "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+   "date": "2026-09-17T14:03:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin comman",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg"
   },
   {
    "title": "Gülçin Yıldırım Jelínek: Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
@@ -180,6 +270,26 @@
    "source": "Martin Fowler",
    "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand",
    "image": null
+  },
+  {
+   "title": "Droptica: Drupal content modeling for answer coverage: fields, not prose",
+   "link": "https://www.droptica.com/blog/drupal-content-modeling-answer-coverage-fields-not-prose/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-17T13:18:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Prices, specifications and proof buried in body copy are hard to compare, filter or reuse across pages, feeds and AI answers. Drupal content modeling stores those facts as fields, connects related records with entity ref",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20content%20modeling%20for%20answer%20coverage%20fields%2C%20not%20prose_1.png"
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: Beyond the Demo: Shipping Real AI Features",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-the-demo-shipping-real-ai-features?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-17T12:33:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Ready to level up your PHP and Symfony skills? SymfonyCon Warsaw 2026 lands in Poland this November 26-27! Gather with fellow developers from around the globe for two dense days of learning, featuring 3 parallel tracks a",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
    "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
@@ -229,57 +339,27 @@
    "themeName": "Sécurité / Hack",
    "source": "The Hacker News",
    "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg"
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
   },
   {
-   "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-   "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-   "date": "2026-09-17T10:50:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg"
+   "title": "Droptica: Why Drupal sites get read and cited by AI",
+   "link": "https://www.droptica.com/blog/why-drupal-sites-get-read-and-cited-ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-17T10:48:52.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI crawlers already fetch product pages during live conversations, but citations stay rare. Drupal sites cited by AI need one fact in fields, then the same value on the page, in JSON-LD, in feeds and through JSON:API or ",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Why%20Drupal%20sites%20get%20read%20and%20cited%20by%20AI_1.png"
   },
   {
-   "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-   "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-   "date": "2026-09-17T10:05:45.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at leas",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg"
-  },
-  {
-   "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-   "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-   "date": "2026-09-17T09:53:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2xdqQbSjGZGGkNO0hRMgoEWNFpWVp0DDsBvsbQekWezeScq_sLAPfzY-kJenfNHYFnSqDcU93F30gmINBYYobl0Jf1thyPsXm34lbJPqMfZwPXoRy1UvpQcS_eHwF_nVqk-rDBTd83B8iteh4e23r2pnbtUsOgFPmYVRi-IlrW6-9FFUf7-DiZ8yyAOJ/s1600/openai-models.jpg"
-  },
-  {
-   "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-   "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-   "date": "2026-09-17T08:00:29.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg"
-  },
-  {
-   "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-   "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-   "date": "2026-09-17T07:30:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg"
+   "title": "New in Symfony 8.2: Attribute-based Forms",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-attribute-based-forms?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-17T07:04:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Contributed by Benjamin Georgeault in #60563…",
+   "image": "https://connect.symfony.com/profile/wedgesama.picture"
   },
   {
    "title": "Group Replication Beyond a Single Cluster: DC-DR with Percona (PS MySQL) Operator",
@@ -290,16 +370,6 @@
    "source": "Percona Blog",
    "summary": "A while ago, we discussed the cross-site replication feature of the Percona PXC operator. Recently, a similar cross-site replication feature was introduced in the Percona (PS MySQL) operator v1.2.0, a topology based on G",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/image1.png"
-  },
-  {
-   "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-   "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-   "date": "2026-09-17T06:39:40.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKC3hrw_VedPPLj2lAD6qhUn-7eJuJ8dqSBMAOwTEjUdYxlwnOla9dFF4pwOBNr-QsjzJPuXEtkA6orbkLHUqHI3RbWMBR0VeNaYvZqSnkNnM5HH-T9ofLeBzrZcOXn5nbZyNC2YeQjANmTzBAhaAwhDoGoXLJOeB1nFbIr-TJuFTHM8y0TAzj6Hxd0MYM/s1600/cisco-0-day.jpg"
   },
   {
    "title": "Too many GCache Page Files in MySQL Data Directory",
@@ -340,16 +410,6 @@
    "source": "Laravel News",
    "summary": "Laravel Scalpel scans Laravel filesystems for rogue PHP files, obfuscated backdoors, altered directives, environment issues, and file changes. The post Laravel Scalpel Scans for Filesystem Intrusion Evidence appeared fir",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Laravel-Scalpel-LN.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_logical_replication_workers",
-   "link": "https://postgr.es/p/9uK",
-   "date": "2026-09-17T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "When a logical replication worker pool runs dry, subscriptions don't fail—they just stop making progress, filling your logs with warnings every five seconds…",
-   "image": null
   },
   {
    "title": "Tag1 Insights: Optimizing Drupal Core CI",
@@ -462,26 +522,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
-   "title": "LakeDrops Drupal Consulting, Development and Hosting: Everybody Orchestrates. Most Do It by Hand.",
-   "link": "https://www.lakedrops.com/en/blog/everybody-orchestrates-most-do-it-hand",
-   "date": "2026-09-16T10:15:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Everybody Orchestrates. Most Do It by Hand. Photo by Giorgio Tomassetti on Unsplash Jürgen Haas Wed 16 Sep 2026 - 12:15 Every month I do my agency's billing by hand: export timesheets from one system, create invoices in ",
-   "image": "https://www.lakedrops.com/sites/default/files/styles/teaser/public/unsplash_thumbnails/LHdbi4haytM0CG8pYVi51PltRag3vwAemE1uYaX3Iw8.0%26q%3D85.jpg?h=790be497&amp;itok=zgAlE5U9"
-  },
-  {
-   "title": "Metadrop: How to eliminate manual credential sharing in Drupal integrations with a Vault service",
-   "link": "https://metadrop.net/en/articles/how-to-eliminate-manual-credential-sharing-in-drupal-integrations-with-a-vault-service",
-   "date": "2026-09-16T10:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Credentials still travel by email and by Slack on projects that are otherwise carefully built. Every integration with an external service needs them, and forwarding them from one party to the next is so routine that the ",
-   "image": null
-  },
-  {
    "title": "New SymfonyCasts Course: Symfony Security - The Basics",
    "link": "https://symfony.com/blog/new-symfonycasts-course-symfony-security-the-basics?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-16T09:34:00.000Z",
@@ -500,16 +540,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony console applications group their commands with colon-separated namespaces, such as cache:clear or messenger:consume. Tools like Docker and Git use a different style: spaces separate the levels (docker compose up)",
    "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
-  },
-  {
-   "title": "Morpht: Same rules, every suggestion: the Context Control Center and your AI Automators",
-   "link": "https://www.morpht.com/blog/same-rules-every-suggestion-context-control-center-and-your-ai-automators",
-   "date": "2026-09-16T07:20:03.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "One rulebook for your AI: make every generated intro, summary and alt text follow the exact same governance as your chatbot.",
-   "image": null
   },
   {
    "title": "Mercure Broadcasting in Laravel 13.32",
@@ -612,26 +642,6 @@
    "image": null
   },
   {
-   "title": "New in Symfony 8.2: KeyManagement Component",
-   "link": "https://symfony.com/blog/new-in-symfony-8-2-keymanagement-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-15T07:11:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This is the first article in a series showcasing the most important new features introduced by Symfony 8.2, which will be released at the end of November 2026. Contributed…",
-   "image": "https://connect.symfony.com/profile/spomky_.picture"
-  },
-  {
-   "title": "Symfony 6.4.46 released",
-   "link": "https://symfony.com/blog/symfony-6-4-46-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-15T07:08:49.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 6.4.46 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
-  },
-  {
    "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
    "link": "https://laravel-news.com/nativephp-super-stack?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-15T02:50:55.000Z",
@@ -669,16 +679,6 @@
    "themeName": "DevOps",
    "source": "Kubernetes Blog",
    "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by default. On Linux nodes running cgroup v2, the feature uses the memory controller to give the kernel better guidance on how to treat container me",
-   "image": null
-  },
-  {
-   "title": "Symfony AI Spotlight: Mate, an Agent's Way into Your Runtime",
-   "link": "https://symfony.com/blog/symfony-ai-spotlight-mate-an-agent-s-way-into-your-runtime?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-14T07:47:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "An agent working on a Symfony project can read every line of your source code and still not know what actually happened on the last request: which query was slow, or what the profiler already recorded five minutes ago, b",
    "image": null
   },
   {
