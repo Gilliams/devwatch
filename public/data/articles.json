@@ -1,15 +1,115 @@
 {
- "generatedAt": "2026-09-18T19:34:14.085Z",
+ "generatedAt": "2026-09-19T01:08:18.011Z",
  "articles": [
   {
-   "title": "Bloated Clouds, Anyone?",
-   "link": "https://dev.to/sharpvik/bloated-clouds-anyone-1jhc",
-   "date": "2026-09-18T19:25:58.000Z",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_maintenance_workers",
+   "link": "https://postgr.es/p/9v7",
+   "date": "2026-09-19T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "max_parallel_maintenance_workers is a ceiling, and most of the time something lower gets there first. It caps the number of parallel workers a single utility command may start. The default is 2, the context is user, and ",
+   "image": null
+  },
+  {
+   "title": "I Manage Servers for 6 Clients Solo. Here's the Exact Night-Routine That Stops 2 AM Disasters.",
+   "link": "https://dev.to/hive80lab/i-manage-servers-for-6-clients-solo-heres-the-exact-night-routine-that-stops-2-am-disasters-2hia",
+   "date": "2026-09-19T00:57:57.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR Conventional cloud platforms had to serve everyone, and they became bloated with features. Chasing the next big thing, they abandoned any attempt at improving developer experience, which is the reason clouds blew u",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpz9poh8vpg1mrrr52hzk.png"
+   "summary": "Six clients. One me. No on-call rotation. If you freelance or run an agency and servers came \"as part of the deal,\" this is the routine that keeps my phone silent. The year I didn't have it, I lost a retainer. Client's s",
+   "image": null
+  },
+  {
+   "title": "Mark Wong: Sizing an OLTP TPC-E-like workload, Part 1",
+   "link": "https://postgr.es/p/9v6",
+   "date": "2026-09-19T00:41:25.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I used AI tools to size an OLTP workload on an EC2 system, with DBT-5, a TPC-E-like fair-use implementation. I provided a systematic and mechanical plan for running a series of tests to determine what the appropriate sca",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_G7Avurtm0nWBHMyywgm2lFsjDXfsWg97Q7y9qEtSZAlMuUnKeUzq1gYzitKVpNQx3J8mbP9YBlfrxzidZC3MHav04TzDrQEy4_KAxwMl5CVpfBa9RpMhhvYFeiAsfXB3WvUUUX4T9JTz1Ta5P0EXWpAJYgo7MspNXX67h7Aof6FGM3CVj3uYg/w640-h397/throughput-survey-default.png"
+  },
+  {
+   "title": "\"The 3 questions that turn a chaos incident into a boring one\"",
+   "link": "https://dev.to/hive80lab/the-3-questions-that-turn-a-chaos-incident-into-a-boring-one-7af",
+   "date": "2026-09-19T00:33:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Boring incidents are a skill, not luck. The teams that make outages look boring all do the same three things in the first minutes — and none of them require a tool budget. 1. \"What changed?\" — asked out loud, before any ",
+   "image": null
+  },
+  {
+   "title": "A tiny offline linter for removed Kubernetes apiVersions before your control plane upgrades",
+   "link": "https://dev.to/readystacktools/a-tiny-offline-linter-for-removed-kubernetes-apiversions-before-your-control-plane-upgrades-4dle",
+   "date": "2026-09-19T00:10:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every managed upgrade I have been through had the same last-minute surprise: a chart written against extensions/v1beta1 or a policy/v1beta1 PodDisruptionBudget that only breaks on the cluster that already moved. I wrote ",
+   "image": null
+  },
+  {
+   "title": "57 small VS Code linters for regulation deadlines (CRA, cert 47-day cap, K8s removed APIs)",
+   "link": "https://dev.to/readystack/57-small-vs-code-linters-for-regulation-deadlines-cra-cert-47-day-cap-k8s-removed-apis-409j",
+   "date": "2026-09-19T00:10:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I kept losing days to things that were true last year: a Kubernetes manifest that still says extensions/v1beta1, a TLS cert plan written for 398 days when the cap is now 47, a Python project that ships without PEP 639 li",
+   "image": null
+  },
+  {
+   "title": "Agent stdout Is Not Your Test Plan",
+   "link": "https://dev.to/gitlab_3188/agent-stdout-is-not-your-test-plan-o4d",
+   "date": "2026-09-19T00:03:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Did your agent print All tests passed again today? Did you merge because the log felt complete? That habit is how fake green sneaks in. I keep hearing four myths about agent logs. They sound like engineering. They are no",
+   "image": null
+  },
+  {
+   "title": "Bypassing Omio Cloudflare Blocks by Scraping Virail Structured Data",
+   "link": "https://dev.to/crawlerbros/bypassing-omio-cloudflare-blocks-by-scraping-virail-structured-data-12h9",
+   "date": "2026-09-19T00:00:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Automated fare tracking across European transit corridors frequently runs into persistent Cloudflare 403 challenges. When scraping platforms like Omio directly, requests from standard datacenter infrastructure hit immedi",
+   "image": null
+  },
+  {
+   "title": "200,000 exposed MCP servers later, the boring checks still win",
+   "link": "https://dev.to/kielltampubolon/200000-exposed-mcp-servers-later-the-boring-checks-still-win-4lck",
+   "date": "2026-09-19T00:00:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The numbers from this spring keep sitting in my head. OX Security's April disclosure put vulnerable MCP instances at roughly two hundred thousand, across a supply chain footprint of more than 150 million package download",
+   "image": null
+  },
+  {
+   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+   "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+   "date": "2026-09-18T23:57:57.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irreg",
+   "image": null
+  },
+  {
+   "title": "Why AI is not going to replace software engineers (from a dev who uses it daily)",
+   "link": "https://dev.to/tarikmostafa/why-ai-is-not-going-to-replace-software-engineers-from-a-dev-who-uses-it-daily-eme",
+   "date": "2026-09-18T23:39:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hey everyone! 👋 Over the last few months, I've had the same conversation with dozens of fellow developers. Almost everyone is asking the same question: \"If Claude, ChatGPT, and Copilot can write code in 5 seconds... wha",
+   "image": null
   },
   {
    "title": "Note on 18th September 2026",
@@ -22,16 +122,6 @@
    "image": null
   },
   {
-   "title": "The Post-Mortem of Project OT: What Meta’s Scrapped 60% AI Downsizing Plan Reveals About the Real Limits of Coding Agents",
-   "link": "https://dev.to/isuvo/the-post-mortem-of-project-ot-what-metas-scrapped-60-ai-downsizing-plan-reveals-about-the-real-2jn0",
-   "date": "2026-09-18T19:15:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "⚙️ The Illusion of the Post-Developer Era In the technology sector, whispers of radical automation often precede structural shifts. But few initiatives have been as stark—or as instructive—as Meta’s recently scrapped \"Pr",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnyixajnyugrfgp2wepyd.jpg"
-  },
-  {
    "title": "Quoting Thariq Shihipar",
    "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
    "date": "2026-09-18T19:09:27.000Z",
@@ -42,64 +132,14 @@
    "image": null
   },
   {
-   "title": "The Fed Just Moved Rates. Your Finance Automation Needs a Better Event Model.",
-   "link": "https://dev.to/tali_from_portali/the-fed-just-moved-rates-your-finance-automation-needs-a-better-event-model-4f5f",
-   "date": "2026-09-18T19:01:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The Fed Just Moved Rates. Your Finance Automation Needs a Better Event Model. A rate decision is usually discussed as a macroeconomic event: the central bank changes its target range, markets reprice, and businesses revi",
-   "image": null
-  },
-  {
-   "title": "Opsgenie Dies April 2027. Here Is What to Move To",
-   "link": "https://dev.to/moksh/opsgenie-dies-april-2027-here-is-what-to-move-to-1ca4",
-   "date": "2026-09-18T19:00:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "On-call tooling is the least glamorous thing in an observability stack and the only part that has to work while everything else is broken. It survives people quitting, phones on silent, and escalation chains nobody rehea",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9tmtos75ss0c39q3hpk5.webp"
-  },
-  {
-   "title": "Settra Ransomware: The Attack Chain Behind a Misspelled Log Channel",
-   "link": "https://dev.to/xpert4cyber/settra-ransomware-the-attack-chain-behind-a-misspelled-log-channel-5gdb",
-   "date": "2026-09-18T18:49:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Settra Ransomware: The Attack Chain Behind a Misspelled Log Channel In September 2026, Huntress caught a ransomware group mid-incident at a manufacturing company. The attackers had covered almost every track — cleared Wi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzuq2604beo8h4gufu689.jpg"
-  },
-  {
-   "title": "Cloudflare Workflows now bills per step — one developer's bill jumped from $0 to ~$1,600/month",
-   "link": "https://dev.to/julianros/cloudflare-workflows-now-bills-per-step-one-developers-bill-jumped-from-0-to-1600month-1mnb",
-   "date": "2026-09-18T18:37:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cloudflare Workflows — the durable-execution engine Cloudflare built on top of Workers for orchestrating multi-step, long-running jobs — started charging per step on August 10, 2026. One developer who'd already migrated ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxxsl14wvsci1x4svz7l7.png"
-  },
-  {
-   "title": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch",
-   "link": "https://dev.to/naman_2004/building-a-production-grade-end-to-end-mlops-pipeline-from-scratch-l9h",
-   "date": "2026-09-18T18:21:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Building a Production-Grade End-to-End MLOps Pipeline from Scratch Most machine learning tutorials end at model.fit(). But in the real world, training a model is barely 10% of the work. The remaining 90% is everything th",
-   "image": null
-  },
-  {
-   "title": "Demystifying Cloud in a Bottle: A New Approach to the Self-Hosted Stack",
-   "link": "https://dev.to/lightningdev123/demystifying-cloud-in-a-bottle-a-new-approach-to-the-self-hosted-stack-5dhp",
-   "date": "2026-09-18T18:21:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction to the Modern Self-Hosting Frontier Self-hosting has long been the domain of the dedicated sysadmin, characterized by endless Docker Compose files, manual reverse proxy configurations, and the perpetual fear",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1zcyfoy6xgvl4ol13cgu.webp"
+   "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+   "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+   "date": "2026-09-18T18:02:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
   },
   {
    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
@@ -150,6 +190,16 @@
    "source": "Simon Willison",
    "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from ea",
    "image": null
+  },
+  {
+   "title": "Electric Citizen: Keeping Your Website Fit",
+   "link": "https://electriccitizen.com/insights/post-launch-website-maintenance",
+   "date": "2026-09-18T13:09:21.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Launching your site isn’t the end of the work. That’s the bad news. Even after you settle back into your day-to-day, your website still needs you. There’s still so much you can and should do. The good news: the work spre",
+   "image": "https://electriccitizen.com/sites/default/files/styles/medium_non_crop_non_webp/public/2026-09/featured-website-fit.jpg?itok=jk8Ln3eG"
   },
   {
    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
@@ -262,16 +312,6 @@
    "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
   },
   {
-   "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-   "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-   "date": "2026-09-18T06:17:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
-  },
-  {
    "title": "Fresh Package: Laravel Package Skeleton with Testbench, CI, and Boost Integration",
    "link": "https://laravel-news.com/fresh-package-laravel-package-skeleton?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-18T03:20:58.000Z",
@@ -382,16 +422,6 @@
    "image": null
   },
   {
-   "title": "Gülçin Yıldırım Jelínek: Postgres week in the Netherlands: PGDay Lowlands & Percona Live 2026",
-   "link": "https://postgr.es/p/9uX",
-   "date": "2026-09-17T14:02:33.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Last week, I spent three days in the Netherlands and gave two talks at two conferences: a lightning talk at PGDay Lowlands in Utrecht on Thursday, September 10, and a session at Percona Live in Amsterdam on Friday, Septe",
-   "image": null
-  },
-  {
    "title": "I don't like LLMs",
    "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
    "date": "2026-09-17T13:50:00.000Z",
@@ -402,16 +432,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Drupal content modeling for answer coverage: fields, not prose",
-   "link": "https://www.droptica.com/blog/drupal-content-modeling-answer-coverage-fields-not-prose/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-17T13:18:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Prices, specifications and proof buried in body copy are hard to compare, filter or reuse across pages, feeds and AI answers. Drupal content modeling stores those facts as fields, connects related records with entity ref",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20content%20modeling%20for%20answer%20coverage%20fields%2C%20not%20prose_1.png"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Beyond the Demo: Shipping Real AI Features",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-the-demo-shipping-real-ai-features?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-17T12:33:00.000Z",
@@ -420,16 +440,6 @@
    "source": "Symfony Blog",
    "summary": "Ready to level up your PHP and Symfony skills? SymfonyCon Warsaw 2026 lands in Poland this November 26-27! Gather with fellow developers from around the globe for two dense days of learning, featuring 3 parallel tracks a",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "Ryan Booz: Postgres Monitoring for SQL Server DBAs: Statistics and Logs 101",
-   "link": "https://postgr.es/p/9uZ",
-   "date": "2026-09-17T12:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "As a SQL Server developer and DBA learning Postgres, it’s easy to expect that the information you need for meaningful query and performance tuning will be readily available. For years (decades, maybe) you’ve learned the ",
-   "image": null
   },
   {
    "title": "Evaluating LLM models for DBA tasks",
@@ -499,16 +509,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_background_task() method. Thanks, Alex Gar",
-   "image": null
-  },
-  {
-   "title": "datasette 0.65.5",
-   "link": "https://simonwillison.net/2026/Sep/16/datasette-2/",
-   "date": "2026-09-16T23:51:08.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: securit",
    "image": null
   },
   {
@@ -952,6 +952,26 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nc13z6ehpnla8cdrym18.jpg"
   },
   {
+   "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+   "link": "https://css-tricks.com/css-random-function-polyfill/",
+   "date": "2026-08-31T15:12:19.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers. Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
+   "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
+   "link": "https://css-tricks.com/whats-important-18/",
+   "date": "2026-08-31T14:08:55.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+   "image": null
+  },
+  {
    "title": "Forum PHP 2026 - Paris (France)",
    "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
    "date": "2026-08-31T11:42:50.000Z",
@@ -982,6 +1002,26 @@
    "image": null
   },
   {
+   "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+   "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+   "date": "2026-08-27T14:41:06.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it. Creating Web Widgets Using the Document Picture-in-Picture API originally handwrit",
+   "image": null
+  },
+  {
+   "title": "animation-trigger",
+   "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+   "date": "2026-08-26T15:38:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs. animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get t",
+   "image": null
+  },
+  {
    "title": "The asteroid hitting frontend development",
    "link": "https://frontendfoc.us/issues/755",
    "date": "2026-08-26T00:00:00.000Z",
@@ -1002,6 +1042,16 @@
    "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
   },
   {
+   "title": "MicroLighter: Syntax Highlighter",
+   "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+   "date": "2026-08-25T14:10:34.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave. MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-T",
+   "image": null
+  },
+  {
    "title": "\"A\" for \"Average\"",
    "link": "https://stitcher.io/blog/a-for-average",
    "date": "2026-08-25T00:00:00.000Z",
@@ -1009,6 +1059,26 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/a-for-average",
+   "image": null
+  },
+  {
+   "title": "WordPress PHP-Only Block Registration",
+   "link": "https://css-tricks.com/wordpress-php-block-registration/",
+   "date": "2026-08-24T13:54:02.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP. WordPress PHP-Only Block Registration originally handwritten and publ",
+   "image": null
+  },
+  {
+   "title": "Resolved: CSS Class Prefix Selector",
+   "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+   "date": "2026-08-21T15:13:03.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*. Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Trick",
    "image": null
   },
   {
@@ -1029,6 +1099,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/summer-chaos",
+   "image": null
+  },
+  {
+   "title": "CSS Navigation Matching, Early Days",
+   "link": "https://css-tricks.com/css-navigation-matching-early-days/",
+   "date": "2026-08-19T14:44:41.000Z",
+   "theme": "frontend",
+   "themeName": "FrontEnd",
+   "source": "CSS-Tricks",
+   "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
   },
   {
