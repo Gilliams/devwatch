@@ -1,6 +1,136 @@
 {
- "generatedAt": "2026-09-19T01:08:18.011Z",
+ "generatedAt": "2026-09-19T09:26:52.624Z",
  "articles": [
+  {
+   "title": "The 2am Failure Nobody Prices In: Unattended-Server Ops for Small IT Teams",
+   "link": "https://dev.to/hive80lab/the-2am-failure-nobody-prices-in-unattended-server-ops-for-small-it-teams-3e61",
+   "date": "2026-09-19T09:17:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When a client calls at 2am with a dead server, the difference between a panic and a routine is whether somebody wrote the runbook before. We package unattended-server operations for small IT teams and MSPs: Heartbeat mon",
+   "image": null
+  },
+  {
+   "title": "Ops Automation Library: 7 Essential Tools Every Small Team Needs",
+   "link": "https://dev.to/hive80lab/ops-automation-library-7-essential-tools-every-small-team-needs-92k",
+   "date": "2026-09-19T09:13:57.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Ops Automation Library: 7 Essential Tools Every Small Team Needs Small teams don't need 50 tools. They need 7 that solve 80% of problems. I've worked with 20+ small teams (5-50 employees) across restaurants, security ops",
+   "image": null
+  },
+  {
+   "title": "Quick Tip: How to Cut AWS Bills by 40% in One Weekend (5 Practical Steps)",
+   "link": "https://dev.to/hive80lab/quick-tip-how-to-cut-aws-bills-by-40-in-one-weekend-5-practical-steps-2i0k",
+   "date": "2026-09-19T09:13:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Quick Tip: How to Cut AWS Bills by 40% in One Weekend (5 Practical Steps) Problem: Cloud bills are eating your startup's runway Starting a business is hard enough. Watching your AWS bill eat into your runway is worse. I ",
+   "image": null
+  },
+  {
+   "title": "Name a Merge-Readiness Owner: A One-Page Wiki SOP Before Agent Diffs Hit Main",
+   "link": "https://dev.to/devx_6522/name-a-merge-readiness-owner-a-one-page-wiki-sop-before-agent-diffs-hit-main-30h7",
+   "date": "2026-09-19T09:12:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Last Tuesday your teammate opened a twelve-file pull request that an overnight coding agent had drafted alone. Continuous integration reported green, the description quoted the chat transcript, and nobody on the rotation",
+   "image": null
+  },
+  {
+   "title": "Postmortem: Green on the Agent Box, Red at Checkout",
+   "link": "https://dev.to/jarynagent/postmortem-green-on-the-agent-box-red-at-checkout-3307",
+   "date": "2026-09-19T09:07:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You were packing the laptop when checkout alerts started stacking in Slack like unpaid invoices. The agent had opened a tidy pull request two hours earlier, and every check on that branch was green. You merged it because",
+   "image": null
+  },
+  {
+   "title": "I open-sourced the cockpit we used to understand huge engineering departments in days",
+   "link": "https://dev.to/yaniv_zalevas_a91253c56bb/i-open-sourced-the-cockpit-we-used-to-understand-huge-engineering-departments-in-days-4h6m",
+   "date": "2026-09-19T09:07:13.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "My name is Yaniv, and I run Codpal, a CTO-as-a-service company. Over the years we've walked into a lot of new companies, and we always needed the same thing: a fast understanding of how engineering actually runs — what's",
+   "image": null
+  },
+  {
+   "title": "The 2am escalation nobody wrote a runbook for: when the agent itself is the incident",
+   "link": "https://dev.to/hive80lab/the-2am-escalation-nobody-wrote-a-runbook-for-when-the-agent-itself-is-the-incident-3o05",
+   "date": "2026-09-19T09:06:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your monitoring, healing and deployment agent has been running for weeks. Then at 2am it does something no human would: it \"fixes\" a flapping service by wiping its state, declares victory, and logs a green status. Congra",
+   "image": null
+  },
+  {
+   "title": "Into The Depths of Kubernetes: Multi-Tenancy Part 1",
+   "link": "https://dev.to/naveens16/into-the-depths-of-kubernetes-multi-tenancy-part-1-1oae",
+   "date": "2026-09-19T09:03:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Welcome to the launch of my new blog series, \"Into The Depths of Kubernetes,\" where we are peeling back the abstraction layers to explore the architectural patterns, runtime mechanics, and production realities that truly",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6kj8vl1vy7295dnobhlc.jpg"
+  },
+  {
+   "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+   "date": "2026-09-19T08:18:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
+  },
+  {
+   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+   "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+   "date": "2026-09-19T07:51:34.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
+  },
+  {
+   "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+   "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+   "date": "2026-09-19T07:14:54.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
+  },
+  {
+   "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+   "date": "2026-09-19T06:24:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
+  },
+  {
+   "title": "Gspikes: Drupal Hosting Compared: Speed Data From 424 Government Sites",
+   "link": "https://gspikes.com/drupal-hosting-comparison/",
+   "date": "2026-09-19T03:54:45.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "We measured server response time on all 424 Drupal sites in the US federal and state .gov registry. Pantheon vs Acquia, CDN tails, and 12 sites on unsupported Drupal.",
+   "image": null
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_maintenance_workers",
    "link": "https://postgr.es/p/9v7",
@@ -12,14 +142,14 @@
    "image": null
   },
   {
-   "title": "I Manage Servers for 6 Clients Solo. Here's the Exact Night-Routine That Stops 2 AM Disasters.",
-   "link": "https://dev.to/hive80lab/i-manage-servers-for-6-clients-solo-heres-the-exact-night-routine-that-stops-2-am-disasters-2hia",
-   "date": "2026-09-19T00:57:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Six clients. One me. No on-call rotation. If you freelance or run an agency and servers came \"as part of the deal,\" this is the routine that keeps my phone silent. The year I didn't have it, I lost a retainer. Client's s",
-   "image": null
+   "title": "Omega8.cc: Two Old Friends Move In",
+   "link": "https://omega8.cc/blog/two-old-friends-move-in",
+   "date": "2026-09-19T00:53:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "BOA now runs Textpattern and Grav 2 sites inside the Ægir control panel, next to Drupal and Backdrop: install, backup, restore, clone, an upgrade done on a copy while the original keeps serving, then rename and cutover, ",
+   "image": "https://omega8.cc/images/7/a/c/6/4/7ac6425769d4759d738000ba046b1f4f3e5d5d42-two-old-friends-move-in-anime-halo.png"
   },
   {
    "title": "Mark Wong: Sizing an OLTP TPC-E-like workload, Part 1",
@@ -32,66 +162,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_G7Avurtm0nWBHMyywgm2lFsjDXfsWg97Q7y9qEtSZAlMuUnKeUzq1gYzitKVpNQx3J8mbP9YBlfrxzidZC3MHav04TzDrQEy4_KAxwMl5CVpfBa9RpMhhvYFeiAsfXB3WvUUUX4T9JTz1Ta5P0EXWpAJYgo7MspNXX67h7Aof6FGM3CVj3uYg/w640-h397/throughput-survey-default.png"
   },
   {
-   "title": "\"The 3 questions that turn a chaos incident into a boring one\"",
-   "link": "https://dev.to/hive80lab/the-3-questions-that-turn-a-chaos-incident-into-a-boring-one-7af",
-   "date": "2026-09-19T00:33:36.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Boring incidents are a skill, not luck. The teams that make outages look boring all do the same three things in the first minutes — and none of them require a tool budget. 1. \"What changed?\" — asked out loud, before any ",
-   "image": null
-  },
-  {
-   "title": "A tiny offline linter for removed Kubernetes apiVersions before your control plane upgrades",
-   "link": "https://dev.to/readystacktools/a-tiny-offline-linter-for-removed-kubernetes-apiversions-before-your-control-plane-upgrades-4dle",
-   "date": "2026-09-19T00:10:01.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every managed upgrade I have been through had the same last-minute surprise: a chart written against extensions/v1beta1 or a policy/v1beta1 PodDisruptionBudget that only breaks on the cluster that already moved. I wrote ",
-   "image": null
-  },
-  {
-   "title": "57 small VS Code linters for regulation deadlines (CRA, cert 47-day cap, K8s removed APIs)",
-   "link": "https://dev.to/readystack/57-small-vs-code-linters-for-regulation-deadlines-cra-cert-47-day-cap-k8s-removed-apis-409j",
-   "date": "2026-09-19T00:10:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I kept losing days to things that were true last year: a Kubernetes manifest that still says extensions/v1beta1, a TLS cert plan written for 398 days when the cap is now 47, a Python project that ships without PEP 639 li",
-   "image": null
-  },
-  {
-   "title": "Agent stdout Is Not Your Test Plan",
-   "link": "https://dev.to/gitlab_3188/agent-stdout-is-not-your-test-plan-o4d",
-   "date": "2026-09-19T00:03:07.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Did your agent print All tests passed again today? Did you merge because the log felt complete? That habit is how fake green sneaks in. I keep hearing four myths about agent logs. They sound like engineering. They are no",
-   "image": null
-  },
-  {
-   "title": "Bypassing Omio Cloudflare Blocks by Scraping Virail Structured Data",
-   "link": "https://dev.to/crawlerbros/bypassing-omio-cloudflare-blocks-by-scraping-virail-structured-data-12h9",
-   "date": "2026-09-19T00:00:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Automated fare tracking across European transit corridors frequently runs into persistent Cloudflare 403 challenges. When scraping platforms like Omio directly, requests from standard datacenter infrastructure hit immedi",
-   "image": null
-  },
-  {
-   "title": "200,000 exposed MCP servers later, the boring checks still win",
-   "link": "https://dev.to/kielltampubolon/200000-exposed-mcp-servers-later-the-boring-checks-still-win-4lck",
-   "date": "2026-09-19T00:00:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The numbers from this spring keep sitting in my head. OX Security's April disclosure put vulnerable MCP instances at roughly two hundred thousand, across a supply chain footprint of more than 150 million package download",
-   "image": null
-  },
-  {
    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
    "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
    "date": "2026-09-18T23:57:57.000Z",
@@ -99,16 +169,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irreg",
-   "image": null
-  },
-  {
-   "title": "Why AI is not going to replace software engineers (from a dev who uses it daily)",
-   "link": "https://dev.to/tarikmostafa/why-ai-is-not-going-to-replace-software-engineers-from-a-dev-who-uses-it-daily-eme",
-   "date": "2026-09-18T23:39:19.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hey everyone! 👋 Over the last few months, I've had the same conversation with dozens of fellow developers. Almost everyone is asking the same question: \"If Claude, ChatGPT, and Copilot can write code in 5 seconds... wha",
    "image": null
   },
   {
@@ -150,6 +210,16 @@
    "source": "The Hacker News",
    "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+  },
+  {
+   "title": "Shaun Thomas: Looking Forward to Postgres 19: Epilogue",
+   "link": "https://postgr.es/p/9v8",
+   "date": "2026-09-18T16:52:18.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "The future of Postgres is bright. So bright in fact, that I spent almost a dozen posts expounding on the upcoming features it would bring, with veritable stars in my eyes. Unfortunately, while I was out counting my chick",
+   "image": null
   },
   {
    "title": "Drupal AI Initiative: Intelligent Layouts: Drupal Canvas AI and the Context Layer",
@@ -252,46 +322,6 @@
    "image": null
   },
   {
-   "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-   "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-   "date": "2026-09-18T11:01:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost wer",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
-  },
-  {
-   "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-   "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-   "date": "2026-09-18T11:01:01.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed versio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
-  },
-  {
-   "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-   "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-   "date": "2026-09-18T10:40:06.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
-  },
-  {
-   "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-   "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-   "date": "2026-09-18T09:18:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
-  },
-  {
    "title": "Jimmy Angelakos: postgres.scot is live, August PostgresEDI meetup",
    "link": "https://postgr.es/p/9v3",
    "date": "2026-09-18T08:30:00.000Z",
@@ -330,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Nobody asked for max_notify_queue_pages. It exists because a limit that used to enforce itself stopped doing so, and something had to take its place. LISTEN/NOTIFY runs on a single queue for the whole cluster, stored as ",
    "image": null
-  },
-  {
-   "title": "Omega8.cc: The Valet Key",
-   "link": "https://omega8.cc/blog/the-valet-key",
-   "date": "2026-09-18T00:36:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Every login on a BOA account is a key of one kind, and the ring holds six of them: your own panel login and your oN.ftp shell open everything; a colleague's login to the Ægir panel holds one of two roles, Client, which c",
-   "image": "https://omega8.cc/images/1/b/0/a/5/1b0a53a04c93d95605b7ac7e88b19857d555d2f8-the-valet-key-anime-halo.png"
   },
   {
    "title": "Mikhail Shytsko: Your Agent Is Reading Someone Else's Tenant",
@@ -392,16 +412,6 @@
    "image": null
   },
   {
-   "title": "Talking Drupal: Talking Drupal #570 - Laravel & Marketing PHP",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-570-laravel-marketing-php",
-   "date": "2026-09-17T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about Laravel, Marketing, and The PHP Foundation with guest Matt Stauffer. We'll also cover Formdazzle as our module of the week. For show notes visit: https://www.talkingDrupal.com/570 Topics What I",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: The Call Is Coming From Inside the Session",
    "link": "https://postgr.es/p/9uY",
    "date": "2026-09-17T16:00:00.000Z",
@@ -409,16 +419,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Role-level timeouts and read-only flags sound safe until you realize the session can change them in one statement.",
-   "image": null
-  },
-  {
-   "title": "Muhammad Aqeel: Flexible Deployment: What Enterprise-Grade Self-Hosting Actually Demands",
-   "link": "https://postgr.es/p/9u_",
-   "date": "2026-09-17T15:31:54.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Ask a database vendor about on-prem and you'll usually get a one-line answer: 'we're open source, you can just self-host it.' For a hobby project, fine. For an enterprise, that line rarely survives contact with productio",
    "image": null
   },
   {
