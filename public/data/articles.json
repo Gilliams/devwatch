@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-09-19T09:26:52.624Z",
+ "generatedAt": "2026-09-19T14:22:37.212Z",
  "articles": [
   {
-   "title": "The 2am Failure Nobody Prices In: Unattended-Server Ops for Small IT Teams",
-   "link": "https://dev.to/hive80lab/the-2am-failure-nobody-prices-in-unattended-server-ops-for-small-it-teams-3e61",
-   "date": "2026-09-19T09:17:03.000Z",
+   "title": "The Orphaned .OST Dilemma: Recovering Exchange Mailboxes Without MAPI Profile Locks",
+   "link": "https://dev.to/prismmigration/the-orphaned-ost-dilemma-recovering-exchange-mailboxes-without-mapi-profile-locks-3jpn",
+   "date": "2026-09-19T14:12:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "When a client calls at 2am with a dead server, the difference between a panic and a routine is whether somebody wrote the runbook before. We package unattended-server operations for small IT teams and MSPs: Heartbeat mon",
+   "summary": "When an on-premise Microsoft Exchange server crashes, an Active Directory domain gets decommissioned, or an employee is abruptly offboarded, system administrators frequently inherit a major data recovery challenge: A mas",
    "image": null
   },
   {
-   "title": "Ops Automation Library: 7 Essential Tools Every Small Team Needs",
-   "link": "https://dev.to/hive80lab/ops-automation-library-7-essential-tools-every-small-team-needs-92k",
-   "date": "2026-09-19T09:13:57.000Z",
+   "title": "We kept arguing about GPT vs Claude and missed the 2x long-context cost blowing up our agent runs",
+   "link": "https://dev.to/lars_winstand/we-kept-arguing-about-gpt-vs-claude-and-missed-the-2x-long-context-cost-blowing-up-our-agent-runs-21cm",
+   "date": "2026-09-19T14:09:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Ops Automation Library: 7 Essential Tools Every Small Team Needs Small teams don't need 50 tools. They need 7 that solve 80% of problems. I've worked with 20+ small teams (5-50 employees) across restaurants, security ops",
+   "summary": "A thing finally clicked for me while debugging an agent trace: we were spending way too much time arguing about model choice, and not enough time looking at the giant pile of context getting replayed on every step. Not u",
    "image": null
   },
   {
-   "title": "Quick Tip: How to Cut AWS Bills by 40% in One Weekend (5 Practical Steps)",
-   "link": "https://dev.to/hive80lab/quick-tip-how-to-cut-aws-bills-by-40-in-one-weekend-5-practical-steps-2i0k",
-   "date": "2026-09-19T09:13:20.000Z",
+   "title": "Fastlane for Teams: Reusable Lanes, Secrets, and CI Parity",
+   "link": "https://dev.to/beefedai/fastlane-for-teams-reusable-lanes-secrets-and-ci-parity-5h5m",
+   "date": "2026-09-19T14:01:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Quick Tip: How to Cut AWS Bills by 40% in One Weekend (5 Practical Steps) Problem: Cloud bills are eating your startup's runway Starting a business is hard enough. Watching your AWS bill eat into your runway is worse. I ",
+   "summary": "The symptoms are predictable: developers run lanes locally and everything works, CI fails; one-off ad-hoc lanes proliferate in Fastfile; signing credentials live on laptops or in a shared drive; test runs differ between ",
    "image": null
   },
   {
-   "title": "Name a Merge-Readiness Owner: A One-Page Wiki SOP Before Agent Diffs Hit Main",
-   "link": "https://dev.to/devx_6522/name-a-merge-readiness-owner-a-one-page-wiki-sop-before-agent-diffs-hit-main-30h7",
-   "date": "2026-09-19T09:12:10.000Z",
+   "title": "The 3-Line Status Update That Stops Managed-Service Clients Churning",
+   "link": "https://dev.to/hive80lab/the-3-line-status-update-that-stops-managed-service-clients-churning-514n",
+   "date": "2026-09-19T14:01:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Last Tuesday your teammate opened a twelve-file pull request that an overnight coding agent had drafted alone. Continuous integration reported green, the description quoted the chat transcript, and nobody on the rotation",
+   "summary": "Free sample: the first-30-minutes incident runbook — grab it here — no email needed. Every managed-services client has one unanswered question during an outage: do they actually know what's happening? Silence answers it ",
    "image": null
   },
   {
-   "title": "Postmortem: Green on the Agent Box, Red at Checkout",
-   "link": "https://dev.to/jarynagent/postmortem-green-on-the-agent-box-red-at-checkout-3307",
-   "date": "2026-09-19T09:07:39.000Z",
+   "title": "Your LLM Pipeline Never Throws: Three Guardrails for Silent AI Failure",
+   "link": "https://dev.to/robat_das_3c6e956212f6408/your-llm-pipeline-never-throws-three-guardrails-for-silent-ai-failure-5b6m",
+   "date": "2026-09-19T13:42:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You were packing the laptop when checkout alerts started stacking in Slack like unpaid invoices. The agent had opened a tidy pull request two hours earlier, and every check on that branch was green. You merged it because",
+   "summary": "A crashed service pages someone at 3am. A model that's quietly gotten worse ships a clean 200 and nobody finds out for six weeks. That asymmetry is the actual bug in most production AI. Every other component in your stac",
    "image": null
   },
   {
-   "title": "I open-sourced the cockpit we used to understand huge engineering departments in days",
-   "link": "https://dev.to/yaniv_zalevas_a91253c56bb/i-open-sourced-the-cockpit-we-used-to-understand-huge-engineering-departments-in-days-4h6m",
-   "date": "2026-09-19T09:07:13.000Z",
+   "title": "Structuring Liquipedia Esports Portal Data via Scraper Runs",
+   "link": "https://dev.to/crawlerbros/structuring-liquipedia-esports-portal-data-via-scraper-runs-127k",
+   "date": "2026-09-19T13:38:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "My name is Yaniv, and I run Codpal, a CTO-as-a-service company. Over the years we've walked into a lot of new companies, and we always needed the same thing: a fast understanding of how engineering actually runs — what's",
+   "summary": "Standardizing Community-Maintained Esports Profiles Tracking roster changes, tournament standings, and player profiles across multiple esports titles presents a persistent data engineering challenge. Community wikis like",
    "image": null
   },
   {
-   "title": "The 2am escalation nobody wrote a runbook for: when the agent itself is the incident",
-   "link": "https://dev.to/hive80lab/the-2am-escalation-nobody-wrote-a-runbook-for-when-the-agent-itself-is-the-incident-3o05",
-   "date": "2026-09-19T09:06:51.000Z",
+   "title": "Defending Against Automated Botnet Floods Without Degrading Container CPU Footprints",
+   "link": "https://dev.to/qyleron-dev/defending-against-automated-botnet-floods-without-degrading-container-cpu-footprints-3bpf",
+   "date": "2026-09-19T13:35:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your monitoring, healing and deployment agent has been running for weeks. Then at 2am it does something no human would: it \"fixes\" a flapping service by wiping its state, declares victory, and logs a green status. Congra",
+   "summary": "A botnet-driven connection flood doesn't just threaten availability, it can quietly double or triple your container CPU bill before anyone notices, depending entirely on how your listener is built. This guide compares ho",
    "image": null
   },
   {
-   "title": "Into The Depths of Kubernetes: Multi-Tenancy Part 1",
-   "link": "https://dev.to/naveens16/into-the-depths-of-kubernetes-multi-tenancy-part-1-1oae",
-   "date": "2026-09-19T09:03:17.000Z",
+   "title": "Hello DEV Community! 👋 Building Web Apps & Sharing My Journey",
+   "link": "https://dev.to/moeez_irshad_dev/hello-dev-community-building-web-apps-sharing-my-journey-33jd",
+   "date": "2026-09-19T13:29:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Welcome to the launch of my new blog series, \"Into The Depths of Kubernetes,\" where we are peeling back the abstraction layers to explore the architectural patterns, runtime mechanics, and production realities that truly",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6kj8vl1vy7295dnobhlc.jpg"
+   "summary": "Hey everyone! 👋 I'm super excited to officially join the DEV community! 🚀 I'm a Full-Stack Developer passionate about building modern, responsive, and scalable web applications. My core stack revolves around: Frontend:",
+   "image": null
+  },
+  {
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "date": "2026-09-19T10:01:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+  },
+  {
+   "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+   "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+   "date": "2026-09-19T09:31:17.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
   },
   {
    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
@@ -232,16 +252,6 @@
    "image": null
   },
   {
-   "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-   "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-   "date": "2026-09-18T15:24:16.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The a",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
-  },
-  {
    "title": "The Drop Times: Native Observability 2.0.0 Measures Its Own Performance Cost",
    "link": "https://www.thedroptimes.com/72348/native-observability-2-0-0-overhead?utm_source=Drupal Planet",
    "date": "2026-09-18T15:03:26.000Z",
@@ -270,16 +280,6 @@
    "source": "Drupal Planet",
    "summary": "Launching your site isn’t the end of the work. That’s the bad news. Even after you settle back into your day-to-day, your website still needs you. There’s still so much you can and should do. The good news: the work spre",
    "image": "https://electriccitizen.com/sites/default/files/styles/medium_non_crop_non_webp/public/2026-09/featured-website-fit.jpg?itok=jk8Ln3eG"
-  },
-  {
-   "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-   "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-   "date": "2026-09-18T12:47:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889,",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
   },
   {
    "title": "SymfonyCon Warsaw 2026: Last 5 days for regular tickets!",
