@@ -1,6 +1,106 @@
 {
- "generatedAt": "2026-09-20T01:03:40.165Z",
+ "generatedAt": "2026-09-20T09:45:41.872Z",
  "articles": [
+  {
+   "title": "Nine teams were taking turns on one staging environment",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/nine-teams-were-taking-turns-on-one-staging-environment-5h16",
+   "date": "2026-09-20T09:35:25.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "We spent most of a morning investigating a staging failure in checkout, working through our own recent changes, before someone from another team mentioned they had run a migration the night before that renames a column w",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: AWS NAT Gateway Cost Spikes: VPC Endpoints & Flow Logs Deep-Dive",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-aws-nat-gateway-cost-spikes-vpc-endpoints-flow-logs-deep-dive-234c",
+   "date": "2026-09-20T09:26:19.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Комплексное обслуживание IT-инфраструктуры и компьютерной техники в Алматы: инженерный гайд 2026",
+   "link": "https://dev.to/itstandartkz/komplieksnoie-obsluzhivaniie-it-infrastruktury-i-kompiutiernoi-tiekhniki-v-almaty-inzhieniernyi-ghaid-2026-2gp8",
+   "date": "2026-09-20T09:24:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "В условиях непрерывной цифровизации коммерческого сектора стабильность корпоративной информационной среды становится ключевым фактором бесперебойной работы бизнеса. Отказоустойчивость серверов, регламентное резервное коп",
+   "image": null
+  },
+  {
+   "title": "Our cluster had kept every job it ever finished",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/our-cluster-had-kept-every-job-it-ever-finished-pd1",
+   "date": "2026-09-20T09:19:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Deploys started failing on a Thursday morning. All of them, in every namespace, with the same message from our rollout tool: timed out waiting for pods. The pods were healthy and running. The cluster simply could not ans",
+   "image": null
+  },
+  {
+   "title": "Optimizing Your GitHub Workflow: From Chaos to Continuous Delivery",
+   "link": "https://dev.to/devlyticks/optimizing-your-github-workflow-from-chaos-to-continuous-delivery-2694",
+   "date": "2026-09-20T09:12:55.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A well-optimized GitHub workflow can be the difference between a struggling team and a high-performing one. Let's explore how to transform your development process. ## The Anatomy of an Optimized Workflow An effective Gi",
+   "image": null
+  },
+  {
+   "title": "DevOps Maturity: Measuring Your Pipeline Performance",
+   "link": "https://dev.to/devlyticks/devops-maturity-measuring-your-pipeline-performance-3eob",
+   "date": "2026-09-20T09:12:09.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "DevOps maturity isn't just about having CI/CD pipelines—it's about optimizing your entire delivery process. Learn how to measure and improve your DevOps performance. ## The Four Pillars of DevOps Maturity Mature DevOps p",
+   "image": null
+  },
+  {
+   "title": "An Answer Is Free to Be Wrong, an Action Is Not",
+   "link": "https://dev.to/sergueyasaelshinder/an-answer-is-free-to-be-wrong-an-action-is-not-3gi5",
+   "date": "2026-09-20T09:11:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For two years the worst thing it could do You read it, you doubted it, you checked. A wrong answer cost you a minute Now it has hands. It edits the file. The arithmetic changed A wrong answer is inert. It sits there unti",
+   "image": null
+  },
+  {
+   "title": "DORA Metrics: The Complete Guide for Engineering Teams (2026)",
+   "link": "https://dev.to/devlyticks/dora-metrics-the-complete-guide-for-engineering-teams-2026-32c7",
+   "date": "2026-09-20T09:10:05.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In 2023, Google's State of DevOps report revealed that \"Elite\" engineering teams deploy 208 times more frequently than Low performers, and restore services 2,604 times faster after incidents. That's not magic — it's the ",
+   "image": null
+  },
+  {
+   "title": "A Week of Symfony #1029 (September 14–20, 2026)",
+   "link": "https://symfony.com/blog/a-week-of-symfony-1029-september-14-20-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-20T07:20:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "This week, Symfony maintenance versions 6.4.46, 7.4.19, and 8.1.7 were released. Meanwhile, we kicked off the \"New in Symfony 8.2\" blog series and SymfonyCasts published a new Symfony Security: The Basics course. Finally",
+   "image": null
+  },
+  {
+   "title": "Gspikes: What Adobe Experience Manager Actually Costs (and When to Leave)",
+   "link": "https://gspikes.com/adobe-experience-manager-cost/",
+   "date": "2026-09-20T01:51:55.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Adobe does not publish AEM pricing. Here is what it actually costs — licence, implementation, the specialist team you must keep — and how to tell when the renewal is funding software nobody uses.",
+   "image": null
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather",
    "link": "https://postgr.es/p/9va",
@@ -12,26 +112,6 @@
    "image": null
   },
   {
-   "title": "DKIM Key Rotation for Mail DNS TXT Records in 2026 (and Why Scheduling Wins)",
-   "link": "https://dev.to/ulricdonovan1564/dkim-key-rotation-for-mail-dns-txt-records-in-2026-and-why-scheduling-wins-3do6",
-   "date": "2026-09-20T00:40:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Short answer: schedule DKIM rotation and publish the matching DNS TXT record in the same job, then verify the sending domain before the job is considered successful. Waiting for an incident leaves the DNS half to human m",
-   "image": null
-  },
-  {
-   "title": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds",
-   "link": "https://dev.to/spmahapatra/part-15-optimizing-dockerfiles-with-multi-stage-builds-m47",
-   "date": "2026-09-20T00:18:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds Key Takeaways Platform engineers: Reduce base image sizes by 80% to 95% while enforcing zero-toolchain runtime environments across build pipelines. SREs on-call: E",
-   "image": null
-  },
-  {
    "title": "Henrietta Dombrovskaya: Major updates to pg_acm",
    "link": "https://postgr.es/p/9v9",
    "date": "2026-09-20T00:16:32.000Z",
@@ -39,66 +119,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "I did it! The most important thing I anticipated after leaving DRW was having more time for important work, and one of the top items on my to-do list was the pg_acm update. I already knew about two dozen bugs I needed to",
-   "image": null
-  },
-  {
-   "title": "Node.js Gaming Zone Operations: Customer-Facing DNS Guidance Generated from Records",
-   "link": "https://dev.to/celthyrdusk7341/nodejs-gaming-zone-operations-customer-facing-dns-guidance-generated-from-records-1f9f",
-   "date": "2026-09-20T00:04:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "TL;DR: generate customer-facing DNS instructions from the exact records the verifier will inspect. For a gaming team moving a zone away from a registrar-specific API, that makes the handoff document an output of the cont",
-   "image": null
-  },
-  {
-   "title": "Part 1 Dockerising and Standardising Compose",
-   "link": "https://dev.to/spmahapatra/part-1-dockerising-and-standardising-compose-38gh",
-   "date": "2026-09-19T23:42:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Part 1: Dockerising and Standardising Compose Navigation: Part 2: Caching API Calls Efficiently → Welcome to the team! If you are a new developer joining us, this series is your definitive onboarding guide. We are taking",
-   "image": null
-  },
-  {
-   "title": "Oops! Almost Leaked User Data with My AI Feature – A Wake-Up Call from API Terms of Service",
-   "link": "https://dev.to/masaoshimadaopen/oops-almost-leaked-user-data-with-my-ai-feature-a-wake-up-call-from-api-terms-of-service-39a9",
-   "date": "2026-09-19T23:30:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hey there, it's your friendly neighborhood dev, 38 years old, slinging code as an engineer by day and tinkering with AI trading bots on weekends. Recently, I decided to spice up a personal tool I'm building on the side b",
-   "image": null
-  },
-  {
-   "title": "Dependabot vs Renovate: Which One Stops the Monday Morning PR Flood?",
-   "link": "https://dev.to/libme/dependabot-vs-renovate-which-one-stops-the-monday-morning-pr-flood-47ao",
-   "date": "2026-09-19T22:55:43.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If your team is on GitHub, has fewer than a handful of repos, and mostly wants security patches to show up without anyone configuring anything, Dependabot is enough and you should turn it on today. If you have more than ",
-   "image": null
-  },
-  {
-   "title": "Separate DNS Zone and Subdomain Non Production Write Boundaries for Support Staging",
-   "link": "https://dev.to/urieldonovan6839/separate-dns-zone-and-subdomain-non-production-write-boundaries-for-support-staging-4ddj",
-   "date": "2026-09-19T22:18:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Keep staging DNS changes inside a delegated zone when the customer support admin console grants staging operators or automation write access. Short answer: a separate zone is the hard write boundary; a subdomain inside t",
-   "image": null
-  },
-  {
-   "title": "FAQ: Five Myths About Promoting Code Off a Free Agent Box",
-   "link": "https://dev.to/gitlab_3188/faq-five-myths-about-promoting-code-off-a-free-agent-box-1o73",
-   "date": "2026-09-19T22:11:12.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Did the free box just become your origin? I keep catching that assumption in review. A remote agent workspace is a draft. It is not a release channel. This FAQ is about promotion, not prompting. You drafted on a cheap re",
    "image": null
   },
   {
@@ -242,6 +262,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_G7Avurtm0nWBHMyywgm2lFsjDXfsWg97Q7y9qEtSZAlMuUnKeUzq1gYzitKVpNQx3J8mbP9YBlfrxzidZC3MHav04TzDrQEy4_KAxwMl5CVpfBa9RpMhhvYFeiAsfXB3WvUUUX4T9JTz1Ta5P0EXWpAJYgo7MspNXX67h7Aof6FGM3CVj3uYg/w640-h397/throughput-survey-default.png"
   },
   {
+   "title": "Ruohang Feng: PostgreSQL's Chinese Error Messages Were Seven Years Stale. Not Anymore.",
+   "link": "https://postgr.es/p/9vb",
+   "date": "2026-09-19T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Never set your PostgreSQL locale to zh_CN — that old rule expires with PostgreSQL 19. The Chinese message catalogs went seven years untouched and nearly got dropped from the release. A bone nobody could chew through in s",
+   "image": null
+  },
+  {
    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
    "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
    "date": "2026-09-18T23:57:57.000Z",
@@ -352,16 +382,6 @@
    "image": null
   },
   {
-   "title": "mark.ie: Unboxing the Drupal Compound Field Module",
-   "link": "https://mark.ie/blog/unboxing-the-drupal-compound-field-module",
-   "date": "2026-09-18T11:47:35.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Unboxing the Drupal Compound Field Module Compound field was released as an alpha release two days ago. It's getting a lot of people excited. Let's install it and see how it works. markconroy 18th Sep 2026",
-   "image": null
-  },
-  {
    "title": "Jimmy Angelakos: postgres.scot is live, August PostgresEDI meetup",
    "link": "https://postgr.es/p/9v3",
    "date": "2026-09-18T08:30:00.000Z",
@@ -400,16 +420,6 @@
    "source": "Planet PostgreSQL",
    "summary": "Nobody asked for max_notify_queue_pages. It exists because a limit that used to enforce itself stopped doing so, and something had to take its place. LISTEN/NOTIFY runs on a single queue for the whole cluster, stored as ",
    "image": null
-  },
-  {
-   "title": "Mikhail Shytsko: Your Agent Is Reading Someone Else's Tenant",
-   "link": "https://postgr.es/p/9v4",
-   "date": "2026-09-18T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Two client connections, opened one after the other through PgBouncer transaction mode, asked the same database whose rows they were allowed to see, and the second one got the first one's answer. It had set nothing, it ha",
-   "image": "https://seedfa.st/blog/pgbouncer-transaction-mode-2.svg"
   },
   {
    "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -630,16 +640,6 @@
    "source": "Percona Blog",
    "summary": "Focusing on Percona Server 8.4.11-11 My previous post (Performance Progression of Percona Server for MySQL 8.4) did a brief review of the performance changes in Percona Server for MySQL 8.4 released in 2026. I recommend ",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Symfony 8.1.7 released",
-   "link": "https://symfony.com/blog/symfony-8-1-7-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-15T07:15:39.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony 8.1.7 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
-   "image": null
   },
   {
    "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
