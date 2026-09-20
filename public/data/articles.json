@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-09-19T19:18:09.403Z",
+ "generatedAt": "2026-09-20T01:03:40.165Z",
  "articles": [
   {
-   "title": "FAQ: What a Free Agent Session Does Not Prove",
-   "link": "https://dev.to/gitlab_3188/faq-what-a-free-agent-session-does-not-prove-5e7",
-   "date": "2026-09-19T18:59:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Have you ever copied a patch from a free agent box? I keep hearing five claims in review threads. This FAQ treats those claims as testable myths. Some agents give free model access for drafting patches. Disclosure: This ",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather",
+   "link": "https://postgr.es/p/9va",
+   "date": "2026-09-20T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Neither of these parameters means what its name says. max_parallel_workers_per_gather is the most workers the planner is allowed to request for one plan node, and the planner usually requests fewer. max_parallel_workers ",
    "image": null
   },
   {
-   "title": "Security Headers Checklist 2026: What Actually Matters",
-   "link": "https://dev.to/webpixie/security-headers-checklist-2026-what-actually-matters-4e11",
-   "date": "2026-09-19T18:19:58.000Z",
+   "title": "DKIM Key Rotation for Mail DNS TXT Records in 2026 (and Why Scheduling Wins)",
+   "link": "https://dev.to/ulricdonovan1564/dkim-key-rotation-for-mail-dns-txt-records-in-2026-and-why-scheduling-wins-3do6",
+   "date": "2026-09-20T00:40:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Six headers cover most of the real risk: Content-Security-Policy, Strict-Transport-Security, a frame-blocking directive, X-Content-Type-Options, Referrer-Policy, and Permissions-Policy. Everything past that list is dimin",
+   "summary": "Short answer: schedule DKIM rotation and publish the matching DNS TXT record in the same job, then verify the sending domain before the job is considered successful. Waiting for an incident leaves the DNS half to human m",
    "image": null
   },
   {
-   "title": "Cosign Keyless Signing in GitHub Actions: Sign Images, Attest SBOMs, and Enforce It with Kyverno",
-   "link": "https://dev.to/devtocash/cosign-keyless-signing-in-github-actions-sign-images-attest-sboms-and-enforce-it-with-kyverno-2afk",
-   "date": "2026-09-19T18:17:27.000Z",
+   "title": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds",
+   "link": "https://dev.to/spmahapatra/part-15-optimizing-dockerfiles-with-multi-stage-builds-m47",
+   "date": "2026-09-20T00:18:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Cosign keyless signing means your GitHub Actions job proves its identity with its OIDC token",
+   "summary": "Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds Key Takeaways Platform engineers: Reduce base image sizes by 80% to 95% while enforcing zero-toolchain runtime environments across build pipelines. SREs on-call: E",
    "image": null
   },
   {
-   "title": "Your One Dependency Is Actually 67 Packages",
-   "link": "https://dev.to/moksh/your-one-dependency-is-actually-67-packages-38jf",
-   "date": "2026-09-19T17:56:22.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Nobody audits a lockfile. You pick a handful of libraries deliberately, and everything underneath them shows up because a resolver said so, gets refreshed by a bot, and is never looked at again. The question supply chain",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmr8ilia7o9zps1wme2au.webp"
-  },
-  {
-   "title": "504 vs 503: What Actually Triggers Each in nginx, ALB, and Cloudflare",
-   "link": "https://dev.to/webpixie/504-vs-503-what-actually-triggers-each-in-nginx-alb-and-cloudflare-45jl",
-   "date": "2026-09-19T17:46:53.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You're staring at a 5xx in your logs at 2am. Is it a 503 or a 504, and does the difference actually change what you do next? Yes — a lot. 503 means something upstream is deliberately refusing the request right now. 504 m",
+   "title": "Henrietta Dombrovskaya: Major updates to pg_acm",
+   "link": "https://postgr.es/p/9v9",
+   "date": "2026-09-20T00:16:32.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "I did it! The most important thing I anticipated after leaving DRW was having more time for important work, and one of the top items on my to-do list was the pg_acm update. I already knew about two dozen bugs I needed to",
    "image": null
   },
   {
-   "title": "Your Cypress Retry Passed - But the Test Is Still Telling You Something",
-   "link": "https://dev.to/raju_dandigam/your-cypress-retry-passed-but-the-test-is-still-telling-you-something-37hf",
-   "date": "2026-09-19T17:36:31.000Z",
+   "title": "Node.js Gaming Zone Operations: Customer-Facing DNS Guidance Generated from Records",
+   "link": "https://dev.to/celthyrdusk7341/nodejs-gaming-zone-operations-customer-facing-dns-guidance-generated-from-records-1f9f",
+   "date": "2026-09-20T00:04:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Attempt one fails. Attempt two passes. CI turns green. Did the system recover from harmless noise, or did the retry hide an intermittent product defect? Cypress retries are useful because browser tests meet networks, ani",
+   "summary": "TL;DR: generate customer-facing DNS instructions from the exact records the verifier will inspect. For a gaming team moving a zone away from a registrar-specific API, that makes the handoff document an output of the cont",
    "image": null
   },
   {
-   "title": "A Comprehensive Engineering Blueprint for Zero-Downtime Website and Server Migration",
-   "link": "https://dev.to/waseem771771/a-comprehensive-engineering-blueprint-for-zero-downtime-website-and-server-migration-424d",
-   "date": "2026-09-19T17:25:46.000Z",
+   "title": "Part 1 Dockerising and Standardising Compose",
+   "link": "https://dev.to/spmahapatra/part-1-dockerising-and-standardising-compose-38gh",
+   "date": "2026-09-19T23:42:12.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "For any production platform—whether an e-commerce marketplace, an enterprise ERP, an AI SaaS or a high-traffic business portal—server migration is a critical operation. Unplanned downtime, corrupted database records or m",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkisa6ol719k7680ep5kw.png"
+   "summary": "Part 1: Dockerising and Standardising Compose Navigation: Part 2: Caching API Calls Efficiently → Welcome to the team! If you are a new developer joining us, this series is your definitive onboarding guide. We are taking",
+   "image": null
   },
   {
-   "title": "Why your feature flag service should validate values",
-   "link": "https://dev.to/abeiderman/why-your-feature-flag-service-should-validate-values-2hp5",
-   "date": "2026-09-19T17:22:17.000Z",
+   "title": "Oops! Almost Leaked User Data with My AI Feature – A Wake-Up Call from API Terms of Service",
+   "link": "https://dev.to/masaoshimadaopen/oops-almost-leaked-user-data-with-my-ai-feature-a-wake-up-call-from-api-terms-of-service-39a9",
+   "date": "2026-09-19T23:30:17.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Every feature flag and remote config service offers the same value proposition: change how production behaves without deploying a new build. That is the purpose of the tool, but it is also the risk. A deploy goes through",
+   "summary": "Hey there, it's your friendly neighborhood dev, 38 years old, slinging code as an engineer by day and tinkering with AI trading bots on weekends. Recently, I decided to spice up a personal tool I'm building on the side b",
    "image": null
+  },
+  {
+   "title": "Dependabot vs Renovate: Which One Stops the Monday Morning PR Flood?",
+   "link": "https://dev.to/libme/dependabot-vs-renovate-which-one-stops-the-monday-morning-pr-flood-47ao",
+   "date": "2026-09-19T22:55:43.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If your team is on GitHub, has fewer than a handful of repos, and mostly wants security patches to show up without anyone configuring anything, Dependabot is enough and you should turn it on today. If you have more than ",
+   "image": null
+  },
+  {
+   "title": "Separate DNS Zone and Subdomain Non Production Write Boundaries for Support Staging",
+   "link": "https://dev.to/urieldonovan6839/separate-dns-zone-and-subdomain-non-production-write-boundaries-for-support-staging-4ddj",
+   "date": "2026-09-19T22:18:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Keep staging DNS changes inside a delegated zone when the customer support admin console grants staging operators or automation write access. Short answer: a separate zone is the hard write boundary; a subdomain inside t",
+   "image": null
+  },
+  {
+   "title": "FAQ: Five Myths About Promoting Code Off a Free Agent Box",
+   "link": "https://dev.to/gitlab_3188/faq-five-myths-about-promoting-code-off-a-free-agent-box-1o73",
+   "date": "2026-09-19T22:11:12.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Did the free box just become your origin? I keep catching that assumption in review. A remote agent workspace is a draft. It is not a release channel. This FAQ is about promotion, not prompting. You drafted on a cheap re",
+   "image": null
+  },
+  {
+   "title": "datasette-auth-github 1.0",
+   "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+   "date": "2026-09-19T19:52:02.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook",
+   "image": null
+  },
+  {
+   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+   "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+   "date": "2026-09-19T18:36:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
   },
   {
    "title": "California Sea Lion, Brandt's Cormorant",
@@ -110,16 +150,6 @@
    "source": "The Hacker News",
    "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
-  },
-  {
-   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-   "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-   "date": "2026-09-19T13:28:35.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
   },
   {
    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
@@ -399,36 +429,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal",
-   "image": null
-  },
-  {
-   "title": "Self-generated prompt injections in compaction summaries",
-   "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-   "date": "2026-09-17T20:57:55.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". Th",
-   "image": null
-  },
-  {
-   "title": "Joshua Drake: pgColumnar 1.0-alpha4 released",
-   "link": "https://postgr.es/p/9v1",
-   "date": "2026-09-17T19:18:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "SourceDocsProduct page2026-09-17pgColumnar 1.0-alpha4 release notesRelease date: 2026-09-17 Previous release: 1.0-alpha3 (2026-09-02)pgColumnar is a columnar table access method for PostgreSQL. This is the fourth alpha. ",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: The Call Is Coming From Inside the Session",
-   "link": "https://postgr.es/p/9uY",
-   "date": "2026-09-17T16:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Role-level timeouts and read-only flags sound safe until you realize the session can change them in one statement.",
    "image": null
   },
   {
@@ -1120,26 +1120,6 @@
    "source": "PortSwigger Research",
    "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
    "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-  },
-  {
-   "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
-   "link": "https://portswigger.net/research/crlf-powered-desync-attacks",
-   "date": "2026-08-05T23:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract In this paper we’ll show that HTTP Header Injection is severely underestimated. Forget open redirects or Cross-Site Scripting and instead, embrace the catastrophic potential of the CRLF-Power",
-   "image": "https://portswigger.net/cms/images/b1/c0/1c9f-twittercard-crlf-desync-slide-1920x1080.png"
-  },
-  {
-   "title": "Can AI do novel security research? Meet the HTTP Terminator",
-   "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-   "date": "2026-08-05T19:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
-   "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
   }
  ]
 }
