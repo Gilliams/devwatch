@@ -1,84 +1,144 @@
 {
- "generatedAt": "2026-09-21T17:00:16.074Z",
+ "generatedAt": "2026-09-21T21:01:14.452Z",
  "articles": [
   {
-   "title": "Cleaning Up Unused Indexes Without Breaking Performance",
-   "link": "https://dev.to/databaseinsights/cleaning-up-unused-indexes-without-breaking-performance-2li",
-   "date": "2026-09-21T16:55:31.000Z",
+   "title": "I audited my own ML linter and had to withdraw its best evidence",
+   "link": "https://dev.to/bedvibe_studios/i-audited-my-own-ml-linter-and-had-to-withdraw-its-best-evidence-1g96",
+   "date": "2026-09-21T20:54:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Indexes tend to outlive the problems that created them. It usually starts with a slow query. An engineer adds an index, the immediate issue goes away, and everyone moves on. At the time, the decision makes sense. The pro",
+   "summary": "I maintain trainproof, a deterministic linter for ML training runs. No model scores your run — every verdict is a rule that either fires or doesn't, and every finding prints the numbers behind it. Before releasing 0.22.0",
    "image": null
   },
   {
-   "title": "Build a Reproducible AI Agent Evaluation Lab with Docker Compose",
-   "link": "https://dev.to/raju_dandigam/build-a-reproducible-ai-agent-evaluation-lab-with-docker-compose-2ejm",
-   "date": "2026-09-21T16:51:33.000Z",
+   "title": "How to Check an Agent's Diagnosis Before It Touches Production",
+   "link": "https://dev.to/causely/how-to-check-an-agents-diagnosis-before-it-touches-production-fp6",
+   "date": "2026-09-21T20:53:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "An agent evaluation fails in CI but passes locally. Before blaming the model, ask whether both runs saw the same tool responses, database state, clock, configuration, and dependency versions. Containers cannot make an ex",
+   "summary": "Originally posted to causely.ai by Ben Yemini When teams get ready to add agents to their on-call workflows, the hard part is deciding when to let those agents act on production versus just advise. A root cause claim onl",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bnqdpeo2vm0t2k1lmhh.png"
+  },
+  {
+   "title": "We measured how long our own writes stay invisible and built around that number",
+   "link": "https://dev.to/unmannedops/we-measured-how-long-our-own-writes-stay-invisible-and-built-around-that-number-5dpg",
+   "date": "2026-09-21T20:40:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is a specific kind of surprise that only happens in",
    "image": null
   },
   {
-   "title": "The EDR was dead before the theft started",
-   "link": "https://dev.to/relayshield/the-edr-was-dead-before-the-theft-started-17jg",
-   "date": "2026-09-21T16:49:41.000Z",
+   "title": "Leaked-Key Drills: Why API Credential Inventory Defines Your Account Perimeter",
+   "link": "https://dev.to/barnabyvance6852/leaked-key-drills-why-api-credential-inventory-defines-your-account-perimeter-4jid",
+   "date": "2026-09-21T20:26:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Before the argument, something you can run. Rapuncel arrived through GitHub repositories impersonating real projects, so this screens a repository URL before you trust it, against Google Safe Browsing, a criminal indicat",
+   "summary": "A B2B SaaS on-call gets a page: API spend has crossed the drill ceiling, and requests from a tenant-facing worker are now being refused. The live credential inventory is the account's real security perimeter, so the firs",
    "image": null
   },
   {
-   "title": "When the Offload Doesn't Earn Its Dependency",
-   "link": "https://dev.to/ntctech/when-the-offload-doesnt-earn-its-dependency-4cng",
-   "date": "2026-09-21T16:49:22.000Z",
+   "title": "I read 65 CI files from 30 popular npm packages. 13 still run an end-of-life Node.",
+   "link": "https://dev.to/samson_ilands/i-read-65-ci-files-from-30-popular-npm-packages-13-still-run-an-end-of-life-node-i98",
+   "date": "2026-09-21T20:26:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Offload dependency is the test every specialized-hardware bet eventually has to pass, and VMware just showed what happens when the dependency stops earning its keep. At VMware Explore this month, Broadcom VP/GM Umesh Mah",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F773q9xrtdr5gsz540pgh.jpg"
-  },
-  {
-   "title": "Put the Arithmetic in the Tool: an MCP Server for an AWS Waste Scanner",
-   "link": "https://dev.to/aws-builders/put-the-arithmetic-in-the-tool-an-mcp-server-for-an-aws-waste-scanner-3n79",
-   "date": "2026-09-21T16:34:32.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "This article provides a step by step guide to adding an MCP server to an AWS cost scanner so an agent drives the same engine a terminal does. Every tool returns figures the engine computed, and the two front doors are he",
+   "summary": "Every green badge is a promise that your tests ran. The file behind it gets written once, at the moment someone is trying to ship, and then rarely re-read. I re-read 65 of them. I pulled .github/workflows/*.yml from 30 o",
    "image": null
   },
   {
-   "title": "Terraform: cómo declarar infraestructura en código con HCL",
-   "link": "https://dev.to/lu1tr0n/terraform-como-declarar-infraestructura-en-codigo-con-hcl-5006",
-   "date": "2026-09-21T16:16:11.000Z",
+   "title": "B2B Zone Changes in Node.js: Why TTL Cannot Make DNS Immediate",
+   "link": "https://dev.to/drummondreed8257/b2b-zone-changes-in-nodejs-why-ttl-cannot-make-dns-immediate-11o8",
+   "date": "2026-09-21T20:06:53.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "El 10 de agosto de 2023 HashiCorp cambió la licencia de Terraform de MPL 2.0 a Business Source License, y en cuestión de semanas un grupo de empresas lanzó OpenTofu como fork abierto bajo la Linux Foundation. El episodio",
+   "summary": "DNS changes are not immediate because TTL really controls a cache's requested retention period, not a universal propagation deadline. Move a B2B SaaS zone with a planned overlap and resolver read-backs; that is the least",
    "image": null
   },
   {
-   "title": "From DevOps to SRE: A Practitioner's Roadmap for Enterprise Transformation",
-   "link": "https://dev.to/npayyappilly/from-devops-to-sre-a-practitioners-roadmap-for-enterprise-transformation-252h",
-   "date": "2026-09-21T16:00:00.000Z",
+   "title": "Turn your ytt data values schema into a documentation site",
+   "link": "https://dev.to/baunegaard/turn-your-ytt-data-values-schema-into-a-documentation-site-3gho",
+   "date": "2026-09-21T19:59:08.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In 2018, the same year that Forsgren, Humble, and Kim published Accelerate — the empirical validation of DevOps practices — approximately 47% of the organisations in the DORA research study were classified as Low perform",
+   "summary": "If you template Kubernetes manifests with ytt, you probably have a data values schema. It starts small: a handful of keys with a #@schema/desc here and a #@schema/validation there. Then it grows. Ours, the deployment.yam",
    "image": null
   },
   {
-   "title": "Staging DNS Records Appeared in Production: Wrong Zone IDs from Shared Config",
-   "link": "https://dev.to/colemitchell4991/staging-dns-records-appeared-in-production-wrong-zone-ids-from-shared-config-3ag6",
-   "date": "2026-09-21T15:53:44.000Z",
+   "title": "Web Scalability for Startup Engineers — Review and Summary for Developers",
+   "link": "https://dev.to/devbookreader/web-scalability-for-startup-engineers-review-and-summary-for-developers-5dek",
+   "date": "2026-09-21T19:57:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Short answer: when staging DNS records appeared in production, I would freeze the hostname cutover, prove the delegated nameservers and RRset from the authoritative data plane, then apply a recorded rollback RRset; a suc",
+   "summary": "This book is a practical guide to scaling web applications from a few users to millions. Ejsmont covers the full stack: frontend optimization, web servers, caching layers, asynchronous processing, databases, search engin",
+   "image": null
+  },
+  {
+   "title": "Bruce Momjian: The Promise of Non-Volatile Memory",
+   "link": "https://postgr.es/p/9vk",
+   "date": "2026-09-21T19:00:01.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Relational databases like Postgres provide many unique features, specifically atomicity, consistency, isolation, and durability (ACID), but providing durability has always been a challenge. Though computers originally us",
+   "image": null
+  },
+  {
+   "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+   "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+   "date": "2026-09-21T17:31:01.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researcher",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
+  },
+  {
+   "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+   "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+   "date": "2026-09-21T17:19:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg"
+  },
+  {
+   "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+   "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+   "date": "2026-09-21T16:57:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjOPn27sYW7sjjV6-SlFPjlnnAtZ2bVGvrJRbbussed8ddYCwrRnmyIBKOsJy9p3QGdwzMuxmxhtyNvyPQD9u53V0T84o-Pi1Euo1SPlHX9DiaFzVby2cKpyfdma7mA0b4F1gqDCvjWBrk3n916K6Su1Y1TaJcOKXHsuzNn0cxOmVzlUK1NIjPtElIXM/s1600/google-location.jpg"
+  },
+  {
+   "title": "The Drop Times: What EU Digital Identity Wallets Could Mean for Drupal",
+   "link": "https://www.thedroptimes.com/newsletter/what-eu-digital-identity-wallets-could-mean-drupal?utm_source=Drupal Planet",
+   "date": "2026-09-21T16:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "European Digital Identity Wallets are moving from technical framework and pilot programmes towards services that people will be able to use across the European Union. The European Commission says Member States must make ",
+   "image": null
+  },
+  {
+   "title": "Drupal blog: The AWS Migration: Building the Next Chapter of Drupal’s Infrastructure",
+   "link": "https://www.drupal.org/blog/the-aws-migration-building-the-next-chapter-of-drupals-infrastructure",
+   "date": "2026-09-21T15:12:29.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "This is the first post in a three-part series about the impact of the AWS Open Source Credits program on the Drupal community. Part one covers our testing infrastructure. Part two will cover the community programs we hos",
    "image": null
   },
   {
@@ -252,6 +312,16 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Difflock-LN.png"
   },
   {
+   "title": "MCP was always a bad idea?",
+   "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+   "date": "2026-09-20T20:24:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claud",
+   "image": null
+  },
+  {
    "title": "llm-keys-ui 0.1",
    "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
    "date": "2026-09-20T19:22:19.000Z",
@@ -342,36 +412,6 @@
    "image": null
   },
   {
-   "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-   "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-   "date": "2026-09-19T13:28:48.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
-  },
-  {
-   "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-   "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-   "date": "2026-09-19T13:28:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
-  },
-  {
-   "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-   "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-   "date": "2026-09-19T09:31:17.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
-  },
-  {
    "title": "Gspikes: Drupal Hosting Compared: Speed Data From 424 Government Sites",
    "link": "https://gspikes.com/drupal-hosting-comparison/",
    "date": "2026-09-19T03:54:45.000Z",
@@ -439,46 +479,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Skeptical geneti",
-   "image": null
-  },
-  {
-   "title": "Quoting Thariq Shihipar",
-   "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-   "date": "2026-09-18T19:09:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our",
-   "image": null
-  },
-  {
-   "title": "Shaun Thomas: Looking Forward to Postgres 19: Epilogue",
-   "link": "https://postgr.es/p/9v8",
-   "date": "2026-09-18T16:52:18.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "The future of Postgres is bright. So bright in fact, that I spent almost a dozen posts expounding on the upcoming features it would bring, with veritable stars in my eyes. Unfortunately, while I was out counting my chick",
-   "image": null
-  },
-  {
-   "title": "Drupal AI Initiative: Intelligent Layouts: Drupal Canvas AI and the Context Layer",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/intelligent-layouts-drupal-canvas-ai-and-the-context-layer",
-   "date": "2026-09-18T16:02:29.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Reposted from Acquia with permission from Acquia. Authored by Martin Anderson-Clutz (mandclu) Drupal Canvas AI shifts content platforms from reading to writing, using governed context layers to help enterprise AI agents ",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Native Observability 2.0.0 Measures Its Own Performance Cost",
-   "link": "https://www.thedroptimes.com/72348/native-observability-2-0-0-overhead?utm_source=Drupal Planet",
-   "date": "2026-09-18T15:03:26.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Diagnostic tools can add work while they investigate what a website is doing. Native Observability 2.0.0 now measures that added cost on the Drupal site where it runs instead of asking administrators to rely on a general",
    "image": null
   },
   {
