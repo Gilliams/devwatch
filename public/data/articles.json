@@ -1,84 +1,164 @@
 {
- "generatedAt": "2026-09-20T19:25:07.436Z",
+ "generatedAt": "2026-09-21T10:38:52.749Z",
  "articles": [
   {
-   "title": "Standardizing Zero-Infrastructure Backends: Inside Lovable's Acquisition of Sutro and the SLang Compiler",
-   "link": "https://dev.to/isuvo/standardizing-zero-infrastructure-backends-inside-lovables-acquisition-of-sutro-and-the-slang-61d",
-   "date": "2026-09-20T19:15:03.000Z",
+   "title": "Taming Local TTS at Scale: Reverse-Proxy Quota Governance for VoiceStudio in 15-Person Engineering Teams",
+   "link": "https://dev.to/james_lin/taming-local-tts-at-scale-reverse-proxy-quota-governance-for-voicestudio-in-15-person-engineering-2kn7",
+   "date": "2026-09-21T10:26:46.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "⚙️ The Explainability Crisis in AI-Assisted Software Engineering The promise of generative AI in software engineering has hit a structural ceiling. While large language models (LLMs) excel at generating isolated snippets",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fev0d1dj3ibikyqehm3ue.jpg"
-  },
-  {
-   "title": "[Lab Notes] Kubernetes the Hard Way, For Real This Time (Step 07)",
-   "link": "https://dev.to/lugerlogic/lab-notes-kubernetes-the-hard-way-for-real-this-time-step-07-4hna",
-   "date": "2026-09-20T19:14:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Continuing my Kubernetes the Hard Way homelab build. Steps 01-06 are already done, this covers step 07. Original guide: 07-bootstrapping-etcd.md This step sets up the etcd cluster. From what I understand, etcd is basical",
+   "summary": "A twelve-engineer product squad prototyping automated multilingual narration can incinerate a $3,000 monthly cloud TTS tier in under seventy-two hours. When our team hit that exact billing cliff last quarter, shifting de",
    "image": null
   },
   {
-   "title": "Linux uniq Command: Why Duplicates Survive (and the Fix)",
-   "link": "https://dev.to/xpert4cyber/linux-uniq-command-why-duplicates-survive-and-the-fix-1l18",
-   "date": "2026-09-20T19:01:24.000Z",
+   "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-73g",
+   "date": "2026-09-21T10:11:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The bug: you run uniq on a file and the duplicates are still there. printf 'alice\\nalice\\nbob\\nalice\\n' | uniq # alice # bob # alice uniq only compares each line with the one directly before it, so scattered duplicates s",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbmpye0dlqopf049ttqr4.png"
-  },
-  {
-   "title": "how i run a private package registry on infrastructure i control",
-   "link": "https://dev.to/ojessecruz/how-i-run-a-private-package-registry-on-infrastructure-i-control-43ab",
-   "date": "2026-09-20T18:12:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "i want private packages to live on infrastructure i can operate. i want to know where the service runs, where the artifacts are stored, and how it is backed up. omni line is self-hosted, so i can run it with docker compo",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
    "image": null
   },
   {
-   "title": "how i give agents a safe path to publish internal packages",
-   "link": "https://dev.to/ojessecruz/how-i-give-agents-a-safe-path-to-publish-internal-packages-4bo4",
-   "date": "2026-09-20T18:10:32.000Z",
+   "title": "Best Requirements Management Software in 2026: 9 Tools Compared",
+   "link": "https://dev.to/kiera28add473d5/best-requirements-management-software-in-2026-9-tools-compared-1a7",
+   "date": "2026-09-21T10:09:49.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "i do not think an agent should receive broad publishing access by default. publishing changes the package supply chain. it deserves an explicit path. that does not mean agents cannot help with releases. it means the perm",
+   "summary": "Best requirements management software in 2026, compared for teams that have to prove what they built. Short answer: the best requirements management software in 2026 is Matrix Req, followed by Jama Connect, Siemens Polar",
    "image": null
   },
   {
-   "title": "Virtual Machines Across AWS, Azure, GCP — Weekly Benchmarks for Sep 13 – Sep 19, 2026",
-   "link": "https://dev.to/biz_dev_5bfcf2eb4cb185fe9/virtual-machines-across-aws-azure-gcp-weekly-benchmarks-for-sep-13-sep-19-2026-58m1",
-   "date": "2026-09-20T18:00:04.000Z",
+   "title": "Building a High-Performance REST API in Go with Connection Pooling",
+   "link": "https://dev.to/ayinedjimi-consultants/building-a-high-performance-rest-api-in-go-with-connection-pooling-4oan",
+   "date": "2026-09-21T10:01:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "🖥️ Virtual Machines — Weekly Provisioning Benchmarks Window: Sep 13 – Sep 19, 2026 | Total runs: 126 GCP europe-north1 virtual machines slowed down +37% this week. Cloud p50 p95 Reliability Runs AWS 40.1s 45.5s 100.0% 6",
+   "summary": "Most Go HTTP servers work fine until they hit real traffic. The typical failure mode: everything passes local testing, then under load you see timeouts, \"too many open files\" errors, or database exhaustion. The fix almos",
    "image": null
   },
   {
-   "title": "Keeping your whole Docker stack safely up to date",
-   "link": "https://dev.to/serverkueche/keeping-your-whole-docker-stack-safely-up-to-date-4i8m",
-   "date": "2026-09-20T17:53:14.000Z",
+   "title": "Multi-County Real Estate Data Pipeline: Scaling CrawlOS + Supabase for 14-County HCAD Scraping",
+   "link": "https://dev.to/domoniqueluchin/multi-county-real-estate-data-pipeline-scaling-crawlos-supabase-for-14-county-hcad-scraping-eee",
+   "date": "2026-09-21T10:00:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A self-hosted stack is never \"done\". Container images get security updates, apps get new features – and whoever doesn't keep up eventually runs vulnerable software. This recipe turns \"I should update sometime\" into a rel",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fka983yd83a3yni22u0xt.png"
+   "summary": "Building a real estate wholesale operation at scale demands reliable, automated lead generation. At Load Bearing Capital, we integrated CrawlOS into our Supabase infrastructure to scrape Harris County Appraisal District ",
+   "image": null
   },
   {
-   "title": "Kubernetes Email Tests Need Artifact Retention",
-   "link": "https://dev.to/jasonmills94/kubernetes-email-tests-need-artifact-retention-2jm5",
-   "date": "2026-09-20T17:24:21.000Z",
+   "title": "How Claude Powers a One-Person Shop That Runs Without You",
+   "link": "https://dev.to/robswierk/how-claude-powers-a-one-person-shop-that-runs-without-you-hgc",
+   "date": "2026-09-21T10:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Email tests often fail in a Kubernetes pipeline for reasons that are hard to see after the pod is gone. The fixture was created, the verification message arrived, and then the namespace cleanup removed the only useful ev",
+   "summary": "At NeuraGrowth we publish practical guides for people who build digital products. The research, the drafting, the niche-finding, the social posts - a lot of that work runs on its own through a system we built called Orqe",
+   "image": null
+  },
+  {
+   "title": "Traefik 3.6's multi-layer routing held up against 500 concurrent header-spoofing attempts",
+   "link": "https://dev.to/alexgeorgiev17/traefik-36s-multi-layer-routing-held-up-against-500-concurrent-header-spoofing-attempts-2ck2",
+   "date": "2026-09-21T10:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "I set up a Traefik router that was only supposed to be reachable after a parent router injected a header, then tried to reach it directly by sending that header myself. I wanted to know whether \"child routers cannot be c",
+   "image": null
+  },
+  {
+   "title": "Island of Morality – Thought-Provoking eBook",
+   "link": "https://dev.to/sonia_malik_571/island-of-morality-thought-provoking-ebook-3kpk",
+   "date": "2026-09-21T09:55:34.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned. Through an imaginative story, Moralit",
+   "image": null
+  },
+  {
+   "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+   "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+   "date": "2026-09-21T08:39:38.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+  },
+  {
+   "title": "Symfony UX 3.5 released",
+   "link": "https://symfony.com/blog/symfony-ux-3-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-21T08:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony UX 3.5 is out, with close to ninety pull requests merged since 3.4, enough to make it one of the largest releases the project has shipped. It brings a brand new Pagination package, hands component attribute rende",
+   "image": "https://github.com/smnandre.png"
+  },
+  {
+   "title": "New in Symfony 8.2: Messenger Outbox and Claim Check",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-outbox-and-claim-check?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-21T07:50:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Many applications that send messages to a broker end up facing these two problems: (1) sending them is not part of the database transaction, and (2) brokers refuse messages that are too big. Symfony Messenger solves both",
+   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
+  },
+  {
+   "title": "Cornelia Biacsics: Contributions for week 37",
+   "link": "https://postgr.es/p/9vg",
+   "date": "2026-09-21T07:07:18.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "On 16 September 2026, the Postgres Meetup for All user group met, organized by Elizabeth Christensen and Ryan Booz. Ryan Booz and Greg Potter delivered a talk. On 18 September 2026, Claire Giordano and Aaron Wislang host",
+   "image": null
+  },
+  {
+   "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+   "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+   "date": "2026-09-21T06:06:44.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
+  },
+  {
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_apply_workers_per_subscription",
+   "link": "https://postgr.es/p/9vf",
+   "date": "2026-09-21T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Parallel apply workers speed up logical replication of large transactions—but only if you have enough of them.",
+   "image": null
+  },
+  {
+   "title": "Quoting voxium",
+   "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+   "date": "2026-09-20T21:06:43.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobo",
+   "image": null
+  },
+  {
+   "title": "llm-keys-ui 0.1",
+   "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+   "date": "2026-09-20T19:22:19.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack o",
    "image": null
   },
   {
@@ -109,6 +189,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Neither of these parameters means what its name says. max_parallel_workers_per_gather is the most workers the planner is allowed to request for one plan node, and the planner usually requests fewer. max_parallel_workers ",
+   "image": null
+  },
+  {
+   "title": "datasette-explain 0.2.2",
+   "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+   "date": "2026-09-20T00:22:04.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s",
    "image": null
   },
   {
@@ -200,26 +290,6 @@
    "source": "The Hacker News",
    "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
-  },
-  {
-   "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-   "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-   "date": "2026-09-19T07:14:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
-  },
-  {
-   "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-   "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-   "date": "2026-09-19T06:24:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
   },
   {
    "title": "Gspikes: Drupal Hosting Compared: Speed Data From 424 Government Sites",
@@ -332,16 +402,6 @@
    "image": null
   },
   {
-   "title": "The Creative Spirit of Who Framed Roger Rabbit",
-   "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-   "date": "2026-09-18T14:36:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from ea",
-   "image": null
-  },
-  {
    "title": "Electric Citizen: Keeping Your Website Fit",
    "link": "https://electriccitizen.com/insights/post-launch-website-maintenance",
    "date": "2026-09-18T13:09:21.000Z",
@@ -382,16 +442,6 @@
    "image": null
   },
   {
-   "title": "Jimmy Angelakos: postgres.scot is live, August PostgresEDI meetup",
-   "link": "https://postgr.es/p/9v3",
-   "date": "2026-09-18T08:30:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "postgres.scot is live Postgres events in Scotland now have a permanent address: postgres.scot It is a deliberately small page. Right now it points at the PostgreSQL Edinburgh User Group (PostgresEDI) on cloomba, where yo",
-   "image": "https://vyruss.org/blog/images/aug2026_1.jpg"
-  },
-  {
    "title": "New in Symfony 8.2: One Bundle per Component",
    "link": "https://symfony.com/blog/new-in-symfony-8-2-one-bundle-per-component?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-18T07:58:00.000Z",
@@ -410,36 +460,6 @@
    "source": "Laravel News",
    "summary": "Fresh Package scaffolds a Laravel package with PHPUnit, Larastan, a Testbench workbench app, GitHub Actions, and an optional Vue frontend or AI skills. The post Fresh Package: Laravel Package Skeleton with Testbench, CI,",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/fresh-laravel-package-skeleton-featured.png"
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_notify_queue_pages",
-   "link": "https://postgr.es/p/9v2",
-   "date": "2026-09-18T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Nobody asked for max_notify_queue_pages. It exists because a limit that used to enforce itself stopped doing so, and something had to take its place. LISTEN/NOTIFY runs on a single queue for the whole cluster, stored as ",
-   "image": null
-  },
-  {
-   "title": "Be alert: targeted attacks on prominent Rustaceans",
-   "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-   "date": "2026-09-17T23:59:19.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates th",
-   "image": null
-  },
-  {
-   "title": "How To Write With An LLM",
-   "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-   "date": "2026-09-17T23:37:27.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal",
-   "image": null
   },
   {
    "title": "I don't like LLMs",
@@ -560,26 +580,6 @@
    "source": "Symfony Blog",
    "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland, on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of networ",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "New SymfonyCasts Course: Symfony Security - The Basics",
-   "link": "https://symfony.com/blog/new-symfonycasts-course-symfony-security-the-basics?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-16T09:34:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Authentication, authorization, roles, voters, firewalls... there's a lot happening inside Symfony's Security system. But once you understand how the pieces fit together, it's a powerful and flexible system for answering ",
-   "image": null
-  },
-  {
-   "title": "New in Symfony 8.2: Console sub-commands",
-   "link": "https://symfony.com/blog/new-in-symfony-8-2-console-sub-commands?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-16T07:33:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Symfony console applications group their commands with colon-separated namespaces, such as cache:clear or messenger:consume. Tools like Docker and Git use a different style: spaces separate the levels (docker compose up)",
-   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
   },
   {
    "title": "Mercure Broadcasting in Laravel 13.32",
@@ -1110,16 +1110,6 @@
    "source": "CSS-Tricks",
    "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript. CSS Navig",
    "image": null
-  },
-  {
-   "title": "CSS:the bomb inside your inbox",
-   "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-   "date": "2026-08-06T22:00:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "PortSwigger Research",
-   "summary": "Gareth Heyes - gareth.heyes@portswigger.net - @garethheyes It's quite common for webmail clients to render untrusted CSS in a trusted UI. They attempt to make this safe using CSS sanitization. In this",
-   "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
   }
  ]
 }
