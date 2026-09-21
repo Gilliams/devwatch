@@ -1,84 +1,154 @@
 {
- "generatedAt": "2026-09-21T10:38:52.749Z",
+ "generatedAt": "2026-09-21T17:00:16.074Z",
  "articles": [
   {
-   "title": "Taming Local TTS at Scale: Reverse-Proxy Quota Governance for VoiceStudio in 15-Person Engineering Teams",
-   "link": "https://dev.to/james_lin/taming-local-tts-at-scale-reverse-proxy-quota-governance-for-voicestudio-in-15-person-engineering-2kn7",
-   "date": "2026-09-21T10:26:46.000Z",
+   "title": "Cleaning Up Unused Indexes Without Breaking Performance",
+   "link": "https://dev.to/databaseinsights/cleaning-up-unused-indexes-without-breaking-performance-2li",
+   "date": "2026-09-21T16:55:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A twelve-engineer product squad prototyping automated multilingual narration can incinerate a $3,000 monthly cloud TTS tier in under seventy-two hours. When our team hit that exact billing cliff last quarter, shifting de",
+   "summary": "Indexes tend to outlive the problems that created them. It usually starts with a slow query. An engineer adds an index, the immediate issue goes away, and everyone moves on. At the time, the decision makes sense. The pro",
    "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-73g",
-   "date": "2026-09-21T10:11:18.000Z",
+   "title": "Build a Reproducible AI Agent Evaluation Lab with Docker Compose",
+   "link": "https://dev.to/raju_dandigam/build-a-reproducible-ai-agent-evaluation-lab-with-docker-compose-2ejm",
+   "date": "2026-09-21T16:51:33.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "An agent evaluation fails in CI but passes locally. Before blaming the model, ask whether both runs saw the same tool responses, database state, clock, configuration, and dependency versions. Containers cannot make an ex",
    "image": null
   },
   {
-   "title": "Best Requirements Management Software in 2026: 9 Tools Compared",
-   "link": "https://dev.to/kiera28add473d5/best-requirements-management-software-in-2026-9-tools-compared-1a7",
-   "date": "2026-09-21T10:09:49.000Z",
+   "title": "The EDR was dead before the theft started",
+   "link": "https://dev.to/relayshield/the-edr-was-dead-before-the-theft-started-17jg",
+   "date": "2026-09-21T16:49:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Best requirements management software in 2026, compared for teams that have to prove what they built. Short answer: the best requirements management software in 2026 is Matrix Req, followed by Jama Connect, Siemens Polar",
+   "summary": "Before the argument, something you can run. Rapuncel arrived through GitHub repositories impersonating real projects, so this screens a repository URL before you trust it, against Google Safe Browsing, a criminal indicat",
    "image": null
   },
   {
-   "title": "Building a High-Performance REST API in Go with Connection Pooling",
-   "link": "https://dev.to/ayinedjimi-consultants/building-a-high-performance-rest-api-in-go-with-connection-pooling-4oan",
-   "date": "2026-09-21T10:01:28.000Z",
+   "title": "When the Offload Doesn't Earn Its Dependency",
+   "link": "https://dev.to/ntctech/when-the-offload-doesnt-earn-its-dependency-4cng",
+   "date": "2026-09-21T16:49:22.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Most Go HTTP servers work fine until they hit real traffic. The typical failure mode: everything passes local testing, then under load you see timeouts, \"too many open files\" errors, or database exhaustion. The fix almos",
+   "summary": "Offload dependency is the test every specialized-hardware bet eventually has to pass, and VMware just showed what happens when the dependency stops earning its keep. At VMware Explore this month, Broadcom VP/GM Umesh Mah",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F773q9xrtdr5gsz540pgh.jpg"
+  },
+  {
+   "title": "Put the Arithmetic in the Tool: an MCP Server for an AWS Waste Scanner",
+   "link": "https://dev.to/aws-builders/put-the-arithmetic-in-the-tool-an-mcp-server-for-an-aws-waste-scanner-3n79",
+   "date": "2026-09-21T16:34:32.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "This article provides a step by step guide to adding an MCP server to an AWS cost scanner so an agent drives the same engine a terminal does. Every tool returns figures the engine computed, and the two front doors are he",
    "image": null
   },
   {
-   "title": "Multi-County Real Estate Data Pipeline: Scaling CrawlOS + Supabase for 14-County HCAD Scraping",
-   "link": "https://dev.to/domoniqueluchin/multi-county-real-estate-data-pipeline-scaling-crawlos-supabase-for-14-county-hcad-scraping-eee",
-   "date": "2026-09-21T10:00:06.000Z",
+   "title": "Terraform: cómo declarar infraestructura en código con HCL",
+   "link": "https://dev.to/lu1tr0n/terraform-como-declarar-infraestructura-en-codigo-con-hcl-5006",
+   "date": "2026-09-21T16:16:11.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Building a real estate wholesale operation at scale demands reliable, automated lead generation. At Load Bearing Capital, we integrated CrawlOS into our Supabase infrastructure to scrape Harris County Appraisal District ",
+   "summary": "El 10 de agosto de 2023 HashiCorp cambió la licencia de Terraform de MPL 2.0 a Business Source License, y en cuestión de semanas un grupo de empresas lanzó OpenTofu como fork abierto bajo la Linux Foundation. El episodio",
    "image": null
   },
   {
-   "title": "How Claude Powers a One-Person Shop That Runs Without You",
-   "link": "https://dev.to/robswierk/how-claude-powers-a-one-person-shop-that-runs-without-you-hgc",
-   "date": "2026-09-21T10:00:00.000Z",
+   "title": "From DevOps to SRE: A Practitioner's Roadmap for Enterprise Transformation",
+   "link": "https://dev.to/npayyappilly/from-devops-to-sre-a-practitioners-roadmap-for-enterprise-transformation-252h",
+   "date": "2026-09-21T16:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "At NeuraGrowth we publish practical guides for people who build digital products. The research, the drafting, the niche-finding, the social posts - a lot of that work runs on its own through a system we built called Orqe",
+   "summary": "In 2018, the same year that Forsgren, Humble, and Kim published Accelerate — the empirical validation of DevOps practices — approximately 47% of the organisations in the DORA research study were classified as Low perform",
    "image": null
   },
   {
-   "title": "Traefik 3.6's multi-layer routing held up against 500 concurrent header-spoofing attempts",
-   "link": "https://dev.to/alexgeorgiev17/traefik-36s-multi-layer-routing-held-up-against-500-concurrent-header-spoofing-attempts-2ck2",
-   "date": "2026-09-21T10:00:00.000Z",
+   "title": "Staging DNS Records Appeared in Production: Wrong Zone IDs from Shared Config",
+   "link": "https://dev.to/colemitchell4991/staging-dns-records-appeared-in-production-wrong-zone-ids-from-shared-config-3ag6",
+   "date": "2026-09-21T15:53:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I set up a Traefik router that was only supposed to be reachable after a parent router injected a header, then tried to reach it directly by sending that header myself. I wanted to know whether \"child routers cannot be c",
+   "summary": "Short answer: when staging DNS records appeared in production, I would freeze the hostname cutover, prove the delegated nameservers and RRset from the authoritative data plane, then apply a recorded rollback RRset; a suc",
    "image": null
   },
   {
-   "title": "Island of Morality – Thought-Provoking eBook",
-   "link": "https://dev.to/sonia_malik_571/island-of-morality-thought-provoking-ebook-3kpk",
-   "date": "2026-09-21T09:55:34.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned. Through an imaginative story, Moralit",
+   "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+   "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+   "date": "2026-09-21T14:24:13.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
+  },
+  {
+   "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+   "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+   "date": "2026-09-21T14:15:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
+  },
+  {
+   "title": "BloomIdea: Mautic Audiences for Drupal: personalisation built on the segments you already maintain",
+   "link": "https://bloomidea.com/en/blog/mautic-audiences-drupal-personalisation-segments-you-already-maintain",
+   "date": "2026-09-21T13:59:58.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Your marketing team already knows who the VIPs are. They maintain the segment in Mautic, they send it a campaign every month, they add and remove people as orders and behaviour change. Then somebody asks for a VIP banner",
+   "image": null
+  },
+  {
+   "title": "What We Know About Laravel 14",
+   "link": "https://laravel-news.com/laravel-14?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-21T13:57:13.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 14 is the next major release of the Laravel framework, expected in Q1 2027. Here is what we know about new features, PHP 8.4, and breaking changes. The post What We Know About Laravel 14 appeared first on Laravel",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-14-featured.png"
+  },
+  {
+   "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+   "date": "2026-09-21T13:44:34.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "DISTANCE() and VECTOR_DISTANCE(): Vector Similarity in Percona Server for MySQL 9.7",
+   "link": "https://www.percona.com/blog/vector-distance-vector-similarity-search-in-percona-server-for-mysql/",
+   "date": "2026-09-21T09:57:06.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Percona Blog",
+   "summary": "TL;DR Percona Server for MySQL 9.7.2-2 now supports DISTANCE() for vector similarity scoring directly in SQL (COSINE, EUCLIDEAN, MANHATTAN, DOT metrics). This is the compute primitive you need to rank or filter embedding",
+   "image": null
+  },
+  {
+   "title": "Security public service announcements: Upcoming critical contributed project security release on September 23, 2026 - PSA-2026-09-21",
+   "link": "https://www.drupal.org/psa-2026-09-21",
+   "date": "2026-09-21T09:56:09.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Date: 2026-September-21 Security risk: Critical 16 ∕ 25 AC:Basic/A:User/CI:All/II:All/E:Theoretical/TD:Uncommon Description: There will be a security release for a widely used contributed module on September 23, 2026 bet",
    "image": null
   },
   {
@@ -142,6 +212,26 @@
    "image": null
   },
   {
+   "title": "tokenizers v1: encode, decode and scaling, measured",
+   "link": "https://huggingface.co/blog/tokenizers-v1",
+   "date": "2026-09-21T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "DDEV Blog: DDEV Snapshots: Checkpoints, Restores, and Seeded Databases",
+   "link": "https://ddev.com/blog/ddev-snapshots",
+   "date": "2026-09-21T00:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Snapshots have been a beloved feature of DDEV for years, but in v1.25.4 there is so much more. Read on (or watch, or both) to see: Basic use of snapshots Use of a seed snapshot to automatically provide content to a proje",
+   "image": "https://ddev.com/img/blog/2026/09/ddev-snapshots.jpg"
+  },
+  {
    "title": "Quoting voxium",
    "link": "https://simonwillison.net/2026/Sep/20/voxium/",
    "date": "2026-09-20T21:06:43.000Z",
@@ -150,6 +240,16 @@
    "source": "Simon Willison",
    "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobo",
    "image": null
+  },
+  {
+   "title": "Difflock: Lint Laravel Migrations and Diff Your Schema",
+   "link": "https://laravel-news.com/difflock-migration-linter?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-20T20:52:18.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Difflock is a Laravel package that checks pending migrations for risky changes, records schema baselines, and can block them in CI. The post Difflock: Lint Laravel Migrations and Diff Your Schema appeared first on Larave",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Difflock-LN.png"
   },
   {
    "title": "llm-keys-ui 0.1",
@@ -272,26 +372,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
   },
   {
-   "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-   "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-   "date": "2026-09-19T08:18:54.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
-  },
-  {
-   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-   "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-   "date": "2026-09-19T07:51:34.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
-  },
-  {
    "title": "Gspikes: Drupal Hosting Compared: Speed Data From 424 Government Sites",
    "link": "https://gspikes.com/drupal-hosting-comparison/",
    "date": "2026-09-19T03:54:45.000Z",
@@ -402,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Electric Citizen: Keeping Your Website Fit",
-   "link": "https://electriccitizen.com/insights/post-launch-website-maintenance",
-   "date": "2026-09-18T13:09:21.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Launching your site isn’t the end of the work. That’s the bad news. Even after you settle back into your day-to-day, your website still needs you. There’s still so much you can and should do. The good news: the work spre",
-   "image": "https://electriccitizen.com/sites/default/files/styles/medium_non_crop_non_webp/public/2026-09/featured-website-fit.jpg?itok=jk8Ln3eG"
-  },
-  {
    "title": "SymfonyCon Warsaw 2026: Last 5 days for regular tickets!",
    "link": "https://symfony.com/blog/symfonycon-warsaw-2026-last-5-days-for-regular-tickets?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-18T12:00:00.000Z",
@@ -420,26 +490,6 @@
    "source": "Symfony Blog",
    "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of network",
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
-   "title": "Matt Glaman: Simplytest.me can launch Drupal CMS site templates",
-   "link": "https://mglaman.dev/blog/simplytestme-can-launch-drupal-cms-site-templates?utm_source=Drupal+Planet&utm_medium=feed&utm_campaign=drupal",
-   "date": "2026-09-18T12:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "About a week ago, I wrote about the simplytest.me rewrite and closed on what was next: site templates and recipes. You can now launch a sandbox for a site template. I'm excited that people can now easily try out all the ",
-   "image": null
-  },
-  {
-   "title": "Morpht: Marking its own homework: an AI content compliance reviewer for Drupal",
-   "link": "https://www.morpht.com/blog/marking-its-own-homework-ai-content-compliance-reviewer-drupal",
-   "date": "2026-09-18T12:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Your content writing guidelines can now grade your content. An AI agent scores every article from 1 to 10 against site governance and lists the exact fixes.",
-   "image": null
   },
   {
    "title": "New in Symfony 8.2: One Bundle per Component",
@@ -582,16 +632,6 @@
    "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
-   "title": "Mercure Broadcasting in Laravel 13.32",
-   "link": "https://laravel-news.com/laravel-13-32-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-16T02:44:52.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.32 adds a Mercure broadcast driver, Storage::copyToDisk() and moveToDisk(), enum support in queue pause/resume, and more. The post Mercure Broadcasting in Laravel 13.32 appeared first on Laravel News. Join the",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "When CSS could run JavaScript",
    "link": "https://frontendfoc.us/issues/758",
    "date": "2026-09-16T00:00:00.000Z",
@@ -640,16 +680,6 @@
    "source": "Percona Blog",
    "summary": "Focusing on Percona Server 8.4.11-11 My previous post (Performance Progression of Percona Server for MySQL 8.4) did a brief review of the performance changes in Percona Server for MySQL 8.4 released in 2026. I recommend ",
    "image": "https://www.percona.com/wp-content/uploads/2026/08/graph-8g.png"
-  },
-  {
-   "title": "Super Stack: Laravel Starter Kit With Filament and NativePHP",
-   "link": "https://laravel-news.com/nativephp-super-stack?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-15T02:50:55.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Super Stack is an open-source Laravel starter kit from NativePHP with a Filament admin, a native mobile app, Sanctum, and a Laravel MCP server in one repo. The post Super Stack: Laravel Starter Kit With Filament and Nati",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Super-Stack-LN.png"
   },
   {
    "title": "Percona and HexaCluster: Faster, Safer Oracle Migration",
@@ -782,16 +812,6 @@
    "image": null
   },
   {
-   "title": "Percona Operator for PostgreSQL 3.1.0: Transparent Data Encryption, Logical Replicas, and Persistent Logging",
-   "link": "https://www.percona.com/blog/percona-operator-for-postgresql-3-1-0-transparent-data-encryption-logical-replicas-persistent-logging/",
-   "date": "2026-09-09T16:08:31.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Percona Blog",
-   "summary": "Percona Operator for PostgreSQL 3.1.0 takes on three things that decide whether a PostgreSQL platform passes review: is the data encrypted at rest, can it serve reads without straining the primary, and are the logs there",
-   "image": "https://www.percona.com/wp-content/uploads/2026/09/Cover-1000-x-420-1.png"
-  },
-  {
    "title": "What's new in HTML for 2026",
    "link": "https://frontendfoc.us/issues/757",
    "date": "2026-09-09T00:00:00.000Z",
@@ -819,16 +839,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:. This explains why the first major AI products appeared in chat, image generati",
-   "image": null
-  },
-  {
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-   "date": "2026-09-08T14:23:07.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
@@ -884,16 +894,6 @@
   {
    "title": "Give Your Coding Agents a Memory You Own",
    "link": "https://huggingface.co/blog/funes",
-   "date": "2026-09-03T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "link": "https://huggingface.co/blog/train-to-paint-with-code",
    "date": "2026-09-03T00:00:00.000Z",
    "theme": "ia",
    "themeName": "IA",
