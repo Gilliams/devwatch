@@ -1,35 +1,135 @@
 {
- "generatedAt": "2026-09-22T01:35:02.498Z",
+ "generatedAt": "2026-09-22T09:54:08.575Z",
  "articles": [
   {
-   "title": "Scaling On-Call When You Only Have 5 Engineers",
-   "link": "https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-4bdo",
-   "date": "2026-09-22T01:25:03.000Z",
+   "title": "Did canceling the agent stop the GPU job?",
+   "link": "https://dev.to/sara_mo/did-canceling-the-agent-stop-the-gpu-job-10bn",
+   "date": "2026-09-22T09:48:40.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On-call is brutal at small scale. Every engineer takes 1 week in 5. You get woken up once a week. Burnout is weeks away. Here's what works at 5 engineers, from someone who's been there. You cannot build a 'rested, follow",
+   "summary": "The agent stopped the training run. The GPU cluster did not. Agent Evaluation Case #003 An ML operations agent can submit training jobs to an external GPU scheduler and track their status. An operator asks it to start a ",
    "image": null
   },
   {
-   "title": "Kubernetes HPA Shows <unknown> Targets (FailedGetResourceMetric): How to Fix It",
-   "link": "https://dev.to/devtocash/kubernetes-hpa-shows-targets-failedgetresourcemetric-how-to-fix-it-5bg6",
-   "date": "2026-09-22T01:17:39.000Z",
+   "title": "Cách mình setup CI/CD đơn giản với GitHub Actions",
+   "link": "https://dev.to/eme_gug_0821b41b948be6516/cach-minh-setup-cicd-don-gian-voi-github-actions-3p2k",
+   "date": "2026-09-22T09:41:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. target actually means kubectl get hpa shows cpu: /50%, the replica count hasn't moved in day",
+   "summary": "GitHub Actions miễn phí cho public repo và có 2000 phút/tháng cho private repo. Đây là setup mình dùng cho hầu hết dự án. # .github/workflows/deploy.yml name: CI/CD on: push: branches: [main] pull_request: branches: [mai",
    "image": null
   },
   {
-   "title": "DNS TXT and CNAME Types: 4 Rules for Media Rollback",
-   "link": "https://dev.to/marencrest5138/dns-txt-and-cname-types-4-rules-for-media-rollback-59ak",
-   "date": "2026-09-22T01:09:34.000Z",
+   "title": "Métricas customizadas - counters, gauges e histograms com uma mini app PHP",
+   "link": "https://dev.to/apsis-cc/metricas-customizadas-counters-gauges-e-histograms-com-uma-mini-app-php-2o8i",
+   "date": "2026-09-22T09:30:28.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Pick the DNS record type required by the consumer, make that type explicit in code, and keep the previous target available for rollback. TL;DR: a verification string is TXT, a hostname alias is CNAME, mail routing is MX,",
+   "summary": "1. Retomando: de uma métrica a um conjunto completo No artigo anterior, a mini aplicação em Python expunha uma única métrica — uma contagem de requisições. Na prática, uma aplicação real quer responder perguntas de negóc",
    "image": null
+  },
+  {
+   "title": "SPF, DKIM e DMARC: guida pratica per chi manda email commerciali",
+   "link": "https://dev.to/clientiumb2b/spf-dkim-e-dmarc-guida-pratica-per-chi-manda-email-commerciali-20pn",
+   "date": "2026-09-22T09:30:08.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Se la tua azienda manda email commerciali e una parte finisce in spam, il primo posto dove guardare non è il testo. Sono tre record DNS: SPF, DKIM e DMARC. Senza questi tre, Gmail e Outlook non hanno modo di sapere se il",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Docker Multi-Stage Builds & Secrets: Eliminating Leaked Credentials",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-docker-multi-stage-builds-secrets-eliminating-leaked-credentials-clh",
+   "date": "2026-09-22T09:27:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Digital Restaurant Management: Connecting Orders, Billing and Operations",
+   "link": "https://dev.to/anusha_c_ff5ec80ef38b34a1/digital-restaurant-management-connecting-orders-billing-and-operations-49k8",
+   "date": "2026-09-22T09:20:42.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "When these processes are managed independently, maintaining consistent information can become difficult. A Restaurant Management Software platform provides a centralized architecture for managing these operational functi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3n6tvfy5nld6lgr1pj5n.png"
+  },
+  {
+   "title": "GitHub Actions Cache Can Leak Secrets Through Miri's target/ Directory",
+   "link": "https://dev.to/soytuber/github-actions-cache-can-leak-secrets-through-miris-target-directory-5gpc",
+   "date": "2026-09-22T09:20:07.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "The Rust Security Response Team disclosed on September 21 that Miri writes every environment variable into its target/ build directory, and that caching target/ in GitHub Actions — a default pattern via actions/cache — c",
+   "image": null
+  },
+  {
+   "title": "Configuration Is Code. So Why Does Your Low-Code Platform Have No Release Process?",
+   "link": "https://dev.to/informat/configuration-is-code-so-why-does-your-low-code-platform-have-no-release-process-2hlc",
+   "date": "2026-09-22T09:09:20.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In my last post about scripting, I ended with an uncomfortable conclusion: once a low-code platform lets people write scripts, the platform is no longer a form builder. It is a programming environment. That conclusion ra",
+   "image": null
+  },
+  {
+   "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+   "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+   "date": "2026-09-22T07:52:03.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typicall",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
+  },
+  {
+   "title": "New in Symfony 8.2: Role Hierarchy Wildcards and Debugging",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-role-hierarchy-wildcards-and-debugging?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-22T07:44:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "The role hierarchy lets you define which roles are included in other roles, so you don't have to assign all of them to each user. In applications with many roles, this configuration grows quickly and it's hard to tell wh",
+   "image": "https://connect.symfony.com/profile/squrious.picture"
+  },
+  {
+   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+   "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+   "date": "2026-09-22T06:33:57.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
+  },
+  {
+   "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+   "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+   "date": "2026-09-22T06:03:14.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPre",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg"
+  },
+  {
+   "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+   "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+   "date": "2026-09-22T05:31:59.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_pred_locks_per_page and max_pred_locks_per_relation",
@@ -42,56 +142,6 @@
    "image": null
   },
   {
-   "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
-   "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4oo2",
-   "date": "2026-09-22T00:55:26.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I spent three months and roughly $500 of my own money trying to get a self-hosted LLM to work reliably. I had the GPUs, the Docker containers, the whole nine yards. And I ultimately tore it all down in a weekend. Let me ",
-   "image": null
-  },
-  {
-   "title": "Keep Generated Function Reference Out of Signed Policy Copy",
-   "link": "https://dev.to/github_7727/keep-generated-function-reference-out-of-signed-policy-copy-49je",
-   "date": "2026-09-22T00:42:44.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Library documentation fails when generated prose and human policy share one file without an ownership gate. Models can draft parameter tables from exports, but they cannot sign deprecation windows, legal notices, or oper",
-   "image": null
-  },
-  {
-   "title": "Four Stages, Zero needs: Reconstruct the GitLab DAG Before You Merge",
-   "link": "https://dev.to/gitlab_3188/four-stages-zero-needs-reconstruct-the-gitlab-dag-before-you-merge-552o",
-   "date": "2026-09-22T00:41:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You opened the merge request expecting a cleanup. Instead .gitlab-ci.yml lost every needs: key. Four stages remain. Every job in test now waits for every job in lint, including the one that only prints a license header. ",
-   "image": null
-  },
-  {
-   "title": "Why File Hashes Fail to Match: 5 Checksum Traps Every Developer Hits",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-file-hashes-fail-to-match-5-checksum-traps-every-developer-hits-1bma",
-   "date": "2026-09-22T00:32:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You pull down a compiled binary, container archive, or release tarball from a distribution server. You run sha256sum artifact.tar.gz, copy the hex string, and compare it against the checksum published in the release note",
-   "image": null
-  },
-  {
-   "title": "Proactive Resource Management: Implementing Balance-Aware Guardrails for Bulk Verification",
-   "link": "https://dev.to/numberchecker/proactive-resource-management-implementing-balance-aware-guardrails-for-bulk-verification-4ckl",
-   "date": "2026-09-22T00:23:03.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In high-volume data processing, the most frustrating failures are those that occur mid-stream. When running bulk verification jobs—such as checking large lists for platform registration signals—stalling due to an exhaust",
-   "image": null
-  },
-  {
    "title": "Très Bien Blog: Drupack: Drupal infrastructure in a single binary",
    "link": "https://tresbien.tech/blog/drupack-drupal-infrastructure-single-binary/",
    "date": "2026-09-22T00:20:04.000Z",
@@ -99,6 +149,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Drupack: Drupal infrastructure in a single binary A few years ago I said Drupal needed infrastructure innovation, and I finally took the time to do something about it. While I really like DDEV, I'm really not a fan of ha",
+   "image": null
+  },
+  {
+   "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+   "link": "https://huggingface.co/blog/omlx",
+   "date": "2026-09-22T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -192,6 +252,16 @@
    "image": null
   },
   {
+   "title": "Droptica: Drupal multilingual websites: how AI cuts translation workload while your team stays in control",
+   "link": "https://www.droptica.com/blog/drupal-multilingual-websites-how-ai-cuts-translation-workload-while-your-team-stays-control/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-21T16:28:14.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every update on a multilingual Drupal site must reach each market language - not just the source page. Drupal multilingual websites can use AI-assisted translation drafts inside Content Translation workflows so editors r",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20multilingual%20websites%20how%20AI%20cuts%20translation%20workload%20while%20your%20team%20stays%20in%20control_1.png"
+  },
+  {
    "title": "Drupal blog: The AWS Migration: Building the Next Chapter of Drupal’s Infrastructure",
    "link": "https://www.drupal.org/blog/the-aws-migration-building-the-next-chapter-of-drupals-infrastructure",
    "date": "2026-09-21T15:12:29.000Z",
@@ -210,16 +280,6 @@
    "source": "The Hacker News",
    "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
-  },
-  {
-   "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-   "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-   "date": "2026-09-21T14:15:40.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
   },
   {
    "title": "BloomIdea: Mautic Audiences for Drupal: personalisation built on the segments you already maintain",
@@ -272,16 +332,6 @@
    "image": null
   },
   {
-   "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-   "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-   "date": "2026-09-21T08:39:38.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
-  },
-  {
    "title": "Symfony UX 3.5 released",
    "link": "https://symfony.com/blog/symfony-ux-3-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-21T08:30:00.000Z",
@@ -310,16 +360,6 @@
    "source": "Planet PostgreSQL",
    "summary": "On 16 September 2026, the Postgres Meetup for All user group met, organized by Elizabeth Christensen and Ryan Booz. Ryan Booz and Greg Potter delivered a talk. On 18 September 2026, Claire Giordano and Aaron Wislang host",
    "image": null
-  },
-  {
-   "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-   "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-   "date": "2026-09-21T06:06:44.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_apply_workers_per_subscription",
@@ -402,16 +442,6 @@
    "image": null
   },
   {
-   "title": "Gspikes: What Adobe Experience Manager Actually Costs (and When to Leave)",
-   "link": "https://gspikes.com/adobe-experience-manager-cost/",
-   "date": "2026-09-20T01:51:55.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Adobe does not publish AEM pricing. Here is what it actually costs — licence, implementation, the specialist team you must keep — and how to tell when the renewal is funding software nobody uses.",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather",
    "link": "https://postgr.es/p/9va",
    "date": "2026-09-20T01:00:00.000Z",
@@ -450,16 +480,6 @@
    "source": "Simon Willison",
    "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook",
    "image": null
-  },
-  {
-   "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-   "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-   "date": "2026-09-19T18:36:53.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
   },
   {
    "title": "California Sea Lion, Brandt's Cormorant",
@@ -630,16 +650,6 @@
    "source": "Kubernetes Blog",
    "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for exampl",
    "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: The Attack Reached PHP: Composer and Packagist, One Year On",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-attack-reached-php-composer-and-packagist-one-year-on?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-16T12:30:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland, on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of networ",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
    "title": "When CSS could run JavaScript",
@@ -884,16 +894,6 @@
   {
    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "date": "2026-09-03T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Give Your Coding Agents a Memory You Own",
-   "link": "https://huggingface.co/blog/funes",
    "date": "2026-09-03T00:00:00.000Z",
    "theme": "ia",
    "themeName": "IA",
