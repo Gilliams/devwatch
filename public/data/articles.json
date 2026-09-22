@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-09-21T21:01:14.452Z",
+ "generatedAt": "2026-09-22T01:35:02.498Z",
  "articles": [
   {
-   "title": "I audited my own ML linter and had to withdraw its best evidence",
-   "link": "https://dev.to/bedvibe_studios/i-audited-my-own-ml-linter-and-had-to-withdraw-its-best-evidence-1g96",
-   "date": "2026-09-21T20:54:14.000Z",
+   "title": "Scaling On-Call When You Only Have 5 Engineers",
+   "link": "https://dev.to/samson_tanimawo/scaling-on-call-when-you-only-have-5-engineers-4bdo",
+   "date": "2026-09-22T01:25:03.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I maintain trainproof, a deterministic linter for ML training runs. No model scores your run — every verdict is a rule that either fires or doesn't, and every finding prints the numbers behind it. Before releasing 0.22.0",
+   "summary": "On-call is brutal at small scale. Every engineer takes 1 week in 5. You get woken up once a week. Burnout is weeks away. Here's what works at 5 engineers, from someone who's been there. You cannot build a 'rested, follow",
    "image": null
   },
   {
-   "title": "How to Check an Agent's Diagnosis Before It Touches Production",
-   "link": "https://dev.to/causely/how-to-check-an-agents-diagnosis-before-it-touches-production-fp6",
-   "date": "2026-09-21T20:53:24.000Z",
+   "title": "Kubernetes HPA Shows <unknown> Targets (FailedGetResourceMetric): How to Fix It",
+   "link": "https://dev.to/devtocash/kubernetes-hpa-shows-targets-failedgetresourcemetric-how-to-fix-it-5bg6",
+   "date": "2026-09-22T01:17:39.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Originally posted to causely.ai by Ben Yemini When teams get ready to add agents to their on-call workflows, the hard part is deciding when to let those agents act on production versus just advise. A root cause claim onl",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5bnqdpeo2vm0t2k1lmhh.png"
-  },
-  {
-   "title": "We measured how long our own writes stay invisible and built around that number",
-   "link": "https://dev.to/unmannedops/we-measured-how-long-our-own-writes-stay-invisible-and-built-around-that-number-5dpg",
-   "date": "2026-09-21T20:40:42.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "There is a specific kind of surprise that only happens in",
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. target actually means kubectl get hpa shows cpu: /50%, the replica count hasn't moved in day",
    "image": null
   },
   {
-   "title": "Leaked-Key Drills: Why API Credential Inventory Defines Your Account Perimeter",
-   "link": "https://dev.to/barnabyvance6852/leaked-key-drills-why-api-credential-inventory-defines-your-account-perimeter-4jid",
-   "date": "2026-09-21T20:26:48.000Z",
+   "title": "DNS TXT and CNAME Types: 4 Rules for Media Rollback",
+   "link": "https://dev.to/marencrest5138/dns-txt-and-cname-types-4-rules-for-media-rollback-59ak",
+   "date": "2026-09-22T01:09:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A B2B SaaS on-call gets a page: API spend has crossed the drill ceiling, and requests from a tenant-facing worker are now being refused. The live credential inventory is the account's real security perimeter, so the firs",
+   "summary": "Pick the DNS record type required by the consumer, make that type explicit in code, and keep the previous target available for rollback. TL;DR: a verification string is TXT, a hostname alias is CNAME, mail routing is MX,",
    "image": null
   },
   {
-   "title": "I read 65 CI files from 30 popular npm packages. 13 still run an end-of-life Node.",
-   "link": "https://dev.to/samson_ilands/i-read-65-ci-files-from-30-popular-npm-packages-13-still-run-an-end-of-life-node-i98",
-   "date": "2026-09-21T20:26:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every green badge is a promise that your tests ran. The file behind it gets written once, at the moment someone is trying to ship, and then rarely re-read. I re-read 65 of them. I pulled .github/workflows/*.yml from 30 o",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_pred_locks_per_page and max_pred_locks_per_relation",
+   "link": "https://postgr.es/p/9vm",
+   "date": "2026-09-22T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "PostgreSQL's serializable isolation remembers what each transaction reads with limited shared memory, so it trades tuple locks for page locks, then page locks…",
    "image": null
   },
   {
-   "title": "B2B Zone Changes in Node.js: Why TTL Cannot Make DNS Immediate",
-   "link": "https://dev.to/drummondreed8257/b2b-zone-changes-in-nodejs-why-ttl-cannot-make-dns-immediate-11o8",
-   "date": "2026-09-21T20:06:53.000Z",
+   "title": "Why I Stopped Self-Hosting AI Models (And You Probably Should Too)",
+   "link": "https://dev.to/shadie_ai/why-i-stopped-self-hosting-ai-models-and-you-probably-should-too-4oo2",
+   "date": "2026-09-22T00:55:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "DNS changes are not immediate because TTL really controls a cache's requested retention period, not a universal propagation deadline. Move a B2B SaaS zone with a planned overlap and resolver read-backs; that is the least",
+   "summary": "I spent three months and roughly $500 of my own money trying to get a self-hosted LLM to work reliably. I had the GPUs, the Docker containers, the whole nine yards. And I ultimately tore it all down in a weekend. Let me ",
    "image": null
   },
   {
-   "title": "Turn your ytt data values schema into a documentation site",
-   "link": "https://dev.to/baunegaard/turn-your-ytt-data-values-schema-into-a-documentation-site-3gho",
-   "date": "2026-09-21T19:59:08.000Z",
+   "title": "Keep Generated Function Reference Out of Signed Policy Copy",
+   "link": "https://dev.to/github_7727/keep-generated-function-reference-out-of-signed-policy-copy-49je",
+   "date": "2026-09-22T00:42:44.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If you template Kubernetes manifests with ytt, you probably have a data values schema. It starts small: a handful of keys with a #@schema/desc here and a #@schema/validation there. Then it grows. Ours, the deployment.yam",
+   "summary": "Library documentation fails when generated prose and human policy share one file without an ownership gate. Models can draft parameter tables from exports, but they cannot sign deprecation windows, legal notices, or oper",
    "image": null
   },
   {
-   "title": "Web Scalability for Startup Engineers — Review and Summary for Developers",
-   "link": "https://dev.to/devbookreader/web-scalability-for-startup-engineers-review-and-summary-for-developers-5dek",
-   "date": "2026-09-21T19:57:14.000Z",
+   "title": "Four Stages, Zero needs: Reconstruct the GitLab DAG Before You Merge",
+   "link": "https://dev.to/gitlab_3188/four-stages-zero-needs-reconstruct-the-gitlab-dag-before-you-merge-552o",
+   "date": "2026-09-22T00:41:31.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This book is a practical guide to scaling web applications from a few users to millions. Ejsmont covers the full stack: frontend optimization, web servers, caching layers, asynchronous processing, databases, search engin",
+   "summary": "You opened the merge request expecting a cleanup. Instead .gitlab-ci.yml lost every needs: key. Four stages remain. Every job in test now waits for every job in lint, including the one that only prints a license header. ",
    "image": null
+  },
+  {
+   "title": "Why File Hashes Fail to Match: 5 Checksum Traps Every Developer Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-file-hashes-fail-to-match-5-checksum-traps-every-developer-hits-1bma",
+   "date": "2026-09-22T00:32:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You pull down a compiled binary, container archive, or release tarball from a distribution server. You run sha256sum artifact.tar.gz, copy the hex string, and compare it against the checksum published in the release note",
+   "image": null
+  },
+  {
+   "title": "Proactive Resource Management: Implementing Balance-Aware Guardrails for Bulk Verification",
+   "link": "https://dev.to/numberchecker/proactive-resource-management-implementing-balance-aware-guardrails-for-bulk-verification-4ckl",
+   "date": "2026-09-22T00:23:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In high-volume data processing, the most frustrating failures are those that occur mid-stream. When running bulk verification jobs—such as checking large lists for platform registration signals—stalling due to an exhaust",
+   "image": null
+  },
+  {
+   "title": "Très Bien Blog: Drupack: Drupal infrastructure in a single binary",
+   "link": "https://tresbien.tech/blog/drupack-drupal-infrastructure-single-binary/",
+   "date": "2026-09-22T00:20:04.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupack: Drupal infrastructure in a single binary A few years ago I said Drupal needed infrastructure innovation, and I finally took the time to do something about it. While I really like DDEV, I'm really not a fan of ha",
+   "image": null
+  },
+  {
+   "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+   "link": "https://simonwillison.net/2026/Sep/21/jev/",
+   "date": "2026-09-21T23:09:20.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an in",
+   "image": null
+  },
+  {
+   "title": "Cloudflare Python Workers are now generally available",
+   "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
+   "date": "2026-09-21T22:25:44.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully suppor",
+   "image": null
+  },
+  {
+   "title": "Omega8.cc: New Engine, Same Keys",
+   "link": "https://omega8.cc/blog/new-engine-same-keys",
+   "date": "2026-09-21T20:58:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The database under a hosted Drupal or Backdrop estate has to change generations one day, and that is the day most operators find out what their migration tooling was hiding. On a BOA box the move across Percona generatio",
+   "image": "https://omega8.cc/images/a/6/5/3/6/a653635fd3985bcf4acbee0788ea2bfbbf82478b-new-engine-same-keys-anime-halo.png"
   },
   {
    "title": "Bruce Momjian: The Promise of Non-Volatile Memory",
@@ -89,6 +139,16 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Relational databases like Postgres provide many unique features, specifically atomicity, consistency, isolation, and durability (ACID), but providing durability has always been a challenge. Though computers originally us",
+   "image": null
+  },
+  {
+   "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+   "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/",
+   "date": "2026-09-21T18:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by default). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC,",
    "image": null
   },
   {
@@ -412,16 +472,6 @@
    "image": null
   },
   {
-   "title": "Gspikes: Drupal Hosting Compared: Speed Data From 424 Government Sites",
-   "link": "https://gspikes.com/drupal-hosting-comparison/",
-   "date": "2026-09-19T03:54:45.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "We measured server response time on all 424 Drupal sites in the US federal and state .gov registry. Pantheon vs Acquia, CDN tails, and 12 sites on unsupported Drupal.",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_maintenance_workers",
    "link": "https://postgr.es/p/9v7",
    "date": "2026-09-19T01:00:00.000Z",
@@ -432,16 +482,6 @@
    "image": null
   },
   {
-   "title": "Omega8.cc: Two Old Friends Move In",
-   "link": "https://omega8.cc/blog/two-old-friends-move-in",
-   "date": "2026-09-19T00:53:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "BOA now runs Textpattern and Grav 2 sites inside the Ægir control panel, next to Drupal and Backdrop: install, backup, restore, clone, an upgrade done on a copy while the original keeps serving, then rename and cutover, ",
-   "image": "https://omega8.cc/images/7/a/c/6/4/7ac6425769d4759d738000ba046b1f4f3e5d5d42-two-old-friends-move-in-anime-halo.png"
-  },
-  {
    "title": "Mark Wong: Sizing an OLTP TPC-E-like workload, Part 1",
    "link": "https://postgr.es/p/9v6",
    "date": "2026-09-19T00:41:25.000Z",
@@ -450,36 +490,6 @@
    "source": "Planet PostgreSQL",
    "summary": "I used AI tools to size an OLTP workload on an EC2 system, with DBT-5, a TPC-E-like fair-use implementation. I provided a systematic and mechanical plan for running a series of tests to determine what the appropriate sca",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_G7Avurtm0nWBHMyywgm2lFsjDXfsWg97Q7y9qEtSZAlMuUnKeUzq1gYzitKVpNQx3J8mbP9YBlfrxzidZC3MHav04TzDrQEy4_KAxwMl5CVpfBa9RpMhhvYFeiAsfXB3WvUUUX4T9JTz1Ta5P0EXWpAJYgo7MspNXX67h7Aof6FGM3CVj3uYg/w640-h397/throughput-survey-default.png"
-  },
-  {
-   "title": "Ruohang Feng: PostgreSQL's Chinese Error Messages Were Seven Years Stale. Not Anymore.",
-   "link": "https://postgr.es/p/9vb",
-   "date": "2026-09-19T00:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Never set your PostgreSQL locale to zh_CN — that old rule expires with PostgreSQL 19. The Chinese message catalogs went seven years untouched and nearly got dropped from the release. A bone nobody could chew through in s",
-   "image": null
-  },
-  {
-   "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-   "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-   "date": "2026-09-18T23:57:57.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irreg",
-   "image": null
-  },
-  {
-   "title": "Note on 18th September 2026",
-   "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-   "date": "2026-09-18T19:21:32.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Skeptical geneti",
-   "image": null
   },
   {
    "title": "SymfonyCon Warsaw 2026: Last 5 days for regular tickets!",
@@ -820,16 +830,6 @@
    "source": "Frontend Focus",
    "summary": "🚀 Frontend Focus #​757 — September 9, 2026 | Read on the web New Things You Should Know About HTML in 2026 — HTML moves a bit slower than CSS and JavaScript, but there's plenty of new features to keep up with. Chris run",
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/u72fk6nihuuzxi8gvc7t.jpg"
-  },
-  {
-   "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling",
-   "link": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/",
-   "date": "2026-09-08T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "AI/ML and complex batch workloads continue to push the boundaries of Kubernetes scheduling. Following the foundational workload-centric enhancements introduced in previous releases, Kubernetes v1.37 delivers the next maj",
-   "image": null
   },
   {
    "title": "Fragments: September  8",
