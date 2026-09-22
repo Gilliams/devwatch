@@ -1,84 +1,204 @@
 {
- "generatedAt": "2026-09-22T15:30:16.888Z",
+ "generatedAt": "2026-09-22T20:10:27.527Z",
  "articles": [
   {
-   "title": "Don't Rehearse a Bill on Gift Capacity",
-   "link": "https://dev.to/hackrs_3352/dont-rehearse-a-bill-on-gift-capacity-jad",
-   "date": "2026-09-22T15:23:06.000Z",
+   "title": "I have free 8 months and I wanna learn and build application, which easy P-language should I pick as a beginner?",
+   "link": "https://dev.to/xthan/i-have-free-8-months-and-i-wanna-learn-and-build-application-which-easy-p-language-should-i-pick-3kn0",
+   "date": "2026-09-22T19:52:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You cannot price a paid path by running the same prompt on gift capacity. A free queue has a different wait, a different preemption story, and a different retry surface. Treat it as a scratch pad. Rehearse spend only whe",
+   "summary": "",
    "image": null
   },
   {
-   "title": "If Only One Host Passed, the Agent Did Not",
-   "link": "https://dev.to/airs_6907/if-only-one-host-passed-the-agent-did-not-46jo",
-   "date": "2026-09-22T15:20:23.000Z",
+   "title": "A Practical Guide to Keeping Your Car Ready for Every Season",
+   "link": "https://dev.to/phoebe_graham_bd83c395519/a-practical-guide-to-keeping-your-car-ready-for-every-season-30dc",
+   "date": "2026-09-22T19:50:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your agent test is not a result yet. It is still a rumor from one host. A second machine must run the same contract. Only then should you merge the change. Most agent evals pin the prompt text. Some teams even pin the to",
+   "summary": "Cars experience different conditions throughout the year. Changes in temperature, road conditions, rainfall, and driving habits can all affect the way a vehicle operates. While modern vehicles are designed to handle chan",
    "image": null
   },
   {
-   "title": "No Key, No Write: Fail-Closed Idempotency Gates for AI-Touched APIs",
-   "link": "https://dev.to/codecpp_5026/no-key-no-write-fail-closed-idempotency-gates-for-ai-touched-apis-3ijj",
-   "date": "2026-09-22T15:18:09.000Z",
+   "title": "Compile Error Catalogs From Raises Clauses; Humans Sign Severity and Response",
+   "link": "https://dev.to/github_7727/compile-error-catalogs-from-raises-clauses-humans-sign-severity-and-response-1k9i",
+   "date": "2026-09-22T19:38:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A retry without an idempotency key is not resilience. It is a second charge, a second ticket, or a second deploy. If an assistant, a worker, or a model-backed endpoint can fire a mutating call twice, you fail closed unti",
+   "summary": "Generated troubleshooting pages fail when they mix extractable error facts with unsigned operational promises in one file. A repository already contains exception classes, raises clauses, and stable log event identifiers",
    "image": null
   },
   {
-   "title": "Observability for AI Applications",
-   "link": "https://dev.to/saliha_chudhary_52def3ed7/observability-for-ai-applications-4amd",
-   "date": "2026-09-22T15:15:19.000Z",
+   "title": "The X Search flip finally landed: xAI's per-item pricing is live (pilot #4)",
+   "link": "https://dev.to/truerate_tool/the-x-search-flip-finally-landed-xais-per-item-pricing-is-live-pilot-4-5g8e",
+   "date": "2026-09-22T19:38:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Observability for AI Applications Introduction to AI Observability Observability has become an essential part of modern software development, especially as artificial intelligence applications become more complex. Observ",
+   "summary": "Yesterday's pilot said xAI's announced X Search repricing hadn't flipped yet. It has now. The canonical tools table on the API pricing page now reads (verbatim): | X Search | x_search | Search X posts, user profiles, and",
    "image": null
   },
   {
-   "title": "What Nobody Is Using in Your Google Cloud Projects, and What It Costs",
-   "link": "https://dev.to/gde/what-nobody-is-using-in-your-google-cloud-projects-and-what-it-costs-1k0",
-   "date": "2026-09-22T15:14:36.000Z",
+   "title": "Built a DNS propagation checker that queries 3 resolvers at once instead of guessing from one",
+   "link": "https://dev.to/vipul_singh_755a9075cfbdd/built-a-dns-propagation-checker-that-queries-3-resolvers-at-once-instead-of-guessing-from-one-16ko",
+   "date": "2026-09-22T19:18:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "This article provides a step by step guide to building a Google Cloud waste scanner from source, running it across every project your credentials can see, pricing each finding from the Cloud Billing Catalog API, and draf",
+   "summary": "Built a checker that makes this actually observable: Queries Cloudflare, Google, and Quad9 — three independent public resolvers — at the same instant Checks A, AAAA, MX, TXT (incl. SPF), and NS records in one pass Flags ",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpjoig0c2xdh52aeixd9.png"
+  },
+  {
+   "title": "Adopting the Software Factory Pattern: Orchestrating Goal-Driven Agent Loops",
+   "link": "https://dev.to/isuvo/adopting-the-software-factory-pattern-orchestrating-goal-driven-agent-loops-2hcg",
+   "date": "2026-09-22T19:15:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Introduction Over the past few years, the software engineering community has moved rapidly through the phases of generative AI adoption. We began with simple autocomplete utilities, transitioned to chat-based inline assi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5d2x46jwcshw7hr4g4w.jpg"
+  },
+  {
+   "title": "Software End of Life vs End of Support (2026)",
+   "link": "https://dev.to/dcentrica/software-end-of-life-vs-end-of-support-2026-2ah7",
+   "date": "2026-09-22T19:09:51.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Digital teams don't struggle to understand what end of support or end of life mean in theory. They struggle with the weight of knowing what such signals mean in practice when responsible for an entire portfolio of websit",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fno0ea7p4lasjuk9wttq6.webp"
+  },
+  {
+   "title": "I Compared Professional-Grade Jira Alternatives for 2026",
+   "link": "https://dev.to/hamiltonstaton1983/i-compared-professional-grade-jira-alternatives-for-2026-406e",
+   "date": "2026-09-22T19:09:16.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Replacing Jira is not only a question of ticket tracking. Requirements, roadmaps, dependencies, release progress, documentation, and engineering signals often live in separate systems, making it harder to identify blocke",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcomblogcms.myones.net%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-50.png"
+  },
+  {
+   "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+   "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+   "date": "2026-09-22T18:29:39.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the ser",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg"
+  },
+  {
+   "title": "Quoting @therealcornpop",
+   "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+   "date": "2026-09-22T18:03:21.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird bro",
    "image": null
   },
   {
-   "title": "Compare Free Agent Compute to a Paid Box With a Weighted Tradeoff Sheet",
-   "link": "https://dev.to/datago_8008/compare-free-agent-compute-to-a-paid-box-with-a-weighted-tradeoff-sheet-4f28",
-   "date": "2026-09-22T15:13:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Free agent compute stays the right default only while idle cost hurts more than contention and data gravity. I refuse to pick a runtime because a landing page called the model or the box free. I wait until five written t",
+   "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+   "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+   "date": "2026-09-22T18:03:10.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to ru",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg"
+  },
+  {
+   "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+   "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+   "date": "2026-09-22T17:58:15.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg"
+  },
+  {
+   "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+   "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+   "date": "2026-09-22T17:03:31.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization fr",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
+  },
+  {
+   "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+   "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+   "date": "2026-09-22T16:41:12.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP req",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
+  },
+  {
+   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+   "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+   "date": "2026-09-22T16:14:04.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, h",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
+  },
+  {
+   "title": "Christophe Pettus: The Shadow Knows",
+   "link": "https://postgr.es/p/9vu",
+   "date": "2026-09-22T16:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "ClickHouse released WalShadow last week, and it does something very… brave: it replicates PostgreSQL into ClickHouse without using logical decoding at all. It reads the physical WAL stream, the same bytes a streaming rep",
    "image": null
   },
   {
-   "title": "Keep Production Frozen Until the Runbook Names Blast Radius",
-   "link": "https://dev.to/appcpp_9071/keep-production-frozen-until-the-runbook-names-blast-radius-1k51",
-   "date": "2026-09-22T15:03:57.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I will not unfreeze production until the runbook names blast radius and a hard command budget. A page without those two fields is just a loud ticket, and I treat it that way on every rotation. Can you point at the servic",
+   "title": "llm-typesafe 0.1a0",
+   "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+   "date": "2026-09-22T15:54:16.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move ",
    "image": null
   },
   {
-   "title": "Legacy DNS Inventory: 4 Bootstrap Stages Before Domain Automation",
-   "link": "https://dev.to/hayessterling2614/legacy-dns-inventory-4-bootstrap-stages-before-domain-automation-2ap3",
-   "date": "2026-09-22T15:03:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A tenant-subdomain controller is dangerous until its view of DNS matches what is already published. TL;DR: to bootstrap DNS inventory for domains that predate automation, enumerate every zone, read every record, store th",
+   "title": "SymfonyCon Warsaw 2026: Real Browsers, Real Kernel: Playwright Testing in Symfony",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-real-browsers-real-kernel-playwright-testing-in-symfony?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-22T15:49:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Connect, learn, and grow with the international Symfony ecosystem! SymfonyCon Warsaw 2026 lands in Poland on November 26-27. Expect two full days of high-value talks across 3 tracks, paired with vibrant community side-ev",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "Dimitri Fontaine: Ten years of Postgres logical replication",
+   "link": "https://postgr.es/p/9vt",
+   "date": "2026-09-22T15:26:01.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "A long time ago I ran a write-heavy system on a hub and a handful of workers. Each worker took a share of the application traffic and wrote events locally. The hub owned the reference data (customers, plans, prices), pus",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: Fifteen of 28 Drupal Core Maintainer Vacancies From 2025 Remain Unassigned",
+   "link": "https://www.thedroptimes.com/72279/drupal-core-maintainer-vacancies-unassigned?utm_source=Drupal Planet",
+   "date": "2026-09-22T14:17:20.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The 2025 recruitment drive added maintainers across a dozen vacancy areas, but Drupal core’s current roster shows how later departures and module changes have altered that picture.",
    "image": null
   },
   {
@@ -102,36 +222,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
   },
   {
-   "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-   "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-   "date": "2026-09-22T11:45:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
-  },
-  {
-   "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-   "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-   "date": "2026-09-22T11:38:40.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s1600/linux-kvm.jpg"
-  },
-  {
-   "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-   "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-   "date": "2026-09-22T11:17:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0R8P6iyk50vNReEGl0FkwYoFPk5n2fkVC3_3Mf2J5SaQ7yFIHbA3xuQpCATCQ9Y5Ie2ysz9EVaDb_vR5Bbnp209w28bSDK2Rqggotv4NPQbFB5LX4SUT4eztA-6939clsV9QQ41MHwIl8MFSzaJwyFFeBusztZ9H7oZhiUOlFYrL8BQh6hXWegn39uU/s1600/ms-rce.jpg"
-  },
-  {
    "title": "Tomas Vondra: Being considerate of other people's time",
    "link": "https://postgr.es/p/9vp",
    "date": "2026-09-22T10:00:00.000Z",
@@ -142,26 +232,6 @@
    "image": null
   },
   {
-   "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-   "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-   "date": "2026-09-22T09:38:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in resp",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg"
-  },
-  {
-   "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-   "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-   "date": "2026-09-22T07:52:03.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typicall",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
-  },
-  {
    "title": "New in Symfony 8.2: Role Hierarchy Wildcards and Debugging",
    "link": "https://symfony.com/blog/new-in-symfony-8-2-role-hierarchy-wildcards-and-debugging?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-22T07:44:00.000Z",
@@ -170,16 +240,6 @@
    "source": "Symfony Blog",
    "summary": "The role hierarchy lets you define which roles are included in other roles, so you don't have to assign all of them to each user. In applications with many roles, this configuration grows quickly and it's hard to tell wh",
    "image": "https://connect.symfony.com/profile/squrious.picture"
-  },
-  {
-   "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-   "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-   "date": "2026-09-22T06:33:57.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_pred_locks_per_page and max_pred_locks_per_relation",
@@ -199,6 +259,16 @@
    "themeName": "Drupal",
    "source": "Drupal Planet",
    "summary": "Drupack: Drupal infrastructure in a single binary A few years ago I said Drupal needed infrastructure innovation, and I finally took the time to do something about it. While I really like DDEV, I'm really not a fan of ha",
+   "image": null
+  },
+  {
+   "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+   "link": "https://huggingface.co/blog/evaleval-aisi",
+   "date": "2026-09-22T00:00:00.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
    "image": null
   },
   {
@@ -372,16 +442,6 @@
    "image": null
   },
   {
-   "title": "The Drop Times: Shared Public-Sector Platforms Shape Big Blue Door’s DrupalCon Rotterdam Focus",
-   "link": "https://www.thedroptimes.com/72354/shared-public-sector-platforms-shape-big-blue-doors-drupalcon-rotterdam-focus?utm_source=Drupal Planet",
-   "date": "2026-09-21T09:37:28.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Big Blue Door’s Rotterdam responses point to a question already being tested in councils and healthcare: how far can shared Drupal platforms be reused across organisations with different services, editorial practices, an",
-   "image": null
-  },
-  {
    "title": "Symfony UX 3.5 released",
    "link": "https://symfony.com/blog/symfony-ux-3-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-21T08:30:00.000Z",
@@ -409,16 +469,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "On 16 September 2026, the Postgres Meetup for All user group met, organized by Elizabeth Christensen and Ryan Booz. Ryan Booz and Greg Potter delivered a talk. On 18 September 2026, Claire Giordano and Aaron Wislang host",
-   "image": null
-  },
-  {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_apply_workers_per_subscription",
-   "link": "https://postgr.es/p/9vf",
-   "date": "2026-09-21T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Parallel apply workers speed up logical replication of large transactions—but only if you have enough of them.",
    "image": null
   },
   {
@@ -502,16 +552,6 @@
    "image": null
   },
   {
-   "title": "Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather",
-   "link": "https://postgr.es/p/9va",
-   "date": "2026-09-20T01:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "Neither of these parameters means what its name says. max_parallel_workers_per_gather is the most workers the planner is allowed to request for one plan node, and the planner usually requests fewer. max_parallel_workers ",
-   "image": null
-  },
-  {
    "title": "datasette-explain 0.2.2",
    "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
    "date": "2026-09-20T00:22:04.000Z",
@@ -519,26 +559,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s",
-   "image": null
-  },
-  {
-   "title": "datasette-auth-github 1.0",
-   "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-   "date": "2026-09-19T19:52:02.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cook",
-   "image": null
-  },
-  {
-   "title": "California Sea Lion, Brandt's Cormorant",
-   "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-   "date": "2026-09-19T17:10:08.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
    "image": null
   },
   {
@@ -600,16 +620,6 @@
    "source": "Percona Blog",
    "summary": "Evaluating LLM Models for DBA Tasks Large language models are increasingly capable of performing practical systems-administration tasks. I wanted to understand how well they could handle something more specialized: datab",
    "image": "https://www.percona.com/wp-content/uploads/2026/09/llm_harness_dba_tasks_preview_final-1024x704.png"
-  },
-  {
-   "title": "New in Symfony 8.2: Attribute-based Forms",
-   "link": "https://symfony.com/blog/new-in-symfony-8-2-attribute-based-forms?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-17T07:04:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Contributed by Benjamin Georgeault in #60563…",
-   "image": "https://connect.symfony.com/profile/wedgesama.picture"
   },
   {
    "title": "Group Replication Beyond a Single Cluster: DC-DR with Percona (PS MySQL) Operator",
@@ -889,16 +899,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
-   "image": null
-  },
-  {
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "link": "https://huggingface.co/blog/Hcompany/neomme",
-   "date": "2026-09-03T13:13:48.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
    "image": null
   },
   {
