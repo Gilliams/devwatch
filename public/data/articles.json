@@ -1,6 +1,146 @@
 {
- "generatedAt": "2026-09-23T01:28:03.105Z",
+ "generatedAt": "2026-09-23T09:56:15.187Z",
  "articles": [
+  {
+   "title": "Top Product Engineering Companies in India 2026",
+   "link": "https://dev.to/marry_walker/top-product-engineering-companies-in-india-2026-2hm6",
+   "date": "2026-09-23T09:45:58.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Choosing a product engineering company is an important decision for businesses building SaaS platforms, mobile applications, enterprise software and AI-powered products. India has a growing product engineering ecosystem ",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Solving Kubernetes CrashLoopBackOff: Probe Flapping & Cold Starts",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-solving-kubernetes-crashloopbackoff-probe-flapping-cold-starts-3od",
+   "date": "2026-09-23T09:30:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Loki na prática - enviando logs via API HTTP a partir das mini apps Python e PHP",
+   "link": "https://dev.to/apsis-cc/loki-na-pratica-enviando-logs-via-api-http-a-partir-das-mini-apps-python-e-php-5en5",
+   "date": "2026-09-23T09:30:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. Retomando: métricas prontas, falta o segundo pilar As duas mini aplicações desta série — a de Python (artigo 2) e a de PHP (artigo 3) — já expõem métricas consumidas pelo Prometheus. Métricas respondem \"quantos pedido",
+   "image": null
+  },
+  {
+   "title": "Playing with jev in n8n (OpenRouter + Opper AI) for faster decision workflows",
+   "link": "https://dev.to/cmuench/playing-with-jev-in-n8n-openrouter-opper-ai-for-faster-decision-workflows-5193",
+   "date": "2026-09-23T09:30:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Title: Playing with jev in n8n (OpenRouter + Opper AI) for faster decision workflows Body:Today I played with jev and routed it via OpenRouter + Opper AI in my homelab n8n.I optimized two workflows where I used OpenAI 5.",
+   "image": null
+  },
+  {
+   "title": "What Evidence Does an AI Agent Actually Need to Leave Behind?",
+   "link": "https://dev.to/sirinivask/what-evidence-does-an-ai-agent-actually-need-to-leave-behind-2b02",
+   "date": "2026-09-23T09:28:39.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "There is a question that keeps surfacing as AI agents move from answering questions in chat to actually doing things, writing code, modifying configs, calling APIs, deploying services. The question is not \"how do we stop",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fupd2191ms56pg9e75yh1.png"
+  },
+  {
+   "title": "Why Cloudflare bills spike: 8 D1 and Durable Objects cases from 2026",
+   "link": "https://dev.to/howardzlh/why-cloudflare-bills-spike-8-d1-and-durable-objects-cases-from-2026-288a",
+   "date": "2026-09-23T09:24:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Originally published at guushu.com/notes. I keep the original updated, so this copy may lag. Eight public Cloudflare bill spikes turned up in 2026 threads on Cloudflare Community and Hacker News. Seven are D1 rows read. ",
+   "image": null
+  },
+  {
+   "title": "Building a Terminology Pipeline for Multilingual Compliance Documentation (ISO 14001 and Beyond)",
+   "link": "https://dev.to/diogoheleno/building-a-terminology-pipeline-for-multilingual-compliance-documentation-iso-14001-and-beyond-5ol",
+   "date": "2026-09-23T09:18:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you've ever worked on internal tooling for a compliance, legal, or QA team, you know the drill: someone eventually asks for a way to \"just translate the docs\" for an audit, a certification, or a foreign regulator. It ",
+   "image": null
+  },
+  {
+   "title": "Managing Multilingual Legal Contracts as Structured Data: A Technical Approach to Contract Translation Pipelines",
+   "link": "https://dev.to/diogoheleno/managing-multilingual-legal-contracts-as-structured-data-a-technical-approach-to-contract-1kh7",
+   "date": "2026-09-23T09:17:36.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Legal teams often treat contract translation as a one-off task: send a document to a vendor, get a translated PDF back, file it. That works until you have dozens of agency and distribution contracts across multiple juris",
+   "image": null
+  },
+  {
+   "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+   "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+   "date": "2026-09-23T08:29:48.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg"
+  },
+  {
+   "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+   "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+   "date": "2026-09-23T08:29:24.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVEmuPJKZAlboodZWejG4dGZXXejOLThyXPoOnycqTY8lznAewTW5ovv8XFJzhyjPRMXT-njudYOVWFEYCLvmEPDyUrfDTZzAmp1S4KE4DuzsDFxt8R-biL2puZZBWG36_dkhfzvpeigcPb9WJNy31oIXo6Oh3zMUzL3JG6MEr4OaGE4Yi_k5JCpohVrZ/s1600/windows-china.jpg"
+  },
+  {
+   "title": "New in Symfony 8.2: JSON Schema for Configuration",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-json-schema-for-configuration?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-23T07:07:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Symfony 7.4 added JSON schemas for YAML files like services.yaml and routes.yaml, so IDEs can autocomplete and validate them. The files in config/packages/ weren't included and that's where you write or maintain most of ",
+   "image": "https://connect.symfony.com/profile/gromnan.picture"
+  },
+  {
+   "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+   "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+   "date": "2026-09-23T07:04:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app pu",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg"
+  },
+  {
+   "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+   "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+   "date": "2026-09-23T05:30:09.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised th",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png"
+  },
+  {
+   "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+   "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+   "date": "2026-09-23T02:53:19.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things wit",
+   "image": null
+  },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_pred_locks_per_transaction",
    "link": "https://postgr.es/p/9vv",
@@ -12,76 +152,6 @@
    "image": null
   },
   {
-   "title": "My code checker was wrong. How I turned its false positives into tests",
-   "link": "https://dev.to/navesz/my-code-checker-was-wrong-how-i-turned-its-false-positives-into-tests-1bim",
-   "date": "2026-09-23T00:37:58.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Disclosure: I'm the author of rebar, the open-source checker this post is about. It is alpha. rebar fails a CI job when a repository breaks a rule. Examples: formatting nobody checks, a hook git will never run, a credent",
-   "image": null
-  },
-  {
-   "title": "The SPF 10-Lookup Trap: Why Transactional Emails Land in Spam",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/the-spf-10-lookup-trap-why-transactional-emails-land-in-spam-3j5l",
-   "date": "2026-09-23T00:31:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You wire up Google Workspace for team mail, plug in SendGrid for password resets, add Zendesk for support, and link HubSpot for newsletters. Each onboarding checklist ends with the exact same line: Add this include to yo",
-   "image": null
-  },
-  {
-   "title": "Linear cut CI runner-time in half while tests quadrupled. The review gate can't do that trick.",
-   "link": "https://dev.to/cole_halton_42f71d71b809b/linear-cut-ci-runner-time-in-half-while-tests-quadrupled-the-review-gate-cant-do-that-trick-p6l",
-   "date": "2026-09-23T00:15:06.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Linear put up a really good post about reworking their CI because AI coding agents had turned it into the bottleneck. The numbers are worth reading on their own terms: their test suite roughly quadrupled since the start ",
-   "image": null
-  },
-  {
-   "title": "Which Project Management Tool Fits Software Development Teams in 2026?",
-   "link": "https://dev.to/markadamsdams/which-project-management-tool-fits-software-development-teams-in-2026-4ima",
-   "date": "2026-09-23T00:09:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A sprint can start with requirements in one system, bugs in another, and release notes in a chat thread. Developers then reconstruct context while product managers and QA work from different progress signals. The resulti",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcomblogcms.myones.net%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-50.png"
-  },
-  {
-   "title": "Tracking Per-Size ASOS Stock Across 10 Regional Stores",
-   "link": "https://dev.to/crawlerbros/tracking-per-size-asos-stock-across-10-regional-stores-21of",
-   "date": "2026-09-23T00:01:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "E-commerce pricing engines and retail analytics pipelines often fail when tracking inventory changes at the variant level. On fast-fashion platforms like ASOS, top-level product availability is misleading: a product page",
-   "image": null
-  },
-  {
-   "title": "An injection that moved is not an injection that was fixed",
-   "link": "https://dev.to/vinimabreu/an-injection-that-moved-is-not-an-injection-that-was-fixed-2oeo",
-   "date": "2026-09-22T23:52:15.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Every guide to GitHub Actions script injection ends with the same fix. You have this: - run: helper-cli --prompt \"${{ github.event.comment.body }}\" and the runner expands the expression into the script before bash ever s",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6uur1up0ogepuog0aim1.gif"
-  },
-  {
-   "title": "How We Killed Our Worst Alert (And What We Learned)",
-   "link": "https://dev.to/samson_tanimawo/how-we-killed-our-worst-alert-and-what-we-learned-5c2b",
-   "date": "2026-09-22T23:46:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "For two years, one alert dominated our on-call pages. It fired roughly 40% of all pages. Nobody had fixed it because 'it was important.' Here's how we finally killed it. 'Kafka consumer lag > 100k messages on topic X.' S",
-   "image": null
-  },
-  {
    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
    "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
    "date": "2026-09-22T23:46:41.000Z",
@@ -89,16 +159,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to ",
-   "image": null
-  },
-  {
-   "title": "When AI hallucinated 'systemd' and 'cron' on my Windows machine: The 'context blindness' trap of LLMs",
-   "link": "https://dev.to/masaoshimadaopen/when-ai-hallucinated-systemd-and-cron-on-my-windows-machine-the-context-blindness-trap-of-g88",
-   "date": "2026-09-22T23:30:17.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Hey, it's Grandpa Oji (@oji_ai_dev) here. I'm a 38-year-old developer who tinkers with AI bots in my side hustle and works as a full-time engineer during the week. Recently, I decided to start a simple dev blog – separat",
    "image": null
   },
   {
@@ -202,26 +262,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
   },
   {
-   "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-   "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-   "date": "2026-09-22T16:41:12.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP req",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
-  },
-  {
-   "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-   "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-   "date": "2026-09-22T16:14:04.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, h",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
-  },
-  {
    "title": "Christophe Pettus: The Shadow Knows",
    "link": "https://postgr.es/p/9vu",
    "date": "2026-09-22T16:00:00.000Z",
@@ -262,6 +302,16 @@
    "image": null
   },
   {
+   "title": "Droptica: Drupal vs WordPress enterprise: AI-era content operations",
+   "link": "https://www.droptica.com/blog/drupal-vs-wordpress-enterprise-ai-era-content-operations/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
+   "date": "2026-09-22T14:51:11.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Choosing a CMS for a multilingual product catalogue is a content-operations decision, not a plugin shootout. Drupal vs WordPress enterprise teams must compare field-level translation, moderation, entity APIs, and AI-read",
+   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20vs%20WordPress%20enterprise%20AI-era%20content%20operations_1.png"
+  },
+  {
    "title": "The Drop Times: Fifteen of 28 Drupal Core Maintainer Vacancies From 2025 Remain Unassigned",
    "link": "https://www.thedroptimes.com/72279/drupal-core-maintainer-vacancies-unassigned?utm_source=Drupal Planet",
    "date": "2026-09-22T14:17:20.000Z",
@@ -270,26 +320,6 @@
    "source": "Drupal Planet",
    "summary": "The 2025 recruitment drive added maintainers across a dozen vacancy areas, but Drupal core’s current roster shows how later departures and module changes have altered that picture.",
    "image": null
-  },
-  {
-   "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-   "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-   "date": "2026-09-22T12:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ivhHLwWwT7Ptbr537Fd2CV3d_maDSNRmH0up0x67UPpc5x45Uuz0Bg8EnLkjrtB3DYXldW7aKbzx5uljQSF7IhQlzHHA1HR0F16Eaxs8Y3tgURkizSrA79L3EqyD5RDlqPGljbXCTQj0tFFG2EOVueksvhyrmdmC-v6VFjs76KdzZlCg1juWiVOPDnU/s1600/token.jpg"
-  },
-  {
-   "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-   "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-   "date": "2026-09-22T12:29:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
   },
   {
    "title": "Tomas Vondra: Being considerate of other people's time",
@@ -462,16 +492,6 @@
    "image": null
   },
   {
-   "title": "BloomIdea: Mautic Audiences for Drupal: personalisation built on the segments you already maintain",
-   "link": "https://bloomidea.com/en/blog/mautic-audiences-drupal-personalisation-segments-you-already-maintain",
-   "date": "2026-09-21T13:59:58.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Your marketing team already knows who the VIPs are. They maintain the segment in Mautic, they send it a campaign every month, they add and remove people as orders and behaviour change. Then somebody asks for a VIP banner",
-   "image": null
-  },
-  {
    "title": "What We Know About Laravel 14",
    "link": "https://laravel-news.com/laravel-14?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-21T13:57:13.000Z",
@@ -542,16 +562,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-health-featured.png"
   },
   {
-   "title": "Quoting voxium",
-   "link": "https://simonwillison.net/2026/Sep/20/voxium/",
-   "date": "2026-09-20T21:06:43.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobo",
-   "image": null
-  },
-  {
    "title": "Difflock: Lint Laravel Migrations and Diff Your Schema",
    "link": "https://laravel-news.com/difflock-migration-linter?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-20T20:52:18.000Z",
@@ -610,16 +620,6 @@
    "source": "Martin Fowler",
    "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand",
    "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: Beyond the Demo: Shipping Real AI Features",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-beyond-the-demo-shipping-real-ai-features?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-17T12:33:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Ready to level up your PHP and Symfony skills? SymfonyCon Warsaw 2026 lands in Poland this November 26-27! Gather with fellow developers from around the globe for two dense days of learning, featuring 3 parallel tracks a",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
   },
   {
    "title": "Evaluating LLM models for DBA tasks",
@@ -833,6 +833,16 @@
   },
   {
    "title": "PHPBenelux Conference 2027, Antwerp Belgium",
+   "link": "https://www.php.net/conferences/index.php#2026-09-09-2",
+   "date": "2026-09-09T20:50:57.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Buy your tickets herehttps://conference.phpbenelux.eu",
+   "image": null
+  },
+  {
+   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
    "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
    "date": "2026-09-09T20:40:47.000Z",
    "theme": "php",
@@ -989,16 +999,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "The PHP development team announces the immediate availability of PHP 8.5.10. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.10 please visit our , W",
-   "image": null
-  },
-  {
-   "title": "PHP 8.4.25 Released!",
-   "link": "https://www.php.net/index.php#2026-08-27-2",
-   "date": "2026-08-27T14:59:19.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.25. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.25 please visit our , W",
    "image": null
   },
   {
