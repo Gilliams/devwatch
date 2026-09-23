@@ -1,85 +1,135 @@
 {
- "generatedAt": "2026-09-22T20:10:27.527Z",
+ "generatedAt": "2026-09-23T01:28:03.105Z",
  "articles": [
   {
-   "title": "I have free 8 months and I wanna learn and build application, which easy P-language should I pick as a beginner?",
-   "link": "https://dev.to/xthan/i-have-free-8-months-and-i-wanna-learn-and-build-application-which-easy-p-language-should-i-pick-3kn0",
-   "date": "2026-09-22T19:52:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_pred_locks_per_transaction",
+   "link": "https://postgr.es/p/9vv",
+   "date": "2026-09-23T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "max_pred_locks_per_transaction has the naming problem of max_locks_per_transaction, and then one of its own. Like its namesake, it is a table size quoted per backend slot, not a limit on any transaction. Unlike its names",
    "image": null
   },
   {
-   "title": "A Practical Guide to Keeping Your Car Ready for Every Season",
-   "link": "https://dev.to/phoebe_graham_bd83c395519/a-practical-guide-to-keeping-your-car-ready-for-every-season-30dc",
-   "date": "2026-09-22T19:50:19.000Z",
+   "title": "My code checker was wrong. How I turned its false positives into tests",
+   "link": "https://dev.to/navesz/my-code-checker-was-wrong-how-i-turned-its-false-positives-into-tests-1bim",
+   "date": "2026-09-23T00:37:58.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cars experience different conditions throughout the year. Changes in temperature, road conditions, rainfall, and driving habits can all affect the way a vehicle operates. While modern vehicles are designed to handle chan",
+   "summary": "Disclosure: I'm the author of rebar, the open-source checker this post is about. It is alpha. rebar fails a CI job when a repository breaks a rule. Examples: formatting nobody checks, a hook git will never run, a credent",
    "image": null
   },
   {
-   "title": "Compile Error Catalogs From Raises Clauses; Humans Sign Severity and Response",
-   "link": "https://dev.to/github_7727/compile-error-catalogs-from-raises-clauses-humans-sign-severity-and-response-1k9i",
-   "date": "2026-09-22T19:38:41.000Z",
+   "title": "The SPF 10-Lookup Trap: Why Transactional Emails Land in Spam",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/the-spf-10-lookup-trap-why-transactional-emails-land-in-spam-3j5l",
+   "date": "2026-09-23T00:31:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Generated troubleshooting pages fail when they mix extractable error facts with unsigned operational promises in one file. A repository already contains exception classes, raises clauses, and stable log event identifiers",
+   "summary": "You wire up Google Workspace for team mail, plug in SendGrid for password resets, add Zendesk for support, and link HubSpot for newsletters. Each onboarding checklist ends with the exact same line: Add this include to yo",
    "image": null
   },
   {
-   "title": "The X Search flip finally landed: xAI's per-item pricing is live (pilot #4)",
-   "link": "https://dev.to/truerate_tool/the-x-search-flip-finally-landed-xais-per-item-pricing-is-live-pilot-4-5g8e",
-   "date": "2026-09-22T19:38:05.000Z",
+   "title": "Linear cut CI runner-time in half while tests quadrupled. The review gate can't do that trick.",
+   "link": "https://dev.to/cole_halton_42f71d71b809b/linear-cut-ci-runner-time-in-half-while-tests-quadrupled-the-review-gate-cant-do-that-trick-p6l",
+   "date": "2026-09-23T00:15:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Yesterday's pilot said xAI's announced X Search repricing hadn't flipped yet. It has now. The canonical tools table on the API pricing page now reads (verbatim): | X Search | x_search | Search X posts, user profiles, and",
+   "summary": "Linear put up a really good post about reworking their CI because AI coding agents had turned it into the bottleneck. The numbers are worth reading on their own terms: their test suite roughly quadrupled since the start ",
    "image": null
   },
   {
-   "title": "Built a DNS propagation checker that queries 3 resolvers at once instead of guessing from one",
-   "link": "https://dev.to/vipul_singh_755a9075cfbdd/built-a-dns-propagation-checker-that-queries-3-resolvers-at-once-instead-of-guessing-from-one-16ko",
-   "date": "2026-09-22T19:18:00.000Z",
+   "title": "Which Project Management Tool Fits Software Development Teams in 2026?",
+   "link": "https://dev.to/markadamsdams/which-project-management-tool-fits-software-development-teams-in-2026-4ima",
+   "date": "2026-09-23T00:09:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Built a checker that makes this actually observable: Queries Cloudflare, Google, and Quad9 — three independent public resolvers — at the same instant Checks A, AAAA, MX, TXT (incl. SPF), and NS records in one pass Flags ",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpjoig0c2xdh52aeixd9.png"
-  },
-  {
-   "title": "Adopting the Software Factory Pattern: Orchestrating Goal-Driven Agent Loops",
-   "link": "https://dev.to/isuvo/adopting-the-software-factory-pattern-orchestrating-goal-driven-agent-loops-2hcg",
-   "date": "2026-09-22T19:15:02.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Introduction Over the past few years, the software engineering community has moved rapidly through the phases of generative AI adoption. We began with simple autocomplete utilities, transitioned to chat-based inline assi",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe5d2x46jwcshw7hr4g4w.jpg"
-  },
-  {
-   "title": "Software End of Life vs End of Support (2026)",
-   "link": "https://dev.to/dcentrica/software-end-of-life-vs-end-of-support-2026-2ah7",
-   "date": "2026-09-22T19:09:51.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Digital teams don't struggle to understand what end of support or end of life mean in theory. They struggle with the weight of knowing what such signals mean in practice when responsible for an entire portfolio of websit",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fno0ea7p4lasjuk9wttq6.webp"
-  },
-  {
-   "title": "I Compared Professional-Grade Jira Alternatives for 2026",
-   "link": "https://dev.to/hamiltonstaton1983/i-compared-professional-grade-jira-alternatives-for-2026-406e",
-   "date": "2026-09-22T19:09:16.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Replacing Jira is not only a question of ticket tracking. Requirements, roadmaps, dependencies, release progress, documentation, and engineering signals often live in separate systems, making it harder to identify blocke",
+   "summary": "A sprint can start with requirements in one system, bugs in another, and release notes in a chat thread. Developers then reconstruct context while product managers and QA work from different progress signals. The resulti",
    "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcomblogcms.myones.net%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-50.png"
+  },
+  {
+   "title": "Tracking Per-Size ASOS Stock Across 10 Regional Stores",
+   "link": "https://dev.to/crawlerbros/tracking-per-size-asos-stock-across-10-regional-stores-21of",
+   "date": "2026-09-23T00:01:45.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "E-commerce pricing engines and retail analytics pipelines often fail when tracking inventory changes at the variant level. On fast-fashion platforms like ASOS, top-level product availability is misleading: a product page",
+   "image": null
+  },
+  {
+   "title": "An injection that moved is not an injection that was fixed",
+   "link": "https://dev.to/vinimabreu/an-injection-that-moved-is-not-an-injection-that-was-fixed-2oeo",
+   "date": "2026-09-22T23:52:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every guide to GitHub Actions script injection ends with the same fix. You have this: - run: helper-cli --prompt \"${{ github.event.comment.body }}\" and the runner expands the expression into the script before bash ever s",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6uur1up0ogepuog0aim1.gif"
+  },
+  {
+   "title": "How We Killed Our Worst Alert (And What We Learned)",
+   "link": "https://dev.to/samson_tanimawo/how-we-killed-our-worst-alert-and-what-we-learned-5c2b",
+   "date": "2026-09-22T23:46:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "For two years, one alert dominated our on-call pages. It fired roughly 40% of all pages. Nobody had fixed it because 'it was important.' Here's how we finally killed it. 'Kafka consumer lag > 100k messages on topic X.' S",
+   "image": null
+  },
+  {
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+   "date": "2026-09-22T23:46:41.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to ",
+   "image": null
+  },
+  {
+   "title": "When AI hallucinated 'systemd' and 'cron' on my Windows machine: The 'context blindness' trap of LLMs",
+   "link": "https://dev.to/masaoshimadaopen/when-ai-hallucinated-systemd-and-cron-on-my-windows-machine-the-context-blindness-trap-of-g88",
+   "date": "2026-09-22T23:30:17.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Hey, it's Grandpa Oji (@oji_ai_dev) here. I'm a 38-year-old developer who tinkers with AI bots in my side hustle and works as a full-time engineer during the week. Recently, I decided to start a simple dev blog – separat",
+   "image": null
+  },
+  {
+   "title": "Drupal AI Initiative: The countdown is on: sovereignty on the Enterprise AI Summit",
+   "link": "https://www.drupal.org/about/ai/initiatives/blog/the-countdown-is-on-sovereignty-on-the-enterprise-ai-summit",
+   "date": "2026-09-22T23:11:50.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The Enterprise AI Summit takes place in one week, on 28 September aboard the SS Rotterdam, and the countdown is a good moment to properly introduce a session that's been on the agenda for a while: sovereign AI with Julie",
+   "image": null
+  },
+  {
+   "title": "Live Stream: Building a Social Network in PHP in 48 Hours",
+   "link": "https://laravel-news.com/social-network-php-48-hours?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-22T19:04:35.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Nuno Maduro, Brent Roose, and Matthieu Napoli spent two days at the JetBrains office building a full social network in PHP, and recorded all of it. The post Live Stream: Building a Social Network in PHP in 48 Hours appea",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-22-social-network-php-48-hours.png"
+  },
+  {
+   "title": "llm 0.36",
+   "link": "https://simonwillison.net/2026/Sep/22/llm/",
+   "date": "2026-09-22T18:48:37.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises l",
+   "image": null
   },
   {
    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -112,6 +162,16 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg"
   },
   {
+   "title": "Spotlight on SIG Apps",
+   "link": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/",
+   "date": "2026-09-22T18:00:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "Kubernetes Blog",
+   "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch",
+   "image": null
+  },
+  {
    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
    "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
    "date": "2026-09-22T17:58:15.000Z",
@@ -120,6 +180,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg"
+  },
+  {
+   "title": "llm-anthropic 0.29",
+   "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+   "date": "2026-09-22T17:14:55.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
+   "image": null
   },
   {
    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
@@ -432,16 +502,6 @@
    "image": null
   },
   {
-   "title": "Security public service announcements: Upcoming critical contributed project security release on September 23, 2026 - PSA-2026-09-21",
-   "link": "https://www.drupal.org/psa-2026-09-21",
-   "date": "2026-09-21T09:56:09.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Date: 2026-September-21 Security risk: Critical 16 ∕ 25 AC:Basic/A:User/CI:All/II:All/E:Theoretical/TD:Uncommon Description: There will be a security release for a widely used contributed module on September 23, 2026 bet",
-   "image": null
-  },
-  {
    "title": "Symfony UX 3.5 released",
    "link": "https://symfony.com/blog/symfony-ux-3-5-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-21T08:30:00.000Z",
@@ -460,16 +520,6 @@
    "source": "Symfony Blog",
    "summary": "Many applications that send messages to a broker end up facing these two problems: (1) sending them is not part of the database transaction, and (2) brokers refuse messages that are too big. Symfony Messenger solves both",
    "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
-  },
-  {
-   "title": "Cornelia Biacsics: Contributions for week 37",
-   "link": "https://postgr.es/p/9vg",
-   "date": "2026-09-21T07:07:18.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "On 16 September 2026, the Postgres Meetup for All user group met, organized by Elizabeth Christensen and Ryan Booz. Ryan Booz and Greg Potter delivered a talk. On 18 September 2026, Claire Giordano and Aaron Wislang host",
-   "image": null
   },
   {
    "title": "tokenizers v1: encode, decode and scaling, measured",
@@ -522,26 +572,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/Fast-Excel-5-LN.png"
   },
   {
-   "title": "MCP was always a bad idea?",
-   "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-   "date": "2026-09-20T20:24:41.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claud",
-   "image": null
-  },
-  {
-   "title": "llm-keys-ui 0.1",
-   "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-   "date": "2026-09-20T19:22:19.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack o",
-   "image": null
-  },
-  {
    "title": "A Week of Symfony #1029 (September 14–20, 2026)",
    "link": "https://symfony.com/blog/a-week-of-symfony-1029-september-14-20-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-20T07:20:00.000Z",
@@ -549,16 +579,6 @@
    "themeName": "Symfony",
    "source": "Symfony Blog",
    "summary": "This week, Symfony maintenance versions 6.4.46, 7.4.19, and 8.1.7 were released. Meanwhile, we kicked off the \"New in Symfony 8.2\" blog series and SymfonyCasts published a new Symfony Security: The Basics course. Finally",
-   "image": null
-  },
-  {
-   "title": "datasette-explain 0.2.2",
-   "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-   "date": "2026-09-20T00:22:04.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: s",
    "image": null
   },
   {
@@ -580,16 +600,6 @@
    "source": "Symfony Blog",
    "summary": "Contributed by Nicolas Grekas in #65948 ,…",
    "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
-  },
-  {
-   "title": "Fresh Package: Laravel Package Skeleton with Testbench, CI, and Boost Integration",
-   "link": "https://laravel-news.com/fresh-package-laravel-package-skeleton?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-18T03:20:58.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Fresh Package scaffolds a Laravel package with PHPUnit, Larastan, a Testbench workbench app, GitHub Actions, and an optional Vue frontend or AI skills. The post Fresh Package: Laravel Package Skeleton with Testbench, CI,",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/fresh-laravel-package-skeleton-featured.png"
   },
   {
    "title": "I don't like LLMs",
@@ -829,16 +839,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "PHPBenelux Conferencesubmit your proposal today!",
-   "image": null
-  },
-  {
-   "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
-   "link": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/",
-   "date": "2026-09-09T18:30:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "Kubernetes Blog",
-   "summary": "Kubernetes has many ways to describe what is happening on a Node. Readiness, taints, Pod state, labels, annotations, and provider-specific APIs each expose part of the picture. What has been missing is a shared, Kubernet",
    "image": null
   },
   {
