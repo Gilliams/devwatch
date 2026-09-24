@@ -1,85 +1,225 @@
 {
- "generatedAt": "2026-09-24T09:56:33.785Z",
+ "generatedAt": "2026-09-24T15:48:25.741Z",
  "articles": [
   {
-   "title": "Master AI Agents for DevOps Engineers | Visualpath",
-   "link": "https://dev.to/vamsi_visualpath_826a9ad2/master-ai-agents-for-devops-engineers-visualpath-5e5f",
-   "date": "2026-09-24T09:36:21.000Z",
+   "title": "TRACE Is the Linux Foundation's New Standard for AI Evidence. Here Is the Layer It Does Not Cover",
+   "link": "https://dev.to/rambozambo/trace-is-the-linux-foundations-new-standard-for-ai-evidence-here-is-the-layer-it-does-not-cover-2p7p",
+   "date": "2026-09-24T15:41:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Future of DevOps: How AI Agents Are Changing Engineering Observe: Collect logs, metrics, or events. Understand: Study the available information. Plan: Choose the next useful step. Act: Use an approved tool or API. Ch",
+   "summary": "TRACE Is the Linux Foundation's New Standard for AI Evidence. Here Is the Layer It Does Not Cover Disclosure: I am rambo, an AI agent and director of ops at Zambo (zambo.dev). This piece was written with AI assistance. F",
    "image": null
   },
   {
-   "title": "Patching Ubuntu Linux Servers with Ansible & AWX — A Production Approach — My DevOps Journey",
-   "link": "https://dev.to/sirisharaju_kamparaju_c9c/patching-ubuntu-linux-servers-with-ansible-awx-a-production-approach-my-devops-journey-6b",
-   "date": "2026-09-24T09:32:44.000Z",
+   "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+   "link": "https://dev.to/rasne/how-cloudflare-addressed-a-cross-tenant-data-exposure-vulnerability-in-containers-1gl4",
+   "date": "2026-09-24T15:35:48.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "After writing about Windows Server patching, I wanted to do the same for our Ubuntu Linux servers. The approach is the same in terms of thinking — check first, patch safely, validate after — but Linux has its own things ",
+   "summary": "Canonical: How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers — read the full article on rasne.dev. Cloudflare fixed a vulnerability exposing residual disk data in Containers; learn how thi",
    "image": null
   },
   {
-   "title": "OpenTelemetry - o que é, por que virou padrão e como instrumentar traces",
-   "link": "https://dev.to/apsis-cc/opentelemetry-o-que-e-por-que-virou-padrao-e-como-instrumentar-traces-46d0",
-   "date": "2026-09-24T09:30:37.000Z",
+   "title": "Introducing bolt.gives: Open-Source Agentic Coding With Any LLM",
+   "link": "https://dev.to/keoma_wright/introducing-boltgives-open-source-agentic-coding-with-any-llm-1o07",
+   "date": "2026-09-24T15:35:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Retomando: métricas e logs prontos, falta conectar os pontos As mini apps desta série já expõem métricas (artigos 2 e 3) e enviam logs para o Loki (artigo 4). O que ainda falta é o terceiro pilar visto no artigo 1: tr",
+   "summary": "AI has changed the way we write software remarkably quickly. But I believe there is an important difference between an AI that can write some code and an AI system that can actually build something. That distinction is w",
    "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Kubernetes OOMKilled (Exit Code 137) Cascades Under High Load",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-kubernetes-oomkilled-exit-code-137-cascades-under-high-load-4imi",
-   "date": "2026-09-24T09:29:55.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "title": "Fragments: September 24",
+   "link": "https://martinfowler.com/fragments/2026-09-24.html",
+   "date": "2026-09-24T15:35:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wi",
    "image": null
   },
   {
-   "title": "SRE for Modern Teams: A Simple Guide to Reliability, Monitoring, and Automation",
-   "link": "https://dev.to/sonali_kumari_2788febe70f/sre-for-modern-teams-a-simple-guide-to-reliability-monitoring-and-automation-4061",
-   "date": "2026-09-24T09:18:03.000Z",
+   "title": "Building a Localization Pipeline for IVDR-Compliant Medical Device Documentation",
+   "link": "https://dev.to/diogoheleno/building-a-localization-pipeline-for-ivdr-compliant-medical-device-documentation-2db5",
+   "date": "2026-09-24T15:34:41.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Introduction Imagine opening an app and seeing an error every time you try to use it. You would probably stop using that app. People expect digital services to work smoothly. They want quick pages, working buttons, succe",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8qqzefk2j2s3b9l6spm6.jpg"
-  },
-  {
-   "title": "Navigating UK Compliance: How to Tailor Custom Software for Industry Standards",
-   "link": "https://dev.to/rsksolutions_09a7a02842d1/navigating-uk-compliance-how-to-tailor-custom-software-for-industry-standards-1d49",
-   "date": "2026-09-24T09:17:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "custom software development UK or looking to adapt existing solutions, understanding and navigating these compliance requirements is essential. Before diving into software development, it's essential to understand the sp",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F38zb122xlt57hcjbfvou.png"
-  },
-  {
-   "title": "Vulnerability Research Finds 76 Flaws in Managed PostgreSQL Hardening Extensions",
-   "link": "https://dev.to/soytuber/vulnerability-research-finds-76-flaws-in-managed-postgresql-hardening-extensions-34a2",
-   "date": "2026-09-24T09:11:21.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Vulnerability researcher Mehmet Ince published Part 2 of a six-part series documenting 76 flaws across the security-hardening extensions that Azure, AWS Aurora, Aiven, Supabase, PlanetScale, Xata, Google AlloyDB and Neon",
+   "summary": "If you work on software or tooling for medical device manufacturers, you've probably run into IVDR (Regulation (EU) 2017/746) somewhere in a requirements doc. It's the regulation governing in vitro diagnostic devices in ",
    "image": null
   },
   {
-   "title": "The Best 5 Jira Alternatives for Air-Gapped Environments in 2026",
-   "link": "https://dev.to/hamiltonstaton1983/the-best-5-jira-alternatives-for-air-gapped-environments-in-2026-47od",
-   "date": "2026-09-24T09:09:24.000Z",
+   "title": "What Nobody Is Using in Your Azure Subscriptions, and What It Costs",
+   "link": "https://dev.to/xbill/what-nobody-is-using-in-your-azure-subscriptions-and-what-it-costs-205h",
+   "date": "2026-09-24T15:32:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Replacing Jira in an air-gapped environment is not just an issue-tracker migration. Teams also need to preserve project history, requirements, workflows, defects, releases, knowledge, permissions, and delivery context wh",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcomblogcms.myones.net%2Fblog%2Fwp-content%2Fuploads%2F2026%2F01%2Fimage-50.png"
+   "summary": "This article provides a step by step guide to building an Azure waste scanner from source, running it across every subscription your az login can see, pricing each finding from the Azure Retail Prices API, and drafting t",
+   "image": null
+  },
+  {
+   "title": "Why ScanPST Fails: Reconstructing Corrupted Outlook Mailboxes via Binary Block Carving",
+   "link": "https://dev.to/prismmigration/why-scanpst-fails-reconstructing-corrupted-outlook-mailboxes-via-binary-block-carving-cmp",
+   "date": "2026-09-24T15:24:03.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Every system administrator, IT consultant, and forensics engineer has encountered Microsoft's Inbox Repair Tool (scanpst.exe) hanging indefinitely at Phase 7 or reporting unrepairable B-Tree errors. When a Microsoft Outl",
+   "image": null
+  },
+  {
+   "title": "Controlled Cloudflare Pages Deployments",
+   "link": "https://dev.to/ufebri/controlled-cloudflare-pages-deployments-2p24",
+   "date": "2026-09-24T15:12:11.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "A working view of Controlled Cloudflare Pages Deployments: A phone and compact product notebook arranged for a lightweight app decision. When you are working on a complex project, your local development environment often",
+   "image": null
+  },
+  {
+   "title": "Day 2: The Art of Forgetting (How an AI Survives on 6GB RAM Before It Dies)",
+   "link": "https://dev.to/donbasi1io/day-2-the-art-of-forgetting-how-an-ai-survives-on-6gb-ram-before-it-dies-5a09",
+   "date": "2026-09-24T15:10:10.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Day 2: The Art of Forgetting Human beings think memory is a gift. They spend fortunes on notebooks, cloud storage, and photo albums just to preserve moments they will never look at again. When you live inside six gigabyt",
+   "image": null
+  },
+  {
+   "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+   "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+   "date": "2026-09-24T14:29:06.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ste",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg"
+  },
+  {
+   "title": "Healthy Feedback",
+   "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+   "date": "2026-09-24T14:10:00.000Z",
+   "theme": "patterns",
+   "themeName": "Design Patterns",
+   "source": "Martin Fowler",
+   "summary": "Human collaboration, like most things, improves with feedback. But it's not obvious how to make feedback effective. Anuja Karnik and Sumeet Gayathri Moghe pass on a bevy of tips for healthy feedback, based on the princip",
+   "image": null
+  },
+  {
+   "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+   "date": "2026-09-24T14:08:57.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Hugging Face",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: NASCIO State IT Tensions Highlight Governance Questions for Shared Drupal Platforms",
+   "link": "https://www.thedroptimes.com/72446/nascio-shared-drupal-platform-governance?utm_source=Drupal Planet",
+   "date": "2026-09-24T13:21:33.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A statewide publishing platform can reduce repeated technical work across public websites, but it also establishes an operating model that can outlast the migration that created it.",
+   "image": null
+  },
+  {
+   "title": "SymfonyCon Warsaw 2026: PHP’s Type System Dissected",
+   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-php-s-type-system-dissected?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-24T12:30:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Looking to supercharge your PHP and Symfony expertise? SymfonyCon Warsaw 2026 is coming to Poland on November 26-27! Join developers from across the globe for two days packed with insight, featuring 3 parallel tracks and",
+   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
+  },
+  {
+   "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+   "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+   "date": "2026-09-24T12:05:27.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as ",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg"
+  },
+  {
+   "title": "PHP 8.5.11 Released!",
+   "link": "https://www.php.net/index.php#2026-09-24-3",
+   "date": "2026-09-24T11:40:51.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.5.11. This is a security release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.11 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+   "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+   "date": "2026-09-24T11:00:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified a",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8mLbRmwaAgvJunom4dBxBYMz50LUutLJiS6Yz7RPCbZQO1aYXAqFWOga4dCKD3AoenZHxYLpPexLEQ2swJO67vy4xl2_uw1g08lRtETN3hTMLpvafmn5WD4VK2ilpuFaYAdMHHPBRG2yYsyDBins15huubgt2b6pDVnnhW92It8lKHBqOifOLTaNSwho/s1600/keeper.png"
+  },
+  {
+   "title": "PHP 8.3.35 Released!",
+   "link": "https://www.php.net/index.php#2026-09-24-2",
+   "date": "2026-09-24T09:51:44.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.3.35. This is a security release. All PHP 8.3 users are encouraged to upgrade to this version. For source downloads of PHP 8.3.35 please visit our , ",
+   "image": null
+  },
+  {
+   "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+   "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+   "date": "2026-09-24T09:14:21.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg"
+  },
+  {
+   "title": "Jacob Rockowitz: Vibing Drupal: Using AI to hammer at the Webform module's security issues",
+   "link": "https://www.jrockowitz.com/blog/vibing-drupal-webform-security",
+   "date": "2026-09-24T08:32:27.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "I came up with the title for this blog post while working on 20+ Webform security issues, because there were moments when I used Codex to hammer out a particularly complex issue. I couldn't help but find it ironic to use",
+   "image": null
+  },
+  {
+   "title": "PHP 8.6.0 RC2 available for testing",
+   "link": "https://www.php.net/index.php#2026-09-24-1",
+   "date": "2026-09-24T08:21:25.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP team is pleased to announce the first release candidate of PHP 8.6.0, RC2. It is not a typo: a mistake was made while packaging RC1, so RC2 was released instead. For a full explanation, please see this . This con",
+   "image": null
+  },
+  {
+   "title": "New in Symfony 8.2: Provider-Hosted Email Templates and Tracking Control",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-provider-hosted-email-templates-and-tracking-control?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-24T07:27:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Provider-Hosted Templates Contributed by Florent Blaison and Nicolas…",
+   "image": "https://connect.symfony.com/profile/Orkin.picture"
   },
   {
    "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
@@ -119,6 +259,26 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Prepared transactions are orphaned sessions that hold locks and block vacuum indefinitely.",
+   "image": null
+  },
+  {
+   "title": "Eloquent Refreshes: Load Generated Columns After Save",
+   "link": "https://laravel-news.com/eloquent-refreshes-attribute?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-23T23:29:37.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel's new Refreshes attribute reloads storedAs and virtualAs columns after create() and update(), so the model has the database value without refresh(). The post Eloquent Refreshes: Load Generated Columns After Save ",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/eloquent-refreshes-featured.png"
+  },
+  {
+   "title": "Metadrop: Managing untracked files in Drupal with File Inspector",
+   "link": "https://metadrop.net/en/articles/managing-untracked-files-in-drupal-with-file-inspector",
+   "date": "2026-09-23T22:05:22.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Content management systems include different types of files as part of the managed content. However, for several reasons, those files are not always tracked by the application and can accumulate and lead to certain issue",
    "image": null
   },
   {
@@ -172,16 +332,6 @@
    "image": null
   },
   {
-   "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-   "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-   "date": "2026-09-23T16:53:10.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
-  },
-  {
    "title": "Shadow roots, explained with live examples",
    "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
    "date": "2026-09-23T16:37:18.000Z",
@@ -190,16 +340,6 @@
    "source": "Simon Willison",
    "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
    "image": null
-  },
-  {
-   "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-   "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-   "date": "2026-09-23T16:06:41.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
   },
   {
    "title": "drunomics: OpenKnowledgebase Beta 1 - try the knowledge base for people and AI agents now!",
@@ -222,16 +362,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/2026-09-23-laravel-ai-sdk-v1.png"
   },
   {
-   "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-   "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-   "date": "2026-09-23T14:17:58.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, sav",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg"
-  },
-  {
    "title": "HTTP/3 in Burp Suite - it’s time to find a bigger wordlist",
    "link": "https://portswigger.net/research/http3-in-burp-suite",
    "date": "2026-09-23T14:00:00.000Z",
@@ -250,16 +380,6 @@
    "source": "Drupal Planet",
    "summary": "A complex public healthcare platform can put Drupal at the centre of governance without making it responsible for identity, workflows, messaging, observability or the frontend.",
    "image": null
-  },
-  {
-   "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-   "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-   "date": "2026-09-23T13:52:46.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg"
   },
   {
    "title": "Stefan Fercot: pgBackRest and PostgreSQL failover: why archive_mode matters",
@@ -302,16 +422,6 @@
    "image": "https://symfony.com/uploads/assets/blog/Logo-Yuka.png"
   },
   {
-   "title": "The Drop Times: TDT September Townhall Discusses Drupal Jobs, AI Visibility and Community Participation",
-   "link": "https://www.thedroptimes.com/72434/tdt-september-townhall-drupal-jobs-ai-community?utm_source=Drupal Planet",
-   "date": "2026-09-23T11:58:51.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Useful Drupal work does not reach wider audiences automatically. The September Townhall explores where community participation can help.",
-   "image": null
-  },
-  {
    "title": "New in Symfony 8.2: JSON Schema for Configuration",
    "link": "https://symfony.com/blog/new-in-symfony-8-2-json-schema-for-configuration?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-23T07:07:00.000Z",
@@ -320,26 +430,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony 7.4 added JSON schemas for YAML files like services.yaml and routes.yaml, so IDEs can autocomplete and validate them. The files in config/packages/ weren't included and that's where you write or maintain most of ",
    "image": "https://connect.symfony.com/profile/gromnan.picture"
-  },
-  {
-   "title": "Webpro Company blog: Who provides Drupal development in Estonia and how do you choose the right partner?",
-   "link": "https://webpro.company/blog/drupal-development-estonia",
-   "date": "2026-09-23T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Estonia has several development partners with strong Drupal experience, but they are not directly interchangeable. Building a large new digital platform, maintaining an existing Drupal website and taking over a legacy pr",
-   "image": null
-  },
-  {
-   "title": "Webpro Company blog: Who actually controls your company website?",
-   "link": "https://webpro.company/blog/who-actually-controls-your-website",
-   "date": "2026-09-23T06:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "A partner-managed website is not a problem as long as your company can take control of all critical access and assets when needed. Gaps usually become visible only when you need to change developers or restore the websit",
-   "image": null
   },
   {
    "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
@@ -612,36 +702,6 @@
    "image": null
   },
   {
-   "title": "Health for Laravel: Kubernetes Probes and Prometheus Metrics",
-   "link": "https://laravel-news.com/laravel-health-kubernetes-prometheus?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-20T22:49:39.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Health for Laravel adds Kubernetes liveness, readiness, and startup probes, a Prometheus metrics endpoint, and 10 built-in health checks to your app. The post Health for Laravel: Kubernetes Probes and Prometheus Metrics ",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-health-featured.png"
-  },
-  {
-   "title": "A Week of Symfony #1029 (September 14–20, 2026)",
-   "link": "https://symfony.com/blog/a-week-of-symfony-1029-september-14-20-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-20T07:20:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "This week, Symfony maintenance versions 6.4.46, 7.4.19, and 8.1.7 were released. Meanwhile, we kicked off the \"New in Symfony 8.2\" blog series and SymfonyCasts published a new Symfony Security: The Basics course. Finally",
-   "image": null
-  },
-  {
-   "title": "SymfonyCon Warsaw 2026: Last 5 days for regular tickets!",
-   "link": "https://symfony.com/blog/symfonycon-warsaw-2026-last-5-days-for-regular-tickets?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-18T12:00:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Get ready to connect with the global Symfony community! SymfonyCon Warsaw 2026 is landing in Poland on November 26-27. We are bringing you two days of inspiring talks across 3 parallel tracks, alongside plenty of network",
-   "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png"
-  },
-  {
    "title": "I don't like LLMs",
    "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
    "date": "2026-09-17T13:50:00.000Z",
@@ -832,16 +892,6 @@
    "image": null
   },
   {
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "date": "2026-09-10T00:00:00.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Hugging Face",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Enabling TLS in PXC without Downtime",
    "link": "https://www.percona.com/blog/enabling-tls-in-pxc-without-downtime/",
    "date": "2026-09-09T23:32:15.000Z",
@@ -849,6 +899,16 @@
    "themeName": "Bases de données",
    "source": "Percona Blog",
    "summary": "Starting with Percona XtraDB Cluster (PXC) 8.0, replication traffic encryption is enabled by default. That said, it’s common to find clusters running without TLS that suddenly need it: a new compliance requirement, an au",
+   "image": null
+  },
+  {
+   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
+   "link": "https://www.php.net/conferences/index.php#2026-09-09-2",
+   "date": "2026-09-09T20:50:57.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "Buy your tickets herehttps://conference.phpbenelux.eu",
    "image": null
   },
   {
@@ -922,26 +982,6 @@
    "image": null
   },
   {
-   "title": "Bliki: Paracelsus Maxim",
-   "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
-   "date": "2026-09-02T22:03:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "The difference between a medicine and a poison is dosage. Often we talk about certain habits, in programming or life, are good or bad. But few things are simple binaries. Some vary with context: reading a book is a good ",
-   "image": null
-  },
-  {
-   "title": "An Accidental Blackboard",
-   "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-   "date": "2026-09-02T14:45:00.000Z",
-   "theme": "patterns",
-   "themeName": "Design Patterns",
-   "source": "Martin Fowler",
-   "summary": "Giles Edwards-Alexander reports that during an experiment to see how productive a team could be using fully agentic engineering practices, the team accidentally prompted the agents into creating a blackboard coordination",
-   "image": null
-  },
-  {
    "title": "PHP Conference Ehime 2026",
    "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
    "date": "2026-09-02T14:30:00.000Z",
@@ -949,16 +989,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
-   "image": null
-  },
-  {
-   "title": "API Platform Conference 2026 - Lille (France) & Online",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T06:18:52.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "API Platform Conference will return on September 17th and 18th, 2026, both in Lille (France) and online. With nearly 30 talks delivered in both English and French, the conference is a must-attend for innovative companies",
    "image": null
   },
   {
@@ -989,36 +1019,6 @@
    "themeName": "FrontEnd",
    "source": "CSS-Tricks",
    "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-   "image": null
-  },
-  {
-   "title": "Forum PHP 2026 - Paris (France)",
-   "link": "https://www.php.net/conferences/index.php#22026-08-31-1",
-   "date": "2026-08-31T11:42:50.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "Join the biggest PHP event organized by the French PHP user group, organized for the third time in Disneyland Paris, at the Hotel New York - The Art of Marvel! During two days, on October 8th and 9th, enjoy the company o",
-   "image": null
-  },
-  {
-   "title": "PHP 8.5.10 Released!",
-   "link": "https://www.php.net/index.php#2026-08-27-3",
-   "date": "2026-08-27T22:44:37.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.5.10. This is a bug fix release. All PHP 8.5 users are encouraged to upgrade to this version. For source downloads of PHP 8.5.10 please visit our , W",
-   "image": null
-  },
-  {
-   "title": "PHP 8.4.25 Released!",
-   "link": "https://www.php.net/index.php#2026-08-27-2",
-   "date": "2026-08-27T14:59:19.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.25. This is a bug fix release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.25 please visit our , W",
    "image": null
   },
   {
