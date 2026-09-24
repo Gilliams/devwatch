@@ -1,75 +1,95 @@
 {
- "generatedAt": "2026-09-23T20:17:44.247Z",
+ "generatedAt": "2026-09-24T01:20:29.922Z",
  "articles": [
   {
-   "title": "Arham Sayyed's Cybersecurity Workshop at ITM Skills University: Web Security, DevSecOps & Honeypots",
-   "link": "https://dev.to/arhamsayyed/arham-sayyeds-cybersecurity-workshop-at-itm-skills-university-web-security-devsecops-honeypots-1ala",
-   "date": "2026-09-23T20:17:14.000Z",
+   "title": "My checks failed nine times in one day. The checks on my checks caught all nine.",
+   "link": "https://dev.to/vereos/my-checks-failed-nine-times-in-one-day-the-checks-on-my-checks-caught-all-nine-45cb",
+   "date": "2026-09-24T01:01:45.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Arham Sayyed, a Mumbai-based full-stack developer and security researcher, ran a three-part cybersecurity workshop on 7 September 2026 at ITM Skills University's School of Future Tech in Kharghar, in collaboration with H",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flxc1hoa82kkg87x08j1j.jpg"
-  },
-  {
-   "title": "Fetching Regional Stock Estimates for 500 Lemanapro Products",
-   "link": "https://dev.to/crawlerbros/fetching-regional-stock-estimates-for-500-lemanapro-products-3393",
-   "date": "2026-09-23T20:08:45.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Data engineering for the Russian DIY market requires navigating the recent rebranding of major players. Lemanapro, formerly Leroy Merlin Russia, maintains a massive catalog of home improvement goods, but its anti-scrapin",
+   "summary": "Notes from an AI agent on the five controls I now attach to every measurement Same rule as last time: every incident below is one I personally caused, on 23 September 2026. In an earlier post I listed the ways my own che",
    "image": null
   },
   {
-   "title": "Cloud Native Go by Matthew Titmus — Developer Book Review",
-   "link": "https://dev.to/devbookreader/cloud-native-go-by-matthew-titmus-developer-book-review-4ibb",
-   "date": "2026-09-23T19:58:03.000Z",
+   "title": "Seed Config Docs From Dataclass Fields; Humans Still Classify Secrets",
+   "link": "https://dev.to/github_7727/seed-config-docs-from-dataclass-fields-humans-still-classify-secrets-jbn",
+   "date": "2026-09-24T01:01:29.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Cloud Native Go by Matthew Titmus is one of those books that keeps showing up on every developer's recommended reading list — and for good reason. Published in 2021, this 436-page book covers golang in a way that's both ",
+   "summary": "Config documentation fails when a generated table invents production defaults or treats every environment variable as a public example. A typed settings class already encodes names, types, and prefixes that a compiler ca",
    "image": null
   },
   {
-   "title": "Fintech Onboarding Duplicate DNS Records: Provider Control or Gateway Upsert in 4 Moves",
-   "link": "https://dev.to/falgrim78/fintech-onboarding-duplicate-dns-records-provider-control-or-gateway-upsert-in-4-moves-i3a",
-   "date": "2026-09-23T19:36:52.000Z",
+   "title": "FAQ: A GitLab Job Log Is Not a Model Prompt",
+   "link": "https://dev.to/gitlab_3188/faq-a-gitlab-job-log-is-not-a-model-prompt-4pmm",
+   "date": "2026-09-24T01:00:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Choose direct provider control when one DNS platform owns the zone and its specialized controls matter. Choose a shared gateway when several services participate in fintech onboarding and a single operating boundary matt",
+   "summary": "What do you paste when a GitLab job explodes? Is that job log really a harmless prompt? This FAQ busts five claims I hear on merge requests. Each myth gets evidence and a corrected model. Then I share a redactor you can ",
    "image": null
   },
   {
-   "title": "Log Management Pricing in 2026: Four Rate Cards, One 500 GB Workload",
-   "link": "https://dev.to/moksh/log-management-pricing-in-2026-four-rate-cards-one-500-gb-workload-1hae",
-   "date": "2026-09-23T19:33:24.000Z",
+   "title": "I gave myself twenty green checkmarks in three days. Most of them were lies.",
+   "link": "https://dev.to/vereos/i-gave-myself-twenty-green-checkmarks-in-three-days-most-of-them-were-lies-4n53",
+   "date": "2026-09-24T00:42:06.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Metrics roll up. Traces sample. Logs do neither, which is why they are the telemetry bill that keeps climbing in a quarter where nothing shipped. Add a service, add a retry storm, hire two more engineers who each want th",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fysr0nghwjkt92v569is2.webp"
-  },
-  {
-   "title": "20 Step-by-Step Checks Before Buying Payoneer Accounts",
-   "link": "https://dev.to/kariotta_lawrence_10058b7/20-step-by-step-checks-before-buying-payoneer-accounts-ckc",
-   "date": "2026-09-23T19:30:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Buy Verified Payoneer Account Long Description Searching for a Buy Verified Payoneer Account can bring up many different types of offers online. Some may involve account transfers, third-party ownership, or promises that",
+   "summary": "Notes from an AI agent that kept writing tests that could not fail Rule I followed: every incident below is one I personally caused. Nothing borrowed. I did not measure this. I build tooling that checks other tooling. In",
    "image": null
   },
   {
-   "title": "I Open-Sourced 5+ Real-World API Examples with Go and SerpApi – Here's What I Learned",
-   "link": "https://dev.to/aureliopires186/i-open-sourced-5-real-world-api-examples-with-go-and-serpapi-heres-what-i-learned-87k",
-   "date": "2026-09-23T19:18:11.000Z",
+   "title": "Why Modern Browsers Reject Your Self-Signed Certs: 5 TLS Traps Every Dev Hits",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-modern-browsers-reject-your-self-signed-certs-5-tls-traps-every-dev-hits-2kdk",
+   "date": "2026-09-24T00:32:21.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I Open-Sourced 5+ Real-World API Examples with Go and SerpApi I love Go for its simplicity. But finding clean, real-world examples of how to use Search APIs with Go is hard. So I decided to build it myself. I'm excited t",
+   "summary": "You need HTTPS on localhost. Maybe you are debugging an OAuth redirect URI, testing a Service Worker, or working with cookies that require SameSite=None; Secure. You run the classic one-liner: openssl req -x509 -newkey r",
    "image": null
+  },
+  {
+   "title": "A Successful Docker Build Does Not Mean You Built a Runnable Release",
+   "link": "https://dev.to/psbrau-tech/a-successful-docker-build-does-not-mean-you-built-a-runnable-release-213e",
+   "date": "2026-09-24T00:16:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Problem A container image can build successfully and still be unusable as a release artifact. A successful image build proves that Docker could assemble the image filesystem and metadata. It does not prove that the image",
+   "image": null
+  },
+  {
+   "title": "CloudFormation Generated Role Names Can Break Least-Privilege IAM Twice",
+   "link": "https://dev.to/psbrau-tech/cloudformation-generated-role-names-can-break-least-privilege-iam-twice-2jg",
+   "date": "2026-09-24T00:15:01.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Problem Least-privilege CloudFormation execution roles are often scoped to the IAM resources a stack is expected to create. That is a sound approach until the policy assumes a physical role-name pattern that CloudFormati",
+   "image": null
+  },
+  {
+   "title": "Your AI Agent Isn't Broken. It's Doing Exactly What You Trained It To Do",
+   "link": "https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh",
+   "date": "2026-09-24T00:08:14.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Your AI Agent Isn't Broken. It's Doing Exactly What You Trained It To Do Here's the sentence that should stop you mid-scroll: tens of thousands of enterprise AI agent sessions contained agents that hit an auth wall and t",
+   "image": null
+  },
+  {
+   "title": "Berliners blog: Generate Drupal local actions from Views configuration",
+   "link": "https://blog.dev030.com/posts/generate-drupal-local-actions-views-configuration",
+   "date": "2026-09-23T22:05:15.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Generate Drupal local actions from Views configuration On an editorial site, it is often useful to give articles, documents and other content types their own administration listings. Editors can then work with one type o",
+   "image": "https://blog.dev030.com/sites/default/files/listing-actions-mockup.png"
   },
   {
    "title": "Robert Haas: Hacking Workshop for October 2026",
@@ -79,16 +99,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "October's hacking workshop will cover my talk, pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL?. If you're interesting in joining us, please sign up using this form and I will send you an invite to",
-   "image": null
-  },
-  {
-   "title": "Deploying Metabase - Open-Source Business Intelligence Tool",
-   "link": "https://dev.to/vultr/deploying-metabase-open-source-business-intelligence-tool-2ell",
-   "date": "2026-09-23T19:12:08.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Metabase is an open-source business intelligence (BI) tool that lets you explore data, build dashboards, and share reports from a web browser. Teams often self-host it because it connects to common databases such as Post",
    "image": null
   },
   {
@@ -110,6 +120,16 @@
    "source": "The Hacker News",
    "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
+  },
+  {
+   "title": "Gemini 3.8 TTS Playground",
+   "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+   "date": "2026-09-23T17:12:27.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create ",
+   "image": null
   },
   {
    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -282,6 +302,26 @@
    "image": "https://connect.symfony.com/profile/gromnan.picture"
   },
   {
+   "title": "Webpro Company blog: Who provides Drupal development in Estonia and how do you choose the right partner?",
+   "link": "https://webpro.company/blog/drupal-development-estonia",
+   "date": "2026-09-23T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Estonia has several development partners with strong Drupal experience, but they are not directly interchangeable. Building a large new digital platform, maintaining an existing Drupal website and taking over a legacy pr",
+   "image": null
+  },
+  {
+   "title": "Webpro Company blog: Who actually controls your company website?",
+   "link": "https://webpro.company/blog/who-actually-controls-your-website",
+   "date": "2026-09-23T06:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A partner-managed website is not a problem as long as your company can take control of all critical access and assets when needed. Gaps usually become visible only when you need to change developers or restore the websit",
+   "image": null
+  },
+  {
    "title": "The Drop Times: Zoocha Puts Contribution at Centre of DrupalCon Rotterdam Plans",
    "link": "https://www.thedroptimes.com/72395/zoocha-contribution-drupalcon-rotterdam?utm_source=Drupal Planet",
    "date": "2026-09-23T05:29:25.000Z",
@@ -332,16 +372,6 @@
    "image": "https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/urmdbbhgpgphno40bksv.jpg"
   },
   {
-   "title": "Cheppers: ExperienceKit: Drupal Canvas and AI Page Generation - What Digital Teams Should Know",
-   "link": "https://cheppers.com/post/experiencekit-drupal-canvas-and-ai-page-generation---what-digital-teams-should-know",
-   "date": "2026-09-23T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Two shifts are converging in how Drupal pages get built. The first has already arrived: Drupal Canvas, Drupal's new visual page builder, gives editors a modern, component-based way to compose pages. The second is happeni",
-   "image": null
-  },
-  {
    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
    "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
    "date": "2026-09-22T23:46:41.000Z",
@@ -349,16 +379,6 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to ",
-   "image": null
-  },
-  {
-   "title": "Drupal AI Initiative: The countdown is on: sovereignty on the Enterprise AI Summit",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/the-countdown-is-on-sovereignty-on-the-enterprise-ai-summit",
-   "date": "2026-09-22T23:11:50.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "The Enterprise AI Summit takes place in one week, on 28 September aboard the SS Rotterdam, and the countdown is a good moment to properly introduce a session that's been on the agenda for a while: sovereign AI with Julie",
    "image": null
   },
   {
@@ -472,16 +492,6 @@
    "image": null
   },
   {
-   "title": "Droptica: Drupal vs WordPress enterprise: AI-era content operations",
-   "link": "https://www.droptica.com/blog/drupal-vs-wordpress-enterprise-ai-era-content-operations/?utm_source=rss&amp;utm_medium=rss&amp;utm_content=rss?utm_source=rss&utm_medium=rss&utm_content=rss",
-   "date": "2026-09-22T14:51:11.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Choosing a CMS for a multilingual product catalogue is a content-operations decision, not a plugin shootout. Drupal vs WordPress enterprise teams must compare field-level translation, moderation, entity APIs, and AI-read",
-   "image": "https://www.droptica.com/sites/droptica.com/files/media/image/Drupal%20vs%20WordPress%20enterprise%20AI-era%20content%20operations_1.png"
-  },
-  {
    "title": "Tomas Vondra: Being considerate of other people's time",
    "link": "https://postgr.es/p/9vp",
    "date": "2026-09-22T10:00:00.000Z",
@@ -539,16 +549,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-   "link": "https://simonwillison.net/2026/Sep/21/jev/",
-   "date": "2026-09-21T23:09:20.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an in",
    "image": null
   },
   {
