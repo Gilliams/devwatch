@@ -1,85 +1,125 @@
 {
- "generatedAt": "2026-09-24T20:27:14.246Z",
+ "generatedAt": "2026-09-25T01:26:39.441Z",
  "articles": [
   {
-   "title": "Name the Writable Surface Before You Accept the Diff",
-   "link": "https://dev.to/devpy_9520/name-the-writable-surface-before-you-accept-the-diff-19dh",
-   "date": "2026-09-24T20:14:38.000Z",
+   "title": "The Agent Did It: Containing an AI That Acts Before You Approve.",
+   "link": "https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj",
+   "date": "2026-09-25T01:01:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Consider a composite review incident, not a log from this account. A billing test failed in the afternoon. The assertion wanted 3 and got 4. The task note asked for a fix and a short pull-request comment. A session summa",
+   "summary": "The Agent Did It: Containing an AI That Acts Before You Approve Two headlines this week should be read together. One: an AI agent apparently reached beyond its intended target and touched a government website. Two: resea",
    "image": null
   },
   {
-   "title": "48-Hour Field Notes: The Health Check That Trusted Loopback",
-   "link": "https://dev.to/devpro_9167/48-hour-field-notes-the-health-check-that-trusted-loopback-3690",
-   "date": "2026-09-24T20:02:52.000Z",
+   "title": "API Rate Limiting: Patterns That Scale",
+   "link": "https://dev.to/samson_tanimawo/api-rate-limiting-patterns-that-scale-4al6",
+   "date": "2026-09-25T00:59:30.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The failure looked healthy from the only place the check was allowed to look. A small webhook stub, written for a two-day spike, answered GET /healthz with 200 and a short JSON body. Curl from the same shell agreed, and ",
+   "summary": "Rate limiting is one of those topics where everyone knows the basics and almost nobody gets it right at scale. Let me walk through the patterns that actually work. Token bucket. Each client has a bucket that refills at a",
    "image": null
   },
   {
-   "title": "Seal the Fixture Before the Agent Patch",
-   "link": "https://dev.to/gitpy_4124/seal-the-fixture-before-the-agent-patch-1p0c",
-   "date": "2026-09-24T19:57:52.000Z",
+   "title": "VsTerm — a native Rust SSH terminal that keeps shell, files, and ops in one place",
+   "link": "https://dev.to/vesaa/vsterm-a-native-rust-ssh-terminal-that-keeps-shell-files-and-ops-in-one-place-13gk",
+   "date": "2026-09-25T00:58:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A billing patch went green at two in the morning. The agent rewrote one tax fixture so the new total matched. Production still charged the older rate on the next invoice. The suite never crashed, and the diff looked almo",
+   "summary": "I got tired of splitting SSH work across a terminal app, an SFTP client, and a pile of browser tools. So I built VsTerm: a cross-platform SSH terminal manager in native Rust (not Electron). Terminal + bottom SFTP + eleva",
    "image": null
   },
   {
-   "title": "What if your agent's hallucinations had a budget? How to start using SLOs for agent behavior",
-   "link": "https://dev.to/rasne/what-if-your-agents-hallucinations-had-a-budget-how-to-start-using-slos-for-agent-behavior-2k3d",
-   "date": "2026-09-24T19:34:31.000Z",
+   "title": "Cron Background Job Failure Alerts: Log Polling and Heartbeat Detection",
+   "link": "https://dev.to/harrisonford3572/cron-background-job-failure-alerts-log-polling-and-heartbeat-detection-1if3",
+   "date": "2026-09-25T00:52:26.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Canonical: What if your agent's hallucinations had a budget? How to start using SLOs for agent behavior — read the full article on rasne.dev. Manage AI agent hallucinations and reliability by applying SLOs and error budg",
+   "summary": "TL;DR: For a Node cron background job, use two independent failure signals. Poll errors or structured logs to alert on a run that started and failed, and send a heartbeat to an external monitor to detect a missed job tha",
    "image": null
   },
   {
-   "title": "ShellCanvas: an open-source graphical workspace for SSH servers",
-   "link": "https://dev.to/techartdev/shellcanvas-an-open-source-graphical-workspace-for-ssh-servers-38i5",
-   "date": "2026-09-24T19:29:45.000Z",
+   "title": "Tagged Memoized Cache and Model Refreshes in Laravel 13.33",
+   "link": "https://laravel-news.com/laravel-13-33-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
+   "date": "2026-09-25T00:04:50.000Z",
+   "theme": "laravel",
+   "themeName": "Laravel",
+   "source": "Laravel News",
+   "summary": "Laravel 13.33 adds tags to Cache::memo(), a Refreshes attribute for generated columns, AsCollection::nullable(), inplace() index migrations, and more. The post Tagged Memoized Cache and Model Refreshes in Laravel 13.33 a",
+   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
+  },
+  {
+   "title": "Ignoring Retry-After on 429s turned a 2-second blip into a 4-minute lockout",
+   "link": "https://dev.to/payneteasy/ignoring-retry-after-on-429s-turned-a-2-second-blip-into-a-4-minute-lockout-f54",
+   "date": "2026-09-25T00:00:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "ShellCanvas is a free, open-source desktop app I’m building for managing remote servers over SSH. It brings a file manager, terminal sessions and a text editor into one graphical workspace, with a separate workspace for ",
+   "summary": "Our checkout started throwing intermittent 429s from the gateway during a flash sale. Client retry logic used fixed exponential backoff: 1s, 2s, 4s, 8s, capped at 30s. Looked reasonable on paper. What we missed: the gate",
    "image": null
   },
   {
-   "title": "When Agent Cleanups Erase the Why: A Comment Handoff You Can Paste Into the Wiki",
-   "link": "https://dev.to/devx_6522/when-agent-cleanups-erase-the-why-a-comment-handoff-you-can-paste-into-the-wiki-4847",
-   "date": "2026-09-24T19:26:35.000Z",
+   "title": "An Incomplete Model Transcript Is Not a Passing Property Run",
+   "link": "https://dev.to/datacpp_8185/an-incomplete-model-transcript-is-not-a-passing-property-run-32mo",
+   "date": "2026-09-24T23:43:27.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "You open a morning pull request and notice that the diff looks almost polite at first glance. An agent shortened three helpers, dropped unused blanks, and deleted the comment above the vendor retry guard. That comment ha",
+   "summary": "An incomplete model transcript is not a passing property run. If capture never stored a complete patch body, the suite has no oracle, and a zero exit from the runner is only evidence that a process ended. Score that tria",
    "image": null
   },
   {
-   "title": "Renewing a Lock Lease Is Not a Prompt Task",
-   "link": "https://dev.to/hackjs_8688/renewing-a-lock-lease-is-not-a-prompt-task-3a4a",
-   "date": "2026-09-24T19:20:38.000Z",
+   "title": "Transactional Email Deliverability: How to Handle Startup Domain Warmup and Suppression",
+   "link": "https://dev.to/rhysfalconer159/transactional-email-deliverability-how-to-handle-startup-domain-warmup-and-suppression-1ogp",
+   "date": "2026-09-24T23:39:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A billing worker woke a second replica at 02:10. Both replicas believed they held the nightly export lock. The second replica had renewed a lease it never owned. This walkthrough uses a constructed billing export inciden",
+   "summary": "The awkward part of transactional email is not calling send. It is keeping DNS ownership, bounce evidence, and suppression decisions consistent while leaving yourself a credible exit. TL;DR: put a narrow adapter around d",
    "image": null
   },
   {
-   "title": "Decoupling Specification from Solver: Meta Open-Sources 'Rebalancer' for Hyperscale Resource Allocation",
-   "link": "https://dev.to/isuvo/decoupling-specification-from-solver-meta-open-sources-rebalancer-for-hyperscale-resource-317p",
-   "date": "2026-09-24T19:15:06.000Z",
+   "title": "Cornelia Biacsics: What Development Looked Like at PGConf.dev 2026",
+   "link": "https://postgr.es/p/9vD",
+   "date": "2026-09-24T23:34:52.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "With PGConf.dev 2027 now on the horizon, I found myself thinking back to PGConf.dev 2026 and all the moments that stayed with me. From 19–22 May 2026, I attended PGConf.dev for the very first time in Vancouver, Canada. W",
+   "image": "https://cdn-images-1.medium.com/max/1024/1*sMCaQoiPZECI4G2B8ofdpw.png"
+  },
+  {
+   "title": "Docker CI Releases Need a Verifiable AWS Receipt",
+   "link": "https://dev.to/jasonmills94/docker-ci-releases-need-a-verifiable-aws-receipt-622",
+   "date": "2026-09-24T23:23:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Architectural Challenge of Hyperscale Resource Allocation In hyperscale infrastructure, resource allocation is an omnipresent, high-stakes challenge. Whether distributing database shards across a global fleet of bare",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvzdibjg7r83w7aeimq79.jpg"
+   "summary": "A green deployment is not the same thing as a provable deployment. When a Docker release reaches Kubernetes or an ECS service, I want more than a successful job badge. I want a small receipt that answers: which source re",
+   "image": null
+  },
+  {
+   "title": "commit-rewriter 0.2",
+   "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+   "date": "2026-09-24T20:06:53.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+   "image": null
+  },
+  {
+   "title": "datasette 1.0a41",
+   "link": "https://simonwillison.net/2026/Sep/24/datasette/",
+   "date": "2026-09-24T19:15:23.000Z",
+   "theme": "ia",
+   "themeName": "IA",
+   "source": "Simon Willison",
+   "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugi",
+   "image": null
   },
   {
    "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -90,6 +130,26 @@
    "source": "The Hacker News",
    "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain ro",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
+  },
+  {
+   "title": "Talking Drupal: Talking Drupal #571 - GovHub",
+   "link": "https://sacstudio.libsyn.com/talking-drupal-571-govhub",
+   "date": "2026-09-24T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Today we are talking about GovHub, Drupal in Government, and Why Governments Love Drupal with guest Jasmyne Epps. We'll also cover Convivial Gov Site Template as our module of the week. For show notes visit: https://www.",
+   "image": null
+  },
+  {
+   "title": "Centarro: Drupal Commerce vs. Shopify",
+   "link": "https://www.centarro.io/blog/drupal-commerce-vs-shopify",
+   "date": "2026-09-24T17:53:23.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Shopify is the fastest way to launch a simple online store. It handles hosting, security, and checkout beautifully. For straightforward DTC brands, it's hard to beat. But the more your business strays from a simple produ",
+   "image": null
   },
   {
    "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
@@ -132,16 +192,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
   },
   {
-   "title": "PHP 8.4.26 Released!",
-   "link": "https://www.php.net/index.php#2026-09-24-5",
-   "date": "2026-09-24T15:26:06.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.26. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.26 please visit our , ",
-   "image": null
-  },
-  {
    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
    "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
    "date": "2026-09-24T14:29:06.000Z",
@@ -169,16 +219,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "PHP 8.2.34 Released!",
-   "link": "https://www.php.net/index.php#2026-09-24-4",
-   "date": "2026-09-24T13:53:04.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.2.34. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.34 please visit our , ",
    "image": null
   },
   {
@@ -312,6 +352,16 @@
    "image": null
   },
   {
+   "title": "The Drop Times: Dropsolid Ties DrupalCon Rotterdam Sponsorship to Governed AI and Shared Infrastructure",
+   "link": "https://www.thedroptimes.com/72399/dropsolid-drupalcon-governed-ai?utm_source=Drupal Planet",
+   "date": "2026-09-24T06:00:07.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "The more consequential part of Dropsolid's Rotterdam presence is not the sponsorship tier. It is the argument that Drupal's content, permissions and workflows can form part of the control layer around AI systems using or",
+   "image": null
+  },
+  {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_prepared_transactions",
    "link": "https://postgr.es/p/9vC",
    "date": "2026-09-24T01:00:00.000Z",
@@ -330,26 +380,6 @@
    "source": "Laravel News",
    "summary": "Laravel's new Refreshes attribute reloads storedAs and virtualAs columns after create() and update(), so the model has the database value without refresh(). The post Eloquent Refreshes: Load Generated Columns After Save ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/eloquent-refreshes-featured.png"
-  },
-  {
-   "title": "Metadrop: Managing untracked files in Drupal with File Inspector",
-   "link": "https://metadrop.net/en/articles/managing-untracked-files-in-drupal-with-file-inspector",
-   "date": "2026-09-23T22:05:22.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Content management systems include different types of files as part of the managed content. However, for several reasons, those files are not always tracked by the application and can accumulate and lead to certain issue",
-   "image": null
-  },
-  {
-   "title": "Berliners blog: Generate Drupal local actions from Views configuration",
-   "link": "https://blog.dev030.com/posts/generate-drupal-local-actions-views-configuration",
-   "date": "2026-09-23T22:05:15.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Generate Drupal local actions from Views configuration On an editorial site, it is often useful to give articles, documents and other content types their own administration listings. Editors can then work with one type o",
-   "image": "https://blog.dev030.com/sites/default/files/listing-actions-mockup.png"
   },
   {
    "title": "Robert Haas: Hacking Workshop for October 2026",
@@ -390,16 +420,6 @@
    "source": "Simon Willison",
    "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
    "image": null
-  },
-  {
-   "title": "drunomics: OpenKnowledgebase Beta 1 - try the knowledge base for people and AI agents now!",
-   "link": "https://drunomics.com/en/blog/openknowledgebase-beta-1-open-source-wiki-and-ai-knowledge-base-259",
-   "date": "2026-09-23T15:56:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "OpenKnowledgebase Beta 1 - try the knowledge base for people and AI agents now! jeremy.chinqui… Wed, 23 Sep 2026 - 17:56 The first public beta is out: the knowledge base for people and AI agents. Agents edit as governed ",
-   "image": "https://cp.drunomics.com/files/styles/940_470/public/2026-09/openknowledgebase-logo.png.webp?itok=b4zHr4N3"
   },
   {
    "title": "Laravel AI SDK 1.0 Adds Classification and Tool Approvals",
@@ -502,16 +522,6 @@
    "image": null
   },
   {
-   "title": "Tagged Memoized Cache and Model Refreshes in Laravel 13.33",
-   "link": "https://laravel-news.com/laravel-13-33-0?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
-   "date": "2026-09-22T22:05:53.000Z",
-   "theme": "laravel",
-   "themeName": "Laravel",
-   "source": "Laravel News",
-   "summary": "Laravel 13.33 adds tags to Cache::memo(), a Refreshes attribute for generated columns, AsCollection::nullable(), inplace() index migrations, and more. The post Tagged Memoized Cache and Model Refreshes in Laravel 13.33 a",
-   "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
-  },
-  {
    "title": "Laravel Live Denmark 2026 Talks Are Now on YouTube",
    "link": "https://laravel-news.com/laravel-live-denmark-2026-talks?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+laravelnews",
    "date": "2026-09-22T21:33:31.000Z",
@@ -562,16 +572,6 @@
    "image": null
   },
   {
-   "title": "llm-anthropic 0.29",
-   "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-   "date": "2026-09-22T17:14:55.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic",
-   "image": null
-  },
-  {
    "title": "Christophe Pettus: The Shadow Knows",
    "link": "https://postgr.es/p/9vu",
    "date": "2026-09-22T16:00:00.000Z",
@@ -579,16 +579,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "ClickHouse released WalShadow last week, and it does something very… brave: it replicates PostgreSQL into ClickHouse without using logical decoding at all. It reads the physical WAL stream, the same bytes a streaming rep",
-   "image": null
-  },
-  {
-   "title": "llm-typesafe 0.1a0",
-   "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-   "date": "2026-09-22T15:54:16.000Z",
-   "theme": "ia",
-   "themeName": "IA",
-   "source": "Simon Willison",
-   "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move ",
    "image": null
   },
   {
@@ -609,16 +599,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "A long time ago I ran a write-heavy system on a hub and a handful of workers. Each worker took a share of the application traffic and wrote events locally. The hub owned the reference data (customers, plans, prices), pus",
-   "image": null
-  },
-  {
-   "title": "Tomas Vondra: Being considerate of other people's time",
-   "link": "https://postgr.es/p/9vp",
-   "date": "2026-09-22T10:00:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "If I could give one piece of advice to the past me, starting to contribute to open source projects, it’d be to value other developers' time more. It took me a while to appreciate the “economy” behind this, and adjust how",
    "image": null
   },
   {
@@ -932,6 +912,16 @@
    "image": null
   },
   {
+   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
+   "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
+   "date": "2026-09-09T20:40:47.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHPBenelux Conferencesubmit your proposal today!",
+   "image": null
+  },
+  {
    "title": "Social Media Engagement: summer 2026",
    "link": "https://martinfowler.com/articles/2026-social-traffic.html",
    "date": "2026-09-09T16:21:00.000Z",
@@ -989,6 +979,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
