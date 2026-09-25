@@ -1,45 +1,115 @@
 {
- "generatedAt": "2026-09-25T01:26:39.441Z",
+ "generatedAt": "2026-09-25T10:09:43.946Z",
  "articles": [
   {
-   "title": "The Agent Did It: Containing an AI That Acts Before You Approve.",
-   "link": "https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj",
-   "date": "2026-09-25T01:01:56.000Z",
+   "title": "Claude Opus stopped mid-output at a 21000-token ceiling",
+   "link": "https://dev.to/robswierk/claude-opus-stopped-mid-output-at-a-21000-token-ceiling-3hn3",
+   "date": "2026-09-25T10:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "The Agent Did It: Containing an AI That Acts Before You Approve Two headlines this week should be read together. One: an AI agent apparently reached beyond its intended target and touched a government website. Two: resea",
+   "summary": "Claude Opus (claude-opus-4-8) stopped mid-output during a script repair call and raised a RuntimeError. The error message was explicit: the response hit the 21000-token max_tokens budget, and the model was cut off, not r",
    "image": null
   },
   {
-   "title": "API Rate Limiting: Patterns That Scale",
-   "link": "https://dev.to/samson_tanimawo/api-rate-limiting-patterns-that-scale-4al6",
-   "date": "2026-09-25T00:59:30.000Z",
+   "title": "Kubernetes 1.37's kyaml output closes a YAML bug that still deletes data on apply",
+   "link": "https://dev.to/alexgeorgiev17/kubernetes-137s-kyaml-output-closes-a-yaml-bug-that-still-deletes-data-on-apply-527a",
+   "date": "2026-09-25T10:00:00.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Rate limiting is one of those topics where everyone knows the basics and almost nobody gets it right at scale. Let me walk through the patterns that actually work. Token bucket. Each client has a bucket that refills at a",
+   "summary": "I wrote a ConfigMap with one field set to ~ and applied it to a real Kubernetes 1.37 API server. I expected an error, the same one I'd just seen for a boolean-looking value. Instead I got configmap/t-tilde created, and t",
    "image": null
   },
   {
-   "title": "VsTerm — a native Rust SSH terminal that keeps shell, files, and ops in one place",
-   "link": "https://dev.to/vesaa/vsterm-a-native-rust-ssh-terminal-that-keeps-shell-files-and-ops-in-one-place-13gk",
-   "date": "2026-09-25T00:58:52.000Z",
+   "title": "Salesforce DevOps with Copado AI | New Live Online Batch!",
+   "link": "https://dev.to/vamsi_visualpath_826a9ad2/salesforce-devops-with-copado-ai-new-live-online-batch-3p0k",
+   "date": "2026-09-25T09:51:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I got tired of splitting SSH work across a terminal app, an SFTP client, and a pile of browser tools. So I built VsTerm: a cross-platform SSH terminal manager in native Rust (not Electron). Terminal + bottom SFTP + eleva",
+   "summary": "🎯 𝗦𝗮𝗹𝗲𝘀𝗳𝗼𝗿𝗰𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝘄𝗶𝘁𝗵 𝗖𝗼𝗽𝗮𝗱𝗼 𝗔𝗜 – 𝗡𝗲𝘄 𝗕𝗮𝘁𝗰𝗵 𝗦𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗦𝗼𝗼𝗻! ✨ 𝗕𝗮𝘁𝗰𝗵 𝗗𝗲𝘁𝗮𝗶𝗹𝘀: 🔗 𝗘𝗻𝗿𝗼𝗹𝗹 𝗡𝗼𝘄: https://bit.ly/4rvxlnH ✨ 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂’𝗹𝗹 𝗟𝗲𝗮𝗿𝗻",
    "image": null
   },
   {
-   "title": "Cron Background Job Failure Alerts: Log Polling and Heartbeat Detection",
-   "link": "https://dev.to/harrisonford3572/cron-background-job-failure-alerts-log-polling-and-heartbeat-detection-1if3",
-   "date": "2026-09-25T00:52:26.000Z",
+   "title": "I built a free QR code generator that doesn't expire after 7 days",
+   "link": "https://dev.to/khaithisran/i-built-a-free-qr-code-generator-that-doesnt-expire-after-7-days-2eji",
+   "date": "2026-09-25T09:50:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "TL;DR: For a Node cron background job, use two independent failure signals. Poll errors or structured logs to alert on a run that started and failed, and send a heartbeat to an external monitor to detect a missed job tha",
+   "summary": "We've all been there: you need a quick QR code for a client, test environment, or WiFi network. You pick the top Google result, generate it, and two weeks later it breaks because they want a $35/month recurring subscript",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh5v33soqom40h024l49f.png"
+  },
+  {
+   "title": "DevOps Training in Bangalore: Tips for Building Practical Skills",
+   "link": "https://dev.to/pavani_palla_2cf98ae2b32b/devops-training-in-bangalore-tips-for-building-practical-skills-dfc",
+   "date": "2026-09-25T09:48:44.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Modern software development is no longer only about writing code. Applications need to be developed, tested, deployed, monitored, and updated efficiently. This is where DevOps practices play an important role. As organiz",
    "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: AWS NAT Gateway Cost Spikes: VPC Endpoints & Flow Logs Deep-Dive",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-aws-nat-gateway-cost-spikes-vpc-endpoints-flow-logs-deep-dive-4cfm",
+   "date": "2026-09-25T09:46:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Terraform Cloud Migration Playbook: A 30/60/90 Day Plan for Enterprise Teams",
+   "link": "https://dev.to/yuvicodes17/terraform-cloud-migration-playbook-a-306090-day-plan-for-enterprise-teams-1h66",
+   "date": "2026-09-25T09:45:15.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "TL;DR A Terraform Cloud migration can go quietly wrong in two ways: state divergence between the old and new backend, and a policy gap the moment Sentinel gets turned off before its OPA/Rego replacement is proven. The fi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fioqpj6eqaiucwd14ko9l.png"
+  },
+  {
+   "title": "Your Cron Job Exited 0. That Doesn't Mean It Did Anything.",
+   "link": "https://dev.to/ramdai_bista/your-cron-job-exited-0-that-doesnt-mean-it-did-anything-5bam",
+   "date": "2026-09-25T09:39:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "jobs: citation_tracker: writes: [state/citations.json] min_artifacts: 1 weekly_analytics: writes: [state/insights.json] min_artifacts: 1",
+   "image": null
+  },
+  {
+   "title": "New in Symfony 8.2: Faster Messenger Workers",
+   "link": "https://symfony.com/blog/new-in-symfony-8-2-faster-messenger-workers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+   "date": "2026-09-25T07:07:00.000Z",
+   "theme": "symfony",
+   "themeName": "Symfony",
+   "source": "Symfony Blog",
+   "summary": "Parallel Message Processing Contributed by Nicolas Grekas in #63650…",
+   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
+  },
+  {
+   "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+   "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+   "date": "2026-09-25T04:49:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk s",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg"
+  },
+  {
+   "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+   "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+   "date": "2026-09-25T04:46:34.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based o",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
   },
   {
    "title": "Tagged Memoized Cache and Model Refreshes in Laravel 13.33",
@@ -52,36 +122,6 @@
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-13-featured.png"
   },
   {
-   "title": "Ignoring Retry-After on 429s turned a 2-second blip into a 4-minute lockout",
-   "link": "https://dev.to/payneteasy/ignoring-retry-after-on-429s-turned-a-2-second-blip-into-a-4-minute-lockout-f54",
-   "date": "2026-09-25T00:00:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our checkout started throwing intermittent 429s from the gateway during a flash sale. Client retry logic used fixed exponential backoff: 1s, 2s, 4s, 8s, capped at 30s. Looked reasonable on paper. What we missed: the gate",
-   "image": null
-  },
-  {
-   "title": "An Incomplete Model Transcript Is Not a Passing Property Run",
-   "link": "https://dev.to/datacpp_8185/an-incomplete-model-transcript-is-not-a-passing-property-run-32mo",
-   "date": "2026-09-24T23:43:27.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "An incomplete model transcript is not a passing property run. If capture never stored a complete patch body, the suite has no oracle, and a zero exit from the runner is only evidence that a process ended. Score that tria",
-   "image": null
-  },
-  {
-   "title": "Transactional Email Deliverability: How to Handle Startup Domain Warmup and Suppression",
-   "link": "https://dev.to/rhysfalconer159/transactional-email-deliverability-how-to-handle-startup-domain-warmup-and-suppression-1ogp",
-   "date": "2026-09-24T23:39:14.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "The awkward part of transactional email is not calling send. It is keeping DNS ownership, bounce evidence, and suppression decisions consistent while leaving yourself a credible exit. TL;DR: put a narrow adapter around d",
-   "image": null
-  },
-  {
    "title": "Cornelia Biacsics: What Development Looked Like at PGConf.dev 2026",
    "link": "https://postgr.es/p/9vD",
    "date": "2026-09-24T23:34:52.000Z",
@@ -90,16 +130,6 @@
    "source": "Planet PostgreSQL",
    "summary": "With PGConf.dev 2027 now on the horizon, I found myself thinking back to PGConf.dev 2026 and all the moments that stayed with me. From 19–22 May 2026, I attended PGConf.dev for the very first time in Vancouver, Canada. W",
    "image": "https://cdn-images-1.medium.com/max/1024/1*sMCaQoiPZECI4G2B8ofdpw.png"
-  },
-  {
-   "title": "Docker CI Releases Need a Verifiable AWS Receipt",
-   "link": "https://dev.to/jasonmills94/docker-ci-releases-need-a-verifiable-aws-receipt-622",
-   "date": "2026-09-24T23:23:50.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "A green deployment is not the same thing as a provable deployment. When a Docker release reaches Kubernetes or an ECS service, I want more than a successful job badge. I want a small receipt that answers: which source re",
-   "image": null
   },
   {
    "title": "commit-rewriter 0.2",
@@ -292,16 +322,6 @@
    "image": null
   },
   {
-   "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-   "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-   "date": "2026-09-24T09:14:21.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg"
-  },
-  {
    "title": "Jacob Rockowitz: Vibing Drupal: Using AI to hammer at the Webform module's security issues",
    "link": "https://www.jrockowitz.com/blog/vibing-drupal-webform-security",
    "date": "2026-09-24T08:32:27.000Z",
@@ -330,16 +350,6 @@
    "source": "Symfony Blog",
    "summary": "Provider-Hosted Templates Contributed by Florent Blaison and Nicolas…",
    "image": "https://connect.symfony.com/profile/Orkin.picture"
-  },
-  {
-   "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-   "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-   "date": "2026-09-24T07:07:25.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such ",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg"
   },
   {
    "title": "The Drop Times: Drupal 12 Moves Core Development to Node.js 24 as Nightwatch Fixes Reach Drupal 11",
@@ -680,16 +690,6 @@
    "source": "Symfony Blog",
    "summary": "Symfony UX 3.5 is out, with close to ninety pull requests merged since 3.4, enough to make it one of the largest releases the project has shipped. It brings a brand new Pagination package, hands component attribute rende",
    "image": "https://github.com/smnandre.png"
-  },
-  {
-   "title": "New in Symfony 8.2: Messenger Outbox and Claim Check",
-   "link": "https://symfony.com/blog/new-in-symfony-8-2-messenger-outbox-and-claim-check?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
-   "date": "2026-09-21T07:50:00.000Z",
-   "theme": "symfony",
-   "themeName": "Symfony",
-   "source": "Symfony Blog",
-   "summary": "Many applications that send messages to a broker end up facing these two problems: (1) sending them is not part of the database transaction, and (2) brokers refuse messages that are too big. Symfony Messenger solves both",
-   "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
   },
   {
    "title": "tokenizers v1: encode, decode and scaling, measured",
