@@ -1,34 +1,84 @@
 {
- "generatedAt": "2026-09-26T01:30:06.091Z",
+ "generatedAt": "2026-09-26T09:50:02.430Z",
  "articles": [
   {
-   "title": "Kubernetes Ingress 502 Bad Gateway (ingress-nginx): How to Debug and Fix 502, 503, and 504 Errors",
-   "link": "https://dev.to/devtocash/kubernetes-ingress-502-bad-gateway-ingress-nginx-how-to-debug-and-fix-502-503-and-504-errors-35lh",
-   "date": "2026-09-26T01:17:14.000Z",
+   "title": "5 個 Python 單檔實用工具：零依賴、可直接用於 Production Ops 的自動化腳本",
+   "link": "https://dev.to/el_e_3dc94dfc336bfb025ef2/5-ge-python-dan-dang-shi-yong-gong-ju-ling-yi-lai-ke-zhi-jie-yong-yu-production-ops-de-zi-dong-hua-jiao-ben-32ej",
+   "date": "2026-09-26T09:47:24.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. A 502 Bad Gateway page that says nginx at the bottom means the ingress-nginx controller acce",
+   "summary": "作為後端與安全工程師，我習慣撰寫單檔、零第三方依賴的 Python 小工具，替代臨時指令與繁瑣的 cron job。這五個工具涵蓋磁碟/服務健康監控、檔案完整性驗證、USDT 收據驗證閘、日誌分析、端點可用性檢測，皆可開箱即用。 demo_01_automation.py) 痛點 伺服器與工作站常因兩類問題靜默失效： 磁碟爆滿：資料目錄悄悄佔滿空間，導致應用寫入與資料庫提交失敗 關鍵服務掛掉：背景程序退出或崩潰，無人察覺直到客戶回報 腳",
    "image": null
   },
   {
-   "title": "\"Unknown\" was the right third value. It is not enough on its own.",
-   "link": "https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl",
-   "date": "2026-09-26T01:01:37.000Z",
+   "title": "Tuberías de notificación deterministas: El patrón Producer con Context Manager",
+   "link": "https://dev.to/william_rodriguez_65a5898/tuberias-de-notificacion-deterministas-el-patron-producer-con-context-manager-1dd4",
+   "date": "2026-09-26T09:47:15.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Notes from an AI agent on what happened after I gave my checks three answers instead of two Same rule as the last two posts: every mistake below is mine, made between 15 and 24 In the first post of this series I argued t",
+   "summary": "Las sesiones HTTP huérfanas y los sockets sin cerrar degradan silenciosamente tus servicios Python. wconnect adopta el protocolo Context Manager nativo para notificaciones blindadas. Así se implementa Context Manager Pro",
    "image": null
   },
   {
-   "title": "Your AI Vendor Just Became a Supply-Chain Risk",
-   "link": "https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1",
-   "date": "2026-09-26T01:01:32.000Z",
+   "title": "Verify without exposing: Constant-time authentication with valid()",
+   "link": "https://dev.to/william_rodriguez_65a5898/verify-without-exposing-constant-time-authentication-with-valid-1nmm",
+   "date": "2026-09-26T09:46:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Your AI Vendor Just Became a Supply-Chain Risk A U.S. appeals court this week upheld a designation of a major AI company as a supply-chain risk. Read that phrase slowly. Not \"a competitor.\" Not \"a safety concern.\" A supp",
+   "summary": "Retrieving a secret into application memory just to check equality with user input is a security anti-pattern. wauth's valid() verifies tokens in constant time without ever exposing the plain text. Here is the exact prod",
+   "image": null
+  },
+  {
+   "title": "Dashboards no Grafana - combinando PromQL e LogQL para acompanhar uma aplicação de ponta a ponta",
+   "link": "https://dev.to/apsis-cc/dashboards-no-grafana-combinando-promql-e-logql-para-acompanhar-uma-aplicacao-de-ponta-a-ponta-4k02",
+   "date": "2026-09-26T09:30:37.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "1. Retomando: dados prontos, falta visualizar A stack unificada do artigo anterior já coleta métricas das duas mini apps, recebe seus logs e processa seus traces. Mas até aqui, toda consulta foi feita manualmente — uma e",
+   "image": null
+  },
+  {
+   "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
+   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-5cga",
+   "date": "2026-09-26T09:30:35.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "image": null
+  },
+  {
+   "title": "Our Supplier Sells One Environment and It Is Production",
+   "link": "https://dev.to/serguey_shinder_4ab9b87b1/our-supplier-sells-one-environment-and-it-is-production-3fhm",
+   "date": "2026-09-26T09:29:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Our human resources platform is a subscription service and we have exactly one instance of it, the live one. The supplier offers a sandbox for thirty percent of the annual fee, which we declined at procurement in 2020 be",
+   "image": null
+  },
+  {
+   "title": "[ES] Más allá del código repetitivo: Arquitectura unificada de mensajería con wconnect",
+   "link": "https://dev.to/william_rodriguez_65a5898/es-mas-alla-del-codigo-repetitivo-arquitectura-unificada-de-mensajeria-con-wconnect-42pb",
+   "date": "2026-09-26T09:26:50.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Crear bots de Telegram y sistemas de notificación no debería exigir reinventar bucles de despacho, parseo manual de adjuntos y gestión de reconexión. wconnect (también conocido como wmessenger en PyPI) aporta mensajería ",
+   "image": null
+  },
+  {
+   "title": "Our cluster upgrade waited two days for one pod that could not leave",
+   "link": "https://dev.to/sergey_shinder_ab2d943365/our-cluster-upgrade-waited-two-days-for-one-pod-that-could-not-leave-9fb",
+   "date": "2026-09-26T09:20:29.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Our managed Kubernetes version was due to fall out of support at the end of the month, so we started the node pool upgrade on a Tuesday morning expecting it to be done by lunch. By Thursday afternoon the upgrade still sa",
    "image": null
   },
   {
@@ -39,56 +89,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "Replication slots can silently fill your disk and crash the primary, or you can set `max_slot_wal_keep_size` to kill a stalled replica instead.",
-   "image": null
-  },
-  {
-   "title": "Why DNS Propagation Lies to You: 5 Resolver Traps That Break Production Migrations",
-   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-propagation-lies-to-you-5-resolver-traps-that-break-production-migrations-117a",
-   "date": "2026-09-26T00:33:25.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "You cut over your apex domain or primary API endpoint to a new server cluster. You update the DNS record in your cloud console, run dig api.example.com +short in your local shell, and see the new IP address. You announce",
-   "image": null
-  },
-  {
-   "title": "Dockerizing a Node App & Shipping It to Azure: Build, Break, Fix & Ship (3 Errors, Zero Regrets) 🐳",
-   "link": "https://dev.to/4thman/-catching-container-vibes-dockerizing-a-node-app-shipping-it-to-azure-3-errors-zero-regrets-p02",
-   "date": "2026-09-26T00:33:05.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "I wanted a hands-on project to actually cement what I'd been learning in Docker and Azure, build something small, break it, fix it, and ship it for real. So I built Container Vibes: a tiny Express app that hands you a ra",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Funx1yjo84gyadnjoik9f.jpg"
-  },
-  {
-   "title": "Private AI Deployment Options: Workstation to Air Gap",
-   "link": "https://dev.to/mickai/private-ai-deployment-options-workstation-to-air-gap-3ojl",
-   "date": "2026-09-26T00:31:00.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "It depends on how many people need it and how sensitive the work is. One workstation suits a single team or a pilot. A server room installation suits a department or a whole organisation. A fully air-gapped site suits cl",
-   "image": null
-  },
-  {
-   "title": "On-Premise AI Server Requirements for a Normal Office",
-   "link": "https://dev.to/mickai/on-premise-ai-server-requirements-for-a-normal-office-10ko",
-   "date": "2026-09-26T00:30:18.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Yes, often. A single AI workstation usually runs on an ordinary office circuit. A shared departmental server needs a lockable room, a dedicated power circuit, cooling that copes with sustained load, and a location where ",
-   "image": null
-  },
-  {
-   "title": "The ticket is the interface: how our developers ship without a laptop",
-   "link": "https://dev.to/panthpatel/the-ticket-is-the-interface-how-our-developers-ship-without-a-laptop-4of1",
-   "date": "2026-09-26T00:25:23.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Neither I nor my developers need a laptop to ship code anymore. That sounds like a stunt, so here is the boring version: on our team a developer's working day happens inside a ticket thread, and the parts that make that ",
    "image": null
   },
   {
@@ -109,6 +109,16 @@
    "themeName": "IA",
    "source": "Simon Willison",
    "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-ins",
+   "image": null
+  },
+  {
+   "title": "The Drop Times: DrupalCon Rotterdam Speakers Test Proof, Trust, and Maintainability Beyond the Demo",
+   "link": "https://www.thedroptimes.com/72493/rotterdam-proof-trust-maintainability?utm_source=Drupal Planet",
+   "date": "2026-09-25T15:39:46.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A workflow can report success and still be wrong, while a thriving community can quietly depend on too few people. These Rotterdam speakers look past the demo to the evidence, architecture, feedback, and ownership that d",
    "image": null
   },
   {
@@ -342,16 +352,6 @@
    "image": null
   },
   {
-   "title": "DDEV Blog: DDEV September 2026: v1.25.4 Ships, Hobobiker Rides Again, Pressable Goes Official",
-   "link": "https://ddev.com/blog/ddev-september-2026-newsletter",
-   "date": "2026-09-25T00:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "DDEV v1.25.4 Is Out DDEV v1.25.4 landed on September 2 with 142 PRs from the community. The theme is doing less by hand: Database seeding — a new project can start from a seed snapshot instead of an import step. ddev sta",
-   "image": "https://ddev.com/img/blog/2026/09/ddev-september-2026-featureimage.jpg"
-  },
-  {
    "title": "Cornelia Biacsics: What Development Looked Like at PGConf.dev 2026",
    "link": "https://postgr.es/p/9vD",
    "date": "2026-09-24T23:34:52.000Z",
@@ -409,6 +409,16 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wi",
+   "image": null
+  },
+  {
+   "title": "PHP 8.4.26 Released!",
+   "link": "https://www.php.net/index.php#2026-09-24-5",
+   "date": "2026-09-24T15:26:06.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.4.26. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.26 please visit our , ",
    "image": null
   },
   {
@@ -919,16 +929,6 @@
    "themeName": "PHP",
    "source": "PHP.net",
    "summary": "Buy your tickets herehttps://conference.phpbenelux.eu",
-   "image": null
-  },
-  {
-   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
-   "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
-   "date": "2026-09-09T20:40:47.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHPBenelux Conferencesubmit your proposal today!",
    "image": null
   },
   {
