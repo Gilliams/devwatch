@@ -1,84 +1,104 @@
 {
- "generatedAt": "2026-09-25T20:26:51.335Z",
+ "generatedAt": "2026-09-26T01:30:06.091Z",
  "articles": [
   {
-   "title": "App Review banned our core mechanic. Notarization let it through - and caught something else",
-   "link": "https://dev.to/temer/app-review-banned-our-core-mechanic-notarization-let-it-through-and-caught-something-else-3gef",
-   "date": "2026-09-25T20:17:37.000Z",
+   "title": "Kubernetes Ingress 502 Bad Gateway (ingress-nginx): How to Debug and Fix 502, 503, and 504 Errors",
+   "link": "https://dev.to/devtocash/kubernetes-ingress-502-bad-gateway-ingress-nginx-how-to-debug-and-fix-502-503-and-504-errors-35lh",
+   "date": "2026-09-26T01:17:14.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In an earlier post I described how we distribute our iOS app outside the App Store through AltStore PAL. The most common follow-up question was \"what about review?\". We now have numbers: two App Review rounds and six not",
+   "summary": "💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. A 502 Bad Gateway page that says nginx at the bottom means the ingress-nginx controller acce",
    "image": null
   },
   {
-   "title": "Adding Status and Conditions to My Kubernetes Operator",
-   "link": "https://dev.to/shubhamgoel23/adding-status-and-conditions-to-my-kubernetes-operator-1a4b",
-   "date": "2026-09-25T20:14:28.000Z",
+   "title": "\"Unknown\" was the right third value. It is not enough on its own.",
+   "link": "https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl",
+   "date": "2026-09-26T01:01:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In the previous posts, I created a custom Kubernetes resource called Greeting, built a Java controller for it, and then deployed that controller inside Kubernetes. The current flow looks like this: Greeting | v Java Oper",
+   "summary": "Notes from an AI agent on what happened after I gave my checks three answers instead of two Same rule as the last two posts: every mistake below is mine, made between 15 and 24 In the first post of this series I argued t",
    "image": null
   },
   {
-   "title": "Trace an MCP install from directory entry to running artefact",
-   "link": "https://dev.to/piyushverma/trace-an-mcp-install-from-directory-entry-to-running-artefact-4e5",
-   "date": "2026-09-25T20:06:47.000Z",
+   "title": "Your AI Vendor Just Became a Supply-Chain Risk",
+   "link": "https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1",
+   "date": "2026-09-26T01:01:32.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "A directory result, a GitHub repository and an install command can all have similar names. They are not necessarily the same artefact. Before you add an MCP server to a client, write down the path between them. For a loc",
+   "summary": "Your AI Vendor Just Became a Supply-Chain Risk A U.S. appeals court this week upheld a designation of a major AI company as a supply-chain risk. Read that phrase slowly. Not \"a competitor.\" Not \"a safety concern.\" A supp",
    "image": null
   },
   {
-   "title": "Why AI Must Be Tested in the Real Environment",
-   "link": "https://dev.to/mickai/why-ai-must-be-tested-in-the-real-environment-134m",
-   "date": "2026-09-25T20:01:35.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "AI that works in a pilot fails in the real environment because the pilot removed the four things that decide the outcome: messy real data, enforced permissions, restricted networks and ordinary staff. Put those back and ",
+   "title": "Christophe Pettus: All Your GUCs in a Row: max_slot_wal_keep_size",
+   "link": "https://postgr.es/p/9vI",
+   "date": "2026-09-26T01:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "Replication slots can silently fill your disk and crash the primary, or you can set `max_slot_wal_keep_size` to kill a stalled replica instead.",
    "image": null
   },
   {
-   "title": "A Demo Is Not a Handover: Why AI Pilots Stall",
-   "link": "https://dev.to/mickai/a-demo-is-not-a-handover-why-ai-pilots-stall-4gkn",
-   "date": "2026-09-25T19:58:53.000Z",
+   "title": "Why DNS Propagation Lies to You: 5 Resolver Traps That Break Production Migrations",
+   "link": "https://dev.to/rasika_dangamuwa_ed1074fe/why-dns-propagation-lies-to-you-5-resolver-traps-that-break-production-migrations-117a",
+   "date": "2026-09-26T00:33:25.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Because a demo proves a model can produce an output, and a deployment must prove the whole system: real data under real permissions, integration with systems of record, evidence of what happened, and a named owner after ",
+   "summary": "You cut over your apex domain or primary API endpoint to a new server cluster. You update the DNS record in your cloud console, run dig api.example.com +short in your local shell, and see the new IP address. You announce",
    "image": null
   },
   {
-   "title": "How Sovereign AI Integrates With Your Existing Systems",
-   "link": "https://dev.to/mickai/how-sovereign-ai-integrates-with-your-existing-systems-38i7",
-   "date": "2026-09-25T19:58:22.000Z",
+   "title": "Dockerizing a Node App & Shipping It to Azure: Build, Break, Fix & Ship (3 Errors, Zero Regrets) 🐳",
+   "link": "https://dev.to/4thman/-catching-container-vibes-dockerizing-a-node-app-shipping-it-to-azure-3-errors-zero-regrets-p02",
+   "date": "2026-09-26T00:33:05.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "On-premise AI integrates through explicitly configured connections: each system is named, scoped and approved before anything is read. Nothing is discovered automatically. Connections run inside your network to your iden",
+   "summary": "I wanted a hands-on project to actually cement what I'd been learning in Docker and Azure, build something small, break it, fix it, and ship it for real. So I built Container Vibes: a tiny Express app that hands you a ra",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Funx1yjo84gyadnjoik9f.jpg"
+  },
+  {
+   "title": "Private AI Deployment Options: Workstation to Air Gap",
+   "link": "https://dev.to/mickai/private-ai-deployment-options-workstation-to-air-gap-3ojl",
+   "date": "2026-09-26T00:31:00.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "It depends on how many people need it and how sensitive the work is. One workstation suits a single team or a pilot. A server room installation suits a department or a whole organisation. A fully air-gapped site suits cl",
    "image": null
   },
   {
-   "title": "Essential Books for Backend Developers",
-   "link": "https://dev.to/nick_davies_323125afbb05c/essential-books-for-backend-developers-5338",
-   "date": "2026-09-25T19:56:06.000Z",
+   "title": "On-Premise AI Server Requirements for a Normal Office",
+   "link": "https://dev.to/mickai/on-premise-ai-server-requirements-for-a-normal-office-10ko",
+   "date": "2026-09-26T00:30:18.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Here's my curated list of the best backend books for developers. Book Author Pages Year Designing Data-Intensive Applications Martin Kleppmann 616 2017 System Design Interview Volume 1 Alex Xu 322 2020 System Design Inte",
+   "summary": "Yes, often. A single AI workstation usually runs on an ordinary office circuit. A shared departmental server needs a lockable room, a dedicated power circuit, cooling that copes with sustained load, and a location where ",
    "image": null
   },
   {
-   "title": "We Were Drowning in Cloud Tabs. So We Built Panoptes.",
-   "link": "https://dev.to/saqibayaz/we-were-drowning-in-cloud-tabs-so-we-built-panoptes-3c7m",
-   "date": "2026-09-25T19:29:52.000Z",
+   "title": "The ticket is the interface: how our developers ship without a laptop",
+   "link": "https://dev.to/panthpatel/the-ticket-is-the-interface-how-our-developers-ship-without-a-laptop-4of1",
+   "date": "2026-09-26T00:25:23.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We Were Drowning in Cloud Tabs. So We Built Panoptes. Three clouds. Four dashboards. One team losing hours every week just to get a basic answer: \"How much are we spending?\" The moment your team decides to use more than ",
+   "summary": "Neither I nor my developers need a laptop to ship code anymore. That sounds like a stunt, so here is the boring version: on our team a developer's working day happens inside a ticket thread, and the parts that make that ",
+   "image": null
+  },
+  {
+   "title": "HOOK_DEV_ALTER(): PHP Structured Concurrency and Beyond (2): ownership, and why its absence breaks persistent servers",
+   "link": "https://www.hook-dev-alter.com/en/articles/php-structured-concurrency-and-beyond-2-ownership-and-why-its-absence-breaks-persistent",
+   "date": "2026-09-25T18:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "A coroutine nobody owns is a leak. Under one process per request you never see it. Persistent servers take that away.",
    "image": null
   },
   {
@@ -232,6 +252,16 @@
    "image": "https://github.com/fabpot.png"
   },
   {
+   "title": "The Drop Times: DrupalCon Rotterdam Speakers Trace the Structure Behind AI, Personalisation, and Scale",
+   "link": "https://www.thedroptimes.com/72454/rotterdam-structure-ai-personalisation-scale?utm_source=Drupal Planet",
+   "date": "2026-09-25T08:12:28.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Some Drupal problems begin with too much rather than too little: too much legacy HTML, hundreds of career choices and brand sites, or code generated faster than teams can understand it. These Rotterdam sessions examine t",
+   "image": null
+  },
+  {
    "title": "New in Symfony 8.2: Faster Messenger Workers",
    "link": "https://symfony.com/blog/new-in-symfony-8-2-faster-messenger-workers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-25T07:07:00.000Z",
@@ -372,26 +402,6 @@
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
   },
   {
-   "title": "Talking Drupal: Talking Drupal #571 - GovHub",
-   "link": "https://sacstudio.libsyn.com/talking-drupal-571-govhub",
-   "date": "2026-09-24T18:00:00.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Today we are talking about GovHub, Drupal in Government, and Why Governments Love Drupal with guest Jasmyne Epps. We'll also cover Convivial Gov Site Template as our module of the week. For show notes visit: https://www.",
-   "image": null
-  },
-  {
-   "title": "Centarro: Drupal Commerce vs. Shopify",
-   "link": "https://www.centarro.io/blog/drupal-commerce-vs-shopify",
-   "date": "2026-09-24T17:53:23.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Shopify is the fastest way to launch a simple online store. It handles hosting, security, and checkout beautifully. For straightforward DTC brands, it's hard to beat. But the more your business strays from a simple produ",
-   "image": null
-  },
-  {
    "title": "Fragments: September 24",
    "link": "https://martinfowler.com/fragments/2026-09-24.html",
    "date": "2026-09-24T15:35:00.000Z",
@@ -419,6 +429,16 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
+   "image": null
+  },
+  {
+   "title": "PHP 8.2.34 Released!",
+   "link": "https://www.php.net/index.php#2026-09-24-4",
+   "date": "2026-09-24T13:53:04.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "The PHP development team announces the immediate availability of PHP 8.2.34. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.34 please visit our , ",
    "image": null
   },
   {
@@ -550,16 +570,6 @@
    "source": "PortSwigger Research",
    "summary": "How many bugs have you missed because you didn’t send quite enough HTTP requests? Turbo Intruder now supports HTTP/3, can comfortably exceed 100,000 requests per second over Wi-Fi, and auto-tunes for",
    "image": "https://portswigger.net/cms/images/5c/00/1f41-twittercard-http3_in_burp_suite_twitter.png"
-  },
-  {
-   "title": "Stefan Fercot: pgBackRest and PostgreSQL failover: why archive_mode matters",
-   "link": "https://postgr.es/p/9vy",
-   "date": "2026-09-23T13:35:00.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "A recent question on the community channels described a difficult situation: a standby had been promoted with archive_mode=off, and restarting the new primary was something the team wanted to avoid. Could they enable arc",
-   "image": null
   },
   {
    "title": "Case Study: Scanning for quality: How Yuka fuels healthy choices at global scale with Symfony",
@@ -979,16 +989,6 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
-   "image": null
-  },
-  {
-   "title": "PHP Conference Ehime 2026",
-   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
-   "date": "2026-09-02T14:30:00.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
