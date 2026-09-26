@@ -1,85 +1,155 @@
 {
- "generatedAt": "2026-09-26T09:50:02.430Z",
+ "generatedAt": "2026-09-26T14:57:34.939Z",
  "articles": [
   {
-   "title": "5 個 Python 單檔實用工具：零依賴、可直接用於 Production Ops 的自動化腳本",
-   "link": "https://dev.to/el_e_3dc94dfc336bfb025ef2/5-ge-python-dan-dang-shi-yong-gong-ju-ling-yi-lai-ke-zhi-jie-yong-yu-production-ops-de-zi-dong-hua-jiao-ben-32ej",
-   "date": "2026-09-26T09:47:24.000Z",
+   "title": "SQLite in production with Prisma and pm2: how we fixed \"database is locked\"",
+   "link": "https://dev.to/escrozon/sqlite-in-production-with-prisma-and-pm2-how-we-fixed-database-is-locked-83p",
+   "date": "2026-09-26T14:47:56.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "作為後端與安全工程師，我習慣撰寫單檔、零第三方依賴的 Python 小工具，替代臨時指令與繁瑣的 cron job。這五個工具涵蓋磁碟/服務健康監控、檔案完整性驗證、USDT 收據驗證閘、日誌分析、端點可用性檢測，皆可開箱即用。 demo_01_automation.py) 痛點 伺服器與工作站常因兩類問題靜默失效： 磁碟爆滿：資料目錄悄悄佔滿空間，導致應用寫入與資料庫提交失敗 關鍵服務掛掉：背景程序退出或崩潰，無人察覺直到客戶回報 腳",
+   "summary": "We run Escrozon, an escrow marketplace for digital assets, on Next.js with Prisma and a single SQLite file. SQLite suits a small production app well: one file, no database server to look after, and fast reads. But for a ",
    "image": null
   },
   {
-   "title": "Tuberías de notificación deterministas: El patrón Producer con Context Manager",
-   "link": "https://dev.to/william_rodriguez_65a5898/tuberias-de-notificacion-deterministas-el-patron-producer-con-context-manager-1dd4",
-   "date": "2026-09-26T09:47:15.000Z",
+   "title": "Building Data Pipes for Forest and Environmental Monitoring",
+   "link": "https://dev.to/ema9/building-data-pipes-for-forest-and-environmental-monitoring-30c1",
+   "date": "2026-09-26T14:41:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Las sesiones HTTP huérfanas y los sockets sin cerrar degradan silenciosamente tus servicios Python. wconnect adopta el protocolo Context Manager nativo para notificaciones blindadas. Así se implementa Context Manager Pro",
+   "summary": "Building Data Pipes for Forest and Environmental Monitoring It is turning into a data engineering problem all the time. A forest-monitoring system should be able to integrate data from a variety of sources: sensors, weat",
    "image": null
   },
   {
-   "title": "Verify without exposing: Constant-time authentication with valid()",
-   "link": "https://dev.to/william_rodriguez_65a5898/verify-without-exposing-constant-time-authentication-with-valid-1nmm",
-   "date": "2026-09-26T09:46:14.000Z",
+   "title": "Kubernetes Email Smoke Tests Need a Cleanup Contract",
+   "link": "https://dev.to/jasonmills94/kubernetes-email-smoke-tests-need-a-cleanup-contract-55h3",
+   "date": "2026-09-26T14:23:34.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Retrieving a secret into application memory just to check equality with user input is a security anti-pattern. wauth's valid() verifies tokens in constant time without ever exposing the plain text. Here is the exact prod",
+   "summary": "Email smoke tests are good at exposing the failures that unit tests miss: a worker cannot reach the provider, a template renders the wrong environment URL, or a verification message arrives too late for the release job. ",
    "image": null
   },
   {
-   "title": "Dashboards no Grafana - combinando PromQL e LogQL para acompanhar uma aplicação de ponta a ponta",
-   "link": "https://dev.to/apsis-cc/dashboards-no-grafana-combinando-promql-e-logql-para-acompanhar-uma-aplicacao-de-ponta-a-ponta-4k02",
-   "date": "2026-09-26T09:30:37.000Z",
+   "title": "Why Java Containers Die Silently: Fixing Docker OOM Kills",
+   "link": "https://dev.to/doogal/why-java-containers-die-silently-fixing-docker-oom-kills-14n8",
+   "date": "2026-09-26T14:22:50.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "1. Retomando: dados prontos, falta visualizar A stack unificada do artigo anterior já coleta métricas das duas mini apps, recebe seus logs e processa seus traces. Mas até aqui, toda consulta foi feita manualmente — uma e",
+   "summary": "If your Java process inside Docker is abruptly terminating without generating any logs, you are likely hitting an Out-Of-Memory (OOM) kill from the container runtime. This happens when your container memory limit is set ",
    "image": null
   },
   {
-   "title": "DevOps Outage Scenario: Recovering from Terraform Remote State Lock Deadlocks in S3 & DynamoDB",
-   "link": "https://dev.to/intervixa_ai/devops-outage-scenario-recovering-from-terraform-remote-state-lock-deadlocks-in-s3-dynamodb-5cga",
-   "date": "2026-09-26T09:30:35.000Z",
+   "title": "Migrating from WindTerm to VsTerm — one SSH session for shell, files, and a few ops checks",
+   "link": "https://dev.to/vesaa/migrating-from-windterm-to-vsterm-one-ssh-session-for-shell-files-and-a-few-ops-checks-5f",
+   "date": "2026-09-26T14:06:19.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "In technical interviews for Senior Cloud, DevOps, and SRE roles, trivial syntax questions are gone. Hiring managers want to see how you respond when production is down at 2 AM. Today, let's dissect a real-world productio",
+   "summary": "I used WindTerm for a long time. It is fine at the shell. My friction was everything around the shell: open SFTP in another window, rz/sz in a third habit, then jump to a browser when a host “feels wrong” on the network ",
    "image": null
   },
   {
-   "title": "Our Supplier Sells One Environment and It Is Production",
-   "link": "https://dev.to/serguey_shinder_4ab9b87b1/our-supplier-sells-one-environment-and-it-is-production-3fhm",
-   "date": "2026-09-26T09:29:06.000Z",
+   "title": "Build Synthetic Shadow Traffic Gates for AI API Route Changes",
+   "link": "https://dev.to/aiwave/build-synthetic-shadow-traffic-gates-for-ai-api-route-changes-5029",
+   "date": "2026-09-26T13:55:38.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Our human resources platform is a subscription service and we have exactly one instance of it, the live one. The supplier offers a sandbox for thirty percent of the annual fee, which we declined at procurement in 2020 be",
+   "summary": "AI API route changes are rarely simple config edits. A provider adds a new model, a gateway changes a cache ratio, a team wants to move a coding workload to a smaller route, or an incident pushes you toward a fallback. T",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8nclm35igdol77k9ippc.png"
+  },
+  {
+   "title": "How to Safely Deduplicate Microsoft OneDrive Without Cloud Rehydration Storms",
+   "link": "https://dev.to/prismmigration/how-to-safely-deduplicate-microsoft-onedrive-without-cloud-rehydration-storms-18ii",
+   "date": "2026-09-26T13:45:31.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "If you manage personal or company storage on Microsoft OneDrive, you've likely encountered the slow, creeping problem of storage bloat: duplicate files accumulating across sync folders, team shares, and local backups. Ho",
    "image": null
   },
   {
-   "title": "[ES] Más allá del código repetitivo: Arquitectura unificada de mensajería con wconnect",
-   "link": "https://dev.to/william_rodriguez_65a5898/es-mas-alla-del-codigo-repetitivo-arquitectura-unificada-de-mensajeria-con-wconnect-42pb",
-   "date": "2026-09-26T09:26:50.000Z",
+   "title": "Cómo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
+   "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-nh",
+   "date": "2026-09-26T13:33:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Crear bots de Telegram y sistemas de notificación no debería exigir reinventar bucles de despacho, parseo manual de adjuntos y gestión de reconexión. wconnect (también conocido como wmessenger en PyPI) aporta mensajería ",
+   "summary": "Cómo solucionar docker run con Exited (1) en Raspberry Pi ¿Por qué ocurre este error? El código de salida 1 indica que el proceso principal del contenedor (PID 1) terminó con un error genérico. En Raspberry Pi, los casos",
    "image": null
   },
   {
-   "title": "Our cluster upgrade waited two days for one pod that could not leave",
-   "link": "https://dev.to/sergey_shinder_ab2d943365/our-cluster-upgrade-waited-two-days-for-one-pod-that-could-not-leave-9fb",
-   "date": "2026-09-26T09:20:29.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Our managed Kubernetes version was due to fall out of support at the end of the month, so we started the node pool upgrade on a Tuesday morning expecting it to be done by lunch. By Thursday afternoon the upgrade still sa",
+   "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+   "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+   "date": "2026-09-26T11:46:40.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
+  },
+  {
+   "title": "Stuart Clark (Deciphered): Druxt Auth 0.5.0; two ways to sign in without leaving your site",
+   "link": "https://stuar.tc/writing/druxt-auth-050-two-ways-to-sign-in-20260926?utm_source=planet-drupal&utm_medium=rss&utm_campaign=syndication",
+   "date": "2026-09-26T11:30:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every Druxt site I have built signs people in by sending them somewhere else to do it: out to Drupal's login page, on to a consent screen, and eventually back. With Druxt Auth 0.5.0 the username and password can now be h",
    "image": null
+  },
+  {
+   "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+   "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+   "date": "2026-09-26T10:30:00.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg"
+  },
+  {
+   "title": "The Drop Times: amazee.io and amazee.ai Bring Shadow AI and Sovereign Infrastructure to DrupalCon Rotterdam",
+   "link": "https://www.thedroptimes.com/72500/amazee-shadow-ai-sovereign-infrastructure?utm_source=Drupal Planet",
+   "date": "2026-09-26T10:04:19.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "AI becomes a different infrastructure problem once organisations need to know where data goes, which models are approved, and how spending is controlled. amazee.ai and Tag1 will bring those questions to DrupalCon Rotterd",
+   "image": null
+  },
+  {
+   "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+   "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+   "date": "2026-09-26T09:55:22.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg"
+  },
+  {
+   "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+   "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+   "date": "2026-09-26T08:49:53.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg"
+  },
+  {
+   "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+   "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+   "date": "2026-09-26T07:48:33.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks re",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
   },
   {
    "title": "Christophe Pettus: All Your GUCs in a Row: max_slot_wal_keep_size",
@@ -202,16 +272,6 @@
    "image": null
   },
   {
-   "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-   "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-   "date": "2026-09-25T10:35:55.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized tr",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
-  },
-  {
    "title": "The Drop Times: Gina Plat and Teun van der Vorm: Map Dependencies Before Pursuing Digital Sovereignty",
    "link": "https://www.thedroptimes.com/interview/72484/digital-sovereignty-dependency-mapping-open-source?utm_source=Drupal Planet",
    "date": "2026-09-25T10:33:07.000Z",
@@ -220,16 +280,6 @@
    "source": "Drupal Planet",
    "summary": "Digital sovereignty does not begin with replacing software. It begins with knowing which services an organisation depends on, who controls them, and what it would cost to leave.",
    "image": null
-  },
-  {
-   "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-   "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-   "date": "2026-09-25T10:14:02.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authe",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
   },
   {
    "title": "Drupal AI Initiative: Introducing our official Drupal AI Initiative training program: AI Inside Drupal Essentials",
@@ -262,16 +312,6 @@
    "image": "https://github.com/fabpot.png"
   },
   {
-   "title": "The Drop Times: DrupalCon Rotterdam Speakers Trace the Structure Behind AI, Personalisation, and Scale",
-   "link": "https://www.thedroptimes.com/72454/rotterdam-structure-ai-personalisation-scale?utm_source=Drupal Planet",
-   "date": "2026-09-25T08:12:28.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Some Drupal problems begin with too much rather than too little: too much legacy HTML, hundreds of career choices and brand sites, or code generated faster than teams can understand it. These Rotterdam sessions examine t",
-   "image": null
-  },
-  {
    "title": "New in Symfony 8.2: Faster Messenger Workers",
    "link": "https://symfony.com/blog/new-in-symfony-8-2-faster-messenger-workers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
    "date": "2026-09-25T07:07:00.000Z",
@@ -280,36 +320,6 @@
    "source": "Symfony Blog",
    "summary": "Parallel Message Processing Contributed by Nicolas Grekas in #63650…",
    "image": "https://connect.symfony.com/profile/nicolas-grekas.picture"
-  },
-  {
-   "title": "The Drop Times: DrupalCon Rotterdam Speakers Put AI, Workflows, and Accessibility Into Practice",
-   "link": "https://www.thedroptimes.com/72428/rotterdam-ai-workflows-accessibility-review?utm_source=Drupal Planet",
-   "date": "2026-09-25T06:14:47.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "For several DrupalCon Rotterdam sessions, the useful question is not simply whether Drupal teams can automate more. It is where automation should stop, where review should begin, and what people still have to judge for t",
-   "image": null
-  },
-  {
-   "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-   "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-   "date": "2026-09-25T04:49:22.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk s",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg"
-  },
-  {
-   "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-   "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-   "date": "2026-09-25T04:46:34.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based o",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
   },
   {
    "title": "Memoize Tagged Cache Reads in Laravel",
@@ -392,16 +402,6 @@
    "image": null
   },
   {
-   "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-   "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-   "date": "2026-09-24T18:10:18.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain ro",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
-  },
-  {
    "title": "Fragments: September 24",
    "link": "https://martinfowler.com/fragments/2026-09-24.html",
    "date": "2026-09-24T15:35:00.000Z",
@@ -409,16 +409,6 @@
    "themeName": "Design Patterns",
    "source": "Martin Fowler",
    "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wi",
-   "image": null
-  },
-  {
-   "title": "PHP 8.4.26 Released!",
-   "link": "https://www.php.net/index.php#2026-09-24-5",
-   "date": "2026-09-24T15:26:06.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.4.26. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.26 please visit our , ",
    "image": null
   },
   {
@@ -439,16 +429,6 @@
    "themeName": "IA",
    "source": "Hugging Face",
    "summary": "",
-   "image": null
-  },
-  {
-   "title": "PHP 8.2.34 Released!",
-   "link": "https://www.php.net/index.php#2026-09-24-4",
-   "date": "2026-09-24T13:53:04.000Z",
-   "theme": "php",
-   "themeName": "PHP",
-   "source": "PHP.net",
-   "summary": "The PHP development team announces the immediate availability of PHP 8.2.34. This is a security release. All PHP 8.2 users are encouraged to upgrade to this version. For source downloads of PHP 8.2.34 please visit our , ",
    "image": null
   },
   {
@@ -932,6 +912,16 @@
    "image": null
   },
   {
+   "title": "PHPBenelux Conference 2027, Antwerp Belgium",
+   "link": "https://www.php.net/conferences/index.php#2026-09-09-1",
+   "date": "2026-09-09T20:40:47.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHPBenelux Conferencesubmit your proposal today!",
+   "image": null
+  },
+  {
    "title": "Social Media Engagement: summer 2026",
    "link": "https://martinfowler.com/articles/2026-social-traffic.html",
    "date": "2026-09-09T16:21:00.000Z",
@@ -989,6 +979,16 @@
    "themeName": "PHP",
    "source": "stitcher.io",
    "summary": "Read the full post on https://stitcher.io/blog/no-more-issues",
+   "image": null
+  },
+  {
+   "title": "PHP Conference Ehime 2026",
+   "link": "https://www.php.net/conferences/index.php#2026-09-02-1",
+   "date": "2026-09-02T14:30:00.000Z",
+   "theme": "php",
+   "themeName": "PHP",
+   "source": "PHP.net",
+   "summary": "PHP Conference Ehime will be held for the first time on October 3, 2026 (JST), at Ehime University Johoku Campus in Matsuyama City, Ehime Prefecture, Japan.🍊 The theme of the conference is \"技術愛とコミュニティ愛と愛媛愛と\": love for t",
    "image": null
   },
   {
