@@ -1,85 +1,105 @@
 {
- "generatedAt": "2026-09-26T14:57:34.939Z",
+ "generatedAt": "2026-09-26T19:48:33.691Z",
  "articles": [
   {
-   "title": "SQLite in production with Prisma and pm2: how we fixed \"database is locked\"",
-   "link": "https://dev.to/escrozon/sqlite-in-production-with-prisma-and-pm2-how-we-fixed-database-is-locked-83p",
-   "date": "2026-09-26T14:47:56.000Z",
+   "title": "Rewriting a million rows when the only acceptable diff is zero bytes",
+   "link": "https://dev.to/daniel_pertu/rewriting-a-million-rows-when-the-only-acceptable-diff-is-zero-bytes-8n2",
+   "date": "2026-09-26T19:15:52.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "We run Escrozon, an escrow marketplace for digital assets, on Next.js with Prisma and a single SQLite file. SQLite suits a small production app well: one file, no database server to look after, and fast reads. But for a ",
+   "summary": "Munchable's catalogue is a bit over a million product rows in a Postgres on a 0.5 GB quota. Space is the constraint that shapes almost everything about it, which is how I ended up measuring what was actually in the ingre",
    "image": null
   },
   {
-   "title": "Building Data Pipes for Forest and Environmental Monitoring",
-   "link": "https://dev.to/ema9/building-data-pipes-for-forest-and-environmental-monitoring-30c1",
-   "date": "2026-09-26T14:41:42.000Z",
+   "title": "Atlassian Implements Rigid Cloud Configuration Limits: What It Means for Enterprise Jira Hygiene",
+   "link": "https://dev.to/isuvo/atlassian-implements-rigid-cloud-configuration-limits-what-it-means-for-enterprise-jira-hygiene-5g95",
+   "date": "2026-09-26T19:15:02.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Building Data Pipes for Forest and Environmental Monitoring It is turning into a data engineering problem all the time. A forest-monitoring system should be able to integrate data from a variety of sources: sensors, weat",
+   "summary": "Introduction For years, enterprise Jira administrators have treated Atlassian’s \"scale limits\" and \"recommended guardrails\" as polite suggestions rather than hard boundaries. When an engineering team demanded a custom fi",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flln3koryz4qc48c6tq8m.jpg"
+  },
+  {
+   "title": "Custom Software Development in 2026: How Enterprises Are Building AI-Powered Business Platforms",
+   "link": "https://dev.to/zakirs/custom-software-development-in-2026-how-enterprises-are-building-ai-powered-business-platforms-1c60",
+   "date": "2026-09-26T19:11:02.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "Custom Software Development in 2026: How Enterprises Are Building AI-Powered Business Platforms Software development is changing faster than most businesses can adapt. For years, enterprises invested in traditional web a",
    "image": null
   },
   {
-   "title": "Kubernetes Email Smoke Tests Need a Cleanup Contract",
-   "link": "https://dev.to/jasonmills94/kubernetes-email-smoke-tests-need-a-cleanup-contract-55h3",
-   "date": "2026-09-26T14:23:34.000Z",
+   "title": "Enterprise AI Governance: The Missing Layer in AI-Accelerated Development",
+   "link": "https://dev.to/suresh_hatti_8f71201ead92/enterprise-ai-governance-the-missing-layer-in-ai-accelerated-development-2ogc",
+   "date": "2026-09-26T19:10:01.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "Email smoke tests are good at exposing the failures that unit tests miss: a worker cannot reach the provider, a template renders the wrong environment URL, or a verification message arrives too late for the release job. ",
+   "summary": "In the current AI world, Artificial Intelligence is changing how the products are built and software development is done. Engineering team use tools like Claude, ChatGPT, Copilot to code, write Unit Test cases, Understan",
+   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi0n1ngouv0dxjlt60bbx.png"
+  },
+  {
+   "title": "What Actually Happens When You Run kubectl apply",
+   "link": "https://dev.to/muskan_bandta/what-actually-happens-when-you-run-kubectl-apply-3c04",
+   "date": "2026-09-26T18:58:06.000Z",
+   "theme": "devops",
+   "themeName": "DevOps",
+   "source": "dev.to #devops",
+   "summary": "You type kubectl apply -f deployment.yaml, it says created, and a few seconds later your app is running. It feels like magic, and because it feels like magic, most people never learn what happens in between, which is exa",
    "image": null
   },
   {
-   "title": "Why Java Containers Die Silently: Fixing Docker OOM Kills",
-   "link": "https://dev.to/doogal/why-java-containers-die-silently-fixing-docker-oom-kills-14n8",
-   "date": "2026-09-26T14:22:50.000Z",
+   "title": "Fix: kubectl exec fails with 'connection refused' — 5 real causes",
+   "link": "https://dev.to/aiunplugged/fix-kubectl-exec-fails-with-connection-refused-5-real-causes-1fim",
+   "date": "2026-09-26T18:56:13.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "If your Java process inside Docker is abruptly terminating without generating any logs, you are likely hitting an Out-Of-Memory (OOM) kill from the container runtime. This happens when your container memory limit is set ",
+   "summary": "Trying to exec into a running pod and Kubernetes refuses: error: unable to upgrade connection: pod does not exist Or: Error from server: error dialing backend: dial tcp 10.42.0.7:10250: connect: connection refused The po",
    "image": null
   },
   {
-   "title": "Migrating from WindTerm to VsTerm — one SSH session for shell, files, and a few ops checks",
-   "link": "https://dev.to/vesaa/migrating-from-windterm-to-vsterm-one-ssh-session-for-shell-files-and-a-few-ops-checks-5f",
-   "date": "2026-09-26T14:06:19.000Z",
+   "title": "A nightly Postgres backup for $0, and the four things that break it",
+   "link": "https://dev.to/daniel_pertu/a-nightly-postgres-backup-for-0-and-the-four-things-that-break-it-gkp",
+   "date": "2026-09-26T18:43:37.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "I used WindTerm for a long time. It is fine at the shell. My friction was everything around the shell: open SFTP in another window, rz/sz in a third habit, then jump to a browser when a host “feels wrong” on the network ",
+   "summary": "CogniPrep's database is on Supabase's free plan, which provides no managed backups. For a product with paying customers that is not a state you can leave alone, and the paid tiers were not where the money needed to go ye",
    "image": null
   },
   {
-   "title": "Build Synthetic Shadow Traffic Gates for AI API Route Changes",
-   "link": "https://dev.to/aiwave/build-synthetic-shadow-traffic-gates-for-ai-api-route-changes-5029",
-   "date": "2026-09-26T13:55:38.000Z",
+   "title": "Marketplace DNS Change: 4 Resolver Checks When Old Caches Block Its Effect",
+   "link": "https://dev.to/jaxmonroe3187/marketplace-dns-change-4-resolver-checks-when-old-caches-block-its-effect-4i5k",
+   "date": "2026-09-26T18:32:42.000Z",
    "theme": "devops",
    "themeName": "DevOps",
    "source": "dev.to #devops",
-   "summary": "AI API route changes are rarely simple config edits. A provider adds a new model, a gateway changes a cache ratio, a team wants to move a coding workload to a smaller route, or an incident pushes you toward a fallback. T",
-   "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8nclm35igdol77k9ippc.png"
-  },
-  {
-   "title": "How to Safely Deduplicate Microsoft OneDrive Without Cloud Rehydration Storms",
-   "link": "https://dev.to/prismmigration/how-to-safely-deduplicate-microsoft-onedrive-without-cloud-rehydration-storms-18ii",
-   "date": "2026-09-26T13:45:31.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "If you manage personal or company storage on Microsoft OneDrive, you've likely encountered the slow, creeping problem of storage bloat: duplicate files accumulating across sync folders, team shares, and local backups. Ho",
+   "summary": "Lower the TTL before a marketplace subdomain cutover, not after it. If the old, long TTL was already cached when shop-42.example.com changed, lowering the authoritative value cannot shorten that existing cache entry. TL;",
    "image": null
   },
   {
-   "title": "Cómo solucionar `docker run` con `Exited (1)` en Raspberry Pi",
-   "link": "https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exited-1-en-raspberry-pi-nh",
-   "date": "2026-09-26T13:33:37.000Z",
-   "theme": "devops",
-   "themeName": "DevOps",
-   "source": "dev.to #devops",
-   "summary": "Cómo solucionar docker run con Exited (1) en Raspberry Pi ¿Por qué ocurre este error? El código de salida 1 indica que el proceso principal del contenedor (PID 1) terminó con un error genérico. En Raspberry Pi, los casos",
-   "image": null
+   "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+   "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+   "date": "2026-09-26T18:22:52.000Z",
+   "theme": "securite",
+   "themeName": "Sécurité / Hack",
+   "source": "The Hacker News",
+   "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings co",
+   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
+  },
+  {
+   "title": "HOOK_DEV_ALTER(): PHP Structured Concurrency and Beyond (3): structured state, and why its absence breaks concurrency",
+   "link": "https://www.hook-dev-alter.com/en/articles/php-structured-concurrency-and-beyond-3-structured-state-and-why-its-absence-breaks",
+   "date": "2026-09-26T15:00:00.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Every framework service that holds state is a bug under fibers. The current fix is to switch concurrency off. There is a third option.",
+   "image": "https://www.hook-dev-alter.com/sites/default/files/styles/rss_feed/public/2026-09/Cup%20cascade.png?itok=wttJvmIV"
   },
   {
    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
@@ -162,6 +182,16 @@
    "image": null
   },
   {
+   "title": "Mikhail Shytsko: Our Interleaved Backfill Wrote Three Times the WAL",
+   "link": "https://postgr.es/p/9vJ",
+   "date": "2026-09-26T00:00:00.000Z",
+   "theme": "database",
+   "themeName": "Bases de données",
+   "source": "Planet PostgreSQL",
+   "summary": "TypeSafe opened early access to its Jev model on 15 September 2026, pricing input at $0.042 per million tokens and listing output tokens as free, so at our own estimate of 150 input tokens a support ticket, labelling ten",
+   "image": "https://seedfa.st/blog/postgres-backfill-large-table-2.svg"
+  },
+  {
    "title": "HOOK_DEV_ALTER(): PHP Structured Concurrency and Beyond (2): ownership, and why its absence breaks persistent servers",
    "link": "https://www.hook-dev-alter.com/en/articles/php-structured-concurrency-and-beyond-2-ownership-and-why-its-absence-breaks-persistent",
    "date": "2026-09-25T18:00:00.000Z",
@@ -200,6 +230,16 @@
    "source": "The Hacker News",
    "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHu",
    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
+  },
+  {
+   "title": "Drupal Starshot blog: Drupal CMS 2.2: Multilingual, out of the box",
+   "link": "https://www.drupal.org/about/initiatives/cms/blog/drupal-cms-22-multilingual-out-of-the-box",
+   "date": "2026-09-25T14:31:28.000Z",
+   "theme": "drupal",
+   "themeName": "Drupal",
+   "source": "Drupal Planet",
+   "summary": "Drupal CMS 2.2.0 is out, and this release is all about multilingual. Setting up a site to publish in multiple languages has always been possible in Drupal, but it was not easy. With 2.2, we've tackled the biggest pain po",
+   "image": null
   },
   {
    "title": "Umair Shahid: Your Postgres Database Is Slow, and It Isn’t Postgres",
@@ -252,16 +292,6 @@
    "image": null
   },
   {
-   "title": "The SOC Doesn't Need to Start Over with Every Alert",
-   "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-   "date": "2026-09-25T11:30:00.000Z",
-   "theme": "securite",
-   "themeName": "Sécurité / Hack",
-   "source": "The Hacker News",
-   "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like th",
-   "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
-  },
-  {
    "title": "Andrew Atkinson: Let’s Get Down to Business with Rails and PostgreSQL",
    "link": "https://postgr.es/p/9vG",
    "date": "2026-09-25T10:40:00.000Z",
@@ -269,26 +299,6 @@
    "themeName": "Bases de données",
    "source": "Planet PostgreSQL",
    "summary": "I’m happy to share that I was a guest on the Rails Business podcast and the episode is now live. Here’s a recap of the topics we discussed. Engineering Work at Aura We spent most of the time discussing engineering work l",
-   "image": null
-  },
-  {
-   "title": "The Drop Times: Gina Plat and Teun van der Vorm: Map Dependencies Before Pursuing Digital Sovereignty",
-   "link": "https://www.thedroptimes.com/interview/72484/digital-sovereignty-dependency-mapping-open-source?utm_source=Drupal Planet",
-   "date": "2026-09-25T10:33:07.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "Digital sovereignty does not begin with replacing software. It begins with knowing which services an organisation depends on, who controls them, and what it would cost to leave.",
-   "image": null
-  },
-  {
-   "title": "Drupal AI Initiative: Introducing our official Drupal AI Initiative training program: AI Inside Drupal Essentials",
-   "link": "https://www.drupal.org/about/ai/initiatives/blog/introducing-our-official-drupal-ai-initiative-training-program-ai-inside-drupal-essentials",
-   "date": "2026-09-25T10:12:29.000Z",
-   "theme": "drupal",
-   "themeName": "Drupal",
-   "source": "Drupal Planet",
-   "summary": "As we see our goals for Drupal AI innovation under responsible human guidance flourishing at such a remarkable pace, we recognize a growing community need for practical, responsible ways to learn it. We’re excited to ann",
    "image": null
   },
   {
@@ -500,16 +510,6 @@
    "source": "Laravel News",
    "summary": "Laravel's new Refreshes attribute reloads storedAs and virtualAs columns after create() and update(), so the model has the database value without refresh(). The post Eloquent Refreshes: Load Generated Columns After Save ",
    "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/eloquent-refreshes-featured.png"
-  },
-  {
-   "title": "Robert Haas: Hacking Workshop for October 2026",
-   "link": "https://postgr.es/p/9vB",
-   "date": "2026-09-23T19:16:42.000Z",
-   "theme": "database",
-   "themeName": "Bases de données",
-   "source": "Planet PostgreSQL",
-   "summary": "October's hacking workshop will cover my talk, pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL?. If you're interesting in joining us, please sign up using this form and I will send you an invite to",
-   "image": null
   },
   {
    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
